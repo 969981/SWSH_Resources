@@ -42,6 +42,18 @@ python scripts/export_inventory.py --root "X:\ROMS\Nintendo Switch\Pokemon\Pokem
 
 Use `--skip-hash` for a faster preliminary inventory, but un-hashed rows cannot support a confirmed identity comparison. The source scanner is read-only.
 
+## ROMFS archive workflow
+
+Windows PowerShell scripts in `scripts/` copy the Sword v1.3.2 RomFS into `v1.3.2/1/`, preserve its relative paths, and record source hashes in `docs/sword-v1.3.2-archive-manifest.csv`. Files up to 90 MiB remain uncompressed; larger files are archived individually as 90 MiB 7-Zip volumes. Compression outputs are tested and extracted to confirm the restored SHA-256 before they enter the target tree. Checkpoints and logs stay outside the repository.
+
+```powershell
+.\scripts\Copy-SWSH-Romfs.ps1
+.\scripts\Verify-SWSH-Romfs.ps1
+.\scripts\Push-SWSH-Romfs.ps1
+```
+
+The copy and push scripts support `-WhatIf`; the push script creates bounded, independently pushed batches. See the generated archive report for the result of a particular run.
+
 ## Research navigation
 
 - [Documentation home](docs/README.md)

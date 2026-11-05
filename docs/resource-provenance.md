@@ -27,6 +27,12 @@ Compare normalized `0/` or `1/` relative paths for equivalent file positions; re
 
 The object above is a **template**, not a populated record. Never use placeholders as factual hashes.
 
+## ROMFS copy and archive procedure
+
+`scripts/Copy-SWSH-Romfs.ps1` uses the matching Sword inventory SHA-256 as the expected source identity, copies files up to 90 MiB without modification, and archives each larger file separately with 7-Zip 90 MiB volumes. It verifies each archive by testing and extracting it, then comparing the restored size and SHA-256 before moving volumes into `v1.3.2/1/`. The generated `docs/sword-v1.3.2-archive-manifest.csv` records source paths, hashes, processing state and output paths. `scripts/Verify-SWSH-Romfs.ps1` checks the complete source-to-output mapping; `scripts/Push-SWSH-Romfs.ps1` publishes only verified outputs in bounded batches. Runtime checkpoints and logs belong outside the repository.
+
+Reproduce from Windows PowerShell with `scripts/Copy-SWSH-Romfs.ps1`, then `scripts/Verify-SWSH-Romfs.ps1`, then `scripts/Push-SWSH-Romfs.ps1`. A successful copy or archive check establishes byte identity with the local inventory; it does not establish a license to distribute the game data.
+
 ## Evidence labels
 - `CONFIRMED`: sourced from an exact file hash / verified parser output / executable or runtime trace.
 - `CANDIDATE`: plausible but not demonstrated.
