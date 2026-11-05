@@ -292,14 +292,16 @@ while ($queue.Count -gt 0 -or $running.Count -gt 0) {
     }
 }
 
+$directSubpaths = New-Object "System.Collections.Generic.HashSet[string]" ([System.StringComparer]::OrdinalIgnoreCase)
 foreach ($item in $directInfo) {
     if ($item.Record.verification_status -eq "VERIFIED") {
-        $sidecarBase = (Join-Path $DestinationRoot $item.Record.source_subpath.Replace("/", "\")) + ".7z"
-        $sidecarDir = Split-Path -Parent $sidecarBase
-        foreach ($old in (Get-SWSHArchiveVolumes -Directory $sidecarDir -ArchiveBaseName (Split-Path -Leaf $sidecarBase))) {
-            Remove-Item -LiteralPath $old.FullName -Force
-        }
+        [void]$directSubpaths.Add((ConvertTo-SWSHRelativePath $item.Record.source_subpath))
     }
+}
+foreach ($volume in (Get-ChildItem -LiteralPath $DestinationRoot -File -Recurse -Filter "*.7z.*" -Force -ErrorAction SilentlyContinue)) {
+    $relativeVolume = ConvertTo-SWSHRelativePath ($volume.FullName.Substring($DestinationRoot.Length).TrimStart("\"))
+    $originalRelative = [regex]::Replace($relativeVolume, "\.7z\.\d+$", "", [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if ($directSubpaths.Contains($originalRelative)) { Remove-Item -LiteralPath $volume.FullName -Force }
 }
 
 $manifestRows = @($records | Sort-Object relative_path)

@@ -25,7 +25,7 @@ $statePath = Join-Path $StateRoot "push-checkpoint.json"
 New-Item -ItemType Directory -Path $logDirectory -Force -WhatIf:$false | Out-Null
 
 function Invoke-Git([string[]]$Arguments, [string]$Name, [string]$InputText = $null) {
-    $result = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments (@("-C", $RepositoryRoot) + $Arguments) -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName $Name -StandardInputText $InputText
+    $result = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments (@("-C", $RepositoryRoot, "-c", "core.compression=1") + $Arguments) -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName $Name -StandardInputText $InputText
     if ($result.ExitCode -ne 0) {
         throw "Git command failed (exit $($result.ExitCode)): git $($Arguments -join ' '). $($result.StdErr)"
     }
@@ -123,7 +123,7 @@ if ($state.pending_batch) {
         $parent = Get-GitText @("rev-parse", "HEAD^") "pending-parent"
         if ($parent -ne $remoteHead) { throw "Remote changed after pending batch; stop and reconcile before pushing." }
         if (-not (Test-PushAction -Target $remoteShort -Action "Resume push of batch $($pending.batch)")) { return }
-        $retry = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("push-retry-" + $pending.batch)
+        $retry = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "-c", "core.compression=1", "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("push-retry-" + $pending.batch)
         if ($retry.ExitCode -ne 0) { throw "Retry push failed for batch $($pending.batch): $($retry.StdErr)" }
         Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "fetch", "origin") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("fetch-retry-" + $pending.batch) | Out-Null
         $remoteHead = Get-GitText @("rev-parse", $remoteRef) "remote-head-retry"
@@ -275,7 +275,7 @@ for ($batchIndex = 0; $batchIndex -lt $batches.Count; $batchIndex++) {
     }
     $state.pending_batch = $pendingRecord
     Save-PushState $state
-    $push = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("push-" + $batchNumber)
+    $push = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "-c", "core.compression=1", "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("push-" + $batchNumber)
     if ($push.ExitCode -ne 0) { throw "Push failed for batch $batchNumber. Commit $commitSha remains local; inspect remote and retry safely. $($push.StdErr)" }
     $afterFetch = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "fetch", "origin") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName ("confirm-fetch-" + $batchNumber)
     if ($afterFetch.ExitCode -ne 0) { throw "Push returned success but fetch confirmation failed for batch $batchNumber." }
@@ -335,7 +335,7 @@ if (-not [string]::IsNullOrEmpty($finalStaged)) {
     $finalCommitSha = Get-GitText @("rev-parse", "HEAD") "final-commit-sha"
     $finalObjectUpperBound = Get-PendingObjectUpperBound -RemoteRef $remoteShort -BatchTag "final"
     if ($finalObjectUpperBound -ge $PushHardLimitBytes) { throw "Final metadata push exceeds the hard push-size limit." }
-    $finalPush = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName "push-final-metadata"
+    $finalPush = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "-c", "core.compression=1", "push", "origin", "HEAD:refs/heads/$branch") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName "push-final-metadata"
     if ($finalPush.ExitCode -ne 0) { throw "Final metadata push failed. Commit $finalCommitSha remains local. $($finalPush.StdErr)" }
     $confirmFinal = Invoke-SWSHNativeProcess -FilePath $GitExe -Arguments @("-C", $RepositoryRoot, "fetch", "origin") -WorkingDirectory $RepositoryRoot -LogRoot $logDirectory -LogName "fetch-final-metadata"
     if ($confirmFinal.ExitCode -ne 0) { throw "Final metadata push confirmation fetch failed." }

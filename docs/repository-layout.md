@@ -15,6 +15,7 @@ SWSH_Resources/
 │     ├─ sdk
 │     ├─ subsdk0
 │     └─ subsdk1
+├─ v1.3.2/1/              # Sword RomFS: direct files and per-file 7-Zip volumes
 ├─ docs/
 ├─ scripts/
 ├─ tests/
@@ -23,7 +24,7 @@ SWSH_Resources/
 └─ tools/
 ```
 
-`0/` = ExeFS. The full inventory CSV additionally records an extracted NCA `1/` RomFS tree, but those source bytes have not been committed here.
+`0/` = ExeFS. `v1.3.2/1/` contains the Sword RomFS outputs corresponding to all 50,494 inventory rows. Files up to 90 MiB are direct copies; larger files are archived individually into 90 MiB 7-Zip volumes. `docs/sword-v1.3.2-archive-manifest.csv` records the source SHA-256 and output paths. Shield RomFS bytes are not included.
 
 ## Original extraction roots
 - Sword inventory root: `f13bc7b678b5c86998ff4e847e180142_NCA/`

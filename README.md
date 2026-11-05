@@ -6,7 +6,7 @@ Reproducible resource inventory and research workspace for **Pokémon Sword / Sh
 
 - `sword_1.3.2_file_inventory_full.csv` and `shield_1.3.2_file_inventory_full.csv` are SHA-256 file inventories captured from two local extractions.
 - `v1.3.2/0/` contains the checked-in ExeFS subset: Sword/Shield `main`, their `main.npdm`, plus four shared modules. These names are prefixed as `sword_` and `shield_` to avoid collision.
-- The complete RomFS source trees **are not currently checked into this repository**, even though the inventories list them.
+- Sword v1.3.2 RomFS outputs are stored under `v1.3.2/1/`: files up to 90 MiB are copied directly, and larger files are archived individually as split 7-Zip volumes. Shield RomFS remains inventory-only.
 - Current inventory-level finding: 50,500 entries in each version; 50,498 normalized-path matches have the same SHA-256; only `0/main` and `0/main.npdm` differ. See [research evidence](docs/research/sword-vs-shield-1.3.2.md).
 
 ## Repository layout
