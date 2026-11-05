@@ -1,0 +1,21 @@
+# Generated local inspection outputs (do not blanket-ignore source v1.3.2 or source CSVs)
+/artifacts/
+/.cache/
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.bak
+*.swp
+# Local restore/caches; source and explicitly selected Unpack outputs are governed by AGENTS.md
+/scratch/
+/work/
+/tmp/
+/.obsidian/workspace*

@@ -1,0 +1,41 @@
+name: SWSH inventory tooling and evidence checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  synthetic-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Syntax checks
+        run: python -m compileall -q scripts tests
+      - name: Synthetic tests
+        run: python -m unittest discover -s tests -v
+
+  compare-inventories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compare original Sword and Shield inventories
+        run: >-
+          python scripts/compare_inventories.py
+          --sword sword_1.3.2_file_inventory_full.csv
+          --shield shield_1.3.2_file_inventory_full.csv
+          --out-dir artifacts/swsh-compare --fail-on-unverified
+      - uses: actions/upload-artifact@v4
+        with:
+          name: swsh-inventory-diff
+          path: artifacts/swsh-compare/
+          if-no-files-found: error
