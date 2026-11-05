@@ -18,7 +18,7 @@
 - Extra output files: 0
 - Git batches: 28
 - Successful commits: 28
-- Successful pushes: 8
+- Successful pushes: 28 data batches
 - Unpushed batches: 0
 
 Final status: PASS

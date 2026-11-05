@@ -107,6 +107,9 @@ try {
     Assert-True ([string]::IsNullOrWhiteSpace($stagedAfterWhatIf)) "Push WhatIf staged files."
     $pushResult = & $pushScript -RepositoryRoot $repo -ManifestPath $manifest -ReportPath $report -StateRoot $pushState -GitExe $gitExe -BatchTargetBytes 1048576 -BatchMaxBytes 2097152 -BatchMaxFiles 2 -PushHardLimitBytes 20971520
     Assert-True ($pushResult.UnpushedRows -eq 0) "Push script left synthetic manifest rows unpushed."
+    Assert-True ($pushResult.GitBatches -eq $pushPlan.PlannedBatches) "Push script did not report all synthetic data batches."
+    Assert-True ($pushResult.SuccessfulCommits -eq $pushPlan.PlannedBatches) "Push script did not report cumulative data commits."
+    Assert-True ($pushResult.SuccessfulPushes -eq $pushPlan.PlannedBatches) "Push script did not report cumulative data pushes."
     $remoteHead = (Invoke-TestGit $bareRemote @("rev-parse", "refs/heads/master")).StdOut.Trim()
     $localHead = (Invoke-TestGit $repo @("rev-parse", "HEAD")).StdOut.Trim()
     Assert-True ($remoteHead -eq $localHead) "Synthetic remote did not receive the final commit."
