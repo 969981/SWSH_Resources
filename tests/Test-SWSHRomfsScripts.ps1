@@ -99,12 +99,13 @@ try {
     Invoke-TestGit $repo @("push", "-u", "origin", "master") | Out-Null
     $pushState = Join-Path $testRoot "push-state"
     $headBeforeWhatIf = (Invoke-TestGit $repo @("rev-parse", "HEAD")).StdOut.Trim()
-    & $pushScript -RepositoryRoot $repo -ManifestPath $manifest -ReportPath $report -StateRoot $pushState -GitExe $gitExe -BatchTargetBytes 1048576 -BatchMaxBytes 2097152 -PushHardLimitBytes 20971520 -WhatIf | Out-Null
+    $pushPlan = & $pushScript -RepositoryRoot $repo -ManifestPath $manifest -ReportPath $report -StateRoot $pushState -GitExe $gitExe -BatchTargetBytes 1048576 -BatchMaxBytes 2097152 -BatchMaxFiles 2 -PushHardLimitBytes 20971520 -WhatIf
+    Assert-True ($pushPlan.PlannedBatches -ge 3) "Push WhatIf did not split batches at the file-count limit."
     $headAfterWhatIf = (Invoke-TestGit $repo @("rev-parse", "HEAD")).StdOut.Trim()
     Assert-True ($headAfterWhatIf -eq $headBeforeWhatIf) "Push WhatIf changed local Git history."
     $stagedAfterWhatIf = (Invoke-TestGit $repo @("diff", "--cached", "--name-only")).StdOut
     Assert-True ([string]::IsNullOrWhiteSpace($stagedAfterWhatIf)) "Push WhatIf staged files."
-    $pushResult = & $pushScript -RepositoryRoot $repo -ManifestPath $manifest -ReportPath $report -StateRoot $pushState -GitExe $gitExe -BatchTargetBytes 1048576 -BatchMaxBytes 2097152 -PushHardLimitBytes 20971520
+    $pushResult = & $pushScript -RepositoryRoot $repo -ManifestPath $manifest -ReportPath $report -StateRoot $pushState -GitExe $gitExe -BatchTargetBytes 1048576 -BatchMaxBytes 2097152 -BatchMaxFiles 2 -PushHardLimitBytes 20971520
     Assert-True ($pushResult.UnpushedRows -eq 0) "Push script left synthetic manifest rows unpushed."
     $remoteHead = (Invoke-TestGit $bareRemote @("rev-parse", "refs/heads/master")).StdOut.Trim()
     $localHead = (Invoke-TestGit $repo @("rev-parse", "HEAD")).StdOut.Trim()
