@@ -139,7 +139,8 @@ def run(args: argparse.Namespace) -> int:
     jobs = [(i, part, work, output, decoder, args.decoder_threads) for i, part in enumerate(partitions) if part]
     results = list(failures)
     with cf.ThreadPoolExecutor(max_workers=args.cpu_processes) as pool:
-        for index, decoded, rc, log in cf.as_completed([pool.submit(run_decoder, job) for job in jobs]):
+        for finished in cf.as_completed([pool.submit(run_decoder, job) for job in jobs]):
+            index, decoded, rc, log = finished.result()
             # Each decoder writes its own independent JSONL; all records are merged and checked below.
             results.extend(decoded)
             if rc:
