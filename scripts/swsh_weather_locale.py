@@ -60,7 +60,7 @@ def parse_zones(text):
     return out
 
 def parse_flag_enums(text):
-    m=re.search(r"private enum SWSHEncounterType\s*\{(.*?)\n\s*\}",text,re.S)
+    m=re.search(r"private enum SWSHEncounterType\b[^\{]*\{(.*?)\n\s*\}",text,re.S)
     if not m: raise ValueError("pkNX flag enum not found")
     values={}
     def expr(value):
