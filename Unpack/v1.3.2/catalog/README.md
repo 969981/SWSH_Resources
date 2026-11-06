@@ -11,6 +11,15 @@
 - `wild_zone_index.csv`：372 张地图表（186 个不同 ZoneID），372/372 成功命名。
 - `wild_mapping_summary.json`：按成员核对版本限定物种、来源文件 SHA-256 和各项统计。数据由 `scripts/enrich_swsh_wild_encounters.py` 生成。
 
-天气子表存在不等于该天气在地图内合法；有效遭遇规则仍需要应用 pkNX `EncounterTable8Util.IsPermittedWeather`。地名优先保留上游英文字段，不冒充已验证的简体中文官方名。
+天气子表存在不等于该天气在地图内合法。新工具已依据 pkNX `EncounterTable8Util.IsPermittedWeather` 导出天气候选并严格分开保存原样逻辑和当前天气位对照。中文地名则已依据简体中文原版 `place_name_indirect.dat.json` 的索引关联，全部 372 张地区表可用。
 
 其它原生数据：`static_encounters.csv`、`gift_encounters.csv`、`trade_encounters.csv`、`item_properties.csv`、`nso_segments.csv` 和 `nso_shiny_candidates.csv`。静态重掷函数候选不等于经过 GDB 验证的实时锁闪函数。
+
+## 官方简体中文与地区天气审计
+
+- `zone_id_zh_cn_dictionary.csv`：196 个 pkNX ZoneID 的官方中英文消息文本、数字位置 ID、消息 flags 与场景类型；涉及 69 个不同原版消息索引。
+- `wild_zone_bilingual.csv`：372 行原地区表，附原版简体中文地名和原始消息索引。
+- `wild_weather_candidates.csv`：35,960 行原始遭遇槽位扩展天气许可及天气渗透，两种位判断并存，均**不是已实机验证**。
+- `wild_weather_locale_summary.json`：完整源文件 SHA-256、分类计数、分歧及校验结果。
+
+其中基础有效槽位 16,928 行、按 pkNX 原文许可的候选槽位 10,965 行、按天气位对照的候选槽位 10,697 行，后两种逻辑存在 268 个基础有效槽位的分歧。脚本：`python scripts/swsh_weather_locale.py --repo .`。权威语义仍以动态验证为准，不能把候选数视为游戏内真实概率。
