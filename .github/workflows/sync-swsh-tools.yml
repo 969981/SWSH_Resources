@@ -120,8 +120,11 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git -C swsh add -A -- tools
-          git -C swsh diff --cached --check
+          # Keep upstream bytes verbatim (some upstream has trailing whitespace).
+          # Force-add exactly the six copied vendor trees even when a parent ignore
+          # pattern excludes existing upstream binary dependencies.
+          git -C swsh add -f -A -- tools/gftool tools/PokeDocs tools/pkNX tools/Switch-Toolbox tools/SCVI_Extract tools/nx2elf tools/upstream.json
+          git -C swsh diff --cached --check -- tools/upstream.json
           if git -C swsh diff --cached --quiet; then
             echo 'All tool snapshots already match pinned source.'
             python swsh/scripts/verify_vendor_tools.py
