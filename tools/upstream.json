@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 3,
+  "checkedOn": "2026-11-06",
+  "sourceTracking": "pinned-full-vendor-tree-from-SV_Resources",
+  "tools": [
+    {
+      "name": "gftool",
+      "path": "tools/gftool",
+      "repository": "https://github.com/pkZukan/gftool.git",
+      "ref": "cac7a210fcbef5ecf1ee108c10d1a1bdddc4cd4c",
+      "upstreamBranch": "main",
+      "role": "Trinity/GF research reference; SWSH format support unverified",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "d7ae6ac67ef705b924d61bf3ae6c94920ac47d95",
+      "nestedVendors": [
+        {
+          "path": "NxMiddleware",
+          "repository": "https://github.com/Reisyukaku/NxMiddleware.git",
+          "ref": "aa6ab40e41118d2d025e7c34b604aeca3be1ccc2"
+        }
+      ],
+      "upstreamTreeSha": "18447b923a4ab27205b245913bd3c25eba39d7ad",
+      "localPatches": [
+        ".NET 10",
+        ".slnx",
+        "System.Drawing.Common 10.0.14"
+      ],
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    },
+    {
+      "name": "PokeDocs",
+      "path": "tools/PokeDocs",
+      "repository": "https://github.com/pkZukan/PokeDocs.git",
+      "ref": "242039cbcd9de3f5a424de5b68ae581f7bed2b23",
+      "upstreamBranch": "main",
+      "role": "SWSH schemas and format reference; verify against v1.3.2",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "96ea0ac5b5f7389e79578a7dcd783d6e48d8f66f",
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    },
+    {
+      "name": "pkNX",
+      "path": "tools/pkNX",
+      "repository": "https://github.com/kwsch/pkNX.git",
+      "ref": "d191cd0e5c05f2af81d9a41c1f1d82e6621b351a",
+      "upstreamBranch": "master",
+      "role": "Gen 8 Sword/Shield parsing and dump validation",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "002e3bc0deb752c9e0f075e3f499d3eaa4add7d9",
+      "upstreamTreeSha": "e0777e74dbfb5726a3bfc8101493a73ef9ea3013",
+      "localPatches": [
+        "Retain SV vendored pkNX modifications"
+      ],
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    },
+    {
+      "name": "Switch-Toolbox",
+      "path": "tools/Switch-Toolbox",
+      "repository": "https://github.com/KillzXGaming/Switch-Toolbox.git",
+      "ref": "3a3279140ca0fa54ce804a8d56d4653a491de613",
+      "upstreamBranch": "master",
+      "role": "Switch model, texture and container inspection where signatures match",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "ec1508a91f714c5a29e7b317146065b7e14f0273",
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    },
+    {
+      "name": "SCVI_Extract",
+      "path": "tools/SCVI_Extract",
+      "repository": "https://github.com/psthrn42/SCVI_Extract.git",
+      "ref": "0d4f817d0756257cd5ec1c8a680ae201e8b4eec5",
+      "upstreamBranch": "master",
+      "role": "SV-only legacy extraction comparison; not a verified SWSH extractor",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "33d0fd99e9a0787054b72b0593457161e2453bfa",
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    },
+    {
+      "name": "nx2elf",
+      "path": "tools/nx2elf",
+      "repository": "https://github.com/shuffle2/nx2elf.git",
+      "ref": "a1760ba54e2aefb41444933f53b90e6e8b05c399",
+      "upstreamBranch": "master",
+      "role": "Sword/Shield ExeFS NSO to AArch64 ELF reconstruction",
+      "optional": false,
+      "submodules": false,
+      "importMethod": "vendor-tree",
+      "sourceTreeSha": "9b59e627f272251f564af320daa2b7be66b319f5",
+      "swshValidation": "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+    }
+  ],
+  "sourceRepository": "https://github.com/969981/SV_Resources",
+  "sourceCommit": "eca581cb23d5bd84595eca3810d0dee4bd8b60fd",
+  "sourceToolsTreeSha": "65726d0cc032e3c9547e411953f2440a34e6c733"
+}
