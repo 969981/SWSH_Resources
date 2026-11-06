@@ -1,0 +1,72 @@
+name: SWSH v1.3.2 verified semantic encounter and item export
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/swsh_semantic_catalog.py
+      - .github/workflows/swsh-semantic-catalog.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swsh-semantic-catalog-master
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_semantic_catalog.py
+            /v1.3.2/0/sword_main
+            /v1.3.2/0/shield_main
+            /v1.3.2/1/bin/pml/item/item.dat
+            /v1.3.2/1/bin/script_event_data/event_encount_data.bin
+            /v1.3.2/1/bin/script_event_data/add_poke.bin
+            /v1.3.2/1/bin/script_event_data/field_trade.bin
+            /Unpack/v1.3.2/extracted/bin/archive/field/resident/data_table.gfpak.files/
+            /Unpack/v1.3.2/catalog/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile and export all original static data
+        run: |
+          set -euo pipefail
+          python -m py_compile scripts/swsh_semantic_catalog.py
+          python scripts/swsh_semantic_catalog.py --repo . --out Unpack/v1.3.2/catalog
+          python - <<'PY'
+          import json, csv
+          from pathlib import Path
+          p=Path("Unpack/v1.3.2/catalog")
+          a=json.loads((p/"semantic-summary.json").read_text(encoding="utf-8"))
+          expected={"static_encounters":647,"gift_encounters":31,"trade_encounters":23,
+                    "item_properties":1608,"wild_encounters":35960,"nso_segments":6}
+          assert a["counts"] == expected, (a["counts"], expected)
+          assert a["evidence"]["static_encounters"]["shiny_values"].get("2") == 41
+          for name,count in expected.items():
+              with (p/(name+".csv")).open(encoding="utf-8-sig",newline="") as f:
+                  assert sum(1 for _ in csv.DictReader(f))==count, name
+          print("Native semantic CSV verified:", a["counts"])
+          PY
+      - name: Publish small structured CSV and evidence
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/
+          if git diff --cached --quiet; then
+            echo "No semantic changes"
+          else
+            git commit -m 'data(swsh): verified wild/static/gift/trade/item catalog and NSO segments [skip ci]'
+            git push origin HEAD:master
+          fi
