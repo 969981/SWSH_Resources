@@ -23,3 +23,13 @@
 - `wild_weather_locale_summary.json`：完整源文件 SHA-256、分类计数、分歧及校验结果。
 
 其中基础有效槽位 16,928 行、按 pkNX 原文许可的候选槽位 10,965 行、按天气位对照的候选槽位 10,697 行，后两种逻辑存在 268 个基础有效槽位的分歧。脚本：`python scripts/swsh_weather_locale.py --repo .`。权威语义仍以动态验证为准，不能把候选数视为游戏内真实概率。
+
+## 268 条天气渗透争议槽位：运行时验收准备
+
+- `weather_bleed_268_cases.csv`：268 条具体槽位，包括两个版本 BuildID、ZoneID、实际天气子表和相反的两种静态判断，全部标记 `NOT_TESTED`。
+- `weather_bleed_scenarios.csv`：48 组独立的地图/天气/版本场景。
+- `weather_bleed_control_cases.csv`：48 条同区域正对照。
+- `weather_bleed_runtime_observations_TEMPLATE.csv`：仅表头的真实运行记录模板，**零条实机记录**。
+- `weather_bleed_casebook_summary.json`：验证聚合统计、SHA-256 与原始构建版本证据。
+
+运行：`python scripts/swsh_bleed_casebook.py --repo .`。GDB 断点录制器：`scripts/swsh_weather_gdb_capture.py`；回读/审计：`scripts/swsh_weather_validate_runtime.py`。pkNX 的 `IsWeatherBleedPossible` 是导出器逻辑，不是游戏二进制中经确认的逻辑。禁止将 CI 结果标为游戏实测。
