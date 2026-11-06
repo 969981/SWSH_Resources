@@ -1,0 +1,138 @@
+{
+  "game": "SWSH",
+  "version": "1.3.2",
+  "source_files": {
+    "/home/runner/work/SWSH_Resources/SWSH_Resources/Unpack/v1.3.2/catalog/wild_encounters.csv": "108c5a313eca466368d586c5bd9b5197ce93a383d2858667ff3cdf255d7ae90a",
+    "/home/runner/work/SWSH_Resources/SWSH_Resources/tools/pkNX/pkNX.Game/Misc/SWSHInfo.cs": "2d01a1542d4cfbdd26ca16e6d0c1a395654f20ff4a3762de6ff5878662c4d130",
+    "/home/runner/work/SWSH_Resources/SWSH_Resources/tools/pkNX/pkNX.Game/Misc/SWSHEncounterType.cs": "f5265ab4ad319b1449fb81ce3c787f52a8877c9be743b6571905f963459e88df"
+  },
+  "raw_slots": 35960,
+  "member_zone_tables": 372,
+  "resolved_zone_tables": 372,
+  "unmapped_zone_tables": 0,
+  "distinct_zone_hashes": 186,
+  "pkNX_zone_dictionary_entries": 196,
+  "members": [
+    {
+      "member": 0,
+      "game": "Sword",
+      "mode": "Hidden",
+      "slots": 6820,
+      "zone_tables": 62,
+      "own_version_species_markers": {
+        "273": 23,
+        "554": 27,
+        "684": 19,
+        "874": 11,
+        "627": 1,
+        "766": 9
+      },
+      "opposite_version_species_markers": {},
+      "condition_slot_counts": {
+        "0": 620,
+        "1": 620,
+        "2": 620,
+        "3": 620,
+        "4": 620,
+        "5": 620,
+        "6": 620,
+        "7": 620,
+        "8": 620,
+        "9": 620,
+        "10": 620
+      }
+    },
+    {
+      "member": 1,
+      "game": "Sword",
+      "mode": "Symbol",
+      "slots": 11160,
+      "zone_tables": 124,
+      "own_version_species_markers": {
+        "273": 1,
+        "554": 1,
+        "684": 19,
+        "874": 16,
+        "627": 27,
+        "692": 45,
+        "766": 18
+      },
+      "opposite_version_species_markers": {},
+      "condition_slot_counts": {
+        "0": 1240,
+        "1": 1240,
+        "2": 1240,
+        "3": 1240,
+        "4": 1240,
+        "5": 1240,
+        "6": 1240,
+        "7": 1240,
+        "8": 1240
+      }
+    },
+    {
+      "member": 2,
+      "game": "Shield",
+      "mode": "Symbol",
+      "slots": 11160,
+      "zone_tables": 124,
+      "own_version_species_markers": {
+        "270": 1,
+        "77": 10,
+        "682": 19,
+        "875": 14,
+        "629": 27,
+        "690": 45,
+        "765": 18
+      },
+      "opposite_version_species_markers": {},
+      "condition_slot_counts": {
+        "0": 1240,
+        "1": 1240,
+        "2": 1240,
+        "3": 1240,
+        "4": 1240,
+        "5": 1240,
+        "6": 1240,
+        "7": 1240,
+        "8": 1240
+      }
+    },
+    {
+      "member": 3,
+      "game": "Shield",
+      "mode": "Hidden",
+      "slots": 6820,
+      "zone_tables": 62,
+      "own_version_species_markers": {
+        "270": 24,
+        "77": 9,
+        "682": 19,
+        "875": 11,
+        "629": 1,
+        "765": 9
+      },
+      "opposite_version_species_markers": {},
+      "condition_slot_counts": {
+        "0": 620,
+        "1": 620,
+        "2": 620,
+        "3": 620,
+        "4": 620,
+        "5": 620,
+        "6": 620,
+        "7": 620,
+        "8": 620,
+        "9": 620,
+        "10": 620
+      }
+    }
+  ],
+  "member_to_version_provenance": "Version-exclusive species cross-checked for each original member, matching paired ZoneID sets, plus pkNX EditorSWSH EditWild k=SW/t=SH and Symbol/Hidden.",
+  "condition_provenance": "Indexed from pkNX SWSHEncounterType (0..8 weather, 9 shaking trees, 10 fishing). Condition index does not mean that weather is possible in every zone: apply EncounterTable8Util.IsPermittedWeather and weather bleed.",
+  "zone_provenance": "pkNX SWSHInfo.Zones / ZoneLocations / ZoneType",
+  "outputs": {
+    "wild_encounters_enriched.csv": 35960,
+    "wild_zone_index.csv": 372
+  }
+}
