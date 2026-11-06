@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Quoi\u202F?\\n[VAR 0102(0000)] \u00E9volue\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hein\u202F?\\n[VAR 0102(0000)] n\u2019\u00E9volue plus\u202F!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "F\u00E9licitations\u202F!\\n[VAR 0102(0000)] \u00E9volue en [VAR 0101(0001)]\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], [WAIT 20]... [WAIT 20]... Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] veut apprendre\\n[VAR 0107(0001)].\\c\\nVoulez-vous qu\u2019il oublie une capacit\u00E9 pour\\napprendre [VAR 0107(0001)]\u202F?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Oublier une capacit\u00E9"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Garder les anciennes capacit\u00E9s"
+  }
+]

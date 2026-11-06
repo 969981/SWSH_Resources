@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "It\u2019s a vending machine!\\nWhat kind of drink do you want?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] [VAR BD03(0000)]\uE300[VAR 0202(0001)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nothing"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Yeah, you weren\u2019t thirsty anyway."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "But you can\u2019t carry any more!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "But you don\u2019t have enough money!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 1303(0000,0000)][VAR 010A(0000)] came out!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Do you want to get one more?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "What luck!\\nAnother [VAR 010A(0000)] tumbled down!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "It\u2019s a vending machine!\\nAnd all of your favorite drinks to buy are...\\r\\ncompletely sold out!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Buy one more"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Buy something else"
+  }
+]

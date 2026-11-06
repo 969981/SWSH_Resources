@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "A-ah! L\u2019oroscompleanno di questo mese\\nle azzecca tutte!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ti piacerebbe sapere cosa dice il tuo?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Dai, allora dimmi in che mese sei nat[VAR 1100(00FF,0101)]oa!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "E in che giorno sei nat[VAR 1100(00FF,0101)]oa?"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Ok, non c\u2019\u00E8 problema. Torna a trovarmi, se ti va!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Oh-oh! Guarda, guarda... Interessante!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Sei nat[VAR 1100(00FF,0101)]oa [VAR 1106(0002,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)], eh?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Fa niente, se hai sbagliato, riprova!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Alla fine hai cambiato idea? E va bene.\\nTorna a trovarmi, se ti va!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Ora ti dir\u00F2 cos\u2019ha in serbo l\u2019oroscopo\\nper quelli nati [VAR 1106(0002,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Vediamo un po\u2019..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ma cos...? Tsk, sono un disastro! Mangio\\nun pasticcino e... faccio un pasticcio!"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "E chi riesce a leggere con tutte queste macchie?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Bah, ne far\u00F2 a meno! Non ho bisogno di leggere!\\nL\u2019oroscopo non ha segreti per me!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "L\u2019oroscompleanno prevede fortuna a palate\\nper i nati in questo giorno!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Magari ti imbatterai persino in un Pok\u00E9mon\\nleggendario! Chiss\u00E0!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Questo \u00E8 tutto! Stammi bene!"
+  }
+]

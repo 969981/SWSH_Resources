@@ -1,0 +1,687 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Geld"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0206(0000,002E)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Watt"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0206(0001,202F)] W"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Gewinnpunkte"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0206(0001,202F)] GP"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "K\u00E4mpfe"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)] Uhr)"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Druckdatum"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Dir gehorchen alle Pok\u00E9mon bis Level [VAR 0201(0000)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Dir gehorchen alle Pok\u00E9mon, unabh\u00E4ngig von\\nihrem Level."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Fangen"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Du kannst Pok\u00E9mon bis Level [VAR 0201(0000)] fangen."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Du kannst alle Pok\u00E9mon fangen, unabh\u00E4ngig von\\nihrem Level."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u202FZur\u00FCck"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " R\u00FCckseite ansehen"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Sortieren"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": " W\u00E4hlen und entfernen"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": " Favorit"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": " Schlie\u00DFen"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Entfernen"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Vorderseite ansehen"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "M\u00F6chtest du die Ligakarte von [VAR 0100(0000)]\\nempfangen?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Empfangen"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Beenden"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Entfernen"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "M\u00F6chtest du die Auswahl wirklich entfernen?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "M\u00F6chtest du die Auswahl wirklich entfernen?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Deine Ligakarte"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Album"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Keine Ligakarten vorhanden"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Kartencode"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Ligakarte von [VAR 0100(0000)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Ligakarte empfangen"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Ligakarte teilen"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Ligakarte aktualisieren"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Durch die Eingabe von Kartencodes kannst du Ligakarten\\nempfangen."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Empfangen"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Teilst du deinen Kartencode mit anderen Spielern,\\nk\u00F6nnen diese deine Ligakarte erhalten."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Kartencode von [VAR 0100(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": " Ligakarte nicht teilen"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Deine Ligakarte wird dann nicht mehr geteilt.\\nWillst du fortfahren?"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Du hast eingestellt, dass deine Ligakarte nicht\\nmit anderen Spielern geteilt wird."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Ligakarte teilen"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Deine Ligakarte wird nun mit anderen geteilt!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Erhalten am"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Art und Weise"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Verbindung"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Pok\u00E9Camping"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Ypsi-Com"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Link-Kampf"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Pok\u00E9mon-Tausch"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Dyna-Raid"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Kartencode"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Lokale Verbindung"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Online-Verbindung"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Ligakarte aktualisieren"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Diese Ligakarte wird mit den anderen Spielern\\ngeteilt.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Neue zuerst"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "\u00C4ltere zuerst"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Favoriten"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Art und Weise"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Spezial"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Link-Kampf"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Pok\u00E9Camp"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Dyna-Raid"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Ypsi-Com"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Pok\u00E9mon-Tausch"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Kartencode"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Wie sollen die Ligakarten sortiert werden?"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Kartencode eingeben"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Dein Album ist voll. Du kannst keine\\nweiteren Ligakarten erhalten."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Du besitzt diese Ligakarte bereits."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Erstellt einen Kartencode f\u00FCr deine Ligakarte."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Durch die Eingabe von Kartencodes kannst du\\nLigakarten erhalten."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Du hast die Ligakarte von [VAR 0100(0000)]\\nerhalten!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Ligakarte konnte nicht verschickt werden."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Ligakarte konnte nicht empfangen werden."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Das Entfernen ist fehlgeschlagen."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Es wurde keine Ligakarte f\u00FCr diesen Kartencode\\ngefunden."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Eine Internetverbindung wird hergestellt und\\ndas Spiel wird gespeichert. Willst du fortfahren?"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Verbinden"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Du bist jetzt mit dem Internet verbunden.\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Speichervorgang...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Verbindung \u00FCber das Internet wurde aktiviert.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Dein Album ist voll.\\c\\nUm neue Ligakarten zu empfangen, musst du\\nerst Platz in deinem Album schaffen."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Ligakarte wird \u00FCbertragen..."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Ligakarte empfangen!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Internetverbindung wird getrennt.\\nM\u00F6chtest du fortfahren?"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Verbindung \u00FCber den lokalen Modus\\nwurde aktiviert.\\c"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Verbindung wird getrennt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Ligakarte wird geteilt..."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Deine Ligakarte wurde geteilt!"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Du besitzt diese Ligakarte bereits."
+  }
+]

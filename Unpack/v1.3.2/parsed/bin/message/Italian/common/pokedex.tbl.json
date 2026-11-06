@@ -1,0 +1,997 @@
+[
+  {
+    "index": 0,
+    "hash": "93EEB2BF7AE6D61A",
+    "name": "msg_zkn_01_01"
+  },
+  {
+    "index": 1,
+    "hash": "93EEB1BF7AE6D467",
+    "name": "msg_zkn_01_02"
+  },
+  {
+    "index": 2,
+    "hash": "93EEB0BF7AE6D2B4",
+    "name": "msg_zkn_01_03"
+  },
+  {
+    "index": 3,
+    "hash": "93EEAFBF7AE6D101",
+    "name": "msg_zkn_01_04"
+  },
+  {
+    "index": 4,
+    "hash": "41E0F2DB3637520D",
+    "name": "msg_zkn_02_01"
+  },
+  {
+    "index": 5,
+    "hash": "41E0EFDB36374CF4",
+    "name": "msg_zkn_02_02"
+  },
+  {
+    "index": 6,
+    "hash": "41E0F0DB36374EA7",
+    "name": "msg_zkn_02_03"
+  },
+  {
+    "index": 7,
+    "hash": "41E0EDDB3637498E",
+    "name": "msg_zkn_02_04"
+  },
+  {
+    "index": 8,
+    "hash": "41E0EEDB36374B41",
+    "name": "msg_zkn_02_05"
+  },
+  {
+    "index": 9,
+    "hash": "41E0EBDB36374628",
+    "name": "msg_zkn_02_06"
+  },
+  {
+    "index": 10,
+    "hash": "41E0ECDB363747DB",
+    "name": "msg_zkn_02_07"
+  },
+  {
+    "index": 11,
+    "hash": "6AABE6CFEB5CF978",
+    "name": "msg_zkn_03_01"
+  },
+  {
+    "index": 12,
+    "hash": "6AABE9CFEB5CFE91",
+    "name": "msg_zkn_03_02"
+  },
+  {
+    "index": 13,
+    "hash": "B088F232FB0C1F23",
+    "name": "msg_ui_pokedex_top_pokename"
+  },
+  {
+    "index": 14,
+    "hash": "6AABEBCFEB5D01F7",
+    "name": "msg_zkn_03_04"
+  },
+  {
+    "index": 15,
+    "hash": "C3E0A6E932AE1FEB",
+    "name": "msg_zkn_04_01"
+  },
+  {
+    "index": 16,
+    "hash": "C3E0A7E932AE219E",
+    "name": "msg_zkn_04_02"
+  },
+  {
+    "index": 17,
+    "hash": "C3E0A8E932AE2351",
+    "name": "msg_zkn_04_03"
+  },
+  {
+    "index": 18,
+    "hash": "C3E0A9E932AE2504",
+    "name": "msg_zkn_04_04"
+  },
+  {
+    "index": 19,
+    "hash": "6D7ADAE197445C16",
+    "name": "msg_zkn_05_01"
+  },
+  {
+    "index": 20,
+    "hash": "FAE86A8C176FD8E0",
+    "name": "msg_ui_pokedex_option_03"
+  },
+  {
+    "index": 21,
+    "hash": "9C50D7F9A495D2B0",
+    "name": "msg_zkn_06_02"
+  },
+  {
+    "index": 22,
+    "hash": "9B15AEF47D8871B4",
+    "name": "msg_zkn_07_01"
+  },
+  {
+    "index": 23,
+    "hash": "9B15B1F47D8876CD",
+    "name": "msg_zkn_07_02"
+  },
+  {
+    "index": 24,
+    "hash": "9B15B0F47D88751A",
+    "name": "msg_zkn_07_03"
+  },
+  {
+    "index": 25,
+    "hash": "9B15ABF47D886C9B",
+    "name": "msg_zkn_07_04"
+  },
+  {
+    "index": 26,
+    "hash": "CA79DE4717F40FC2",
+    "name": "msg_ui_pokedex_height"
+  },
+  {
+    "index": 27,
+    "hash": "216EC2D8842C7EB9",
+    "name": "msg_ui_pokedex_weight"
+  },
+  {
+    "index": 28,
+    "hash": "C8D4B9A17D2E4AF6",
+    "name": "msg_ui_pokedex_top_pokename_unknown"
+  },
+  {
+    "index": 29,
+    "hash": "5340CFB9B2B979FF",
+    "name": "msg_ui_pokedex_height_00"
+  },
+  {
+    "index": 30,
+    "hash": "C4C401E689597BC2",
+    "name": "msg_ui_pokedex_weight_00"
+  },
+  {
+    "index": 31,
+    "hash": "D7287093B57EB2CD",
+    "name": "msg_ui_pokedex_type"
+  },
+  {
+    "index": 32,
+    "hash": "33E0227DB4B844E2",
+    "name": "msg_zkn_09_01"
+  },
+  {
+    "index": 33,
+    "hash": "FAE8758C176FEB91",
+    "name": "msg_ui_pokedex_option_08"
+  },
+  {
+    "index": 34,
+    "hash": "33E0207DB4B8417C",
+    "name": "msg_zkn_09_03"
+  },
+  {
+    "index": 35,
+    "hash": "33E01F7DB4B83FC9",
+    "name": "msg_zkn_09_04"
+  },
+  {
+    "index": 36,
+    "hash": "AD0DEA83222B277D",
+    "name": "msg_ui_pokedex_nofind"
+  },
+  {
+    "index": 37,
+    "hash": "1C979CF8F5C1861A",
+    "name": "msg_ui_pokedex_noweather"
+  },
+  {
+    "index": 38,
+    "hash": "3232391A24328C2B",
+    "name": "msg_ui_pokedex_distribution"
+  },
+  {
+    "index": 39,
+    "hash": "F8EA0195D83BB585",
+    "name": "msg_zkn_10_02"
+  },
+  {
+    "index": 40,
+    "hash": "FA924A9AFFA61EC1",
+    "name": "msg_zkn_11_01"
+  },
+  {
+    "index": 41,
+    "hash": "FA92479AFFA619A8",
+    "name": "msg_zkn_11_02"
+  },
+  {
+    "index": 42,
+    "hash": "FA92489AFFA61B5B",
+    "name": "msg_zkn_11_03"
+  },
+  {
+    "index": 43,
+    "hash": "FA924D9AFFA623DA",
+    "name": "msg_zkn_11_04"
+  },
+  {
+    "index": 44,
+    "hash": "FA924E9AFFA6258D",
+    "name": "msg_zkn_11_05"
+  },
+  {
+    "index": 45,
+    "hash": "F61B0A842C544DCE",
+    "name": "msg_zkn_12_01"
+  },
+  {
+    "index": 46,
+    "hash": "2367F68A8ED2F323",
+    "name": "msg_zkn_13_01"
+  },
+  {
+    "index": 47,
+    "hash": "CAA0367147DE9E90",
+    "name": "msg_zkn_14_01"
+  },
+  {
+    "index": 48,
+    "hash": "7F3CBC5014A8EF4D",
+    "name": "msg_ui_pokedex_registration_00"
+  },
+  {
+    "index": 49,
+    "hash": "7F3CBB5014A8ED9A",
+    "name": "msg_ui_pokedex_registration_01"
+  },
+  {
+    "index": 50,
+    "hash": "9FB5427C90EA90C5",
+    "name": "msg_zkn_15_01"
+  },
+  {
+    "index": 51,
+    "hash": "9FB53F7C90EA8BAC",
+    "name": "msg_zkn_15_02"
+  },
+  {
+    "index": 52,
+    "hash": "0B9BDDEB7D09FC06",
+    "name": "msg_ui_pokedex_nickname_00"
+  },
+  {
+    "index": 53,
+    "hash": "3E64B2507A6BF06C",
+    "name": "msg_ui_pokedex_fly_01"
+  },
+  {
+    "index": 54,
+    "hash": "3E64B5507A6BF585",
+    "name": "msg_ui_pokedex_fly_02"
+  },
+  {
+    "index": 55,
+    "hash": "C7450E6C1F02D8E7",
+    "name": "msg_zkn_17_01"
+  },
+  {
+    "index": 56,
+    "hash": "05C6F1A6F99FEB86",
+    "name": "msg_ui_pokedex_transfer"
+  },
+  {
+    "index": 57,
+    "hash": "3927C8329E17EEB3",
+    "name": "msg_ui_pokedex_transfer_00"
+  },
+  {
+    "index": 58,
+    "hash": "3927C7329E17ED00",
+    "name": "msg_ui_pokedex_transfer_01"
+  },
+  {
+    "index": 59,
+    "hash": "59650BD79EC634EB",
+    "name": "msg_zkn_18_04"
+  },
+  {
+    "index": 60,
+    "hash": "3927CD329E17F732",
+    "name": "msg_ui_pokedex_transfer_07"
+  },
+  {
+    "index": 61,
+    "hash": "3927CC329E17F57F",
+    "name": "msg_ui_pokedex_transfer_04"
+  },
+  {
+    "index": 62,
+    "hash": "3927CB329E17F3CC",
+    "name": "msg_ui_pokedex_transfer_05"
+  },
+  {
+    "index": 63,
+    "hash": "3927CE329E17F8E5",
+    "name": "msg_ui_pokedex_transfer_06"
+  },
+  {
+    "index": 64,
+    "hash": "84FEFADDFFD34AD9",
+    "name": "msg_zkn_19_01"
+  },
+  {
+    "index": 65,
+    "hash": "3927D0329E17FC4B",
+    "name": "msg_ui_pokedex_transfer_08"
+  },
+  {
+    "index": 66,
+    "hash": "84FEF7DDFFD345C0",
+    "name": "msg_zkn_19_02"
+  },
+  {
+    "index": 67,
+    "hash": "3927CF329E17FA98",
+    "name": "msg_ui_pokedex_transfer_09"
+  },
+  {
+    "index": 68,
+    "hash": "84FEF8DDFFD34773",
+    "name": "msg_zkn_19_03"
+  },
+  {
+    "index": 69,
+    "hash": "392462329E150B8A",
+    "name": "msg_ui_pokedex_transfer_10"
+  },
+  {
+    "index": 70,
+    "hash": "7BEA34D7C57F127C",
+    "name": "msg_ui_pokedex_transfer_bag_00"
+  },
+  {
+    "index": 71,
+    "hash": "7BEA35D7C57F142F",
+    "name": "msg_ui_pokedex_transfer_bag_01"
+  },
+  {
+    "index": 72,
+    "hash": "5E04A25FB2285915",
+    "name": "msg_zkn_20_01"
+  },
+  {
+    "index": 73,
+    "hash": "5E049F5FB22853FC",
+    "name": "msg_zkn_20_02"
+  },
+  {
+    "index": 74,
+    "hash": "7BEA36D7C57F15E2",
+    "name": "msg_ui_pokedex_transfer_bag_02"
+  },
+  {
+    "index": 75,
+    "hash": "3927CA329E17F219",
+    "name": "msg_ui_pokedex_transfer_02"
+  },
+  {
+    "index": 76,
+    "hash": "3927C9329E17F066",
+    "name": "msg_ui_pokedex_transfer_03"
+  },
+  {
+    "index": 77,
+    "hash": "F10E0F1796DE8930",
+    "name": "msg_zkn_search_01_00"
+  },
+  {
+    "index": 78,
+    "hash": "1D15191DF8489EDF",
+    "name": "msg_zkn_search_02_00"
+  },
+  {
+    "index": 79,
+    "hash": "C838632807B1B4CE",
+    "name": "msg_zkn_search_03_00"
+  },
+  {
+    "index": 80,
+    "hash": "C838642807B1B681",
+    "name": "msg_zkn_search_03_01"
+  },
+  {
+    "index": 81,
+    "hash": "BFD59CEDDE01A6A5",
+    "name": "msg_zkn_search_04_00"
+  },
+  {
+    "index": 82,
+    "hash": "EB7026F43F0FC3F4",
+    "name": "msg_zkn_search_05_00"
+  },
+  {
+    "index": 83,
+    "hash": "984650FE4FEA3803",
+    "name": "msg_zkn_search_06_00"
+  },
+  {
+    "index": 84,
+    "hash": "C3E05B04B0F77BD2",
+    "name": "msg_zkn_search_07_00"
+  },
+  {
+    "index": 85,
+    "hash": "52F8AF61AFC58EA7",
+    "name": "msg_ui_pokedex_list_sort_00"
+  },
+  {
+    "index": 86,
+    "hash": "52F8AE61AFC58CF4",
+    "name": "msg_ui_pokedex_list_sort_01"
+  },
+  {
+    "index": 87,
+    "hash": "52F8B161AFC5920D",
+    "name": "msg_ui_pokedex_list_sort_02"
+  },
+  {
+    "index": 88,
+    "hash": "52F8B061AFC5905A",
+    "name": "msg_ui_pokedex_list_sort_03"
+  },
+  {
+    "index": 89,
+    "hash": "52F8AB61AFC587DB",
+    "name": "msg_ui_pokedex_list_sort_04"
+  },
+  {
+    "index": 90,
+    "hash": "52F8AA61AFC58628",
+    "name": "msg_ui_pokedex_list_sort_05"
+  },
+  {
+    "index": 91,
+    "hash": "52F8AD61AFC58B41",
+    "name": "msg_ui_pokedex_list_sort_06"
+  },
+  {
+    "index": 92,
+    "hash": "52F8AC61AFC5898E",
+    "name": "msg_ui_pokedex_list_sort_07"
+  },
+  {
+    "index": 93,
+    "hash": "52F8A761AFC5810F",
+    "name": "msg_ui_pokedex_list_sort_08"
+  },
+  {
+    "index": 94,
+    "hash": "52F8A661AFC57F5C",
+    "name": "msg_ui_pokedex_list_sort_09"
+  },
+  {
+    "index": 95,
+    "hash": "52F52961AFC2751E",
+    "name": "msg_ui_pokedex_list_sort_10"
+  },
+  {
+    "index": 96,
+    "hash": "52F52A61AFC276D1",
+    "name": "msg_ui_pokedex_list_sort_11"
+  },
+  {
+    "index": 97,
+    "hash": "52F52761AFC271B8",
+    "name": "msg_ui_pokedex_list_sort_12"
+  },
+  {
+    "index": 98,
+    "hash": "BFD59BEDDE01A4F2",
+    "name": "msg_zkn_search_04_01"
+  },
+  {
+    "index": 99,
+    "hash": "BFD59AEDDE01A33F",
+    "name": "msg_zkn_search_04_02"
+  },
+  {
+    "index": 100,
+    "hash": "BFD599EDDE01A18C",
+    "name": "msg_zkn_search_04_03"
+  },
+  {
+    "index": 101,
+    "hash": "BFD598EDDE019FD9",
+    "name": "msg_zkn_search_04_04"
+  },
+  {
+    "index": 102,
+    "hash": "BFD597EDDE019E26",
+    "name": "msg_zkn_search_04_05"
+  },
+  {
+    "index": 103,
+    "hash": "BFD596EDDE019C73",
+    "name": "msg_zkn_search_04_06"
+  },
+  {
+    "index": 104,
+    "hash": "BFD595EDDE019AC0",
+    "name": "msg_zkn_search_04_07"
+  },
+  {
+    "index": 105,
+    "hash": "BFD5A4EDDE01B43D",
+    "name": "msg_zkn_search_04_08"
+  },
+  {
+    "index": 106,
+    "hash": "BFD5A3EDDE01B28A",
+    "name": "msg_zkn_search_04_09"
+  },
+  {
+    "index": 107,
+    "hash": "BFD296EDDDFF669C",
+    "name": "msg_zkn_search_04_10"
+  },
+  {
+    "index": 108,
+    "hash": "98464FFE4FEA3650",
+    "name": "msg_zkn_search_06_01"
+  },
+  {
+    "index": 109,
+    "hash": "984652FE4FEA3B69",
+    "name": "msg_zkn_search_06_02"
+  },
+  {
+    "index": 110,
+    "hash": "C3E05C04B0F77D85",
+    "name": "msg_zkn_search_07_01"
+  },
+  {
+    "index": 111,
+    "hash": "C3E05904B0F7786C",
+    "name": "msg_zkn_search_07_02"
+  },
+  {
+    "index": 112,
+    "hash": "42F3A6F4DDA5CBD7",
+    "name": "msg_zkn_search_001"
+  },
+  {
+    "index": 113,
+    "hash": "42F3A7F4DDA5CD8A",
+    "name": "msg_zkn_search_002"
+  },
+  {
+    "index": 114,
+    "hash": "42F3A8F4DDA5CF3D",
+    "name": "msg_zkn_search_003"
+  },
+  {
+    "index": 115,
+    "hash": "09E88444E67314B1",
+    "name": "msg_zkn_search_10_01"
+  },
+  {
+    "index": 116,
+    "hash": "FAE86D8C176FDDF9",
+    "name": "msg_ui_pokedex_option_00"
+  },
+  {
+    "index": 117,
+    "hash": "09E88244E673114B",
+    "name": "msg_zkn_search_10_03"
+  },
+  {
+    "index": 118,
+    "hash": "3466F8399D0B2A1C",
+    "name": "msg_zkn_search_11_01"
+  },
+  {
+    "index": 119,
+    "hash": "3466FB399D0B2F35",
+    "name": "msg_zkn_search_11_02"
+  },
+  {
+    "index": 120,
+    "hash": "F61B09842C544C1B",
+    "name": "msg_zkn_12_02"
+  },
+  {
+    "index": 121,
+    "hash": "87476E4F41B235B7",
+    "name": "msg_zkn_22_01"
+  },
+  {
+    "index": 122,
+    "hash": "87476F4F41B2376A",
+    "name": "msg_zkn_22_02"
+  },
+  {
+    "index": 123,
+    "hash": "23CB3F3DE8FF6914",
+    "name": "msg_ui_pokedex_transfer_error_00"
+  },
+  {
+    "index": 124,
+    "hash": "02CD12675795C3A3",
+    "name": "msg_zkn_40_01"
+  },
+  {
+    "index": 125,
+    "hash": "984651FE4FEA39B6",
+    "name": "msg_zkn_search_06_03"
+  },
+  {
+    "index": 126,
+    "hash": "14EFF667D79A45A6",
+    "name": "msg_ui_pokedex_top_find"
+  },
+  {
+    "index": 127,
+    "hash": "230CA7951D571913",
+    "name": "msg_ui_pokedex_top_find_00"
+  },
+  {
+    "index": 128,
+    "hash": "558FF2A6C5DECF5B",
+    "name": "msg_ui_pokedex_top_get"
+  },
+  {
+    "index": 129,
+    "hash": "613A71021A6085CC",
+    "name": "msg_ui_pokedex_top_get_00"
+  },
+  {
+    "index": 130,
+    "hash": "AAA8F913371AF4EE",
+    "name": "msg_ui_pokedex_top_no"
+  },
+  {
+    "index": 131,
+    "hash": "30AE24DE6F728AA8",
+    "name": "msg_ui_pokedex_top_place"
+  },
+  {
+    "index": 132,
+    "hash": "FAE86C8C176FDC46",
+    "name": "msg_ui_pokedex_option_01"
+  },
+  {
+    "index": 133,
+    "hash": "71C74916E21539AA",
+    "name": "msg_ui_pokedex_list_00"
+  },
+  {
+    "index": 134,
+    "hash": "71C74A16E2153B5D",
+    "name": "msg_ui_pokedex_list_01"
+  },
+  {
+    "index": 135,
+    "hash": "FAE86B8C176FDA93",
+    "name": "msg_ui_pokedex_option_02"
+  },
+  {
+    "index": 136,
+    "hash": "FAE8718C176FE4C5",
+    "name": "msg_ui_pokedex_option_04"
+  },
+  {
+    "index": 137,
+    "hash": "FAE8708C176FE312",
+    "name": "msg_ui_pokedex_option_05"
+  },
+  {
+    "index": 138,
+    "hash": "FAE4E78C176CC470",
+    "name": "msg_ui_pokedex_option_10"
+  },
+  {
+    "index": 139,
+    "hash": "FAE4E88C176CC623",
+    "name": "msg_ui_pokedex_option_11"
+  },
+  {
+    "index": 140,
+    "hash": "FAE4E98C176CC7D6",
+    "name": "msg_ui_pokedex_option_12"
+  },
+  {
+    "index": 141,
+    "hash": "3E64B3507A6BF21F",
+    "name": "msg_ui_pokedex_fly_00"
+  },
+  {
+    "index": 142,
+    "hash": "AE73BCF8E35A6149",
+    "name": "msg_ui_pokedex_encount_no"
+  },
+  {
+    "index": 143,
+    "hash": "8F2213BF8DB373A4",
+    "name": "msg_ui_pokedex_encount_pokename"
+  },
+  {
+    "index": 144,
+    "hash": "D74D5833424FFD45",
+    "name": "msg_ui_pokedex_encount_getcount"
+  },
+  {
+    "index": 145,
+    "hash": "4605CA2A72D5583E",
+    "name": "msg_ui_pokedex_encount_getcount_00"
+  },
+  {
+    "index": 146,
+    "hash": "372F7A1698DF7811",
+    "name": "msg_ui_pokedex_encount_form_00"
+  },
+  {
+    "index": 147,
+    "hash": "372F791698DF765E",
+    "name": "msg_ui_pokedex_encount_form_01"
+  },
+  {
+    "index": 148,
+    "hash": "891E6A88873ECC5A",
+    "name": "msg_ui_pokedex_bunrui"
+  },
+  {
+    "index": 149,
+    "hash": "FAE4EA8C176CC989",
+    "name": "msg_ui_pokedex_option_13"
+  },
+  {
+    "index": 150,
+    "hash": "FAE4EF8C176CD208",
+    "name": "msg_ui_pokedex_option_18"
+  },
+  {
+    "index": 151,
+    "hash": "FAE86F8C176FE15F",
+    "name": "msg_ui_pokedex_option_06"
+  },
+  {
+    "index": 152,
+    "hash": "FAE86E8C176FDFAC",
+    "name": "msg_ui_pokedex_option_07"
+  },
+  {
+    "index": 153,
+    "hash": "FAE8748C176FE9DE",
+    "name": "msg_ui_pokedex_option_09"
+  },
+  {
+    "index": 154,
+    "hash": "9135A819B6F5DC14",
+    "name": "msg_ui_pokedex_registration_comp_01"
+  },
+  {
+    "index": 155,
+    "hash": "9135AB19B6F5E12D",
+    "name": "msg_ui_pokedex_registration_comp_02"
+  },
+  {
+    "index": 156,
+    "hash": "9135AA19B6F5DF7A",
+    "name": "msg_ui_pokedex_registration_comp_03"
+  },
+  {
+    "index": 157,
+    "hash": "9135A919B6F5DDC7",
+    "name": "msg_ui_pokedex_registration_comp_00"
+  },
+  {
+    "index": 158,
+    "hash": "9135A519B6F5D6FB",
+    "name": "msg_ui_pokedex_registration_comp_04"
+  },
+  {
+    "index": 159,
+    "hash": "0B9BDEEB7D09FDB9",
+    "name": "msg_ui_pokedex_nickname_01"
+  },
+  {
+    "index": 160,
+    "hash": "0B9BDBEB7D09F8A0",
+    "name": "msg_ui_pokedex_nickname_02"
+  },
+  {
+    "index": 161,
+    "hash": "60913626723979E3",
+    "name": "msg_ui_pokedex_top_near"
+  },
+  {
+    "index": 162,
+    "hash": "5C720FA6C943F0C2",
+    "name": "msg_ui_pokedex_top_far"
+  },
+  {
+    "index": 163,
+    "hash": "EE89DF6E66CE5D4A",
+    "name": "msg_ui_pokedex_top_near_nopoke"
+  },
+  {
+    "index": 164,
+    "hash": "FAE4EB8C176CCB3C",
+    "name": "msg_ui_pokedex_option_14"
+  },
+  {
+    "index": 165,
+    "hash": "FAE4EC8C176CCCEF",
+    "name": "msg_ui_pokedex_option_15"
+  },
+  {
+    "index": 166,
+    "hash": "FAE4ED8C176CCEA2",
+    "name": "msg_ui_pokedex_option_16"
+  },
+  {
+    "index": 167,
+    "hash": "FAE4EE8C176CD055",
+    "name": "msg_ui_pokedex_option_17"
+  },
+  {
+    "index": 168,
+    "hash": "96B80F1801AA3E28",
+    "name": "msg_ui_pokedex_hyoka_00"
+  },
+  {
+    "index": 169,
+    "hash": "96B8101801AA3FDB",
+    "name": "msg_ui_pokedex_hyoka_01"
+  },
+  {
+    "index": 170,
+    "hash": "96B8111801AA418E",
+    "name": "msg_ui_pokedex_hyoka_02"
+  },
+  {
+    "index": 171,
+    "hash": "96B8121801AA4341",
+    "name": "msg_ui_pokedex_hyoka_03"
+  },
+  {
+    "index": 172,
+    "hash": "96B8131801AA44F4",
+    "name": "msg_ui_pokedex_hyoka_04"
+  },
+  {
+    "index": 173,
+    "hash": "96B8141801AA46A7",
+    "name": "msg_ui_pokedex_hyoka_05"
+  },
+  {
+    "index": 174,
+    "hash": "96B8151801AA485A",
+    "name": "msg_ui_pokedex_hyoka_06"
+  },
+  {
+    "index": 175,
+    "hash": "96B8161801AA4A0D",
+    "name": "msg_ui_pokedex_hyoka_07"
+  },
+  {
+    "index": 176,
+    "hash": "C6AA32CA886CCD0E",
+    "name": "msg_ui_townmap_info_00"
+  },
+  {
+    "index": 177,
+    "hash": "F4C20A1420380500",
+    "name": "msg_ui_pokedex_townmap_sorawotobu_00"
+  },
+  {
+    "index": 178,
+    "hash": "F4C20B14203806B3",
+    "name": "msg_ui_pokedex_townmap_sorawotobu_01"
+  },
+  {
+    "index": 179,
+    "hash": "F4C20C1420380866",
+    "name": "msg_ui_pokedex_townmap_sorawotobu_02"
+  },
+  {
+    "index": 180,
+    "hash": "5DCE532F53F10CC1",
+    "name": "msg_ui_pokedex_townmap_info_01_00"
+  },
+  {
+    "index": 181,
+    "hash": "FECA448F305C8A15",
+    "name": "msg_ui_pokedex_townmap_info_02"
+  },
+  {
+    "index": 182,
+    "hash": "5D3E45A4E38538E1",
+    "name": "msg_ui_pokedex_place_00"
+  },
+  {
+    "index": 183,
+    "hash": "5D3E44A4E385372E",
+    "name": "msg_ui_pokedex_place_01"
+  },
+  {
+    "index": 184,
+    "hash": "5D3E43A4E385357B",
+    "name": "msg_ui_pokedex_place_02"
+  },
+  {
+    "index": 185,
+    "hash": "9F7F33F0D02A83C9",
+    "name": "msg_ui_pokedex_list_heading_00"
+  },
+  {
+    "index": 186,
+    "hash": "9F7F32F0D02A8216",
+    "name": "msg_ui_pokedex_list_heading_01"
+  },
+  {
+    "index": 187,
+    "hash": "9F7F31F0D02A8063",
+    "name": "msg_ui_pokedex_list_heading_02"
+  },
+  {
+    "index": 188,
+    "hash": "82C5AE19BDB8950B",
+    "name": "msg_ui_pokedex_hyoka_b_00"
+  },
+  {
+    "index": 189,
+    "hash": "82C5AD19BDB89358",
+    "name": "msg_ui_pokedex_hyoka_b_01"
+  },
+  {
+    "index": 190,
+    "hash": "82C5B019BDB89871",
+    "name": "msg_ui_pokedex_hyoka_b_02"
+  },
+  {
+    "index": 191,
+    "hash": "82C5AF19BDB896BE",
+    "name": "msg_ui_pokedex_hyoka_b_03"
+  },
+  {
+    "index": 192,
+    "hash": "82C5B219BDB89BD7",
+    "name": "msg_ui_pokedex_hyoka_b_04"
+  },
+  {
+    "index": 193,
+    "hash": "5847B825072155BA",
+    "name": "msg_ui_pokedex_hyoka_c_00"
+  },
+  {
+    "index": 194,
+    "hash": "5847B9250721576D",
+    "name": "msg_ui_pokedex_hyoka_c_01"
+  },
+  {
+    "index": 195,
+    "hash": "5847B62507215254",
+    "name": "msg_ui_pokedex_hyoka_c_02"
+  },
+  {
+    "index": 196,
+    "hash": "5847B72507215407",
+    "name": "msg_ui_pokedex_hyoka_c_03"
+  },
+  {
+    "index": 197,
+    "hash": "5847B42507214EEE",
+    "name": "msg_ui_pokedex_hyoka_c_04"
+  },
+  {
+    "index": 198,
+    "hash": "89C9EF2E9CD0A5CA",
+    "name": "msg_pokedex_max"
+  }
+]

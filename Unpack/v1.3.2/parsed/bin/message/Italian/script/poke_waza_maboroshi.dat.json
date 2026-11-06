@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Io insegno mosse ai Pok\u00E9mon misteriosi.\\nSono in vacanza... ma per te far\u00F2 un\u2019eccezione!\\c\\nChe ne dici? Vuoi che insegni una mossa\\na un tuo Pok\u00E9mon misterioso?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oh! Il tuo Pok\u00E9mon conosce gi\u00E0 questa mossa!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Se avessi in squadra Keldeo o Meloetta\\npotrei insegnare loro una mossa..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Vuoi che insegni una mossa a un Pok\u00E9mon\\ndella tua squadra?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Se cambi idea, torna a trovarmi!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Grazie per la fiducia, ma... insegnare mosse\\na un Uovo \u00E8 troppo difficile anche per me."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon non pu\u00F2 imparare le mosse\\nche insegno."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon conosce gi\u00E0 la mossa\\nche avrei potuto insegnargli."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon \u00E8 esausto, non posso\\ninsegnargli una mossa adesso..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]!"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Oh! [VAR 0102(0000)] si sta trasformando!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha rinnovato la sua\\ndeterminazione a lottare e ha assunto\\r\\nla Forma Risoluta!"
+  },
+  {
+    "index": 12,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire\\ncon [VAR 0107(0000)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "A chi vuoi che la insegni?"
+  }
+]

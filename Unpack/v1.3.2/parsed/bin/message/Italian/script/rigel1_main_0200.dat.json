@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]! Il maestro mi ha avvisato."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]! Il maestro mi ha avvisata."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Acqua..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Buio..."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "In questo luogo Kubfu potr\u00E0 apprendere\\ntutti i segreti del tipo Acqua..."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "In questo luogo Kubfu potr\u00E0 apprendere\\ntutti i segreti del tipo Buio..."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dal livello [VAR 0201(0001)] in poi potr\u00E0 allenarsi\\nsenza problemi."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Dal livello [VAR 0201(0001)] in poi potr\u00E0 allenarsi\\nsenza problemi."
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Una volta dentro la torre, potrai uscire solo\\ndopo che avrai battuto tutti e cinque i tuoi\\r\\navversari, oppure se vieni sconfitt[VAR 1100(00FF,0101)]oa."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Una volta dentro la torre, potrai uscire solo\\ndopo che avrai battuto tutti e cinque i tuoi\\r\\navversari, oppure se vieni sconfitt[VAR 1100(00FF,0101)]oa."
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Inoltre, una volta entrat[VAR 1100(00FF,0101)]oa in una torre, non potrai\\npi\u00F9 affrontare l\u2019altra."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Inoltre, una volta entrat[VAR 1100(00FF,0101)]oa in una torre, non potrai\\npi\u00F9 affrontare l\u2019altra."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Vuoi salire sulla Torre Acqua per conquistare\\nla potenza del tipo Acqua, rinunciando agli\\r\\narcani segreti del tipo Buio?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Vuoi salire sulla Torre Buio per apprendere\\ngli arcani segreti del tipo Buio, rinunciando\\r\\nalla potenza del tipo Acqua?"
+  },
+  {
+    "index": 14,
+    "flags": 8,
+    "text": "Stai per affrontare la Torre Acqua...\\nSei sicur[VAR 1100(00FF,0101)]oa di voler proseguire?"
+  },
+  {
+    "index": 15,
+    "flags": 8,
+    "text": "Stai per affrontare la Torre Buio...\\nSei sicur[VAR 1100(00FF,0101)]oa di voler proseguire?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "S\u00EC!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "S\u00EC!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vorrei pensarci un po\u2019 su..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Sembri proprio determinat[VAR 1100(00FF,0101)]oa!\\nChe la fortuna ti assista..."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Sembri proprio determinat[VAR 1100(00FF,0101)]oa!\\nChe la fortuna ti assista..."
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Acqua o Buio? Quale cammino scegli?\\c\\nPensaci e torna pure da me quando avrai deciso."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Buio o Acqua? Quale cammino scegli?\\c\\nPensaci e torna pure da me quando avrai deciso."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Acqua...\\c\\n\u00C8 riservata all\u2019allenamento di Kubfu, perci\u00F2\\ndevi avere in squadra solo lui per poterla\\r\\naffrontare."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Buio...\\c\\n\u00C8 riservata all\u2019allenamento di Kubfu, perci\u00F2\\ndevi avere in squadra solo lui per poterla\\r\\naffrontare."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Acqua...\\c\\nL\u2019accesso ti \u00E8 precluso perch\u00E9 hai scelto\\ndi affrontare la Torre Buio."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Buio...\\c\\nL\u2019accesso ti \u00E8 precluso perch\u00E9 hai scelto\\ndi affrontare la Torre Acqua."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Acqua...\\c\\nPurtroppo non sei ancora pront[VAR 1100(00FF,0101)]oa per affrontare\\nla torre. Torna quando avrai le carte in regola."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Questa \u00E8 la Torre Buio...\\c\\nPurtroppo non sei ancora pront[VAR 1100(00FF,0101)]oa per affrontare\\nla torre. Torna quando avrai le carte in regola."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], non vedo Kubfu con te.\\nE non sembra nemmeno che sia in un Box..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], non vedo Kubfu con te.\\nE non sembra nemmeno che sia in un Box..."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi davvero salire sulla torre senza Kubfu?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Vuoi davvero salire sulla torre senza Kubfu?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Ricorda che non sar\u00E0 possibile cambiare idea\\nin seguito. Vuoi comunque proseguire?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Ricorda che non sar\u00E0 possibile cambiare idea\\nin seguito. Vuoi comunque proseguire?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Capisco... Che peccato..."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Capisco... Che peccato..."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Va bene. Dopotutto sei ancora in tempo\\nper ritirarti."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Va bene. Dopotutto sei ancora in tempo\\nper ritirarti."
+  }
+]

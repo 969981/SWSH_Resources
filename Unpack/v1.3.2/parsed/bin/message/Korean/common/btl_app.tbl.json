@@ -1,0 +1,1007 @@
+[
+  {
+    "index": 0,
+    "hash": "E88954670B1262C3",
+    "name": "msg_ui_btl_pokename"
+  },
+  {
+    "index": 1,
+    "hash": "726A5378426BD71F",
+    "name": "msg_ui_btl_playername"
+  },
+  {
+    "index": 2,
+    "hash": "3C811AC65DCA6781",
+    "name": "msg_ui_btl_00"
+  },
+  {
+    "index": 3,
+    "hash": "3C8119C65DCA65CE",
+    "name": "msg_ui_btl_01"
+  },
+  {
+    "index": 4,
+    "hash": "3C8118C65DCA641B",
+    "name": "msg_ui_btl_02"
+  },
+  {
+    "index": 5,
+    "hash": "3C8117C65DCA6268",
+    "name": "msg_ui_btl_03"
+  },
+  {
+    "index": 6,
+    "hash": "3C811EC65DCA6E4D",
+    "name": "msg_ui_btl_04"
+  },
+  {
+    "index": 7,
+    "hash": "0840EF7C62EE1898",
+    "name": "msg_ui_raidbtl_lv_00"
+  },
+  {
+    "index": 8,
+    "hash": "0840F07C62EE1A4B",
+    "name": "msg_ui_raidbtl_lv_01"
+  },
+  {
+    "index": 9,
+    "hash": "0840F17C62EE1BFE",
+    "name": "msg_ui_raidbtl_lv_02"
+  },
+  {
+    "index": 10,
+    "hash": "C6F033339F87DAEE",
+    "name": "msg_ui_raidbtl_hp_00"
+  },
+  {
+    "index": 11,
+    "hash": "29551D7A34607736",
+    "name": "msg_ui_raidbtl_osu"
+  },
+  {
+    "index": 12,
+    "hash": "D832DF94E5EE5C5B",
+    "name": "msg_ui_raidbtl_mesu"
+  },
+  {
+    "index": 13,
+    "hash": "CB5388B47CC5ADC9",
+    "name": "msg_ui_btl_pokewaza"
+  },
+  {
+    "index": 14,
+    "hash": "B079A5878B52790A",
+    "name": "msg_ui_btl_pp_00"
+  },
+  {
+    "index": 15,
+    "hash": "B079A6878B527ABD",
+    "name": "msg_ui_btl_pp_01"
+  },
+  {
+    "index": 16,
+    "hash": "B079A3878B5275A4",
+    "name": "msg_ui_btl_pp_02"
+  },
+  {
+    "index": 17,
+    "hash": "05F9B1F48C1E7283",
+    "name": "msg_ui_btl_kouka_00"
+  },
+  {
+    "index": 18,
+    "hash": "05F9B0F48C1E70D0",
+    "name": "msg_ui_btl_kouka_01"
+  },
+  {
+    "index": 19,
+    "hash": "05F9B3F48C1E75E9",
+    "name": "msg_ui_btl_kouka_02"
+  },
+  {
+    "index": 20,
+    "hash": "05F9B2F48C1E7436",
+    "name": "msg_ui_btl_kouka_03"
+  },
+  {
+    "index": 21,
+    "hash": "8AD3F980D179142A",
+    "name": "msg_ui_btl_kougeki"
+  },
+  {
+    "index": 22,
+    "hash": "D1FE61900117FC5E",
+    "name": "msg_ui_btl_bougyo"
+  },
+  {
+    "index": 23,
+    "hash": "151892BFF9018B19",
+    "name": "msg_ui_btl_tokukou"
+  },
+  {
+    "index": 24,
+    "hash": "C92121BFCE8AE416",
+    "name": "msg_ui_btl_tokubou"
+  },
+  {
+    "index": 25,
+    "hash": "008E839AE0E7CCDA",
+    "name": "msg_ui_btl_subayasa"
+  },
+  {
+    "index": 26,
+    "hash": "5421BC740E377250",
+    "name": "msg_ui_btl_meichu"
+  },
+  {
+    "index": 27,
+    "hash": "9F21005A4FE14B87",
+    "name": "msg_ui_btl_kaihi"
+  },
+  {
+    "index": 28,
+    "hash": "526EEEF14C0E2316",
+    "name": "msg_ui_btl_joutai_00"
+  },
+  {
+    "index": 29,
+    "hash": "526EEFF14C0E24C9",
+    "name": "msg_ui_btl_joutai_01"
+  },
+  {
+    "index": 30,
+    "hash": "526EECF14C0E1FB0",
+    "name": "msg_ui_btl_joutai_02"
+  },
+  {
+    "index": 31,
+    "hash": "526EEDF14C0E2163",
+    "name": "msg_ui_btl_joutai_03"
+  },
+  {
+    "index": 32,
+    "hash": "526EF2F14C0E29E2",
+    "name": "msg_ui_btl_joutai_04"
+  },
+  {
+    "index": 33,
+    "hash": "527274F14C113C9F",
+    "name": "msg_ui_btl_joutai_10"
+  },
+  {
+    "index": 34,
+    "hash": "3BC259C6B32084CB",
+    "name": "msg_ui_btl_wazainfo_tokusei"
+  },
+  {
+    "index": 35,
+    "hash": "4147968998AFBF30",
+    "name": "msg_ui_btl_wazainfo_tokuseiname"
+  },
+  {
+    "index": 36,
+    "hash": "CB559FEF7E9C9362",
+    "name": "msg_ui_btl_wazainfo_item"
+  },
+  {
+    "index": 37,
+    "hash": "9B2339D058D67DE9",
+    "name": "msg_ui_btl_wazainfo_itemname"
+  },
+  {
+    "index": 38,
+    "hash": "C6F034339F87DCA1",
+    "name": "msg_ui_raidbtl_hp_01"
+  },
+  {
+    "index": 39,
+    "hash": "991A6AF4FBDDACEE",
+    "name": "msg_ui_raidbtl_fr_pokewaza"
+  },
+  {
+    "index": 40,
+    "hash": "7CA55B8DBDF0870A",
+    "name": "msg_ui_raidbtl_pokefutatsu"
+  },
+  {
+    "index": 41,
+    "hash": "B05CE3ED41D7FA42",
+    "name": "msg_ui_btl_total_00"
+  },
+  {
+    "index": 42,
+    "hash": "F938208E6C742A87",
+    "name": "msg_ui_raidbtl_pokename"
+  },
+  {
+    "index": 43,
+    "hash": "5CB22057DB86E283",
+    "name": "msg_ui_btl_command_00"
+  },
+  {
+    "index": 44,
+    "hash": "1BF3491C676DB98B",
+    "name": "msg_ui_btl_your_00"
+  },
+  {
+    "index": 45,
+    "hash": "B05CE4ED41D7FBF5",
+    "name": "msg_ui_btl_total_01"
+  },
+  {
+    "index": 46,
+    "hash": "5CB21F57DB86E0D0",
+    "name": "msg_ui_btl_command_01"
+  },
+  {
+    "index": 47,
+    "hash": "387863824AA2F89B",
+    "name": "msg_ui_btl_lvup_00"
+  },
+  {
+    "index": 48,
+    "hash": "387862824AA2F6E8",
+    "name": "msg_ui_btl_lvup_01"
+  },
+  {
+    "index": 49,
+    "hash": "387865824AA2FC01",
+    "name": "msg_ui_btl_lvup_02"
+  },
+  {
+    "index": 50,
+    "hash": "387864824AA2FA4E",
+    "name": "msg_ui_btl_lvup_03"
+  },
+  {
+    "index": 51,
+    "hash": "387867824AA2FF67",
+    "name": "msg_ui_btl_lvup_04"
+  },
+  {
+    "index": 52,
+    "hash": "387866824AA2FDB4",
+    "name": "msg_ui_btl_lvup_05"
+  },
+  {
+    "index": 53,
+    "hash": "387869824AA302CD",
+    "name": "msg_ui_btl_lvup_06"
+  },
+  {
+    "index": 54,
+    "hash": "387868824AA3011A",
+    "name": "msg_ui_btl_lvup_07"
+  },
+  {
+    "index": 55,
+    "hash": "3CE589C2A412D314",
+    "name": "msg_ui_btl_yesno_00"
+  },
+  {
+    "index": 56,
+    "hash": "3CE58AC2A412D4C7",
+    "name": "msg_ui_btl_yesno_01"
+  },
+  {
+    "index": 57,
+    "hash": "3CE58BC2A412D67A",
+    "name": "msg_ui_btl_yesno_02"
+  },
+  {
+    "index": 58,
+    "hash": "3CE58CC2A412D82D",
+    "name": "msg_ui_btl_yesno_03"
+  },
+  {
+    "index": 59,
+    "hash": "3CE585C2A412CC48",
+    "name": "msg_ui_btl_yesno_04"
+  },
+  {
+    "index": 60,
+    "hash": "3CE586C2A412CDFB",
+    "name": "msg_ui_btl_yesno_05"
+  },
+  {
+    "index": 61,
+    "hash": "3CE587C2A412CFAE",
+    "name": "msg_ui_btl_yesno_06"
+  },
+  {
+    "index": 62,
+    "hash": "3CE588C2A412D161",
+    "name": "msg_ui_btl_yesno_07"
+  },
+  {
+    "index": 63,
+    "hash": "5D349C374346644A",
+    "name": "msg_ui_btl_hokaku_01"
+  },
+  {
+    "index": 64,
+    "hash": "5D349B3743466297",
+    "name": "msg_ui_btl_hokaku_02"
+  },
+  {
+    "index": 65,
+    "hash": "5D349A37434660E4",
+    "name": "msg_ui_btl_hokaku_03"
+  },
+  {
+    "index": 66,
+    "hash": "EBD2A4356A159FB6",
+    "name": "msg_ui_btl_next_01"
+  },
+  {
+    "index": 67,
+    "hash": "599FEAC01F9B123B",
+    "name": "msg_ui_btl_tokusei"
+  },
+  {
+    "index": 68,
+    "hash": "46D675F698E0B916",
+    "name": "msg_ui_btl_pokeselect_name"
+  },
+  {
+    "index": 69,
+    "hash": "6FFF26BDCC0BE7B7",
+    "name": "msg_ui_btl_pokeselect_kouka_00"
+  },
+  {
+    "index": 70,
+    "hash": "6FFF25BDCC0BE604",
+    "name": "msg_ui_btl_pokeselect_kouka_01"
+  },
+  {
+    "index": 71,
+    "hash": "6FFF28BDCC0BEB1D",
+    "name": "msg_ui_btl_pokeselect_kouka_02"
+  },
+  {
+    "index": 72,
+    "hash": "6FFF27BDCC0BE96A",
+    "name": "msg_ui_btl_pokeselect_kouka_03"
+  },
+  {
+    "index": 73,
+    "hash": "C8E9C2E05CB54A73",
+    "name": "msg_ui_btl_pokeselect_playername"
+  },
+  {
+    "index": 74,
+    "hash": "D7443CDEC82B44E2",
+    "name": "msg_ui_btl_raid_pokewaza"
+  },
+  {
+    "index": 75,
+    "hash": "2FB95E39C76E8131",
+    "name": "msg_ui_btl_ball_category"
+  },
+  {
+    "index": 76,
+    "hash": "4D1A1876446D1F26",
+    "name": "msg_ui_btl_ball_name"
+  },
+  {
+    "index": 77,
+    "hash": "760B9F849A608794",
+    "name": "msg_ui_btl_ball_count"
+  },
+  {
+    "index": 78,
+    "hash": "F9B67E889D7758DF",
+    "name": "msg_ui_btl_raid_pokewaza_00"
+  },
+  {
+    "index": 79,
+    "hash": "B3275D345D4F4ABA",
+    "name": "msg_ui_btl_ball_category_00"
+  },
+  {
+    "index": 80,
+    "hash": "4DB3B4D9447B6193",
+    "name": "msg_ui_btl_ball_name_00"
+  },
+  {
+    "index": 81,
+    "hash": "C2B826F898D83559",
+    "name": "msg_ui_btl_ball_count_00"
+  },
+  {
+    "index": 82,
+    "hash": "B4D1DCEAFAE02611",
+    "name": "msg_ui_btl_wazainfo_00"
+  },
+  {
+    "index": 83,
+    "hash": "B4D1DBEAFAE0245E",
+    "name": "msg_ui_btl_wazainfo_01"
+  },
+  {
+    "index": 84,
+    "hash": "B4D1DAEAFAE022AB",
+    "name": "msg_ui_btl_wazainfo_02"
+  },
+  {
+    "index": 85,
+    "hash": "B4D1D9EAFAE020F8",
+    "name": "msg_ui_btl_wazainfo_03"
+  },
+  {
+    "index": 86,
+    "hash": "B4D1E0EAFAE02CDD",
+    "name": "msg_ui_btl_wazainfo_04"
+  },
+  {
+    "index": 87,
+    "hash": "B4D1DFEAFAE02B2A",
+    "name": "msg_ui_btl_wazainfo_05"
+  },
+  {
+    "index": 88,
+    "hash": "0D968F4490CF6716",
+    "name": "msg_ui_btl_watching_01"
+  },
+  {
+    "index": 89,
+    "hash": "0D968E4490CF6563",
+    "name": "msg_ui_btl_watching_02"
+  },
+  {
+    "index": 90,
+    "hash": "5596F1F7B4304BF8",
+    "name": "STR_ITEM_NAME"
+  },
+  {
+    "index": 91,
+    "hash": "80A29FF5A9D959CC",
+    "name": "STR_TRAINER_NAME"
+  },
+  {
+    "index": 92,
+    "hash": "473E9D6116B78C4C",
+    "name": "STR_VS_PLAYER_NAME"
+  },
+  {
+    "index": 93,
+    "hash": "383833225D70584F",
+    "name": "STR_BTL_STATE_NAME"
+  },
+  {
+    "index": 94,
+    "hash": "639526DAE3421D65",
+    "name": "STR_PP"
+  },
+  {
+    "index": 95,
+    "hash": "63A360DAE34EBD4F",
+    "name": "STR_LV"
+  },
+  {
+    "index": 96,
+    "hash": "2C46F43AB361CE39",
+    "name": "STR_LV_S"
+  },
+  {
+    "index": 97,
+    "hash": "5038A6E47D514E8F",
+    "name": "STR_VALUE_2"
+  },
+  {
+    "index": 98,
+    "hash": "5038A5E47D514CDC",
+    "name": "STR_VALUE_3"
+  },
+  {
+    "index": 99,
+    "hash": "3F97C54604DCE869",
+    "name": "STR_WAZA_FULLPOWER_NG"
+  },
+  {
+    "index": 100,
+    "hash": "2ADECBF42F9EF8DB",
+    "name": "STR_SELECT_POKE"
+  },
+  {
+    "index": 101,
+    "hash": "AB22F2E3DDD7B483",
+    "name": "STR_SELECT_POKE_ITEM"
+  },
+  {
+    "index": 102,
+    "hash": "79134C703624DACA",
+    "name": "STR_SELECT_POKE_FIGHT"
+  },
+  {
+    "index": 103,
+    "hash": "0667EFCC51E835C5",
+    "name": "STR_SELECT_POKE_BOX"
+  },
+  {
+    "index": 104,
+    "hash": "EB32602F8DA2FFA0",
+    "name": "STR_CMD_ALREADY"
+  },
+  {
+    "index": 105,
+    "hash": "ABA755F875E4A44A",
+    "name": "STR_CMD_DEAD"
+  },
+  {
+    "index": 106,
+    "hash": "94D60FE0E187BF9E",
+    "name": "STR_CMD_PARTNER"
+  },
+  {
+    "index": 107,
+    "hash": "B20FE254D5091A21",
+    "name": "STR_CMD_WAZA_ERR"
+  },
+  {
+    "index": 108,
+    "hash": "05FC78ABCD455D81",
+    "name": "STR_CMD_SELECT_2"
+  },
+  {
+    "index": 109,
+    "hash": "AE18D9293101B8D1",
+    "name": "STR_CMD_EGG"
+  },
+  {
+    "index": 110,
+    "hash": "3CF8224B6A858F84",
+    "name": "STR_WLST_WHICH_RECOVER"
+  },
+  {
+    "index": 111,
+    "hash": "1955953700C006BC",
+    "name": "STR_WLST_SELECT_01"
+  },
+  {
+    "index": 112,
+    "hash": "1955983700C00BD5",
+    "name": "STR_WLST_SELECT_02"
+  },
+  {
+    "index": 113,
+    "hash": "1955973700C00A22",
+    "name": "STR_WLST_SELECT_03"
+  },
+  {
+    "index": 114,
+    "hash": "281010D1883F218D",
+    "name": "str_btl_bag_00"
+  },
+  {
+    "index": 115,
+    "hash": "28100FD1883F1FDA",
+    "name": "str_btl_bag_01"
+  },
+  {
+    "index": 116,
+    "hash": "28100DD1883F1C74",
+    "name": "str_btl_bag_03"
+  },
+  {
+    "index": 117,
+    "hash": "28100CD1883F1AC1",
+    "name": "str_btl_bag_04"
+  },
+  {
+    "index": 118,
+    "hash": "28100AD1883F175B",
+    "name": "str_btl_bag_06"
+  },
+  {
+    "index": 119,
+    "hash": "281008D1883F13F5",
+    "name": "str_btl_bag_08"
+  },
+  {
+    "index": 120,
+    "hash": "281007D1883F1242",
+    "name": "str_btl_bag_09"
+  },
+  {
+    "index": 121,
+    "hash": "280C8AD1883C0804",
+    "name": "str_btl_bag_10"
+  },
+  {
+    "index": 122,
+    "hash": "280C8BD1883C09B7",
+    "name": "str_btl_bag_11"
+  },
+  {
+    "index": 123,
+    "hash": "280C8CD1883C0B6A",
+    "name": "str_btl_bag_12"
+  },
+  {
+    "index": 124,
+    "hash": "280C86D1883C0138",
+    "name": "str_btl_bag_14"
+  },
+  {
+    "index": 125,
+    "hash": "280C87D1883C02EB",
+    "name": "str_btl_bag_15"
+  },
+  {
+    "index": 126,
+    "hash": "280C88D1883C049E",
+    "name": "str_btl_bag_16"
+  },
+  {
+    "index": 127,
+    "hash": "280C89D1883C0651",
+    "name": "str_btl_bag_17"
+  },
+  {
+    "index": 128,
+    "hash": "280C8DD1883C0D1D",
+    "name": "str_btl_bag_13"
+  },
+  {
+    "index": 129,
+    "hash": "7030D08E22FF802F",
+    "name": "str_btl_yesno_00_01"
+  },
+  {
+    "index": 130,
+    "hash": "7030D18E22FF81E2",
+    "name": "str_btl_yesno_00_02"
+  },
+  {
+    "index": 131,
+    "hash": "4429E487C1959D7A",
+    "name": "str_btl_yesno_01_01"
+  },
+  {
+    "index": 132,
+    "hash": "4429E387C1959BC7",
+    "name": "str_btl_yesno_01_02"
+  },
+  {
+    "index": 133,
+    "hash": "9D5EA4A108E6C3ED",
+    "name": "str_btl_yesno_02_01"
+  },
+  {
+    "index": 134,
+    "hash": "9D5EA1A108E6BED4",
+    "name": "str_btl_yesno_02_02"
+  },
+  {
+    "index": 135,
+    "hash": "C7DC9895BF7DFFD8",
+    "name": "str_btl_yesno_03_01"
+  },
+  {
+    "index": 136,
+    "hash": "C7DC9B95BF7E04F1",
+    "name": "str_btl_yesno_03_02"
+  },
+  {
+    "index": 137,
+    "hash": "FD103FE4F5E0BA89",
+    "name": "str_btl_pos_00"
+  },
+  {
+    "index": 138,
+    "hash": "9A6C7FD591C3D94B",
+    "name": "str_btl_ppsel_00"
+  },
+  {
+    "index": 139,
+    "hash": "839E0216BC281C00",
+    "name": "str_btl_pos_select_R"
+  },
+  {
+    "index": 140,
+    "hash": "839E2016BC284EFA",
+    "name": "str_btl_pos_select_L"
+  },
+  {
+    "index": 141,
+    "hash": "79E8252075A80A95",
+    "name": "str_btl_item_count"
+  },
+  {
+    "index": 142,
+    "hash": "938094FC55CBEF23",
+    "name": "str_btl_page_slash"
+  },
+  {
+    "index": 143,
+    "hash": "A711E44CD78FA9D6",
+    "name": "str_btl_poke_hp_slash"
+  },
+  {
+    "index": 144,
+    "hash": "F7BEAD94D5638122",
+    "name": "str_btl_poke_lv"
+  },
+  {
+    "index": 145,
+    "hash": "A894C4E6C2A244DB",
+    "name": "str_btl_poke_exp"
+  },
+  {
+    "index": 146,
+    "hash": "E91237CF97C5EF0D",
+    "name": "str_btl_poke_exp_s"
+  },
+  {
+    "index": 147,
+    "hash": "F7E1A9FFF5F501C0",
+    "name": "str_btl_poke_hyphen"
+  },
+  {
+    "index": 148,
+    "hash": "5CB6DFE44A31B4FC",
+    "name": "str_btl_rate"
+  },
+  {
+    "index": 149,
+    "hash": "313628C76AF81B0E",
+    "name": "str_btl_rate_01"
+  },
+  {
+    "index": 150,
+    "hash": "AD685941BE62E79A",
+    "name": "str_LA_waza"
+  },
+  {
+    "index": 151,
+    "hash": "2BC69F525F35A4AB",
+    "name": "str_pokeparure_01_01"
+  },
+  {
+    "index": 152,
+    "hash": "82B6C00B99E1807D",
+    "name": "str_btr_wait"
+  },
+  {
+    "index": 153,
+    "hash": "9AD1A01AC58A6603",
+    "name": "battle_video_player_sys_01"
+  },
+  {
+    "index": 154,
+    "hash": "9AD1A11AC58A67B6",
+    "name": "battle_video_player_sys_02"
+  },
+  {
+    "index": 155,
+    "hash": "AC16902020E21ACC",
+    "name": "battle_video_player_sel_01"
+  },
+  {
+    "index": 156,
+    "hash": "AC16932020E21FE5",
+    "name": "battle_video_player_sel_02"
+  },
+  {
+    "index": 157,
+    "hash": "8C2E084F2D5B95BE",
+    "name": "battle_video_player_win_01"
+  },
+  {
+    "index": 158,
+    "hash": "8C2E074F2D5B940B",
+    "name": "battle_video_player_win_02"
+  },
+  {
+    "index": 159,
+    "hash": "F7D636205451EABF",
+    "name": "STR_ZPINFO_01"
+  },
+  {
+    "index": 160,
+    "hash": "F7D637205451EC72",
+    "name": "STR_ZPINFO_02"
+  },
+  {
+    "index": 161,
+    "hash": "F7D638205451EE25",
+    "name": "STR_ZPINFO_03"
+  },
+  {
+    "index": 162,
+    "hash": "F7D631205451E240",
+    "name": "STR_ZPINFO_04"
+  },
+  {
+    "index": 163,
+    "hash": "F7D632205451E3F3",
+    "name": "STR_ZPINFO_05"
+  },
+  {
+    "index": 164,
+    "hash": "F7D633205451E5A6",
+    "name": "STR_ZPINFO_06"
+  },
+  {
+    "index": 165,
+    "hash": "F7D634205451E759",
+    "name": "STR_ZPINFO_07"
+  },
+  {
+    "index": 166,
+    "hash": "F7D63D205451F6A4",
+    "name": "STR_ZPINFO_08"
+  },
+  {
+    "index": 167,
+    "hash": "F7D63E205451F857",
+    "name": "STR_ZPINFO_09"
+  },
+  {
+    "index": 168,
+    "hash": "F7D9BB2054550295",
+    "name": "STR_ZPINFO_10"
+  },
+  {
+    "index": 169,
+    "hash": "F7D9BA20545500E2",
+    "name": "STR_ZPINFO_11"
+  },
+  {
+    "index": 170,
+    "hash": "F7D9B9205454FF2F",
+    "name": "STR_ZPINFO_12"
+  },
+  {
+    "index": 171,
+    "hash": "F7D9B8205454FD7C",
+    "name": "STR_ZPINFO_13"
+  },
+  {
+    "index": 172,
+    "hash": "F7D9B7205454FBC9",
+    "name": "STR_ZPINFO_14"
+  },
+  {
+    "index": 173,
+    "hash": "F7D9B6205454FA16",
+    "name": "STR_ZPINFO_15"
+  },
+  {
+    "index": 174,
+    "hash": "F7D9B5205454F863",
+    "name": "STR_ZPINFO_16"
+  },
+  {
+    "index": 175,
+    "hash": "F7D9B4205454F6B0",
+    "name": "STR_ZPINFO_17"
+  },
+  {
+    "index": 176,
+    "hash": "F7D9C3205455102D",
+    "name": "STR_ZPINFO_18"
+  },
+  {
+    "index": 177,
+    "hash": "F7D9C22054550E7A",
+    "name": "STR_ZPINFO_19"
+  },
+  {
+    "index": 178,
+    "hash": "F7DD412054581C1E",
+    "name": "STR_ZPINFO_20"
+  },
+  {
+    "index": 179,
+    "hash": "F7DD422054581DD1",
+    "name": "STR_ZPINFO_21"
+  },
+  {
+    "index": 180,
+    "hash": "F7DD3F20545818B8",
+    "name": "STR_ZPINFO_22"
+  },
+  {
+    "index": 181,
+    "hash": "F7DD402054581A6B",
+    "name": "STR_ZPINFO_23"
+  },
+  {
+    "index": 182,
+    "hash": "F7DD4520545822EA",
+    "name": "STR_ZPINFO_24"
+  },
+  {
+    "index": 183,
+    "hash": "F7DD46205458249D",
+    "name": "STR_ZPINFO_25"
+  },
+  {
+    "index": 184,
+    "hash": "F7DD432054581F84",
+    "name": "STR_ZPINFO_26"
+  },
+  {
+    "index": 185,
+    "hash": "F7DD442054582137",
+    "name": "STR_ZPINFO_27"
+  },
+  {
+    "index": 186,
+    "hash": "F7DD392054580E86",
+    "name": "STR_ZPINFO_28"
+  },
+  {
+    "index": 187,
+    "hash": "F7DD3A2054581039",
+    "name": "STR_ZPINFO_29"
+  },
+  {
+    "index": 188,
+    "hash": "F7E0C720545B35A7",
+    "name": "STR_ZPINFO_30"
+  },
+  {
+    "index": 189,
+    "hash": "EBA23D98C9F4BC7F",
+    "name": "STR_ROTOM_INFO_NAME"
+  },
+  {
+    "index": 190,
+    "hash": "08E7C3256D1CE5D4",
+    "name": "STR_ROTOM_INFO_NUM"
+  },
+  {
+    "index": 191,
+    "hash": "70AF6DB916837B0D",
+    "name": "STR_ROTOM_INFO_NUM_UNKNOWN"
+  },
+  {
+    "index": 192,
+    "hash": "280C82D1883BFA6C",
+    "name": "str_btl_bag_18"
+  },
+  {
+    "index": 193,
+    "hash": "280C83D1883BFC1F",
+    "name": "str_btl_bag_19"
+  },
+  {
+    "index": 194,
+    "hash": "C6645542A0B2F84B",
+    "name": "str_btl_result_01"
+  },
+  {
+    "index": 195,
+    "hash": "C6645642A0B2F9FE",
+    "name": "str_btl_result_02"
+  },
+  {
+    "index": 196,
+    "hash": "C6645742A0B2FBB1",
+    "name": "str_btl_result_03"
+  },
+  {
+    "index": 197,
+    "hash": "C6645A42A0B300CA",
+    "name": "str_btl_result_06"
+  },
+  {
+    "index": 198,
+    "hash": "C6645842A0B2FD64",
+    "name": "str_btl_result_04"
+  },
+  {
+    "index": 199,
+    "hash": "C6645942A0B2FF17",
+    "name": "str_btl_result_05"
+  },
+  {
+    "index": 200,
+    "hash": "5F541D77F05E04A2",
+    "name": "msg_btl_app_max"
+  }
+]

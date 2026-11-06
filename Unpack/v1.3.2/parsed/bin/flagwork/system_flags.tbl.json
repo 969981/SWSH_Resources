@@ -1,0 +1,1902 @@
+[
+  {
+    "index": 0,
+    "hash": "7D0B1CED4DBE8A87",
+    "name": "FSYS_GAME_CLEAR"
+  },
+  {
+    "index": 1,
+    "hash": "711644F9ED6E814D",
+    "name": "FSYS_XMENU_OPEN_ZUKAN"
+  },
+  {
+    "index": 2,
+    "hash": "6E7137BDE4EB839D",
+    "name": "FSYS_XMENU_OPEN_POKEMON"
+  },
+  {
+    "index": 3,
+    "hash": "B0C294D6B1C29772",
+    "name": "FSYS_XMENU_OPEN_BAG"
+  },
+  {
+    "index": 4,
+    "hash": "24395E11B39286E2",
+    "name": "FSYS_XMENU_OPEN_SETTEI"
+  },
+  {
+    "index": 5,
+    "hash": "4F5F068981386C6E",
+    "name": "FSYS_XMENU_OPEN_REPORT"
+  },
+  {
+    "index": 6,
+    "hash": "557160D5E49BDA61",
+    "name": "FSYS_XMENU_OPEN_CAMP"
+  },
+  {
+    "index": 7,
+    "hash": "040F875664C9A71F",
+    "name": "FSYS_XMENU_OPEN_OKURIMONO"
+  },
+  {
+    "index": 8,
+    "hash": "402094D671F4F522",
+    "name": "FSYS_XMENU_OPEN_MAP"
+  },
+  {
+    "index": 9,
+    "hash": "627252F20DDE1E67",
+    "name": "FSYS_XMENU_OPEN_LICENSE"
+  },
+  {
+    "index": 10,
+    "hash": "5A7C7F4806373534",
+    "name": "FSYS_XMENU_OPEN_TUUSIN"
+  },
+  {
+    "index": 11,
+    "hash": "22936F41299E4801",
+    "name": "FSYS_GYM_CLEAR_FIRST"
+  },
+  {
+    "index": 12,
+    "hash": "A8094414FF80169D",
+    "name": "FSYS_GYM_CLEAR_SECOND"
+  },
+  {
+    "index": 13,
+    "hash": "82D47CF97F29D95E",
+    "name": "FSYS_GYM_CLEAR_THIRD"
+  },
+  {
+    "index": 14,
+    "hash": "E10DC20971BFDED1",
+    "name": "FSYS_GYM_CLEAR_FOURTH"
+  },
+  {
+    "index": 15,
+    "hash": "CFE185418BCBBCDE",
+    "name": "FSYS_GYM_CLEAR_FIFTH"
+  },
+  {
+    "index": 16,
+    "hash": "E0522BD5FE5A7D5F",
+    "name": "FSYS_GYM_CLEAR_SIXTH"
+  },
+  {
+    "index": 17,
+    "hash": "D02C8568C90B46C2",
+    "name": "FSYS_GYM_CLEAR_SEVENTH"
+  },
+  {
+    "index": 18,
+    "hash": "2277DCC8375FD6A8",
+    "name": "FSYS_GYM_CLEAR_EIGHTH"
+  },
+  {
+    "index": 19,
+    "hash": "D618FE95D0E267EB",
+    "name": "FSYS_JUDGE_OPEN"
+  },
+  {
+    "index": 20,
+    "hash": "AFEFD2F29686664A",
+    "name": "FSYS_FLAG_WILD_SPAWN"
+  },
+  {
+    "index": 21,
+    "hash": "2FD93CC0CA69D102",
+    "name": "FSYS_FLAG_SYMBOL_SPAWN"
+  },
+  {
+    "index": 22,
+    "hash": "903B22367526A53C",
+    "name": "FSYS_FLAG_NAMINORI_OPEN"
+  },
+  {
+    "index": 23,
+    "hash": "40D19A490012B380",
+    "name": "FSYS_FLAG_SORAWOTOBU_OPEN"
+  },
+  {
+    "index": 24,
+    "hash": "EB5178B9A0F65ED4",
+    "name": "FSYS_FLAG_CAN_NOT_FLY"
+  },
+  {
+    "index": 25,
+    "hash": "C4EA335D95278FBB",
+    "name": "FSYS_TIPS_OPEN_JIKKYOU"
+  },
+  {
+    "index": 26,
+    "hash": "42B184DBA09A6686",
+    "name": "FSYS_TIPS_OPEN_LICENSE"
+  },
+  {
+    "index": 27,
+    "hash": "D0D740A8A9C7E138",
+    "name": "FSYS_TIPS_OPEN_BTL_SPOT"
+  },
+  {
+    "index": 28,
+    "hash": "3D668A5C40194E2C",
+    "name": "FSYS_TIPS_OPEN_G_POKE"
+  },
+  {
+    "index": 29,
+    "hash": "8DF10A9D399F7947",
+    "name": "FSYS_TIPS_OPEN_KAWAIGARI"
+  },
+  {
+    "index": 30,
+    "hash": "9719FFCA86F6E0B7",
+    "name": "FSYS_TIPS_OPEN_RYOURI"
+  },
+  {
+    "index": 31,
+    "hash": "BEE016A074F7B837",
+    "name": "FSYS_TIPS_OPEN_POKE_SU"
+  },
+  {
+    "index": 32,
+    "hash": "9A3C19AA53415676",
+    "name": "FSYS_TIPS_OPEN_BTL_KYOURYOKU"
+  },
+  {
+    "index": 33,
+    "hash": "69DA3D5D146ADD4A",
+    "name": "FSYS_TIPS_OPEN_SORAWOTOBU"
+  },
+  {
+    "index": 34,
+    "hash": "3FB1528165D77740",
+    "name": "FSYS_TIPS_OPEN_BOX"
+  },
+  {
+    "index": 35,
+    "hash": "FBE234813FDB1006",
+    "name": "FSYS_TIPS_OPEN_JOB"
+  },
+  {
+    "index": 36,
+    "hash": "A4FFE440B21CD9C3",
+    "name": "FSYS_BTL_BGM_OPEN_VS04"
+  },
+  {
+    "index": 37,
+    "hash": "A4FFE340B21CD810",
+    "name": "FSYS_BTL_BGM_OPEN_VS05"
+  },
+  {
+    "index": 38,
+    "hash": "A4FFE640B21CDD29",
+    "name": "FSYS_BTL_BGM_OPEN_VS06"
+  },
+  {
+    "index": 39,
+    "hash": "A4FFE540B21CDB76",
+    "name": "FSYS_BTL_BGM_OPEN_VS07"
+  },
+  {
+    "index": 40,
+    "hash": "A4FFF040B21CEE27",
+    "name": "FSYS_BTL_BGM_OPEN_VS08"
+  },
+  {
+    "index": 41,
+    "hash": "A4FFEF40B21CEC74",
+    "name": "FSYS_BTL_BGM_OPEN_VS09"
+  },
+  {
+    "index": 42,
+    "hash": "A4FC6240B219C706",
+    "name": "FSYS_BTL_BGM_OPEN_VS10"
+  },
+  {
+    "index": 43,
+    "hash": "A4FC6340B219C8B9",
+    "name": "FSYS_BTL_BGM_OPEN_VS11"
+  },
+  {
+    "index": 44,
+    "hash": "A4FC6140B219C553",
+    "name": "FSYS_BTL_BGM_OPEN_VS13"
+  },
+  {
+    "index": 45,
+    "hash": "A4FC6640B219CDD2",
+    "name": "FSYS_BTL_BGM_OPEN_VS14"
+  },
+  {
+    "index": 46,
+    "hash": "A4FC6740B219CF85",
+    "name": "FSYS_BTL_BGM_OPEN_VS15"
+  },
+  {
+    "index": 47,
+    "hash": "A4FC6440B219CA6C",
+    "name": "FSYS_BTL_BGM_OPEN_VS16"
+  },
+  {
+    "index": 48,
+    "hash": "A4FC6540B219CC1F",
+    "name": "FSYS_BTL_BGM_OPEN_VS17"
+  },
+  {
+    "index": 49,
+    "hash": "A4FC6A40B219D49E",
+    "name": "FSYS_BTL_BGM_OPEN_VS18"
+  },
+  {
+    "index": 50,
+    "hash": "A4FC6B40B219D651",
+    "name": "FSYS_BTL_BGM_OPEN_VS19"
+  },
+  {
+    "index": 51,
+    "hash": "A4F8FC40B216E3DD",
+    "name": "FSYS_BTL_BGM_OPEN_VS20"
+  },
+  {
+    "index": 52,
+    "hash": "A4F8FB40B216E22A",
+    "name": "FSYS_BTL_BGM_OPEN_VS21"
+  },
+  {
+    "index": 53,
+    "hash": "A4F8FA40B216E077",
+    "name": "FSYS_BTL_BGM_OPEN_VS22"
+  },
+  {
+    "index": 54,
+    "hash": "A4F8F940B216DEC4",
+    "name": "FSYS_BTL_BGM_OPEN_VS23"
+  },
+  {
+    "index": 55,
+    "hash": "973FE0E132A339E9",
+    "name": "FSYS_SECRET_BOX"
+  },
+  {
+    "index": 56,
+    "hash": "85E072D492F1C8F1",
+    "name": "FSYS_ROTOM_TANMATSU_OPEN_BOX"
+  },
+  {
+    "index": 57,
+    "hash": "2EE9DA3BA2B57E1B",
+    "name": "FSYS_ROTOM_TANMATSU_OPEN_LICENSE"
+  },
+  {
+    "index": 58,
+    "hash": "40CA80D46BDF36DB",
+    "name": "FSYS_ROTOM_TANMATSU_OPEN_JOB"
+  },
+  {
+    "index": 59,
+    "hash": "74197E9AC3E193FD",
+    "name": "FSYS_D1_GAMEOVER"
+  },
+  {
+    "index": 60,
+    "hash": "240B6D544F18BEC3",
+    "name": "FSYS_NPC_TRADE_01"
+  },
+  {
+    "index": 61,
+    "hash": "240B6E544F18C076",
+    "name": "FSYS_NPC_TRADE_02"
+  },
+  {
+    "index": 62,
+    "hash": "240B6F544F18C229",
+    "name": "FSYS_NPC_TRADE_03"
+  },
+  {
+    "index": 63,
+    "hash": "240B70544F18C3DC",
+    "name": "FSYS_NPC_TRADE_04"
+  },
+  {
+    "index": 64,
+    "hash": "240B71544F18C58F",
+    "name": "FSYS_NPC_TRADE_05"
+  },
+  {
+    "index": 65,
+    "hash": "240B72544F18C742",
+    "name": "FSYS_NPC_TRADE_06"
+  },
+  {
+    "index": 66,
+    "hash": "240B73544F18C8F5",
+    "name": "FSYS_NPC_TRADE_07"
+  },
+  {
+    "index": 67,
+    "hash": "240B74544F18CAA8",
+    "name": "FSYS_NPC_TRADE_08"
+  },
+  {
+    "index": 68,
+    "hash": "240B75544F18CC5B",
+    "name": "FSYS_NPC_TRADE_09"
+  },
+  {
+    "index": 69,
+    "hash": "240E72544F1AFD19",
+    "name": "FSYS_NPC_TRADE_10"
+  },
+  {
+    "index": 70,
+    "hash": "240E71544F1AFB66",
+    "name": "FSYS_NPC_TRADE_11"
+  },
+  {
+    "index": 71,
+    "hash": "9D64F44D62746803",
+    "name": "FSYS_POKEJOB_OPEN_EV01"
+  },
+  {
+    "index": 72,
+    "hash": "9D64F54D627469B6",
+    "name": "FSYS_POKEJOB_OPEN_EV02"
+  },
+  {
+    "index": 73,
+    "hash": "9D64F64D62746B69",
+    "name": "FSYS_POKEJOB_OPEN_EV03"
+  },
+  {
+    "index": 74,
+    "hash": "9D64F74D62746D1C",
+    "name": "FSYS_POKEJOB_OPEN_EV04"
+  },
+  {
+    "index": 75,
+    "hash": "9D64F84D62746ECF",
+    "name": "FSYS_POKEJOB_OPEN_EV05"
+  },
+  {
+    "index": 76,
+    "hash": "9D64F94D62747082",
+    "name": "FSYS_POKEJOB_OPEN_EV06"
+  },
+  {
+    "index": 77,
+    "hash": "9D64FA4D62747235",
+    "name": "FSYS_POKEJOB_OPEN_EV07"
+  },
+  {
+    "index": 78,
+    "hash": "9D64FB4D627473E8",
+    "name": "FSYS_POKEJOB_OPEN_EV08"
+  },
+  {
+    "index": 79,
+    "hash": "9D64FC4D6274759B",
+    "name": "FSYS_POKEJOB_OPEN_EV09"
+  },
+  {
+    "index": 80,
+    "hash": "9D67F94D6276A659",
+    "name": "FSYS_POKEJOB_OPEN_EV10"
+  },
+  {
+    "index": 81,
+    "hash": "9D67F84D6276A4A6",
+    "name": "FSYS_POKEJOB_OPEN_EV11"
+  },
+  {
+    "index": 82,
+    "hash": "11F4E1CBDE0EEF6F",
+    "name": "FSYS_LIVE_COMM_OPEN"
+  },
+  {
+    "index": 83,
+    "hash": "8481568245E850BE",
+    "name": "FSYS_POKECAMP_OPEN_YASURAGI_BALL"
+  },
+  {
+    "index": 84,
+    "hash": "5C5CDF729B6CD5A2",
+    "name": "FSYS_POKECAMP_OPEN_MIRROR_BALL"
+  },
+  {
+    "index": 85,
+    "hash": "F12D7D1BEA3E6881",
+    "name": "FSYS_POKECAMP_OPEN_OTAMA_BALL"
+  },
+  {
+    "index": 86,
+    "hash": "0933F41945FD94D6",
+    "name": "FSYS_POKECAMP_OPEN_CHAMPION_BALL"
+  },
+  {
+    "index": 87,
+    "hash": "6BD193CD72D4B15E",
+    "name": "FSYS_POKECAMP_OPEN_GOLDEN_KITCHENWARE"
+  },
+  {
+    "index": 88,
+    "hash": "B8668E3A88FE6F97",
+    "name": "FSYS_POKECAMP_USE_GOLDEN_KITCHENWARE"
+  },
+  {
+    "index": 89,
+    "hash": "9D10531FE49088C4",
+    "name": "FSYS_POKECAMP_OPEN_HEAVY_BALL"
+  },
+  {
+    "index": 90,
+    "hash": "15641741AFA33CBD",
+    "name": "FSYS_POKECAMP_OPEN_FRESH_BALL"
+  },
+  {
+    "index": 91,
+    "hash": "E27E36C9E7CFD0E6",
+    "name": "FSYS_TUUTI_WR_ENABLE"
+  },
+  {
+    "index": 92,
+    "hash": "301C8139368419BF",
+    "name": "FSYS_CAPTURE_COUNT"
+  },
+  {
+    "index": 93,
+    "hash": "67F239D261A2C946",
+    "name": "FSYS_BIRTHDAY"
+  },
+  {
+    "index": 94,
+    "hash": "CF2478287DF6C2AA",
+    "name": "FSYS_LEAPER_BIRTHDAY"
+  },
+  {
+    "index": 95,
+    "hash": "BD07C2B80232E9B0",
+    "name": "FSYS_SEED_CHALLENGE"
+  },
+  {
+    "index": 96,
+    "hash": "62D01CDB4884649A",
+    "name": "FSYS_LICENSE_MATERIAL_ADD"
+  },
+  {
+    "index": 97,
+    "hash": "7305C919D8BFA59C",
+    "name": "FSYS_DESUMASU_EVOLVE_ENABLE"
+  },
+  {
+    "index": 98,
+    "hash": "55D23C0D106AC553",
+    "name": "FSYS_ROTOM_TANMATSU_OPEN_ID_LOTTERY"
+  },
+  {
+    "index": 99,
+    "hash": "4562C6961C74460E",
+    "name": "FSYS_PLAY_LETSGO_PIKACHU"
+  },
+  {
+    "index": 100,
+    "hash": "97EED939C804E4AF",
+    "name": "FSYS_PLAY_LETSGO_EEVEE"
+  },
+  {
+    "index": 101,
+    "hash": "ADF4EF67BF24DDAE",
+    "name": "FSYS_PLAY_POKEMON_QUEST"
+  },
+  {
+    "index": 102,
+    "hash": "A5061DD5B223288C",
+    "name": "FSYS_MAPICON_T03"
+  },
+  {
+    "index": 103,
+    "hash": "A5061CD5B22326D9",
+    "name": "FSYS_MAPICON_T04"
+  },
+  {
+    "index": 104,
+    "hash": "F28F14D5DDEF615B",
+    "name": "FSYS_MAPICON_C01"
+  },
+  {
+    "index": 105,
+    "hash": "A5061BD5B2232526",
+    "name": "FSYS_MAPICON_T05"
+  },
+  {
+    "index": 106,
+    "hash": "A5061AD5B2232373",
+    "name": "FSYS_MAPICON_T06"
+  },
+  {
+    "index": 107,
+    "hash": "A50619D5B22321C0",
+    "name": "FSYS_MAPICON_T07"
+  },
+  {
+    "index": 108,
+    "hash": "F28F15D5DDEF630E",
+    "name": "FSYS_MAPICON_C02"
+  },
+  {
+    "index": 109,
+    "hash": "A52B1C47E24FEA30",
+    "name": "FSYS_TRLICENCE_EV0570_END"
+  },
+  {
+    "index": 110,
+    "hash": "B9985332FDCC9451",
+    "name": "FSYS_TRLICENCE_EV0700_END"
+  },
+  {
+    "index": 111,
+    "hash": "EC7C1A9080A703C5",
+    "name": "FSYS_TRLICENCE_EV1260_END"
+  },
+  {
+    "index": 112,
+    "hash": "AF55E69334B0D5E8",
+    "name": "FSYS_TRLICENCE_EXEV_START"
+  },
+  {
+    "index": 113,
+    "hash": "DCAF3A788CBE6D4B",
+    "name": "FSYS_TRLICENCE_EXEV_HONOO"
+  },
+  {
+    "index": 114,
+    "hash": "436F9A1F37AFE5F0",
+    "name": "FSYS_TRLICENCE_EXEV_KUSA"
+  },
+  {
+    "index": 115,
+    "hash": "EBF7B5ED6DB18113",
+    "name": "FSYS_TRLICENCE_EXEV_MIZU"
+  },
+  {
+    "index": 116,
+    "hash": "322A965A75333DAB",
+    "name": "FSYS_TRLICENCE_EXEV_RYUU"
+  },
+  {
+    "index": 117,
+    "hash": "71AB43933C0A523D",
+    "name": "FSYS_TRLICENCE_EXEV_KAKUTOU_GOOSUTO"
+  },
+  {
+    "index": 118,
+    "hash": "8F5BBE547A67C926",
+    "name": "FSYS_TRLICENCE_EXEV_IWA_KOORI"
+  },
+  {
+    "index": 119,
+    "hash": "147DC72EE4136279",
+    "name": "FSYS_TRLICENCE_EXEV_END"
+  },
+  {
+    "index": 120,
+    "hash": "E8DA890413007B5C",
+    "name": "FSYS_TRLICENCE_SUB_EV_BALLGUY_END"
+  },
+  {
+    "index": 121,
+    "hash": "98132C2AAC8DEEFF",
+    "name": "FSYS_ARRIVE_T0101"
+  },
+  {
+    "index": 122,
+    "hash": "B1363B2ABA8D53BA",
+    "name": "FSYS_ARRIVE_T0201"
+  },
+  {
+    "index": 123,
+    "hash": "F9F940E4EC527076",
+    "name": "FSYS_ARRIVE_C0101"
+  },
+  {
+    "index": 124,
+    "hash": "A820022AB548F355",
+    "name": "FSYS_ARRIVE_T0301"
+  },
+  {
+    "index": 125,
+    "hash": "7CD0B92A9CC12CF8",
+    "name": "FSYS_ARRIVE_T0401"
+  },
+  {
+    "index": 126,
+    "hash": "DF2351E4DCE1AD9B",
+    "name": "FSYS_ARRIVE_C0201"
+  },
+  {
+    "index": 127,
+    "hash": "756D802A98EE6113",
+    "name": "FSYS_ARRIVE_T0501"
+  },
+  {
+    "index": 128,
+    "hash": "8EFD0F2AA749BE2E",
+    "name": "FSYS_ARRIVE_T0601"
+  },
+  {
+    "index": 129,
+    "hash": "85E6D62AA2055DC9",
+    "name": "FSYS_ARRIVE_T0701"
+  },
+  {
+    "index": 130,
+    "hash": "E59C1D2AD85A1D9C",
+    "name": "FSYS_ARRIVE_T0801"
+  },
+  {
+    "index": 131,
+    "hash": "E8396AE4E225D7A0",
+    "name": "FSYS_ARRIVE_C0301"
+  },
+  {
+    "index": 132,
+    "hash": "E83971E4E225E385",
+    "name": "FSYS_ARRIVE_C0306"
+  },
+  {
+    "index": 133,
+    "hash": "94CD43C0C123D2F9",
+    "name": "FSYS_ARRIVE_R0101"
+  },
+  {
+    "index": 134,
+    "hash": "8BB726C0BBDFA228",
+    "name": "FSYS_ARRIVE_R0201"
+  },
+  {
+    "index": 135,
+    "hash": "8BB729C0BBDFA741",
+    "name": "FSYS_ARRIVE_R0202"
+  },
+  {
+    "index": 136,
+    "hash": "82A0EDC0B69B41C3",
+    "name": "FSYS_ARRIVE_R0301"
+  },
+  {
+    "index": 137,
+    "hash": "C01CA8C0D9ABC8EA",
+    "name": "FSYS_ARRIVE_R0401"
+  },
+  {
+    "index": 138,
+    "hash": "B7066FC0D4676885",
+    "name": "FSYS_ARRIVE_R0501"
+  },
+  {
+    "index": 139,
+    "hash": "AE5CD2C0CF7F3014",
+    "name": "FSYS_ARRIVE_R0601"
+  },
+  {
+    "index": 140,
+    "hash": "A54699C0CA3ACFAF",
+    "name": "FSYS_ARRIVE_R0701"
+  },
+  {
+    "index": 141,
+    "hash": "E255B4C0ECEF2816",
+    "name": "FSYS_ARRIVE_R0801"
+  },
+  {
+    "index": 142,
+    "hash": "D9AC1BC0E806F671",
+    "name": "FSYS_ARRIVE_R0901"
+  },
+  {
+    "index": 143,
+    "hash": "D9AC18C0E806F158",
+    "name": "FSYS_ARRIVE_R0902"
+  },
+  {
+    "index": 144,
+    "hash": "D9AC1EC0E806FB8A",
+    "name": "FSYS_ARRIVE_R0904"
+  },
+  {
+    "index": 145,
+    "hash": "D9AC19C0E806F30B",
+    "name": "FSYS_ARRIVE_R0903"
+  },
+  {
+    "index": 146,
+    "hash": "E8B972B7D332A4D3",
+    "name": "FSYS_ARRIVE_R1001"
+  },
+  {
+    "index": 147,
+    "hash": "E8B973B7D332A686",
+    "name": "FSYS_ARRIVE_R1002"
+  },
+  {
+    "index": 148,
+    "hash": "E8B974B7D332A839",
+    "name": "FSYS_ARRIVE_R1003"
+  },
+  {
+    "index": 149,
+    "hash": "0CF13879E78374CF",
+    "name": "FSYS_ARRIVE_D0101"
+  },
+  {
+    "index": 150,
+    "hash": "0CF13979E7837682",
+    "name": "FSYS_ARRIVE_D0102"
+  },
+  {
+    "index": 151,
+    "hash": "0CF13A79E7837835",
+    "name": "FSYS_ARRIVE_D0103"
+  },
+  {
+    "index": 152,
+    "hash": "2613C779F582000A",
+    "name": "FSYS_ARRIVE_D0201"
+  },
+  {
+    "index": 153,
+    "hash": "1EB08E79F1AF3425",
+    "name": "FSYS_ARRIVE_D0301"
+  },
+  {
+    "index": 154,
+    "hash": "1EB08B79F1AF2F0C",
+    "name": "FSYS_ARRIVE_D0302"
+  },
+  {
+    "index": 155,
+    "hash": "F3614579D9276DC8",
+    "name": "FSYS_ARRIVE_D0401"
+  },
+  {
+    "index": 156,
+    "hash": "EA4B0C79D3E30D63",
+    "name": "FSYS_ARRIVE_D0501"
+  },
+  {
+    "index": 157,
+    "hash": "F628242A3F422630",
+    "name": "FSYS_ARRIVE_WR0101"
+  },
+  {
+    "index": 158,
+    "hash": "F628272A3F422B49",
+    "name": "FSYS_ARRIVE_WR0102"
+  },
+  {
+    "index": 159,
+    "hash": "F628262A3F422996",
+    "name": "FSYS_ARRIVE_WR0103"
+  },
+  {
+    "index": 160,
+    "hash": "F628292A3F422EAF",
+    "name": "FSYS_ARRIVE_WR0104"
+  },
+  {
+    "index": 161,
+    "hash": "F628282A3F422CFC",
+    "name": "FSYS_ARRIVE_WR0105"
+  },
+  {
+    "index": 162,
+    "hash": "F6282B2A3F423215",
+    "name": "FSYS_ARRIVE_WR0106"
+  },
+  {
+    "index": 163,
+    "hash": "F6282A2A3F423062",
+    "name": "FSYS_ARRIVE_WR0107"
+  },
+  {
+    "index": 164,
+    "hash": "F6282D2A3F42357B",
+    "name": "FSYS_ARRIVE_WR0108"
+  },
+  {
+    "index": 165,
+    "hash": "F6282C2A3F4233C8",
+    "name": "FSYS_ARRIVE_WR0109"
+  },
+  {
+    "index": 166,
+    "hash": "F624BF2A3F3F44BA",
+    "name": "FSYS_ARRIVE_WR0110"
+  },
+  {
+    "index": 167,
+    "hash": "F621382A3F3C297E",
+    "name": "FSYS_ARRIVE_WR0121"
+  },
+  {
+    "index": 168,
+    "hash": "F621372A3F3C27CB",
+    "name": "FSYS_ARRIVE_WR0122"
+  },
+  {
+    "index": 169,
+    "hash": "F61E342A3F39ECDB",
+    "name": "FSYS_ARRIVE_WR0131"
+  },
+  {
+    "index": 170,
+    "hash": "F61E352A3F39EE8E",
+    "name": "FSYS_ARRIVE_WR0132"
+  },
+  {
+    "index": 171,
+    "hash": "F61E362A3F39F041",
+    "name": "FSYS_ARRIVE_WR0133"
+  },
+  {
+    "index": 172,
+    "hash": "F61E372A3F39F1F4",
+    "name": "FSYS_ARRIVE_WR0134"
+  },
+  {
+    "index": 173,
+    "hash": "F61E382A3F39F3A7",
+    "name": "FSYS_ARRIVE_WR0135"
+  },
+  {
+    "index": 174,
+    "hash": "F61E392A3F39F55A",
+    "name": "FSYS_ARRIVE_WR0136"
+  },
+  {
+    "index": 175,
+    "hash": "BF8CDF02032A1569",
+    "name": "FSYS_BTL_TOWER_CHALLENGED"
+  },
+  {
+    "index": 176,
+    "hash": "BED0A45B6C5DAA08",
+    "name": "FSYS_NESTHOLE_TIPS_END"
+  },
+  {
+    "index": 177,
+    "hash": "F3E80E69B65B81FE",
+    "name": "FSYS_POKEMONBOX_DISABLE"
+  },
+  {
+    "index": 178,
+    "hash": "873DB5B0AB26AFF8",
+    "name": "FSYS_WR_OTHER_PLAYER_VISIBLE"
+  },
+  {
+    "index": 179,
+    "hash": "58CDFD5003982BD8",
+    "name": "FSYS_A_0101_CAMERA_REPLACE"
+  },
+  {
+    "index": 180,
+    "hash": "A2AC4BFDB223D309",
+    "name": "FSYS_BIRTHDAY_EVENT"
+  },
+  {
+    "index": 181,
+    "hash": "71DEDF0BB06D2925",
+    "name": "FSYS_LIVE_COMM_DISABLE"
+  },
+  {
+    "index": 182,
+    "hash": "BE2C57FD0EDEC7B9",
+    "name": "FSYS_FLY_R0301_CAMP"
+  },
+  {
+    "index": 183,
+    "hash": "EB086D61EA8770E2",
+    "name": "FSYS_FLY_R0401_CAMP"
+  },
+  {
+    "index": 184,
+    "hash": "8A77B4955907C6A7",
+    "name": "FSYS_FLY_R0501_CAMP"
+  },
+  {
+    "index": 185,
+    "hash": "74A17C8082A60018",
+    "name": "FSYS_FLY_R0601_CAMP"
+  },
+  {
+    "index": 186,
+    "hash": "8DB8E4D6356177FD",
+    "name": "FSYS_FLY_R0701_CAMP"
+  },
+  {
+    "index": 187,
+    "hash": "7BC0B9EB761607C6",
+    "name": "FSYS_FLY_R0801_CAMP"
+  },
+  {
+    "index": 188,
+    "hash": "66F9EC56B598DB42",
+    "name": "FSYS_FLY_R0904_CAMP"
+  },
+  {
+    "index": 189,
+    "hash": "1F6C9FE281615D96",
+    "name": "FSYS_FLY_R1002_CAMP"
+  },
+  {
+    "index": 190,
+    "hash": "9856D4151FC1D317",
+    "name": "FSYS_FLY_R0501_AZUKARIYA"
+  },
+  {
+    "index": 191,
+    "hash": "24C74D39957B3E05",
+    "name": "FSYS_FLY_WR0122_AZUKARIYA"
+  },
+  {
+    "index": 192,
+    "hash": "33BD915D0811F6E5",
+    "name": "FSYS_FLY_T0301"
+  },
+  {
+    "index": 193,
+    "hash": "5C965D45EBEB88EF",
+    "name": "FSYS_FLY_C0201PC_RIGHT"
+  },
+  {
+    "index": 194,
+    "hash": "FF580F5CEA45D023",
+    "name": "FSYS_FLY_T0501"
+  },
+  {
+    "index": 195,
+    "hash": "0FD1655CF35CCCD9",
+    "name": "FSYS_FLY_T0701"
+  },
+  {
+    "index": 196,
+    "hash": "0ED9A8F0C55FE61B",
+    "name": "FSYS_FLY_R0903"
+  },
+  {
+    "index": 197,
+    "hash": "7B290BCB4A8185B7",
+    "name": "FSYS_GAME_CLEAR_RIGHT_AFTER"
+  },
+  {
+    "index": 198,
+    "hash": "60D13065831247E3",
+    "name": "FSYS_C02_JOKER_IS_SPAWN"
+  },
+  {
+    "index": 199,
+    "hash": "517C8582756F0920",
+    "name": "FSYS_BICYCLE_EVENT_DISABLE"
+  },
+  {
+    "index": 200,
+    "hash": "350ABD7C98947C04",
+    "name": "FSYS_AFTER_CLEAR_FIRST"
+  },
+  {
+    "index": 201,
+    "hash": "1F02F78D7B3217A1",
+    "name": "FSYS_WEATHER_CHANGE_SNOWSTORM"
+  },
+  {
+    "index": 202,
+    "hash": "D59B9DA4A17BC4DA",
+    "name": "FSYS_WEATHER_CHANGE_SANDSTORM"
+  },
+  {
+    "index": 203,
+    "hash": "5EF93375D158283E",
+    "name": "FSYS_WEATHER_CHANGE_MIST"
+  },
+  {
+    "index": 204,
+    "hash": "6FE26B172C9B4E78",
+    "name": "FSYS_FISHING_TIPS_END"
+  },
+  {
+    "index": 205,
+    "hash": "E1384F38AC4C43FC",
+    "name": "FSYS_R04_GAMEOVER"
+  },
+  {
+    "index": 206,
+    "hash": "8E3E92ECE093C7FC",
+    "name": "FSYS_D02_GAMEOVER"
+  },
+  {
+    "index": 207,
+    "hash": "E44B16771524B07E",
+    "name": "FSYS_INPUT_SHIRT_NUMBER"
+  },
+  {
+    "index": 208,
+    "hash": "E36DD9AF23C8B21F",
+    "name": "FSYS_A_1101_CAMERA_REPLACE"
+  },
+  {
+    "index": 209,
+    "hash": "D24AB4FC3EBF4268",
+    "name": "FSYS_GYM_CHALLENGE"
+  },
+  {
+    "index": 210,
+    "hash": "FB1D3589A6368342",
+    "name": "FSYS_FLY_C0201PC_LEFT"
+  },
+  {
+    "index": 211,
+    "hash": "97251994F5878D1D",
+    "name": "FSYS_R1_STATION"
+  },
+  {
+    "index": 212,
+    "hash": "B77BC7B3B15AA134",
+    "name": "FSYS_R2_STATION"
+  },
+  {
+    "index": 213,
+    "hash": "84C49E353E8B7518",
+    "name": "FSYS_POKEDEX_EXTEND_R1"
+  },
+  {
+    "index": 214,
+    "hash": "84C4A1353E8B7A31",
+    "name": "FSYS_POKEDEX_EXTEND_R2"
+  },
+  {
+    "index": 215,
+    "hash": "D8B0279FA7A22A91",
+    "name": "FSYS_R1_TOWERBGM_STATE_CHANGE"
+  },
+  {
+    "index": 216,
+    "hash": "A4F8F840B216DD11",
+    "name": "FSYS_BTL_BGM_OPEN_VS24"
+  },
+  {
+    "index": 217,
+    "hash": "A4F8F740B216DB5E",
+    "name": "FSYS_BTL_BGM_OPEN_VS25"
+  },
+  {
+    "index": 218,
+    "hash": "A4F8F640B216D9AB",
+    "name": "FSYS_BTL_BGM_OPEN_VS26"
+  },
+  {
+    "index": 219,
+    "hash": "A4F8F540B216D7F8",
+    "name": "FSYS_BTL_BGM_OPEN_VS27"
+  },
+  {
+    "index": 220,
+    "hash": "A4F8F440B216D645",
+    "name": "FSYS_BTL_BGM_OPEN_VS28"
+  },
+  {
+    "index": 221,
+    "hash": "A4F8F340B216D492",
+    "name": "FSYS_BTL_BGM_OPEN_VS29"
+  },
+  {
+    "index": 222,
+    "hash": "A4F57640B213CA54",
+    "name": "FSYS_BTL_BGM_OPEN_VS30"
+  },
+  {
+    "index": 223,
+    "hash": "A4F57740B213CC07",
+    "name": "FSYS_BTL_BGM_OPEN_VS31"
+  },
+  {
+    "index": 224,
+    "hash": "A4F57840B213CDBA",
+    "name": "FSYS_BTL_BGM_OPEN_VS32"
+  },
+  {
+    "index": 225,
+    "hash": "A4F57940B213CF6D",
+    "name": "FSYS_BTL_BGM_OPEN_VS33"
+  },
+  {
+    "index": 226,
+    "hash": "A4F57240B213C388",
+    "name": "FSYS_BTL_BGM_OPEN_VS34"
+  },
+  {
+    "index": 227,
+    "hash": "A4F57340B213C53B",
+    "name": "FSYS_BTL_BGM_OPEN_VS35"
+  },
+  {
+    "index": 228,
+    "hash": "A4F57440B213C6EE",
+    "name": "FSYS_BTL_BGM_OPEN_VS36"
+  },
+  {
+    "index": 229,
+    "hash": "60E94DEE97A6FC68",
+    "name": "FSYS_BTL_BGM_OPEN_VS32B"
+  },
+  {
+    "index": 230,
+    "hash": "FE2C6A3AF27FD130",
+    "name": "FSYS_GST_OPEN"
+  },
+  {
+    "index": 231,
+    "hash": "8F1A133DFF5C0ECF",
+    "name": "FSYS_R1_GAME_CLEAR"
+  },
+  {
+    "index": 232,
+    "hash": "D450875D834CFC30",
+    "name": "FSYS_R2_GAME_CLEAR"
+  },
+  {
+    "index": 233,
+    "hash": "16AAB0CE7943F690",
+    "name": "FSYS_RAIDNPC_OPEN_KURARA"
+  },
+  {
+    "index": 234,
+    "hash": "6E087D3429D9A4B5",
+    "name": "FSYS_RAIDNPC_OPEN_SEIBORI"
+  },
+  {
+    "index": 235,
+    "hash": "6D546465931C9879",
+    "name": "FSYS_RAIDNPC_OPEN_SYAKUYA"
+  },
+  {
+    "index": 236,
+    "hash": "8D69486D6C143D25",
+    "name": "FSYS_RAIDNPC_OPEN_PIONI"
+  },
+  {
+    "index": 237,
+    "hash": "FF3E612A44868D61",
+    "name": "FSYS_ARRIVE_WR0201"
+  },
+  {
+    "index": 238,
+    "hash": "FF3E5E2A44868848",
+    "name": "FSYS_ARRIVE_WR0202"
+  },
+  {
+    "index": 239,
+    "hash": "FF3E5F2A448689FB",
+    "name": "FSYS_ARRIVE_WR0203"
+  },
+  {
+    "index": 240,
+    "hash": "FF3E642A4486927A",
+    "name": "FSYS_ARRIVE_WR0204"
+  },
+  {
+    "index": 241,
+    "hash": "FF3E652A4486942D",
+    "name": "FSYS_ARRIVE_WR0205"
+  },
+  {
+    "index": 242,
+    "hash": "FF3E622A44868F14",
+    "name": "FSYS_ARRIVE_WR0206"
+  },
+  {
+    "index": 243,
+    "hash": "FF3E632A448690C7",
+    "name": "FSYS_ARRIVE_WR0207"
+  },
+  {
+    "index": 244,
+    "hash": "FF3E582A44867E16",
+    "name": "FSYS_ARRIVE_WR0208"
+  },
+  {
+    "index": 245,
+    "hash": "FF3E592A44867FC9",
+    "name": "FSYS_ARRIVE_WR0209"
+  },
+  {
+    "index": 246,
+    "hash": "FF41E62A4489A537",
+    "name": "FSYS_ARRIVE_WR0210"
+  },
+  {
+    "index": 247,
+    "hash": "FF41E52A4489A384",
+    "name": "FSYS_ARRIVE_WR0211"
+  },
+  {
+    "index": 248,
+    "hash": "FF37D52A448133CF",
+    "name": "FSYS_ARRIVE_WR0221"
+  },
+  {
+    "index": 249,
+    "hash": "FF37D62A44813582",
+    "name": "FSYS_ARRIVE_WR0222"
+  },
+  {
+    "index": 250,
+    "hash": "FF37D72A44813735",
+    "name": "FSYS_ARRIVE_WR0223"
+  },
+  {
+    "index": 251,
+    "hash": "FF37D02A44812B50",
+    "name": "FSYS_ARRIVE_WR0224"
+  },
+  {
+    "index": 252,
+    "hash": "FF3AD92A44837072",
+    "name": "FSYS_ARRIVE_WR0231"
+  },
+  {
+    "index": 253,
+    "hash": "07E7FA2A496EBF06",
+    "name": "FSYS_ARRIVE_WR0301"
+  },
+  {
+    "index": 254,
+    "hash": "07E7F92A496EBD53",
+    "name": "FSYS_ARRIVE_WR0302"
+  },
+  {
+    "index": 255,
+    "hash": "07E7F82A496EBBA0",
+    "name": "FSYS_ARRIVE_WR0303"
+  },
+  {
+    "index": 256,
+    "hash": "07E7FF2A496EC785",
+    "name": "FSYS_ARRIVE_WR0304"
+  },
+  {
+    "index": 257,
+    "hash": "07E7FE2A496EC5D2",
+    "name": "FSYS_ARRIVE_WR0305"
+  },
+  {
+    "index": 258,
+    "hash": "07E7FD2A496EC41F",
+    "name": "FSYS_ARRIVE_WR0306"
+  },
+  {
+    "index": 259,
+    "hash": "07E7FC2A496EC26C",
+    "name": "FSYS_ARRIVE_WR0307"
+  },
+  {
+    "index": 260,
+    "hash": "07E8032A496ECE51",
+    "name": "FSYS_ARRIVE_WR0308"
+  },
+  {
+    "index": 261,
+    "hash": "07E8022A496ECC9E",
+    "name": "FSYS_ARRIVE_WR0309"
+  },
+  {
+    "index": 262,
+    "hash": "07E4752A496BA730",
+    "name": "FSYS_ARRIVE_WR0310"
+  },
+  {
+    "index": 263,
+    "hash": "07E4762A496BA8E3",
+    "name": "FSYS_ARRIVE_WR0311"
+  },
+  {
+    "index": 264,
+    "hash": "07E4772A496BAA96",
+    "name": "FSYS_ARRIVE_WR0312"
+  },
+  {
+    "index": 265,
+    "hash": "07E4782A496BAC49",
+    "name": "FSYS_ARRIVE_WR0313"
+  },
+  {
+    "index": 266,
+    "hash": "07EE862A49741898",
+    "name": "FSYS_ARRIVE_WR0321"
+  },
+  {
+    "index": 267,
+    "hash": "07EE892A49741DB1",
+    "name": "FSYS_ARRIVE_WR0322"
+  },
+  {
+    "index": 268,
+    "hash": "07EE882A49741BFE",
+    "name": "FSYS_ARRIVE_WR0323"
+  },
+  {
+    "index": 269,
+    "hash": "E47076421DDA7BE9",
+    "name": "FSYS_FLY_WR02_DOJO"
+  },
+  {
+    "index": 270,
+    "hash": "DA7D9A7C3CDE72A4",
+    "name": "FSYS_FLY_WR02_MIZU"
+  },
+  {
+    "index": 271,
+    "hash": "66049DFAC27BE006",
+    "name": "FSYS_FLY_WR02_AKU"
+  },
+  {
+    "index": 272,
+    "hash": "BDFFC1D1A154AAF3",
+    "name": "FSYS_FLY_WR02_OYAJI"
+  },
+  {
+    "index": 273,
+    "hash": "3BFBD6EDAD059330",
+    "name": "FSYS_FLY_WR03_CHIKA"
+  },
+  {
+    "index": 274,
+    "hash": "7FD5796C9F934954",
+    "name": "FSYS_FLY_WR03_MINSHUKU"
+  },
+  {
+    "index": 275,
+    "hash": "D00FCBA5EC8858D2",
+    "name": "FSYS_FLY_WR03_REGIROCK"
+  },
+  {
+    "index": 276,
+    "hash": "853F097E783A4AAE",
+    "name": "FSYS_FLY_WR03_REGIICE"
+  },
+  {
+    "index": 277,
+    "hash": "06D784A9DCB64A7A",
+    "name": "FSYS_FLY_WR03_REGISTEEL"
+  },
+  {
+    "index": 278,
+    "hash": "C12879653D1CF25C",
+    "name": "FSYS_FLY_WR03_REDENREDRA"
+  },
+  {
+    "index": 279,
+    "hash": "0BDEBB9A5756447D",
+    "name": "FSYS_FLY_WR03_CROWN"
+  },
+  {
+    "index": 280,
+    "hash": "7D35DC9CA2EA0785",
+    "name": "FSYS_FLY_WR03_BIRDTREE"
+  },
+  {
+    "index": 281,
+    "hash": "FC5A19738AE4CB6B",
+    "name": "FSYS_NPC_TRADE_WR02_01"
+  },
+  {
+    "index": 282,
+    "hash": "7F27F75B010725B9",
+    "name": "FSYS_FLY_WR02_STATION"
+  },
+  {
+    "index": 283,
+    "hash": "09B6DFCE321AE589",
+    "name": "FSYS_WR02_AREA01_WEATHER_CHANGE"
+  },
+  {
+    "index": 284,
+    "hash": "C4DAC8AD11F2A42E",
+    "name": "FSYS_WR02_AREA02_WEATHER_CHANGE"
+  },
+  {
+    "index": 285,
+    "hash": "2A97A965971755A6",
+    "name": "FSYS_WR03_AREA01_WEATHER_CHANGE"
+  },
+  {
+    "index": 286,
+    "hash": "F6752B0F646CD021",
+    "name": "FSYS_WR03_AREA02_WEATHER_CHANGE"
+  },
+  {
+    "index": 287,
+    "hash": "DCA344BDF75E5635",
+    "name": "FSYS_CHIKA_LEGEND_01"
+  },
+  {
+    "index": 288,
+    "hash": "DCA341BDF75E511C",
+    "name": "FSYS_CHIKA_LEGEND_02"
+  },
+  {
+    "index": 289,
+    "hash": "DCA342BDF75E52CF",
+    "name": "FSYS_CHIKA_LEGEND_03"
+  },
+  {
+    "index": 290,
+    "hash": "DCA33FBDF75E4DB6",
+    "name": "FSYS_CHIKA_LEGEND_04"
+  },
+  {
+    "index": 291,
+    "hash": "DCA340BDF75E4F69",
+    "name": "FSYS_CHIKA_LEGEND_05"
+  },
+  {
+    "index": 292,
+    "hash": "DCA33DBDF75E4A50",
+    "name": "FSYS_CHIKA_LEGEND_06"
+  },
+  {
+    "index": 293,
+    "hash": "DCA33EBDF75E4C03",
+    "name": "FSYS_CHIKA_LEGEND_07"
+  },
+  {
+    "index": 294,
+    "hash": "DCA34BBDF75E621A",
+    "name": "FSYS_CHIKA_LEGEND_08"
+  },
+  {
+    "index": 295,
+    "hash": "DCA34CBDF75E63CD",
+    "name": "FSYS_CHIKA_LEGEND_09"
+  },
+  {
+    "index": 296,
+    "hash": "DCA649BDF760948B",
+    "name": "FSYS_CHIKA_LEGEND_10"
+  },
+  {
+    "index": 297,
+    "hash": "DCA648BDF76092D8",
+    "name": "FSYS_CHIKA_LEGEND_11"
+  },
+  {
+    "index": 298,
+    "hash": "DCA64BBDF76097F1",
+    "name": "FSYS_CHIKA_LEGEND_12"
+  },
+  {
+    "index": 299,
+    "hash": "DCA64ABDF760963E",
+    "name": "FSYS_CHIKA_LEGEND_13"
+  },
+  {
+    "index": 300,
+    "hash": "DCA64DBDF7609B57",
+    "name": "FSYS_CHIKA_LEGEND_14"
+  },
+  {
+    "index": 301,
+    "hash": "DCA64CBDF76099A4",
+    "name": "FSYS_CHIKA_LEGEND_15"
+  },
+  {
+    "index": 302,
+    "hash": "DCA64FBDF7609EBD",
+    "name": "FSYS_CHIKA_LEGEND_16"
+  },
+  {
+    "index": 303,
+    "hash": "DCA64EBDF7609D0A",
+    "name": "FSYS_CHIKA_LEGEND_17"
+  },
+  {
+    "index": 304,
+    "hash": "DCA641BDF76086F3",
+    "name": "FSYS_CHIKA_LEGEND_18"
+  },
+  {
+    "index": 305,
+    "hash": "DCA640BDF7608540",
+    "name": "FSYS_CHIKA_LEGEND_19"
+  },
+  {
+    "index": 306,
+    "hash": "DC9C37BDF7582170",
+    "name": "FSYS_CHIKA_LEGEND_20"
+  },
+  {
+    "index": 307,
+    "hash": "DC9C38BDF7582323",
+    "name": "FSYS_CHIKA_LEGEND_21"
+  },
+  {
+    "index": 308,
+    "hash": "DC9C39BDF75824D6",
+    "name": "FSYS_CHIKA_LEGEND_22"
+  },
+  {
+    "index": 309,
+    "hash": "DC9C3ABDF7582689",
+    "name": "FSYS_CHIKA_LEGEND_23"
+  },
+  {
+    "index": 310,
+    "hash": "DC9C3BBDF758283C",
+    "name": "FSYS_CHIKA_LEGEND_24"
+  },
+  {
+    "index": 311,
+    "hash": "DC9C3CBDF75829EF",
+    "name": "FSYS_CHIKA_LEGEND_25"
+  },
+  {
+    "index": 312,
+    "hash": "DC9C3DBDF7582BA2",
+    "name": "FSYS_CHIKA_LEGEND_26"
+  },
+  {
+    "index": 313,
+    "hash": "DC9C3EBDF7582D55",
+    "name": "FSYS_CHIKA_LEGEND_27"
+  },
+  {
+    "index": 314,
+    "hash": "DC9C3FBDF7582F08",
+    "name": "FSYS_CHIKA_LEGEND_28"
+  },
+  {
+    "index": 315,
+    "hash": "DC9C40BDF75830BB",
+    "name": "FSYS_CHIKA_LEGEND_29"
+  },
+  {
+    "index": 316,
+    "hash": "DC9FBDBDF75B3AF9",
+    "name": "FSYS_CHIKA_LEGEND_30"
+  },
+  {
+    "index": 317,
+    "hash": "DC9FBCBDF75B3946",
+    "name": "FSYS_CHIKA_LEGEND_31"
+  },
+  {
+    "index": 318,
+    "hash": "DC9FBBBDF75B3793",
+    "name": "FSYS_CHIKA_LEGEND_32"
+  },
+  {
+    "index": 319,
+    "hash": "DC9FBABDF75B35E0",
+    "name": "FSYS_CHIKA_LEGEND_33"
+  },
+  {
+    "index": 320,
+    "hash": "DC9FC1BDF75B41C5",
+    "name": "FSYS_CHIKA_LEGEND_34"
+  },
+  {
+    "index": 321,
+    "hash": "DC9FC0BDF75B4012",
+    "name": "FSYS_CHIKA_LEGEND_35"
+  },
+  {
+    "index": 322,
+    "hash": "DC9FBFBDF75B3E5F",
+    "name": "FSYS_CHIKA_LEGEND_36"
+  },
+  {
+    "index": 323,
+    "hash": "DC9FBEBDF75B3CAC",
+    "name": "FSYS_CHIKA_LEGEND_37"
+  },
+  {
+    "index": 324,
+    "hash": "DC9FC5BDF75B4891",
+    "name": "FSYS_CHIKA_LEGEND_38"
+  },
+  {
+    "index": 325,
+    "hash": "DC9FC4BDF75B46DE",
+    "name": "FSYS_CHIKA_LEGEND_39"
+  },
+  {
+    "index": 326,
+    "hash": "DCB0BBBDF769AAC6",
+    "name": "FSYS_CHIKA_LEGEND_40"
+  },
+  {
+    "index": 327,
+    "hash": "DCB0BCBDF769AC79",
+    "name": "FSYS_CHIKA_LEGEND_41"
+  },
+  {
+    "index": 328,
+    "hash": "DCB0B9BDF769A760",
+    "name": "FSYS_CHIKA_LEGEND_42"
+  },
+  {
+    "index": 329,
+    "hash": "DCB0BABDF769A913",
+    "name": "FSYS_CHIKA_LEGEND_43"
+  },
+  {
+    "index": 330,
+    "hash": "DCB0BFBDF769B192",
+    "name": "FSYS_CHIKA_LEGEND_44"
+  },
+  {
+    "index": 331,
+    "hash": "DCB0C0BDF769B345",
+    "name": "FSYS_CHIKA_LEGEND_45"
+  },
+  {
+    "index": 332,
+    "hash": "DCB0BDBDF769AE2C",
+    "name": "FSYS_CHIKA_LEGEND_46"
+  },
+  {
+    "index": 333,
+    "hash": "DCB0BEBDF769AFDF",
+    "name": "FSYS_CHIKA_LEGEND_47"
+  },
+  {
+    "index": 334,
+    "hash": "DCB0C3BDF769B85E",
+    "name": "FSYS_CHIKA_LEGEND_48"
+  },
+  {
+    "index": 335,
+    "hash": "FBF655843FEF1940",
+    "name": "FSYS_MAIN_0815_01_EVENT_ENABLE"
+  },
+  {
+    "index": 336,
+    "hash": "2D0FA5CE23ABAB0B",
+    "name": "FSYS_MAIN_0815_02_EVENT_ENABLE"
+  },
+  {
+    "index": 337,
+    "hash": "18DC6F9EFCCB11B6",
+    "name": "FSYS_MAIN_0815_03_EVENT_ENABLE"
+  },
+  {
+    "index": 338,
+    "hash": "005A20CE7BFA5489",
+    "name": "FSYS_MAIN_0815_04_EVENT_ENABLE"
+  },
+  {
+    "index": 339,
+    "hash": "42AEC43EF060B3DC",
+    "name": "FSYS_TRLICENCE_INDOJYO_OPEN"
+  },
+  {
+    "index": 340,
+    "hash": "2F5BBED819CE9B05",
+    "name": "FSYS_TRLICENCE_OUTDOJYO_OPEN"
+  },
+  {
+    "index": 341,
+    "hash": "F6901C8152AEB1E0",
+    "name": "FSYS_TRLICENCE_DOJYOURA_NOON_OPEN"
+  },
+  {
+    "index": 342,
+    "hash": "03E5A1885F41A53E",
+    "name": "FSYS_TRLICENCE_DOJYOURA_NIGHT_OPEN"
+  },
+  {
+    "index": 343,
+    "hash": "B9EF17E1AA748795",
+    "name": "FSYS_TRLICENCE_UROBO_OPEN"
+  },
+  {
+    "index": 344,
+    "hash": "DE93188B4ED58386",
+    "name": "FSYS_TRLICENCE_AKUNOTO_NOON_OPEN"
+  },
+  {
+    "index": 345,
+    "hash": "10F5050CC8499E80",
+    "name": "FSYS_TRLICENCE_AKUNOTO_NIGHT_OPEN"
+  },
+  {
+    "index": 346,
+    "hash": "0E37C445BE3E42D4",
+    "name": "FSYS_TRLICENCE_MIZUNOTO_NOON_OPEN"
+  },
+  {
+    "index": 347,
+    "hash": "2384B7A0BC2ACFF2",
+    "name": "FSYS_TRLICENCE_MIZUNOTO_NIGHT_OPEN"
+  },
+  {
+    "index": 348,
+    "hash": "3B694B8455797FBB",
+    "name": "FSYS_TRLICENCE_HANIKAMUJIMA_OPEN"
+  },
+  {
+    "index": 349,
+    "hash": "D039D58AEB611D76",
+    "name": "FSYS_CHIKA_FIRST"
+  },
+  {
+    "index": 350,
+    "hash": "29E651F9B99A1E28",
+    "name": "FSYS_CHIKA_UB_OPEN"
+  },
+  {
+    "index": 351,
+    "hash": "0E7BE92BAB872CC3",
+    "name": "FSYS_FREEZER_SHADOW"
+  },
+  {
+    "index": 352,
+    "hash": "65F68B3C89A3C37E",
+    "name": "FSYS_FLY_WR03_WATTSHOP"
+  },
+  {
+    "index": 353,
+    "hash": "B299A817FDECFEEA",
+    "name": "FSYS_CHIKA_SYUPPATSU"
+  },
+  {
+    "index": 354,
+    "hash": "717826453B03E415",
+    "name": "FSYS_GST_SEIBORI"
+  },
+  {
+    "index": 355,
+    "hash": "9EB5D9C97D695530",
+    "name": "FSYS_GST_KURARA"
+  },
+  {
+    "index": 356,
+    "hash": "736C7B16F70DF773",
+    "name": "FSYS_GST_MASTERDO"
+  },
+  {
+    "index": 357,
+    "hash": "AE51BA1440ADAE85",
+    "name": "FSYS_GST_PIONI"
+  },
+  {
+    "index": 358,
+    "hash": "4DBCA183BE14CF20",
+    "name": "FSYS_GST_DANDE"
+  },
+  {
+    "index": 359,
+    "hash": "3B4987539967549C",
+    "name": "FSYS_GST_BEAT"
+  },
+  {
+    "index": 360,
+    "hash": "2CACE429F421E6F1",
+    "name": "FSYS_GST_MALI"
+  },
+  {
+    "index": 361,
+    "hash": "ACAA0E8DFEDA9809",
+    "name": "FSYS_GST_YARO"
+  },
+  {
+    "index": 362,
+    "hash": "82F7DF0F787337A7",
+    "name": "FSYS_GST_RULINA"
+  },
+  {
+    "index": 363,
+    "hash": "EB18541946552331",
+    "name": "FSYS_GST_KABU"
+  },
+  {
+    "index": 364,
+    "hash": "ABDC082FF3C24CB8",
+    "name": "FSYS_GST_NEZU"
+  },
+  {
+    "index": 365,
+    "hash": "D30199C2F33517E0",
+    "name": "FSYS_GST_KIBANA"
+  },
+  {
+    "index": 366,
+    "hash": "3D067FEE64E5B186",
+    "name": "FSYS_GST_SAITO"
+  },
+  {
+    "index": 367,
+    "hash": "ACFFEF4C7A0A2B4A",
+    "name": "FSYS_GST_MAKUWA"
+  },
+  {
+    "index": 368,
+    "hash": "8F5031D6ED8E9B71",
+    "name": "FSYS_GST_ONION"
+  },
+  {
+    "index": 369,
+    "hash": "D1371C265F9D5BFD",
+    "name": "FSYS_GST_MERON"
+  },
+  {
+    "index": 370,
+    "hash": "27A6A7657890C9BF",
+    "name": "FSYS_GST_SODDO"
+  },
+  {
+    "index": 371,
+    "hash": "056ADDF28C42D0E4",
+    "name": "FSYS_GST_SIRUDHI"
+  },
+  {
+    "index": 372,
+    "hash": "A9DF899999F05F57",
+    "name": "FSYS_GST_HOP"
+  },
+  {
+    "index": 373,
+    "hash": "57E45543F5D09992",
+    "name": "FSYS_GST_POPRA"
+  },
+  {
+    "index": 374,
+    "hash": "B0E92BB4F3ECCE13",
+    "name": "FSYS_GST_DEBUG_MODE"
+  },
+  {
+    "index": 375,
+    "hash": "B164E2D127F02776",
+    "name": "FSYS_FLY_WR03_STATION"
+  },
+  {
+    "index": 376,
+    "hash": "EA5D696C93A9F070",
+    "name": "FSYS_TRLICENCE_REDENREDRA_OPEN"
+  },
+  {
+    "index": 377,
+    "hash": "7937EE2BC315B834",
+    "name": "FSYS_TRLICENCE_DOKUESPER_OPEN"
+  },
+  {
+    "index": 378,
+    "hash": "F0DF0A1BBF2F7C0A",
+    "name": "FSYS_TRLICENCE_ZOU_OPEN"
+  },
+  {
+    "index": 379,
+    "hash": "4E869B2B4B9FA275",
+    "name": "FSYS_TRLICENCE_SINDEN_OPEN"
+  }
+]

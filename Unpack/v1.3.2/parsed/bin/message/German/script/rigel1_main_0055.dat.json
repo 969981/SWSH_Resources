@@ -1,0 +1,337 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Naaaa, bist du bereit f\u00FCr unseren Kampf?[VAR 0114(0073)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ja, lass dir Zeit. Ist ja nicht so, als m\u00FCsste ich mir\\nderweil die Beine in den Bauch stehen. Hehe.[VAR 0114(0073)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Gut, dann kann es ja losgehen.\\nZeig mir, aus welchem Holz du geschnitzt bist![VAR 0114(0073)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Hohooo! Ein Satz mit X, das war wohl nix.\\nDu hast einiges auf dem Kasten![VAR 0114(0073)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Der Meister hat zwar nicht alles gegeben,\\naber trotzdem kann ich\u2019s kaum fassen,\\r\\ndass [VAR 1100(00FF,0808,0000)]der Neuedie Neue gegen ihn gewonnen hat!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Wer ist [VAR 1100(00FF,0302,0000)]ersie blo\u00DF?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "An deinem Kampfstil erkennt man, wie viel\\nF\u00FCrsorge du deinen Pok\u00E9mon entgegenbringst.[VAR 0114(0073)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Es mag vielleicht sein, dass du nur versehentlich\\nbei uns gelandet bist...[VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Aber solange du bereit bist, hart zu trainieren,\\nbist du hier im Master-Dojo stets willkommen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Trainiere flei\u00DFig an der Seite deiner Mitsch\u00FCler.\\nHelft einander dabei, st\u00E4rker zu werden! Ok\u00E4se?[VAR 0114(0073)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "In diesem Sinne... Hier ist dein Dojo-Set.[VAR 0114(0073)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Mit dieser Kleidung bist du jetzt offiziell\\n[VAR 1100(00FF,0E0B,0000)]ein Sch\u00FClereine Sch\u00FClerin des Master-Dojos![VAR 0114(0073)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Du erh\u00E4ltst das [VAR FF00(0008)]Dojo-Set[VAR FF00(0000)]!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Hey, Neuling!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Wenn du dich umziehen m\u00F6chtest oder eine\\nkurze Pause brauchst, kannst du das Zimmer\\r\\ndort dr\u00FCben nutzen."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Hach, ist das nicht dufte?[VAR 0114(0073)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Mit der Ankunft von [VAR 0100(0000)] haben wir\\nendlich die maximale Sch\u00FCleranzahl erreicht![VAR 0114(0073)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Jetzt beginnt der Ernst des Lebens!\\nOder zumindest des Trainings...\\c\\nJedem von euch werden n\u00E4mlich\\n[VAR FF00(0006)]drei Pr\u00FCfungen[VAR FF00(0000)] gestellt.[VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Drei Pr\u00FCfungen?!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ach, wir haben auf eine bestimmte\\nSch\u00FCleranzahl gewartet?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wer alle drei Pr\u00FCfungen bestanden hat,\\nerh\u00E4lt die [VAR FF00(0006)]Geheimr\u00FCstung [VAR FF00(0000)]des Dojos,\\r\\nmit der einem jeder Sieg sicher ist![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Eine geheime R\u00FCstung?!\\nDie muss ich haben!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Hehehe, das h\u00F6rt man gerne!\\c\\nDann erkl\u00E4re ich euch jetzt, was es mit der\\nersten Pr\u00FCfung auf sich hat.[VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Aber...! Aber Meisteeer! Ich hab noch gar kein\\nDojo-Set bekommen![VAR 0114(0071)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00C4hem, entschuldigt bitte, Meister, aber...\\nIch habe bis heute noch kein Dojo-Set erhalten.[VAR 0114(0072)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Es ist sooo unfair, dass [VAR 1100(00FF,0302,0000)]ersie eins bekommen hat!\\nDas macht mich echt traurig! *Schnief!*[VAR 0114(0071)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Warum darf dieser Gr\u00FCnschnabel vor mir eins\\nsein Eigen nennen? Diese Ungerechtigkeit\\r\\nersch\u00FCttert mich zutiefst...[VAR 0114(0072)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Ach, hab ich das tats\u00E4chlich vergessen?\\nHoppala, mein Fehler![VAR 0114(0073)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Aber keine Sorge, ich hab noch ein Set\\nf\u00FCr dich, Sophora.[VAR 0114(0073)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Aber keine Sorge, ich hab noch ein Set\\nf\u00FCr dich, Saverio.[VAR 0114(0073)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Hehe! Hartn\u00E4ckigkeit zahlt sich aus![VAR 0114(0071)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ha! Hartn\u00E4ckigkeit zahlt sich letztlich\\neben doch aus![VAR 0114(0072)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Sophora erh\u00E4lt da--"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Saverio erh\u00E4lt da--"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Fleeeeg![VAR 0114(0042)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Wie?! Was war das denn?[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Wie?! Was in aller Welt...?[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Nein...! Es ist weg! Mein Dojo-Set ist weg!![VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Es ist weg! Mein Dojo-Set ist verschwunden![VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Mon, mon, mon...[VAR 0114(0042)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Hm?[VAR 0114(0071)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hm?[VAR 0114(0072)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Flegmon!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Was f\u00FCr ein Tempo...!\\nWaren das eben etwa diese Flegmon?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Ich hab noch nie so flinke Flegmon gesehen!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Hey! Gib mir sofort meine Dojo-Klamotten\\nzur\u00FCck![VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Halunken! Wenn das kein Trickbetrug ist!\\nR\u00FCckt sofort meine Dojo-Bekleidung wieder raus![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Fleeeeg? Mon?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Mooon!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Hiergeblieben, ihr Diebeeee![VAR 0114(0071)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Stehengeblieben, ihr niedertr\u00E4chtigen Diebe![VAR 0114(0072)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Ups! Da hab ich sie wohl etwas zu fr\u00FCh aus ihren\\nPok\u00E9b\u00E4llen gelassen... Hehehe.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Meister, was war das eben?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Das, mein Lieber, war der Startschuss zur ersten\\nPr\u00FCfung.[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Es geht darum, diese drei fantastisch flinken\\nFlegmon, die ich eigenh\u00E4ndig trainiert habe,\\r\\neinzuholen und zu besiegen![VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Wo ihr schon dabei seid, k\u00F6nnt ihr auch gleich\\nSophoras Dojo-Set zur\u00FCckholen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Wo ihr schon dabei seid, k\u00F6nnt ihr auch gleich\\nSaverios Dojo-Set zur\u00FCckholen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Waaas?"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Gut, alle Klarheiten beseitigt? Dann macht euch\\nmal auf die Socken![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "M\u00F6chtest du deine vorherige Kleidung anziehen?"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Und schon bist du bereit!\\c\\nFinde die fantastisch flinken Flegmon!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Dann kann es ja sofort losgehen!\\c\\nFinde die fantastisch flinken Flegmon!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "F\u00FCr die erste Pr\u00FCfung musst du den fantastisch\\nflinken Flegmon hinterherjagen!\\c\\nVergiss nicht, ihnen bei der Gelegenheit auch\\ngleich das Dojo-Set wieder abzunehmen.\\c\\nMan siebt sich![VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Selbst die sonst so d\u00F6sigen Flegmon werden\\nflink und agil, wenn der Meister sie trainiert...!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Die hatten vielleicht einen Zahn drauf...\\nDas sind sicher keine gew\u00F6hnlichen Flegmon!\\c\\nVielleicht waren sie auch einfach neidisch und\\nwollten selbst gerne das Dojo-Set tragen?"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Ich kann mir vorstellen, dass du als Neuling\\nnoch ein bisschen nerv\u00F6s bist.\\c\\nAber mach dir keinen Kopf, hier sind alle total\\nnett zueinander![VAR 0114(0074)]"
+  }
+]

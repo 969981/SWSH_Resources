@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u002B[VAR 0202(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "HP"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Attack"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Defense"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Sp. Atk"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Sp. Def"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Speed"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0001,002C)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon gained Exp. Points!\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR BE05(0005)][VAR 0102(0000)] grew to Lv. [VAR 0202(0001)]![VAR BE05(0001)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] wants to learn\\nthe move [VAR 0107(0001)].\\c\\nShould an old move be forgotten and\\nreplaced with [VAR 0107(0001)]?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] did not learn\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon enjoyed camping and gained\\nsome Exp. Points!\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Forget an old move"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Keep old moves"
+  }
+]

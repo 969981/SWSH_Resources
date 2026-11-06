@@ -1,0 +1,2262 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Pok\u00E9Job"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Es gibt einen neuen Job zu erledigen!\\c"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Es gibt neue Jobs zu erledigen!\\c"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "NEU!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Offene Stellen"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Angenommen"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dauerhaft offene Stellen"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Offene Stellen"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Angenommen"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Dauerhaft offene Stellen"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Erledigt"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Erledigt"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Beschreibung"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Job-Beschreibung"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Gew\u00FCnschte Pok\u00E9mon"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Maximal [VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Dauer"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] Stunde[VAR 1101(0000,0100)]n"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "EP-Ausbeute"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Sinkender Basiswert"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle den Basiswert, der gesenkt\\nwerden soll."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Steigender Basiswert"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "KP"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Ang."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Vert."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Sp.-Ang."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Sp.-Vert."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Initiative"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle einen Job aus."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Heute gibt es keine offenen Jobangebote.\\nBitte schau morgen wieder vorbei.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "M\u00F6chtest du diesen Job annehmen?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Du hilfst bei diesem Pok\u00E9Job bereits aus.\\nM\u00F6chtest du ihn abbrechen?"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Wenn du den Job abbrichst, kehrt dein Pok\u00E9mon\\nzur\u00FCck, ohne an Erfahrung gewonnen zu haben.\\r\\nM\u00F6chtest du trotzdem fortfahren?"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon ist vom Auftraggeber\\nzur\u00FCckgekehrt.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Deine Pok\u00E9mon sind vom Auftraggeber\\nzur\u00FCckgekehrt.\\c"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "M\u00F6chtest du dein Pok\u00E9mon entsenden?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "M\u00F6chtest du deine Pok\u00E9mon entsenden?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Entsenden"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00DCberpr\u00FCfen"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Du hast die gew\u00FCnschte Pok\u00E9mon-Anzahl nicht\\nerf\u00FCllt. M\u00F6chtest du trotzdem fortfahren?"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon macht sich auf den Weg.\\nEs wird sein Bestes geben!\\c"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Deine Pok\u00E9mon machen sich auf den Weg.\\nSie werden ihr Bestes geben!\\c"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Jetzt, wo du mehr Orden besitzt, k\u00F6nnen deine\\nPok\u00E9mon mehr Arten von Jobs erledigen.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Es gibt ein Jobangebot von [VAR 0100(0000)]!\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Noch [VAR 0201(0000)] Stunde[VAR 1101(0000,0100)]n"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 01D2(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Gl\u00FCckwunsch!\\c\\nDas positive Feedback deiner letzten\\nAuftraggeber hat dir neue Jobs eingebracht!\\c\\nMach weiter so!\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle den Basiswert, der erh\u00F6ht\\nwerden soll."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Neu w\u00E4hlen"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "EP-Ausbeute"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Deine Boxen sind voll!\\nBitte schaffe Platz f\u00FCr deine Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle Pok\u00E9mon aus deinen Boxen aus.\\c"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Mehr Pok\u00E9mon kannst du nicht losschicken.\\c\\nBrich einen Job ab oder warte, bis einer\\nerledigt wurde.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Dieser Job wurde bereits erledigt.\\c"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "W\u00E4hle aus, wie viel Zeit auf diesen Job\\nverwendet werden soll."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Deine entsandten Pok\u00E9mon haben so gute\\nArbeit geleistet, dass du ein neues Jobangebot\\r\\nerhalten hast!\\c"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Du kannst diesen Job nicht annehmen, da sich\\nkeine Pok\u00E9mon in deinen Boxen befinden.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Lv."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Ganzer Tag"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Halber Tag"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Sehr lang"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Lang"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Kurz"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Sehr kurz"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Extrem kurz"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon ist von seinem Job zur\u00FCckgekehrt.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Deine Pok\u00E9mon sind von ihrem Job\\nzur\u00FCckgekehrt.\\c"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Basisw."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u002B [VAR 0202(0000)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Ausgew\u00E4hltes Pok\u00E9mon"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Ausgew\u00E4hlte Pok\u00E9mon"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00DCberspr."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Toll gemacht!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Gut gemacht!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Erledigt!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon hat besonders gut gearbeitet!\\c"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Diese Pok\u00E9mon haben besonders gut gearbeitet!\\c"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Es hat seinen Job toll gemacht und jede Menge\\nErfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Alle haben ihren Job toll gemacht und jede\\nMenge Erfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Es hat seinen Job gut gemacht und viele\\nErfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Alle haben ihren Job gut gemacht und viele\\nErfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Es hat seinen Job erledigt und\\nErfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Alle haben ihren Job erledigt und\\nErfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon war gro\u00DFartig! Es hat den Job\\nzur vollsten Zufriedenheit erledigt!\\c"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Deine Pok\u00E9mon waren gro\u00DFartig! Sie haben\\nden Job zur vollsten Zufriedenheit erledigt!\\c"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Der Auftraggeber scheint sehr zufrieden zu sein.\\c\\nGib weiter dein Bestes, um die W\u00FCnsche der\\nAuftraggeber zu erf\u00FCllen!\\c"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Der Auftraggeber scheint nur m\u00E4\u00DFig zufrieden\\nzu sein.\\c\\nBeim n\u00E4chsten Mal solltest du mehr Pok\u00E9mon\\nentsenden, deren Typen zum Job passen!\\c"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0007)]Als Dank f\u00FCr die tolle Arbeit erh\u00E4ltst du\\n[VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0007)]Als Dank f\u00FCr die gute Arbeit erh\u00E4ltst du\\n[VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0007)]Als Dank f\u00FCr die Arbeit erh\u00E4ltst du\\n[VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u002B [VAR 0206(0000,202F)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0006)]Als Dank f\u00FCr die tolle Arbeit erh\u00E4ltst du\\n[VAR 0206(0001,002E)] \uE300!\\c"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0006)]Als Dank f\u00FCr die gute Arbeit erh\u00E4ltst du\\n[VAR 0206(0001,002E)] \uE300!\\c"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint dir etwas geben zu\\nwollen...\\c\\n[VAR BE05(0006)]Als Dank f\u00FCr die Arbeit erh\u00E4ltst du\\n[VAR 0206(0001,002E)] \uE300!\\c"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Der [VAR 010D(0000)]-Basiswert des entsandten\\nPok\u00E9mon ist gestiegen.\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Der [VAR 010D(0000)]-Basiswert der entsandten\\nPok\u00E9mon ist gestiegen.\\c"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[~ 130]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[~ 131]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[~ 132]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde ausgew\u00E4hlt.\\nWas nun?"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Bericht"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Sicherheit geht vor"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Als Aushilfe bei Wartungsarbeiten suchen wir\\nPok\u00E9mon, die problemlos in gro\u00DFen H\u00F6hen\\narbeiten k\u00F6nnen."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Fluggeleit"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Als Geleit f\u00FCr unsere Flugreisen suchen\\nwir Pok\u00E9mon, die als mystische Lebewesen und\\nGegenstand vieler Legenden angesehen werden."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Zuverl\u00E4ssiges Wachpersonal"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Flughafensicherheitspersonal gesucht!\\nIn Kampfk\u00FCnsten bewanderte Pok\u00E9mon\\nerw\u00FCnscht."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Wartung der st\u00E4dtischen Stromversorgung"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Hilfe beim Verlegen von Elektroleitungen\\ngesucht! Am besten eignen sich Pok\u00E9mon,\\ndenen Elektrizit\u00E4t absolut nichts ausmacht."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Ausbau der st\u00E4dtischen Stromversorgung"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Hilfe beim Verlegen von Elektroleitungen\\ngesucht! Am besten eignen sich Pok\u00E9mon,\\ndie gut mit Elektrizit\u00E4t umgehen k\u00F6nnen."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Hilfe bei der Fahrzeugwartung"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Zur Unterst\u00FCtzung bei der Inspektion unserer\\nWagen suchen wir metall\u00E4hnliche Pok\u00E9mon,\\ndie sich gut mit Stahl auskennen."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Pok\u00E9mon mit viel physischer Verteidigung"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Wir suchen kr\u00E4ftige Pok\u00E9mon, die in felsigen\\nGebieten gut zurechtkommen. Vorsicht:\\nStromschlaggefahr."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Inspektion des Umspannwerks"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Aushilfe f\u00FCr die Inspektion des elektrischen\\nUmspannwerks gesucht. Welcher Pok\u00E9mon-Typ\\nsich daf\u00FCr am besten eignet, sollte wohl klar sein!"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Pok\u00E9mon in ihrem Element"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "F\u00FCr Experimente mit chemischen Reaktionen\\nsuchen wir Pok\u00E9mon, denen giftige Schadstoffe\\nnichts ausmachen."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "\u00DCbersinnliche F\u00E4higkeiten"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon mit \u00FCbersinnlichen\\nF\u00E4higkeiten als Aushilfe in unserer Abteilung\\nf\u00FCr Forschung und Entwicklung."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Kein Mysterium bleibt ungel\u00FCftet"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Wir wollen die unerkl\u00E4rlichen Mysterien dieser\\nWelt aufdecken und brauchen daf\u00FCr Pok\u00E9mon\\nmit einer gespenstischen Erscheinung."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Eine Serie zum Schaudern"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "F\u00FCr eine revolution\u00E4re Horror-Serie suchen wir\\nnoch nach hochgradig gruseligen Pok\u00E9mon!"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Wir lassen die Muskeln sprechen"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Wir m\u00F6chten anderen vermitteln, wie wichtig es\\nist, den eigenen K\u00F6rper zu trainieren. Daf\u00FCr\\nsuchen wir nach besonders muskul\u00F6sen Pok\u00E9mon!"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "K\u00F6stliche Kochsendung"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "K\u00F6nnte uns jemand Pok\u00E9mon empfehlen, welche\\ndie Gem\u00FCter bei einem feurigen Kochduell\\nrichtig zum Sieden bringen k\u00F6nnen?"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Muskelpakete frei Haus"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Auf der Baustelle brauchen wir noch Arbeiter, die\\nkr\u00E4ftig mit anpacken k\u00F6nnen und eine ordentliche\\nPortion Muskeln mitbringen."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Abschreckende W\u00E4chter"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Wir br\u00E4uchten einige zwielichtige Pok\u00E9mon,\\ndie daf\u00FCr sorgen sollen, dass niemand ein\\ngef\u00E4hrliches Gel\u00E4nde betritt."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Gr\u00FCndliche Sondierung"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Wir w\u00FCrden gerne den Boden eines Grundst\u00FCcks\\nsondieren, bevor die Bauarbeiten beginnen und\\nsuchen nach Experten, die uns dabei helfen."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Normal schmeckt\u2019s am besten"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Wir wollen ein neues Men\u00FC entwickeln, das jeden\\nanspricht. Daher w\u00FCrden wir gerne ganz normale\\nPok\u00E9mon um ihre Meinungen bitten!"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Eiskalt transportiert"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Um unsere Tiefk\u00FChlwaren unter idealen\\nBedingungen transportieren zu k\u00F6nnen,\\nben\u00F6tigen wir eiskalte Pok\u00E9mon."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Geschmack h\u00E4ngt vom Wasser ab"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Sauberes, klares Wasser ist die Grundlage f\u00FCr\\nhochqualitative Lebensmittel! Wir ben\u00F6tigen die\\nHilfe von Pok\u00E9mon, die sich gut damit auskennen."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Wir m\u00F6chten Versicherungen vermarkten!"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Bei diesem Job geht es einzig darum, Leuten\\nbewusst zu machen, wie gef\u00E4hrlich Gift sein kann.\\nWir wollen die giftigsten Attacken sehen!"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die der Gefahr trotzen"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Wir freuen uns \u00FCber Bewerbungen von Pok\u00E9mon\\nmit dunkler Ausstrahlung, um potenziellen\\nProblemen beim Geldtransport vorzubeugen."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Zum Schutz unseres Geldes"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Wir suchen nach gef\u00E4hrlich aussehenden\\nDrachen-Pok\u00E9mon, die jeden Langfinger\\nbeim ersten Anblick abschrecken!"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Hilfe in luftigen H\u00F6hen"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Egal wann, egal wohin! Wir richten uns an alle\\nPok\u00E9mon, die gen Himmel streben \u2013 lasst uns\\nzusammen in die L\u00FCfte steigen!"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Warentransport bei widrigem Wetter"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Wir haben offene Stellen f\u00FCr Drachen-Pok\u00E9mon,\\ndie selbst in den widrigsten, st\u00FCrmischsten\\nWetterbedingungen unbehelligt weiterfliegen."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Bodenst\u00E4ndiger Warentransport"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Zum Transport von extrem schweren Paketen\\nbrauchen wir Pok\u00E9mon, die richtig fest am Boden\\nstehen."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Wartung der Schienen dringend n\u00F6tig!"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Unsere Schienen machen in letzter Zeit keinen\\nguten Eindruck, also suchen wir Stahl-Pok\u00E9mon,\\ndie sich die Lage mal ansehen."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die der K\u00E4lte trotzen"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Wir hoffen auf zahlreiche Eis-Pok\u00E9mon, deren\\nTyp es ihnen erlaubt, in einem Schneesturm\\nproblemlos Waren zu transportieren."
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Reinigung im Handumdrehen"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Haush\u00E4lter gesucht! Wir ben\u00F6tigen feenhaft\\ngrazile Pok\u00E9mon, die es beherrschen, im Nu\\nOrdnung ins Chaos zu bringen."
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Stets freundlich"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Zur Betreuung unserer breitgef\u00E4cherten Klientel\\nsind wir auf der Suche nach Normal-Pok\u00E9mon."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Das leckere Geheimnis unseres Hotels"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Beim Kochen dreht sich alles um die Hitze!\\nWir suchen daher nach Feuer-Pok\u00E9mon, die gut\\nmit hei\u00DFen Flammen umgehen k\u00F6nnen."
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Niedlich und geheimnisvoll"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Wir suchen nach niedlichen und zugleich hart\\narbeitenden Pok\u00E9mon, welche die Reinigung\\nunserer Zimmer \u00FCbernehmen."
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Der perfekte G\u00E4steempfang"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Wir suchen vorbildliche und stressresistente\\nNormal-Pok\u00E9mon, um unsere G\u00E4ste geb\u00FChrend\\nzu empfangen und zu verabschieden."
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Die Hitze bestimmt den Geschmack"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "K\u00FCchenassistenten gesucht! Voraussetzung:\\nEs muss sich um Feuer-Pok\u00E9mon handeln, die sich\\nmit der Regelung der W\u00E4rmezufuhr auskennen."
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Eine Sendung mit G\u00E4nsehautpotenzial"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Wir arbeiten an einer Sendung zu geisterhaften\\nErscheinungen auf Fotos. F\u00FCr die Bilder suchen\\nwir noch nach passenden Pok\u00E9mon!"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Eine Sendung, die es in sich hat"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Gibt es da drau\u00DFen Drachen-Pok\u00E9mon, die uns\\nbeim Dreh einiger eindrucksvoller Szenen zur\\nHand gehen w\u00FCrden?"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Reportage \u00FCber Sauberkeit"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "F\u00FCr unsere Reportage \u00FCber die Kanalisation\\nsuchen wir nach Gift-Pok\u00E9mon, denen \u00FCbler\\nGestank nichts ausmacht!"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Bei uns ist der Kunde K\u00F6nig!"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Systemingenieure m\u00FCssen die Gedanken ihrer\\nKunden lesen k\u00F6nnen. Deshalb suchen wir nach\\nPok\u00E9mon mit \u00FCbersinnlichen F\u00E4higkeiten!"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Netzwerk\u00FCberwachung"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon, die einfach nur ein Auge\\nauf die Stromleitungen unseres Netzwerks haben.\\nSie sollten sich gut mit Elektrizit\u00E4t auskennen!"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "\u00DCbernat\u00FCrliche \u00DCberpr\u00FCfung"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Gibt es da drau\u00DFen Pok\u00E9mon, die Fehler im\\nSystem mit ihren \u00FCbersinnlichen F\u00E4higkeiten\\naufsp\u00FCren k\u00F6nnen?"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Stellen frei in der Beschwerde-Abteilung"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Um unsere unzufriedenen Kunden besser zu\\nverstehen, suchen wir nach Pok\u00E9mon, die sich\\nmit Groll und Fl\u00FCchen auskennen."
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "K\u00FCchenhilfe gesucht"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Wir stellen Aushilfsk\u00F6che ein!\\nVoraussetzungen: Viel Erfahrung mit der\\nHandhabung von Feuer."
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Strahlend sauberer Boden"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Unsere B\u00F6den m\u00FCssen gewachst werden! Deshalb\\nsuchen wir nach Pok\u00E9mon, die an eisglatte\\nOberfl\u00E4chen gew\u00F6hnt sind."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Wir wollen Versicherungen verkaufen!"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Durch die Pr\u00E4senz von Pok\u00E9mon, die das Jenseits\\ngesehen haben k\u00F6nnten, unterschreiben bestimmt\\nmehr Kunden unsere Versicherungsvertr\u00E4ge!"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Wir wollen ja niemanden einsch\u00FCchtern..."
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Wir w\u00FCrden unsere Runden gern in Begleitung\\nvon etwas... zwielichtigen Pok\u00E9mon machen,\\ndie gute \u00DCberzeugungsarbeit leisten."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Niedliche Empfangsmitarbeiter gesucht"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Wir suchen nach heiteren, quirligen Pok\u00E9mon\\nf\u00FCr unsere Rezeption, um unseren Kunden ein\\nL\u00E4cheln auf die Lippen zu zaubern!"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Wer bietet den besten Service"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Wir w\u00FCrden gerne Normal-Pok\u00E9mon einstellen,\\ndie auf die Bed\u00FCrfnisse all unserer G\u00E4ste gut\\neingehen k\u00F6nnen."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Probleml\u00F6ser gesucht!"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Wir w\u00FCrden gerne Psycho-Pok\u00E9mon einstellen,\\ndie sich gut in den Gem\u00FCtszustand von\\naufgebrachten Kunden einf\u00FChlen k\u00F6nnen."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Warm und kuschelig"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Wir suchen nach Reinigungskr\u00E4ften mit hoher\\nK\u00F6rpertemperatur, um den Aufenthalt f\u00FCr unsere\\nk\u00E4lteanf\u00E4lligen G\u00E4ste angenehmer zu gestalten."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Mischung gef\u00E4hrlicher Chemikalien"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Gift und Medizin sind Kehrseiten derselben\\nMedaille. Wir suchen Gift-Pok\u00E9mon als Aushilfen\\nf\u00FCr die Herstellung von Medizin!"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die gegen Gift immun sind"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Da man bei dieser Arbeit unter anderem mit\\ngiftigen Substanzen in Ber\u00FChrung kommt, suchen\\nwir Stahl-Pok\u00E9mon, die dagegen resistent sind."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Wir wollen Kunden anlocken!"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Wir w\u00FCrden gerne Pok\u00E9mon mit niedlicher\\nAusstrahlung einstellen, die als Maskottchen\\nKunden anwerben sollen!"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Ab in die Natur!"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Viele unserer Lieferungen gehen an stark\\nbewachsene Orte, daher w\u00FCrden wir uns sehr\\n\u00FCber die Hilfe von Pflanzen-Pok\u00E9mon freuen!"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "B\u00FCcherdetektive aufgepasst!"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Wir suchen dringend nach Psycho-Pok\u00E9mon, die\\nunsere vorr\u00E4tigen B\u00FCcher mit ihren \u00FCbersinnlichen\\nKr\u00E4ften sofort aufsp\u00FCren k\u00F6nnen!"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Hilfe beim B\u00FCchertragen"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Wir w\u00FCrden uns \u00FCber die Hilfe von Pok\u00E9mon sehr\\nfreuen, die dank beeindruckender Muskelkraft\\nschwere B\u00FCcher ohne Probleme tragen k\u00F6nnen!"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Werbung f\u00FCr Okkultes"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Wir m\u00F6chten eine Ecke f\u00FCr okkulte B\u00FCcher\\neinrichten und suchen nach Geister-Pok\u00E9mon,\\ndie daf\u00FCr die Werbetrommel r\u00FChren."
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Aufnahme von Rufen"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Qualitativ hochwertige Aufzeichnungen der Rufe\\nvon K\u00E4fer-Pok\u00E9mon sind im Kommen! Wer seine\\nPok\u00E9mon zu Stars machen will, soll sich melden!"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Wir brauchen Musik!"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Wir suchen nach Pok\u00E9mon, die sich mit Elektronik\\nund der Verkabelung von Audio-Ger\u00E4ten\\nauskennen."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Gem\u00FCselagerung"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Damit Gem\u00FCse knackig und frisch aussieht,\\nbraucht es Wasser. Daher suchen wir nach\\nWasser-Pok\u00E9mon, die uns aushelfen!"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Flotte Auslieferhilfe gesucht!"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Lieferungen m\u00FCssen schnell sein, um die Frische\\nzu bewahren! Daher suchen wir nach Pok\u00E9mon,\\ndie sich im Blau des Himmels zurechtfinden!"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Unsere Spezialgerichte brauchen Feuer!"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Grill-Spezialit\u00E4ten sind unser Aush\u00E4ngeschild!\\nDamit alles sch\u00F6n braun anbr\u00E4t, brauchen wir\\ndie Hilfe von Feuer-Pok\u00E9mon."
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Bedienung gesucht"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Bei uns wird jeder Gast gleich gut bedient!\\nDamit wir diesen Standard bewahren k\u00F6nnen,\\nsuchen wir vorbildliche Normal-Pok\u00E9mon."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "\u00DCberraschungslieferung"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Wir \u00FCberraschen unsere Kunden gern, deshalb\\nsuchen wir nach Pok\u00E9mon, die bei der Lieferung\\ndie n\u00F6tige Prise Horror mitbringen k\u00F6nnen."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Sie sollen wachsen und gedeihen!"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Pflanzen nehmen ihre Kraft durch den Boden auf.\\nWir bitten Boden-Pok\u00E9mon um ihre Hilfe dabei,\\nD\u00FCnger zusammenzustellen."
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Was Blumen brauchen"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "Pflanzen m\u00FCssen unbedingt gegossen werden.\\nWir bitten Wasser-Pok\u00E9mon um ihre Hilfe dabei,\\nunseren Pflanzen ausreichend Wasser zu geben."
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Unsere Pflanzen sollen wachsen!"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Wir suchen Gesteins-Pok\u00E9mon, die sich um\\nPflanzen k\u00FCmmern k\u00F6nnen, die nur zwischen\\nSteinen gedeihen."
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Blumensuche im Wald"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Wir wollen Blumen im Wald sammeln und suchen\\nGift-Pok\u00E9mon, die uns dank ihrer Resistenz gegen\\nPflanzen vor Gefahren besch\u00FCtzen k\u00F6nnen."
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "Wir wollen noch besser grillen!"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Aus unbekanntem Grund suchen wir Drachen-\\nPok\u00E9mon, die uns bei der Zubereitung unseres\\nEssens helfen, bevor es auf den Grill kommt."
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "Ohne Eis nix los!"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "In der Gastronomie darf es nie an Eis mangeln!\\nDaher suchen wir Eis-Pok\u00E9mon, die uns unter die\\nArme greifen k\u00F6nnen."
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Zum W\u00FCrzen unabdingbar"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Um an das Salz in Gesteinen heranzukommen,\\nbrauchen wir die Hilfe von ein paar steinharten\\nPok\u00E9mon."
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Wir liefern jetzt auch!"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Unsere Kunden sollen ihr Essen so hei\u00DF zugestellt\\nbekommen wie nur m\u00F6glich! Deshalb suchen wir\\nnach blitzschnellen Flug-Pok\u00E9mon."
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Gutes Wasser f\u00FCr unsere Desserts"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "F\u00FCr unsere k\u00F6stlich saftigen Desserts suchen wir\\nWasser-Pok\u00E9mon, die uns mit dem n\u00F6tigen Nass\\nversorgen."
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Je k\u00E4lter, desto leckerer!"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "F\u00FCr unsere gek\u00FChlten Desserts suchen wir\\nEis-Pok\u00E9mon, welche die Temperatur unserer\\nKreationen regulieren."
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "Die Grundlagen des Kochens"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "Wir suchen nach Pok\u00E9mon, die ge\u00FCbt im Umgang\\nmit Feuer sind, damit sie die Hitzeregulierung in\\nunserer K\u00FCche \u00FCbernehmen k\u00F6nnen."
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "Duft und Farben verleihen Pepp"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "Wir wollen unsere Produktregale mit ein paar\\nPflanzen aufh\u00FCbschen und suchen deshalb nach\\nPflanzen-Pok\u00E9mon, die uns dabei helfen."
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "R\u00F6stexperten gesucht"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Beim R\u00F6sten von Kaffeebohnen kommt es ganz\\nauf die korrekte Temperatur an. K\u00F6nnten uns\\nFeuer-Pok\u00E9mon dabei behilflich sein?"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Das Wasser muss hochwertig sein!"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Wir wollen sicherstellen, dass das Wasser, mit\\ndem wir unseren Kaffee aufbr\u00FChen, von h\u00F6chster\\nQualit\u00E4t ist. Kontrolle durch Experten erw\u00FCnscht!"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Schnelle und sichere Lieferungen"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Wir wollen unsere Pakete schnell und elegant\\nausliefern und suchen noch Flug-Pok\u00E9mon wie\\nPelipper, die uns aushelfen k\u00F6nnen!"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "Paketesortierer gesucht"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon, die Lieferungen von\\nelektronischen Ger\u00E4ten sortieren und sich\\ngut mit Metallen auskennen."
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Unser Hof soll der beste sein!"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Suchen dringend Pflanzen-Pok\u00E9mon, die gewillt\\nsind, die Qualit\u00E4t des Weidegrases auf unserem\\nBauernhof zu \u00FCberpr\u00FCfen."
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Unser Getreide muss gesch\u00FCtzt werden!"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Zum Ausd\u00FCnnen von Unkraut auf unseren Feldern\\nsuchen wir dringend K\u00E4fer-Pok\u00E9mon!"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Unsere Felder wollen gepfl\u00FCgt werden!"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "Hilfe beim Pfl\u00FCgen unserer Felder gesucht.\\nWir hoffen, dass sich insbesondere Pok\u00E9mon\\nmit starken Armen angesprochen f\u00FChlen!"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Hilfe bei der Feldarbeit"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Wir suchen Pflanzen-Pok\u00E9mon f\u00FCr unseren\\nGem\u00FCseanbau. Kommt zu uns, wir wissen\\neuer Feingef\u00FChl f\u00FCr Pflanzen zu sch\u00E4tzen!"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Erntezeit"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Wir sind auf der Suche nach ein paar\\nErntehelfern. K\u00E4fer-Pok\u00E9mon w\u00E4ren uns\\neine besonders willkommene Hilfe!"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "Fl\u00E4chendeckende Bew\u00E4sserung"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "Wir suchen Flug-Pok\u00E9mon, die dabei helfen\\nsollen, unsere Felder aus der Luft zu bew\u00E4ssern."
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Kraftprotze gesucht"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Auf dem Bau ist Muskelkraft die wichtigste\\nQualifikation. Deshalb suchen wir dringend\\nnach Kampf-Pok\u00E9mon, die uns helfen!"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Wir brauchen ein solides Fundament!"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Wir ben\u00F6tigen einige Pok\u00E9mon vom Typ Boden,\\ndie das Gel\u00E4nde f\u00FCr uns planieren, damit wir\\ndarauf bauen k\u00F6nnen."
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "Steinfall kann wehtun"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Hilfe, unsere Baustelle ist steinschlaggef\u00E4hrdet!\\nSuchen dringend Pok\u00E9mon, die sich mit Gestein\\nauskennen!"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Niemand nimmt die Arbeit ernst..."
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon, die jeden mit einem\\nfinsteren Blick strafen, der bei der Arbeit\\nschl\u00E4ft. Zwielichtige Pok\u00E9mon erw\u00FCnscht!"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Eisenbahnbau auf solidem Fundament"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Wir stellen ein neues Team f\u00FCr den Wagonbau\\nzusammen und suchen daf\u00FCr nach Pok\u00E9mon vom\\nTyp Boden, die uns unterst\u00FCtzen."
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "Eisenbahnbau"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Wir suchen Stahl-Pok\u00E9mon, die uns mit ihrer\\nnat\u00FCrlichen Affinit\u00E4t f\u00FCr Metall und Maschinen\\nbeim Eisenbahnbau zur Hand gehen."
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Inbetriebnahme unserer Maschinen"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon, die den n\u00F6tigen Strom\\nf\u00FCr den Betrieb der Wagonbau-Maschinen\\nerzeugen k\u00F6nnen."
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Schiffbau"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Gesucht: Stahl-Pok\u00E9mon, die uns beim\\nZurechtschneiden von Metallplatten f\u00FCr unser\\nneuestes Schiff zur Hand gehen m\u00F6chten."
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "Inspektion des Schiffsbugs"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Dringend gesucht: Wasser-Pok\u00E9mon!\\nWir brauchen jemanden, der f\u00FCr uns ins Wasser\\ntaucht und den Schiffsbug von unten inspiziert."
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Schiffbau im gro\u00DFen Stil"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Diesmal gesucht: Pok\u00E9mon, die uns dabei\\nhelfen, gr\u00F6\u00DFere Bl\u00F6cke mithilfe von\\nElektrizit\u00E4t zusammenzuschwei\u00DFen."
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Wir bauen solide Autos!"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Suchen ein paar kr\u00E4ftige Boden-Pok\u00E9mon, die\\ngewillt sind, unsere defekte Hebeb\u00FChne zu\\nersetzen."
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "Ein Vorbild f\u00FCr unsere Autos"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Robuste Stahl-Pok\u00E9mon f\u00FCr die Produktion\\nvon Automobilen gesucht!"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Leidenschaft muss man sehen k\u00F6nnen!"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Aushilfen mit brennender Leidenschaft f\u00FCr Autos\\ngesucht. Und wenn wir brennend sagen, meinen\\nwir feurig brennend!"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Gift mit Gift bek\u00E4mpfen"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Im Rahmen unserer neuen Testreihe suchen wir\\nPok\u00E9mon vom Typ Gift, denen Giftstoffe nichts\\nausmachen."
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "Experimente mit Heilkr\u00E4utern"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Gesucht: Pok\u00E9mon, die uns bei der Verarbeitung\\nvon Heilkr\u00E4utern zur Hand gehen und sich gut\\nmit Bl\u00E4ttern und Wurzeln auskennen."
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Netzproduktion"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Wir suchen t\u00FCchtige K\u00E4fer-Pok\u00E9mon, die Zeit\\nund Lust haben, uns beim Weben der neuen\\nNetze zur Hand zu gehen."
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "K\u00F6stliche Eiscreme"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "Wir wollen k\u00F6stliche, klirrend kalte Eiscreme\\nherstellen. Daf\u00FCr brauchen wir die Hilfe von\\nEis-Pok\u00E9mon!"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Eiscreme-Verkoster gesucht!"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Wir sind auf der Suche nach Normal-Pok\u00E9mon,\\ndie unsere Eiscreme gen\u00FCsslich essen und so\\nanderen richtig Lust darauf machen k\u00F6nnen."
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Zauberhaftes Marketing"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "Um Passanten die zauberhafte Leichtigkeit\\nunserer Eiscreme zu demonstrieren, br\u00E4uchten\\nwir ein paar Pok\u00E9mon vom Typ Fee!"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "Aufbereitung des Bodens"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Wir sch\u00FCrfen in der Galar-Region nach Erzen\\nund suchen daf\u00FCr nach Boden-Pok\u00E9mon,\\ndie sich mit der Materie auskennen."
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Verunreinigungen sind unerw\u00FCnscht!"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Um Verunreinigungen aus unseren Metallen\\nzu entfernen, suchen wir nach Feuer-Pok\u00E9mon,\\nwelche die n\u00F6tige Hitze liefern k\u00F6nnen."
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "Schon praktisch, diese Elektrizit\u00E4t!"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "Um Kupfer von Verunreinigungen zu befreien,\\nnutzen wir Elektrizit\u00E4t. Deshalb suchen wir nach\\narbeitswilligen Elektro-Pok\u00E9mon!"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Diese Steine m\u00FCssen weg!"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "Beim Bergbau kullern einem st\u00E4ndig Steine in\\nden Weg! Wir suchen nach Gesteins-Pok\u00E9mon,\\ndie besser damit umgehen k\u00F6nnen als wir."
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Unzerst\u00F6rbarer Stoff"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "Wir m\u00F6chten einen Stoff entwickeln, den keine\\nSchere der Welt zerschneiden kann! Daf\u00FCr suchen\\nwir h\u00E4nderingend nach K\u00E4fer-Pok\u00E9mon."
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Dunkle Anprobe"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "Wir wollen einen Stoff entwickeln, der 100%ig\\nlichtundurchl\u00E4ssig ist, und suchen daf\u00FCr nach\\nUnlicht-Pok\u00E9mon f\u00FCr unsere aktuelle Testreihe."
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "Weltraumtauglicher Stoff"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Wir wollen einen weltraumtauglichen Stoff\\nentwickeln und suchen Flug-Pok\u00E9mon f\u00FCr\\nunsere aktuelle Testreihe."
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Gesucht: Models f\u00FCr unsere Entw\u00FCrfe"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "Wir m\u00F6chten h\u00FCbsche, niedliche Kleidung\\nentwerfen und suchen nach Feen-Pok\u00E9mon,\\ndie uns dabei helfen."
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Strapazierbarer Stoff"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Wir m\u00F6chten einen m\u00F6glichst robusten Stoff\\nherstellen und suchen daf\u00FCr dringend nach\\nK\u00E4fer-Pok\u00E9mon, die uns unterst\u00FCtzen."
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Der beste Stoff f\u00FCr den Alltag"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Wir suchen nach Normal-Pok\u00E9mon, die uns\\ndabei helfen, einen neuen Allzweckstoff zu\\nentwickeln, der allen Situationen gewachsen ist!"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "Mystischer Stoff"
+  },
+  {
+    "index": 367,
+    "flags": 0,
+    "text": "Wir wollen Stoff weben, aus dem Legenden\\ngesponnen sind! Bitte schickt uns Drachen-\\nPok\u00E9mon f\u00FCr unsere aktuelle Testreihe."
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Niedliche Stoffmuster"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Wir m\u00F6chten mystische und gleichzeitig niedliche\\nKleidung entwerfen und brauchen daf\u00FCr die\\nUnterst\u00FCtzung von Feen-Pok\u00E9mon!"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Sportschuh-Design"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Wir m\u00F6chten unsere Sportschuhe testen und\\nsuchen deshalb K\u00E4fer-Pok\u00E9mon mit m\u00F6glichst\\nvielen F\u00FC\u00DFen."
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Ringerschuh-Design"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "Wir m\u00F6chten neue Ringerschuhe entwerfen\\nund w\u00FCrden uns \u00FCber die Hilfe von muskul\u00F6sen\\nKampf-Pok\u00E9mon freuen."
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "Laufschuh-Design"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "Wir entwickeln neue Laufschuhe und suchen\\ndaf\u00FCr Elektro-Pok\u00E9mon, die blitzschnell durch\\ndie Gegend flitzen k\u00F6nnen."
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "Wer l\u00E4uft f\u00FCr uns Probe?"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "Wir suchen Tester f\u00FCr unsere neuen Schuhe!\\nAm besten w\u00E4ren rabiate Unlicht-Pok\u00E9mon,\\ndie hemmungslos durch die Gegend rennen."
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "Gute Stoffe brauchen gute F\u00E4den"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "Liebe K\u00E4fer-Pok\u00E9mon, wo seid ihr? Wir wollen\\nguten Stoff herstellen und w\u00FCrden nicht Nein\\nsagen, wenn ihr uns dabei helfen wolltet!"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "Zauberhafter Stoff"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "Liebe Feen-Pok\u00E9mon, wo seid ihr? Wir m\u00F6chten\\neinen besonders zauberhaften Stoff herstellen\\nund k\u00F6nnten fachkundige Hilfe gebrauchen!"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Psycho-Textilien"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "Liebe Psycho-Pok\u00E9mon, wo seid ihr? Wir\\nbrauchen dringend Hilfe f\u00FCr unsere neue\\nKollektion mit psychedelischen Mustern!"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Luxuri\u00F6se Textilien"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "Luxuri\u00F6se Textilien erfordern Fasern h\u00F6chster\\nQualit\u00E4t. Wir suchen nach K\u00E4fer-Pok\u00E9mon,\\ndie uns damit versorgen k\u00F6nnen."
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Geschickte Pok\u00E9mon gesucht"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "F\u00FCr hochwertige Textilien ist eine sorgf\u00E4ltige\\nBearbeitung unabdingbar. Wir suchen daher nach\\nNormal-Pok\u00E9mon, die uns aushelfen k\u00F6nnen."
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "Psycho-Kr\u00E4fte f\u00FCr raffinierte Fasern"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Wir m\u00F6chten die Psycho-Kr\u00E4fte von Pok\u00E9mon\\neinsetzen, um unseren Textilien eine besondere\\nHaptik zu verleihen. Psycho-Pok\u00E9mon gesucht!"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Feine Stoffe"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "Wir suchen nach K\u00E4fer-Pok\u00E9mon, die uns bei\\nder Herstellung von feinen Stoffen helfen!"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "Vielseitige Stoffe"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Wir suchen nach Normal-Pok\u00E9mon, die uns\\nbei der Herstellung von vielseitigen Stoffen\\nhelfen!"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "Wir stellen Brillengl\u00E4ser her"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "F\u00FCr das Schleifen und Polieren unserer Linsen\\nbenutzen wir extrem harte Steine. Wir w\u00FCrden\\nuns \u00FCber die Hilfe von Gesteins-Pok\u00E9mon freuen!"
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "Unsere neue Schuhserie"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "F\u00FCr unser neuestes Schuhmodell m\u00F6chten wir\\nSeide verwenden. Deshalb suchen wir nach\\nt\u00FCchtigen K\u00E4fer-Pok\u00E9mon."
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Strapazierf\u00E4higkeit als Verkaufsargument"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Wir suchen Pok\u00E9mon vom Typ Kampf, welche die\\nStrapazierf\u00E4higkeit unserer Schuhe demonstrieren\\nk\u00F6nnen."
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Wildes Image"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Um das wilde Image unserer neuen Schuhe zu\\npflegen, suchen wir nach ein paar z\u00FCgellosen\\nPok\u00E9mon vom Typ Unlicht."
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Kleidung mit Qualit\u00E4t"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Ohne hochwertige Seide keine hochwertige\\nKleidung! Wir gehen in Gro\u00DFproduktion. Bitte\\nleiht uns eure K\u00E4fer-Pok\u00E9mon!"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "Klamotten voller Punk!"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Suchen dringend Gift-Pok\u00E9mon, die uns zur\\nOptimierung unserer F\u00E4rbemittel ihre Gifte\\nzur Verf\u00FCgung stellen wollen."
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Flotter Wassertransport"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Wir suchen Wasser-Pok\u00E9mon, die f\u00FCr uns\\nWaren \u00FCber das Wasser transportieren."
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Eisiger Transport"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Wir suchen nach Eis-Pok\u00E9mon, die f\u00FCr uns\\nWaren \u00FCber Wasserfl\u00E4chen voller Eisschollen\\ntransportieren."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "Personalbewertung"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "Wir suchen nach Feen-Pok\u00E9mon, die uns dabei\\nhelfen, flei\u00DFige Arbeiter von faulen Bewerbern\\nzu unterscheiden."
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "Pers\u00F6nlichkeitstest"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Wir suchen Unlicht-Pok\u00E9mon, die unsere\\nKandidaten erschrecken und ihnen so ihre\\nwahre Natur entlocken k\u00F6nnen."
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "Monorail-Wartung"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "F\u00FCr die Wartung und Inspektion unserer\\nMonorail-Bahnen brauchen wir Elektrizit\u00E4t und\\nsuchen h\u00E4nderingend nach Elektro-Pok\u00E9mon!"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Monorail-W\u00E4sche"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "Wir suchen nach motivierten Wasser-Pok\u00E9mon,\\num unsere Fahrzeuge von Schmutz zu befreien\\nund in neuem Glanz erstrahlen zu lassen."
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "Monorail-Wartung mit Muskelkraft"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "Wir suchen nach Kampf-Pok\u00E9mon, die ihre St\u00E4rke\\nund Geschicklichkeit einsetzen, um bei der\\nInspektion unserer Fahrzeuge zu helfen."
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "Das KP-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nKP-Basiswert von Pok\u00E9mon erh\u00F6hen soll,\\nund suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "Das Angriffs-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nAngriffs-Basiswert von Pok\u00E9mon erh\u00F6hen soll,\\nund suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Das Verteidigungs-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nVerteidigungs-Basiswert von Pok\u00E9mon erh\u00F6hen\\nsoll, und suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Das Sp.-Ang.-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nSpezial-Angriffs-Basiswert von Pok\u00E9mon\\nerh\u00F6hen soll, und suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Das Sp.-Vert.-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nSpezial-Verteidigungs-Basiswert von Pok\u00E9mon\\nerh\u00F6hen soll, und suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Das Initiative-Seminar ist er\u00F6ffnet!"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "Wir haben ein Seminar konzipiert, das den\\nInitiative-Basiswert von Pok\u00E9mon erh\u00F6hen soll,\\nund suchen jetzt Testkandidaten."
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "Bereit f\u00FCr alles"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Um auf alles vorbereitet zu sein, suchen wir nach\\nPok\u00E9mon, denen die Typen Feuer, Wasser,\\nPflanze und Elektro alle nicht viel ausmachen."
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Bereit f\u00FCr das Unbekannte"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Um uns f\u00FCr r\u00E4tselhafte Vorf\u00E4lle zu r\u00FCsten, suchen\\nwir nach Pok\u00E9mon, denen die Typen Psycho, Flug\\nund Fee alle nicht viel ausmachen."
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "Bereit f\u00FCr die Natur"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Um uns f\u00FCr Vorf\u00E4lle in der Natur zu r\u00FCsten, suchen\\nwir nach Pok\u00E9mon, denen die Typen Pflanze,\\nK\u00E4fer und Fee alle nicht viel ausmachen."
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "Gegen Wasser und Feuer"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Bitten um Mithilfe von starken Pok\u00E9mon, die sich\\nsowohl gegen lodernde Flammen als auch gegen\\nWasser behaupten k\u00F6nnen!"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Ein Notfall! Unsere Tanks sind leer!"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "Es gibt eine Sache, die wir zum Feuerl\u00F6schen\\ndringend brauchen, und wir suchen Pok\u00E9mon,\\ndie die Tanks unserer Einsatzwagen damit f\u00FCllen!"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "Wohltuende Aromatherapie"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Helft uns dabei, unseren Mitarbeitern, die unter\\ngef\u00E4hrlichen Bedingungen arbeiten, mit Blumen\\nund Pok\u00E9mon den Arbeitsalltag zu versch\u00F6nern!"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Wir liefern \u00FCberall hin!"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "Wir suchen z\u00E4he Pok\u00E9mon, die gegen Regen,\\nBlitze und Flammen gefeit sind!"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Reinigung unserer Lieferwagen"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "Unsere Lieferwagen sind etwas schmutzig,\\ndeshalb suchen wir nach Pok\u00E9mon, die sie\\nf\u00FCr uns reinigen k\u00F6nnen!"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Blumenlieferung"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "Wir m\u00F6chten einen Blumenlieferdienst anbieten\\nund suchen daf\u00FCr nach Pok\u00E9mon, die sich gut mit\\nPflanzen auskennen."
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "GeHEImAuftrAG"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "BrAUchE HiLFe bEi einEM geHEimEn AUFtrAg.\\nObeRSte VeRSchWIegenHEItsPfliCht. Es WArtEt\\neINe gRO\u00DFz\u00FCgIGe BeZAHluNg."
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oi oi, Chief! How goes the adventurin\u2019?\\nAnything to report?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Doesn\u2019t look like you\u2019ve got any fresh progress\\nto report on this one yet![VAR 0114(0076)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Got anythin\u2019 else legendary you wanna\\ntalk about?[VAR 0114(0076)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Whoa! You\u2019ve given me a report on\\n[VAR 0101(0001)] already![VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "The legend of the King of Bountiful Harvests"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "The legendary giants"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "The legendary bird Pok\u00E9mon"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Could I get some adventure hints?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Calyrex"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Regirock"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Regice"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Registeel"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Regieleki"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Regidrago"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Articuno"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Zapdos"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Moltres"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Oho, changed your mind?\\nIt happens! Gahaha![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Look at that! You\u2019ve already reported\\neverything there is to report on that one![VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wait\u2014you really caught [VAR 0101(0001)]\\nfrom the legends?!\\r\\nThat\u2019s ultra-mega-brilliant! Report away![VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Hmmm...\\nSo that\u2019s Articuno, is it? The Legendary\\r\\nPok\u00E9mon that can manipulate ice?[VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "I definitely see the resemblance, but it\u2019s got this\\ndodgy mask on and everything...\\r\\nand it hardly seems cold at all, does it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Oh well!\\nIt\u2019s got one ultra-mega-icy gaze![VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "That\u2019s Articuno enough for me, anyway.\\nLet\u2019s call this expedition a success![VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Hmmm...\\nSo that\u2019s Zapdos, is it? The Legendary\\r\\nPok\u00E9mon that can cause thunderstorms?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "I definitely see the resemblance, but those legs\\nlook thicker than I expected...\\r\\nand it\u2019s not exactly electrifyin\u2019, is it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Oh well!\\nIt\u2019s as spiky and as long-beaked as I hoped for![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "That\u2019s Zapdos enough for me, I s\u2019pose.\\nLet\u2019s mark this expedition complete![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hmmm...\\nSo that\u2019s Moltres, is it? The Legendary\\r\\nPok\u00E9mon that\u2019s the embodiment of fire?[VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "I definitely see the resemblance, but it\u2019s not at\\nall hot to the touch...\\r\\nKinda looks like it\u2019d be more at home with\\r\\nthe punks in Spikemuth than in a volcano,\\r\\ndoesn\u2019t it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Oh well! Looks a bit like it\u2019s burnin\u2019 if you don\u2019t\\nlook too close![VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "That\u2019s Moltres enough for me, I s\u2019pose.\\nLet\u2019s call that an expedition well done![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Hmmm...you\u2019re sayin\u2019 this great craggy thing\u2019s\\nRegirock, the rock giant?[VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Is it just me, or does it bear a strikin\u2019\\nresemblance to our Grass-type Gym Leader?[VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Look at those broad, burly shoulders! This fella\\nand Milo are a proper pair of boulders![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Well, it\u2019s rocky and gianty enough, I s\u2019pose!\\nLet\u2019s call this expedition successful![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Hmmm...you\u2019re sayin\u2019 this great frozen-stiff\\nthing\u2019s Regice, the ice giant?[VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Is it just me, or does it look like it\u2019d make one\\nultra-mega-dazzlin\u2019 chandelier? Wish I could\\r\\nlight it up and show it to darlin\u2019 Nia![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "That aside, look how massive and mighty it is!\\nGives me the chills just lookin\u2019 at it,\\r\\nI don\u2019t mind sayin\u2019![VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Well, it\u2019s icy and gianty\u2014I\u2019ll give you that!\\nLet\u2019s consider this expedition complete![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hmmm...you\u2019re sayin\u2019 this great smooth thing\u2019s\\nRegisteel, the steel giant?[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Is it just me, or does its top half look a bit like a\\nmassive bowling ball?[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Look at that blank, inscrutable mug, though...\\nYou can\u2019t guess what\u2019s goin\u2019 through its head![VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Well, it\u2019s steely and gianty enough, I s\u2019pose!\\nLet\u2019s call this an expedition well done![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Hmmm...you\u2019re sayin\u2019 this great crackly thing\u2019s\\nRegieleki, the electric giant?[VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Y\u2019know what it reminds me of? That colorful\\ncandy that pops and fizzes and crackles in\\r\\nyour mouth![VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Imagine the balance it must take to stay\\nupright with that constantly shiftin\u2019 body!\\r\\nGives me the shivers, I don\u2019t mind saying![VAR 0114(0076)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Well, it looks electric and gianty enough.\\nExpedition successful, I s\u2019pose![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Hmmm...you\u2019re sayin\u2019 this great jagged thing\u2019s\\nRegidrago, the dragon giant?[VAR 0114(0076)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Is it just me, or does it look like it\u2019d pack a really\\nstrong pinch?\\r\\nIt\u2019s a bit like a massive clothespin, isn\u2019t it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "I\u2019d better not go provokin\u2019 it\u2014doubt it\u2019d have a\\nbit of trouble openin\u2019 wide and snappin\u2019 me up![VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "I s\u2019pose I\u2019d say that\u2019s a dragony giant!\\nMay as well call this expedition a success![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Th-that...that...[VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "that noggin\u2019s MASSIVE![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "I-is that the King of Bountiful Harvests?\\nThe one callin\u2019 the shots around here?[VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Huh. I could swear I\u2019ve seen it before...\\nOr then again, maybe not...[VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "A-anyway!\\nIt\u2019s definitely regal of it to have a steed...[VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "and that massive head does sort of resemble\\na crown![VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "It\u2019s kingly enough, at any rate!\\nLet\u2019s just call this a successful expedition![VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Looks like you\u2019ve reported all there is to\\nreport on Legendary Clue 1 and the King of\\r\\nBountiful Harvests![VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Looks like you\u2019ve reported all there is to report\\non Legendary Clue 2 and the legendary giants![VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Looks like you\u2019ve reported all there is to report\\non Legendary Clue 3 and the legendary birds![VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Smashin\u2019!\\nI\u2019ll mark this expedition done![VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Crack on with solvin\u2019 those legends, Chief!\\nYou\u2019ve expeditions to...expedite![VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Looks like that\u2019s about all the reportin\u2019 you\u2019ve\\ngot to report just now!\\c\\nGo give those other legends a nice,\\nthorough investigatin\u2019![VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Which adventure\u2019s got you feelin\u2019 stuck?[VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Ah, the legend of the King of Bountiful Harvests?\\nThis one\u2019s a head-scratcher for sure!\\c\\nMake sure you\u2019ve had a gander at the statue in\\ntown and heard everythin\u2019 the townsfolk have\\r\\ngot to say, for starters!\\c\\nNever hurts to open up your Town Map and\\ncheck your Legendary Clue to take a fresh look\\r\\nfrom square one, either![VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Right\u2014the legendary giants!\\nWhich one\u2019s givin\u2019 you trouble?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "The giant of rock"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "The giant of ice"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "The giant of steel"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "The two giants"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Well, all these giants are sleepin\u2019 in ruins, so\\nyou\u2019ll have to find those ruins before you can\\r\\ndo anythin\u2019!\\c\\nTry and track down the buildin\u2019 I drew for you![VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Havin\u2019 a spot of trouble gettin\u2019 the door to the\\nrock giant\u2019s ruins open, are you?\\c\\nSo, it says to [VAR FF00(0006)]let the first Pok\u00E9mon hold a\\nnever-changin\u2019 stone[VAR FF00(0000)], eh...?\\c\\nWell, why not try havin\u2019 your ultra-mega-lead\\nPok\u00E9mon hold on to that stone or whatever it is?\\c\\nHaven\u2019t you got anythin\u2019 like that?\\nA stone that just stays the same forever?[VAR 0114(0076)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Havin\u2019 a spot of trouble gettin\u2019 the door to the\\nice giant\u2019s ruins open, are you?\\c\\nSo you\u2019ve got to [VAR FF00(0006)]walk together with a livin\u2019\\ncrystal of snow[VAR FF00(0000)], is that it?\\c\\nWell, if it\u2019s a livin\u2019 thing, I reckon it\u2019s got to be\\na Pok\u00E9mon, innit?\\c\\nMaybe if you take a snow-crystal-lookin\u2019\\nPok\u00E9mon by for a stroll and show what good\\r\\nmates you are, the door\u2019ll swing on open![VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Havin\u2019 a spot of trouble gettin\u2019 the door to the\\nsteel giant\u2019s ruins open, are you?\\c\\nSo it says to [VAR FF00(0006)]let ring out the piercin\u2019 note that\\nwill wake the giant of steel[VAR FF00(0000)], does it...?\\c\\nI suppose giant or no, a Pok\u00E9mon\u2019s a Pok\u00E9mon!\\nIf you make a sound that brings Pok\u00E9mon\\r\\nrunnin\u2019, maybe the door\u2019ll open on up for you![VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Havin\u2019 a spot of trouble gettin\u2019 the door to the\\ntwo giants\u2019 ruins open, are you?\\c\\nLet me get this straight... [VAR FF00(0006)]\u201CWhen gather the three\\ngiants, the door of destiny shall be opened\u201D[VAR FF00(0000)]?\\c\\nEr, Chief?\\nNot to be too blunt, but...this one\u2019s just what it\\r\\nsays on the tin!\\c\\nGo get to work findin\u2019 those other three giants\\nfirst. Save this one for later![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "So you\u2019ve got the door open but haven\u2019t\\nactually had a run-in with the giant yet?\\c\\nIt must be pretty dark in there, innit?\\nMaybe the giant\u2019s still havin\u2019 a kip...\\c\\nWhy not see if there\u2019s a switch or somethin\u2019 in\\nthere that you can hit to brighten things up?[VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Aha, the legend of the bird Pok\u00E9mon!\\c\\nFor starters, you ought to try headin\u2019 to that\\nmassive red tree growin\u2019 waaay down at the\\r\\nsouthern end of the tundra![VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Aha, the legend of the bird Pok\u00E9mon!\\nWhich one\u2019s givin\u2019 you a hard time?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "The orange bird Pok\u00E9mon"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "The black bird Pok\u00E9mon"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "The purple bird Pok\u00E9mon"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Ah, that orange bird Pok\u00E9mon that\u2019s sprintin\u2019\\naround the Wild Area!\\c\\nIt\u2019s ultra-mega-speedy, accordin\u2019 to the people\\nwho\u2019ve seen it!\\c\\nBut however quick those legendary legs are,\\nit\u2019s still a Pok\u00E9mon in the end!\\c\\nThat means, sooner or later, it\u2019s bound to\\nget knackered!\\r\\nYou\u2019re lookin\u2019 at a contest of endurance, Chief![VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Ah, that black bird Pok\u00E9mon that\u2019s flyin\u2019 around\\nthe Isle of Armor!\\c\\nJust chasin\u2019 it down won\u2019t get you anywhere if it\\nsoars up and out of reach, eh?\\c\\nBetter try and get ahead of it to give it a scare!\\nOnce it catches sight of you, it might get\\r\\ncheesed off enough to take a swoop at you![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Ah, that purple bird Pok\u00E9mon that\u2019s flyin\u2019 around\\nthe Crown Tundra!\\c\\nI\u2019ve heard if you chase it down, it makes copies\\nof itself to throw you off, then does a runner!\\c\\nYou\u2019ll just have to keep your hair on and see past\\nthe Pok\u00E9mon\u2019s tricks to get to the real thing!\\c\\nBut if I know you, Chief, you\u2019re more than up to\\nthe challenge![VAR 0114(0076)]"
+  }
+]

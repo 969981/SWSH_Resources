@@ -1,0 +1,20 @@
+Lv. [VAR 0202(0000)]
+[VAR 0102(0000)]
+[VAR 0202(0000)]
++[VAR 0202(0000)]
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
++[VAR 0206(0001,002C)]
+Your Pokémon gained Exp. Points!\c
+[VAR BE05(0005)][VAR 0102(0000)] grew to Lv. [VAR 0202(0001)]![VAR BE05(0001)]
+[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 010C(0000)] wants to learn\nthe move [VAR 0107(0001)].\c\nShould an old move be forgotten and\nreplaced with [VAR 0107(0001)]?
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\c\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 010C(0000)] did not learn\n[VAR 0107(0001)].\c
+Your Pokémon enjoyed camping and gained\nsome Exp. Points!\c
+Forget an old move
+Keep old moves

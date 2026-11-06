@@ -1,0 +1,397 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Confirmer"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Vitesse du texte"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lente"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Rapide"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Permet de choisir parmi trois vitesses\\nde d\u00E9filement du texte."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Animations de combat"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Avec"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Sans"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Permet d\u2019afficher ou de passer les animations\\nde combat."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Style de combat"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Choix"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "D\u00E9fini"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Permet de changer ou non de Pok\u00E9mon\\nquand un Pok\u00E9mon adverse est mis K.O."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Caract\u00E8res"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Hiragana"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Kanji"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Permet de changer de syst\u00E8me de caract\u00E8res."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "\u00C9quipe/Bo\u00EEte"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Choix manuel"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Envoi automatique"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Permet d\u2019envoyer ou non les Pok\u00E9mon attrap\u00E9s\\nvers une Bo\u00EEte PC lorsque votre \u00E9quipe est pleine."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Voulez-vous sauvegarder ces param\u00E8tres\u202F?"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Param\u00E8tres"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Capteur de mouvement"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Activer"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "D\u00E9sactiver"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Permet d\u2019utiliser le capteur de mouvement\\npour d\u00E9placer la cam\u00E9ra dans les campements."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Sauvegarde automatique"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Permet d\u2019activer ou non l\u2019option de sauvegarde\\nautomatique."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Param\u00E8tres de la manette Pro"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Permet de jouer ou non avec une manette\\nNintendo Switch Pro."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Saut de cin\u00E9matique"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Permet de passer ou non les cin\u00E9matiques."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Musique"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Permet de r\u00E9gler le volume de la musique."
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Effets sonores"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Permet de r\u00E9gler le volume des effets sonores."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Cris des Pok\u00E9mon"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Permet de r\u00E9gler le volume des cris des Pok\u00E9mon."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " R\u00E9initialiser"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Voulez-vous r\u00E9tablir les param\u00E8tres par d\u00E9faut\u202F?"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Activer"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "D\u00E9sactiver"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " Confirmer"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": " R\u00E9initialiser"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Voulez-vous sauvegarder ces param\u00E8tres\u202F?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Les param\u00E8tres ont \u00E9t\u00E9 sauvegard\u00E9s.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Voulez-vous r\u00E9tablir les param\u00E8tres par d\u00E9faut\u202F?"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Mode simplifi\u00E9"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Permet de rendre le jeu \u00E0 une main plus facile."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Cam\u00E9ra (axe vertical)"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Mode normal"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Mode invers\u00E9"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Permet de changer le sens du d\u00E9placement\\nde la cam\u00E9ra sur l\u2019axe vertical."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Cam\u00E9ra (axe horizontal)"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Permet de changer le sens du d\u00E9placement\\nde la cam\u00E9ra sur l\u2019axe horizontal."
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Affichage des surnoms"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "Activer"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "D\u00E9sactiver"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Permet d\u2019afficher ou non les surnoms\\ndes Pok\u00E9mon pendant les combats en r\u00E9seau."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Saisie du surnom \u00E0 la capture"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Activer"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "D\u00E9sactiver"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Permet de donner ou non un surnom\\n\u00E0 un Pok\u00E9mon au moment de sa capture."
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Activation du mode r\u00E9seau local en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Mode r\u00E9seau local activ\u00E9.\\n\\nL\u2019acc\u00E8s \u00E0 d\u2019autres fonctionnalit\u00E9s de jeu\\nque les raids Dynamax n\u2019est pas garanti.\\n\\nQuand vous cessez d\u2019utiliser le mode LAN,\\nveuillez sauvegarder puis quitter le jeu."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "L\u2019op\u00E9ration a \u00E9chou\u00E9.\\nVeuillez r\u00E9essayer.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Attention\u202F!\\c\\nSi vous activez le saut des cin\u00E9matiques,\\nvous risquez de manquer des parties du sc\u00E9nario.\\c\\nNous vous d\u00E9conseillons d\u2019activer cette option\\nsi vous n\u2019avez pas encore termin\u00E9 le sc\u00E9nario.\\c\\nVoulez-vous continuer\u202F?"
+  }
+]
