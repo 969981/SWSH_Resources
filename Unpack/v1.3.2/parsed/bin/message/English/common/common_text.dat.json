@@ -1,0 +1,27 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Backup data has been loaded.\\nPlease note that this data will be saved when\\nyou save the game."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "There is no backup data, so you can\u2019t load data.\\nYou\u2019ll be returned to the title screen."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Now saving..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Your saved data is corrupted.\\nPlease delete the saved data from\\nyour system."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  }
+]

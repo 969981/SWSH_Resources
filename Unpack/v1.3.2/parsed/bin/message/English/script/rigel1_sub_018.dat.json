@@ -1,0 +1,57 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "When you touch clear, clean sand...\\nit can help cleanse your memories of the toil\\r\\nyou\u2019ve been through."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "If you want to clear away all of a Pok\u00E9mon\u2019s base\\npoints and start with a clean slate, I can help.\\c\\nGive me [VAR 0201(0000)] piece[VAR 1101(0000,0100)]s of Armorite Ore, and I\u2019ll cast\\nthe spell of sand on a Pok\u00E9mon you choose."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "You don\u2019t have enough pieces of Armorite Ore...\\c\\nYou can get them by doing Max Raid Battles on\\nthe Isle of Armor. Maybe gather them that way?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon do you want me to give a clear,\\nclean slate?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "So you want me to give [VAR 0102(0000)] a\\nclean slate?"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "In that case, let me cast the spell of sand..."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Clean...clean...clear, clean sand...\\nHelp me make a clear, clean slate!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "All the base points of [VAR 0102(0000)] have\\nbeen cleared away!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Everything\u2019s clear...\\nClear and clean...\\c\\nCome back anytime.\\nLady Clear will always be waiting for you."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "If you ever feel like you need a clean slate,\\nI\u2019ll be waiting for you."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "That Pok\u00E9mon\u2019s already a blank slate.\\nI don\u2019t need to cast my magic."
+  }
+]

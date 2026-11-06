@@ -1,0 +1,552 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Participate in a Live Competition"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Receive a Digital Player ID"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Quit Competition"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Live Competition"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\u2019s Results"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "No. of Battles"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wins"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Losses"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]\u2642[VAR FF00(0000)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]\u2640[VAR FF00(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Lv."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "In order to participate in the Live Competition,\\nyou need a Digital Player ID.\\c\\nHow would you like to receive it?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Receiving a Digital Player ID...\\nPress the B Button to cancel."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Receiving a Digital Player ID has been canceled.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "You received a Digital Player ID.\\c"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Couldn\u2019t receive the Digital Player ID.\\nPlease try again.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "You\u2019ve completed the max number of matches!\\nWell done!\\c"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Would you like to end communication?"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ending communication..."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Would you like to register a Battle Team to\\nparticipate in the competition?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Would you like to unregister from\\n[VAR 01AF(0000)]?"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "If you unregister from the competition, you won\u2019t\\nbe able to rejoin it!\\c\\nAre you sure you want to unregister from\\n[VAR 01AF(0000)]?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "You\u2019ve been successfully unregistered from\\n[VAR 01AF(0000)].\\r\\nYour Battle Team has been unlocked.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Registering a Battle Team has been canceled.\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "You haven\u2019t played any matches yet!\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Searching for\\nan opposing Trainer..."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Communicating...\\nPlease wait a moment."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Press the A Button at the starting signal."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Your competition regulations didn\u2019t match.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "The data has been sent.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Would you like to give up on registering your\\nBattle Team?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Your game is being saved.\\nJust a moment..."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "You\u2019re already participating or have already\\nparticipated in this competition.\\c"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Register your Battle Team"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "You\u2019ve withdrawn from the competition,\\n[VAR 01AF(0000)].\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "You can\u2019t participate in this competition.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Host a Live Competition"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Get via LAN mode"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Participate in your own competition"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Create competition regulations"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Check current competition regulations"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Watch battles"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Receiving it via LAN mode...\\nPress the B Button to cancel."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Help"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Live date"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[~ 87]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[~ 88]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Battle"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Would you like to delete these regulations?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "The regulations have been deleted.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Send"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Delete"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Would you like to participate in the competition\\nyou\u2019re hosting?"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Back"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "The battle is about to begin!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Battle in LAN mode"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "You haven\u2019t created your competition yet.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Would you like to participate in\\na new competition?"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Participate in a new competition"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Participate in the previous competition"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Watch a battle in LAN mode"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "If you unregister from the competition,\\nyou might not be able to rejoin it!\\c\\nPlease ask the host of the competition about it.\\c\\nAre you sure you want to unregister from\\n[VAR 01AF(0000)]?"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Your regulations have been saved.\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "You can\u2019t participate in the competition, because\\nyou have an older version of the software.\\c\\nPlease update your software.\\c"
+  }
+]

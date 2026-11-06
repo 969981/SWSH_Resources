@@ -1,0 +1,1372 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Ah, [VAR 0100(0000)]! Contigo quer\u00EDa hablar.\\nDime, \u00BFest\u00E1s acumulando vatios?[VAR 0114(0074)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Por supuesto!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00BFEso qu\u00E9 es?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00A1Si es que la duda ofende!\\nNo se te escapa una, \u00BFeh?[VAR 0114(0074)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Los vatios son una forma de energ\u00EDa que se\\nencuentra en los nidos Pok\u00E9mon.[VAR 0114(0074)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Es la fiebre del momento! R\u00EDete t\u00FA del tir\u00F3n que\\ntiene ahora mismo el comercio de vatios.[VAR 0114(0074)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Dicen por ah\u00ED incluso que quien domine el\\nmercado saborear\u00E1 las mieles del \u00E9xito![VAR 0114(0074)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "A m\u00ED tambi\u00E9n me gustar\u00EDa usarlos para hacer\\nunas reformillas en el dojo...[VAR 0114(0074)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Pero tanto mi pichoncito como mi hijo son m\u00E1s\\nbien caseros. No les gusta mucho patear por ah\u00ED.[VAR 0114(0074)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Y claro, acumular vatios yo sola no es coser y\\ncantar precisamente...[VAR 0114(0074)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "As\u00ED que, si te sobran algunos y quieres d\u00E1rmelos,\\n\u00A1me har\u00EDas un gran favor![VAR 0114(0074)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00A1Obviamente, se trata de negocios, claro!\\nYa ver\u00EDa c\u00F3mo compensarte de alguna manera.[VAR 0114(0074)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Cuando quieras compartir tus vatios, dame un\\ntoque.[VAR 0114(0074)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Hola, [VAR 0100(0000)]!\\n\u00BFQu\u00E9 se te ofrece?[VAR 0114(0074)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00BFAlguna otra cosa?[VAR 0114(0074)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Dar vatios"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Siguiente objetivo"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Combatir"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Nada, gracias"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Si necesitas algo, no te cortes y h\u00E1zmelo saber.[VAR 0114(0074)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1ntos quieres darme?[VAR 0114(0074)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "1000 W"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "5000 W"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "10 000 W"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "50 000 W"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "100 000 W"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "500 000 W"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "1 000 000 W"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Todos"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Mejor no"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u00BFQuieres darme [VAR 0207(0001,202F)] W entonces?[VAR 0114(0074)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00A1\u00BFDe verdad quieres darme todos tus vatios?![VAR 0114(0074)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Ji, ji... Te agradezco el detalle, pero me temo\\nque no tienes vatios suficientes.[VAR 0114(0074)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Hasta ahora me has entregado [VAR 0207(0001,202F)] W.[VAR 0114(0074)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u00A1Muchas gracias! Los utilizar\u00E9 para mejorar el\\ndojo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00A1Viva! Como ya tengo [VAR 0207(0001,202F)] W, \u00A1puedo\\ncontratar a una peluquera para el dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFEs la peluquer\u00EDa? Me llamo Tania y les\\nllamo del Dojo Maestro.\\c\\nMire, es que quer\u00EDa solicitar los servicios de una\\npeluquera... S\u00ED, en la Isla de la Armadura. S\u00ED...[VAR 0114(0074)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00A1Ha venido como las balas![VAR 0114(0074)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u00A1Hola, encantada de conoceros!\\nSoy vuestra nueva peluquera particular."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Nuestros sofisticados m\u00E9todos estil\u00EDsticos son un\\nsecreto profesional guardado como oro en pa\u00F1o.\\c\\nPor eso, debemos pedir que us\u00E9is esta habitaci\u00F3n\\nsi quer\u00E9is cambiar de look."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Qu\u00E9 atenci\u00F3n al detalle... Se nota que esta chica\\nes una profesional como la copa de un pino.[VAR 0114(0074)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Ji, ji... A partir de ahora nos pondremos en sus\\nmanos cuando queramos estar despampanantes.[VAR 0114(0074)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Uy, ahora que tengo al menos [VAR 0207(0001,202F)] W,\\n\u00A1puedo encargar una Rotomi para el dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFEs el Centro Pok\u00E9mon? Soy Tania, del\\nDojo Maestro.\\c\\nQuer\u00EDa usar mis vatios para comprar una Rotomi.\\nS\u00ED... Aj\u00E1... S\u00ED, eso es.[VAR 0114(0074)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u00A1Hecho! \u00A1Y qu\u00E9 rapiditos son con los pedidos![VAR 0114(0074)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Hm... Pero no se enciende... \u00A1Espero que no me\\nhayan dado una escacharrada![VAR 0114(0074)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Hay algo escrito en la pantalla. A ver...[VAR 0114(0074)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u0022Para encender la Rotomi se requiere un software\\nexclusivo configurado de forma muy espec\u00EDfica\u0022.[VAR 0114(0074)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u0022Si desea adquirirlo, no dude en ponerse en\\ncontacto con nosotros\u0022.\\c\\n\u00A1Pero bueno! \u00BFQu\u00E9 clase de chanchullo es este?[VAR 0114(0074)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Vamos, que quieren m\u00E1s vatios.\\n\u00A1Menudas sanguijuelas![VAR 0114(0074)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Lo siento en el alma, [VAR 0100(0000)].\\c\\nMe temo que voy a seguir necesitando tu\\ncolaboraci\u00F3n para poder encender la Rotomi.[VAR 0114(0074)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 bien! Con estos [VAR 0207(0001,202F)] W, podr\u00E1n\\nvenir a configurarme la Rotomi.[VAR 0114(0074)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00A1Hola! Hablo con el Centro Pok\u00E9mon, \u00BFverdad?\\nSoy Tania, del Dojo Maestro.\\c\\nLes llamo por la Rotomi que me vinieron a\\ninstalar el otro d\u00EDa. S\u00ED... S\u00ED... As\u00ED es...\\c\\nEjem, mire, la cuesti\u00F3n es que querr\u00EDa activarla\\ncuanto antes... \u00BFPodr\u00EDan venir de inmediato?[VAR 0114(0074)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u00A1Ya tengo la Rotomi configurada![VAR 0114(0074)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "\u00A1Hola!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1Encantada de conocerla, do\u00F1a Tania!\\nYo soy Rotomi."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Ser\u00E1 un placer ayudarla."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Ji, ji. El placer es m\u00EDo, descuida.\\c\\nBuenos vatios me has costado, as\u00ED que...\\n\u00A1trabajando que es gerundio![VAR 0114(0074)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "He puesto en marcha la Rotomi gracias a los\\nvatios que me has dado, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u00A1T\u00FA dale buen uso, que para eso est\u00E1![VAR 0114(0074)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Ahora que ya he llegado a los [VAR 0207(0001,202F)] W,\\n\u00A1podr\u00E9 instalar una m\u00E1quina expendedora![VAR 0114(0074)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFHablo con Macrocosmos Lifestyle?\\nSoy Tania, del Dojo Maestro.\\c\\nMire, les llamaba porque quer\u00EDa que viniesen a\\ninstalarme una m\u00E1quina expendedora.\\c\\nS\u00ED... S\u00ED...[VAR 0114(0074)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Glub, glub, glub... \u00A1Aaah! No hay nada como un\\npoco de agua para combatir la sed.[VAR 0114(0074)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Como aqu\u00ED puedes comprar bebidas tiradas de\\nprecio, \u00A1yo que t\u00FA usar\u00EDa siempre nuestra\\r\\nm\u00E1quina expendedora![VAR 0114(0074)]"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Aunque de momento solo hay Agua Fresca, \u00A1el\\ndojo ya ha ganado enteros con esta adquisici\u00F3n![VAR 0114(0074)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Si consigues m\u00E1s vatios, me encargar\u00E9 de ir\\naumentando la selecci\u00F3n de bebidas.[VAR 0114(0074)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00A1Mira t\u00FA que bien! Al tener ya [VAR 0207(0001,202F)] W,\\npuedo a\u00F1adir Refrescos a la selecci\u00F3n de la\\r\\nm\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFMacrocosmos Lifestyle? Soy Tania, del\\nDojo Maestro...[VAR 0114(0074)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Glub, glub... \u00A1Aaaaah![VAR 0114(0074)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "\u00A1Ahora ya puedes tomarte un buen Refresco sin\\ntener que poner un pie fuera del dojo! Es tan...\\r\\n\u00A1refrescante![VAR 0114(0074)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "T\u00FA tr\u00E1eme m\u00E1s vatios y ver\u00E1s como la selecci\u00F3n\\nde bebidas aumenta a\u00FAn m\u00E1s.[VAR 0114(0074)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00A1Estupendo! Con [VAR 0207(0001,202F)] W, podr\u00E9 a\u00F1adir\\nLimonadas a la selecci\u00F3n de la m\u00E1quina\\r\\nexpendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFMacrocosmos Lifestyle? Soy Tania, del\\nDojo Maestro...[VAR 0114(0074)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Glub, glub... Mmm, qu\u00E9 sabor tan suave...\\c\\n\u00A1Est\u00E1 tan rica que te da la vida! Y si la vida te da\\nlimones... \u00A1pues ya sabes lo que tienes que hacer![VAR 0114(0074)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Ahora ya tenemos un buen abanico de opciones\\npara beber despu\u00E9s de darse un ba\u00F1ito.[VAR 0114(0074)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Bien, con este surtido ya estamos bien servidos\\nen cuanto a bebidas... \u00A1Ahora toca la comida![VAR 0114(0074)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u00A1He alcanzado los [VAR 0207(0001,202F)] W! \u00A1Pues creo que\\nha llegado la hora de contratar uno de esos\\r\\nservicios tan pr\u00E1cticos de env\u00EDo de ingredientes![VAR 0114(0074)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFEs la Granja Ensue\u00F1o? Soy Tania, del\\nDojo Maestro.\\c\\nEstaba pensando que me gustar\u00EDa utilizar su\\nservicio de env\u00EDo de ingredientes... S\u00ED, s\u00ED...[VAR 0114(0074)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 profesionales! \u00A1He podido contratar el\\nservicio por tel\u00E9fono en un abrir y cerrar de ojos!\\c\\nJi, ji. \u00A1A partir de ahora nos enviar\u00E1n cada d\u00EDa\\ningredientes fresquitos!\\c\\nLos dejar\u00E9 en la nevera, as\u00ED que s\u00EDrvete cuando\\nquieras. Pero con moderaci\u00F3n, \u00BFeh? Je, je.[VAR 0114(0074)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 podr\u00EDa hacer con los siguientes vatios que\\nconsiga?\\c\\nAdquirir una m\u00E1quina expendedora donde poder\\ncomprar bebidas nutritivas no ser\u00EDa mala idea...[VAR 0114(0074)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Pues eso, como he alcanzado los [VAR 0207(0001,202F)] W,\\n\u00A1instalar\u00E9 una m\u00E1quina expendedora donde se\\r\\npuedan comprar bebidas nutritivas![VAR 0114(0074)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFUnofarma? Soy Tania, del Dojo Maestro.\\c\\nLes llamaba porque quer\u00EDa tener una m\u00E1quina\\nexpendedora donde poder comprar sus bebidas\\r\\nnutritivas... S\u00ED... S\u00ED...[VAR 0114(0074)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 alegr\u00EDa! \u00A1Ya se pueden comprar aqu\u00ED tanto\\nbotes de Prote\u00EDna como de Hierro!\\c\\nY, por si fuera poco, si compras varias unidades\\nse rebaja el precio. \u00A1Menuda ganga![VAR 0114(0074)]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "De momento solo hay disponibles dos tipos\\nde bebidas nutritivas, pero todo se andar\u00E1.\\c\\n\u00A1La cuesti\u00F3n es que el dojo cada vez ofrece m\u00E1s\\ncosas![VAR 0114(0074)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "T\u00FA tr\u00E1eme m\u00E1s vatios y ver\u00E1s como la selecci\u00F3n\\nde bebidas nutritivas sigue aumentando.[VAR 0114(0074)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00A1Viva! Al haber llegado a los [VAR 0207(0001,202F)] W,\\npodr\u00E9 aumentar la variedad de bebidas nutritivas\\r\\nque ofrece la m\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFUnofarma? Soy Tania, del Dojo Maestro.\\c\\nLlamaba porque quer\u00EDa ampliar la selecci\u00F3n de\\nbebidas nutritivas de mi m\u00E1quina expendedora...[VAR 0114(0074)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1Estupendo! \u00A1Ahora ya puedes comprar aqu\u00ED tanto\\nbotes de Calcio como de Zinc![VAR 0114(0074)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Me pregunto si podr\u00EDa llegar a lanzar una Onda\\nCertera yo misma si subo mi Ataque Especial.[VAR 0114(0074)]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Si consigues m\u00E1s vatios, volver\u00E9 a ampliar la\\nselecci\u00F3n de bebidas nutritivas.[VAR 0114(0074)]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 maravilla! Al contar con [VAR 0207(0001,202F)] W,\\npodr\u00E9 a\u00F1adir m\u00E1s bebidas nutritivas a la m\u00E1quina\\r\\nexpendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFUnofarma?\\c\\n\u00BFQu\u00E9 tal, majete? S\u00ED, la pesada de siempre, ji, ji.\\nBueno, mientras no sea una pesadilla... Je, je.\\c\\nPues mira, te llamaba porque quer\u00EDa pedirte un\\nfavor...[VAR 0114(0074)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "\u00A1Estupendo! \u00A1Ahora ya puedes comprar aqu\u00ED tanto\\nbotes de M\u00E1s PS como de Carburante![VAR 0114(0074)]"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "Oye, \u00BFt\u00FA crees que si me subo la Velocidad\\npodr\u00EDa maquillarme en dos segundos?[VAR 0114(0074)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Bueno, ahora tengo que discurrir alguna medida\\nnovedosa para hacer que nuestro querido Dojo\\r\\nMaestro sea todav\u00EDa m\u00E1s famoso.[VAR 0114(0074)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Como ya tengo [VAR 0207(0001,202F)] W, mover\u00E9 los hilos\\npara que se pueda seleccionar el Dojo Maestro\\r\\ncomo fondo al editar las Tarjetas de Liga.[VAR 0114(0074)]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFHablo con la Liga Pok\u00E9mon?\\nSoy Tania, del Dojo Maestro.\\c\\nMire, se me ha ocurrido una idea que podr\u00EDa\\nbeneficiar a ambas partes. S\u00ED... Eso es...[VAR 0114(0074)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00A1Ji, ji! \u00A1Ha ido todo como la seda![VAR 0114(0074)]"
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Ahora puedes seleccionar el Dojo Maestro como\\nfondo para las Tarjetas de Liga."
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Usa la Rotomi si quieres editar tu Tarjeta de\\nLiga.[VAR 0114(0074)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "\u00A1He superado los [VAR 0207(0001,202F)] W! Pues nada, \u00A1voy\\na encargar una de esas con un dise\u00F1o estupendo![VAR 0114(0074)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFEs la Liga Pok\u00E9mon? \u00A1Soy yo, Tania!\\c\\nA ver, quer\u00EDa pedirles que me hicieran algo muy\\nespecial, de esto que no se ve todos los d\u00EDas...[VAR 0114(0074)]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "\u00A1Guau, la han preparado en un santiam\u00E9n![VAR 0114(0074)]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "\u00A1La idea ser\u00EDa repartir estas Tarjetas de Liga por\\nah\u00ED para publicitar el dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Aunque, pens\u00E1ndolo bien, tampoco salgo muy\\nfavorecida, que digamos...\\c\\nSer\u00E1 mejor que nos las quedemos para nosotr[VAR 1100(00FF,0101)]oas.[VAR 0114(0074)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Los pr\u00F3ximos vatios pienso gastarlos en algo que\\nsea realmente pr\u00E1ctico.[VAR 0114(0074)]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "He llegado a [VAR 0207(0001,202F)] W, \u00A1menudo hito!\\c\\nPues te recompensar\u00E9 organizando combates\\ncontra un Entrenador fort\u00EDsimo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u00BFHola? \u00BFEs la Liga Pok\u00E9mon? \u00A1S\u00ED, soy Tania!\\n\u00BFMe has reconocido por la voz?\\c\\nJi, ji, ji... Mira una cosita, quer\u00EDa pedirte un\\nfavorcillo de nada.[VAR 0114(0074)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Vaya, qu\u00E9 l\u00E1stima...[VAR 0114(0074)]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Se han puesto en contacto con el Campe\u00F3n de\\notra regi\u00F3n...[VAR 0114(0074)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Pero claro, Galar le queda tan lejos que al final\\nha decidido declinar la oferta.[VAR 0114(0074)]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Visto lo visto, no queda m\u00E1s remedio que buscar\\notro Entrenador que destaque...[VAR 0114(0074)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Si quieres medirte, \u00A1h\u00E1zmelo saber![VAR 0114(0074)]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Como he superado la friolera de [VAR 0207(0001,202F)] W,\\nya solo queda una recompensa...[VAR 0114(0074)]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "\u00BFTe importa acompa\u00F1arme fuera un momento,\\n[VAR 0100(0000)]?[VAR 0114(0074)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "\u00BFEst\u00E1s preparad[VAR 1100(00FF,0101)]oa para enfrentarte a un\\nEntrenador de altura?[VAR 0114(0074)]"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "\u00A1Vaya! \u00BFHas vuelto para combatir contra m\u00ED?[VAR 0114(0074)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Vale. Pues cuando est\u00E9s preparad[VAR 1100(00FF,0101)]oa, simplemente\\nh\u00E1zmelo saber.[VAR 0114(0074)]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "\u00BFS\u00ED? Pues ven conmigo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "\u00A1Muy bien, pues vamos all\u00E1![VAR 0114(0074)]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "He conseguido encontrar a un Entrenador muy\\nfuerte para ti, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Y esa persona no es ni m\u00E1s ni menos que...[VAR 0114(0074)]"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "\u00A1Buenas!"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "\u00BFEh?[VAR 0114(0074)]"
+  },
+  {
+    "index": 137,
+    "flags": 4,
+    "text": "Un momento, tu cara me suena..."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "\u00BFNo te acuerdas de m\u00ED? Nos cruzamos en la\\nestaci\u00F3n cuando llegaste a la isla."
+  },
+  {
+    "index": 139,
+    "flags": 4,
+    "text": "Al final acabaste ingresando en el Dojo Maestro\\nen mi lugar, \u00BFeh?\\c\\n\u00A1Pues no sabes cu\u00E1nto te lo agradezco!"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Gracias a eso me aceptaron en otro dojo que es\\nmuch\u00EDsimo mejor, \u00BFsabes?"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "\u00A1El Dojo Soberbio, para m\u00E1s se\u00F1as!"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Y, como su aprendiz m\u00E1s aventajado..."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "\u00A1He venido a hacerme con el cartel de este dojo\\nde mindundis!"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Madre m\u00EDa, c\u00F3mo est\u00E1 el patio...[VAR 0114(0074)]"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "\u00BFConoces a esta persona, [VAR 0100(0000)]?[VAR 0114(0074)]"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "No me da muy buena espina... Hay que elegir\\nbien a los amigos.[VAR 0114(0074)]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Calladit[VAR 1100(00FF,0101)]oas est\u00E1is m\u00E1s guap[VAR 1100(00FF,0101)]oas, \u00BFsab\u00E9is?\\n\u00A1Ya basta de tanta ch\u00E1chara!"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "\u00A1Venga, que se me plante delante el m\u00E1s fuerte\\nde este dojo! \u00A1Que no tengo todo el d\u00EDa!"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Hmm, parece que se me han trastocado un poco\\nlos planes...[VAR 0114(0074)]"
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Espera un moment\u00EDn, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "\u00BFEh? \u00BFQu\u00E9 quiere? \u00A1Ap\u00E1rtese, se\u00F1ora, que esto\\nno va con usted!"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Mira que eres pesadito, eh...[VAR 0114(0074)]"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "\u00BFQ-qu\u00E9?"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "\u00A1U-un moment...!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "\u00A1Uaaah! \u00A1Basta!"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "\u00A1Aaaarg!"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "\u00A1Ni siquiera el aprendiz m\u00E1s aventajado del Dojo\\nSoberbio ha tenido la m\u00E1s m\u00EDnima posibilidad!\\c\\n\u00A1Esta mujer es demasiado fuerte!"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Esc\u00FAchame.[VAR 0114(0074)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "\u00BFS-s\u00ED?"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Te veo muy verde en lo que respecta al dominio\\nde los movimientos. Te falla la base.[VAR 0114(0074)]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 te parece si pasas a entrenarte en el Dojo\\nMaestro empezando de cero?[VAR 0114(0074)]"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "\u00A1Nos encargaremos de ponerte a tono![VAR 0114(0074)]"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "\u00A1\u00BFQu\u00E9ee?!"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[~ 164]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "[~ 165]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "[~ 166]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "\u00A1Uaaah! \u00A1El Dojo Maestro da muy mal rollo!\\n\u00A1Yo me largo!"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Jo, vaya desastre que soy...[VAR 0114(0074)]"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "\u00BFPues no acabo de ahuyentar a un posible nuevo\\nAlumno?[VAR 0114(0074)]"
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "En fin, y yo que buscaba darte una sorpresa...\\nAhora ya se me ha visto el plumero totalmente.[VAR 0114(0074)]"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Porque, como te habr\u00E1s imaginado...[VAR 0114(0074)]"
+  },
+  {
+    "index": 172,
+    "flags": 4,
+    "text": "El Entrenador de altura al que me refer\u00EDa es en\\nrealidad una Entrenadora: \u00A1yo![VAR 0114(0074)]"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 me dices, [VAR 0100(0000)]?\\n\u00BFEst\u00E1s preparad[VAR 1100(00FF,0101)]oa?[VAR 0114(0074)]"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "\u00A1Comencemos entonces la mayor diversi\u00F3n que\\nexiste en todo el universo![VAR 0114(0074)]"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Ayyyy, jo... \u00A1qu\u00E9 rabia![VAR 0114(0074)]"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Ji, ji... Pero ha sido tan trepidante que el coraz\u00F3n\\ntodav\u00EDa me late desenfrenado.[VAR 0114(0074)]"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "\u00A1Lo he pasado de f\u00E1bula![VAR 0114(0074)]"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Yo dir\u00EDa que mi fuerza es comparable a la de mi\\npichonc\u00EDn.[VAR 0114(0074)]"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "\u00A1Pero la tuya es inconmensurable![VAR 0114(0074)]"
+  },
+  {
+    "index": 180,
+    "flags": 4,
+    "text": "Estoy segura de que supondr\u00E1 un buen aliciente\\ntanto para mi pichoncito como para los Alumnos.[VAR 0114(0074)]"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Me da algo de reparo tener que ponerme tan\\nceremoniosa, pero lo tengo que decir.[VAR 0114(0074)]"
+  },
+  {
+    "index": 182,
+    "flags": 4,
+    "text": "Ahora ya eres un miembro m\u00E1s de la familia del\\nDojo Maestro. Y como tal...\\c\\n\u00A1Espero que sigas cuidando de los dem\u00E1s![VAR 0114(0074)]"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Dicho esto...[VAR 0114(0074)]"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "\u00A1No creas que esto va a quedar as\u00ED! \u00A1Me debes la\\nrevancha![VAR 0114(0074)]"
+  },
+  {
+    "index": 185,
+    "flags": 4,
+    "text": "Espero volver a disputar contra ti otro combate\\napote\u00F3sico.[VAR 0114(0074)]"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Ji, ji... Si es que combatir contra ti es siempre la\\nmar de divertido, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "\u00A1Espero que me dejes echarte la revancha\\nma\u00F1ana![VAR 0114(0074)]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "\u00A1Ay, qu\u00E9 rabia! Te ha faltado poco, \u00BFeh?[VAR 0114(0074)]"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Pero bueno, en esta ocasi\u00F3n... \u00A1la victoria es para\\nm\u00ED![VAR 0114(0074)]"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Tanto esfuerzo me ha dejado baldada...[VAR 0114(0074)]"
+  },
+  {
+    "index": 191,
+    "flags": 4,
+    "text": "As\u00ED que si quieres resarcirte... \u00A1ma\u00F1ana te echo la\\nrevancha! Aqu\u00ED te espero.[VAR 0114(0074)]"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Tanto esfuerzo me ha dejado hecha polvo...\\c\\nVuelve ma\u00F1ana si quieres echar otro combate.[VAR 0114(0074)]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Todos esos vatios que me has dado han marcado\\nla diferencia, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "\u00A1Gracias a ti el Dojo Maestro es ahora un dojo\\ncon todas las letras![VAR 0114(0074)]"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Lo he dado todo"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "No ha sido nada..."
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "\u00A1Si es que al final has reunido una cantidad\\nasombrosa de vatios![VAR 0114(0074)]"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Vaya, nos ha salido modest[VAR 1100(00FF,0101)]oa [VAR 1100(00FF,0202)]ella chic[VAR 1100(00FF,0101)]oa.[VAR 0114(0074)]"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "\u00BFSabes qu\u00E9? Cuando mi pichoncito me plante\u00F3\\nla idea de abrir el dojo...[VAR 0114(0074)]"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Debo decir que al principio no estaba nada\\nconvencida.[VAR 0114(0074)]"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Por aquel entonces yo ten\u00EDa otro trabajo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Y para construir el dojo hab\u00EDa que hacer todo\\ntipo de tr\u00E1mites y papeleos.[VAR 0114(0074)]"
+  },
+  {
+    "index": 203,
+    "flags": 4,
+    "text": "Adem\u00E1s, \u00BFqui\u00E9n vendr\u00EDa a un dojo construido en\\nuna isla deshabitada?[VAR 0114(0074)]"
+  },
+  {
+    "index": 204,
+    "flags": 4,
+    "text": "Aun as\u00ED, tanto mi pichonc\u00EDn como yo nos\\ndedicamos a la tarea en cuerpo y alma.[VAR 0114(0074)]"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Luego naci\u00F3 Idr\u00E1n... Y todos los Alumnos se\\nvolcaron con nosotros.[VAR 0114(0074)]"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "\u00A1Y en ese \u0022todos\u0022 entras t\u00FA tambi\u00E9n, claro![VAR 0114(0074)]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Si hemos llegado hasta aqu\u00ED, ha sido gracias a la\\nayuda de muchas personas.[VAR 0114(0074)]"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "La verdad es que estoy disfrutando horrores de\\nesta nueva etapa de mi vida.[VAR 0114(0074)]"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "\u00A1Muchas gracias de coraz\u00F3n, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 te parece si te quedas con este detallito\\ncomo muestra de mi aprecio?[VAR 0114(0074)]"
+  },
+  {
+    "index": 211,
+    "flags": 4,
+    "text": "Es un ejemplar muy pero que muy poco com\u00FAn.\\n\u00A1Solo la tenemos mi pichoncito y yo![VAR 0114(0074)]"
+  },
+  {
+    "index": 212,
+    "flags": 4,
+    "text": "Ay, mira, \u00A1Slowpoke![VAR 0114(0074)]"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Slooow..."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "\u00BFPoke?"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Ji, ji, ji... \u00BFSer\u00E1n pareja esos dos?[VAR 0114(0074)]"
+  },
+  {
+    "index": 216,
+    "flags": 4,
+    "text": "Aaaah... \u00A1Mira que hac\u00EDa tiempo desde la \u00FAltima\\nvez que di un paseo as\u00ED, sin pensar en nada![VAR 0114(0074)]"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Qu\u00E9 agradable sentir la brisa acarici\u00E1ndote la\\ncara...[VAR 0114(0074)]"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "\u00A1Bueno, no nos despistemos! Si tardamos mucho\\nen volver, la gente se empezar\u00E1 a preocupar.[VAR 0114(0074)]"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 te parece si regresamos?[VAR 0114(0074)]"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "\u00A1Vale!"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "\u00BFNos quedamos un poquito m\u00E1s?"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Ji, ji... \u00A1Qu\u00E9 aplicad[VAR 1100(00FF,0101)]oa![VAR 0114(0074)]"
+  },
+  {
+    "index": 223,
+    "flags": 4,
+    "text": "Uy, de repente se ha vuelto remol[VAR 1100(00FF,0302)]\u00F3nona [VAR 1100(00FF,0202)]ella chic[VAR 1100(00FF,0101)]oa.[VAR 0114(0074)]"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "La verdad es que he disfrutado mucho con el\\npaseo, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Seguramente se me ha escapado alguna cosilla\\nalgo vergonzosa.[VAR 0114(0074)]"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Quedar\u00E1 entre nosotr[VAR 1100(00FF,0101)]oas dos, \u00BFeh?[VAR 0114(0074)]"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Si me das [VAR 0207(0001,202F)] W m\u00E1s...[VAR 0114(0074)]"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Podr\u00EDa contratar a una peluquera para cuando\\nnos apetezca cambiar de look aqu\u00ED mismito.[VAR 0114(0074)]"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Llamar\u00E9 al Centro Pok\u00E9mon para que nos\\ninstalen una Rotomi como la que tienen all\u00ED.[VAR 0114(0074)]"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Conseguir\u00E9 que me vengan a configurar la\\nRotomi para que funcione.[VAR 0114(0074)]"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Pondr\u00E9 una m\u00E1quina expendedora donde se\\npuedan comprar bebidas a precios rebajados.[VAR 0114(0074)]"
+  },
+  {
+    "index": 232,
+    "flags": 4,
+    "text": "A\u00F1adir\u00E9 Refrescos a la selecci\u00F3n de bebidas\\nde la m\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 233,
+    "flags": 4,
+    "text": "A\u00F1adir\u00E9 Limonadas a la selecci\u00F3n de bebidas\\nde la m\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Contratar\u00E9 un servicio de env\u00EDo de ingredientes\\na domicilio.[VAR 0114(0074)]"
+  },
+  {
+    "index": 235,
+    "flags": 4,
+    "text": "Instalar\u00E9 una m\u00E1quina expendedora donde se\\npuedan comprar bebidas nutritivas.[VAR 0114(0074)]"
+  },
+  {
+    "index": 236,
+    "flags": 4,
+    "text": "Ampliar\u00E9 la selecci\u00F3n de bebidas nutritivas que\\nse pueden adquirir en la m\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 237,
+    "flags": 4,
+    "text": "Ampliar\u00E9 a\u00FAn m\u00E1s la selecci\u00F3n de bebidas\\nnutritivas de la m\u00E1quina expendedora.[VAR 0114(0074)]"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Se podr\u00E1n crear Tarjetas de Liga con el Dojo\\nMaestro como fondo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[~ 239]"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Mandar\u00E9 hacer una aut\u00E9ntica obra de arte.[VAR 0114(0074)]"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Te pondr\u00E9 en bandeja la ocasi\u00F3n de combatir\\ncontra un Entrenador formidable.[VAR 0114(0074)]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Bueno, no hay mucho que pueda ofrecerte ya...\\n\u00BFQuiz\u00E1 un agradable pase\u00EDto conmigo?[VAR 0114(0074)]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "La verdad es que ya no tengo nada que poder\\nofrecerte, hij[VAR 1100(00FF,0101)]oa m\u00ED[VAR 1100(00FF,0101)]oa...\\c\\nLos vatios que me des a partir de ahora ser\u00E1n\\npor amor al arte...[VAR 0114(0074)]"
+  },
+  {
+    "index": 262,
+    "flags": 4,
+    "text": "Aunque no pueda ofrecerte nada a cambio,\\n\u00BFcu\u00E1ntos vatios quieres darme?[VAR 0114(0074)]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "\u00A1Gracias! Estoy segura de que encontrar\u00E9 una\\nforma de darles buen uso.[VAR 0114(0074)]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Hmm, no habr\u00E1 alguien por ah\u00ED que los est\u00E9\\nacumulando... Uf, qu\u00E9 lata...[VAR 0114(0074)]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Hay una nota en la nevera.\\c\\n\u0022Estos ingredientes se comparten entre todos.\\n\u00A1Prohibido comerlos a hurtadillas!  \u0336Tania\u0022"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "\u00A1Hay un mont\u00F3n de ingredientes en la nevera!\\n\u00BFCu\u00E1l quieres coger?"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[VAR 0109(0001)]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[VAR 0109(0002)]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[VAR 0109(0003)]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[VAR 0109(0004)]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Ninguno"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "\u00BFPero qui\u00E9n est\u00E1 abriendo y cerrando la puerta\\nde la nevera todo el rato?\\c\\n\u00A1As\u00ED se malgasta la electricidad![VAR 0114(0074)]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Ser\u00E1 mejor dejarlo por hoy."
+  }
+]

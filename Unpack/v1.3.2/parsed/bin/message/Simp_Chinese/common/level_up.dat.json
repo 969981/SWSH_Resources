@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Lv.[VAR 0202(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u002B[VAR 0202(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "HP"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u653B\u51FB"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u9632\u5FA1"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u7279\u653B"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u7279\u9632"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u901F\u5EA6"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0001,0000)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u83B7\u5F97\u4E86\u7ECF\u9A8C\u503C\uFF01\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR BE05(0005)][VAR 0102(0000)]\\n\u4E0A\u5347\u5230\u4E86\u7B49\u7EA7[VAR 0202(0001)]\uFF01[VAR BE05(0001)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]\u5B66\u4F1A\u4E86\\n[VAR 0107(0001)]\uFF01[VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 010C(0000)]\u60F3\u8981\u5B66\u4E60\\n[VAR 0107(0001)]\u2026\u2026\\c\\n\u4E3A\u4E86\u5B66\u4E60[VAR 0107(0001)]\uFF0C\\n\u8981\u5FD8\u8BB0\u5176\u4ED6\u7684\u62DB\u5F0F\u5417\uFF1F"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\uFF11[WAIT 20]\uFF0C\uFF12[WAIT 20]\u2026[WAIT 20]\u2026[WAIT 20]\u7A7A\uFF01[VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)]\u628A[VAR 0107(0001)]\u7684\\n\u4F7F\u7528\u65B9\u6CD5\u5FD8\u5F97\u5E72\u5E72\u51C0\u51C0\u4E86\uFF01\\c\\n\u4E8E\u662F\u2026\u2026\uFF01\\c\\n[VAR 0102(0000)]\u5B66\u4F1A\u4E86\\n[VAR 0107(0002)]\uFF01[VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 010C(0000)]\u6CA1\u6709\u5B66\u4E60\\n[VAR 0107(0001)]\u5C31\u7ED3\u675F\u4E86\uFF01\\c"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u901A\u8FC7\u9732\u8425\u7684\u6109\u5FEB\u7ECF\u5386\uFF0C\\n\u83B7\u5F97\u4E86\u7ECF\u9A8C\u503C\uFF01\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u5FD8\u8BB0\uFF01"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u4E0D\u5FD8\u8BB0"
+  }
+]

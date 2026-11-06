@@ -1,0 +1,1342 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "A volte il cattivo odore emesso dal Pok\u00E9mon\\nfa tentennare i nemici quando attacca."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, attira la pioggia."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "La Velocit\u00E0 aumenta a ogni turno."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 protetto da una dura corazza\\nche gli evita di subire brutti colpi."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Evita che il Pok\u00E9mon vada KO in un sol colpo se ha\\ntutti i PS, e lo rende immune alle mosse che causano\\nKO immediato."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Aumenta l\u2019umidit\u00E0 circostante, impedendo l\u2019uso\\ndi Autodistruzione e di altre mosse esplosive."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Il corpo flessibile del Pok\u00E9mon gli impedisce\\ndi subire gli effetti della paralisi."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "L\u2019elusione aumenta durante le tempeste di sabbia."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Il contatto fisico con il corpo percorso\\ndall\u2019elettricit\u00E0 statica del Pok\u00E9mon pu\u00F2\\ncausare paralisi."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da una mossa di tipo\\nElettro, recupera PS anzich\u00E9 subire danni."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da una mossa di tipo\\nAcqua, recupera PS anzich\u00E9 subire danni."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "L\u2019imperturbabilit\u00E0 del Pok\u00E9mon lo protegge\\nda infatuazioni e provocazioni."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Neutralizza gli effetti di tutte le condizioni\\natmosferiche."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "La precisione del Pok\u00E9mon aumenta grazie ai suoi\\nocchi composti."
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon soffre d\u2019insonnia e non pu\u00F2 addormentarsi."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon acquisisce il tipo della mossa subita."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "L\u2019immunit\u00E0 naturale del Pok\u00E9mon gli impedisce\\ndi essere avvelenato."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce una mossa di tipo Fuoco,\\nne sfrutta il calore per potenziare le proprie mosse\\ndello stesso tipo."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 protetto da uno strato di scaglie\\nche annulla gli effetti aggiuntivi delle mosse subite."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon affronta la vita al proprio ritmo e per\\nquesto non pu\u00F2 essere confuso."
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon resiste a strumenti e mosse che causano\\nla sostituzione appiccicandosi al terreno con le ventose."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, la sua\\nprepotenza intimidisce i nemici, riducendone\\nl\u2019Attacco."
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon calpesta l\u2019ombra del nemico impedendogli\\nla fuga o la sostituzione."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 colpito da un attacco diretto, grazie\\nalla sua pelle ruvida infligge danni a sua volta."
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Un potere misterioso protegge il Pok\u00E9mon e lo\\nrende vulnerabile solo alle mosse superefficaci."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "La capacit\u00E0 di levitare conferisce al Pok\u00E9mon\\nimmunit\u00E0 agli attacchi di tipo Terra."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Pu\u00F2 causare avvelenamento, paralisi o sonno\\na chi manda a segno un attacco diretto."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Se un nemico avvelena, paralizza o scotta un\\nPok\u00E9mon con questa abilit\u00E0, viene colpito dallo\\nstesso problema di stato."
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Impedisce la diminuzione delle statistiche causata\\nda abilit\u00E0 o mosse di altri Pok\u00E9mon."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon viene sostituito, guarisce\\ndai problemi di stato."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon attira e neutralizza le mosse di tipo Elettro\\ne fa aumentare il suo Attacco Speciale."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Rende pi\u00F9 probabili gli effetti aggiuntivi delle mosse."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Se piove, la Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Se la luce del sole \u00E8 intensa, la Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Illumina tutto intorno, rendendo pi\u00F9 probabile\\nincontrare Pok\u00E9mon selvatici."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, copia l\u2019abilit\u00E0\\ndi un nemico."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Raddoppia l\u2019Attacco del Pok\u00E9mon."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Pu\u00F2 avvelenare chi manda a segno un attacco diretto."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "La capacit\u00E0 di concentrazione del Pok\u00E9mon evita\\nche tentenni per gli attacchi del nemico."
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Il magma riveste il corpo del Pok\u00E9mon\\nimpedendogli di venire congelato."
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Un velo d\u2019acqua riveste il corpo del Pok\u00E9mon\\nimpedendogli di venire scottato."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "La carica magnetica attrae i Pok\u00E9mon di tipo\\nAcciaio impedendogli la fuga o la sostituzione."
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 dotato di una sorta di isolamento\\nacustico che lo rende immune alle mosse basate\\nsul suono."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon recupera PS quando piove."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, scatena\\nuna tempesta di sabbia."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon mette pressione al nemico, facendogli\\nconsumare pi\u00F9 PP."
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 protetto da uno spesso strato\\ndi grasso che dimezza il danno causato da\\nmosse di tipo Fuoco e Ghiaccio."
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon impiega met\u00E0 del tempo per risvegliarsi\\ndal sonno rispetto agli altri."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Pu\u00F2 scottare chi manda a segno un attacco diretto."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Garantisce la fuga dai Pok\u00E9mon selvatici."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "La vista acuta del Pok\u00E9mon impedisce che la sua\\nprecisione diminuisca."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "L\u2019Attacco del Pok\u00E9mon non pu\u00F2 diminuire\\ngrazie alla morsa micidiale in cui \u00E8 in grado\\ndi stringere i nemici."
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 raccogliere lo strumento usato da\\nun nemico durante la lotta. A volte potrebbe\\nraccogliere strumenti anche fuori dalla lotta."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon usa una mossa, nel turno\\nsuccessivo si riposer\u00E0."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "L\u2019Attacco aumenta, ma la precisione diminuisce."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Pu\u00F2 causare infatuazione a chi manda a segno\\nun attacco diretto."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale aumenta se ci sono alleati con\\nl\u2019abilit\u00E0 Meno o Pi\u00F9."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale aumenta se ci sono alleati con\\nl\u2019abilit\u00E0 Meno o Pi\u00F9."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Cambia il tipo del Pok\u00E9mon in Acqua, Fuoco\\no Ghiaccio in base alle condizioni atmosferiche."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Gli strumenti restano appiccicati al corpo adesivo\\ndel Pok\u00E9mon e non possono essere rubati."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 guarire dai problemi di stato\\nfacendo la muta completa della pelle."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 affetto da un problema di stato,\\ntira fuori la grinta e aumenta il proprio Attacco."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 affetto da un problema di stato,\\nle squame sulla sua pelle si induriscono aumentando\\nla sua Difesa."
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon secerne delle sostanze tossiche.\\nSe un nemico manda a segno una mossa che\\nassorbe i PS, subisce dei danni."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon ha pochi PS, la potenza delle\\nsue mosse di tipo Erba aumenta."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon ha pochi PS, la potenza delle\\nsue mosse di tipo Fuoco aumenta."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon ha pochi PS, la potenza delle\\nsue mosse di tipo Acqua aumenta."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon ha pochi PS, la potenza delle\\nsue mosse di tipo Coleottero aumenta."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Protegge il Pok\u00E9mon dai contraccolpi."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, la luce solare\\ndiventa intensa."
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Impedisce la fuga al nemico."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 talmente vivace che non pu\u00F2\\naddormentarsi."
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 protetto da un fumo chiaro che\\nimpedisce ai nemici di diminuire le sue statistiche."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "L\u2019Attacco del Pok\u00E9mon raddoppia grazie\\nalla sua padronanza delle tecniche yoga."
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 protetto da un guscio robusto\\nche gli evita di subire brutti colpi."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Neutralizza gli effetti di tutte le condizioni\\natmosferiche."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 confuso, la sua elusione aumenta."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da una mossa di\\ntipo Elettro, la neutralizza e sfrutta la carica\\nelettrica per aumentare la propria Velocit\u00E0."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Rende pi\u00F9 forti contro nemici dello stesso sesso,\\nma pi\u00F9 deboli contro nemici di sesso opposto."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon tentenna, il suo animo indomito\\nsi risveglia e la sua Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Se grandina, l\u2019elusione aumenta."
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non attende di aver perso molti PS\\nper mangiare certe bacche, ma lo fa non appena\\ni suoi PS scendono a met\u00E0 o meno."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce un brutto colpo, monta su\\ntutte le furie e il suo Attacco aumenta al massimo."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon usa o perde uno strumento,\\nla sua Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Il corpo termoresistente del Pok\u00E9mon dimezza i danni\\nche subisce dalle mosse di tipo Fuoco."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Raddoppia le modifiche alle statistiche."
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon recupera PS se piove o se subisce\\nmosse di tipo Acqua, ma perde PS con la luce solare\\nintensa. Subisce pi\u00F9 danni da mosse di tipo Fuoco."
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon analizza Difesa e Difesa Speciale\\ndel nemico e, a seconda di qual \u00E8 pi\u00F9 bassa,\\naumenta il proprio Attacco o Attacco Speciale."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Potenzia le mosse che utilizzano pugni."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 avvelenato, recupera PS anzich\u00E9\\nperderli."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Potenzia di molto le mosse dello stesso tipo\\ndel Pok\u00E9mon."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Le mosse multicolpo mandano a segno sempre\\nil massimo dei colpi possibili."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Se piove, il Pok\u00E9mon guarisce dai problemi di stato."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Se la luce del sole \u00E8 intensa, l\u2019Attacco Speciale\\naumenta, ma il Pok\u00E9mon perde PS a ogni turno."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 affetto da un problema di stato,\\nla Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Tutte le mosse del Pok\u00E9mon diventano di tipo\\nNormale e la loro potenza aumenta un po\u2019."
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Aumenta ulteriormente i danni inflitti dai brutti colpi."
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon subisce danni solo dagli attacchi."
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon e chiunque lo attacchi abbassano\\nla guardia e le loro mosse vanno sempre a segno."
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon agisce sempre per ultimo."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Potenzia le mosse pi\u00F9 deboli del Pok\u00E9mon."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Se la luce del sole \u00E8 intensa, evita i problemi\\ndi stato."
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 usare lo strumento che ha con s\u00E9."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon attacca, ignora l\u2019abilit\u00E0 del\\nbersaglio se questa ha effetto sulle mosse."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "L\u2019incredibile fortuna del Pok\u00E9mon aumenta\\nla sua probabilit\u00E0 di infliggere brutti colpi."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Chi manda KO questo Pok\u00E9mon con un attacco\\ndiretto subisce dei danni."
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Rivela se il nemico ha mosse pericolose."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, rivela una delle\\nmosse del nemico."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon attacca, ignora le modifiche\\nalle statistiche del nemico."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Permette alle mosse non molto efficaci di infliggere\\ndanni normalmente."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Riduce i danni subiti dalle mosse superefficaci."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Dimezza per cinque turni l\u2019Attacco e la Velocit\u00E0."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Permette di colpire Pok\u00E9mon di tipo Spettro\\ncon mosse di tipo Normale e Lotta."
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon attira e neutralizza le mosse di tipo Acqua\\ne fa aumentare il proprio Attacco Speciale."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Se grandina, il Pok\u00E9mon recupera PS."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Riduce i danni subiti dalle mosse superefficaci."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, provoca\\nuna grandinata."
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 raccogliere del Miele alla fine\\ndella lotta."
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, rivela\\nlo strumento del nemico."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Potenzia le mosse che causano contraccolpo."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Cambia il tipo del Pok\u00E9mon a seconda della lastra\\no del Cristallo Z che ha con s\u00E9."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Se la luce del sole \u00E8 intensa, aumenta l\u2019Attacco\\ne la Difesa Speciale del Pok\u00E9mon e dei suoi alleati."
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Infligge danni ai nemici addormentati."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da un attacco diretto,\\nruba lo strumento di chi lo ha attaccato."
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Aumenta la potenza delle mosse, ma ne annulla\\ngli effetti aggiuntivi."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Le modifiche alle statistiche hanno effetto inverso:\\nle statistiche aumentano quando dovrebbero diminuire\\ne viceversa."
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Il nemico viene intimidito e non pu\u00F2 mangiare\\nbacche."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "L\u2019Attacco aumenta di molto quando le statistiche\\ndiminuiscono a causa di un nemico."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Quando i PS scendono a met\u00E0 o meno, il Pok\u00E9mon\\nsi scoraggia e l\u2019Attacco e l\u2019Attacco Speciale\\nvengono dimezzati."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Pu\u00F2 bloccare la mossa subita dal Pok\u00E9mon."
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "A volte cura i problemi di stato degli alleati."
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "I danni inflitti agli alleati del Pok\u00E9mon\\nvengono ridotti."
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce danni da mosse fisiche, la Difesa\\ndiminuisce e la Velocit\u00E0 aumenta di molto."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Raddoppia il peso del Pok\u00E9mon."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Dimezza il peso del Pok\u00E9mon."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Se i PS sono al massimo, riduce il danno subito."
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 avvelenato, la potenza delle sue mosse\\nfisiche aumenta."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon \u00E8 scottato, la potenza delle sue mosse\\nspeciali aumenta."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Pu\u00F2 ricreare una bacca utilizzata."
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon prevede ed evita gli attacchi degli alleati."
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "A ogni turno, aumenta di molto una statistica\\ne ne riduce un\u2019altra."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Rende immuni ai danni da grandine e tempesta di\\nsabbia, alle mosse Spora, Cottonspora, Sonnifero,\\nParalizzante e alle mosse \u201Cpolvere\u201D."
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 avvelenare il nemico al solo contatto."
+  },
+  {
+    "index": 144,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon recupera un po\u2019 di PS quando lascia\\nil campo."
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "Evita che la Difesa diminuisca."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Se c\u2019\u00E8 una tempeste di sabbia, la Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon resiste pi\u00F9 facilmente alle mosse di stato."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon agisce per ultimo, la potenza\\ndella mossa aumenta."
+  },
+  {
+    "index": 149,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon inganna il nemico entrando in campo\\ncon le sembianze dell\u2019ultimo Pok\u00E9mon della propria\\nsquadra."
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon si trasforma nel nemico che ha davanti."
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon attacca evitando le barriere e il sostituto\\ndel nemico."
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Al contatto con il Pok\u00E9mon, l\u2019abilit\u00E0 del nemico\\ndiventa Mummia."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Quando manda un nemico KO, il Pok\u00E9mon si fa\\nsicuro di s\u00E9 e aumenta il proprio Attacco."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon viene colpito da una mossa\\ndi tipo Buio, il suo forte senso di giustizia fa s\u00EC\\nche l\u2019Attacco aumenti."
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Le mosse di tipo Buio, Spettro e Coleottero\\nspaventano il Pok\u00E9mon aumentandone la Velocit\u00E0."
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon respinge al mittente le mosse di stato senza\\nsubirne gli effetti."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da una mossa di tipo Erba,\\nla neutralizza e aumenta il proprio Attacco."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Le mosse di stato del Pok\u00E9mon acquistano\\npriorit\u00E0 alta."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Potenzia le mosse di tipo Roccia, Terra e Acciaio\\ndurante le tempeste di sabbia."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da un attacco diretto,\\ninfligge danni a sua volta con le sue spine di ferro."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Cambia la forma del Pok\u00E9mon se i PS scendono\\na met\u00E0 o meno."
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Aumenta la precisione di tutta la squadra."
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon attacca, ignora l\u2019abilit\u00E0 del\\nbersaglio se questa ha effetto sulle mosse."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon attacca, ignora l\u2019abilit\u00E0 del\\nbersaglio se questa ha effetto sulle mosse."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Protegge tutta la squadra da effetti che ne limitano\\nla libert\u00E0 di scelta delle mosse."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Rende gli alleati di tipo Erba immuni alla diminuzione\\ndelle statistiche e ai problemi di stato."
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon mangia una bacca, recupera anche\\ndei PS."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Cambia il tipo del Pok\u00E9mon in quello della mossa\\nche usa."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Dimezza il danno subito dalle mosse fisiche."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Quando chi la usa colpisce un Pok\u00E9mon con una mossa,\\ngli ruba lo strumento."
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Protegge da alcune mosse a base di proiettili\\ne bombe."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale aumenta di molto quando le\\nstatistiche diminuiscono a causa di un nemico."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "La robusta mascella del Pok\u00E9mon permette\\nmorsi molto potenti."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Le mosse di tipo Normale diventano di tipo\\nGhiaccio e la loro potenza aumenta un po\u2019."
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Rende il Pok\u00E9mon e i suoi alleati immuni al sonno."
+  },
+  {
+    "index": 176,
+    "flags": 4,
+    "text": "Assume la Forma Spada se usa una mossa\\nd\u2019attacco e la Forma Scudo se usa Scudo Reale."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon ha tutti i PS, le sue mosse\\ndi tipo Volante acquistano priorit\u00E0 alta."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Potenzia le mosse \u201Cpulsar\u201D, Forzasfera\\ne Ondasana."
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "In presenza di un Campo Erboso, la Difesa\\naumenta."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Se un alleato usa uno strumento, il Pok\u00E9mon\\ngli passa il proprio."
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Potenzia le mosse che causano un contatto fisico."
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Le mosse di tipo Normale diventano di tipo Folletto\\ne la loro potenza aumenta un po\u2019."
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da un attacco diretto,\\nla Velocit\u00E0 di chi l\u2019ha colpito diminuisce."
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Le mosse di tipo Normale diventano di tipo Volante\\ne la loro potenza aumenta un po\u2019."
+  },
+  {
+    "index": 185,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon e il suo piccolo attaccano insieme."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Potenzia le mosse di tipo Buio di tutti i Pok\u00E9mon."
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Potenzia le mosse di tipo Folletto di tutti i Pok\u00E9mon."
+  },
+  {
+    "index": 188,
+    "flags": 4,
+    "text": "Inverte gli effetti di tutte le aure riducendone\\nla potenza."
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Crea un clima che rende inefficaci\\ngli attacchi di tipo Fuoco."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Crea un clima che rende inefficaci\\ngli attacchi di tipo Acqua."
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Crea un clima che annulla i punti deboli\\ndel tipo Volante."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce un attacco, la sua Difesa\\naumenta."
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Se i PS scendono a met\u00E0 o meno, il Pok\u00E9mon\\nsi fa prendere dalla paura e abbandona la lotta\\nin tutta fretta."
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Se i PS scendono a met\u00E0 o meno, il Pok\u00E9mon\\nabbandona la lotta per sfuggire al pericolo."
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce una mossa di tipo Acqua,\\nla sua Difesa aumenta di molto."
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Gli attacchi sferrati su un bersaglio avvelenato\\nproducono sempre brutti colpi."
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Se i PS scendono a met\u00E0 o meno, il guscio\\nsi rompe e il Pok\u00E9mon si prepara all\u2019offensiva."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Raddoppia i danni inflitti a un bersaglio che \u00E8\\nappena entrato in campo per sostituire un altro\\nPok\u00E9mon."
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Riduce i danni subiti dalle mosse di tipo Fuoco\\ne rende immuni alle scottature."
+  },
+  {
+    "index": 200,
+    "flags": 4,
+    "text": "Aumenta la potenza delle mosse di tipo Acciaio."
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Se i PS scendono a met\u00E0 o meno a causa di\\nun attacco, l\u2019Attacco Speciale aumenta."
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Se grandina, la Velocit\u00E0 aumenta."
+  },
+  {
+    "index": 203,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 in grado di usare tutte le sue mosse\\nsenza entrare in contatto diretto con il bersaglio."
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Le mosse del Pok\u00E9mon basate sul suono diventano\\ndi tipo Acqua."
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Le mosse che ripristinano direttamente i PS\\ndel Pok\u00E9mon acquistano priorit\u00E0 alta."
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Le mosse di tipo Normale diventano di tipo Elettro\\ne la loro potenza aumenta un po\u2019."
+  },
+  {
+    "index": 207,
+    "flags": 4,
+    "text": "In presenza di un Campo Elettrico, la Velocit\u00E0\\nraddoppia."
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Quando ha molti PS, il Pok\u00E9mon forma un banco\\ncon i propri simili e si rafforza.\\nQuando ne ha pochi, il banco si disperde."
+  },
+  {
+    "index": 209,
+    "flags": 4,
+    "text": "Il panno che ricopre il Pok\u00E9mon lo protegge\\nda un singolo attacco."
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon manda KO un nemico, il legame con\\nl\u2019Allenatore si rafforza, attivando la trasformazione\\nin Greninja Forma Ash. Acqualame si potenzia."
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Se i PS del Pok\u00E9mon scendono a met\u00E0 o meno, le\\ncellule si raggruppano e gli permettono di assumere\\nla Forma Perfetta."
+  },
+  {
+    "index": 212,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 in grado di avvelenare il bersaglio\\nanche se questo \u00E8 di tipo Acciaio o Veleno."
+  },
+  {
+    "index": 213,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon si trova in un costante stato di\\ndormiveglia che gli impedisce di svegliarsi.\\nPu\u00F2 attaccare anche da addormentato."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "L\u2019aura di regalit\u00E0 del Pok\u00E9mon impedisce al nemico\\ndi attaccarlo con mosse che hanno priorit\u00E0 alta."
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene mandato KO da un attacco,\\ninfligge a chi lo ha sferrato tanti danni quanti\\nerano i suoi PS prima di ricevere il colpo."
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Permette al Pok\u00E9mon di copiare immediatamente\\nqualsiasi mossa basata sulla danza usata da un\\naltro Pok\u00E9mon in campo."
+  },
+  {
+    "index": 217,
+    "flags": 4,
+    "text": "Aumenta la potenza delle mosse speciali\\ndegli alleati."
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Dimezza il danno causato dagli attacchi diretti\\ndi un nemico, ma raddoppia quello subito dalle\\nmosse di tipo Fuoco."
+  },
+  {
+    "index": 219,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon sbalordisce il nemico e non gli permette\\ndi attaccarlo con mosse che hanno priorit\u00E0 alta."
+  },
+  {
+    "index": 220,
+    "flags": 4,
+    "text": "Aumenta l\u2019Attacco Speciale ogni volta che\\nun Pok\u00E9mon va KO."
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da un attacco diretto,\\nla Velocit\u00E0 di chi l\u2019ha colpito diminuisce."
+  },
+  {
+    "index": 222,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon acquisisce l\u2019abilit\u00E0 di un alleato\\nandato KO."
+  },
+  {
+    "index": 223,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon trasforma la propria abilit\u00E0 in quella\\ndi un alleato andato KO."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon manda KO un altro Pok\u00E9mon,\\naumenta la propria statistica di punta."
+  },
+  {
+    "index": 225,
+    "flags": 4,
+    "text": "Il tipo del Pok\u00E9mon cambia in base alla ROM\\ninstallata."
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo,\\nlo trasforma in un Campo Elettrico."
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo,\\nlo trasforma in un Campo Psichico."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo,\\nlo trasforma in un Campo Nebbioso."
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo,\\nlo trasforma in un Campo Erboso."
+  },
+  {
+    "index": 230,
+    "flags": 4,
+    "text": "Impedisce la diminuzione delle statistiche causata\\nda abilit\u00E0 o mosse di altri Pok\u00E9mon."
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Se i PS sono al massimo, riduce il danno subito."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Riduce i danni subiti dalle mosse superefficaci."
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Potenzia le mosse superefficaci."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, il suo Attacco\\naumenta."
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, la sua Difesa\\naumenta."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Cambia il tipo del Pok\u00E9mon in quello della mossa\\nche usa."
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon non ha uno strumento con s\u00E9,\\nraccoglie la Pok\u00E9 Ball del primo tentativo\\ndi cattura fallito."
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce un attacco, sparge della lanugine\\nche diminuisce la Velocit\u00E0 di tutti i Pok\u00E9mon in campo\\ntranne la sua."
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Permette di ignorare gli effetti di mosse e abilit\u00E0\\nche attirano altre mosse."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Rimanda al mittente le diminuzioni alle statistiche\\nsubite."
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Quando usa Surf o Sub, il Pok\u00E9mon cattura una preda.\\nSe subisce dei danni, la sputa fuori per attaccare."
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Permette di ignorare gli effetti di mosse e abilit\u00E0\\nche attirano altre mosse."
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da una mossa di tipo Acqua\\no Fuoco, la sua Velocit\u00E0 aumenta moltissimo."
+  },
+  {
+    "index": 244,
+    "flags": 4,
+    "text": "Aumenta la potenza delle mosse basate sul suono.\\nInoltre, dimezza i danni subiti dal Pok\u00E9mon se\\nviene colpito da tali mosse."
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon viene colpito da un attacco,\\nscatena una tempesta di sabbia."
+  },
+  {
+    "index": 246,
+    "flags": 8,
+    "text": "Scaglie di ghiaccio proteggono il Pok\u00E9mon dalle mosse\\nspeciali, dimezzandone i danni subiti."
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Fa maturare le bacche raddoppiandone gli effetti."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Grazie al ghiaccio sulla testa, il Pok\u00E9mon pu\u00F2 incassare\\ni danni causati da mosse fisiche, ma cambia forma.\\nTorna al suo stato originale quando grandina."
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Potenzia le mosse di chi si trova nelle immediate\\nvicinanze."
+  },
+  {
+    "index": 250,
+    "flags": 4,
+    "text": "Il tipo del Pok\u00E9mon cambia a seconda dello stato\\ndel campo."
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, annulla l\u2019effetto\\ndi Schermoluce, Riflesso e Velaurora sia per i nemici\\nche per gli alleati."
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Potenzia gli attacchi di tipo Acciaio degli alleati."
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon viene colpito da un attacco diretto,\\ndopo tre turni va KO assieme a chi lo ha attaccato.\\nSe uno dei due viene sostituito, non va KO."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon subisce un attacco diretto, scambia\\nla sua abilit\u00E0 con quella di chi lo ha colpito."
+  },
+  {
+    "index": 255,
+    "flags": 4,
+    "text": "Aumenta l\u2019Attacco ma costringe il Pok\u00E9mon a usare\\nsolo la prima mossa selezionata."
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Se in campo c\u2019\u00E8 un Pok\u00E9mon con Gas Reagente,\\ngli effetti delle abilit\u00E0 di tutti gli altri Pok\u00E9mon\\nvengono annullati o non si attivano."
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Protegge il Pok\u00E9mon e gli alleati dai problemi di stato\\ncausati dal veleno."
+  },
+  {
+    "index": 258,
+    "flags": 4,
+    "text": "Alla fine di ogni turno cambia forma, alternando\\ntra Motivo Panciapiena e Motivo Panciavuota."
+  },
+  {
+    "index": 259,
+    "flags": 4,
+    "text": "A volte permette al Pok\u00E9mon di agire per primo."
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon utilizza un attacco diretto,\\ngli effetti di mosse protettive vengono ignorati."
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Quando il Pok\u00E9mon entra in campo, sparge un farmaco\\ndalla conchiglia che annulla le modifiche alle statistiche\\ndegli alleati."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Potenzia le mosse di tipo Elettro."
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Potenzia le mosse di tipo Drago."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Quando manda KO il nemico, emette un nitrito\\nagghiacciante, aumentando il proprio Attacco."
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Quando manda KO il nemico, emette un nitrito\\nterrificante, aumentando il proprio Attacco Speciale."
+  },
+  {
+    "index": 266,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon ha una doppia abilit\u00E0: Agitazione di Calyrex\\ne Nitrito Bianco di Glastrier."
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon ha una doppia abilit\u00E0: Agitazione di Calyrex\\ne Nitrito Nero di Spectrier."
+  }
+]

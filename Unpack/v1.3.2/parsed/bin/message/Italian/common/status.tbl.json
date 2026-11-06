@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "hash": "619E282AC53D2E8D",
+    "name": "msg_ui_status_pokemon_name_00"
+  },
+  {
+    "index": 1,
+    "hash": "ED70587939E65374",
+    "name": "msg_ui_status_pokemon_level_00"
+  },
+  {
+    "index": 2,
+    "hash": "619E262AC53D2B27",
+    "name": "msg_ui_status_pokemon_name_02"
+  },
+  {
+    "index": 3,
+    "hash": "619E252AC53D2974",
+    "name": "msg_ui_status_pokemon_name_03"
+  },
+  {
+    "index": 4,
+    "hash": "619E242AC53D27C1",
+    "name": "msg_ui_status_pokemon_name_04"
+  },
+  {
+    "index": 5,
+    "hash": "6A925D115A9F0916",
+    "name": "msg_ui_status_parent_00"
+  },
+  {
+    "index": 6,
+    "hash": "6A925E115A9F0AC9",
+    "name": "msg_ui_status_parent_01"
+  },
+  {
+    "index": 7,
+    "hash": "6A925B115A9F05B0",
+    "name": "msg_ui_status_parent_02"
+  },
+  {
+    "index": 8,
+    "hash": "CC81A5A0286AE12C",
+    "name": "msg_ui_status_parent_id_00"
+  },
+  {
+    "index": 9,
+    "hash": "CC81A6A0286AE2DF",
+    "name": "msg_ui_status_parent_id_01"
+  },
+  {
+    "index": 10,
+    "hash": "CC81A7A0286AE492",
+    "name": "msg_ui_status_parent_id_02"
+  },
+  {
+    "index": 11,
+    "hash": "6A007E49C83DEB08",
+    "name": "msg_ui_status_now_exp_00"
+  },
+  {
+    "index": 12,
+    "hash": "6A007F49C83DECBB",
+    "name": "msg_ui_status_now_exp_01"
+  },
+  {
+    "index": 13,
+    "hash": "6A008049C83DEE6E",
+    "name": "msg_ui_status_now_exp_02"
+  },
+  {
+    "index": 14,
+    "hash": "9369136EB947040D",
+    "name": "msg_ui_status_next_exp_00"
+  },
+  {
+    "index": 15,
+    "hash": "9369126EB947025A",
+    "name": "msg_ui_status_next_exp_01"
+  },
+  {
+    "index": 16,
+    "hash": "9369116EB94700A7",
+    "name": "msg_ui_status_next_exp_02"
+  },
+  {
+    "index": 17,
+    "hash": "9369106EB946FEF4",
+    "name": "msg_ui_status_next_exp_03"
+  },
+  {
+    "index": 18,
+    "hash": "93690F6EB946FD41",
+    "name": "msg_ui_status_next_exp_04"
+  },
+  {
+    "index": 19,
+    "hash": "9557830D353683AE",
+    "name": "msg_ui_status_pokemon_equip_00"
+  },
+  {
+    "index": 20,
+    "hash": "9557840D35368561",
+    "name": "msg_ui_status_pokemon_equip_01"
+  },
+  {
+    "index": 21,
+    "hash": "9557810D35368048",
+    "name": "msg_ui_status_pokemon_equip_02"
+  },
+  {
+    "index": 22,
+    "hash": "E34590B964977A7A",
+    "name": "msg_ui_status_button_00"
+  },
+  {
+    "index": 23,
+    "hash": "E34591B964977C2D",
+    "name": "msg_ui_status_button_01"
+  },
+  {
+    "index": 24,
+    "hash": "E3458EB964977714",
+    "name": "msg_ui_status_button_02"
+  },
+  {
+    "index": 25,
+    "hash": "771A3974CE18A7DD",
+    "name": "msg_ui_status_marking_00"
+  },
+  {
+    "index": 26,
+    "hash": "E3458FB9649778C7",
+    "name": "msg_ui_status_button_03"
+  },
+  {
+    "index": 27,
+    "hash": "C784D52E9A6300B4",
+    "name": "msg_ui_status_pokemon_hp_00"
+  },
+  {
+    "index": 28,
+    "hash": "C784D62E9A630267",
+    "name": "msg_ui_status_pokemon_hp_01"
+  },
+  {
+    "index": 29,
+    "hash": "C784D72E9A63041A",
+    "name": "msg_ui_status_pokemon_hp_02"
+  },
+  {
+    "index": 30,
+    "hash": "4F5B3D8C5C84D75C",
+    "name": "msg_ui_status_pokemon_attack_00"
+  },
+  {
+    "index": 31,
+    "hash": "4F5B3E8C5C84D90F",
+    "name": "msg_ui_status_pokemon_attack_01"
+  },
+  {
+    "index": 32,
+    "hash": "5814310266E58002",
+    "name": "msg_ui_status_pokemon_defense_00"
+  },
+  {
+    "index": 33,
+    "hash": "E0431D9AB9B54B1B",
+    "name": "msg_ui_status_pokemon_speed_00"
+  },
+  {
+    "index": 34,
+    "hash": "0524276F14AEF6E1",
+    "name": "msg_ui_status_pokemon_spdefense_00"
+  },
+  {
+    "index": 35,
+    "hash": "FB7C291649E52DB1",
+    "name": "msg_ui_status_pokemon_spattack_00"
+  },
+  {
+    "index": 36,
+    "hash": "3A9B91F471F54A3B",
+    "name": "msg_ui_status_pokemon_chara_00"
+  },
+  {
+    "index": 37,
+    "hash": "3A9B90F471F54888",
+    "name": "msg_ui_status_pokemon_chara_01"
+  },
+  {
+    "index": 38,
+    "hash": "3A9B93F471F54DA1",
+    "name": "msg_ui_status_pokemon_chara_02"
+  },
+  {
+    "index": 39,
+    "hash": "7EC319FE6EA3D61F",
+    "name": "msg_ui_status_pokemon_glevel_00"
+  },
+  {
+    "index": 40,
+    "hash": "36EE1F2D08E1FCE3",
+    "name": "msg_ui_status_skill_00"
+  },
+  {
+    "index": 41,
+    "hash": "36EE1E2D08E1FB30",
+    "name": "msg_ui_status_skill_01"
+  },
+  {
+    "index": 42,
+    "hash": "36EE232D08E203AF",
+    "name": "msg_ui_status_skill_04"
+  },
+  {
+    "index": 43,
+    "hash": "36EE212D08E20049",
+    "name": "msg_ui_status_skill_02"
+  },
+  {
+    "index": 44,
+    "hash": "36EE202D08E1FE96",
+    "name": "msg_ui_status_skill_03"
+  },
+  {
+    "index": 45,
+    "hash": "E3458CB9649773AE",
+    "name": "msg_ui_status_button_04"
+  },
+  {
+    "index": 46,
+    "hash": "5E89DB41443CA530",
+    "name": "msg_ui_status_skill_category_00"
+  },
+  {
+    "index": 47,
+    "hash": "856EE80834E7B881",
+    "name": "msg_ui_status_skill_power_00"
+  },
+  {
+    "index": 48,
+    "hash": "856EE70834E7B6CE",
+    "name": "msg_ui_status_skill_power_01"
+  },
+  {
+    "index": 49,
+    "hash": "856EE60834E7B51B",
+    "name": "msg_ui_status_skill_power_02"
+  },
+  {
+    "index": 50,
+    "hash": "CF19D806C57A4F31",
+    "name": "msg_ui_status_skill_hit_00"
+  },
+  {
+    "index": 51,
+    "hash": "CF19D606C57A4BCB",
+    "name": "msg_ui_status_skill_hit_02"
+  },
+  {
+    "index": 52,
+    "hash": "E3458DB964977561",
+    "name": "msg_ui_status_button_05"
+  },
+  {
+    "index": 53,
+    "hash": "E3458AB964977048",
+    "name": "msg_ui_status_button_06"
+  },
+  {
+    "index": 54,
+    "hash": "E3458BB9649771FB",
+    "name": "msg_ui_status_button_07"
+  },
+  {
+    "index": 55,
+    "hash": "E34588B964976CE2",
+    "name": "msg_ui_status_button_08"
+  },
+  {
+    "index": 56,
+    "hash": "E34589B964976E95",
+    "name": "msg_ui_status_button_09"
+  },
+  {
+    "index": 57,
+    "hash": "6AE2ECF7F2E601C8",
+    "name": "msg_ui_status_ribon_name_00"
+  },
+  {
+    "index": 58,
+    "hash": "6AE2EDF7F2E6037B",
+    "name": "msg_ui_status_ribon_name_01"
+  },
+  {
+    "index": 59,
+    "hash": "48B48FA58E0EBF36",
+    "name": "msg_ui_status_ribon_number_00"
+  },
+  {
+    "index": 60,
+    "hash": "48B490A58E0EC0E9",
+    "name": "msg_ui_status_ribon_number_01"
+  },
+  {
+    "index": 61,
+    "hash": "6AE2EEF7F2E6052E",
+    "name": "msg_ui_status_ribon_name_02"
+  },
+  {
+    "index": 62,
+    "hash": "DD8313CBA3A1ACBB",
+    "name": "msg_ui_status_ribon_efficacy_00"
+  },
+  {
+    "index": 63,
+    "hash": "DD8312CBA3A1AB08",
+    "name": "msg_ui_status_ribon_efficacy_01"
+  },
+  {
+    "index": 64,
+    "hash": "E348F6B9649A5DA3",
+    "name": "msg_ui_status_button_10"
+  },
+  {
+    "index": 65,
+    "hash": "E348F5B9649A5BF0",
+    "name": "msg_ui_status_button_11"
+  },
+  {
+    "index": 66,
+    "hash": "E348F8B9649A6109",
+    "name": "msg_ui_status_button_12"
+  },
+  {
+    "index": 67,
+    "hash": "849D2205864444B4",
+    "name": "msg_ui_status_memo_00"
+  },
+  {
+    "index": 68,
+    "hash": "849D230586444667",
+    "name": "msg_ui_status_memo_01"
+  },
+  {
+    "index": 69,
+    "hash": "849D24058644481A",
+    "name": "msg_ui_status_memo_02"
+  },
+  {
+    "index": 70,
+    "hash": "849D2505864449CD",
+    "name": "msg_ui_status_memo_03"
+  },
+  {
+    "index": 71,
+    "hash": "849D1E0586443DE8",
+    "name": "msg_ui_status_memo_04"
+  },
+  {
+    "index": 72,
+    "hash": "A6727A7DFAB99FBC",
+    "name": "msg_ui_status_pokemon_type_00"
+  },
+  {
+    "index": 73,
+    "hash": "E348F7B9649A5F56",
+    "name": "msg_ui_status_button_13"
+  },
+  {
+    "index": 74,
+    "hash": "1C610ABE15C6794B",
+    "name": "msg_ui_status_trd_confirm_00"
+  },
+  {
+    "index": 75,
+    "hash": "1C6109BE15C67798",
+    "name": "msg_ui_status_trd_confirm_01"
+  },
+  {
+    "index": 76,
+    "hash": "1C610CBE15C67CB1",
+    "name": "msg_ui_status_trd_confirm_02"
+  },
+  {
+    "index": 77,
+    "hash": "1C610BBE15C67AFE",
+    "name": "msg_ui_status_trd_confirm_03"
+  },
+  {
+    "index": 78,
+    "hash": "4A82FC5F5B20798C",
+    "name": "msg_ui_status_ribon_00"
+  },
+  {
+    "index": 79,
+    "hash": "0861B2988CAF0B37",
+    "name": "msg_ui_status_help_00"
+  },
+  {
+    "index": 80,
+    "hash": "0861B1988CAF0984",
+    "name": "msg_ui_status_help_01"
+  },
+  {
+    "index": 81,
+    "hash": "88FEBCCB716FA54B",
+    "name": "PARAM_ZUKAN_NO_UNKNOWN"
+  },
+  {
+    "index": 82,
+    "hash": "C2180B4704ED429C",
+    "name": "msg_status_max"
+  }
+]

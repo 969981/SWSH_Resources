@@ -1,0 +1,4137 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u2014"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Destructor"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Golpe K\u00E1rate"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Doble Bofet\u00F3n"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pu\u00F1o Cometa"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Megapu\u00F1o"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "D\u00EDa de Pago"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Pu\u00F1o Fuego"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Pu\u00F1o Hielo"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Pu\u00F1o Trueno"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Ara\u00F1azo"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Agarre"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Guillotina"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Viento Cortante"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Danza Espada"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Corte"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tornado"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Ataque Ala"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Remolino"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vuelo"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Atadura"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Atizar"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "L\u00E1tigo Cepa"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Pisot\u00F3n"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Doble Patada"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Megapatada"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Patada Salto"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Patada Giro"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Ataque Arena"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Golpe Cabeza"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Cornada"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Ataque Furia"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Perforador"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Placaje"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Golpe Cuerpo"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Constricci\u00F3n"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Derribo"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Golpe"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Doble Filo"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "L\u00E1tigo"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Picotazo Veneno"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Doble Ataque"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Pin Misil"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Malicioso"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Mordisco"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Gru\u00F1ido"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Rugido"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Canto"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Supers\u00F3nico"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Bomba S\u00F3nica"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Anulaci\u00F3n"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "\u00C1cido"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ascuas"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Lanzallamas"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Neblina"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Pistola Agua"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Hidrobomba"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Surf"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Rayo Hielo"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Ventisca"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Psicorrayo"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Rayo Burbuja"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Rayo Aurora"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Hiperrayo"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Picotazo"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Pico Taladro"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Sumisi\u00F3n"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Patada Baja"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Contraataque"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "S\u00EDsmico"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Fuerza"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Absorber"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Megaagotar"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Drenadoras"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Desarrollo"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Hoja Afilada"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Rayo Solar"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Polvo Veneno"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Paralizador"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Somn\u00EDfero"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Danza P\u00E9talo"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Disparo Demora"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Furia Drag\u00F3n"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Giro Fuego"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Impactrueno"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Rayo"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Onda Trueno"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Trueno"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Lanzarrocas"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Terremoto"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Fisura"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Excavar"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "T\u00F3xico"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Confusi\u00F3n"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Ps\u00EDquico"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Hipnosis"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Meditaci\u00F3n"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Agilidad"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Ataque R\u00E1pido"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Furia"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Teletransporte"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Tinieblas"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Mim\u00E9tico"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Chirrido"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Doble Equipo"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Recuperaci\u00F3n"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Fortaleza"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Reducci\u00F3n"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Pantalla de Humo"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Rayo Confuso"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Refugio"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Rizo Defensa"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Barrera"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Pantalla de Luz"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Niebla"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Reflejo"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Foco Energ\u00EDa"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Venganza"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Metr\u00F3nomo"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Espejo"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Autodestrucci\u00F3n"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Bomba Huevo"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Leng\u00FCetazo"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Poluci\u00F3n"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Residuos"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Hueso Palo"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Llamarada"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Cascada"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Tenaza"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Rapidez"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Cabezazo"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Clavo Ca\u00F1\u00F3n"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Restricci\u00F3n"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Amnesia"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Kin\u00E9tico"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Amortiguador"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Pat. Salto Alta"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Deslumbrar"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Comesue\u00F1os"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Gas Venenoso"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Bombardeo"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Chupavidas"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Beso Amoroso"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Ataque A\u00E9reo"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Transformaci\u00F3n"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Burbuja"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Pu\u00F1o Mareo"
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "Espora"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Destello"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Psicoonda"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Salpicadura"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Armadura \u00C1cida"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Martillazo"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Explosi\u00F3n"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Golpes Furia"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Huesomerang"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Descanso"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "Avalancha"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Hipercolmillo"
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "Afilar"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Conversi\u00F3n"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Triataque"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Superdiente"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Cuchillada"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Sustituto"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Forcejeo"
+  },
+  {
+    "index": 166,
+    "flags": 4,
+    "text": "Esquema"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Triple Patada"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Ladr\u00F3n"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Telara\u00F1a"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Tel\u00E9pata"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Pesadilla"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Rueda Fuego"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Ronquido"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Maldici\u00F3n"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Azote"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Conversi\u00F3n2"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "Aerochorro"
+  },
+  {
+    "index": 178,
+    "flags": 4,
+    "text": "Esporagod\u00F3n"
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "Inversi\u00F3n"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Rencor"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Nieve Polvo"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Protecci\u00F3n"
+  },
+  {
+    "index": 183,
+    "flags": 4,
+    "text": "Ultrapu\u00F1o"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Cara Susto"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Finta"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Beso Dulce"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Tambor"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Bomba Lodo"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Bofet\u00F3n Lodo"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Pulpoca\u00F1\u00F3n"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "P\u00FAas"
+  },
+  {
+    "index": 192,
+    "flags": 4,
+    "text": "Electroca\u00F1\u00F3n"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Profec\u00EDa"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Mismo Destino"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Canto Mortal"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Viento Hielo"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Detecci\u00F3n"
+  },
+  {
+    "index": 198,
+    "flags": 4,
+    "text": "Ataque \u00D3seo"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Fijar Blanco"
+  },
+  {
+    "index": 200,
+    "flags": 4,
+    "text": "Enfado"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Tormenta Arena"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Gigadrenado"
+  },
+  {
+    "index": 203,
+    "flags": 4,
+    "text": "Aguante"
+  },
+  {
+    "index": 204,
+    "flags": 4,
+    "text": "Encanto"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Rodar"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Falso Tortazo"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Contoneo"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Batido"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Chispa"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Corte Furia"
+  },
+  {
+    "index": 211,
+    "flags": 4,
+    "text": "Ala de Acero"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Mal de Ojo"
+  },
+  {
+    "index": 213,
+    "flags": 4,
+    "text": "Atracci\u00F3n"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Son\u00E1mbulo"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Campana Cura"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Retribuci\u00F3n"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Presente"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Frustraci\u00F3n"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Velo Sagrado"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Divide Dolor"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Fuego Sagrado"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Magnitud"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Pu\u00F1o Din\u00E1mico"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Megacuerno"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Dragoaliento"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Relevo"
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "Otra Vez"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Persecuci\u00F3n"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Giro R\u00E1pido"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Dulce Aroma"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Cola F\u00E9rrea"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Garra Metal"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Tiro Vital"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Sol Matinal"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "S\u00EDntesis"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Luz Lunar"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Poder Oculto"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Tajo Cruzado"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Cicl\u00F3n"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Danza Lluvia"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "D\u00EDa Soleado"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Triturar"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Manto Espejo"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "M\u00E1s Psique"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Veloc. Extrema"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Poder Pasado"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Bola Sombra"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Premonici\u00F3n"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Golpe Roca"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Torbellino"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Paliza"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Sorpresa"
+  },
+  {
+    "index": 253,
+    "flags": 4,
+    "text": "Alboroto"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Reserva"
+  },
+  {
+    "index": 255,
+    "flags": 4,
+    "text": "Escupir"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Tragar"
+  },
+  {
+    "index": 257,
+    "flags": 4,
+    "text": "Onda \u00CDgnea"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Granizo"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Tormento"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Camelo"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Fuego Fatuo"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Legado"
+  },
+  {
+    "index": 263,
+    "flags": 4,
+    "text": "Imagen"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Pu\u00F1o Certero"
+  },
+  {
+    "index": 265,
+    "flags": 4,
+    "text": "Est\u00EDmulo"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Se\u00F1uelo"
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "Adaptaci\u00F3n"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Carga"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Mofa"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Refuerzo"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Truco"
+  },
+  {
+    "index": 272,
+    "flags": 4,
+    "text": "Imitaci\u00F3n"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Deseo"
+  },
+  {
+    "index": 274,
+    "flags": 4,
+    "text": "Ayuda"
+  },
+  {
+    "index": 275,
+    "flags": 4,
+    "text": "Arraigo"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Fuerza Bruta"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Capa M\u00E1gica"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Reciclaje"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Desquite"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Demolici\u00F3n"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "Bostezo"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Desarme"
+  },
+  {
+    "index": 283,
+    "flags": 4,
+    "text": "Esfuerzo"
+  },
+  {
+    "index": 284,
+    "flags": 4,
+    "text": "Estallido"
+  },
+  {
+    "index": 285,
+    "flags": 4,
+    "text": "Intercambio"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "Sellar"
+  },
+  {
+    "index": 287,
+    "flags": 4,
+    "text": "Alivio"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Rabia"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Robo"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Da\u00F1o Secreto"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Buceo"
+  },
+  {
+    "index": 292,
+    "flags": 4,
+    "text": "Empuj\u00F3n"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Camuflaje"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "R\u00E1faga"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Resplandor"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Bola Neblina"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Danza Pluma"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Danza Caos"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Patada \u00CDgnea"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Chapoteo Lodo"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "Bola Hielo"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Brazo Pincho"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Relajo"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Vozarr\u00F3n"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Colmillo Veneno"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "Garra Brutal"
+  },
+  {
+    "index": 307,
+    "flags": 4,
+    "text": "Anillo \u00CDgneo"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Hidroca\u00F1\u00F3n"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Pu\u00F1o Meteoro"
+  },
+  {
+    "index": 310,
+    "flags": 4,
+    "text": "Impresionar"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Meteorobola"
+  },
+  {
+    "index": 312,
+    "flags": 4,
+    "text": "Aromaterapia"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Llanto Falso"
+  },
+  {
+    "index": 314,
+    "flags": 4,
+    "text": "Aire Afilado"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Sofoco"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Rastreo"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Tumba Rocas"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "Viento Plata"
+  },
+  {
+    "index": 319,
+    "flags": 4,
+    "text": "Eco Met\u00E1lico"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Silbato"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Cosquillas"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Masa C\u00F3smica"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Salpicar"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "Doble Rayo"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Pu\u00F1o Sombra"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Paranormal"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Gancho Alto"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Bucle Arena"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Fr\u00EDo Polar"
+  },
+  {
+    "index": 330,
+    "flags": 4,
+    "text": "Agua Lodosa"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Semilladora"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Golpe A\u00E9reo"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Car\u00E1mbano"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Defensa F\u00E9rrea"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Bloqueo"
+  },
+  {
+    "index": 336,
+    "flags": 4,
+    "text": "Aullido"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Garra Drag\u00F3n"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Planta Feroz"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Corpulencia"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "Bote"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "Disparo Lodo"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Cola Veneno"
+  },
+  {
+    "index": 343,
+    "flags": 4,
+    "text": "Antojo"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Placaje El\u00E9c"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "Hoja M\u00E1gica"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "Hidrochorro"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Paz Mental"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Hoja Aguda"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Danza Drag\u00F3n"
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "Pedrada"
+  },
+  {
+    "index": 351,
+    "flags": 4,
+    "text": "Onda Voltio"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Hidropulso"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "Deseo Oculto"
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Psicoataque"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "Respiro"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Gravedad"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "Gran Ojo"
+  },
+  {
+    "index": 358,
+    "flags": 4,
+    "text": "Espabila"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Machada"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Giro Bola"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "Deseo Cura"
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Salmuera"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Don Natural"
+  },
+  {
+    "index": 364,
+    "flags": 4,
+    "text": "Amago"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Picoteo"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "Viento Af\u00EDn"
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "Acupresi\u00F3n"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Represi\u00F3n Metal"
+  },
+  {
+    "index": 369,
+    "flags": 4,
+    "text": "Ida y Vuelta"
+  },
+  {
+    "index": 370,
+    "flags": 4,
+    "text": "A Bocajarro"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Vendetta"
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Buena Baza"
+  },
+  {
+    "index": 373,
+    "flags": 4,
+    "text": "Embargo"
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "Lanzamiento"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "Psicocambio"
+  },
+  {
+    "index": 376,
+    "flags": 4,
+    "text": "As Oculto"
+  },
+  {
+    "index": 377,
+    "flags": 4,
+    "text": "Anticura"
+  },
+  {
+    "index": 378,
+    "flags": 4,
+    "text": "Estruj\u00F3n"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "Truco Fuerza"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "Bilis"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "Conjuro"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Yo Primero"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "Copi\u00F3n"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Cambiafuerza"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "Cambiadefensa"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Castigo"
+  },
+  {
+    "index": 387,
+    "flags": 4,
+    "text": "\u00DAltima Baza"
+  },
+  {
+    "index": 388,
+    "flags": 4,
+    "text": "Abatidoras"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Golpe Bajo"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "P\u00FAas T\u00F3xicas"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "Cambia Almas"
+  },
+  {
+    "index": 392,
+    "flags": 4,
+    "text": "Acua Aro"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Levit\u00F3n"
+  },
+  {
+    "index": 394,
+    "flags": 4,
+    "text": "Envite \u00CDgneo"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "Palmeo"
+  },
+  {
+    "index": 396,
+    "flags": 4,
+    "text": "Esfera Aural"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "Pulimento"
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Puya Nociva"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Pulso Umbr\u00EDo"
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Tajo Umbr\u00EDo"
+  },
+  {
+    "index": 401,
+    "flags": 4,
+    "text": "Acua Cola"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Bomba Germen"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Tajo A\u00E9reo"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "Tijera X"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Zumbido"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Pulso Drag\u00F3n"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Carga Drag\u00F3n"
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Joya de Luz"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Pu\u00F1o Drenaje"
+  },
+  {
+    "index": 410,
+    "flags": 4,
+    "text": "Onda Vac\u00EDo"
+  },
+  {
+    "index": 411,
+    "flags": 4,
+    "text": "Onda Certera"
+  },
+  {
+    "index": 412,
+    "flags": 4,
+    "text": "Energibola"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "P\u00E1jaro Osado"
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "Tierra Viva"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "Trapicheo"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Gigaimpacto"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "Maquinaci\u00F3n"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "Pu\u00F1o Bala"
+  },
+  {
+    "index": 419,
+    "flags": 4,
+    "text": "Alud"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "Canto Helado"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Garra Umbr\u00EDa"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "Colmillo Rayo"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Colmillo Hielo"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Colmillo \u00CDgneo"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "Sombra Vil"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Bomba Fango"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Psicocorte"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Cabezazo Zen"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Disparo Espejo"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Foco Resplandor"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "Treparrocas"
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "Despejar"
+  },
+  {
+    "index": 433,
+    "flags": 4,
+    "text": "Espacio Raro"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Cometa Draco"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Chispazo"
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "Humareda"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Lluevehojas"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "Latigazo"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Romperrocas"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Veneno X"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "Lanzamugre"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "Cabeza de Hierro"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Bomba Im\u00E1n"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Roca Afilada"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "Seducci\u00F3n"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Trampa Rocas"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "Hierba Lazo"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Ch\u00E1chara"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "Sentencia"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "Picadura"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "Rayo Carga"
+  },
+  {
+    "index": 452,
+    "flags": 0,
+    "text": "Mazazo"
+  },
+  {
+    "index": 453,
+    "flags": 4,
+    "text": "Acua Jet"
+  },
+  {
+    "index": 454,
+    "flags": 4,
+    "text": "Al Ataque"
+  },
+  {
+    "index": 455,
+    "flags": 4,
+    "text": "A Defender"
+  },
+  {
+    "index": 456,
+    "flags": 4,
+    "text": "Auxilio"
+  },
+  {
+    "index": 457,
+    "flags": 0,
+    "text": "Testarazo"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "Doble Golpe"
+  },
+  {
+    "index": 459,
+    "flags": 0,
+    "text": "Distorsi\u00F3n"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "Corte Vac\u00EDo"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "Danza Lunar"
+  },
+  {
+    "index": 462,
+    "flags": 4,
+    "text": "Agarr\u00F3n"
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "Lluvia \u00CDgnea"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "Brecha Negra"
+  },
+  {
+    "index": 465,
+    "flags": 0,
+    "text": "Fogonazo"
+  },
+  {
+    "index": 466,
+    "flags": 0,
+    "text": "Viento Aciago"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "Golpe Umbr\u00EDo"
+  },
+  {
+    "index": 468,
+    "flags": 4,
+    "text": "Afilagarras"
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "Vastaguardia"
+  },
+  {
+    "index": 470,
+    "flags": 4,
+    "text": "Isoguardia"
+  },
+  {
+    "index": 471,
+    "flags": 4,
+    "text": "Isofuerza"
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "Zona Extra\u00F1a"
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "Psicocarga"
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "Carga T\u00F3xica"
+  },
+  {
+    "index": 475,
+    "flags": 4,
+    "text": "Aligerar"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "Polvo Ira"
+  },
+  {
+    "index": 477,
+    "flags": 0,
+    "text": "Telequinesis"
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "Zona M\u00E1gica"
+  },
+  {
+    "index": 479,
+    "flags": 4,
+    "text": "Antia\u00E9reo"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "Llave Cors\u00E9"
+  },
+  {
+    "index": 481,
+    "flags": 0,
+    "text": "Pirotecnia"
+  },
+  {
+    "index": 482,
+    "flags": 4,
+    "text": "Onda T\u00F3xica"
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "Danza Aleteo"
+  },
+  {
+    "index": 484,
+    "flags": 0,
+    "text": "Cuerpo Pesado"
+  },
+  {
+    "index": 485,
+    "flags": 0,
+    "text": "Sincrorruido"
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "Bola Voltio"
+  },
+  {
+    "index": 487,
+    "flags": 4,
+    "text": "Anegar"
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "Nitrocarga"
+  },
+  {
+    "index": 489,
+    "flags": 4,
+    "text": "Enrosque"
+  },
+  {
+    "index": 490,
+    "flags": 0,
+    "text": "Puntapi\u00E9"
+  },
+  {
+    "index": 491,
+    "flags": 0,
+    "text": "Bomba \u00C1cida"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "Juego Sucio"
+  },
+  {
+    "index": 493,
+    "flags": 4,
+    "text": "Onda Simple"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "Danza Amiga"
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "Cede Paso"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "Canon"
+  },
+  {
+    "index": 497,
+    "flags": 4,
+    "text": "Eco Voz"
+  },
+  {
+    "index": 498,
+    "flags": 0,
+    "text": "Guardia Baja"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "Niebla Clara"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "Poder Reserva"
+  },
+  {
+    "index": 501,
+    "flags": 4,
+    "text": "Anticipo"
+  },
+  {
+    "index": 502,
+    "flags": 0,
+    "text": "Cambio de Banda"
+  },
+  {
+    "index": 503,
+    "flags": 4,
+    "text": "Escaldar"
+  },
+  {
+    "index": 504,
+    "flags": 0,
+    "text": "Rompecoraza"
+  },
+  {
+    "index": 505,
+    "flags": 0,
+    "text": "Pulso Cura"
+  },
+  {
+    "index": 506,
+    "flags": 4,
+    "text": "Infortunio"
+  },
+  {
+    "index": 507,
+    "flags": 0,
+    "text": "Ca\u00EDda Libre"
+  },
+  {
+    "index": 508,
+    "flags": 0,
+    "text": "Cambio de Marcha"
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "Llave Giro"
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "Calcinaci\u00F3n"
+  },
+  {
+    "index": 511,
+    "flags": 4,
+    "text": "\u00DAltimo Lugar"
+  },
+  {
+    "index": 512,
+    "flags": 4,
+    "text": "Acr\u00F3bata"
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "Clonatipo"
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "Represalia"
+  },
+  {
+    "index": 515,
+    "flags": 0,
+    "text": "Sacrificio"
+  },
+  {
+    "index": 516,
+    "flags": 4,
+    "text": "Ofrenda"
+  },
+  {
+    "index": 517,
+    "flags": 4,
+    "text": "Infierno"
+  },
+  {
+    "index": 518,
+    "flags": 0,
+    "text": "Voto Agua"
+  },
+  {
+    "index": 519,
+    "flags": 0,
+    "text": "Voto Fuego"
+  },
+  {
+    "index": 520,
+    "flags": 0,
+    "text": "Voto Planta"
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "Voltiocambio"
+  },
+  {
+    "index": 522,
+    "flags": 4,
+    "text": "Estoicismo"
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "Terratemblor"
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "Vaho G\u00E9lido"
+  },
+  {
+    "index": 525,
+    "flags": 0,
+    "text": "Cola Drag\u00F3n"
+  },
+  {
+    "index": 526,
+    "flags": 4,
+    "text": "Avivar"
+  },
+  {
+    "index": 527,
+    "flags": 4,
+    "text": "Electrotela"
+  },
+  {
+    "index": 528,
+    "flags": 0,
+    "text": "Voltio Cruel"
+  },
+  {
+    "index": 529,
+    "flags": 0,
+    "text": "Taladradora"
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "Golpe Bis"
+  },
+  {
+    "index": 531,
+    "flags": 4,
+    "text": "Arrumaco"
+  },
+  {
+    "index": 532,
+    "flags": 4,
+    "text": "Asta Drenaje"
+  },
+  {
+    "index": 533,
+    "flags": 4,
+    "text": "Espada Santa"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "Concha Filo"
+  },
+  {
+    "index": 535,
+    "flags": 0,
+    "text": "Golpe Calor"
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "Cicl\u00F3n de Hojas"
+  },
+  {
+    "index": 537,
+    "flags": 0,
+    "text": "Rodillo de P\u00FAas"
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "Rizo Algod\u00F3n"
+  },
+  {
+    "index": 539,
+    "flags": 0,
+    "text": "Pulso Noche"
+  },
+  {
+    "index": 540,
+    "flags": 4,
+    "text": "Onda Mental"
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "Plumerazo"
+  },
+  {
+    "index": 542,
+    "flags": 0,
+    "text": "Vendaval"
+  },
+  {
+    "index": 543,
+    "flags": 4,
+    "text": "Ariete"
+  },
+  {
+    "index": 544,
+    "flags": 0,
+    "text": "Rueda Doble"
+  },
+  {
+    "index": 545,
+    "flags": 0,
+    "text": "Bomba \u00CDgnea"
+  },
+  {
+    "index": 546,
+    "flags": 0,
+    "text": "Tecno Shock"
+  },
+  {
+    "index": 547,
+    "flags": 0,
+    "text": "Canto Arcaico"
+  },
+  {
+    "index": 548,
+    "flags": 0,
+    "text": "Sable M\u00EDstico"
+  },
+  {
+    "index": 549,
+    "flags": 0,
+    "text": "Mundo G\u00E9lido"
+  },
+  {
+    "index": 550,
+    "flags": 4,
+    "text": "Ataque Fulgor"
+  },
+  {
+    "index": 551,
+    "flags": 0,
+    "text": "Llama Azul"
+  },
+  {
+    "index": 552,
+    "flags": 0,
+    "text": "Danza Llama"
+  },
+  {
+    "index": 553,
+    "flags": 0,
+    "text": "Rayo G\u00E9lido"
+  },
+  {
+    "index": 554,
+    "flags": 0,
+    "text": "Llama G\u00E9lida"
+  },
+  {
+    "index": 555,
+    "flags": 4,
+    "text": "Alarido"
+  },
+  {
+    "index": 556,
+    "flags": 0,
+    "text": "Chuzos"
+  },
+  {
+    "index": 557,
+    "flags": 0,
+    "text": "V de Fuego"
+  },
+  {
+    "index": 558,
+    "flags": 0,
+    "text": "Llama Fusi\u00F3n"
+  },
+  {
+    "index": 559,
+    "flags": 0,
+    "text": "Rayo Fusi\u00F3n"
+  },
+  {
+    "index": 560,
+    "flags": 0,
+    "text": "Plancha Voladora"
+  },
+  {
+    "index": 561,
+    "flags": 4,
+    "text": "Escudo Tatami"
+  },
+  {
+    "index": 562,
+    "flags": 4,
+    "text": "Eructo"
+  },
+  {
+    "index": 563,
+    "flags": 0,
+    "text": "Fertilizante"
+  },
+  {
+    "index": 564,
+    "flags": 0,
+    "text": "Red Viscosa"
+  },
+  {
+    "index": 565,
+    "flags": 4,
+    "text": "Aguij\u00F3n Letal"
+  },
+  {
+    "index": 566,
+    "flags": 0,
+    "text": "Golpe Fantasma"
+  },
+  {
+    "index": 567,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 568,
+    "flags": 0,
+    "text": "Rugido de Guerra"
+  },
+  {
+    "index": 569,
+    "flags": 0,
+    "text": "Cortina Plasma"
+  },
+  {
+    "index": 570,
+    "flags": 0,
+    "text": "Carga Par\u00E1bola"
+  },
+  {
+    "index": 571,
+    "flags": 0,
+    "text": "Condena Silvana"
+  },
+  {
+    "index": 572,
+    "flags": 0,
+    "text": "Tormenta Floral"
+  },
+  {
+    "index": 573,
+    "flags": 0,
+    "text": "Liofilizaci\u00F3n"
+  },
+  {
+    "index": 574,
+    "flags": 0,
+    "text": "Voz Cautivadora"
+  },
+  {
+    "index": 575,
+    "flags": 4,
+    "text": "\u00DAltima Palabra"
+  },
+  {
+    "index": 576,
+    "flags": 0,
+    "text": "Reversi\u00F3n"
+  },
+  {
+    "index": 577,
+    "flags": 0,
+    "text": "Beso Drenaje"
+  },
+  {
+    "index": 578,
+    "flags": 0,
+    "text": "Truco Defensa"
+  },
+  {
+    "index": 579,
+    "flags": 0,
+    "text": "Defensa Floral"
+  },
+  {
+    "index": 580,
+    "flags": 0,
+    "text": "Campo de Hierba"
+  },
+  {
+    "index": 581,
+    "flags": 0,
+    "text": "Campo de Niebla"
+  },
+  {
+    "index": 582,
+    "flags": 4,
+    "text": "Electrificaci\u00F3n"
+  },
+  {
+    "index": 583,
+    "flags": 0,
+    "text": "Caranto\u00F1a"
+  },
+  {
+    "index": 584,
+    "flags": 0,
+    "text": "Viento Fe\u00E9rico"
+  },
+  {
+    "index": 585,
+    "flags": 0,
+    "text": "Fuerza Lunar"
+  },
+  {
+    "index": 586,
+    "flags": 4,
+    "text": "Estruendo"
+  },
+  {
+    "index": 587,
+    "flags": 0,
+    "text": "Cerrojo Fe\u00E9rico"
+  },
+  {
+    "index": 588,
+    "flags": 4,
+    "text": "Escudo Real"
+  },
+  {
+    "index": 589,
+    "flags": 0,
+    "text": "Camarader\u00EDa"
+  },
+  {
+    "index": 590,
+    "flags": 0,
+    "text": "Confidencia"
+  },
+  {
+    "index": 591,
+    "flags": 0,
+    "text": "Torm. Diamantes"
+  },
+  {
+    "index": 592,
+    "flags": 0,
+    "text": "Chorro de Vapor"
+  },
+  {
+    "index": 593,
+    "flags": 0,
+    "text": "Paso Dimensional"
+  },
+  {
+    "index": 594,
+    "flags": 0,
+    "text": "Shuriken de Agua"
+  },
+  {
+    "index": 595,
+    "flags": 0,
+    "text": "Llama Embrujada"
+  },
+  {
+    "index": 596,
+    "flags": 0,
+    "text": "Barrera Espinosa"
+  },
+  {
+    "index": 597,
+    "flags": 0,
+    "text": "Niebla Arom\u00E1tica"
+  },
+  {
+    "index": 598,
+    "flags": 4,
+    "text": "Onda An\u00F3mala"
+  },
+  {
+    "index": 599,
+    "flags": 0,
+    "text": "Trampa Venenosa"
+  },
+  {
+    "index": 600,
+    "flags": 0,
+    "text": "Polvo Explosivo"
+  },
+  {
+    "index": 601,
+    "flags": 0,
+    "text": "Geocontrol"
+  },
+  {
+    "index": 602,
+    "flags": 4,
+    "text": "Aura Magn\u00E9tica"
+  },
+  {
+    "index": 603,
+    "flags": 0,
+    "text": "Paga Extra"
+  },
+  {
+    "index": 604,
+    "flags": 0,
+    "text": "Campo El\u00E9ctrico"
+  },
+  {
+    "index": 605,
+    "flags": 0,
+    "text": "Brillo M\u00E1gico"
+  },
+  {
+    "index": 606,
+    "flags": 0,
+    "text": "Celebraci\u00F3n"
+  },
+  {
+    "index": 607,
+    "flags": 0,
+    "text": "Manos Juntas"
+  },
+  {
+    "index": 608,
+    "flags": 4,
+    "text": "Ojitos Tiernos"
+  },
+  {
+    "index": 609,
+    "flags": 0,
+    "text": "Moflete Est\u00E1tico"
+  },
+  {
+    "index": 610,
+    "flags": 0,
+    "text": "Clemencia"
+  },
+  {
+    "index": 611,
+    "flags": 4,
+    "text": "Acoso"
+  },
+  {
+    "index": 612,
+    "flags": 0,
+    "text": "Pu\u00F1o Incremento"
+  },
+  {
+    "index": 613,
+    "flags": 4,
+    "text": "Ala Mort\u00EDfera"
+  },
+  {
+    "index": 614,
+    "flags": 0,
+    "text": "Mil Flechas"
+  },
+  {
+    "index": 615,
+    "flags": 0,
+    "text": "Mil Temblores"
+  },
+  {
+    "index": 616,
+    "flags": 0,
+    "text": "Fuerza Tel\u00FArica"
+  },
+  {
+    "index": 617,
+    "flags": 0,
+    "text": "Luz Aniquiladora"
+  },
+  {
+    "index": 618,
+    "flags": 0,
+    "text": "Pulso Primigenio"
+  },
+  {
+    "index": 619,
+    "flags": 0,
+    "text": "Filo del Abismo"
+  },
+  {
+    "index": 620,
+    "flags": 4,
+    "text": "Ascenso Draco"
+  },
+  {
+    "index": 621,
+    "flags": 0,
+    "text": "Cerco Dimensi\u00F3n"
+  },
+  {
+    "index": 622,
+    "flags": 0,
+    "text": "Carrera Arrolladora"
+  },
+  {
+    "index": 623,
+    "flags": 0,
+    "text": "Carrera Arrolladora"
+  },
+  {
+    "index": 624,
+    "flags": 0,
+    "text": "R\u00E1faga Demoledora"
+  },
+  {
+    "index": 625,
+    "flags": 0,
+    "text": "R\u00E1faga Demoledora"
+  },
+  {
+    "index": 626,
+    "flags": 0,
+    "text": "Picado Supers\u00F3nico"
+  },
+  {
+    "index": 627,
+    "flags": 0,
+    "text": "Picado Supers\u00F3nico"
+  },
+  {
+    "index": 628,
+    "flags": 0,
+    "text": "Diluvio Corrosivo"
+  },
+  {
+    "index": 629,
+    "flags": 0,
+    "text": "Diluvio Corrosivo"
+  },
+  {
+    "index": 630,
+    "flags": 0,
+    "text": "Barrena Tel\u00FArica"
+  },
+  {
+    "index": 631,
+    "flags": 0,
+    "text": "Barrena Tel\u00FArica"
+  },
+  {
+    "index": 632,
+    "flags": 4,
+    "text": "Aplastamiento Gigal\u00EDtico"
+  },
+  {
+    "index": 633,
+    "flags": 4,
+    "text": "Aplastamiento Gigal\u00EDtico"
+  },
+  {
+    "index": 634,
+    "flags": 0,
+    "text": "Guada\u00F1a Sedosa"
+  },
+  {
+    "index": 635,
+    "flags": 0,
+    "text": "Guada\u00F1a Sedosa"
+  },
+  {
+    "index": 636,
+    "flags": 0,
+    "text": "Presa Espectral"
+  },
+  {
+    "index": 637,
+    "flags": 0,
+    "text": "Presa Espectral"
+  },
+  {
+    "index": 638,
+    "flags": 0,
+    "text": "H\u00E9lice Trepanadora"
+  },
+  {
+    "index": 639,
+    "flags": 0,
+    "text": "H\u00E9lice Trepanadora"
+  },
+  {
+    "index": 640,
+    "flags": 0,
+    "text": "Hecatombe P\u00EDrica"
+  },
+  {
+    "index": 641,
+    "flags": 0,
+    "text": "Hecatombe P\u00EDrica"
+  },
+  {
+    "index": 642,
+    "flags": 0,
+    "text": "Hidrov\u00F3rtice Abisal"
+  },
+  {
+    "index": 643,
+    "flags": 0,
+    "text": "Hidrov\u00F3rtice Abisal"
+  },
+  {
+    "index": 644,
+    "flags": 0,
+    "text": "Megat\u00F3n Floral"
+  },
+  {
+    "index": 645,
+    "flags": 0,
+    "text": "Megat\u00F3n Floral"
+  },
+  {
+    "index": 646,
+    "flags": 0,
+    "text": "Gigavoltio Destructor"
+  },
+  {
+    "index": 647,
+    "flags": 0,
+    "text": "Gigavoltio Destructor"
+  },
+  {
+    "index": 648,
+    "flags": 0,
+    "text": "Disruptor Ps\u00EDquico"
+  },
+  {
+    "index": 649,
+    "flags": 0,
+    "text": "Disruptor Ps\u00EDquico"
+  },
+  {
+    "index": 650,
+    "flags": 0,
+    "text": "Crioaliento Despiadado"
+  },
+  {
+    "index": 651,
+    "flags": 0,
+    "text": "Crioaliento Despiadado"
+  },
+  {
+    "index": 652,
+    "flags": 0,
+    "text": "Dracoaliento Devastador"
+  },
+  {
+    "index": 653,
+    "flags": 0,
+    "text": "Dracoaliento Devastador"
+  },
+  {
+    "index": 654,
+    "flags": 4,
+    "text": "Agujero Negro Aniquilador"
+  },
+  {
+    "index": 655,
+    "flags": 4,
+    "text": "Agujero Negro Aniquilador"
+  },
+  {
+    "index": 656,
+    "flags": 4,
+    "text": "Arrumaco Sideral"
+  },
+  {
+    "index": 657,
+    "flags": 4,
+    "text": "Arrumaco Sideral"
+  },
+  {
+    "index": 658,
+    "flags": 0,
+    "text": "Pikavoltio Letal"
+  },
+  {
+    "index": 659,
+    "flags": 0,
+    "text": "Recogearena"
+  },
+  {
+    "index": 660,
+    "flags": 4,
+    "text": "Escaramuza"
+  },
+  {
+    "index": 661,
+    "flags": 0,
+    "text": "B\u00FAnker"
+  },
+  {
+    "index": 662,
+    "flags": 0,
+    "text": "Puntada Sombr\u00EDa"
+  },
+  {
+    "index": 663,
+    "flags": 0,
+    "text": "Lariat Oscuro"
+  },
+  {
+    "index": 664,
+    "flags": 4,
+    "text": "Aria Burbuja"
+  },
+  {
+    "index": 665,
+    "flags": 0,
+    "text": "Martillo Hielo"
+  },
+  {
+    "index": 666,
+    "flags": 0,
+    "text": "Cura Floral"
+  },
+  {
+    "index": 667,
+    "flags": 0,
+    "text": "Fuerza Equina"
+  },
+  {
+    "index": 668,
+    "flags": 4,
+    "text": "Absorbefuerza"
+  },
+  {
+    "index": 669,
+    "flags": 0,
+    "text": "Cuchilla Solar"
+  },
+  {
+    "index": 670,
+    "flags": 0,
+    "text": "Follaje"
+  },
+  {
+    "index": 671,
+    "flags": 0,
+    "text": "Foco"
+  },
+  {
+    "index": 672,
+    "flags": 0,
+    "text": "Hilo Venenoso"
+  },
+  {
+    "index": 673,
+    "flags": 4,
+    "text": "Aguzar"
+  },
+  {
+    "index": 674,
+    "flags": 0,
+    "text": "Pi\u00F1\u00F3n Auxiliar"
+  },
+  {
+    "index": 675,
+    "flags": 0,
+    "text": "Golpe Mordaza"
+  },
+  {
+    "index": 676,
+    "flags": 0,
+    "text": "Bola de Polen"
+  },
+  {
+    "index": 677,
+    "flags": 4,
+    "text": "Anclaje"
+  },
+  {
+    "index": 678,
+    "flags": 0,
+    "text": "Campo Ps\u00EDquico"
+  },
+  {
+    "index": 679,
+    "flags": 0,
+    "text": "Plancha"
+  },
+  {
+    "index": 680,
+    "flags": 0,
+    "text": "L\u00E1tigo \u00CDgneo"
+  },
+  {
+    "index": 681,
+    "flags": 0,
+    "text": "Chuler\u00EDa"
+  },
+  {
+    "index": 682,
+    "flags": 0,
+    "text": "Llama Final"
+  },
+  {
+    "index": 683,
+    "flags": 0,
+    "text": "Cambiavelocidad"
+  },
+  {
+    "index": 684,
+    "flags": 0,
+    "text": "Cuerno Certero"
+  },
+  {
+    "index": 685,
+    "flags": 0,
+    "text": "Purificaci\u00F3n"
+  },
+  {
+    "index": 686,
+    "flags": 0,
+    "text": "Danza Despertar"
+  },
+  {
+    "index": 687,
+    "flags": 0,
+    "text": "N\u00FAcleo Castigo"
+  },
+  {
+    "index": 688,
+    "flags": 0,
+    "text": "Patada Tropical"
+  },
+  {
+    "index": 689,
+    "flags": 0,
+    "text": "Mandato"
+  },
+  {
+    "index": 690,
+    "flags": 0,
+    "text": "Pico Ca\u00F1\u00F3n"
+  },
+  {
+    "index": 691,
+    "flags": 0,
+    "text": "Fragor Escamas"
+  },
+  {
+    "index": 692,
+    "flags": 0,
+    "text": "Martillo Drag\u00F3n"
+  },
+  {
+    "index": 693,
+    "flags": 0,
+    "text": "Giro Vil"
+  },
+  {
+    "index": 694,
+    "flags": 0,
+    "text": "Velo Aurora"
+  },
+  {
+    "index": 695,
+    "flags": 4,
+    "text": "Aluvi\u00F3n de Flechas Sombr\u00EDas"
+  },
+  {
+    "index": 696,
+    "flags": 0,
+    "text": "Hiperplancha Oscura"
+  },
+  {
+    "index": 697,
+    "flags": 0,
+    "text": "Sinfon\u00EDa de la Diva Marina"
+  },
+  {
+    "index": 698,
+    "flags": 0,
+    "text": "C\u00F3lera del Guardi\u00E1n"
+  },
+  {
+    "index": 699,
+    "flags": 0,
+    "text": "Constelaci\u00F3n Robaalmas"
+  },
+  {
+    "index": 700,
+    "flags": 0,
+    "text": "Surfeo Galv\u00E1nico"
+  },
+  {
+    "index": 701,
+    "flags": 4,
+    "text": "Arrojo Intempestivo"
+  },
+  {
+    "index": 702,
+    "flags": 0,
+    "text": "Novena Potencia"
+  },
+  {
+    "index": 703,
+    "flags": 0,
+    "text": "Supernova Original"
+  },
+  {
+    "index": 704,
+    "flags": 0,
+    "text": "Coraza Trampa"
+  },
+  {
+    "index": 705,
+    "flags": 0,
+    "text": "Ca\u00F1\u00F3n Floral"
+  },
+  {
+    "index": 706,
+    "flags": 0,
+    "text": "Psicocolmillo"
+  },
+  {
+    "index": 707,
+    "flags": 0,
+    "text": "Pataleta"
+  },
+  {
+    "index": 708,
+    "flags": 0,
+    "text": "Hueso Sombr\u00EDo"
+  },
+  {
+    "index": 709,
+    "flags": 0,
+    "text": "Roca Veloz"
+  },
+  {
+    "index": 710,
+    "flags": 0,
+    "text": "Hidroariete"
+  },
+  {
+    "index": 711,
+    "flags": 0,
+    "text": "L\u00E1ser Prisma"
+  },
+  {
+    "index": 712,
+    "flags": 0,
+    "text": "Robasombra"
+  },
+  {
+    "index": 713,
+    "flags": 0,
+    "text": "Meteoimpacto"
+  },
+  {
+    "index": 714,
+    "flags": 0,
+    "text": "Rayo Umbr\u00EDo"
+  },
+  {
+    "index": 715,
+    "flags": 4,
+    "text": "Ojos Llorosos"
+  },
+  {
+    "index": 716,
+    "flags": 4,
+    "text": "Electropunzada"
+  },
+  {
+    "index": 717,
+    "flags": 0,
+    "text": "Furia Natural"
+  },
+  {
+    "index": 718,
+    "flags": 0,
+    "text": "Multiataque"
+  },
+  {
+    "index": 719,
+    "flags": 0,
+    "text": "Gigarrayo Fulminante"
+  },
+  {
+    "index": 720,
+    "flags": 0,
+    "text": "Cabeza Sorpresa"
+  },
+  {
+    "index": 721,
+    "flags": 0,
+    "text": "Pu\u00F1os Plasma"
+  },
+  {
+    "index": 722,
+    "flags": 0,
+    "text": "G\u00E9iser Fot\u00F3nico"
+  },
+  {
+    "index": 723,
+    "flags": 0,
+    "text": "Fotodestrucci\u00F3n Apocal\u00EDptica"
+  },
+  {
+    "index": 724,
+    "flags": 4,
+    "text": "Embestida Solar"
+  },
+  {
+    "index": 725,
+    "flags": 0,
+    "text": "Deflagraci\u00F3n Lunar"
+  },
+  {
+    "index": 726,
+    "flags": 0,
+    "text": "Somanta Amistosa"
+  },
+  {
+    "index": 727,
+    "flags": 0,
+    "text": "Tempestad Rocosa"
+  },
+  {
+    "index": 728,
+    "flags": 4,
+    "text": "Estruendo Implacable"
+  },
+  {
+    "index": 729,
+    "flags": 0,
+    "text": "Pikaturbo"
+  },
+  {
+    "index": 730,
+    "flags": 0,
+    "text": "Salpikasurf"
+  },
+  {
+    "index": 731,
+    "flags": 0,
+    "text": "Pikapicado"
+  },
+  {
+    "index": 732,
+    "flags": 0,
+    "text": "Pikatormenta"
+  },
+  {
+    "index": 733,
+    "flags": 0,
+    "text": "Vapodrenaje"
+  },
+  {
+    "index": 734,
+    "flags": 0,
+    "text": "Joltiopar\u00E1lisis"
+  },
+  {
+    "index": 735,
+    "flags": 0,
+    "text": "Flarembestida"
+  },
+  {
+    "index": 736,
+    "flags": 4,
+    "text": "Espeaura"
+  },
+  {
+    "index": 737,
+    "flags": 4,
+    "text": "Umbreozona"
+  },
+  {
+    "index": 738,
+    "flags": 0,
+    "text": "Leafitobombas"
+  },
+  {
+    "index": 739,
+    "flags": 0,
+    "text": "Glaceoprisma"
+  },
+  {
+    "index": 740,
+    "flags": 0,
+    "text": "Sylveotornado"
+  },
+  {
+    "index": 741,
+    "flags": 4,
+    "text": "Eevimpacto"
+  },
+  {
+    "index": 742,
+    "flags": 0,
+    "text": "Ferropu\u00F1o Doble"
+  },
+  {
+    "index": 743,
+    "flags": 0,
+    "text": "Maxibarrera"
+  },
+  {
+    "index": 744,
+    "flags": 0,
+    "text": "Ca\u00F1\u00F3n Dinamax"
+  },
+  {
+    "index": 745,
+    "flags": 0,
+    "text": "Disparo Certero"
+  },
+  {
+    "index": 746,
+    "flags": 0,
+    "text": "Presa Maxilar"
+  },
+  {
+    "index": 747,
+    "flags": 4,
+    "text": "Atiborramiento"
+  },
+  {
+    "index": 748,
+    "flags": 0,
+    "text": "Basti\u00F3n Final"
+  },
+  {
+    "index": 749,
+    "flags": 4,
+    "text": "Alquitranazo"
+  },
+  {
+    "index": 750,
+    "flags": 0,
+    "text": "Polvo M\u00E1gico"
+  },
+  {
+    "index": 751,
+    "flags": 0,
+    "text": "Dracoflechas"
+  },
+  {
+    "index": 752,
+    "flags": 0,
+    "text": "Hora del T\u00E9"
+  },
+  {
+    "index": 753,
+    "flags": 4,
+    "text": "Octopresa"
+  },
+  {
+    "index": 754,
+    "flags": 4,
+    "text": "Electropico"
+  },
+  {
+    "index": 755,
+    "flags": 0,
+    "text": "Branquibocado"
+  },
+  {
+    "index": 756,
+    "flags": 0,
+    "text": "Cambio de Cancha"
+  },
+  {
+    "index": 757,
+    "flags": 0,
+    "text": "Maxignici\u00F3n"
+  },
+  {
+    "index": 758,
+    "flags": 0,
+    "text": "Maxinsecto"
+  },
+  {
+    "index": 759,
+    "flags": 0,
+    "text": "Maxitormenta"
+  },
+  {
+    "index": 760,
+    "flags": 0,
+    "text": "Maxiataque"
+  },
+  {
+    "index": 761,
+    "flags": 0,
+    "text": "Maxipu\u00F1o"
+  },
+  {
+    "index": 762,
+    "flags": 0,
+    "text": "Maxiespectro"
+  },
+  {
+    "index": 763,
+    "flags": 0,
+    "text": "Maxihelada"
+  },
+  {
+    "index": 764,
+    "flags": 0,
+    "text": "Maxi\u00E1cido"
+  },
+  {
+    "index": 765,
+    "flags": 0,
+    "text": "Maxichorro"
+  },
+  {
+    "index": 766,
+    "flags": 0,
+    "text": "Maxicicl\u00F3n"
+  },
+  {
+    "index": 767,
+    "flags": 0,
+    "text": "Maxiestela"
+  },
+  {
+    "index": 768,
+    "flags": 0,
+    "text": "Maxidraco"
+  },
+  {
+    "index": 769,
+    "flags": 0,
+    "text": "Maxionda"
+  },
+  {
+    "index": 770,
+    "flags": 0,
+    "text": "Maxilito"
+  },
+  {
+    "index": 771,
+    "flags": 0,
+    "text": "Maxitemblor"
+  },
+  {
+    "index": 772,
+    "flags": 0,
+    "text": "Maxisombra"
+  },
+  {
+    "index": 773,
+    "flags": 0,
+    "text": "Maxiflora"
+  },
+  {
+    "index": 774,
+    "flags": 0,
+    "text": "Maximetal"
+  },
+  {
+    "index": 775,
+    "flags": 4,
+    "text": "Estruendo Escama"
+  },
+  {
+    "index": 776,
+    "flags": 0,
+    "text": "Plancha Corporal"
+  },
+  {
+    "index": 777,
+    "flags": 0,
+    "text": "Decoraci\u00F3n"
+  },
+  {
+    "index": 778,
+    "flags": 0,
+    "text": "Bater\u00EDa Asalto"
+  },
+  {
+    "index": 779,
+    "flags": 0,
+    "text": "Cepo"
+  },
+  {
+    "index": 780,
+    "flags": 0,
+    "text": "Bal\u00F3n \u00CDgneo"
+  },
+  {
+    "index": 781,
+    "flags": 0,
+    "text": "Tajo Supremo"
+  },
+  {
+    "index": 782,
+    "flags": 4,
+    "text": "Embate Supremo"
+  },
+  {
+    "index": 783,
+    "flags": 0,
+    "text": "Rueda Aural"
+  },
+  {
+    "index": 784,
+    "flags": 0,
+    "text": "Vasto Impacto"
+  },
+  {
+    "index": 785,
+    "flags": 0,
+    "text": "Punzada Rama"
+  },
+  {
+    "index": 786,
+    "flags": 4,
+    "text": "Amplificador"
+  },
+  {
+    "index": 787,
+    "flags": 4,
+    "text": "\u00C1cido M\u00E1lico"
+  },
+  {
+    "index": 788,
+    "flags": 0,
+    "text": "Fuerza G"
+  },
+  {
+    "index": 789,
+    "flags": 0,
+    "text": "Choque An\u00EDmico"
+  },
+  {
+    "index": 790,
+    "flags": 0,
+    "text": "Cautivapor"
+  },
+  {
+    "index": 791,
+    "flags": 0,
+    "text": "Gota Vital"
+  },
+  {
+    "index": 792,
+    "flags": 4,
+    "text": "Obstrucci\u00F3n"
+  },
+  {
+    "index": 793,
+    "flags": 4,
+    "text": "Irreverencia"
+  },
+  {
+    "index": 794,
+    "flags": 4,
+    "text": "Asalto Estelar"
+  },
+  {
+    "index": 795,
+    "flags": 0,
+    "text": "Rayo Infinito"
+  },
+  {
+    "index": 796,
+    "flags": 0,
+    "text": "Metal\u00E1ser"
+  },
+  {
+    "index": 797,
+    "flags": 0,
+    "text": "Vasta Fuerza"
+  },
+  {
+    "index": 798,
+    "flags": 4,
+    "text": "Allanador F\u00E9rreo"
+  },
+  {
+    "index": 799,
+    "flags": 0,
+    "text": "R\u00E1faga Escamas"
+  },
+  {
+    "index": 800,
+    "flags": 0,
+    "text": "Rayo Mete\u00F3rico"
+  },
+  {
+    "index": 801,
+    "flags": 0,
+    "text": "Molusca\u00F1\u00F3n"
+  },
+  {
+    "index": 802,
+    "flags": 0,
+    "text": "Bruma Explosiva"
+  },
+  {
+    "index": 803,
+    "flags": 0,
+    "text": "Fitoimpulso"
+  },
+  {
+    "index": 804,
+    "flags": 4,
+    "text": "Alto Voltaje"
+  },
+  {
+    "index": 805,
+    "flags": 0,
+    "text": "Pulso de Campo"
+  },
+  {
+    "index": 806,
+    "flags": 0,
+    "text": "Golpe Rastrero"
+  },
+  {
+    "index": 807,
+    "flags": 4,
+    "text": "Envidia Ardiente"
+  },
+  {
+    "index": 808,
+    "flags": 0,
+    "text": "Desahogo"
+  },
+  {
+    "index": 809,
+    "flags": 0,
+    "text": "Poltergeist"
+  },
+  {
+    "index": 810,
+    "flags": 0,
+    "text": "Gas Corrosivo"
+  },
+  {
+    "index": 811,
+    "flags": 0,
+    "text": "Motivaci\u00F3n"
+  },
+  {
+    "index": 812,
+    "flags": 0,
+    "text": "Viraje"
+  },
+  {
+    "index": 813,
+    "flags": 0,
+    "text": "Triple Axel"
+  },
+  {
+    "index": 814,
+    "flags": 4,
+    "text": "Ala Bis"
+  },
+  {
+    "index": 815,
+    "flags": 4,
+    "text": "Arenas Ardientes"
+  },
+  {
+    "index": 816,
+    "flags": 0,
+    "text": "Cura Selv\u00E1tica"
+  },
+  {
+    "index": 817,
+    "flags": 0,
+    "text": "Golpe Oscuro"
+  },
+  {
+    "index": 818,
+    "flags": 4,
+    "text": "Azote Torrencial"
+  },
+  {
+    "index": 819,
+    "flags": 4,
+    "text": "Electrojaula"
+  },
+  {
+    "index": 820,
+    "flags": 0,
+    "text": "Dracoenerg\u00EDa"
+  },
+  {
+    "index": 821,
+    "flags": 0,
+    "text": "Mirada Heladora"
+  },
+  {
+    "index": 822,
+    "flags": 0,
+    "text": "Furia Candente"
+  },
+  {
+    "index": 823,
+    "flags": 0,
+    "text": "Patada Rel\u00E1mpago"
+  },
+  {
+    "index": 824,
+    "flags": 0,
+    "text": "Lanza Glacial"
+  },
+  {
+    "index": 825,
+    "flags": 4,
+    "text": "Orbes Espectro"
+  },
+  {
+    "index": 826,
+    "flags": 0,
+    "text": "Conjuro Funesto"
+  }
+]

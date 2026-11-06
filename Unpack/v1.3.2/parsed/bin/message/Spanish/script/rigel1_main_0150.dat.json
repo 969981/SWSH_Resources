@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Aqu\u00ED est\u00E1s.[VAR 0114(0071)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Conque has venido.[VAR 0114(0072)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Cuando te gane, la armadura secreta ser\u00E1 m\u00EDa...[VAR 0114(0071)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Tras mi gloriosa victoria contra ti, obtendr\u00E9 la\\narmadura secreta...[VAR 0114(0072)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Y lo siguiente ser\u00E1 convertirme en L\u00EDder de\\nGimnasio de tipo Veneno![VAR 0114(0071)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Y gracias a ella me convertir\u00E9 en el L\u00EDder de\\nGimnasio de tipo Ps\u00EDquico![VAR 0114(0072)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Tengo que ganar, sea como sea.[VAR 0114(0071)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Me valdr\u00E9 de cualquier medio necesario.\\nNo hay cabida para la derrota.[VAR 0114(0072)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Voy a ir a saco contigo. \u00BFEst\u00E1s list[VAR 1100(00FF,0101)]oa?[VAR 0114(0071)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Voy a arremeter contra ti con todo lo que tengo.\\n\u00BFEst\u00E1s preparad[VAR 1100(00FF,0101)]oa?[VAR 0114(0072)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1Venga ya! Despu\u00E9s del discursito que me he\\nmarcado, \u00BFvas y me dejas colgada?[VAR 0114(0071)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo es posible que mi oratoria no te haya\\nconmovido? \u00A1Qu\u00E9 impertinencia![VAR 0114(0072)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Ya vale! H\u00E1blame cuando te hayas decidido de\\nuna vez.[VAR 0114(0071)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En fin... Dir\u00EDgeme la palabra una vez que te\\nhayas mentalizado para el combate.[VAR 0114(0072)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Veo que ya est\u00E1is a punto de caramelo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00A1Suerte!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1Os estaremos animando todo el rato![VAR 0114(0074)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1Ya est\u00E1is tardando! \u00A1A vuestros puestos![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "La prueba final del Dojo Maestro...[VAR 0114(0073)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Comienza...[VAR 0114(0073)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1\u00A1Ya!![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00A1Ya tenemos ganador[VAR 1100(00FF,0100)]a![VAR 0114(0073)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "El aprobado en la tercera prueba se lo ha\\nllevado... \u00A1[VAR 0100(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1Bravo! \u00A1Bravo!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1Ha sido una pasada!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1Menudo combate!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00A1Lo hab\u00E9is hecho genial![VAR 0114(0074)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "No... La he pifiado...[VAR 0114(0071)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo he podido perder...?[VAR 0114(0072)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Jop\u00E9, vaya rollo. \u00BFPara esto me he molestado en\\nhacer trampas?[VAR 0114(0071)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Buf, qu\u00E9 lamentable. He mancillado mi honra en\\nvano.[VAR 0114(0072)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "No creo que alguien tan joven y tan brillante\\ncomo t\u00FA me entienda...[VAR 0114(0071)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "No creo que alguien con tanto talento a tu edad\\npueda entenderme...[VAR 0114(0072)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Pero lo he hecho lo mejor que he podido...[VAR 0114(0071)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Tal vez sea mediocre, pero me estaba esmerando\\na mi manera...[VAR 0114(0072)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Quiz\u00E1 deber\u00EDa ir olvid\u00E1ndome de mi sue\u00F1o de\\nllegar a ser L\u00EDder de Gimnasio.[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Tal vez sea hora de desistir de mi sue\u00F1o de\\nconvertirme en L\u00EDder de Gimnasio.[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Total, me van a echar del dojo como se enteren\\nde que he hecho trampas.[VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Mi expulsi\u00F3n del dojo est\u00E1 asegurada si salen a\\nla luz las tretas que he empleado.[VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Oye, [VAR 0100(0000)].\\c\\nPuedes chivarle al Maestro que he hecho trampa.[VAR 0114(0071)]"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Atiende, [VAR 0100(0000)].\\c\\nTienes mi benepl\u00E1cito para delatar mi fechor\u00EDa\\nante el Maestro.[VAR 0114(0072)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Vale"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "No pienso hacerlo"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Lo siento.[VAR 0114(0071)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Disc\u00FAlpame.[VAR 0114(0072)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00BFEh? Pero \u00BFpor qu\u00E9?\\c\\nSi he hecho algo terrible para ganarte...[VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 se debe semejante respuesta?\\c\\n\u00A1Pero si me he rebajado a vilezas innombrables\\ncon tal de derrotarte![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00A1Que no te enteras, Contreras! \u00A1A m\u00ED no se me\\nescapa ni una![VAR 0114(0073)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "La compasi\u00F3n hacia tus oponentes, adem\u00E1s de\\npor los Pok\u00E9mon, es lo que te hace fuerte,\\r\\n[VAR 0100(0000)].[VAR 0114(0073)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1\u00BFM-Maestro?![VAR 0114(0071)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00BFM-Maestro?[VAR 0114(0072)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Te pido disculpas por la conducta de S\u00F3fora.[VAR 0114(0073)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Te pido disculpas por la conducta de Dreo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Sus m\u00E9todos han sido del todo reprochables...[VAR 0114(0073)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Sus m\u00E9todos han sido del todo reprochables...[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Pero veo en ella el af\u00E1n de superaci\u00F3n propio de\\nuna disc\u00EDpula prometedora.[VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Pero veo en \u00E9l el af\u00E1n de superaci\u00F3n propio de\\nun disc\u00EDpulo prometedor.[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Buaa... Gracias, Maestro...\\nPerd\u00F3n, [VAR 0100(0000)]...[VAR 0114(0071)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Buaa... Se lo agradezco, Maestro...\\nPerd\u00F3name, [VAR 0100(0000)]...[VAR 0114(0072)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Como castigo, te vas a encargar t\u00FA solita de\\ncuidar a todos los Pok\u00E9mon del dojo durante\\r\\nlos pr\u00F3ximos seis meses.[VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Como castigo, te vas a encargar t\u00FA solito de\\ncuidar a todos los Pok\u00E9mon del dojo durante\\r\\nlos pr\u00F3ximos seis meses.[VAR 0114(0073)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u00A1\u00BFEh?! O sea, va a ser bastante duro, pero...\\n\u00BFme libro solo con eso?[VAR 0114(0071)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "\u00A1\u00BFC\u00F3mo?! \u00BFNo es un castigo demasiado\\nclemente?[VAR 0114(0072)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1Ya ves truz! Pero a cambio, prom\u00E9teme que te\\nesforzar\u00E1s por fortalecer tu esp\u00EDritu.[VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1V-vale![VAR 0114(0071)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "\u00A1L-lo prometo![VAR 0114(0072)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Chachi pistachi. \u00A1Ya pod\u00E9is acercaros los dem\u00E1s![VAR 0114(0073)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00A1Nos hab\u00E9is dejado con la boca abierta, tesoros![VAR 0114(0074)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "\u00A1No he podido ver la mitad del combate porque\\nse me empa\u00F1aban los ojos de la emoci\u00F3n![VAR 0114(0074)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "\u00A1Tenemos los pelos de punta!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "\u00A1Se nos saltaban las l\u00E1grimas!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Nos has deslumbrado pese a encontrarte en una\\nsituaci\u00F3n de desventaja.[VAR 0114(0073)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Por haber superado todas las pruebas...[VAR 0114(0073)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00A1Te har\u00E9 entrega de la armadura secreta del\\nDojo Maestro![VAR 0114(0073)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Pero antes tengo cosillas que finiquitar en el\\ndojo, as\u00ED que te veo all\u00ED.[VAR 0114(0073)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u00A1Aqu\u00ED ya no hay nada que ver, ahuecando el ala!\\n\u00A1Chao, Mienshao![VAR 0114(0073)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)]![VAR 0114(0071)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00BFTienes un instante?[VAR 0114(0072)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Oye, que...[VAR 0114(0071)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Esto... [VAR 0100(0000)]...[VAR 0114(0072)]"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Eres... dur[VAR 1100(00FF,0101)]oa de pelar.[VAR 0114(0071)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "He de admitir que me has impresionado un poco.[VAR 0114(0072)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFAd\u00F3nde vas? \u00A1No pases de m\u00ED![VAR 0114(0071)]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u00BFMe haces caso omiso para llegar primer[VAR 1100(00FF,0101)]oa...?\\nDesde luego, posees una naturaleza Grosera.[VAR 0114(0072)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00A1Por fin vas a conseguir la armadura secreta!\\n\u00A1\u00BFC\u00F3mo ser\u00E1?!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00A1Uf! S\u00F3fora te ha dado bastante batalla..."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u00A1Uf! Dreo te ha dado bastante batalla..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1Me inclino ante ti!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u00BFAs\u00ED que la \u00FAltima prueba consist\u00EDa en librar\\nun combate Pok\u00E9mon para demostrar todo lo\\r\\naprendido?"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "\u00BFDe qu\u00E9 hablasteis con el Maestro despu\u00E9s del\\ncombate?"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 fuerte eres! \u00BFHas pensado en abrir tu\\npropio dojo? \u00A1Seguro que te forrabas!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "\u00A1Ha sido un combate de a\u00FApa! S\u00F3fora tambi\u00E9n lo\\nha peleado que da gusto."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "\u00A1Ha sido un combate de a\u00FApa! Dreo tambi\u00E9n lo\\nha peleado que da gusto."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "\u00BFLa cancha se puso a brillar al principio del\\ncombate o me lo imagin\u00E9 yo?"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Espero tener la oportunidad de enfrentarme a\\nun[VAR 1100(00FF,0100)]a rival dign[VAR 1100(00FF,0101)]oa como t\u00FA."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "\u00A1Kiaaa! \u00A1Enhorabuena!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Alg\u00FAn d\u00EDa me pondr\u00E9 a tu nivel... Vas a ver."
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "En el futuro te alcan...\\c\\nNada, uso Amnesia y, si te he dicho, no me\\nacuerdo."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Ganar es una gran alegr\u00EDa, pero perder tambi\u00E9n\\ntiene parte positiva: es lo que te ayuda a crecer.[VAR 0114(0074)]"
+  }
+]

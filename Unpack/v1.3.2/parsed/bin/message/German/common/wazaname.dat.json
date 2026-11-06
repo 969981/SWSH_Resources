@@ -1,0 +1,4137 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "-----"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Klaps"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Karateschlag"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Duplexhieb"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Kometenhieb"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Megahieb"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Zahltag"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Feuerschlag"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Eishieb"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Donnerschlag"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Kratzer"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Klammer"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Guillotine"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Klingensturm"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Schwerttanz"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Zerschneider"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Windsto\u00DF"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Fl\u00FCgelschlag"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Wirbelwind"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Fliegen"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Klammergriff"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Slam"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Rankenhieb"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Stampfer"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Doppelkick"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Megakick"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Sprungkick"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Fegekick"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Sandwirbel"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Kopfnuss"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Hornattacke"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Furienschlag"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Hornbohrer"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Tackle"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Bodyslam"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Wickel"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Bodycheck"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Fuchtler"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Risikotackle"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Rutenschlag"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Giftstachel"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Duonadel"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Nadelrakete"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Silberblick"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Biss"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Heuler"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Br\u00FCller"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Gesang"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Superschall"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Ultraschall"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Aussetzer"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "S\u00E4ure"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Glut"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Flammenwurf"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Wei\u00DFnebel"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Aquaknarre"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Hydropumpe"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Surfer"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Eisstrahl"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Blizzard"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Psystrahl"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Blubbstrahl"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Aurorastrahl"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Hyperstrahl"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Pikser"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Bohrschnabel"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00DCberroller"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Fu\u00DFkick"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Konter"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Geowurf"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "St\u00E4rke"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Absorber"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Megasauger"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Egelsamen"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Wachstum"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Rasierblatt"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Solarstrahl"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Giftpuder"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Stachelspore"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Schlafpuder"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Bl\u00E4ttertanz"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Fadenschuss"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Drachenwut"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Feuerwirbel"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Donnerschock"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Donnerblitz"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Donnerwelle"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Donner"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Steinwurf"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Erdbeben"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Geofissur"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Schaufler"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Toxin"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Konfusion"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Psychokinese"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Hypnose"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Meditation"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Agilit\u00E4t"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Ruckzuckhieb"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Raserei"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Teleport"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Nachtnebel"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Mimikry"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Kreideschrei"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Doppelteam"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Genesung"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "H\u00E4rtner"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Komprimator"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Rauchwolke"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Konfusstrahl"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Panzerschutz"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Einigler"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Barriere"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Lichtschild"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Dunkelnebel"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Reflektor"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Energiefokus"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Geduld"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Metronom"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Spiegeltrick"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Finale"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Eierbombe"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Schlecker"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Smog"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Schlammbad"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Knochenkeule"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Feuersturm"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Kaskade"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Schnapper"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Sternschauer"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Sch\u00E4delwumme"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Dornkanone"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Umklammerung"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Amnesie"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Psykraft"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Weichei"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Turmkick"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Schlangenblick"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Traumfresser"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Giftwolke"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Stakkato"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Blutsauger"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Todeskuss"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Himmelsfeger"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Wandler"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Blubber"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Irrschlag"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Pilzspore"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Blitz"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Psywelle"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Platscher"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "S\u00E4urepanzer"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Krabbhammer"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Explosion"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Kratzfurie"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Knochmerang"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Erholung"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Steinhagel"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Hyperzahn"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Sch\u00E4rfer"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Umwandlung"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Triplette"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Superzahn"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Schlitzer"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Delegator"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Verzweifler"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Nachahmer"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Dreifachkick"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Raub"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Spinnennetz"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Willensleser"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Nachtmahr"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Flammenrad"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Schnarcher"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Fluch"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Dreschflegel"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Umwandlung2"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Luftsto\u00DF"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Baumwollsaat"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Gegenschlag"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Groll"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Pulverschnee"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Schutzschild"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Tempohieb"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Grimasse"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Finte"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Bitterkuss"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Bauchtrommel"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Matschbombe"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Lehmschelle"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Octazooka"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Stachler"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Blitzkanone"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Scharfblick"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Abgangsbund"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Abgesang"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Eissturm"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Scanner"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Knochenhatz"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Zielschuss"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Wutanfall"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Sandsturm"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Gigasauger"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Ausdauer"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Charme"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Walzer"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Trugschlag"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Angeberei"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Milchgetr\u00E4nk"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Funkensprung"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Zornklinge"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Stahlfl\u00FCgel"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Horrorblick"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Anziehung"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Schlafrede"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Vitalglocke"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "R\u00FCckkehr"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Geschenk"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Frustration"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Bodyguard"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Leidteiler"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "L\u00E4uterfeuer"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Intensit\u00E4t"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Wuchtschlag"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Vielender"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Feuerodem"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Stafette"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Zugabe"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Verfolgung"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Turbodreher"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Lockduft"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Eisenschweif"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Metallklaue"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "\u00DCberwurf"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Morgengrauen"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Synthese"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Mondschein"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Kraftreserve"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Kreuzhieb"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Windhose"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Regentanz"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Sonnentag"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Knirscher"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Spiegelcape"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Psycho-Plus"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Turbotempo"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Antik-Kraft"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Spukball"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Seher"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Zertr\u00FCmmerer"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Whirlpool"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Pr\u00FCgler"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Mogelhieb"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Aufruhr"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Horter"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Entfessler"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Verzehrer"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Hitzewelle"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Hagelsturm"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Folterknecht"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Schmeichler"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Irrlicht"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Memento-Mori"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Fassade"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Power-Punch"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Riechsalz"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Spotlight"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "Natur-Kraft"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Ladevorgang"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Verh\u00F6hner"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Rechte Hand"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Trickbetrug"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "Rollenspiel"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Wunschtraum"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "Zuschuss"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "Verwurzler"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Kraftkoloss"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Magiemantel"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Aufbereitung"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Vergeltung"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Durchbruch"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "G\u00E4hner"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Abschlag"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "Notsituation"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "Eruption"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "F\u00E4higkeitstausch"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "Begrenzer"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "Heilung"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Nachspiel"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "\u00DCbernahme"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Geheimpower"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Taucher"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Armsto\u00DF"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Tarnung"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "Schweifglanz"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Scheinwerfer"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Nebelball"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Daunenreigen"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Taumeltanz"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Feuerfeger"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Lehmsuhler"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "Frostbeule"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Nietenranke"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Tagedieb"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Schallwelle"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Giftzahn"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "Zermalmklaue"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "Lohekanonade"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Aquahaubitze"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Sternenhieb"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Erstauner"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Meteorologe"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "Aromakur"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Trugtr\u00E4ne"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Windschnitt"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Hitzekoller"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Schn\u00FCffler"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Felsgrab"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "Silberhauch"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Metallsound"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Grasfl\u00F6te"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Spa\u00DFkanone"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Kosmik-Kraft"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Fontr\u00E4nen"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "Ampelleuchte"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Finsterfaust"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Sondersensor"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Himmelhieb"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Sandgrab"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Eisesk\u00E4lte"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "Lehmbr\u00FChe"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Kugelsaat"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Aero-Ass"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Eisspeer"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Eisenabwehr"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "R\u00FCckentzug"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "Jauler"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Drachenklaue"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Flora-Statue"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Protzer"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "Sprungfeder"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "Lehmschuss"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Giftschweif"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Bezirzer"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Volttackle"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "Zauberblatt"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "Nassmacher"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Gedankengut"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Laubklinge"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Drachentanz"
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "Felswurf"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "Schockwelle"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Aquawelle"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "Kismetwunsch"
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Psyschub"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "Ruheort"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Erdanziehung"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "Wunderauge"
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "Weckruf"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Hammerarm"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Gyroball"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "Heilopfer"
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Lake"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Beerenkr\u00E4fte"
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Offenlegung"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Pfl\u00FCcker"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "R\u00FCckenwind"
+  },
+  {
+    "index": 367,
+    "flags": 0,
+    "text": "Akupressur"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Metallsto\u00DF"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Kehrtwende"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Nahkampf"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Gegensto\u00DF"
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Gewissheit"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "Itemsperre"
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "Schleuder"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "Psybann"
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "Trumpfkarte"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "Heilblockade"
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "Auswringen"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "Krafttrick"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "Magens\u00E4fte"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "Beschw\u00F6rung"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Egotrip"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "Imitator"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Krafttausch"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "Schutztausch"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Strafattacke"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "Zuflucht"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "Sorgensamen"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Tiefschlag"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Giftspitzen"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "Statustausch"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "Wasserring"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Magnetflug"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "Flammenblitz"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "Kraftwelle"
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "Aurasph\u00E4re"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "Steinpolitur"
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Gifthieb"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Finsteraura"
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Nachthieb"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Nassschweif"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Samenbomben"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Luftschnitt"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "Kreuzschere"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "K\u00E4fergebrumm"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Drachenpuls"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Drachensto\u00DF"
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Juwelenkraft"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Ableithieb"
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "Vakuumwelle"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "Fokussto\u00DF"
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "Energieball"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Sturzflug"
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "Erdkr\u00E4fte"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "Wechseldich"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Gigasto\u00DF"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "R\u00E4nkeschmied"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "Patronenhieb"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "Lawine"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "Eissplitter"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Dunkelklaue"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "Donnerzahn"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Eiszahn"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Feuerzahn"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "Schattensto\u00DF"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Schlammbombe"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Psychoklinge"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Zen-Kopfsto\u00DF"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Spiegelsalve"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Lichtkanone"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "Kraxler"
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "Auflockern"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Bizarroraum"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Draco Meteor"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Ladungssto\u00DF"
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "Flammensturm"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Bl\u00E4ttersturm"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "Blattgei\u00DFel"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Felswerfer"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Giftstreich"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "M\u00FClltreffer"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "Eisensch\u00E4del"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Magnetbombe"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Steinkante"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "Liebreiz"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Tarnsteine"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "Strauchler"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Geschw\u00E4tz"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "Urteilskraft"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "K\u00E4ferbiss"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "Ladestrahl"
+  },
+  {
+    "index": 452,
+    "flags": 0,
+    "text": "Holzhammer"
+  },
+  {
+    "index": 453,
+    "flags": 0,
+    "text": "Wasserd\u00FCse"
+  },
+  {
+    "index": 454,
+    "flags": 0,
+    "text": "Schlagbefehl"
+  },
+  {
+    "index": 455,
+    "flags": 0,
+    "text": "Blockbefehl"
+  },
+  {
+    "index": 456,
+    "flags": 0,
+    "text": "Heilbefehl"
+  },
+  {
+    "index": 457,
+    "flags": 0,
+    "text": "Kopfsto\u00DF"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "Doppelschlag"
+  },
+  {
+    "index": 459,
+    "flags": 0,
+    "text": "Zeitenl\u00E4rm"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "Raumschlag"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "Lunartanz"
+  },
+  {
+    "index": 462,
+    "flags": 0,
+    "text": "Quetschgriff"
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "Lavasturm"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "Schlummerort"
+  },
+  {
+    "index": 465,
+    "flags": 0,
+    "text": "Schocksamen"
+  },
+  {
+    "index": 466,
+    "flags": 0,
+    "text": "Unheilb\u00F6en"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "Schemenkraft"
+  },
+  {
+    "index": 468,
+    "flags": 0,
+    "text": "Klauenwetzer"
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "Rundumschutz"
+  },
+  {
+    "index": 470,
+    "flags": 0,
+    "text": "Schutzteiler"
+  },
+  {
+    "index": 471,
+    "flags": 0,
+    "text": "Kraftteiler"
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "Wunderraum"
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "Psychoschock"
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "Giftschock"
+  },
+  {
+    "index": 475,
+    "flags": 0,
+    "text": "Autotomie"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "Wutpulver"
+  },
+  {
+    "index": 477,
+    "flags": 0,
+    "text": "Telekinese"
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "Magieraum"
+  },
+  {
+    "index": 479,
+    "flags": 0,
+    "text": "Katapult"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "Bergsturm"
+  },
+  {
+    "index": 481,
+    "flags": 0,
+    "text": "Funkenflug"
+  },
+  {
+    "index": 482,
+    "flags": 0,
+    "text": "Schlammwoge"
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "Falterreigen"
+  },
+  {
+    "index": 484,
+    "flags": 0,
+    "text": "Rammboss"
+  },
+  {
+    "index": 485,
+    "flags": 0,
+    "text": "Synchrol\u00E4rm"
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "Elektroball"
+  },
+  {
+    "index": 487,
+    "flags": 0,
+    "text": "\u00DCberflutung"
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "Nitroladung"
+  },
+  {
+    "index": 489,
+    "flags": 0,
+    "text": "Einrollen"
+  },
+  {
+    "index": 490,
+    "flags": 0,
+    "text": "Fu\u00DFtritt"
+  },
+  {
+    "index": 491,
+    "flags": 0,
+    "text": "S\u00E4urespeier"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "Schmarotzer"
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "Wankelstrahl"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "Zwango"
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "Galanterie"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "Kanon"
+  },
+  {
+    "index": 497,
+    "flags": 0,
+    "text": "Widerhall"
+  },
+  {
+    "index": 498,
+    "flags": 0,
+    "text": "Zerm\u00FCrben"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "Kl\u00E4rsmog"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "Kraftvorrat"
+  },
+  {
+    "index": 501,
+    "flags": 0,
+    "text": "Rapidschutz"
+  },
+  {
+    "index": 502,
+    "flags": 0,
+    "text": "Seitentausch"
+  },
+  {
+    "index": 503,
+    "flags": 0,
+    "text": "Siedewasser"
+  },
+  {
+    "index": 504,
+    "flags": 0,
+    "text": "Hausbruch"
+  },
+  {
+    "index": 505,
+    "flags": 0,
+    "text": "Heilwoge"
+  },
+  {
+    "index": 506,
+    "flags": 0,
+    "text": "B\u00FCrde"
+  },
+  {
+    "index": 507,
+    "flags": 0,
+    "text": "Freier Fall"
+  },
+  {
+    "index": 508,
+    "flags": 0,
+    "text": "Gangwechsel"
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "\u00DCberkopfwurf"
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "Ein\u00E4schern"
+  },
+  {
+    "index": 511,
+    "flags": 0,
+    "text": "Verz\u00F6gerung"
+  },
+  {
+    "index": 512,
+    "flags": 0,
+    "text": "Akrobatik"
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "Typenspiegel"
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "Heimzahlung"
+  },
+  {
+    "index": 515,
+    "flags": 0,
+    "text": "Wagemut"
+  },
+  {
+    "index": 516,
+    "flags": 0,
+    "text": "Offerte"
+  },
+  {
+    "index": 517,
+    "flags": 0,
+    "text": "Inferno"
+  },
+  {
+    "index": 518,
+    "flags": 0,
+    "text": "Wassers\u00E4ulen"
+  },
+  {
+    "index": 519,
+    "flags": 0,
+    "text": "Feuers\u00E4ulen"
+  },
+  {
+    "index": 520,
+    "flags": 0,
+    "text": "Pflanzens\u00E4ulen"
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "Voltwechsel"
+  },
+  {
+    "index": 522,
+    "flags": 0,
+    "text": "K\u00E4fertrutz"
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "Dampfwalze"
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "Eisesodem"
+  },
+  {
+    "index": 525,
+    "flags": 0,
+    "text": "Drachenrute"
+  },
+  {
+    "index": 526,
+    "flags": 0,
+    "text": "Kraftschub"
+  },
+  {
+    "index": 527,
+    "flags": 0,
+    "text": "Elektronetz"
+  },
+  {
+    "index": 528,
+    "flags": 0,
+    "text": "Stromsto\u00DF"
+  },
+  {
+    "index": 529,
+    "flags": 0,
+    "text": "Schlagbohrer"
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "Doppelhieb"
+  },
+  {
+    "index": 531,
+    "flags": 0,
+    "text": "Herzstempel"
+  },
+  {
+    "index": 532,
+    "flags": 0,
+    "text": "Holzgeweih"
+  },
+  {
+    "index": 533,
+    "flags": 0,
+    "text": "Sanctoklinge"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "Kalkklinge"
+  },
+  {
+    "index": 535,
+    "flags": 0,
+    "text": "Brandstempel"
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "Grasmixer"
+  },
+  {
+    "index": 537,
+    "flags": 0,
+    "text": "Quetschwalze"
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "Watteschild"
+  },
+  {
+    "index": 539,
+    "flags": 0,
+    "text": "Nachtflut"
+  },
+  {
+    "index": 540,
+    "flags": 0,
+    "text": "Psychosto\u00DF"
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "Kehrschelle"
+  },
+  {
+    "index": 542,
+    "flags": 0,
+    "text": "Orkan"
+  },
+  {
+    "index": 543,
+    "flags": 0,
+    "text": "Steinsch\u00E4del"
+  },
+  {
+    "index": 544,
+    "flags": 0,
+    "text": "Klikkdiskus"
+  },
+  {
+    "index": 545,
+    "flags": 0,
+    "text": "Flammenball"
+  },
+  {
+    "index": 546,
+    "flags": 0,
+    "text": "Techblaster"
+  },
+  {
+    "index": 547,
+    "flags": 0,
+    "text": "Urgesang"
+  },
+  {
+    "index": 548,
+    "flags": 0,
+    "text": "Mystoschwert"
+  },
+  {
+    "index": 549,
+    "flags": 0,
+    "text": "Eiszeit"
+  },
+  {
+    "index": 550,
+    "flags": 0,
+    "text": "Blitzschlag"
+  },
+  {
+    "index": 551,
+    "flags": 0,
+    "text": "Blauflammen"
+  },
+  {
+    "index": 552,
+    "flags": 0,
+    "text": "Feuerreigen"
+  },
+  {
+    "index": 553,
+    "flags": 0,
+    "text": "Frostvolt"
+  },
+  {
+    "index": 554,
+    "flags": 0,
+    "text": "Frosthauch"
+  },
+  {
+    "index": 555,
+    "flags": 0,
+    "text": "Standpauke"
+  },
+  {
+    "index": 556,
+    "flags": 0,
+    "text": "Eiszapfhagel"
+  },
+  {
+    "index": 557,
+    "flags": 0,
+    "text": "V-Generator"
+  },
+  {
+    "index": 558,
+    "flags": 0,
+    "text": "Kreuzflamme"
+  },
+  {
+    "index": 559,
+    "flags": 0,
+    "text": "Kreuzdonner"
+  },
+  {
+    "index": 560,
+    "flags": 0,
+    "text": "Flying Press"
+  },
+  {
+    "index": 561,
+    "flags": 0,
+    "text": "Tatami-Schild"
+  },
+  {
+    "index": 562,
+    "flags": 0,
+    "text": "R\u00FClpser"
+  },
+  {
+    "index": 563,
+    "flags": 0,
+    "text": "Pfl\u00FCger"
+  },
+  {
+    "index": 564,
+    "flags": 0,
+    "text": "Klebenetz"
+  },
+  {
+    "index": 565,
+    "flags": 0,
+    "text": "Stachelfinale"
+  },
+  {
+    "index": 566,
+    "flags": 0,
+    "text": "Phantomkraft"
+  },
+  {
+    "index": 567,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 568,
+    "flags": 0,
+    "text": "Kampfgebr\u00FCll"
+  },
+  {
+    "index": 569,
+    "flags": 0,
+    "text": "Plasmaschauer"
+  },
+  {
+    "index": 570,
+    "flags": 0,
+    "text": "Parabolladung"
+  },
+  {
+    "index": 571,
+    "flags": 0,
+    "text": "Waldesfluch"
+  },
+  {
+    "index": 572,
+    "flags": 0,
+    "text": "Bl\u00FCtenwirbel"
+  },
+  {
+    "index": 573,
+    "flags": 0,
+    "text": "Gefriertrockner"
+  },
+  {
+    "index": 574,
+    "flags": 0,
+    "text": "S\u00E4uselstimme"
+  },
+  {
+    "index": 575,
+    "flags": 0,
+    "text": "Abgangstirade"
+  },
+  {
+    "index": 576,
+    "flags": 0,
+    "text": "Invertigo"
+  },
+  {
+    "index": 577,
+    "flags": 0,
+    "text": "Diebeskuss"
+  },
+  {
+    "index": 578,
+    "flags": 0,
+    "text": "Trickschutz"
+  },
+  {
+    "index": 579,
+    "flags": 0,
+    "text": "Floraschutz"
+  },
+  {
+    "index": 580,
+    "flags": 0,
+    "text": "Grasfeld"
+  },
+  {
+    "index": 581,
+    "flags": 0,
+    "text": "Nebelfeld"
+  },
+  {
+    "index": 582,
+    "flags": 0,
+    "text": "Elektrifizierung"
+  },
+  {
+    "index": 583,
+    "flags": 0,
+    "text": "Knuddler"
+  },
+  {
+    "index": 584,
+    "flags": 0,
+    "text": "Feenbrise"
+  },
+  {
+    "index": 585,
+    "flags": 0,
+    "text": "Mondgewalt"
+  },
+  {
+    "index": 586,
+    "flags": 0,
+    "text": "\u00DCberschallknall"
+  },
+  {
+    "index": 587,
+    "flags": 0,
+    "text": "Feenschloss"
+  },
+  {
+    "index": 588,
+    "flags": 0,
+    "text": "K\u00F6nigsschild"
+  },
+  {
+    "index": 589,
+    "flags": 0,
+    "text": "Kameradschaft"
+  },
+  {
+    "index": 590,
+    "flags": 0,
+    "text": "Vertrauenssache"
+  },
+  {
+    "index": 591,
+    "flags": 0,
+    "text": "Diamantsturm"
+  },
+  {
+    "index": 592,
+    "flags": 0,
+    "text": "Dampfschwall"
+  },
+  {
+    "index": 593,
+    "flags": 0,
+    "text": "Dimensionsloch"
+  },
+  {
+    "index": 594,
+    "flags": 0,
+    "text": "Wasser-Shuriken"
+  },
+  {
+    "index": 595,
+    "flags": 0,
+    "text": "Magieflamme"
+  },
+  {
+    "index": 596,
+    "flags": 0,
+    "text": "Schutzstacheln"
+  },
+  {
+    "index": 597,
+    "flags": 0,
+    "text": "Duftwolke"
+  },
+  {
+    "index": 598,
+    "flags": 0,
+    "text": "Mystowellen"
+  },
+  {
+    "index": 599,
+    "flags": 0,
+    "text": "Giftfalle"
+  },
+  {
+    "index": 600,
+    "flags": 0,
+    "text": "Pulverschleuder"
+  },
+  {
+    "index": 601,
+    "flags": 0,
+    "text": "Geokontrolle"
+  },
+  {
+    "index": 602,
+    "flags": 0,
+    "text": "Magnetregler"
+  },
+  {
+    "index": 603,
+    "flags": 0,
+    "text": "Goldene Zeiten"
+  },
+  {
+    "index": 604,
+    "flags": 0,
+    "text": "Elektrofeld"
+  },
+  {
+    "index": 605,
+    "flags": 0,
+    "text": "Zauberschein"
+  },
+  {
+    "index": 606,
+    "flags": 0,
+    "text": "Ehrentag"
+  },
+  {
+    "index": 607,
+    "flags": 0,
+    "text": "H\u00E4ndchenhalten"
+  },
+  {
+    "index": 608,
+    "flags": 0,
+    "text": "Kulleraugen"
+  },
+  {
+    "index": 609,
+    "flags": 0,
+    "text": "Wangenrubbler"
+  },
+  {
+    "index": 610,
+    "flags": 0,
+    "text": "Zur\u00FCckhaltung"
+  },
+  {
+    "index": 611,
+    "flags": 0,
+    "text": "Plage"
+  },
+  {
+    "index": 612,
+    "flags": 0,
+    "text": "Steigerungshieb"
+  },
+  {
+    "index": 613,
+    "flags": 0,
+    "text": "Unheilsschwingen"
+  },
+  {
+    "index": 614,
+    "flags": 0,
+    "text": "Tausend Pfeile"
+  },
+  {
+    "index": 615,
+    "flags": 0,
+    "text": "Tausend Wellen"
+  },
+  {
+    "index": 616,
+    "flags": 0,
+    "text": "Bodengewalt"
+  },
+  {
+    "index": 617,
+    "flags": 0,
+    "text": "Lux Calamitatis"
+  },
+  {
+    "index": 618,
+    "flags": 0,
+    "text": "Ursprungswoge"
+  },
+  {
+    "index": 619,
+    "flags": 0,
+    "text": "Abgrundsklinge"
+  },
+  {
+    "index": 620,
+    "flags": 0,
+    "text": "Zenitst\u00FCrmer"
+  },
+  {
+    "index": 621,
+    "flags": 0,
+    "text": "Dimensionswahn"
+  },
+  {
+    "index": 622,
+    "flags": 0,
+    "text": "Hyper-Sprintangriff"
+  },
+  {
+    "index": 623,
+    "flags": 0,
+    "text": "Hyper-Sprintangriff"
+  },
+  {
+    "index": 624,
+    "flags": 0,
+    "text": "Fulminante Faustschl\u00E4ge"
+  },
+  {
+    "index": 625,
+    "flags": 0,
+    "text": "Fulminante Faustschl\u00E4ge"
+  },
+  {
+    "index": 626,
+    "flags": 0,
+    "text": "Finaler Steilflug"
+  },
+  {
+    "index": 627,
+    "flags": 0,
+    "text": "Finaler Steilflug"
+  },
+  {
+    "index": 628,
+    "flags": 0,
+    "text": "Vernichtender S\u00E4ureregen"
+  },
+  {
+    "index": 629,
+    "flags": 0,
+    "text": "Vernichtender S\u00E4ureregen"
+  },
+  {
+    "index": 630,
+    "flags": 0,
+    "text": "Seismische Eruption"
+  },
+  {
+    "index": 631,
+    "flags": 0,
+    "text": "Seismische Eruption"
+  },
+  {
+    "index": 632,
+    "flags": 0,
+    "text": "Apokalyptische Steinpresse"
+  },
+  {
+    "index": 633,
+    "flags": 0,
+    "text": "Apokalyptische Steinpresse"
+  },
+  {
+    "index": 634,
+    "flags": 0,
+    "text": "Wirbelnder Insektenhieb"
+  },
+  {
+    "index": 635,
+    "flags": 0,
+    "text": "Wirbelnder Insektenhieb"
+  },
+  {
+    "index": 636,
+    "flags": 0,
+    "text": "Ewige Nacht"
+  },
+  {
+    "index": 637,
+    "flags": 0,
+    "text": "Ewige Nacht"
+  },
+  {
+    "index": 638,
+    "flags": 0,
+    "text": "Turbo-Spiralkombo"
+  },
+  {
+    "index": 639,
+    "flags": 0,
+    "text": "Turbo-Spiralkombo"
+  },
+  {
+    "index": 640,
+    "flags": 0,
+    "text": "Dynamische Maxiflamme"
+  },
+  {
+    "index": 641,
+    "flags": 0,
+    "text": "Dynamische Maxiflamme"
+  },
+  {
+    "index": 642,
+    "flags": 0,
+    "text": "Super-Wassertornado"
+  },
+  {
+    "index": 643,
+    "flags": 0,
+    "text": "Super-Wassertornado"
+  },
+  {
+    "index": 644,
+    "flags": 0,
+    "text": "Brillante Bl\u00FCtenpracht"
+  },
+  {
+    "index": 645,
+    "flags": 0,
+    "text": "Brillante Bl\u00FCtenpracht"
+  },
+  {
+    "index": 646,
+    "flags": 0,
+    "text": "Gigavolt-Funkensalve"
+  },
+  {
+    "index": 647,
+    "flags": 0,
+    "text": "Gigavolt-Funkensalve"
+  },
+  {
+    "index": 648,
+    "flags": 0,
+    "text": "Psycho-Schmetterschlag"
+  },
+  {
+    "index": 649,
+    "flags": 0,
+    "text": "Psycho-Schmetterschlag"
+  },
+  {
+    "index": 650,
+    "flags": 0,
+    "text": "Tobender Geofrost"
+  },
+  {
+    "index": 651,
+    "flags": 0,
+    "text": "Tobender Geofrost"
+  },
+  {
+    "index": 652,
+    "flags": 0,
+    "text": "Drastisches Drachendr\u00F6hnen"
+  },
+  {
+    "index": 653,
+    "flags": 0,
+    "text": "Drastisches Drachendr\u00F6hnen"
+  },
+  {
+    "index": 654,
+    "flags": 0,
+    "text": "Schwarzes Loch des Grauens"
+  },
+  {
+    "index": 655,
+    "flags": 0,
+    "text": "Schwarzes Loch des Grauens"
+  },
+  {
+    "index": 656,
+    "flags": 0,
+    "text": "Entz\u00FCckender Sternensto\u00DF"
+  },
+  {
+    "index": 657,
+    "flags": 0,
+    "text": "Entz\u00FCckender Sternensto\u00DF"
+  },
+  {
+    "index": 658,
+    "flags": 0,
+    "text": "Perfektes Pika-Projektil"
+  },
+  {
+    "index": 659,
+    "flags": 0,
+    "text": "Sandsammler"
+  },
+  {
+    "index": 660,
+    "flags": 0,
+    "text": "\u00DCberrumpler"
+  },
+  {
+    "index": 661,
+    "flags": 0,
+    "text": "Bunker"
+  },
+  {
+    "index": 662,
+    "flags": 0,
+    "text": "Schattenfessel"
+  },
+  {
+    "index": 663,
+    "flags": 0,
+    "text": "Dark Lariat"
+  },
+  {
+    "index": 664,
+    "flags": 0,
+    "text": "Schaumserenade"
+  },
+  {
+    "index": 665,
+    "flags": 0,
+    "text": "Eishammer"
+  },
+  {
+    "index": 666,
+    "flags": 0,
+    "text": "Florakur"
+  },
+  {
+    "index": 667,
+    "flags": 0,
+    "text": "Pferdest\u00E4rke"
+  },
+  {
+    "index": 668,
+    "flags": 0,
+    "text": "Kraftabsorber"
+  },
+  {
+    "index": 669,
+    "flags": 0,
+    "text": "Solarklinge"
+  },
+  {
+    "index": 670,
+    "flags": 0,
+    "text": "Blattwerk"
+  },
+  {
+    "index": 671,
+    "flags": 0,
+    "text": "Rampenlicht"
+  },
+  {
+    "index": 672,
+    "flags": 0,
+    "text": "Giftfaden"
+  },
+  {
+    "index": 673,
+    "flags": 0,
+    "text": "Konzentration"
+  },
+  {
+    "index": 674,
+    "flags": 0,
+    "text": "Hilfsmechanik"
+  },
+  {
+    "index": 675,
+    "flags": 0,
+    "text": "Neck Strike"
+  },
+  {
+    "index": 676,
+    "flags": 0,
+    "text": "Pollenkn\u00F6del"
+  },
+  {
+    "index": 677,
+    "flags": 0,
+    "text": "Ankerschuss"
+  },
+  {
+    "index": 678,
+    "flags": 0,
+    "text": "Psychofeld"
+  },
+  {
+    "index": 679,
+    "flags": 0,
+    "text": "Anfallen"
+  },
+  {
+    "index": 680,
+    "flags": 0,
+    "text": "Feuerpeitsche"
+  },
+  {
+    "index": 681,
+    "flags": 0,
+    "text": "\u00DCberheblichkeit"
+  },
+  {
+    "index": 682,
+    "flags": 0,
+    "text": "Ausbrennen"
+  },
+  {
+    "index": 683,
+    "flags": 0,
+    "text": "Initiativetausch"
+  },
+  {
+    "index": 684,
+    "flags": 0,
+    "text": "Schmalhorn"
+  },
+  {
+    "index": 685,
+    "flags": 0,
+    "text": "L\u00E4uterung"
+  },
+  {
+    "index": 686,
+    "flags": 0,
+    "text": "Wecktanz"
+  },
+  {
+    "index": 687,
+    "flags": 0,
+    "text": "Sanktionskern"
+  },
+  {
+    "index": 688,
+    "flags": 0,
+    "text": "Tropenkick"
+  },
+  {
+    "index": 689,
+    "flags": 0,
+    "text": "Kommando"
+  },
+  {
+    "index": 690,
+    "flags": 0,
+    "text": "Schnabelkanone"
+  },
+  {
+    "index": 691,
+    "flags": 0,
+    "text": "Schuppenrasseln"
+  },
+  {
+    "index": 692,
+    "flags": 0,
+    "text": "Drachenhammer"
+  },
+  {
+    "index": 693,
+    "flags": 0,
+    "text": "Wirbler"
+  },
+  {
+    "index": 694,
+    "flags": 0,
+    "text": "Auroraschleier"
+  },
+  {
+    "index": 695,
+    "flags": 0,
+    "text": "Schatten-Pfeilregen"
+  },
+  {
+    "index": 696,
+    "flags": 0,
+    "text": "Hyper Dark Crusher"
+  },
+  {
+    "index": 697,
+    "flags": 0,
+    "text": "Grandiose Meeressymphonie"
+  },
+  {
+    "index": 698,
+    "flags": 0,
+    "text": "Alolas W\u00E4chter"
+  },
+  {
+    "index": 699,
+    "flags": 0,
+    "text": "Sternbild des Seelenraubes"
+  },
+  {
+    "index": 700,
+    "flags": 0,
+    "text": "Blitz-Wellenritt"
+  },
+  {
+    "index": 701,
+    "flags": 0,
+    "text": "Schluss mit lustig"
+  },
+  {
+    "index": 702,
+    "flags": 0,
+    "text": "Macht der Neun"
+  },
+  {
+    "index": 703,
+    "flags": 0,
+    "text": "Supernova des Ursprungs"
+  },
+  {
+    "index": 704,
+    "flags": 0,
+    "text": "Panzerfalle"
+  },
+  {
+    "index": 705,
+    "flags": 0,
+    "text": "Kanonenbouquet"
+  },
+  {
+    "index": 706,
+    "flags": 0,
+    "text": "Psychobei\u00DFer"
+  },
+  {
+    "index": 707,
+    "flags": 0,
+    "text": "Fruststampfer"
+  },
+  {
+    "index": 708,
+    "flags": 0,
+    "text": "Schattenknochen"
+  },
+  {
+    "index": 709,
+    "flags": 0,
+    "text": "Turbofelsen"
+  },
+  {
+    "index": 710,
+    "flags": 0,
+    "text": "Aquadurchsto\u00DF"
+  },
+  {
+    "index": 711,
+    "flags": 0,
+    "text": "Prisma-Laser"
+  },
+  {
+    "index": 712,
+    "flags": 0,
+    "text": "Diebesschatten"
+  },
+  {
+    "index": 713,
+    "flags": 0,
+    "text": "Stahlgestirn"
+  },
+  {
+    "index": 714,
+    "flags": 0,
+    "text": "Schattenstrahl"
+  },
+  {
+    "index": 715,
+    "flags": 0,
+    "text": "Tr\u00E4nendr\u00FCse"
+  },
+  {
+    "index": 716,
+    "flags": 0,
+    "text": "Elektropikser"
+  },
+  {
+    "index": 717,
+    "flags": 0,
+    "text": "Naturzorn"
+  },
+  {
+    "index": 718,
+    "flags": 0,
+    "text": "Multi-Angriff"
+  },
+  {
+    "index": 719,
+    "flags": 0,
+    "text": "Tausendfacher Donnerblitz"
+  },
+  {
+    "index": 720,
+    "flags": 0,
+    "text": "Knallkopf"
+  },
+  {
+    "index": 721,
+    "flags": 0,
+    "text": "Plasmaf\u00E4uste"
+  },
+  {
+    "index": 722,
+    "flags": 0,
+    "text": "Photonen-Geysir"
+  },
+  {
+    "index": 723,
+    "flags": 0,
+    "text": "Licht des Erl\u00F6schens"
+  },
+  {
+    "index": 724,
+    "flags": 0,
+    "text": "Schmetternde Sonnenwalze"
+  },
+  {
+    "index": 725,
+    "flags": 0,
+    "text": "Geballter Mondlaser"
+  },
+  {
+    "index": 726,
+    "flags": 0,
+    "text": "Herzliche Knuddelkloppe"
+  },
+  {
+    "index": 727,
+    "flags": 0,
+    "text": "Fataler Steinregen"
+  },
+  {
+    "index": 728,
+    "flags": 0,
+    "text": "Rasselnder Seelentanz"
+  },
+  {
+    "index": 729,
+    "flags": 0,
+    "text": "Britzelturbo"
+  },
+  {
+    "index": 730,
+    "flags": 0,
+    "text": "Pl\u00E4tschersurfer"
+  },
+  {
+    "index": 731,
+    "flags": 0,
+    "text": "Schwebesturz"
+  },
+  {
+    "index": 732,
+    "flags": 0,
+    "text": "Pika-Flash"
+  },
+  {
+    "index": 733,
+    "flags": 0,
+    "text": "Blubbsauger"
+  },
+  {
+    "index": 734,
+    "flags": 0,
+    "text": "Knisterladung"
+  },
+  {
+    "index": 735,
+    "flags": 0,
+    "text": "Flackerbrand"
+  },
+  {
+    "index": 736,
+    "flags": 0,
+    "text": "Pulsieraura"
+  },
+  {
+    "index": 737,
+    "flags": 0,
+    "text": "Qu\u00E4lzone"
+  },
+  {
+    "index": 738,
+    "flags": 0,
+    "text": "Sprie\u00DFbomben"
+  },
+  {
+    "index": 739,
+    "flags": 0,
+    "text": "Klirrfrost"
+  },
+  {
+    "index": 740,
+    "flags": 0,
+    "text": "Glitzersturm"
+  },
+  {
+    "index": 741,
+    "flags": 0,
+    "text": "Evo-Crash"
+  },
+  {
+    "index": 742,
+    "flags": 0,
+    "text": "Panzerf\u00E4uste"
+  },
+  {
+    "index": 743,
+    "flags": 0,
+    "text": "Dyna-Wall"
+  },
+  {
+    "index": 744,
+    "flags": 0,
+    "text": "Dynamax-Kanone"
+  },
+  {
+    "index": 745,
+    "flags": 0,
+    "text": "Pr\u00E4zisionsschuss"
+  },
+  {
+    "index": 746,
+    "flags": 0,
+    "text": "Fesselbiss"
+  },
+  {
+    "index": 747,
+    "flags": 0,
+    "text": "Backenstopfer"
+  },
+  {
+    "index": 748,
+    "flags": 0,
+    "text": "Finalformation"
+  },
+  {
+    "index": 749,
+    "flags": 0,
+    "text": "Teerschuss"
+  },
+  {
+    "index": 750,
+    "flags": 0,
+    "text": "Magiepuder"
+  },
+  {
+    "index": 751,
+    "flags": 0,
+    "text": "Drachenpfeile"
+  },
+  {
+    "index": 752,
+    "flags": 0,
+    "text": "Teatime"
+  },
+  {
+    "index": 753,
+    "flags": 0,
+    "text": "Octoklammer"
+  },
+  {
+    "index": 754,
+    "flags": 0,
+    "text": "Schockschnabel"
+  },
+  {
+    "index": 755,
+    "flags": 0,
+    "text": "Kiemenbiss"
+  },
+  {
+    "index": 756,
+    "flags": 0,
+    "text": "Seitenwechsel"
+  },
+  {
+    "index": 757,
+    "flags": 0,
+    "text": "Dyna-Brand"
+  },
+  {
+    "index": 758,
+    "flags": 0,
+    "text": "Dyna-Schwarm"
+  },
+  {
+    "index": 759,
+    "flags": 0,
+    "text": "Dyna-Gewitter"
+  },
+  {
+    "index": 760,
+    "flags": 0,
+    "text": "Dyna-Angriff"
+  },
+  {
+    "index": 761,
+    "flags": 0,
+    "text": "Dyna-Faust"
+  },
+  {
+    "index": 762,
+    "flags": 0,
+    "text": "Dyna-Spuk"
+  },
+  {
+    "index": 763,
+    "flags": 0,
+    "text": "Dyna-Frost"
+  },
+  {
+    "index": 764,
+    "flags": 0,
+    "text": "Dyna-Giftschwall"
+  },
+  {
+    "index": 765,
+    "flags": 0,
+    "text": "Dyna-Flut"
+  },
+  {
+    "index": 766,
+    "flags": 0,
+    "text": "Dyna-D\u00FCse"
+  },
+  {
+    "index": 767,
+    "flags": 0,
+    "text": "Dyna-Zauber"
+  },
+  {
+    "index": 768,
+    "flags": 0,
+    "text": "Dyna-Wyrm"
+  },
+  {
+    "index": 769,
+    "flags": 0,
+    "text": "Dyna-Kinese"
+  },
+  {
+    "index": 770,
+    "flags": 0,
+    "text": "Dyna-Brocken"
+  },
+  {
+    "index": 771,
+    "flags": 0,
+    "text": "Dyna-Erdsto\u00DF"
+  },
+  {
+    "index": 772,
+    "flags": 0,
+    "text": "Dyna-Dunkel"
+  },
+  {
+    "index": 773,
+    "flags": 0,
+    "text": "Dyna-Flora"
+  },
+  {
+    "index": 774,
+    "flags": 0,
+    "text": "Dyna-Stahlzacken"
+  },
+  {
+    "index": 775,
+    "flags": 0,
+    "text": "Seelentanz"
+  },
+  {
+    "index": 776,
+    "flags": 0,
+    "text": "Body Press"
+  },
+  {
+    "index": 777,
+    "flags": 0,
+    "text": "Verzierung"
+  },
+  {
+    "index": 778,
+    "flags": 0,
+    "text": "Trommelschl\u00E4ge"
+  },
+  {
+    "index": 779,
+    "flags": 0,
+    "text": "Fangeisen"
+  },
+  {
+    "index": 780,
+    "flags": 0,
+    "text": "Feuerball"
+  },
+  {
+    "index": 781,
+    "flags": 0,
+    "text": "Gigantenhieb"
+  },
+  {
+    "index": 782,
+    "flags": 0,
+    "text": "Gigantensto\u00DF"
+  },
+  {
+    "index": 783,
+    "flags": 0,
+    "text": "Aura-Rad"
+  },
+  {
+    "index": 784,
+    "flags": 0,
+    "text": "Breitseite"
+  },
+  {
+    "index": 785,
+    "flags": 0,
+    "text": "Zweigsto\u00DF"
+  },
+  {
+    "index": 786,
+    "flags": 0,
+    "text": "Overdrive"
+  },
+  {
+    "index": 787,
+    "flags": 0,
+    "text": "Apfels\u00E4ure"
+  },
+  {
+    "index": 788,
+    "flags": 0,
+    "text": "Gravitation"
+  },
+  {
+    "index": 789,
+    "flags": 0,
+    "text": "Seelenbruch"
+  },
+  {
+    "index": 790,
+    "flags": 0,
+    "text": "Wunderdampf"
+  },
+  {
+    "index": 791,
+    "flags": 0,
+    "text": "Lebenstropfen"
+  },
+  {
+    "index": 792,
+    "flags": 0,
+    "text": "Abblocker"
+  },
+  {
+    "index": 793,
+    "flags": 0,
+    "text": "Kniefalltrick"
+  },
+  {
+    "index": 794,
+    "flags": 0,
+    "text": "Sternensturm"
+  },
+  {
+    "index": 795,
+    "flags": 0,
+    "text": "Unendynastrahlen"
+  },
+  {
+    "index": 796,
+    "flags": 0,
+    "text": "Stahlstrahl"
+  },
+  {
+    "index": 797,
+    "flags": 0,
+    "text": "Fl\u00E4chenmacht"
+  },
+  {
+    "index": 798,
+    "flags": 0,
+    "text": "Eisenwalze"
+  },
+  {
+    "index": 799,
+    "flags": 0,
+    "text": "Schuppenschuss"
+  },
+  {
+    "index": 800,
+    "flags": 0,
+    "text": "Meteorstrahl"
+  },
+  {
+    "index": 801,
+    "flags": 0,
+    "text": "Muschelwaffe"
+  },
+  {
+    "index": 802,
+    "flags": 0,
+    "text": "Nebelexplosion"
+  },
+  {
+    "index": 803,
+    "flags": 0,
+    "text": "Grasrutsche"
+  },
+  {
+    "index": 804,
+    "flags": 0,
+    "text": "Hochspannung"
+  },
+  {
+    "index": 805,
+    "flags": 0,
+    "text": "Feldimpuls"
+  },
+  {
+    "index": 806,
+    "flags": 0,
+    "text": "Krabbelkracher"
+  },
+  {
+    "index": 807,
+    "flags": 0,
+    "text": "Neidflammen"
+  },
+  {
+    "index": 808,
+    "flags": 0,
+    "text": "Frustventil"
+  },
+  {
+    "index": 809,
+    "flags": 0,
+    "text": "Poltergeist"
+  },
+  {
+    "index": 810,
+    "flags": 0,
+    "text": "Korrosionsgas"
+  },
+  {
+    "index": 811,
+    "flags": 0,
+    "text": "Coaching"
+  },
+  {
+    "index": 812,
+    "flags": 0,
+    "text": "Rollwende"
+  },
+  {
+    "index": 813,
+    "flags": 0,
+    "text": "Dreifach-Axel"
+  },
+  {
+    "index": 814,
+    "flags": 0,
+    "text": "Doppelfl\u00FCgel"
+  },
+  {
+    "index": 815,
+    "flags": 0,
+    "text": "Brandsand"
+  },
+  {
+    "index": 816,
+    "flags": 0,
+    "text": "Dschungelheilung"
+  },
+  {
+    "index": 817,
+    "flags": 0,
+    "text": "Finstertreffer"
+  },
+  {
+    "index": 818,
+    "flags": 0,
+    "text": "Trefferschwall"
+  },
+  {
+    "index": 819,
+    "flags": 0,
+    "text": "Blitzgef\u00E4ngnis"
+  },
+  {
+    "index": 820,
+    "flags": 0,
+    "text": "Drachenkr\u00E4fte"
+  },
+  {
+    "index": 821,
+    "flags": 0,
+    "text": "Eisiger Blick"
+  },
+  {
+    "index": 822,
+    "flags": 0,
+    "text": "Brennender Zorn"
+  },
+  {
+    "index": 823,
+    "flags": 0,
+    "text": "Donnernder Tritt"
+  },
+  {
+    "index": 824,
+    "flags": 0,
+    "text": "Blizzardlanze"
+  },
+  {
+    "index": 825,
+    "flags": 0,
+    "text": "Astralfragmente"
+  },
+  {
+    "index": 826,
+    "flags": 0,
+    "text": "Schauderspruch"
+  }
+]

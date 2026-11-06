@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa. Tu sei [VAR 0100(0000)], vero?\\c\\nLa Coppa Campione sta finalmente per\\ncominciare e ora ti spiegher\u00F2 come funziona.\\c\\nLa competizione inizia con il Torneo delle\\nSemifinali in cui si affrontano gli Allenatori\\r\\nche hanno superato la Sfida delle Palestre.\\c\\nSe superi le semifinali, dovrai affrontare il Torneo\\ndelle Finali in cui affronterai i sette migliori\\r\\nCapipalestra di Galar.\\c\\nSe vinci anche le Finali ti guadagnerai il diritto di\\ndisputare il Match con il Campione, vale a dire\\r\\nla finalissima contro il Campione in persona!"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Entra in campo, l\u2019incontro inizier\u00E0 a breve."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Il tuo sfidante \u00E8 gi\u00E0 allo stadio che ti aspetta!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ah, ma sei tu... Beh, buona fortuna.\\c\\nNon ti illudere, per\u00F2. Sar\u00E0 Mary a vincere![VAR 0114(0043)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Noi del Team Yell faremo sempre il tifo\\nper la signorina Mary![VAR 0114(0044)]"
+  }
+]

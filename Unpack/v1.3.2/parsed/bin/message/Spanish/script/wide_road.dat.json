@@ -1,0 +1,1652 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Este nido est\u00E1 vac\u00EDo..."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Este nido est\u00E1 vac\u00EDo... \u00BFQuieres lanzar [VAR 1702(0000,0000)]\\n[VAR 0109(0000)] en su interior?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00A1Has arrojado [VAR 1702(0000,0000)][VAR 0109(0000)]\\ndentro del nido!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Esperando a otros jugadores..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Te has adentrado en el nido!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Es [VAR 0100(0000)]!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Es [VAR 0100(0000)]! Parece que est\u00E1 buscando\\na jugadores para una incursi\u00F3n."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ver Tarjeta de Liga"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Participar en la incursi\u00F3n"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Cancelar"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Ver la Tarjeta de Liga de [VAR 0100(0000)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Ohay\u014D!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Konnichiwa!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Konbanwa!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Good morning!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Good afternoon!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Good evening!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Bonjour !"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Salut !"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Bonsoir !"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Buongiorno!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Ciao!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Buonasera!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Guten Morgen!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Guten Tag!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Guten Abend!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00A1Buenos d\u00EDas!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1Buenas tardes!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1Buenas noches!"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Annyeong haseyo!"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Annyeong haseyo!"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Annyeong haseyo!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "N\u01D0 z\u01CEo!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "N\u01D0 h\u01CEo!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "W\u01CEn sh\u00E0ng h\u01CEo!"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "N\u01D0 z\u01CEo!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "N\u01D0 h\u01CEo!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "N\u01D0 h\u01CEo!"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Encontr\u00E9 esto hace tres d\u00EDas. \u00A1Para ti!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Con tres d\u00EDas ya tiene su historia, \u00A1as\u00ED que\\ncu\u00EDdalo muy bien!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Me he encontrado esto en el bolsillo. Si lo\\nquieres, es todo tuyo."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "C\u00F3mo ha llegado a mi bolsillo es todo un\\nmisterio..."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1Esto cay\u00F3 de pronto del cielo! Creo que es\\nmejor que te lo quedes t\u00FA."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Me dio tal golpe en la cabeza que ahora tengo\\nun chich\u00F3n enorme."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Me he encontrado esto enterrado en el suelo.\\n\u00BFLo quieres? \u00A1Pues para ti!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Antes me tropec\u00E9 con eso y me ca\u00ED de bruces\\ncontra el suelo, \u00A1as\u00ED que no lo quiero!"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Esto lo llevaba uno de los Pok\u00E9mon que atrap\u00E9.\\n\u00A1Te lo doy!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00BFT\u00FA crees que a los Pok\u00E9mon les gustan estas\\ncosas?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00A1Tengo un objeto la mar de chulo! Y te lo regalo\\nporque soy la generosidad personificada."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1Que no vea yo que le das mal uso al objeto tan\\nchulo que te he dado!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00BFSabes si hay algo de inter\u00E9s por all\u00ED?"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1Este sitio es enorme! \u00A1Solo con verlo me entran\\nganas de echar a correr!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00A1Voy a encontrar mogoll\u00F3n de Pok\u00E9mon!"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Anda, \u00A1hola de nuevo! \u00BFC\u00F3mo va la cosa?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[~ 54]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[~ 55]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Llevo un buen rato buscando a alguien para\\ncombatir, pero no ha habido suerte...\\c\\n\u00BFTe gustar\u00EDa ser mi adversari[VAR 1100(00FF,0101)]oa? \u00A1Te advierto de\\nque soy superfuerte!\\c\\nAunque, todo hay que decirlo, si me ganas te\\nllevar\u00E1s una buena recompensa."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u00A1Pues resulta que eres m\u00E1s fuerte que yo!\\nComo premio voy a darte un consejo.\\c\\nCuando andes cort[VAR 1100(00FF,0101)]oa de dinero, puedes\\nrecorrerte el \u00C1rea Silvestre en busca de objetos\\r\\nperdidos para luego venderlos y sacar un buen\\r\\npellizco."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u00A1Entrenar\u00E9 como loca y me har\u00E9 m\u00E1s fuerte!\\nLa pr\u00F3xima vez no te lo pondr\u00E9 tan f\u00E1cil."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Pues como estoy de muy buen humor por haber\\nganado, \u00A1voy a darte un consejo!\\c\\nCuando andes cort[VAR 1100(00FF,0101)]oa de dinero, puedes\\nrecorrerte el \u00C1rea Silvestre en busca de objetos\\r\\nperdidos para luego venderlos y sacar un buen\\r\\npellizco."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u00A1Hola! \u00BFTe gustar\u00EDa comprarme un objeto\\nbastante raro que me he encontrado en el \u00C1rea\\r\\nSilvestre por tan solo [VAR 0200(0000)] vatio[VAR 1101(0000,0100)]s?"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "\u00A1Perfecto! Me alegra haber llegado a un acuerdo.\\nEspero que te resulte \u00FAtil en tus aventuras."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1Pasear por el \u00C1rea Silvestre es una aut\u00E9ntica\\ngozada!\\c\\n\u00BFSab\u00EDas que en las Incursiones Dinamax puedes\\nconseguir algunos objetos m\u00E1s f\u00E1cilmente?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1Ja, ja, ja! No te culpo, ni siquiera te he dicho\\nqu\u00E9 objeto es.\\c\\nPero te prometo que no es nada raro. Si cambias\\nde idea, vuelve a verme."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "\u00A1He pescado un tesoro incre\u00EDble!\\c\\nPero estoy dispuesta a deshacerme de \u00E9l por el\\nm\u00F3dico precio de [VAR 0203(0000,202F)] vatio[VAR 1101(0000,0100)]s. \u00BFQu\u00E9 me dices?"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Fant\u00E1stico. Ah\u00ED tienes, el tesoro prometido."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Siguiente objetivo: \u00A1pescar algo a\u00FAn m\u00E1s gordo!"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "\u00A1\u00BFC\u00F3mo?! \u00A1Un tesoro as\u00ED no se ve todos los d\u00EDas!\\nLo sabes, \u00BFno?"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "\u00A1Vamos a combatir, venga!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Vaya, una l\u00E1stima."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00A1No tienes suficientes vatios! Si inspeccionas los\\nnidos que brillan, puede que encuentres algunos."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "A m\u00ED no me vas a hacer morder el anzuelo.\\n\u00A1Vuelve cuando tengas m\u00E1s vatios!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u00A1Una gran cantidad de energ\u00EDa emana del nido!"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Una peque\u00F1a cantidad de energ\u00EDa emana del\\nnido..."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "\u00A1Has conseguido [VAR 0204(0000,202F)] vatio[VAR 1101(0000,0100)]s!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u00A1Saludos! Somos los hermanos Pozuelo.\\c\\nNos dedicamos a desenterrar los tesoros que se\\nocultan bajo nuestros pies."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00A1Ha tenido que ser el destino lo que te ha tra\u00EDdo\\nhasta nosotros!\\c\\nA cambio de unos pocos vatios, buscaremos\\ntesoros enterrados para ti."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00A1Nas! Yo soy un hacha en lo que se refiere a\\nresistencia, pero si lo que quieres es precisi\u00F3n,\\r\\nser\u00E1 mejor que hables con mi hermano.\\c\\nPuedo buscarte tesoros por [VAR 0204(0001,202F)] vatio[VAR 1101(0001,0100)]s, \u00A1pero\\nantes tendr\u00E1s que guardar la partida! \u00BFVale?"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00A1Nas! Yo soy un fiera en lo que se refiere a\\nprecisi\u00F3n, pero si lo que quieres es resistencia,\\r\\nser\u00E1 mejor que hables con mi hermano.\\c\\nPuedo buscarte tesoros por [VAR 0204(0001,202F)] vatio[VAR 1101(0001,0100)]s, \u00A1pero\\nantes tendr\u00E1s que guardar la partida! \u00BFVale?"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00A1Se agradece!\\n\u00A1Manos a la tierra, pues!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "\u00A1Se agradece!\\n\u00A1Ver\u00E1s qu\u00E9 buenos tesoros desentierro!"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00BFOh? \u00A1Bueno, no pasa nada!\\nQue no te d\u00E9 apuro volver si cambias de idea."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFOh? \u00A1Bueno, no pasa nada!\\n\u00A1Vuelve cuando quieras!"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u00A1He desenterrado [VAR 1702(0000,0000)][VAR 0109(0000)]\\npara ti!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00BFQuieres que siga excavando?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00A1Podr\u00EDa haber llegado m\u00E1s profundo! Pero si t\u00FA\\nme dices que pare, yo paro."
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Estoy sin aliento... Ahora mismo estoy agotado."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1He encontrado ni m\u00E1s ni menos que [VAR 0202(0000)] tesoro[VAR 1101(0000,0100)]s\\npara ti! Gu\u00E1rdalo[VAR 1101(0000,0100)]s como oro en pa\u00F1o."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u00BFHm? \u00A1Pero si no te llegan los vatios!\\c\\nSer\u00E1 mejor que te patees el \u00C1rea Silvestre en\\nbusca de nidos para conseguir m\u00E1s."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "\u00A1A\u00FAn no he llegado a mi l\u00EDmite!\\n\u00A1\u00A1Puedo seguir excavando!!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "R\u00E9cords"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Mi r\u00E9cord es de [VAR 0202(0000)]. \u00BFTe dije que era un hacha\\nde la resistencia o no?"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Mi r\u00E9cord es de [VAR 0202(0000)]. \u00BFTe dije que era un fiera\\nde la precisi\u00F3n o qu\u00E9?"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Madre del amor hermoso, \u00A1menuda rareza\\ntenemos aqu\u00ED!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "\u00A1Hola! Cuando tus Pok\u00E9mon est\u00E9n agotados, te\\nrecomiendo acampar y descansar un poco.\\c\\nPodr\u00E1s cocinar deliciosos platos que repondr\u00E1n\\nlas fuerzas de tus Pok\u00E9mon en un periquete.\\c\\nPara cocinar necesitar\u00E1s bayas, pero son muy\\nf\u00E1ciles de conseguir: tan solo tienes que sacudir\\r\\nlos \u00E1rboles de bayas como ese que ves ah\u00ED.\\c\\nO tambi\u00E9n puedes compr\u00E1rmelas a m\u00ED si te\\nresulta m\u00E1s f\u00E1cil. \u00A1Solo tengo ingredientes frescos\\r\\nde la mejor calidad y a precios muy asequibles!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00BFQuieres que te acompa\u00F1e hasta alguna de las\\nciudades?"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Ciudad Pist\u00F3n"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Ciudad Artejo"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "No, gracias"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Muy bien, \u00A1s\u00EDgueme!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "\u00A1Ya hemos llegado! Vuelve al \u00C1rea Silvestre\\ncuando hayas entrenado un poco m\u00E1s."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Cuando tus Pok\u00E9mon no se encuentren bien,\\npuedes acampar y preparar deliciosos platos.\\c\\n\u00A1Ya ver\u00E1s como reponen fuerzas en un pisp\u00E1s!"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "\u00A1Has encontrado una nota!\\c\\nEn el \u00C1rea Silvestre encontrar\u00E1s Pok\u00E9mon muy\\ngrandes y fuertes. Si ves que tienes pocas\\r\\nposibilidades de vencerlos en combate, \u00A1ser\u00E1\\r\\nmejor que pongas pies en polvorosa!"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "\u00A1Has encontrado una nota!\\c\\nSi montas un campamento, podr\u00E1s preparar\\nplatos muy nutritivos que restaurar\u00E1n los PS\\r\\ny los PP de tus Pok\u00E9mon o que los dejar\u00E1n\\r\\ncomo nuevos si se han debilitado.\\c\\n\u00A1Sacude todos los \u00E1rboles de bayas que te\\nencuentres para conseguir un mont\u00F3n de bayas\\r\\nque podr\u00E1s a\u00F1adir a tus deliciosas recetas!"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "\u00BFQuieres que tu[VAR 1101(00FD,0100)]s Pok\u00E9mon descanse[VAR 1101(00FD,0100)]n y se\\nrecupere[VAR 1101(00FD,0100)]n por completo?"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "\u00A1Bienvenid[VAR 1100(00FF,0101)]oa!\\n\u00BFEn qu\u00E9 puedo ayudarte?"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "\u00BFTe diriges a Ciudad Pist\u00F3n?\\c\\nSe encuentra a mano derecha tras remontar esta\\ncuesta. Cuando veas la muralla, busca las\\r\\nescaleras de acceso."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "\u00BFQui\u00E9n se viene conmigo a esta Incursi\u00F3n\\nDinamax?\\c\\n\u00A1Apuntaos a trav\u00E9s de la Conexi\u00F3n Y!"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "\u00A1Has encontrado una nota!\\c\\nCuando te encuentres en el \u00C1rea Silvestre,\\nmueve la palanca derecha para controlar la\\r\\nc\u00E1mara o p\u00FAlsala para alejarla y ver mejor tus\\r\\nalrededores.\\c\\nPulsa el bot\u00F3n L para situar la c\u00E1mara detr\u00E1s del\\npersonaje."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "\u00A1Has encontrado una nota!\\c\\nEn el \u00C1rea Silvestre abunda una forma de energ\u00EDa\\nconocida como vatios (W). Cuando veas que un\\r\\nbrillo envuelve un nido Pok\u00E9mon o a un Pok\u00E9mon\\r\\nsalvaje, \u00A1significa que podr\u00E1s agenciarte algunos\\r\\nvatios!\\c\\nAlgunos Entrenadores del \u00C1rea Silvestre estar\u00E1n\\ndispuestos a canjear diversos objetos por vatios."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Hay algo escrito en este antiguo pedestal.\\n\u00BFQuieres leerlo?"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "7 de mayo\\nNuestras antes exuberantes tierras son ahora un\\np\u00E1ramo yermo y desolado donde la vegetaci\u00F3n\\nse marchita y las cosechas no prosperan. Se ha\\nvuelto una tierra fr\u00EDa de nieves v\u00EDrgenes."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Hace pocos d\u00EDas apareci\u00F3 entre las nieves un\\nPok\u00E9mon que portaba una corona. Su aspecto\\ncansado y magullado conmovi\u00F3 a las gentes de\\nla villa, as\u00ED que lo hemos acogido para curarle\\nlas heridas."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "18 de agosto\\nGracias a los remedios de nuestros ancestros,\\nel misterioso invitado se ha recuperado. El gesto\\nde abrir las manos le infunde temor, por lo que\\ncerramos los pu\u00F1os en su presencia."
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Al recobrar las fuerzas, una radiante luz azul\\ncomenz\u00F3 a manar de su interior y, como por arte\\nde magia, nuestros campos prosperan de nuevo.\\nSuponemos que es su forma de agradecernos\\nnuestra hospitalidad."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "30 de noviembre\\nLa villa est\u00E1 recuperando el verdor y la lozan\u00EDa\\nde anta\u00F1o. La tierra vuelve a la vida y las semillas\\ngerminan por doquier. A ojos de los lugare\u00F1os,\\nnuestro misterioso visitante es ahora todo un rey."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Hace tiempo que una misteriosa criatura acecha\\nnuestras cosechas, mas el rey, completamente\\nrepuesto, un d\u00EDa habl\u00F3 nuestra lengua y declar\u00F3\\nque reprender\u00EDa con firmeza al ladr\u00F3n."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "2 de enero\\nLa desbocada criatura se postr\u00F3 ante nuestro rey\\ny se ha convertido en su amado corcel. Nuestras\\ngentes poseen ahora una fe ciega en el rey."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Hemos erigido un templo en torno a la pl\u00E1ntula\\ndel \u00E1rbol sagrado en la alta monta\u00F1a, venerada\\npor nuestros ancestros, en honor a nuestro rey.\\nPara afianzar la uni\u00F3n con su corcel, tambi\u00E9n\\nhemos depositado unas riendas como ofrenda."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "21 de abril\\nNuestro rey ha propiciado una op\u00EDpara cosecha\\nen estos lares nevados y yermos desde tiempos\\ninmemoriales. La Meseta de la Corona estar\u00E1\\neternamente en deuda con \u00E9l."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Mientras no se rompa el fuerte v\u00EDnculo que une a\\nnuestras gentes con su rey, estas tierras seguir\u00E1n\\nproduciendo abundantes cosechas e inundando\\nel paisaje de verdor y lozan\u00EDa."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[~ 126]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "\u00A1He encontrado un Pok\u00E9mon incre\u00EDble!\\c\\nTe lo ense\u00F1o si me das [VAR 0203(0000,0000)] W."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "\u00A1\u00BFVas a dejar pasar esta oportunidad?!\\nMira que como luego te arrepientas..."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "\u00A1Vas a ver qu\u00E9 Pok\u00E9mon tan genial!"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "\u00A1\u00BFA que ten\u00EDa raz\u00F3n?!\\c\\nSeg\u00FAn el tiempo que haga, encontrar\u00E1s unos\\nPok\u00E9mon u otros, as\u00ED que es bueno salir a diario."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Vaya, \u00A1no te llegan los vatios!\\nVuelve cuando tengas m\u00E1s."
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Hab\u00E9is ca\u00EDdo derrotados antes de completar el\\nadiestramiento... Perm\u00EDteme que cure a Kubfu."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "\u00A1Kubfu ya est\u00E1 en plena forma!\\c\\nTe deseo mucha suerte en la Torre de las Aguas.\\n\u00A1Yo s\u00E9 que puedes!"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Vamos a devolverle la energ\u00EDa a tu equipo\\nPok\u00E9mon."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,1210)] Pok\u00E9mon ya est\u00E1s Pok\u00E9mon ya est\u00E1n en plena forma.\\n\u00A1Te deseo suerte!"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Hab\u00E9is ca\u00EDdo derrotados antes de completar el\\nadiestramiento... Perm\u00EDteme que cure a Kubfu."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "\u00A1Kubfu ya est\u00E1 en plena forma!\\c\\nTe deseo mucha suerte en la Torre de las\\nSombras. \u00A1Yo s\u00E9 que puedes!"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Vamos a devolverle la energ\u00EDa a tu equipo\\nPok\u00E9mon."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,1210)] Pok\u00E9mon ya est\u00E1s Pok\u00E9mon ya est\u00E1n en plena forma.\\n\u00A1Te deseo suerte!"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,100E)] Pok\u00E9mon se has Pok\u00E9mon se han quedado sin fuerzas!\\nSer\u00E1 mejor que lo[VAR 1101(00FD,0100)]s dejes descansar en el dojo."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,1210)] Pok\u00E9mon ya est\u00E1s Pok\u00E9mon ya est\u00E1n en plena forma!"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,100E)] Pok\u00E9mon se has Pok\u00E9mon se han quedado sin fuerzas! Ser\u00E1\\nmejor que lo[VAR 1101(00FD,0100)]s dejes descansar en la posada."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,1210)] Pok\u00E9mon ya est\u00E1s Pok\u00E9mon ya est\u00E1n en plena forma!"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "\u00A1Hola, caracola! \u00BFTe gustan los bonguris?\\n\u00A1Porque he encontrado un mont\u00F3n!\\c\\nLos cambio por [VAR 0203(0000,0000)] W cada uno. \u00BFQuieres?"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "\u00BFNo quieres mis bonguris?\\n\u00A1Con lo que cuesta encontrarlos!"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "\u00A1Aqu\u00ED tienes! \u00A1Mira qu\u00E9 hermosura!"
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "El Cramobot es una m\u00E1quina prodigiosa que se\\nencuentra en el dojo.\\c\\nSi le metes cuatro bonguris, \u00A1es posible que te\\ncree una Pok\u00E9 Ball de lo m\u00E1s rara!"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "\u00A1Lo siento, pero no te llegan los vatios! Re\u00FAne\\nalgunos m\u00E1s y te dar\u00E9 los bonguris que quieras."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Todos los j\u00F3venes se han ido a las grandes\\nciudades.\\c\\nAqu\u00ED ya solo quedamos gente mayor con\\nnuestros Pok\u00E9mon, y nos las tenemos que\\r\\napa\u00F1ar como bien podemos..."
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "En la villa somos autosuficientes.\\c\\n\u00A1Tan solo cultivamos lo que nos comemos y no\\ndesperdiciamos ni un solo recurso!"
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "El truco para caminar por el hielo es pisar con\\nfirmeza con toda la planta del pie y hundirlo un\\r\\npoquito. Ver\u00E1s como as\u00ED no te resbalas."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Cada a\u00F1o se hace m\u00E1s duro aguantar estas bajas\\ntemperaturas..."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Me temo que en esta villa no hay nada de\\ninter\u00E9s m\u00E1s all\u00E1 de esa vieja estatua...\\c\\nAun as\u00ED, \u00A1espero que te sientas como en casa!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "\u00BFYa has ido a ver la estatua del Rey de las\\nCosechas?[VAR 0114(007A)]"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Casa del alcalde"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Posada"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "La puerta est\u00E1 cerrada con llave, as\u00ED que no\\npuedes entrar de momento."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Hay una nota en la puerta.\\c\\n\u0022Estoy en el huerto del Lecho del Gigante.\\n                                            \u0336El alcalde\u0022"
+  },
+  {
+    "index": 160,
+    "flags": 4,
+    "text": "Es una estatua del Rey de las Cosechas.\\n\u00A1Tiene una corona muy grande!"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Hay una bandera grande y roja fijada al suelo."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "[~ 162]"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "[~ 163]"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[~ 164]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "[~ 165]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "[~ 166]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "[~ 167]"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "[~ 168]"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "[~ 169]"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "[~ 170]"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "[~ 171]"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "[~ 172]"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "[~ 173]"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "[~ 174]"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "[~ 175]"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "[~ 176]"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "[~ 177]"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "[~ 178]"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "[~ 179]"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "[~ 180]"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "[~ 181]"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "[~ 182]"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "[~ 183]"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "[~ 184]"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "[~ 185]"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "[~ 188]"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "[~ 189]"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "[~ 190]"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "[~ 191]"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "[~ 192]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "[~ 193]"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "[~ 194]"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "[~ 195]"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "[~ 196]"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "[~ 197]"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "[~ 198]"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "[~ 199]"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "[~ 200]"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "[~ 201]"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "[~ 202]"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "[~ 203]"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "[~ 204]"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "[~ 205]"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "[~ 206]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "[~ 207]"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "[~ 208]"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "[~ 209]"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "[~ 210]"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "[~ 211]"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "[~ 212]"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "[~ 213]"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "[~ 214]"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "[~ 215]"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "[~ 216]"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "[~ 217]"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "[~ 218]"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "[~ 219]"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "[~ 220]"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "[~ 221]"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "[~ 222]"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "[~ 223]"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "[~ 224]"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "[~ 225]"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "[~ 226]"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "[~ 227]"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "[~ 228]"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "[~ 229]"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "[~ 230]"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "[~ 231]"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "[~ 232]"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "[~ 233]"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "[~ 234]"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "[~ 235]"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "[~ 236]"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "[~ 237]"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "[~ 238]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[~ 239]"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "[~ 240]"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "[~ 242]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "[~ 243]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "[~ 261]"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "[~ 262]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[~ 263]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "[~ 264]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "[~ 265]"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[~ 267]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[~ 268]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[~ 269]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[~ 270]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "[~ 271]"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "[~ 273]"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "[~ 274]"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[~ 275]"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "[~ 276]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "[~ 277]"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "[~ 278]"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "[~ 279]"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "[~ 280]"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "[~ 281]"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "[~ 283]"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "[~ 284]"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "[~ 285]"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "[~ 286]"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "[~ 287]"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "[~ 288]"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "[~ 289]"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "[~ 290]"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "[~ 291]"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "[~ 292]"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "[~ 293]"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "[~ 294]"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "[~ 295]"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "[~ 296]"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "[~ 297]"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "[~ 298]"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "[~ 299]"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[~ 300]"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "[~ 301]"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "[~ 302]"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[~ 303]"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "[~ 304]"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "[~ 305]"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "[~ 306]"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "[~ 307]"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "[~ 308]"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "[~ 309]"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "[~ 310]"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "[~ 311]"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "[~ 312]"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "[~ 313]"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "[~ 314]"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "[~ 315]"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "[~ 316]"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "[~ 317]"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "[~ 318]"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "[~ 319]"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "[~ 320]"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "[~ 321]"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "[~ 322]"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "[~ 323]"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "[~ 324]"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "[~ 325]"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "[~ 326]"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "[~ 327]"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "[~ 328]"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "[~ 329]"
+  }
+]

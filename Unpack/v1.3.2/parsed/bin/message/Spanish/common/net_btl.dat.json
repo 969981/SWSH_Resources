@@ -1,0 +1,497 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Combate Individual"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Combate Doble"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Combate M\u00FAltiple"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Equipo A 1"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Equipo A 2"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Equipo B 1"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Equipo B 2"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Conectando...\\nEspera unos instantes."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00BFQuieres abandonar el combate?"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "El combate se da por finalizado, ya que alguno\\nde los participantes ha interrumpido la conexi\u00F3n.\\c"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Interrumpiendo la conexi\u00F3n..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Se elegir\u00E1 a la persona que establecer\u00E1 las reglas\\nde combate.\\c"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En los Combates M\u00FAltiples se decidir\u00E1n tambi\u00E9n\\nlos equipos.\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00BFQui\u00E9n quieres que establezca las reglas de\\ncombate?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Eligiendo qui\u00E9n establecer\u00E1 las reglas...\\nEspera unos instantes."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ha renunciado a establecer las\\nreglas."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] est\u00E1 fijando las reglas de\\ncombate."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Establece las reglas del combate.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00BFQuieres combatir con estas reglas?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFQuieres que otra persona se encargue de\\nestablecer las reglas?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Enviando reglas de combate...\\nEspera unos instantes."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Selecciona un equipo e inicia el combate."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00BFQuieres cancelar la selecci\u00F3n y establecer unas\\nreglas de combate distintas?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Comunicando tu rechazo a estas reglas de\\ncombate..."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Se seleccionar\u00E1n reglas de combate nuevas, ya\\nque al menos una persona no puede participar.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Si las reglas de combate actuales te impiden\\nparticipar, selecciona la opci\u00F3n \u0022Cambiar reglas\u0022.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Esperando a que todos los participantes est\u00E9n\\nlistos..."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Selecciona los Pok\u00E9mon participantes."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00BFQui\u00E9n ocupar\u00E1 la posici\u00F3n n.\u00BA [VAR 0200(0000)]?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Formando equipos...\\nEspera unos instantes."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00BFQuieres seguir jugando?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Esperando a que la otra persona se decida..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Se disputar\u00E1 un nuevo combate con las mismas\\nreglas.\\c"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Se disputar\u00E1 un nuevo combate con unas reglas\\ndistintas.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Yo"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Rival"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Seleccionar equipo"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Incapaz de participar"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00A1Que comience el combate!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Jugar con las mismas reglas"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Jugar con otras reglas"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Todos"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Selecci\u00F3n autom\u00E1tica"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": " Salir"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": " Ver detalles"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": " Terminado"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": " Comprobar"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": " Cambiar"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": " Consultar reglas"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Seleccionando..."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "\u00A1Listo!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Reglas normales"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Reglas de la Torre Batalla"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Sin restricciones"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Equipo participante"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]No seleccionado[VAR FF00(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "M\u00FAsica"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 01C3(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Selecciona tu equipo."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Se ha detectado un problema con las reglas de\\ncombate recibidas.\\c\\nSe seleccionar\u00E1n reglas de combate nuevas.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Las reglas de combate recibidas est\u00E1n da\u00F1adas.\\c\\nSe seleccionar\u00E1n reglas de combate nuevas.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00BFQuieres que otra persona se encargue de\\nestablecer las reglas?"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Enviando reglas de combate...\\nEspera unos instantes."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Se ha detectado un problema con las reglas de\\ncombate enviadas.\\c\\nSelecciona de nuevo las reglas de combate.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Las reglas de combate enviadas est\u00E1n da\u00F1adas.\\c\\nSelecciona de nuevo las reglas de combate.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Se seleccionar\u00E1n reglas de combate nuevas.\\c"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Se ha detectado un problema con el Equipo\\nde Combate elegido."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Se ha detectado un problema con el Equipo de\\nCombate de otro jugador."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "No es posible recibir la tarjeta de tu oponente\\nporque tu \u00E1lbum est\u00E1 lleno.\\c"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00BFQuieres recibir la Tarjeta de Liga de un\\noponente?"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Elige al oponente cuya tarjeta quieres recibir."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u00A1Tarjeta recibida!\\c"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00A1Tu \u00E1lbum est\u00E1 lleno! Ya no puedes recibir m\u00E1s\\ntarjetas.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00BFQuieres recibir la tarjeta de alguien m\u00E1s?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u00BFQuieres a\u00F1adir a [VAR 0100(0000)] a la lista de\\njugadores bloqueados?"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Ya has a\u00F1adido a esta persona a la lista de\\njugadores bloqueados.\\c"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "No podr\u00E1s volver a comunicarte con quienes\\na\u00F1adas a la lista de jugadores bloqueados.\\c\\n\u00BFQuieres a\u00F1adir a esta persona a la lista?\\n(Podr\u00E1s desbloquearla m\u00E1s adelante)."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Has a\u00F1adido a esta persona a la lista de\\njugadores bloqueados.\\c"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Selecciona a la persona que quieres a\u00F1adir a la\\nlista de jugadores bloqueados."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "\u00BFQuieres a\u00F1adir a alguien m\u00E1s a la lista?"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Selecciona el equipo que quieres utilizar."
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "Establece la formaci\u00F3n de los equipos."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Cambiar reglas"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "En este combate, otros jugadores podr\u00E1n ver el\\nmote de tus Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Salir"
+  }
+]

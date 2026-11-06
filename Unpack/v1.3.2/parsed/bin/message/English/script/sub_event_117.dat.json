@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Would you like me to see if your Pok\u00E9mon\\nare feeling friendly toward you?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Come back if you ever want to know!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon of yours would you like to\\nfind out about?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Let\u2019s see... You and [VAR 0102(0001)]..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Maybe you\u2019re a bit too strict?\\nIt doesn\u2019t seem like you\u2019re friends at all..."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I guess you two just met?\\nIt\u2019s still getting used to things."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Seems like it likes you an average amount!\\nDon\u2019t worry\u2014you two will get closer as\\r\\ntime passes!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Wow, I think you\u2019re on your way to becoming\\nreal good friends!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Seems like you\u2019re pretty good friends!\\nStill, I bet you could become even closer!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "You two get along great!\\nTogether is always better\u2014am I right?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "You two are almost best friends!\\nI can see you really care about each other!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Oh wow, you\u2019re best buddies!\\nI can tell you\u2019re so happy to be together!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Here, I\u2019ll give you this as a sign of\\nyour friendship!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] received a\\nBest Friends Ribbon!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "You\u2019re best buddies! That Best Friends Ribbon\\nlooks really good on you!"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Sol"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "El cielo est\u00E1 despejado y brilla el sol.\\nLa potencia de los movimientos de tipo Fuego\\naumenta y la de los de tipo Agua disminuye."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Lluvia"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Est\u00E1 lloviendo. La potencia de los movimientos\\nde tipo Agua aumenta y la de los de tipo Fuego\\ndisminuye."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Tormenta de arena"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Se ha desatado una tormenta de arena que\\ncausa da\u00F1o en cada turno a todos los Pok\u00E9mon\\nexcepto a los de tipo Roca, Tierra y Acero.\\nAdem\u00E1s, la Defensa Especial de los Pok\u00E9mon\\nde tipo Roca aumenta."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Granizo"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Est\u00E1 granizando. El granizo da\u00F1a en cada turno\\na todos los Pok\u00E9mon excepto a los de tipo Hielo."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Campo El\u00E9ctrico"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon que est\u00E1n\\nen el suelo no pueden dormirse. La potencia de\\nlos movimientos de tipo El\u00E9ctrico aumenta."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Campo de Hierba"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon que est\u00E1n\\nen el suelo recuperan algunos PS. La potencia\\nde los movimientos de tipo Planta aumenta."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Campo de Niebla"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon que est\u00E1n\\nen el suelo no sufren problemas de estado y los\\nmovimientos de tipo Drag\u00F3n causan la mitad del\\nda\u00F1o normal."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Espacio Raro"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon m\u00E1s lentos\\nse mueven antes que los m\u00E1s r\u00E1pidos."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Zona M\u00E1gica"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon no pueden\\nusar los objetos que llevan."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Zona Extra\u00F1a"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Durante cinco turnos, se intercambian los\\nvalores de Defensa y Defensa Especial de\\ntodos los Pok\u00E9mon."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "M\u00E1s cr\u00EDticos"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "El Pok\u00E9mon tiene m\u00E1s probabilidades de infligir\\ngolpes cr\u00EDticos."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Confusi\u00F3n"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "De uno a cuatro turnos, el Pok\u00E9mon corre el\\nriesgo de herirse a s\u00ED mismo."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Enamoramiento"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "El Pok\u00E9mon corre el riesgo de no poder atacar\\nal Pok\u00E9mon del sexo opuesto del que est\u00E1\\nenamorado."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Pesadilla"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "El Pok\u00E9mon pierde PS en cada turno mientras\\nest\u00E1 dormido."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Somnoliento"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "El Pok\u00E9mon se dormir\u00E1 al final del siguiente\\nturno."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Otra Vez"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Durante tres turnos, el Pok\u00E9mon solo puede\\nusar [VAR 0107(0000)]."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Habilidad anulada"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "La habilidad del Pok\u00E9mon ya no tiene efecto."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Tormento"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "El Pok\u00E9mon no puede utilizar el mismo\\nmovimiento dos veces seguidas."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Viento Af\u00EDn"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Durante cuatro turnos, se duplica la Velocidad\\nde todos los Pok\u00E9mon en el terreno de combate."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Conjuro"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Impide que los golpes que alcancen al Pok\u00E9mon\\nsean cr\u00EDticos."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Rabia"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Si el Pok\u00E9mon se debilita por un movimiento\\ndel oponente, los PP de dicho movimiento se\\nquedar\u00E1n a 0."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Anticura"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Durante cinco turnos, el Pok\u00E9mon no puede\\nrecuperar PS por efecto de movimientos,\\nhabilidades u objetos equipados."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Profec\u00EDa"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "El Pok\u00E9mon puede ser alcanzado por ciertos\\nmovimientos que habitualmente no le afectan.\\nSe ignoran las mejoras en la Evasi\u00F3n al recibir\\nun ataque."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Movimiento anulado"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Durante cuatro turnos, el Pok\u00E9mon no puede\\nusar [VAR 0107(0000)]."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Huida imposible"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "El Pok\u00E9mon no puede ni huir ni ser cambiado\\npor otro."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Blanco fijado"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "El pr\u00F3ximo movimiento que el Pok\u00E9mon utilice\\nacertar\u00E1 seguro."
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Embargo"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Durante cinco turnos, el Pok\u00E9mon no puede usar\\nel objeto que lleva. Su Entrenador tampoco\\npuede usar objetos con \u00E9l."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Carga"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Si el Pok\u00E9mon utiliza un movimiento de tipo\\nEl\u00E9ctrico en el turno siguiente, este tendr\u00E1 el\\ndoble de potencia."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Gravedad"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "La Evasi\u00F3n disminuye durante cinco turnos. Los\\nPok\u00E9mon de tipo Volador o con la habilidad\\nLevitaci\u00F3n pueden ser alcanzados por ataques\\nde tipo Tierra. No se pueden usar movimientos\\nen los que el Pok\u00E9mon se alce en el aire."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Neblina"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Durante cinco turnos, las caracter\u00EDsticas del\\nPok\u00E9mon no pueden ser reducidas por otros."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Velo Sagrado"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Durante cinco turnos, el Pok\u00E9mon no puede\\nsufrir problemas de estado."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Trampa Rocas"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Inflige da\u00F1o a los Pok\u00E9mon que salen al terreno\\nde combate."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Reserva"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "La Defensa y la Defensa Especial del Pok\u00E9mon\\naumentan mientras est\u00E9 acumulando energ\u00EDa."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Mofa"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "El Pok\u00E9mon solo puede usar movimientos que\\ncausen da\u00F1o."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Telequinesis"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Durante tres turnos, el Pok\u00E9mon levita en el\\naire y ser\u00E1 blanco de todos los movimientos,\\na excepci\u00F3n de los fulminantes. Sin embargo, no\\npodr\u00E1 ser alcanzado por movimientos de tipo\\nTierra."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Levit\u00F3n"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Durante cinco turnos, el Pok\u00E9mon no puede ser\\nalcanzado por movimientos de tipo Tierra."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "P\u00FAas T\u00F3xicas"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Envenena a los Pok\u00E9mon que salen al terreno de\\ncombate. No afecta a los Pok\u00E9mon de tipo\\nVolador o con la habilidad Levitaci\u00F3n."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Chapoteo Lodo"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Durante cinco turnos, la potencia de los\\nmovimientos de tipo El\u00E9ctrico se reduce a la\\nmitad."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Deseo"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Se recuperar\u00E1n PS en el turno siguiente tras\\nhaber utilizado Deseo."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Red Viscosa"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Cuando un Pok\u00E9mon es cambiado por otro, la\\nVelocidad del que acaba de salir al terreno de\\ncombate disminuye."
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Arraigo"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "El Pok\u00E9mon recupera PS al final de cada turno,\\npero no puede ser cambiado por otro."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Maldici\u00F3n"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "El Pok\u00E9mon pierde PS al final de cada turno."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "El Pok\u00E9mon adquiere el tipo Fantasma adem\u00E1s\\nde conservar sus propios tipos."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Pantalla de Luz"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Durante cinco turnos, la potencia de los ataques\\nespeciales recibidos se reduce a la mitad."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Reflejo"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Durante cinco turnos, la potencia de los ataques\\nf\u00EDsicos recibidos se reduce a la mitad."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Sellar"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Ning\u00FAn Pok\u00E9mon rival puede utilizar los\\nmovimientos que conoce el usuario de Sellar."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Cuenta atr\u00E1s"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Todos los Pok\u00E9mon que sufran este estado\\ncaer\u00E1n debilitados al cabo de tres turnos."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "P\u00FAas"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Inflige da\u00F1o a los Pok\u00E9mon que salen al terreno\\nde combate. No afecta a los Pok\u00E9mon de tipo\\nVolador o con la habilidad Levitaci\u00F3n."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Hidrochorro"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Durante cinco turnos, la potencia de los\\nmovimientos de tipo Fuego se reduce a la mitad."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Mismo Destino"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Si el Pok\u00E9mon se debilita por un ataque del\\noponente, este tambi\u00E9n se debilitar\u00E1."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Condena Silvana"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "El Pok\u00E9mon adquiere el tipo Planta adem\u00E1s de\\nconservar sus propios tipos."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Drenadoras"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Al final de cada turno, las semillas drenadoras\\nabsorben PS del Pok\u00E9mon infectado y los\\nrestauran al oponente."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Blanco fijado"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Los movimientos del oponente alcanzar\u00E1n\\nseguro al Pok\u00E9mon sobre el que ha fijado el\\nblanco."
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "Atadura"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "El Pok\u00E9mon sufre da\u00F1o en cada turno."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Venganza"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Durante dos turnos, el Pok\u00E9mon encaja los\\nataques del oponente para luego devolverle el\\ndoble del da\u00F1o recibido."
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Enfado"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "El Pok\u00E9mon ataca enfurecido durante dos o\\ntres turnos y despu\u00E9s se queda confuso."
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Enfurecido"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "El Pok\u00E9mon ataca enfurecido durante dos o\\ntres turnos y despu\u00E9s se queda confuso."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Danza P\u00E9talo"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "El Pok\u00E9mon ataca enfurecido durante dos o\\ntres turnos y despu\u00E9s se queda confuso."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Grav. envenenado"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "El Pok\u00E9mon est\u00E1 gravemente envenenado.\\nEl da\u00F1o recibido por el veneno aumenta en cada\\nturno."
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Ataque futuro"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "El Pok\u00E9mon est\u00E1 predestinado a recibir da\u00F1o\\ndos turnos despu\u00E9s de que el oponente haya\\nusado el movimiento."
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "Alboroto"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "El Pok\u00E9mon ataca alborotado durante tres\\nturnos y no deja dormir a otros Pok\u00E9mon."
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Acua Aro"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "El Pok\u00E9mon est\u00E1 rodeado por un velo de agua\\nque restaura PS en cada turno."
+  },
+  {
+    "index": 126,
+    "flags": 4,
+    "text": "Aligerar"
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "El Pok\u00E9mon reduce su peso, lo que aumenta\\nmucho su Velocidad."
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Antia\u00E9reo"
+  },
+  {
+    "index": 129,
+    "flags": 4,
+    "text": "El Pok\u00E9mon ha sido derribado mientras estaba\\nen el aire y ha ca\u00EDdo al suelo."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Cerrojo Fe\u00E9rico"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Ning\u00FAn Pok\u00E9mon puede huir o ser cambiado en\\nel siguiente turno."
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "Arco\u00EDris"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Aumenta las probabilidades de que los\\nmovimientos causen su efecto adicional."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Pantano"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "La Velocidad se reduce a un cuarto."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Mar de llamas"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Todos los Pok\u00E9mon, salvo los de tipo Fuego,\\nreciben da\u00F1o en cada turno."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Sol abrasador"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Hace un calor abrasador. La potencia de los\\nmovimientos de tipo Fuego aumenta y se anulan\\nlos movimientos de tipo Agua."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Diluvio"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "Est\u00E1 diluviando. La potencia de los movimientos\\nde tipo Agua aumenta y se anulan los\\nmovimientos de tipo Fuego."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Turbulencias"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Se han desatado unas misteriosas turbulencias.\\nLos Pok\u00E9mon de tipo Volador resisten mejor los\\nmovimientos supereficaces."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Campo Ps\u00EDquico"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon que est\u00E1n\\nen el suelo no pueden ser alcanzados por los\\nmovimientos con prioridad. La potencia de los\\nmovimientos de tipo Ps\u00EDquico aumenta."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Golpe Mordaza"
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "El Pok\u00E9mon no puede utilizar movimientos\\nsonoros durante dos turnos."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Velo Aurora"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Durante cinco turnos, la potencia de los ataques\\nf\u00EDsicos y especiales se reduce a la mitad."
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Aguzar"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "El movimiento que se emplee en el turno\\nsiguiente tras haber utilizado Aguzar ser\u00E1 un\\ngolpe cr\u00EDtico."
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Alquitranazo"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "El Pok\u00E9mon se vuelve d\u00E9bil a los movimientos\\nde tipo Fuego."
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Octopresa"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "La Defensa y la Defensa Especial del Pok\u00E9mon\\nse reducen en cada turno."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Gigallamarada"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Durante cuatro turnos, todos los Pok\u00E9mon,\\nsalvo los de tipo Fuego, sufren da\u00F1o."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Gigarroca \u00CDgnea"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Durante cuatro turnos, todos los Pok\u00E9mon,\\nsalvo los de tipo Roca, sufren da\u00F1o."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Gigatrampa Acero"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "Inflige da\u00F1o a los Pok\u00E9mon que salen al terreno\\nde combate."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Gigalianas"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Durante cuatro turnos, todos los Pok\u00E9mon,\\nsalvo los de tipo Planta, sufren da\u00F1o."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Gigaca\u00F1onazo"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Durante cuatro turnos, todos los Pok\u00E9mon,\\nsalvo los de tipo Agua, sufren da\u00F1o."
+  }
+]

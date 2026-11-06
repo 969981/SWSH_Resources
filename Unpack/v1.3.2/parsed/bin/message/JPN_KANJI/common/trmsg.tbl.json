@@ -1,0 +1,3837 @@
+[
+  {
+    "index": 0,
+    "hash": "B9829FF24FBFB5B1",
+    "name": "TRID_HERO_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 1,
+    "hash": "7A8FD05FB7715B2E",
+    "name": "TRID_HERO_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 2,
+    "hash": "6F4354A6BD2F40AB",
+    "name": "TRID_HERO_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 3,
+    "hash": "6954BCAC729FC1FB",
+    "name": "TRID_TANPAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 4,
+    "hash": "0355A55C4D564E44",
+    "name": "TRID_TANPAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 5,
+    "hash": "FD101AD86A0E66ED",
+    "name": "TRID_TANPAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 6,
+    "hash": "D34FA066B9E75D9E",
+    "name": "TRID_TANPAN_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 7,
+    "hash": "895C88B2B14160F7",
+    "name": "TRID_TANPAN_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 8,
+    "hash": "180F7A9F8FC12024",
+    "name": "TRID_TANPAN_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 9,
+    "hash": "F597DED566E8B11C",
+    "name": "TRID_MINI_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 10,
+    "hash": "96F6B2639BD38F39",
+    "name": "TRID_MINI_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 11,
+    "hash": "3E316C6DE0FD359A",
+    "name": "TRID_MINI_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 12,
+    "hash": "38447C28743D093B",
+    "name": "TRID_MADAM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 13,
+    "hash": "06951A73EAFFA884",
+    "name": "TRID_MADAM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 14,
+    "hash": "CF64DA546E8D242D",
+    "name": "TRID_MADAM_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 15,
+    "hash": "D6D3D857EA641CF5",
+    "name": "TRID_TANPAN_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 16,
+    "hash": "1BAEF923D080F242",
+    "name": "TRID_TANPAN_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 17,
+    "hash": "C702C600F6308737",
+    "name": "TRID_TANPAN_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 18,
+    "hash": "13C4D76CF762E3DD",
+    "name": "TRID_MINI_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 19,
+    "hash": "4E28B8FD39D7D3BA",
+    "name": "TRID_MINI_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 20,
+    "hash": "6C2D451912BC415F",
+    "name": "TRID_MINI_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 21,
+    "hash": "EB726977CD6D91B9",
+    "name": "TRID_SCHOOLF_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 22,
+    "hash": "35826B64577FBAE6",
+    "name": "TRID_SCHOOLF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 23,
+    "hash": "21DFA37B47C9BA33",
+    "name": "TRID_SCHOOLF_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 24,
+    "hash": "63A08D100C361D6E",
+    "name": "TRID_SCHOOLM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 25,
+    "hash": "8EEF687BF685AAC7",
+    "name": "TRID_SCHOOLM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 26,
+    "hash": "2C52A9779BEAF674",
+    "name": "TRID_SCHOOLM_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 27,
+    "hash": "C0BBE7E8A138D5C8",
+    "name": "TRID_SCHOOLF_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 28,
+    "hash": "DB54CFD7FF64F955",
+    "name": "TRID_SCHOOLF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 29,
+    "hash": "E84BC25DDEC1F72E",
+    "name": "TRID_SCHOOLF_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 30,
+    "hash": "36162651D915112D",
+    "name": "TRID_POSTMAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 31,
+    "hash": "1D1FABABE39E930A",
+    "name": "TRID_POSTMAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 32,
+    "hash": "E08B13E38F738CAF",
+    "name": "TRID_POSTMAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 33,
+    "hash": "25198C01545C57CB",
+    "name": "TRID_SCHOOLM_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 34,
+    "hash": "18CE68C85FF2F194",
+    "name": "TRID_SCHOOLM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 35,
+    "hash": "655063D4B3F2BE7D",
+    "name": "TRID_SCHOOLM_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 36,
+    "hash": "A7FB1283FCEE7F94",
+    "name": "TRID_WORKERM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 37,
+    "hash": "D6E06091CDCC1CC1",
+    "name": "TRID_WORKERM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 38,
+    "hash": "E1085BF0C1AB73B2",
+    "name": "TRID_WORKERM_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 39,
+    "hash": "1815F4F9A1008E73",
+    "name": "TRID_WORKERF_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 40,
+    "hash": "E267477AE5DE74AC",
+    "name": "TRID_WORKERF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 41,
+    "hash": "57358DD7C6F22225",
+    "name": "TRID_WORKERF_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 42,
+    "hash": "A5772494609EAB76",
+    "name": "TRID_WORKERF_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 43,
+    "hash": "F2CF4500DA8666DF",
+    "name": "TRID_WORKERF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 44,
+    "hash": "7F68E527A71D4C7C",
+    "name": "TRID_WORKERF_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 45,
+    "hash": "6730A26E406FB3B5",
+    "name": "TRID_WORKERM_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 46,
+    "hash": "47CCE868E86BA202",
+    "name": "TRID_WORKERM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 47,
+    "hash": "53F89017495741F7",
+    "name": "TRID_WORKERM_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 48,
+    "hash": "EF312F9DC99BC705",
+    "name": "TRID_BREEDERM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 49,
+    "hash": "F4D0A9C81ACE70D2",
+    "name": "TRID_BREEDERM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 50,
+    "hash": "0C6114D500AFCD47",
+    "name": "TRID_BREEDERM_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 51,
+    "hash": "B387309F9B419FA4",
+    "name": "TRID_BREEDERM_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 52,
+    "hash": "9D850846DA4AC111",
+    "name": "TRID_BREEDERM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 53,
+    "hash": "E9764494FCDDB782",
+    "name": "TRID_BREEDERM_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 54,
+    "hash": "DE5964391874882D",
+    "name": "TRID_GOKKOM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 55,
+    "hash": "C1A09ABF40BFC00A",
+    "name": "TRID_GOKKOM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 56,
+    "hash": "88CE51CACED303AF",
+    "name": "TRID_GOKKOM_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 57,
+    "hash": "F0FA3DB486A7E752",
+    "name": "TRID_GOKKOF_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 58,
+    "hash": "762308D35A1FC3BB",
+    "name": "TRID_GOKKOF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 59,
+    "hash": "8A4F24C9D1A4A9D0",
+    "name": "TRID_GOKKOF_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 60,
+    "hash": "083784462DED3D2C",
+    "name": "TRID_GOKKOM_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 61,
+    "hash": "9A4FC801CA8953C9",
+    "name": "TRID_GOKKOM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 62,
+    "hash": "D310D40D606C1D2A",
+    "name": "TRID_GOKKOM_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 63,
+    "hash": "14FDEBC87BDAD94F",
+    "name": "TRID_GOKKOF_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 64,
+    "hash": "409822BDA7E71DE8",
+    "name": "TRID_GOKKOF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 65,
+    "hash": "0DF1DD9790E53719",
+    "name": "TRID_GOKKOF_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 66,
+    "hash": "45A80AB4A71948B4",
+    "name": "TRID_GYM01M_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 67,
+    "hash": "2969117B102A8DA1",
+    "name": "TRID_GYM01M_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 68,
+    "hash": "7C0B584C86B48552",
+    "name": "TRID_GYM01M_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 69,
+    "hash": "74A905DE374082D5",
+    "name": "TRID_GYM01M_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 70,
+    "hash": "D53A27F77D7E2BE2",
+    "name": "TRID_GYM01M_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 71,
+    "hash": "0CB37384CC28BB97",
+    "name": "TRID_GYM01M_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 72,
+    "hash": "A76F3A6E748E5F13",
+    "name": "TRID_GYM01F_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 73,
+    "hash": "88714801F0A1400C",
+    "name": "TRID_GYM01F_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 74,
+    "hash": "E68ED34C9A7FF2C5",
+    "name": "TRID_GYM01F_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 75,
+    "hash": "12FB59E9801EA16F",
+    "name": "TRID_POLICE_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 76,
+    "hash": "2AF135E16EB360C8",
+    "name": "TRID_POLICE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 77,
+    "hash": "B90BC36745FA5E39",
+    "name": "TRID_POLICE_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 78,
+    "hash": "B18BA97A0E82460F",
+    "name": "TRID_WREPORTERS01_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 79,
+    "hash": "739ECB2D54B2AE74",
+    "name": "TRID_WREPORTERS01_01_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 80,
+    "hash": "5BE4F6DF692573A8",
+    "name": "TRID_WREPORTERS01_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 81,
+    "hash": "594F92F7D5D070D9",
+    "name": "TRID_WREPORTERS01_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 82,
+    "hash": "4325B405932DD412",
+    "name": "TRID_WREPORTERS01_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 83,
+    "hash": "4D54BDE9D4AF1C67",
+    "name": "TRID_WREPORTERS01_02_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 84,
+    "hash": "53CD18DBF9C13C7B",
+    "name": "TRID_WREPORTERS01_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 85,
+    "hash": "7D3BA375F902A990",
+    "name": "TRID_WREPORTERS01_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 86,
+    "hash": "6DA63D7C3164471A",
+    "name": "TRID_BREEDERF_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 87,
+    "hash": "12D4781C400FFB13",
+    "name": "TRID_BREEDERF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 88,
+    "hash": "6D34C7B4E0141018",
+    "name": "TRID_BREEDERF_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 89,
+    "hash": "C69E14285C7D1E09",
+    "name": "TRID_CHEF_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 90,
+    "hash": "F97F397FB8520A36",
+    "name": "TRID_CHEF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 91,
+    "hash": "CA52902AAB222A43",
+    "name": "TRID_CHEF_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 92,
+    "hash": "61B6C6A4E998AC4B",
+    "name": "TRID_BREEDERM_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 93,
+    "hash": "FC992879E41E0B14",
+    "name": "TRID_BREEDERM_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 94,
+    "hash": "A1ED9E78492F12FD",
+    "name": "TRID_BREEDERM_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 95,
+    "hash": "F56D9C7F2EB6A8A8",
+    "name": "TRID_OL_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 96,
+    "hash": "46D1D8B7FB458C75",
+    "name": "TRID_OL_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 97,
+    "hash": "6F10FB21FB1D680E",
+    "name": "TRID_OL_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 98,
+    "hash": "C7162CD3B8A596F7",
+    "name": "TRID_BREEDERF_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 99,
+    "hash": "562DF2813191FAA0",
+    "name": "TRID_BREEDERF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 100,
+    "hash": "83B5B52A7EB2F541",
+    "name": "TRID_BREEDERF_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 101,
+    "hash": "FD1002250482A9FA",
+    "name": "TRID_GYM02F_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 102,
+    "hash": "AEDFF706F67532B3",
+    "name": "TRID_GYM02F_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 103,
+    "hash": "F9F51088CE1194F8",
+    "name": "TRID_GYM02F_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 104,
+    "hash": "95CA6A95D2890BD7",
+    "name": "TRID_GYM02F_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 105,
+    "hash": "DC7EAD715C202CC0",
+    "name": "TRID_GYM02F_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 106,
+    "hash": "FDAC72EA249714A1",
+    "name": "TRID_GYM02F_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 107,
+    "hash": "5BB75CE2788E9300",
+    "name": "TRID_GYM02F_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 108,
+    "hash": "957934793D8E363D",
+    "name": "TRID_GYM02F_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 109,
+    "hash": "3DD2DA7D8D6FCB06",
+    "name": "TRID_GYM02F_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 110,
+    "hash": "DB7B1E42D0F1F34D",
+    "name": "TRID_WORKERF_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 111,
+    "hash": "2A3D1266CBAB986A",
+    "name": "TRID_WORKERF_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 112,
+    "hash": "3686837BDD94884F",
+    "name": "TRID_WORKERF_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 113,
+    "hash": "060D70EA1350F65E",
+    "name": "TRID_WORKERM_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 114,
+    "hash": "ECFD2EFD22840FB7",
+    "name": "TRID_WORKERM_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 115,
+    "hash": "4ACD4B22E92AB8E4",
+    "name": "TRID_WORKERM_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 116,
+    "hash": "3B4B4A202CD34599",
+    "name": "TRID_RAILROADMAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 117,
+    "hash": "A1812EA1584F6186",
+    "name": "TRID_RAILROADMAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 118,
+    "hash": "6F0F084EC20E9013",
+    "name": "TRID_RAILROADMAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 119,
+    "hash": "7B5DBBBBE0FA806D",
+    "name": "TRID_ADULTGIRL_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 120,
+    "hash": "841F6876F537BF4A",
+    "name": "TRID_ADULTGIRL_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 121,
+    "hash": "81ABA0F2799DBFEF",
+    "name": "TRID_ADULTGIRL_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 122,
+    "hash": "2112F70250933F1A",
+    "name": "TRID_WDOCTERS_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 123,
+    "hash": "5285ADE51490474F",
+    "name": "TRID_WDOCTERS_01_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 124,
+    "hash": "1CB6065DE1F92313",
+    "name": "TRID_WDOCTERS_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 125,
+    "hash": "20A1813AFF430818",
+    "name": "TRID_WDOCTERS_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 126,
+    "hash": "7A82E659D7D48EF7",
+    "name": "TRID_WDOCTERS_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 127,
+    "hash": "8AF3E090DD80ADBC",
+    "name": "TRID_WDOCTERS_02_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 128,
+    "hash": "600F80C2D37B22A0",
+    "name": "TRID_WDOCTERS_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 129,
+    "hash": "37226EB09DE1ED41",
+    "name": "TRID_WDOCTERS_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 130,
+    "hash": "F8DDE146D6F7E4EE",
+    "name": "TRID_BACKPACKER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 131,
+    "hash": "B1DEDCE85FBE0547",
+    "name": "TRID_BACKPACKER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 132,
+    "hash": "C18FFDAE66ACBDF4",
+    "name": "TRID_BACKPACKER_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 133,
+    "hash": "E49FAA8231104B10",
+    "name": "TRID_MODEL_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 134,
+    "hash": "BB523E8AAF79274D",
+    "name": "TRID_MODEL_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 135,
+    "hash": "F6C9EA498C86E7D6",
+    "name": "TRID_MODEL_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 136,
+    "hash": "BA56E0381F1E1F4B",
+    "name": "TRID_BACKPACKER_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 137,
+    "hash": "3BBDDD34C92B4C14",
+    "name": "TRID_BACKPACKER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 138,
+    "hash": "FA8DB80B7EB485FD",
+    "name": "TRID_BACKPACKER_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 139,
+    "hash": "63AE1AA3B8392D94",
+    "name": "TRID_ARTIST_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 140,
+    "hash": "A9E6E88875F3B6C1",
+    "name": "TRID_ARTIST_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 141,
+    "hash": "9CBB64107CF621B2",
+    "name": "TRID_ARTIST_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 142,
+    "hash": "5A45ACFAB63B01C7",
+    "name": "TRID_GYM04A_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 143,
+    "hash": "94C0962A717A9D70",
+    "name": "TRID_GYM04A_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 144,
+    "hash": "9372BDC0DB8E2711",
+    "name": "TRID_GYM04A_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 145,
+    "hash": "91FB5AC3AEBA06C1",
+    "name": "TRID_GYM04A_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 146,
+    "hash": "2F121EAE08E6F4BE",
+    "name": "TRID_GYM04A_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 147,
+    "hash": "6F8C57E507706FFB",
+    "name": "TRID_GYM04A_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 148,
+    "hash": "322A70AF08CBCDAA",
+    "name": "TRID_GYM04A_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 149,
+    "hash": "694927610A928DA3",
+    "name": "TRID_GYM04A_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 150,
+    "hash": "0363856F19A3F868",
+    "name": "TRID_GYM04A_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 151,
+    "hash": "A7936DA47FDAAA10",
+    "name": "TRID_GYM04B_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 152,
+    "hash": "EC4E4E4A9DFFCC4D",
+    "name": "TRID_GYM04B_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 153,
+    "hash": "B9BDAD6BDB5146D6",
+    "name": "TRID_GYM04B_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 154,
+    "hash": "9B75E1D46BB5850A",
+    "name": "TRID_GYM04B_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 155,
+    "hash": "8AE8697A6ED6D543",
+    "name": "TRID_GYM04B_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 156,
+    "hash": "18E77266EC3CCA48",
+    "name": "TRID_GYM04B_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 157,
+    "hash": "7C9992C853927221",
+    "name": "TRID_GYM04B_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 158,
+    "hash": "28A313DB7712555E",
+    "name": "TRID_GYM04B_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 159,
+    "hash": "5D900FE9AF2B2ADB",
+    "name": "TRID_GYM04B_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 160,
+    "hash": "DA87059E2E1A5598",
+    "name": "TRID_CHEF_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 161,
+    "hash": "A8B2F8DC1C8618E5",
+    "name": "TRID_CHEF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 162,
+    "hash": "0126E8867BCBD3FE",
+    "name": "TRID_CHEF_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 163,
+    "hash": "A986D03482C15FDE",
+    "name": "TRID_MADAM_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 164,
+    "hash": "61A51340FBEE4037",
+    "name": "TRID_MADAM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 165,
+    "hash": "EE46AA6D589B2264",
+    "name": "TRID_MADAM_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 166,
+    "hash": "2B85F1023533E0FB",
+    "name": "TRID_WKIMODAMESHI_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 167,
+    "hash": "BE6174D04F940EA0",
+    "name": "TRID_WKIMODAMESHI_01_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 168,
+    "hash": "72E27957CA8C3344",
+    "name": "TRID_WKIMODAMESHI_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 169,
+    "hash": "BF414F2E2CA285ED",
+    "name": "TRID_WKIMODAMESHI_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 170,
+    "hash": "9580D4BC7C7B7C9E",
+    "name": "TRID_WKIMODAMESHI_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 171,
+    "hash": "77D914F2EE8A7593",
+    "name": "TRID_WKIMODAMESHI_02_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 172,
+    "hash": "F8E95CAE2E7745F7",
+    "name": "TRID_WKIMODAMESHI_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 173,
+    "hash": "DA40AEF552553F24",
+    "name": "TRID_WKIMODAMESHI_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 174,
+    "hash": "B9A5CFA604C81321",
+    "name": "TRID_MODEL_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 175,
+    "hash": "F7A7041B888BB05E",
+    "name": "TRID_MODEL_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 176,
+    "hash": "9A9C4CC76060CBDB",
+    "name": "TRID_MODEL_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 177,
+    "hash": "642B614E946ED8AB",
+    "name": "TRID_DRIBER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 178,
+    "hash": "E05E5F31E51A16B4",
+    "name": "TRID_DRIBER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 179,
+    "hash": "524EB4F46527A15D",
+    "name": "TRID_DRIBER_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 180,
+    "hash": "A8558008F408E72F",
+    "name": "TRID_GENTLEMAN_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 181,
+    "hash": "2A4E1287A95C0288",
+    "name": "TRID_GENTLEMAN_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 182,
+    "hash": "A2FCF1D80A85B2F9",
+    "name": "TRID_GENTLEMAN_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 183,
+    "hash": "558040CA85AC1F38",
+    "name": "TRID_NURSE_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 184,
+    "hash": "D9388A6BB43A54C5",
+    "name": "TRID_NURSE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 185,
+    "hash": "2B039B5A2830229E",
+    "name": "TRID_NURSE_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 186,
+    "hash": "0C274A32D0C712A4",
+    "name": "TRID_BACKPACKER_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 187,
+    "hash": "DCA9BD01BF580211",
+    "name": "TRID_BACKPACKER_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 188,
+    "hash": "42165E2832632A82",
+    "name": "TRID_BACKPACKER_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 189,
+    "hash": "301A9B97868C9876",
+    "name": "TRID_MUSICIAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 190,
+    "hash": "537DEB3C4CC845DF",
+    "name": "TRID_MUSICIAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 191,
+    "hash": "0A0C5C2ACD0B397C",
+    "name": "TRID_MUSICIAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 192,
+    "hash": "E917458F450AACB5",
+    "name": "TRID_WCOLLEAGUE_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 193,
+    "hash": "0611AE6FF2799A72",
+    "name": "TRID_WCOLLEAGUE_01_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 194,
+    "hash": "26EA7D1697CE4502",
+    "name": "TRID_WCOLLEAGUE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 195,
+    "hash": "D5DF33384DF23AF7",
+    "name": "TRID_WCOLLEAGUE_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 196,
+    "hash": "29E1B5A501897894",
+    "name": "TRID_WCOLLEAGUE_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 197,
+    "hash": "50A9035104D57701",
+    "name": "TRID_WCOLLEAGUE_02_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 198,
+    "hash": "B5FDF53F7D2EBFC1",
+    "name": "TRID_WCOLLEAGUE_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 199,
+    "hash": "62EEFF11C6466CB2",
+    "name": "TRID_WCOLLEAGUE_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 200,
+    "hash": "302AD24F0CE71172",
+    "name": "TRID_POLICE_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 201,
+    "hash": "FDC9DE97E22DE09B",
+    "name": "TRID_POLICE_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 202,
+    "hash": "18E941BD019FBA70",
+    "name": "TRID_POLICE_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 203,
+    "hash": "23518F3F1A611325",
+    "name": "TRID_GYM06A_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 204,
+    "hash": "77255BCDC4363632",
+    "name": "TRID_GYM06A_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 205,
+    "hash": "8E387CCEF9C044E7",
+    "name": "TRID_GYM06A_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 206,
+    "hash": "6DD41EEC3269D2C4",
+    "name": "TRID_GYM06A_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 207,
+    "hash": "E1CCB681DFAC36F1",
+    "name": "TRID_GYM06A_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 208,
+    "hash": "4F0632DF20076EA2",
+    "name": "TRID_GYM06A_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 209,
+    "hash": "1CF01F194F42046B",
+    "name": "TRID_GYM06A_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 210,
+    "hash": "63E64E6FC0A0AA74",
+    "name": "TRID_GYM06A_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 211,
+    "hash": "05BF7B1555B75E1D",
+    "name": "TRID_GYM06A_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 212,
+    "hash": "A7F72C9D5AB250C2",
+    "name": "TRID_GYM06A_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 213,
+    "hash": "CDAC4C4CCAE9CEAB",
+    "name": "TRID_GYM06A_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 214,
+    "hash": "93665C282864C480",
+    "name": "TRID_GYM06A_04_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 215,
+    "hash": "6BDB8FBFC6F20A52",
+    "name": "TRID_GYM06B_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 216,
+    "hash": "B30A5AD1061D94BB",
+    "name": "TRID_GYM06B_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 217,
+    "hash": "053076D511EECCD0",
+    "name": "TRID_GYM06B_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 218,
+    "hash": "8FDF3DD3BC24FC4F",
+    "name": "TRID_GYM06B_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 219,
+    "hash": "7D7F74BB53E4EEE8",
+    "name": "TRID_GYM06B_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 220,
+    "hash": "88D32FA2D12F5A19",
+    "name": "TRID_GYM06B_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 221,
+    "hash": "472424C0274A2E98",
+    "name": "TRID_GYM06B_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 222,
+    "hash": "385F9C8935D05BE5",
+    "name": "TRID_GYM06B_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 223,
+    "hash": "6DC407A874FBACFE",
+    "name": "TRID_GYM06B_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 224,
+    "hash": "FDF1CD283A1A8175",
+    "name": "TRID_GYM06B_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 225,
+    "hash": "F69F471758A1BBC2",
+    "name": "TRID_GYM06B_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 226,
+    "hash": "EE20BAD145E6EBB7",
+    "name": "TRID_GYM06B_04_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 227,
+    "hash": "8DC98597022C11E0",
+    "name": "TRID_ANGLER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 228,
+    "hash": "FA6E5C809CE1A1DD",
+    "name": "TRID_ANGLER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 229,
+    "hash": "2136FF048B11FB66",
+    "name": "TRID_ANGLER_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 230,
+    "hash": "63090C1409AD651C",
+    "name": "TRID_DANCER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 231,
+    "hash": "983AF049451A0B39",
+    "name": "TRID_DANCER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 232,
+    "hash": "ABA299AC83C1E99A",
+    "name": "TRID_DANCER_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 233,
+    "hash": "979C82B499FD69AF",
+    "name": "TRID_KARATE_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 234,
+    "hash": "A33E3A429CCB3608",
+    "name": "TRID_KARATE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 235,
+    "hash": "9243F483B07A3579",
+    "name": "TRID_KARATE_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 236,
+    "hash": "E80366C69CAD95B2",
+    "name": "TRID_KARATE_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 237,
+    "hash": "FDD8999E6C2524DB",
+    "name": "TRID_KARATE_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 238,
+    "hash": "D2AFCDDE58C684B0",
+    "name": "TRID_KARATE_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 239,
+    "hash": "6D7B7FE0485215F1",
+    "name": "TRID_ANGLER_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 240,
+    "hash": "6FDF8B9C7D49846E",
+    "name": "TRID_ANGLER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 241,
+    "hash": "1DE83CEAEB7E31EB",
+    "name": "TRID_ANGLER_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 242,
+    "hash": "E2B4B3CC39581DFB",
+    "name": "TRID_KAIPAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 243,
+    "hash": "6E0F20567D768244",
+    "name": "TRID_KAIPAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 244,
+    "hash": "767011F830C6C2ED",
+    "name": "TRID_KAIPAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 245,
+    "hash": "4CAF9786809FB99E",
+    "name": "TRID_KAIPAN_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 246,
+    "hash": "F41603ACE16194F7",
+    "name": "TRID_KAIPAN_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 247,
+    "hash": "916F71BF56797C24",
+    "name": "TRID_KAIPAN_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 248,
+    "hash": "55B07746570BAF75",
+    "name": "TRID_BIKINI_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 249,
+    "hash": "4F4DDA9BD448D5C2",
+    "name": "TRID_BIKINI_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 250,
+    "hash": "45DF64EF62D819B7",
+    "name": "TRID_BIKINI_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 251,
+    "hash": "EACEEB6E81BD1254",
+    "name": "TRID_BIKINI_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 252,
+    "hash": "2E9ECC9E1CF65E81",
+    "name": "TRID_BIKINI_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 253,
+    "hash": "207634DB4396DD72",
+    "name": "TRID_BIKINI_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 254,
+    "hash": "3F4378C68217CB3B",
+    "name": "TRID_WMUSICUNIT_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 255,
+    "hash": "4287029B3A4C5960",
+    "name": "TRID_WMUSICUNIT_01_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 256,
+    "hash": "557241495204DE84",
+    "name": "TRID_WMUSICUNIT_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 257,
+    "hash": "D663D6F27C67E62D",
+    "name": "TRID_WMUSICUNIT_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 258,
+    "hash": "B085CCD2909C21DE",
+    "name": "TRID_WMUSICUNIT_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 259,
+    "hash": "38F92D561A10F953",
+    "name": "TRID_WMUSICUNIT_02_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 260,
+    "hash": "B0823A1662F37637",
+    "name": "TRID_WMUSICUNIT_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 261,
+    "hash": "F545A70B6675E464",
+    "name": "TRID_WMUSICUNIT_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 262,
+    "hash": "88E0747011F79977",
+    "name": "TRID_DOCTER_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 263,
+    "hash": "520018A0BE6DAE20",
+    "name": "TRID_DOCTER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 264,
+    "hash": "457FFCC6D804F7C1",
+    "name": "TRID_DOCTER_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 265,
+    "hash": "DC58FF0867F954E5",
+    "name": "TRID_YAMAOTOKO_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 266,
+    "hash": "B67439311C05B6F2",
+    "name": "TRID_YAMAOTOKO_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 267,
+    "hash": "4C93E442119BF5A7",
+    "name": "TRID_YAMAOTOKO_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 268,
+    "hash": "E74BA181255B6284",
+    "name": "TRID_YAMAOTOKO_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 269,
+    "hash": "38759518ACE6A9B1",
+    "name": "TRID_YAMAOTOKO_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 270,
+    "hash": "CA6AAD1DDA579162",
+    "name": "TRID_YAMAOTOKO_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 271,
+    "hash": "5FF4465EEE8DC62C",
+    "name": "TRID_POSTMAN_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 272,
+    "hash": "F5CED8EE6D6826C9",
+    "name": "TRID_POSTMAN_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 273,
+    "hash": "2ACD9626210CA62A",
+    "name": "TRID_POSTMAN_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 274,
+    "hash": "871381B404DD97CE",
+    "name": "TRID_DRIBER_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 275,
+    "hash": "7935E73522E9C4E7",
+    "name": "TRID_DRIBER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 276,
+    "hash": "4B692246ADFFFE54",
+    "name": "TRID_DRIBER_02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 277,
+    "hash": "932B0348F211B94B",
+    "name": "TRID_BUSINESS_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 278,
+    "hash": "215C136DE8D84A14",
+    "name": "TRID_BUSINESS_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 279,
+    "hash": "D361DB1C51A81FFD",
+    "name": "TRID_BUSINESS_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 280,
+    "hash": "5B1026F9B446758F",
+    "name": "TRID_MASTER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 281,
+    "hash": "40171A2D630DC628",
+    "name": "TRID_MASTER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 282,
+    "hash": "02D410777B94A059",
+    "name": "TRID_MASTER_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 283,
+    "hash": "F8BC641AF6B91332",
+    "name": "TRID_GENTLEMAN_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 284,
+    "hash": "84E871E378B5F15B",
+    "name": "TRID_GENTLEMAN_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 285,
+    "hash": "E368CB32B2D20230",
+    "name": "TRID_GENTLEMAN_01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 286,
+    "hash": "4EE2E54D61874CC9",
+    "name": "TRID_WREPORTERS01_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 287,
+    "hash": "9C49EBBF23DD03A6",
+    "name": "TRID_WREPORTERS01_03_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 288,
+    "hash": "E4FFF331530A6CF6",
+    "name": "TRID_WREPORTERS01_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 289,
+    "hash": "B1D758F49555F903",
+    "name": "TRID_WREPORTERS01_03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 290,
+    "hash": "7E67703BAD02B514",
+    "name": "TRID_WREPORTERS01_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 291,
+    "hash": "AA9F91DE9B4C0881",
+    "name": "TRID_WREPORTERS01_04_TRMSG_POKE_ONE_1"
+  },
+  {
+    "index": 292,
+    "hash": "0FF483CD13A55141",
+    "name": "TRID_WREPORTERS01_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 293,
+    "hash": "B774B9A871BFA932",
+    "name": "TRID_WREPORTERS01_04_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 294,
+    "hash": "0D0EF6C73B38CA1A",
+    "name": "TRID_GYM01L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 295,
+    "hash": "7DBB8B706B36F3B9",
+    "name": "TRID_GYM02L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 296,
+    "hash": "C00524C98F65796C",
+    "name": "TRID_GYM03L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 297,
+    "hash": "67619BDE11DDF04F",
+    "name": "TRID_RIVAL_01A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 298,
+    "hash": "DEBD19FA3ABB499C",
+    "name": "TRID_RIVAL_01B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 299,
+    "hash": "743C3FABEA42DD19",
+    "name": "TRID_RIVAL_01C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 300,
+    "hash": "FEC935C72FD6C262",
+    "name": "TRID_RIVAL_02A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 301,
+    "hash": "52F81F4AC2832421",
+    "name": "TRID_RIVAL_02B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 302,
+    "hash": "42CF9BE48307B8E4",
+    "name": "TRID_RIVAL_02C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 303,
+    "hash": "329A09C6D3E62099",
+    "name": "TRID_YELLM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 304,
+    "hash": "FE56DBE12F6CA834",
+    "name": "TRID_YELLF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 305,
+    "hash": "25BF65F8FB8133CF",
+    "name": "TRID_YELLM_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 306,
+    "hash": "972E63E46D3C5667",
+    "name": "TRID_YELLF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 307,
+    "hash": "EDCCB98CE96F9AC0",
+    "name": "TRID_YELLM_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 308,
+    "hash": "CE6CBC56A5BA65F2",
+    "name": "TRID_YELLF_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 309,
+    "hash": "23B71BB637FEF057",
+    "name": "TRID_WGYM07_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 310,
+    "hash": "6EEDBDAB6DC317A4",
+    "name": "TRID_WGYM07_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 311,
+    "hash": "C7E7984588794911",
+    "name": "TRID_RIVAL_03A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 312,
+    "hash": "1F3339C6C8FCF8D2",
+    "name": "TRID_RIVAL_03B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 313,
+    "hash": "9D1CB82C28DF4C47",
+    "name": "TRID_RIVAL_03C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 314,
+    "hash": "1AAD17C5052AD17F",
+    "name": "TRID_YELL_MULTI01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 315,
+    "hash": "417CC17519250C4C",
+    "name": "TRID_YELL_MULTI02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 316,
+    "hash": "14A0DD8D68BA8F94",
+    "name": "TRID_RIVAL_04A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 317,
+    "hash": "8AC1DD40FF4D48C7",
+    "name": "TRID_RIVAL_04B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 318,
+    "hash": "0CD85EDB9F6AF552",
+    "name": "TRID_RIVAL_04C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 319,
+    "hash": "A934547865F12518",
+    "name": "TRID_GYM04LA_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 320,
+    "hash": "1F584EEAC3CA4715",
+    "name": "TRID_GYM04LB_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 321,
+    "hash": "7E600676F4CC9156",
+    "name": "TRID_SENIOR_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 322,
+    "hash": "C99953217B73EEEE",
+    "name": "TRID_GYM05L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 323,
+    "hash": "542824059B0C0C5D",
+    "name": "TRID_GYM05L_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 324,
+    "hash": "632D6EEB24F0C7E0",
+    "name": "TRID_GYM05L_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 325,
+    "hash": "BA0192AC167DF26F",
+    "name": "TRID_GYM05L_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 326,
+    "hash": "84146AB9B96D483A",
+    "name": "TRID_GYM05L_05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 327,
+    "hash": "4FE76FE4A72ED3BB",
+    "name": "TRID_RIVAL_05A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 328,
+    "hash": "1A5C89CEF4F62DE8",
+    "name": "TRID_RIVAL_05B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 329,
+    "hash": "D53CB19CD6E19AE5",
+    "name": "TRID_RIVAL_05C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 330,
+    "hash": "8627C5C9A4481666",
+    "name": "TRID_GYM06LA_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 331,
+    "hash": "9B31BE664512F13F",
+    "name": "TRID_GYM06LB_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 332,
+    "hash": "F507DB7289DDD5E0",
+    "name": "TRID_YELLR08_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 333,
+    "hash": "8AE7709CD49D9FF6",
+    "name": "TRID_SISTER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 334,
+    "hash": "D7A140114BDBCD8F",
+    "name": "TRID_GYM08L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 335,
+    "hash": "5192A181BCB7A5A5",
+    "name": "TRID_SISTER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 336,
+    "hash": "4AD922B5CA3C143E",
+    "name": "TRID_RIVAL_06A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 337,
+    "hash": "B4A057A7E66703AD",
+    "name": "TRID_RIVAL_06B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 338,
+    "hash": "B0879A3232CFBCF0",
+    "name": "TRID_RIVAL_06C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 339,
+    "hash": "C1ABC5C7DDB23C7A",
+    "name": "TRID_STAFF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 340,
+    "hash": "DF6E776CDD41FEF9",
+    "name": "TRID_STAFF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 341,
+    "hash": "CC37F9641A11197C",
+    "name": "TRID_STAFF_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 342,
+    "hash": "77F974A04CA6BE93",
+    "name": "TRID_STAFF_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 343,
+    "hash": "EB5B9B688690D7FA",
+    "name": "TRID_SECRETARY_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 344,
+    "hash": "8A157A88DA41CE71",
+    "name": "TRID_CC01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 345,
+    "hash": "CB7E2B481BB7F7D1",
+    "name": "TRID_CC02A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 346,
+    "hash": "8789D32B2EDD5492",
+    "name": "TRID_CC02B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 347,
+    "hash": "B242D047FD511127",
+    "name": "TRID_CC03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 348,
+    "hash": "D96702CDC9DFA1D8",
+    "name": "TRID_CC04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 349,
+    "hash": "7B50093693DF8F1D",
+    "name": "TRID_ROSE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 350,
+    "hash": "E68856124F4D7E15",
+    "name": "TRID_CHAMPION_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 351,
+    "hash": "1613B3146BAFA120",
+    "name": "TRID_GYM05F_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 352,
+    "hash": "D2BA38AF7A2DA193",
+    "name": "TRID_GYM05F_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 353,
+    "hash": "3F914C44B9A9ED2E",
+    "name": "TRID_GYM05F_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 354,
+    "hash": "3A2F3B7C0AC8E1F9",
+    "name": "TRID_GYM05F_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 355,
+    "hash": "26F8BD734797FC7C",
+    "name": "TRID_GYM05F_05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 356,
+    "hash": "ECC3C5A23EF0AFAF",
+    "name": "TRID_GYM05F_06_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 357,
+    "hash": "1C6C89D70B391F7A",
+    "name": "TRID_GYM05F_07_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 358,
+    "hash": "14FD30E599B2AF85",
+    "name": "TRID_GYM05F_08_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 359,
+    "hash": "AA1F1F52B1D67A87",
+    "name": "TRID_GYM08_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 360,
+    "hash": "E154D931C87EB654",
+    "name": "TRID_GYM08_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 361,
+    "hash": "10669DD3F88C3D51",
+    "name": "TRID_GYM08_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 362,
+    "hash": "D8F70F9F01E643FE",
+    "name": "TRID_GYM03_A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 363,
+    "hash": "6C493CD00962FB6D",
+    "name": "TRID_GYM03_B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 364,
+    "hash": "6C4E627A466849B0",
+    "name": "TRID_GYM03_C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 365,
+    "hash": "4999E762582C129D",
+    "name": "TRID_RIVAL_MULTIA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 366,
+    "hash": "498810812667372E",
+    "name": "TRID_RIVAL_MULTIB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 367,
+    "hash": "DCB0FCEBE6EAEB93",
+    "name": "TRID_RIVAL_MULTIC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 368,
+    "hash": "D0DCA6619EF460C3",
+    "name": "TRID_RIVAL_JKA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 369,
+    "hash": "361EC20F0EA5AC90",
+    "name": "TRID_RIVAL_JKB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 370,
+    "hash": "32428B31CE1D57CD",
+    "name": "TRID_RIVAL_JKC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 371,
+    "hash": "684A459A75CB0272",
+    "name": "TRID_YELL_D03_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 372,
+    "hash": "52FA7CE97FDD29A6",
+    "name": "TRID_CHAMPION_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 373,
+    "hash": "AB8E74C9C1084B2B",
+    "name": "TRID_CHAMPION_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 374,
+    "hash": "4777AFE7A56B4ED6",
+    "name": "TRID_RIVAL_C01A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 375,
+    "hash": "667C6AD5DE258185",
+    "name": "TRID_RIVAL_C01B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 376,
+    "hash": "CD6D169725235C08",
+    "name": "TRID_RIVAL_C01C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 377,
+    "hash": "18A79B53544BDCD7",
+    "name": "TRID_GF_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 378,
+    "hash": "9D64C1652D86C405",
+    "name": "TRID_SENIOR_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 379,
+    "hash": "01CC744AEAB8A6A8",
+    "name": "TRID_SISTER_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 380,
+    "hash": "5A2D632B0AE6DA47",
+    "name": "TRID_RIVAL_C01MULTIA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 381,
+    "hash": "E40C637774542114",
+    "name": "TRID_RIVAL_C01MULTIB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 382,
+    "hash": "84F843446A80D711",
+    "name": "TRID_RIVAL_C01MULTIC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 383,
+    "hash": "F1F93E71D86F65D3",
+    "name": "TRID_YELLF_C01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 384,
+    "hash": "629A3CDF6FB71D7D",
+    "name": "TRID_RIVAL_T07A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 385,
+    "hash": "3F38EC0FA4CFE20E",
+    "name": "TRID_RIVAL_T07B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 386,
+    "hash": "5B31C478BDFF7CF3",
+    "name": "TRID_RIVAL_T07C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 387,
+    "hash": "7BA5881D68C1EDBB",
+    "name": "TRID_YELLM_R05_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 388,
+    "hash": "461AA207B68947E8",
+    "name": "TRID_YELLM_R05_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 389,
+    "hash": "3FC0891A26DA8F32",
+    "name": "TRID_YELLM_R06_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 390,
+    "hash": "AA67E3CE42508FF1",
+    "name": "TRID_YELLM_R06_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 391,
+    "hash": "D1E2B7C7B728D9DE",
+    "name": "TRID_CC02N_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 392,
+    "hash": "9A6EAB860B47EEEC",
+    "name": "TRID_CC03NA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 393,
+    "hash": "C3DC45AE9CCAA31F",
+    "name": "TRID_CC03NB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 394,
+    "hash": "37C5B050D6493E1C",
+    "name": "TRID_CC04N_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 395,
+    "hash": "FD9DCD51F288DF3B",
+    "name": "TRID_RIVAL_AC01A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 396,
+    "hash": "C812E73C40503968",
+    "name": "TRID_RIVAL_AC01B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 397,
+    "hash": "82F30F0A223BA665",
+    "name": "TRID_RIVAL_AC01C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 398,
+    "hash": "B3421F2539D3E7D5",
+    "name": "TRID_SWORD_AC01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 399,
+    "hash": "5EB2410DB485A85F",
+    "name": "TRID_SHIELD_AC01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 400,
+    "hash": "BE390A7EA4B13542",
+    "name": "TRID_RIVAL_ACRA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 401,
+    "hash": "9D89FC80ED5EBE01",
+    "name": "TRID_RIVAL_ACRB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 402,
+    "hash": "A5DFB6B721869144",
+    "name": "TRID_RIVAL_ACRC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 403,
+    "hash": "2A1F2F26521BAF0C",
+    "name": "TRID_GYM07L_ACM_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 404,
+    "hash": "CD4893CB9A0B60A6",
+    "name": "TRID_GYM01L_ACM_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 405,
+    "hash": "440C61CD46810813",
+    "name": "TRID_GYM02L_ACM_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 406,
+    "hash": "4819C8748895B518",
+    "name": "TRID_GYM03L_ACM_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 407,
+    "hash": "18F5B15FDA7E3469",
+    "name": "TRID_SWORD_ACW_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 408,
+    "hash": "1C188CCDAB360AEB",
+    "name": "TRID_SHIELD_ACW_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 409,
+    "hash": "54E44A3A5B95CB13",
+    "name": "TRID_RIVAL_ACMA_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 410,
+    "hash": "983DC49F4D17CAA0",
+    "name": "TRID_RIVAL_ACMB_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 411,
+    "hash": "C1CD34B0CCD6F21D",
+    "name": "TRID_RIVAL_ACMC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 412,
+    "hash": "4196ADF065822BAB",
+    "name": "TRID_SENIOR_AC_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 413,
+    "hash": "0D6FBAB191EEA966",
+    "name": "TRID_SWORD_AC02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 414,
+    "hash": "4E4A4387BFDDB62C",
+    "name": "TRID_SHIELD_AC02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 415,
+    "hash": "990BFD1EC72ED1F3",
+    "name": "TRID_RIVAL_AC02AK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 416,
+    "hash": "A7C460FAC05CAC82",
+    "name": "TRID_RIVAL_AC02BK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 417,
+    "hash": "AFF1BC8FE03E7455",
+    "name": "TRID_RIVAL_AC02CK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 418,
+    "hash": "DD1C110D54032F54",
+    "name": "TRID_RIVAL_AC02AT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 419,
+    "hash": "222E09033ED4660D",
+    "name": "TRID_RIVAL_AC02BT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 420,
+    "hash": "E3C23F82B9E3E6BA",
+    "name": "TRID_RIVAL_AC02CT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 421,
+    "hash": "04556D2674849E88",
+    "name": "TRID_SENIOR_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 422,
+    "hash": "1BBB322A2945423A",
+    "name": "TRID_BF_01B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 423,
+    "hash": "9D36345E0DEC0429",
+    "name": "TRID_BF_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 424,
+    "hash": "334AF43F00A9942C",
+    "name": "TRID_BF_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 425,
+    "hash": "E340DB0B37223049",
+    "name": "TRID_KARATE_EV01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 426,
+    "hash": "61AD61865292AF0A",
+    "name": "TRID_BREEDERF_EV01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 427,
+    "hash": "D2E2AA114DFB911F",
+    "name": "TRID_STAFF_EV01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 428,
+    "hash": "2E9B50773853EDBB",
+    "name": "TRID_SISTER_EV01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 429,
+    "hash": "5AA7CA74D4069FCA",
+    "name": "TRID_CHAMPION_TN01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 430,
+    "hash": "F4AE51B7CEE37803",
+    "name": "TRID_CHAMPION_TN01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 431,
+    "hash": "DB805B075772C108",
+    "name": "TRID_CHAMPION_TN01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 432,
+    "hash": "BC016531F877ED67",
+    "name": "TRID_CHAMPION_TN02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 433,
+    "hash": "4A122143FB14DCD0",
+    "name": "TRID_CHAMPION_TN02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 434,
+    "hash": "4B9E75FA933B2331",
+    "name": "TRID_CHAMPION_TN02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 435,
+    "hash": "59624BBB817D13D0",
+    "name": "TRID_CHAMPION_TN03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 436,
+    "hash": "5201EFECB22F2A0D",
+    "name": "TRID_CHAMPION_TN03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 437,
+    "hash": "6B8B8B82DCF1FD96",
+    "name": "TRID_CHAMPION_TN03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 438,
+    "hash": "A6C60512E9826C9E",
+    "name": "TRID_RIVAL_TNAK_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 439,
+    "hash": "EA39F6643A7C95F7",
+    "name": "TRID_RIVAL_TNAK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 440,
+    "hash": "EB85DF4BBF5C2F24",
+    "name": "TRID_RIVAL_TNAK_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 441,
+    "hash": "7303A361135DDA27",
+    "name": "TRID_RIVAL_TNAT_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 442,
+    "hash": "04BBE7918FF5D690",
+    "name": "TRID_RIVAL_TNAT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 443,
+    "hash": "5B14ABCE8D845DF1",
+    "name": "TRID_RIVAL_TNAT_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 444,
+    "hash": "6C0120481EA99379",
+    "name": "TRID_RIVAL_TNBK_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 445,
+    "hash": "04092DDF3DBE2EA6",
+    "name": "TRID_RIVAL_TNBK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 446,
+    "hash": "9D1B62A1CEC3FFF3",
+    "name": "TRID_RIVAL_TNBK_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 447,
+    "hash": "C0CA05CD9F7D18DC",
+    "name": "TRID_RIVAL_TNBT_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 448,
+    "hash": "6BE6F85D1B20FFF9",
+    "name": "TRID_RIVAL_TNBT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 449,
+    "hash": "121D8B0FE6B8355A",
+    "name": "TRID_RIVAL_TNBT_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 450,
+    "hash": "A565151F43C9899C",
+    "name": "TRID_RIVAL_TNCK_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 451,
+    "hash": "57324CFF24DE14B9",
+    "name": "TRID_RIVAL_TNCK_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 452,
+    "hash": "EDFEA2B7BDDE0E1A",
+    "name": "TRID_RIVAL_TNCK_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 453,
+    "hash": "7B6E475C27562239",
+    "name": "TRID_RIVAL_TNCT_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 454,
+    "hash": "34C16C324157A866",
+    "name": "TRID_RIVAL_TNCT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 455,
+    "hash": "B1DB815FA1B24AB3",
+    "name": "TRID_RIVAL_TNCT_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 456,
+    "hash": "78CAB5B58AA67BC8",
+    "name": "TRID_SENIOR_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 457,
+    "hash": "9AD7A3007CB1BB55",
+    "name": "TRID_SENIOR_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 458,
+    "hash": "A05A902AC82F9D2E",
+    "name": "TRID_SENIOR_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 459,
+    "hash": "BAD59742436E480C",
+    "name": "TRID_GYM01L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 460,
+    "hash": "41743233CF913469",
+    "name": "TRID_GYM01L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 461,
+    "hash": "8BBEE2DE5DF2088A",
+    "name": "TRID_GYM01L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 462,
+    "hash": "7F1363DEE433C2ED",
+    "name": "TRID_GYM02L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 463,
+    "hash": "7C5A69253C6F32CA",
+    "name": "TRID_GYM02L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 464,
+    "hash": "856149157CD7026F",
+    "name": "TRID_GYM02L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 465,
+    "hash": "6F1F542025DF750E",
+    "name": "TRID_GYM03L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 466,
+    "hash": "E3B41F286D307727",
+    "name": "TRID_GYM03L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 467,
+    "hash": "3374F4B2CF01DB94",
+    "name": "TRID_GYM03L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 468,
+    "hash": "DFFD4B02EC44F76A",
+    "name": "TRID_GYM04LA_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 469,
+    "hash": "44047B485195FE63",
+    "name": "TRID_GYM04LA_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 470,
+    "hash": "0D0E5767DF603328",
+    "name": "TRID_GYM04LA_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 471,
+    "hash": "F1B55EBC1A115C29",
+    "name": "TRID_GYM04LB_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 472,
+    "hash": "7775AB9C35745516",
+    "name": "TRID_GYM04LB_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 473,
+    "hash": "A356D690D9D9A3E3",
+    "name": "TRID_GYM04LB_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 474,
+    "hash": "51A706A4D85C3D60",
+    "name": "TRID_GYM05L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 475,
+    "hash": "CFA5F456DC58085D",
+    "name": "TRID_GYM05L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 476,
+    "hash": "E5148012614226E6",
+    "name": "TRID_GYM05L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 477,
+    "hash": "559E78E4039BFD38",
+    "name": "TRID_GYM06LA_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 478,
+    "hash": "A9DEC43926AFFEC5",
+    "name": "TRID_GYM06LA_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 479,
+    "hash": "2B21D373A620009E",
+    "name": "TRID_GYM06LA_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 480,
+    "hash": "30078B618ECF5603",
+    "name": "TRID_GYM06LB_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 481,
+    "hash": "6672BAEA6C1B5F3C",
+    "name": "TRID_GYM06LB_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 482,
+    "hash": "C7832457A502D275",
+    "name": "TRID_GYM06LB_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 483,
+    "hash": "3135CF37C17D7A02",
+    "name": "TRID_GYM07L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 484,
+    "hash": "1414F77CCE25B6EB",
+    "name": "TRID_GYM07L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 485,
+    "hash": "6FC3FEBDA44E19C0",
+    "name": "TRID_GYM07L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 486,
+    "hash": "9F50F7024DD6DAF3",
+    "name": "TRID_GYM08L_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 487,
+    "hash": "9E28E1F7AE5BB62C",
+    "name": "TRID_GYM08L_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 488,
+    "hash": "DE708FE073C86EA5",
+    "name": "TRID_GYM08L_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 489,
+    "hash": "F1ACD23E70DBAE28",
+    "name": "TRID_SISTER_TN_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 490,
+    "hash": "ECC6B9F21842B0F5",
+    "name": "TRID_SISTER_TN_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 491,
+    "hash": "6B5030E13D426D8E",
+    "name": "TRID_SISTER_TN_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 492,
+    "hash": "410441FD0CE6958C",
+    "name": "TRID_SEED_TN01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 493,
+    "hash": "1B901E4A9A79F0E9",
+    "name": "TRID_SEED_TN01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 494,
+    "hash": "11ED8D99276A560A",
+    "name": "TRID_SEED_TN01_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 495,
+    "hash": "8E359FDB2529AF8D",
+    "name": "TRID_SEED_TN02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 496,
+    "hash": "C1F9009F408143AA",
+    "name": "TRID_SEED_TN02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 497,
+    "hash": "E3ED0D6A6788D58F",
+    "name": "TRID_SEED_TN02_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 498,
+    "hash": "B92BA9E90BCE54B6",
+    "name": "TRID_SEED_TN03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 499,
+    "hash": "9409358C5653761F",
+    "name": "TRID_SEED_TN03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 500,
+    "hash": "931D6A7C524CF5BC",
+    "name": "TRID_SEED_TN03_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 501,
+    "hash": "AC23BB3DBCDFF6A7",
+    "name": "TRID_SEED_TN04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 502,
+    "hash": "E21551429F100810",
+    "name": "TRID_SEED_TN04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 503,
+    "hash": "9434C3AB37067A71",
+    "name": "TRID_SEED_TN04_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 504,
+    "hash": "41733F19A6C82F10",
+    "name": "TRID_SEED_TN05_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 505,
+    "hash": "DE391A655E87B34D",
+    "name": "TRID_SEED_TN05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 506,
+    "hash": "539D7EE1023ECBD6",
+    "name": "TRID_SEED_TN05_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 507,
+    "hash": "1679643D7A7FF721",
+    "name": "TRID_SEED_TN06_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 508,
+    "hash": "1A8DDFF6379A3C5E",
+    "name": "TRID_SEED_TN06_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 509,
+    "hash": "F76FE15ED618AFDB",
+    "name": "TRID_SEED_TN06_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 510,
+    "hash": "3555B34992A30A0A",
+    "name": "TRID_SEED_TN07_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 511,
+    "hash": "7CD335952F5EBC43",
+    "name": "TRID_SEED_TN07_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 512,
+    "hash": "B2C743DC132A4F48",
+    "name": "TRID_SEED_TN07_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 513,
+    "hash": "1D166A28B016E48B",
+    "name": "TRID_SEED_TN08_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 514,
+    "hash": "E5178ED46C1BD354",
+    "name": "TRID_SEED_TN08_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 515,
+    "hash": "B3D241F727AEA03D",
+    "name": "TRID_SEED_TN08_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 516,
+    "hash": "CF72BB21263A69E4",
+    "name": "TRID_SEED_TN09_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 517,
+    "hash": "142953769C295A51",
+    "name": "TRID_SEED_TN09_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 518,
+    "hash": "5DD4C6BB67381CC2",
+    "name": "TRID_SEED_TN09_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 519,
+    "hash": "435448343C92C926",
+    "name": "TRID_SEED_TN10_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 520,
+    "hash": "558F007429DF0FCF",
+    "name": "TRID_SEED_TN10_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 521,
+    "hash": "2063FE3EE631D9AC",
+    "name": "TRID_SEED_TN10_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 522,
+    "hash": "9CAAA508FD85D0FD",
+    "name": "TRID_SEED_TN11_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 523,
+    "hash": "15212E11AFF1231A",
+    "name": "TRID_SEED_TN11_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 524,
+    "hash": "9F5E96DDC12FB5FF",
+    "name": "TRID_SEED_TN11_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 525,
+    "hash": "C67B37974512EDBC",
+    "name": "TRID_SEED_TN12_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 526,
+    "hash": "6269A4420243FC99",
+    "name": "TRID_SEED_TN12_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 527,
+    "hash": "1524C104A72C52BA",
+    "name": "TRID_SEED_TN12_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 528,
+    "hash": "45FA5A1FCB942AA3",
+    "name": "TRID_SEED_TN13_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 529,
+    "hash": "CCEA7E9052BC691C",
+    "name": "TRID_SEED_TN13_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 530,
+    "hash": "88B873136DC85195",
+    "name": "TRID_SEED_TN13_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 531,
+    "hash": "4FBC1445EBF767FA",
+    "name": "TRID_SEED_TN14_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 532,
+    "hash": "EFFD9D9DB2227CB3",
+    "name": "TRID_SEED_TN14_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 533,
+    "hash": "4CA122A9B58652F8",
+    "name": "TRID_SEED_TN14_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 534,
+    "hash": "FB8DA63E9EBA3611",
+    "name": "TRID_SEED_TN15_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 535,
+    "hash": "6F57841A72C5C2CE",
+    "name": "TRID_SEED_TN15_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 536,
+    "hash": "B301DAF30D9C2F0B",
+    "name": "TRID_SEED_TN15_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 537,
+    "hash": "64892B908B40FDB9",
+    "name": "TRID_BF_01A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 538,
+    "hash": "6E3890A01C4FCE02",
+    "name": "TRID_STAFF_C03A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 539,
+    "hash": "FD4C08C901B048C1",
+    "name": "TRID_STAFF_C03B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 540,
+    "hash": "B858DE674579A404",
+    "name": "TRID_STAFF_C03C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 541,
+    "hash": "1CB96C322386C5CC",
+    "name": "TRID_GYM01L_ACMT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 542,
+    "hash": "72CD5EDC574660BC",
+    "name": "TRID_GYM01L_TNT_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 543,
+    "hash": "97FA741734EB3D99",
+    "name": "TRID_GYM01L_TNT_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 544,
+    "hash": "C176E849B95FC5BA",
+    "name": "TRID_GYM01L_TNT_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 545,
+    "hash": "E55193968193471A",
+    "name": "TRID_YELLM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 546,
+    "hash": "48E2CC3AD30E14B0",
+    "name": "TRID_GYM07L_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 547,
+    "hash": "E4D088358C230A2E",
+    "name": "TRID_STAFF_05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 548,
+    "hash": "E4E25F16BDE7E59D",
+    "name": "TRID_STAFF_06_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 549,
+    "hash": "BB52EF053E28BE20",
+    "name": "TRID_STAFF_07_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 550,
+    "hash": "D5548E82E06C516C",
+    "name": "TRID_RIVAL_C03A_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 551,
+    "hash": "FEC228AB71EF059F",
+    "name": "TRID_RIVAL_C03B_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 552,
+    "hash": "2CB1F3BE5C1CD32A",
+    "name": "TRID_RIVAL_C03C_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 553,
+    "hash": "104B6119FDEE7EC5",
+    "name": "TRID_WR_TRANER01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 554,
+    "hash": "B9712BC6EA5A9D16",
+    "name": "TRID_WR_TRANER02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 555,
+    "hash": "718D090A7680B81B",
+    "name": "TRID_WR_TRANER03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 556,
+    "hash": "4A2200C49F933B6A",
+    "name": "TRID_ESPER_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 557,
+    "hash": "EFFF76675DC4AA63",
+    "name": "TRID_ESPER_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 558,
+    "hash": "8CE58DA1F7853E0D",
+    "name": "TRID_POISON_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 559,
+    "hash": "85651F7A0B6F3B2A",
+    "name": "TRID_POISON_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 560,
+    "hash": "FA2E672A40D24187",
+    "name": "TRID_ESPER_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 561,
+    "hash": "7F2DF2D792BF4B30",
+    "name": "TRID_ESPER_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 562,
+    "hash": "3FB42FC3DF42240C",
+    "name": "TRID_POISON_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 563,
+    "hash": "DEFC3D256567E869",
+    "name": "TRID_POISON_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 564,
+    "hash": "417AA8E526AD0D70",
+    "name": "TRID_ESPER_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 565,
+    "hash": "7F28CD2D55B9FCED",
+    "name": "TRID_ESPER_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 566,
+    "hash": "79FD377349148733",
+    "name": "TRID_POISON_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 567,
+    "hash": "2E07BA3E8FBEB96C",
+    "name": "TRID_POISON_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 568,
+    "hash": "A913029CB28D9B20",
+    "name": "TRID_MASTER1_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 569,
+    "hash": "3B158D31C420D31D",
+    "name": "TRID_MASTER1_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 570,
+    "hash": "BF5EC4C97F601A57",
+    "name": "TRID_MASTER2_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 571,
+    "hash": "A0B31EF001E4A440",
+    "name": "TRID_MASTER2_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 572,
+    "hash": "26A45C58B159B87A",
+    "name": "TRID_MASTER2_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 573,
+    "hash": "731468859C39AA33",
+    "name": "TRID_MASTER2_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 574,
+    "hash": "9DE098FE19FC7782",
+    "name": "TRID_WIFE_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 575,
+    "hash": "780C5B1D55B5036B",
+    "name": "TRID_WIFE_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 576,
+    "hash": "6CA31E6843956D7F",
+    "name": "TRID_WIFE_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 577,
+    "hash": "47C4C8992191F118",
+    "name": "TRID_WIFE_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 578,
+    "hash": "27D3B9DA7A31B4C8",
+    "name": "TRID_WIFE_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 579,
+    "hash": "7EF4DAEB62C31E55",
+    "name": "TRID_WIFE_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 580,
+    "hash": "EE68B3F604CEA3E5",
+    "name": "TRID_WIFE_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 581,
+    "hash": "1206D29E877DABF2",
+    "name": "TRID_WIFE_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 582,
+    "hash": "D275EE51641C8691",
+    "name": "TRID_MASTER2_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 583,
+    "hash": "F26E4F025CDCF04E",
+    "name": "TRID_MASTER2_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 584,
+    "hash": "9D637FAA0A753E3C",
+    "name": "TRID_MASTER2_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 585,
+    "hash": "E5806F29EC5B2A19",
+    "name": "TRID_MASTER2_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 586,
+    "hash": "B22FED8BB6849C7C",
+    "name": "TRID_ADVENTURERM_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 587,
+    "hash": "153F73A9F5FD3159",
+    "name": "TRID_ADVENTURERM_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 588,
+    "hash": "EC559F469DD6FABB",
+    "name": "TRID_ILANDM1_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 589,
+    "hash": "A176D0AD12863104",
+    "name": "TRID_ILANDM1_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 590,
+    "hash": "5D97F352AC5B515E",
+    "name": "TRID_ILANDM1_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 591,
+    "hash": "FC86C97A2374C8B7",
+    "name": "TRID_ILANDM1_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 592,
+    "hash": "BEBB24D6D97A0EB5",
+    "name": "TRID_ILANDM1_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 593,
+    "hash": "575682E5E95C5B02",
+    "name": "TRID_ILANDM1_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 594,
+    "hash": "05B0DE111E23D5D8",
+    "name": "TRID_ILANDM1_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 595,
+    "hash": "82209B57F63BF725",
+    "name": "TRID_ILANDM1_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 596,
+    "hash": "CB8A475E2C84B79E",
+    "name": "TRID_ILANDF1_01_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 597,
+    "hash": "65741106D43D9EF7",
+    "name": "TRID_ILANDF1_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 598,
+    "hash": "618F63A3E53D1BFB",
+    "name": "TRID_ILANDF1_02_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 599,
+    "hash": "DF6D2DB070528C44",
+    "name": "TRID_ILANDF1_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 600,
+    "hash": "642CF37787B2D9D4",
+    "name": "TRID_ILANDF1_03_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 601,
+    "hash": "D717737A3C2AB901",
+    "name": "TRID_ILANDF1_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 602,
+    "hash": "0457E5717893EC89",
+    "name": "TRID_ILANDF1_04_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 603,
+    "hash": "8A53178D6C77C1B6",
+    "name": "TRID_ILANDF1_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 604,
+    "hash": "DCD8C16FAFC7A4EE",
+    "name": "TRID_dreammatch_01_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 605,
+    "hash": "67679253CF5FC25D",
+    "name": "TRID_dreammatch_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 606,
+    "hash": "766CDD3959447DE0",
+    "name": "TRID_dreammatch_03_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 607,
+    "hash": "CD4100FA4AD1A86F",
+    "name": "TRID_dreammatch_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 608,
+    "hash": "9753D907EDC0FE3A",
+    "name": "TRID_dreammatch_05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 609,
+    "hash": "E021D26E4FBCB9B9",
+    "name": "TRID_dreammatch_06_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 610,
+    "hash": "B808AAB1BCC9E33C",
+    "name": "TRID_dreammatch_07_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 611,
+    "hash": "2497467A0D3D289B",
+    "name": "TRID_dreammatch_08_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 612,
+    "hash": "6C7B693681170D96",
+    "name": "TRID_dreammatch_09_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 613,
+    "hash": "D6CDE3711687F130",
+    "name": "TRID_dreammatch_10_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 614,
+    "hash": "D6C8BDC6D982A2ED",
+    "name": "TRID_dreammatch_11_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 615,
+    "hash": "43769095D205EB7E",
+    "name": "TRID_dreammatch_12_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 616,
+    "hash": "479F6700E18D5063",
+    "name": "TRID_dreammatch_13_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 617,
+    "hash": "D187A53B062EB68C",
+    "name": "TRID_dreammatch_14_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 618,
+    "hash": "023A122D3B977709",
+    "name": "TRID_dreammatch_15_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 619,
+    "hash": "5F3CAC9143F3114A",
+    "name": "TRID_dreammatch_16_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 620,
+    "hash": "322CE699A05397BF",
+    "name": "TRID_dreammatch_17_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 621,
+    "hash": "0EDFD282DBB86BD8",
+    "name": "TRID_dreammatch_18_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 622,
+    "hash": "E667C151659D6315",
+    "name": "TRID_dreammatch_19_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 623,
+    "hash": "708F47FB2868CB01",
+    "name": "TRID_dreammatch_20_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 624,
+    "hash": "78E502315C909E44",
+    "name": "TRID_dreammatch_21_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 625,
+    "hash": "FEEBE587C07BB0F7",
+    "name": "TRID_dreammatch_22_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 626,
+    "hash": "913E55F8DFBB4242",
+    "name": "TRID_dreammatch_23_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 627,
+    "hash": "D2FEAB6ABCE9E265",
+    "name": "TRID_dreammatch_24_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 628,
+    "hash": "181E839CDAFE7568",
+    "name": "TRID_dreammatch_25_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 629,
+    "hash": "23CAEC0E58B5D3B6",
+    "name": "TRID_dreammatch_27_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 630,
+    "hash": "4DA969B28D371B3B",
+    "name": "TRID_dreammatch_26_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 631,
+    "hash": "B7F2C8EF212A56E9",
+    "name": "TRID_MASTER2_03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 632,
+    "hash": "A68743B5029A49E2",
+    "name": "TRID_MASTER2_04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 633,
+    "hash": "079CBBF7C02A6B4A",
+    "name": "TRID_ESPER_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 634,
+    "hash": "51E3A1CA37C8A49D",
+    "name": "TRID_ESPER_04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 635,
+    "hash": "403F546FFA4CB3C3",
+    "name": "TRID_POISON_04_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 636,
+    "hash": "08D2D879ABE07C04",
+    "name": "TRID_POISON_04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 637,
+    "hash": "33AFC58A86268C7B",
+    "name": "TRID_CHAMPION_TN01_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 638,
+    "hash": "F712E2E139F619C4",
+    "name": "TRID_CHAMPION_TN01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 639,
+    "hash": "C76B23B67D95316D",
+    "name": "TRID_CHAMPION_TN01_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 640,
+    "hash": "91650F27AA1B6992",
+    "name": "TRID_CHAMPION_TN02_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 641,
+    "hash": "4F2CF9956EEB90FB",
+    "name": "TRID_CHAMPION_TN02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 642,
+    "hash": "CB7AFE980FF03F10",
+    "name": "TRID_CHAMPION_TN02_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 643,
+    "hash": "F91D788DF8309E61",
+    "name": "TRID_CHAMPION_TN03_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 644,
+    "hash": "7547DC9FE452D89E",
+    "name": "TRID_CHAMPION_TN03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 645,
+    "hash": "8029F5B438E68C1B",
+    "name": "TRID_CHAMPION_TN03_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 646,
+    "hash": "40E9BE65DA8FDE47",
+    "name": "TRID_rival_TNAK_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 647,
+    "hash": "EF422C91AD970EF0",
+    "name": "TRID_rival_TNAK_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 648,
+    "hash": "7A16CF2BFFE30391",
+    "name": "TRID_rival_TNAK_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 649,
+    "hash": "7937ACF103C19DF2",
+    "name": "TRID_rival_TNAT_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 650,
+    "hash": "E4C78AA533F5E21B",
+    "name": "TRID_rival_TNAT_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 651,
+    "hash": "61F61C5EF87A46F0",
+    "name": "TRID_rival_TNAT_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 652,
+    "hash": "4A948FD782609044",
+    "name": "TRID_rival_TNBK_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 653,
+    "hash": "A2D6D6408084C371",
+    "name": "TRID_rival_TNBK_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 654,
+    "hash": "2BC6A3CA6FFE2C22",
+    "name": "TRID_rival_TNBK_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 655,
+    "hash": "65075CB58DA18B55",
+    "name": "TRID_rival_TNBT_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 656,
+    "hash": "8AB47042230FC162",
+    "name": "TRID_rival_TNBT_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 657,
+    "hash": "FD11CA5C2289C417",
+    "name": "TRID_rival_TNBT_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 658,
+    "hash": "47D235BB39D61E95",
+    "name": "TRID_rival_TNCK_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 659,
+    "hash": "BA097924B98874A2",
+    "name": "TRID_rival_TNCK_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 660,
+    "hash": "8CBEA366B9A1DE57",
+    "name": "TRID_rival_TNCK_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 661,
+    "hash": "93D0E8C22675C584",
+    "name": "TRID_rival_TNCT_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 662,
+    "hash": "38176500B2333AB1",
+    "name": "TRID_rival_TNCT_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 663,
+    "hash": "76EFF45EDB71F462",
+    "name": "TRID_rival_TNCT_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 664,
+    "hash": "AEF7587B18DE7A25",
+    "name": "TRID_GYM01L_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 665,
+    "hash": "77593DAA0169B332",
+    "name": "TRID_GYM01L_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 666,
+    "hash": "19DE460AF83DABE7",
+    "name": "TRID_GYM01L_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 667,
+    "hash": "F6EE05857D18DA20",
+    "name": "TRID_GYM02L_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 668,
+    "hash": "4D2BABCDAAB3181D",
+    "name": "TRID_GYM02L_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 669,
+    "hash": "86F57EF3031B9AA6",
+    "name": "TRID_GYM02L_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 670,
+    "hash": "D914BE61D872C097",
+    "name": "TRID_GYM03L_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 671,
+    "hash": "3BFF8E47421D6780",
+    "name": "TRID_GYM03L_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 672,
+    "hash": "E70BC6BB0F9C4B61",
+    "name": "TRID_GYM03L_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 673,
+    "hash": "939468CC4F11CEDB",
+    "name": "TRID_GYM04LA_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 674,
+    "hash": "E5C1107F176F4964",
+    "name": "TRID_GYM04LA_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 675,
+    "hash": "24A5CB23615EBC4D",
+    "name": "TRID_GYM04LA_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 676,
+    "hash": "7EE0ED14E8A647D4",
+    "name": "TRID_GYM04LB_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 677,
+    "hash": "5774EFA334269301",
+    "name": "TRID_GYM04LB_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 678,
+    "hash": "B4883681AA8012F2",
+    "name": "TRID_GYM04LB_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 679,
+    "hash": "6F01B98F3FD326F9",
+    "name": "TRID_GYM06LA_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 680,
+    "hash": "68C7A3A19C918D26",
+    "name": "TRID_GYM06LA_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 681,
+    "hash": "A01BFBE8EFED9373",
+    "name": "TRID_GYM06LA_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 682,
+    "hash": "AAD41417CB68BE06",
+    "name": "TRID_GYM06LB_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 683,
+    "hash": "0F6CA50AC1713DEF",
+    "name": "TRID_GYM06LB_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 684,
+    "hash": "DAEECA24E796690C",
+    "name": "TRID_GYM06LB_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 685,
+    "hash": "CA0B404D2F2C5883",
+    "name": "TRID_GYM07L_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 686,
+    "hash": "82F7540C824012BC",
+    "name": "TRID_GYM07L_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 687,
+    "hash": "6186D943455FD4F5",
+    "name": "TRID_GYM07L_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 688,
+    "hash": "8DF2C93223589DB6",
+    "name": "TRID_GYM08L_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 689,
+    "hash": "B90DBE274841891F",
+    "name": "TRID_GYM08L_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 690,
+    "hash": "67E489C569D73EBC",
+    "name": "TRID_GYM08L_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 691,
+    "hash": "04CD732F663138A9",
+    "name": "TRID_SISTER_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 692,
+    "hash": "267F7829B719C696",
+    "name": "TRID_SISTER_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 693,
+    "hash": "B66EEB0425F98063",
+    "name": "TRID_SISTER_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 694,
+    "hash": "3BA500DBC82DA109",
+    "name": "TRID_SENIOR_TN_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 695,
+    "hash": "DA8B0B8D145FFB36",
+    "name": "TRID_SENIOR_TN_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 696,
+    "hash": "3F597CDE16D2AD43",
+    "name": "TRID_SENIOR_TN_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 697,
+    "hash": "BAAAE3FBA4DB63A5",
+    "name": "TRID_SEED_TN01_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 698,
+    "hash": "F0F2D90E58D563B2",
+    "name": "TRID_SEED_TN01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 699,
+    "hash": "2591D18B843A9567",
+    "name": "TRID_SEED_TN01_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 700,
+    "hash": "06108FDAD72EB680",
+    "name": "TRID_SEED_TN02_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 701,
+    "hash": "1CDDB7888628C4BD",
+    "name": "TRID_SEED_TN02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 702,
+    "hash": "E82C0D75EC0FEE86",
+    "name": "TRID_SEED_TN02_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 703,
+    "hash": "ED4948883F43FDAF",
+    "name": "TRID_SEED_TN03_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 704,
+    "hash": "14FDD32351D85208",
+    "name": "TRID_SEED_TN03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 705,
+    "hash": "E7F0BA5755C0C979",
+    "name": "TRID_SEED_TN03_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 706,
+    "hash": "2C4B3C8199BF2A52",
+    "name": "TRID_SEED_TN04_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 707,
+    "hash": "274FD59F724BF4BB",
+    "name": "TRID_SEED_TN04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 708,
+    "hash": "C5A02396E4BBECD0",
+    "name": "TRID_SEED_TN04_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 709,
+    "hash": "FFBF9C6AC92E4D21",
+    "name": "TRID_SEED_TN05_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 710,
+    "hash": "9E6F3ED7216B8E5E",
+    "name": "TRID_SEED_TN05_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 711,
+    "hash": "E0B6198C24C705DB",
+    "name": "TRID_SEED_TN05_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 712,
+    "hash": "FEFD8E4483830D9C",
+    "name": "TRID_SEED_TN06_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 713,
+    "hash": "FB9E197C94D480B9",
+    "name": "TRID_SEED_TN06_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 714,
+    "hash": "47971BDCFD97921A",
+    "name": "TRID_SEED_TN06_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 715,
+    "hash": "1C28D9D9353F193B",
+    "name": "TRID_SEED_TN07_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 716,
+    "hash": "E8534FA23A4D5884",
+    "name": "TRID_SEED_TN07_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 717,
+    "hash": "B34938052F8F342D",
+    "name": "TRID_SEED_TN07_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 718,
+    "hash": "78EE873A5910533E",
+    "name": "TRID_SEED_TN08_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 719,
+    "hash": "F4AF06A9DB341F57",
+    "name": "TRID_SEED_TN08_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 720,
+    "hash": "B950E59E4855F044",
+    "name": "TRID_SEED_TN08_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 721,
+    "hash": "E6F74904E830EBED",
+    "name": "TRID_SEED_TN09_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 722,
+    "hash": "B8537607E5EEE5CA",
+    "name": "TRID_SEED_TN09_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 723,
+    "hash": "ED452E3B80D42B6F",
+    "name": "TRID_SEED_TN09_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 724,
+    "hash": "37E04259B14C03DF",
+    "name": "TRID_SEED_TN10_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 725,
+    "hash": "2118EB56B2124038",
+    "name": "TRID_SEED_TN10_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 726,
+    "hash": "DC94E9A510BED1A9",
+    "name": "TRID_SEED_TN10_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 727,
+    "hash": "C1345CE1A9A5E130",
+    "name": "TRID_SEED_TN11_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 728,
+    "hash": "060929DBB90525AD",
+    "name": "TRID_SEED_TN11_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 729,
+    "hash": "D0B420D41FF9ECF6",
+    "name": "TRID_SEED_TN11_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 730,
+    "hash": "25F86E1AFAE71855",
+    "name": "TRID_SEED_TN12_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 731,
+    "hash": "17844BCF9C8B8062",
+    "name": "TRID_SEED_TN12_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 732,
+    "hash": "BE02DBC18FCF5117",
+    "name": "TRID_SEED_TN12_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 733,
+    "hash": "8DEBF280BF63C566",
+    "name": "TRID_SEED_TN13_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 734,
+    "hash": "23B8A661B779A40F",
+    "name": "TRID_SEED_TN13_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 735,
+    "hash": "0F23B0E686BFC4EC",
+    "name": "TRID_SEED_TN13_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 736,
+    "hash": "A509AA547A0B8EEB",
+    "name": "TRID_SEED_TN14_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 737,
+    "hash": "9016989D3412B5F4",
+    "name": "TRID_SEED_TN14_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 738,
+    "hash": "8DD906508080E89D",
+    "name": "TRID_SEED_TN14_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 739,
+    "hash": "9C3D7CC17F83830C",
+    "name": "TRID_SEED_TN15_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 740,
+    "hash": "28EFD109BB1B8D69",
+    "name": "TRID_SEED_TN15_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 741,
+    "hash": "6D26C85D9A07438A",
+    "name": "TRID_SEED_TN15_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 742,
+    "hash": "BF4F1BB56A1D8355",
+    "name": "TRID_GYM01L_TNT_2_TRMSG_FIGHT_START"
+  },
+  {
+    "index": 743,
+    "hash": "1A90062D89F7E962",
+    "name": "TRID_GYM01L_TNT_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 744,
+    "hash": "5759895BFF05BC17",
+    "name": "TRID_GYM01L_TNT_2_TRMSG_FIGHT_AFTER"
+  },
+  {
+    "index": 745,
+    "hash": "9065E8A2C56CD564",
+    "name": "TRID_ESPER_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 746,
+    "hash": "3D5D405FF7BBE83D",
+    "name": "TRID_POISON_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 747,
+    "hash": "0E64AE287931CFEE",
+    "name": "TRID_MASTER1_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 748,
+    "hash": "A3CD26F887082A1B",
+    "name": "TRID_ESPER_02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 749,
+    "hash": "117261E5CA688732",
+    "name": "TRID_POISON_02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 750,
+    "hash": "3F2AA71A4BDBBD3E",
+    "name": "TRID_ESPER_03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 751,
+    "hash": "67404CB614C076DF",
+    "name": "TRID_POISON_03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 752,
+    "hash": "FA1C7596C2919910",
+    "name": "TRID_ILANDF1_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 753,
+    "hash": "1C5CC16485DE7050",
+    "name": "TRID_ILANDM1_02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 754,
+    "hash": "C184234C9E8D99FA",
+    "name": "TRID_ILANDF1_03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 755,
+    "hash": "C7186F69EE21EAC6",
+    "name": "TRID_ILANDM1_04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 756,
+    "hash": "27FC2B4846239187",
+    "name": "TRID_ILANDM1_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 757,
+    "hash": "E81BE3F4011BE747",
+    "name": "TRID_ILANDF1_02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 758,
+    "hash": "34D0934ECF8C3B65",
+    "name": "TRID_ILANDM1_03_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 759,
+    "hash": "00805AD7933BEBE1",
+    "name": "TRID_ILANDF1_04_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 760,
+    "hash": "B97CE2279106DF6B",
+    "name": "TRID_MASTER2_01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 761,
+    "hash": "1F1990829A217F74",
+    "name": "TRID_MASTER2_02_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 762,
+    "hash": "1EB824BB26E481CC",
+    "name": "TRID_SISTER_EV01_2_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 763,
+    "hash": "500149783CD3969C",
+    "name": "TRID_MASTER2_05_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 764,
+    "hash": "D8A5CB5C13F63D4F",
+    "name": "TRID_MASTER2_06_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 765,
+    "hash": "FBF73ECEE6C48CDA",
+    "name": "TRID_ADVENTURERM_02_TRMSG_FIGHT_LOSE"
+  },
+  {
+    "index": 766,
+    "hash": "F75A44E3A3685523",
+    "name": "msg_trmsg_max"
+  }
+]

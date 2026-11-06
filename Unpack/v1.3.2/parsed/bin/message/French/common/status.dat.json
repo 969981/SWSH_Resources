@@ -1,0 +1,412 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "N. [VAR 0202(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nom"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Dresseur d\u2019Origine"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "N\u00BA ID"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0205(0000,0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Points d\u2019Exp\u00E9rience"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0206(0000,202F)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Niveau suivant"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": " "
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0206(0000,202F)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Objet"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": " Objet"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": " Marquer"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "S\u00E9lectionnez au moins une marque."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Changer"
+  },
+  {
+    "index": 27,
+    "flags": 64,
+    "text": "PV"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[VAR 0203(0000,202F)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 30,
+    "flags": 5,
+    "text": "Attaque"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 32,
+    "flags": 1,
+    "text": "D\u00E9fense"
+  },
+  {
+    "index": 33,
+    "flags": 1,
+    "text": "Vitesse"
+  },
+  {
+    "index": 34,
+    "flags": 1,
+    "text": "D\u00E9f. Sp\u00E9."
+  },
+  {
+    "index": 35,
+    "flags": 5,
+    "text": "Atq. Sp\u00E9."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Talent"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Niveau Dynamax"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "PP"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Capacit\u00E9s"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Cat\u00E9gorie"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Puissance"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Pr\u00E9cision"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Changer l\u2019ordre"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Valider"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "D\u00E9placer"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Rubans"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Nom"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[VAR 0127(0000)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Dans votre Sac"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Titre associ\u00E9"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[VAR 01D1(0000)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " Porter"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": " Changer"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": " Retirer"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Type"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": " CT"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Voulez-vous \u00E9changer ce Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Retour \u00E0 la Bo\u00EEte PC"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Retour au r\u00E9sum\u00E9"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Aucun Ruban disponible"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Voir les d\u00E9tails"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Voir les d\u00E9tails"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  }
+]

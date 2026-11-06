@@ -1,0 +1,2917 @@
+[
+  {
+    "index": 0,
+    "flags": 8,
+    "text": "Squadra"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]   L. [VAR 0202(0001)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Box"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Lista"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ricerca"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u2642"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u2640"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "L. [VAR 0202(0000)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "N\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 17,
+    "flags": 64,
+    "text": "PS"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Attacco"
+  },
+  {
+    "index": 22,
+    "flags": 1,
+    "text": "Difesa"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Att. Sp."
+  },
+  {
+    "index": 24,
+    "flags": 1,
+    "text": "Dif. Sp."
+  },
+  {
+    "index": 25,
+    "flags": 1,
+    "text": "Velocit\u00E0"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Abilit\u00E0"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 29,
+    "flags": 8,
+    "text": "Strumento"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Livello Dynamax"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Pok\u00E9mon"
+  },
+  {
+    "index": 35,
+    "flags": 8,
+    "text": "Strumenti"
+  },
+  {
+    "index": 36,
+    "flags": 8,
+    "text": "Squadre Lotta"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u202FSelez. normale"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u202FSelez. multipla"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "\u202FSelez. rapida"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Info Box"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 01C0(0000)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Pok\u00E9mon selezionato: [VAR 0102(0000)]"
+  },
+  {
+    "index": 44,
+    "flags": 8,
+    "text": "Sposta"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 46,
+    "flags": 8,
+    "text": "Strumento"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Segna"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Libera"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Puoi selezionare pi\u00F9 Pok\u00E9mon.\\nVuoi continuare lo stesso?"
+  },
+  {
+    "index": 51,
+    "flags": 8,
+    "text": "Scegli uno o pi\u00F9 simboli."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Vuoi davvero liberarlo?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Hai liberato [VAR 0102(0000)].\\nAddio, [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Non puoi liberare un Uovo!\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Non puoi liberare [VAR 1502(0000,0000)][VAR 0101(0000)]\\nendofuso!\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Non puoi liberare [VAR 1502(0000,0000)][VAR 0101(0000)]\\nunito a un altro Pok\u00E9mon!\\c"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Non puoi liberare un Pok\u00E9mon registrato in una\\nSquadra Lotta.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Devi avere almeno un Pok\u00E9mon in forma con te.\\c"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon ha uno strumento speciale\\ne non pu\u00F2 essere liberato.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Cosa vuoi fare?"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Cambia Box"
+  },
+  {
+    "index": 64,
+    "flags": 8,
+    "text": "Sfondo"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Nome"
+  },
+  {
+    "index": 66,
+    "flags": 8,
+    "text": "Scegli un tema."
+  },
+  {
+    "index": 67,
+    "flags": 8,
+    "text": "Sfondo 1"
+  },
+  {
+    "index": 68,
+    "flags": 8,
+    "text": "Sfondo 2"
+  },
+  {
+    "index": 69,
+    "flags": 8,
+    "text": "Sfondo 3"
+  },
+  {
+    "index": 70,
+    "flags": 8,
+    "text": "Sfondo 4"
+  },
+  {
+    "index": 71,
+    "flags": 8,
+    "text": "Sfondo 5"
+  },
+  {
+    "index": 72,
+    "flags": 8,
+    "text": "Sfondo 6"
+  },
+  {
+    "index": 73,
+    "flags": 8,
+    "text": "Sfondo 7"
+  },
+  {
+    "index": 74,
+    "flags": 8,
+    "text": "Sfondo 8"
+  },
+  {
+    "index": 75,
+    "flags": 8,
+    "text": "Sfondo 9"
+  },
+  {
+    "index": 76,
+    "flags": 8,
+    "text": "Sfondo 10"
+  },
+  {
+    "index": 77,
+    "flags": 8,
+    "text": "Sfondo 11"
+  },
+  {
+    "index": 78,
+    "flags": 8,
+    "text": "Sfondo 12"
+  },
+  {
+    "index": 79,
+    "flags": 8,
+    "text": "Sfondo 13"
+  },
+  {
+    "index": 80,
+    "flags": 8,
+    "text": "Sfondo 14"
+  },
+  {
+    "index": 81,
+    "flags": 8,
+    "text": "Sfondo 15"
+  },
+  {
+    "index": 82,
+    "flags": 8,
+    "text": "Sfondo 16"
+  },
+  {
+    "index": 83,
+    "flags": 8,
+    "text": "Sfondo 17"
+  },
+  {
+    "index": 84,
+    "flags": 8,
+    "text": "Sfondo 18"
+  },
+  {
+    "index": 85,
+    "flags": 8,
+    "text": "Sfondo 19"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Hai selezionato [VAR 1500(0000,0000)][VAR 0109(0000)]!"
+  },
+  {
+    "index": 87,
+    "flags": 8,
+    "text": "Sposta"
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "In Borsa"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Hai messo [VAR 1500(0000,0000)][VAR 0109(0000)] in Borsa.\\c"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Hai raggiunto il limite per questo strumento!\\c"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Vuoi prendere [VAR 1500(0000,0000)][VAR 0109(0000)]?"
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 avere uno strumento."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Dai"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Non puoi dare uno strumento a un Uovo!\\c"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Registra"
+  },
+  {
+    "index": 96,
+    "flags": 8,
+    "text": "Sposta"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Rimuovi"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "In questo momento la Squadra Lotta \u00E8 bloccata.\\nNon puoi spostare i Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "In questo momento la Squadra Lotta \u00E8 bloccata.\\nNon puoi rimuovere i Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "In questo momento la Squadra Lotta \u00E8 bloccata.\\nNon puoi cambiare gli strumenti.\\c"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "In questo momento la Squadra Lotta \u00E8 bloccata.\\nNon puoi aggiungere o rimuovere simboli.\\c"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "La Squadra Lotta \u00E8 bloccata!\\nNon puoi registrare altri Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Vuoi cambiare il nome della squadra?"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Non puoi registrare un Uovo!\\c"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Imposta dei criteri e seleziona \u201CCerca\u201D\\nper visualizzare i risultati."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Pok\u00E9mon"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Tipo 1"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Tipo 2"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Mossa"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "MT compatibile"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Abilit\u00E0"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Natura"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Sesso"
+  },
+  {
+    "index": 114,
+    "flags": 8,
+    "text": "Strumento"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Simboli"
+  },
+  {
+    "index": 116,
+    "flags": 8,
+    "text": "Squadra Lotta"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0103(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0108(0000)]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "\u2642"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "\u2640"
+  },
+  {
+    "index": 125,
+    "flags": 8,
+    "text": "Sconosciuto"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Con strumento"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Senza strumento"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 130,
+    "flags": 8,
+    "text": "Scegli la prima lettera del Pok\u00E9mon da cercare."
+  },
+  {
+    "index": 131,
+    "flags": 8,
+    "text": "Scegli un Pok\u00E9mon."
+  },
+  {
+    "index": 132,
+    "flags": 8,
+    "text": "Scegli il primo tipo."
+  },
+  {
+    "index": 133,
+    "flags": 8,
+    "text": "Scegli il secondo tipo."
+  },
+  {
+    "index": 134,
+    "flags": 8,
+    "text": "Scegli la prima lettera della mossa da cercare."
+  },
+  {
+    "index": 135,
+    "flags": 8,
+    "text": "Scegli una mossa."
+  },
+  {
+    "index": 136,
+    "flags": 8,
+    "text": "Scegli una MT per cercare i Pok\u00E9mon che\\npossono usare la mossa corrispondente."
+  },
+  {
+    "index": 137,
+    "flags": 8,
+    "text": "Scegli la prima lettera dell\u2019abilit\u00E0 da cercare."
+  },
+  {
+    "index": 138,
+    "flags": 8,
+    "text": "Scegli un\u2019abilit\u00E0."
+  },
+  {
+    "index": 139,
+    "flags": 8,
+    "text": "Scegli la natura del Pok\u00E9mon."
+  },
+  {
+    "index": 140,
+    "flags": 8,
+    "text": "Scegli il sesso del Pok\u00E9mon."
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Cerca i Pok\u00E9mon con o senza uno strumento."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Cerca i Pok\u00E9mon che hanno dei simboli."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[~ 143]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Cerca i Pok\u00E9mon registrati nella squadra selezionata."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "[VAR 0103(0001)]"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "[VAR 0103(0002)]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "[VAR 0108(0000)]"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon cresce in modo equilibrato."
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "L\u2019Attacco tende a crescere di pi\u00F9.\\nLa Difesa tende a crescere di meno."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "L\u2019Attacco tende a crescere di pi\u00F9.\\nLa Velocit\u00E0 tende a crescere di meno."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "L\u2019Attacco tende a crescere di pi\u00F9.\\nL\u2019Attacco Speciale tende a crescere di meno."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "L\u2019Attacco tende a crescere di pi\u00F9.\\nLa Difesa Speciale tende a crescere di meno."
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "La Difesa tende a crescere di pi\u00F9.\\nL\u2019Attacco tende a crescere di meno."
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon cresce in modo equilibrato."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "La Difesa tende a crescere di pi\u00F9.\\nLa Velocit\u00E0 tende a crescere di meno."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "La Difesa tende a crescere di pi\u00F9.\\nL\u2019Attacco Speciale tende a crescere di meno."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "La Difesa tende a crescere di pi\u00F9.\\nLa Difesa Speciale tende a crescere di meno."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "La Velocit\u00E0 tende a crescere di pi\u00F9.\\nL\u2019Attacco tende a crescere di meno."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "La Velocit\u00E0 tende a crescere di pi\u00F9.\\nLa Difesa tende a crescere di meno."
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon cresce in modo equilibrato."
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "La Velocit\u00E0 tende a crescere di pi\u00F9.\\nL\u2019Attacco Speciale tende a crescere di meno."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "La Velocit\u00E0 tende a crescere di pi\u00F9.\\nLa Difesa Speciale tende a crescere di meno."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale tende a crescere di pi\u00F9.\\nL\u2019Attacco tende a crescere di meno."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale tende a crescere di pi\u00F9.\\nLa Difesa tende a crescere di meno."
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale tende a crescere di pi\u00F9.\\nLa Velocit\u00E0 tende a crescere di meno."
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon cresce in modo equilibrato."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "L\u2019Attacco Speciale tende a crescere di pi\u00F9.\\nLa Difesa Speciale tende a crescere di meno."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "La Difesa Speciale tende a crescere di pi\u00F9.\\nL\u2019Attacco tende a crescere di meno."
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "La Difesa Speciale tende a crescere di pi\u00F9.\\nLa Difesa tende a crescere di meno."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "La Difesa Speciale tende a crescere di pi\u00F9.\\nLa Velocit\u00E0 tende a crescere di meno."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "La Difesa Speciale tende a crescere di pi\u00F9.\\nL\u2019Attacco Speciale tende a crescere di meno."
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon cresce in modo equilibrato."
+  },
+  {
+    "index": 175,
+    "flags": 8,
+    "text": "Scambio con:"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "In attesa della risposta dell\u2019altro giocatore..."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Lo scambio \u00E8 stato annullato.\\c"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "L\u2019altro giocatore ha scelto di terminare\\nlo scambio. Lo scambio verr\u00E0 annullato.\\c"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "L\u2019altro giocatore ha annullato lo scambio.\\c"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Vuoi uscire dagli scambi?"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con il Pok\u00E9mon dell\u2019altro\\ngiocatore. Non \u00E8 possibile eseguire lo scambio.\\c"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con il tuo Pok\u00E9mon.\\nNon \u00E8 possibile eseguire lo scambio.\\c"
+  },
+  {
+    "index": 184,
+    "flags": 4,
+    "text": "Attenzione!\\nSe durante uno scambio la console si spegne\\no si verifica un errore di comunicazione,\\nper un po\u2019 non potrai fare scambi."
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Comunicazione in corso.\\nAttendi..."
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Vuoi ricevere la Card Lega Pok\u00E9mon dell\u2019altro\\nAllenatore?"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Vuoi scambiare il tuo [VAR 0101(0001)] con\\n[VAR 1500(0000,0001)][VAR 0101(0000)] dell\u2019altro Allenatore?"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Questo Uovo non pu\u00F2 essere scambiato.\\c"
+  },
+  {
+    "index": 190,
+    "flags": 8,
+    "text": "Scambia"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Seleziona"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon non pu\u00F2 essere scambiato.\\c"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Non hai Pok\u00E9mon da scambiare.\\c"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Non puoi scambiare un Uovo.\\c"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Non puoi scambiare un Pok\u00E9mon\\nregistrato nella Squadra Lotta.\\c"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon ha uno strumento speciale\\ne non pu\u00F2 essere scambiato.\\c"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Vuoi aggiungere [VAR 0100(0000)] alla lista\\ndegli utenti bloccati?"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Non potrai giocare tramite le funzioni di\\ncomunicazione con gli utenti bloccati.\\c\\nVuoi davvero bloccare questo utente?\\n(\u00C8 possibile sbloccarlo in seguito)"
+  },
+  {
+    "index": 201,
+    "flags": 4,
+    "text": "Hai aggiunto il giocatore alla lista degli utenti\\nbloccati. Lo scambio avr\u00E0 termine.\\c"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Questa persona \u00E8 gi\u00E0 stata aggiunta\\nalla lista degli utenti bloccati.\\c"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile aggiungere il giocatore\\nalla lista degli utenti bloccati.\\c"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Guarda le info dell\u2019altro Pok\u00E9mon"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "[~ 206]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Non puoi modificare lo strumento di un Pok\u00E9mon\\nselezionato per uno scambio magico.\\c"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Non puoi aggiungere o rimuovere simboli a un\\nPok\u00E9mon selezionato per uno scambio magico.\\c"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Non puoi liberare un Pok\u00E9mon selezionato\\nper uno scambio magico.\\c"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Non puoi spostare un Pok\u00E9mon selezionato\\nper uno scambio magico.\\c"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Non puoi registrare in una Squadra Lotta un\\nPok\u00E9mon selezionato per uno scambio magico.\\c"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Non puoi scegliere un Uovo.\\c"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Non puoi scegliere un Pok\u00E9mon della\\nSquadra Lotta.\\c"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Non puoi scegliere un Pok\u00E9mon selezionato\\nper uno scambio magico.\\c"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Non puoi scegliere un Pok\u00E9mon della squadra.\\c"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Non puoi selezionare altri Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Non puoi scegliere un Pok\u00E9mon esausto.\\c"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon \u00E8 troppo speciale per poter\\nessere scambiato tramite scambio magico!\\c"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Non puoi scegliere quel Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Non ci sono Pok\u00E9mon selezionabili.\\c"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "[~ 221]"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": " Esci"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": " Cambia tipo di selezione"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": " Cambia visualizzazione"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": " Info"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": " Cerca"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": " Azzera"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Nascondi"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": " Selezione automatica"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": " Valutazione"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Potenziale discreto"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Potenziale sopra la media"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Potenziale ottimo"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Potenziale eccellente!"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Mediocre"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Sufficiente"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Notevole"
+  },
+  {
+    "index": 239,
+    "flags": 4,
+    "text": "Eccellente"
+  },
+  {
+    "index": 240,
+    "flags": 8,
+    "text": "Stellare"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "[~ 242]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "[~ 243]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "[~ 261]"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "[~ 262]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[~ 263]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "[~ 264]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "[~ 265]"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[~ 267]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[~ 268]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[~ 269]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[~ 270]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "[~ 271]"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "[~ 273]"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "[~ 274]"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[~ 275]"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "[~ 276]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "[~ 277]"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "[~ 278]"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "[~ 279]"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "[~ 280]"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "[~ 281]"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "[~ 283]"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "[~ 284]"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "[~ 285]"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "[~ 286]"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "[~ 287]"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "[~ 288]"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "[~ 289]"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "[~ 290]"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "[~ 291]"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "[~ 292]"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "[~ 293]"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "[~ 294]"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "[~ 295]"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "[~ 296]"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "[~ 297]"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "[~ 298]"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "[~ 299]"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[~ 300]"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "[~ 301]"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "[~ 302]"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[~ 303]"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "[~ 304]"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "[~ 305]"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "[~ 306]"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "[~ 307]"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "[~ 308]"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "[~ 309]"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "[~ 310]"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "[~ 311]"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "[~ 312]"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "[~ 313]"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "[~ 314]"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "[~ 315]"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "[~ 316]"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "[~ 317]"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "[~ 318]"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "[~ 319]"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "[~ 320]"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "[~ 321]"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "[~ 322]"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "[~ 323]"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "[~ 324]"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "[~ 325]"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "[~ 326]"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "[~ 327]"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "[~ 328]"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "[~ 329]"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "[~ 330]"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "[~ 331]"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "[~ 332]"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "[~ 333]"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "[~ 334]"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "[~ 335]"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "[~ 336]"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "[~ 337]"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "[~ 338]"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "[~ 339]"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "[~ 340]"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "[~ 341]"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "[~ 342]"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "[~ 343]"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "[~ 344]"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "[~ 345]"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "[~ 346]"
+  },
+  {
+    "index": 347,
+    "flags": 64,
+    "text": "[~ 347]"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "[~ 348]"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "[~ 349]"
+  },
+  {
+    "index": 350,
+    "flags": 1,
+    "text": "[~ 350]"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "[~ 351]"
+  },
+  {
+    "index": 352,
+    "flags": 1,
+    "text": "[~ 352]"
+  },
+  {
+    "index": 353,
+    "flags": 1,
+    "text": "[~ 353]"
+  },
+  {
+    "index": 354,
+    "flags": 1,
+    "text": "[~ 354]"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "[~ 355]"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "[~ 356]"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "[~ 357]"
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "[~ 358]"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "[~ 359]"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "[~ 360]"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "[~ 361]"
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "[~ 362]"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "[~ 363]"
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "[~ 364]"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "[~ 365]"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "[~ 366]"
+  },
+  {
+    "index": 367,
+    "flags": 0,
+    "text": "[~ 367]"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "[~ 368]"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "[~ 369]"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "[~ 370]"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "[~ 371]"
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "[~ 372]"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "[~ 373]"
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "[~ 374]"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "[~ 375]"
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "[~ 376]"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "[~ 377]"
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "[~ 378]"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "[~ 379]"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "[~ 380]"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "[~ 381]"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "[~ 382]"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "[~ 383]"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "[~ 384]"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "[~ 385]"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "[~ 386]"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "[~ 387]"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "[~ 388]"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "[~ 389]"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "[~ 390]"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "[~ 391]"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "[~ 392]"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "[~ 393]"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "[~ 394]"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "[~ 395]"
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "[~ 396]"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "[~ 397]"
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "[~ 398]"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "[~ 399]"
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "[~ 400]"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "[~ 401]"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "[~ 402]"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "[~ 403]"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "[~ 404]"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "[~ 405]"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "[~ 406]"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "[~ 407]"
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "[~ 408]"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "[~ 409]"
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "[~ 410]"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "[~ 411]"
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "[~ 412]"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "[~ 413]"
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "[~ 414]"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "[~ 415]"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "[~ 416]"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "[~ 417]"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "[~ 418]"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "[~ 419]"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "[~ 420]"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "[~ 421]"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "[~ 422]"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "[~ 423]"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "[~ 424]"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "[~ 425]"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "[~ 426]"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "[~ 427]"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "[~ 428]"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "[~ 429]"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "[~ 430]"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "[~ 431]"
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "[~ 432]"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "[~ 433]"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "[~ 434]"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "[~ 435]"
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "[~ 436]"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "[~ 437]"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "[~ 438]"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "[~ 439]"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "[~ 440]"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "[~ 441]"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "[~ 442]"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "[~ 443]"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "[~ 444]"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "[~ 445]"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "[~ 446]"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "[~ 447]"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "[~ 448]"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "[~ 449]"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "[~ 450]"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "[~ 451]"
+  },
+  {
+    "index": 452,
+    "flags": 0,
+    "text": "[~ 452]"
+  },
+  {
+    "index": 453,
+    "flags": 0,
+    "text": "[~ 453]"
+  },
+  {
+    "index": 454,
+    "flags": 0,
+    "text": "[~ 454]"
+  },
+  {
+    "index": 455,
+    "flags": 0,
+    "text": "[~ 455]"
+  },
+  {
+    "index": 456,
+    "flags": 0,
+    "text": "[~ 456]"
+  },
+  {
+    "index": 457,
+    "flags": 0,
+    "text": "[~ 457]"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "[~ 458]"
+  },
+  {
+    "index": 459,
+    "flags": 0,
+    "text": "[~ 459]"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "[~ 460]"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "[~ 461]"
+  },
+  {
+    "index": 462,
+    "flags": 0,
+    "text": "[~ 462]"
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "[~ 463]"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "[~ 464]"
+  },
+  {
+    "index": 465,
+    "flags": 0,
+    "text": "[~ 465]"
+  },
+  {
+    "index": 466,
+    "flags": 0,
+    "text": "[~ 466]"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "[~ 467]"
+  },
+  {
+    "index": 468,
+    "flags": 0,
+    "text": "[~ 468]"
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "[~ 469]"
+  },
+  {
+    "index": 470,
+    "flags": 0,
+    "text": "[~ 470]"
+  },
+  {
+    "index": 471,
+    "flags": 0,
+    "text": "[~ 471]"
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "[~ 472]"
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "[~ 473]"
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "[~ 474]"
+  },
+  {
+    "index": 475,
+    "flags": 0,
+    "text": "[~ 475]"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "[~ 476]"
+  },
+  {
+    "index": 477,
+    "flags": 0,
+    "text": "[~ 477]"
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "[~ 478]"
+  },
+  {
+    "index": 479,
+    "flags": 0,
+    "text": "[~ 479]"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "[~ 480]"
+  },
+  {
+    "index": 481,
+    "flags": 0,
+    "text": "[~ 481]"
+  },
+  {
+    "index": 482,
+    "flags": 0,
+    "text": "[~ 482]"
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "[~ 483]"
+  },
+  {
+    "index": 484,
+    "flags": 0,
+    "text": "[~ 484]"
+  },
+  {
+    "index": 485,
+    "flags": 0,
+    "text": "[~ 485]"
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "[~ 486]"
+  },
+  {
+    "index": 487,
+    "flags": 0,
+    "text": "[~ 487]"
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "[~ 488]"
+  },
+  {
+    "index": 489,
+    "flags": 0,
+    "text": "[~ 489]"
+  },
+  {
+    "index": 490,
+    "flags": 0,
+    "text": "[~ 490]"
+  },
+  {
+    "index": 491,
+    "flags": 0,
+    "text": "[~ 491]"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "[~ 492]"
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "[~ 493]"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "[~ 494]"
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "[~ 495]"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "[~ 496]"
+  },
+  {
+    "index": 497,
+    "flags": 0,
+    "text": "[~ 497]"
+  },
+  {
+    "index": 498,
+    "flags": 0,
+    "text": "[~ 498]"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "[~ 499]"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "[~ 500]"
+  },
+  {
+    "index": 501,
+    "flags": 0,
+    "text": "[~ 501]"
+  },
+  {
+    "index": 502,
+    "flags": 0,
+    "text": "[~ 502]"
+  },
+  {
+    "index": 503,
+    "flags": 0,
+    "text": "[~ 503]"
+  },
+  {
+    "index": 504,
+    "flags": 0,
+    "text": "[~ 504]"
+  },
+  {
+    "index": 505,
+    "flags": 0,
+    "text": "[~ 505]"
+  },
+  {
+    "index": 506,
+    "flags": 0,
+    "text": "[~ 506]"
+  },
+  {
+    "index": 507,
+    "flags": 0,
+    "text": "[~ 507]"
+  },
+  {
+    "index": 508,
+    "flags": 0,
+    "text": "[~ 508]"
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "[~ 509]"
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "[~ 510]"
+  },
+  {
+    "index": 511,
+    "flags": 0,
+    "text": "[~ 511]"
+  },
+  {
+    "index": 512,
+    "flags": 0,
+    "text": "[~ 512]"
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "[~ 513]"
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "[~ 514]"
+  },
+  {
+    "index": 515,
+    "flags": 0,
+    "text": "[~ 515]"
+  },
+  {
+    "index": 516,
+    "flags": 0,
+    "text": "[~ 516]"
+  },
+  {
+    "index": 517,
+    "flags": 0,
+    "text": "[~ 517]"
+  },
+  {
+    "index": 518,
+    "flags": 0,
+    "text": "[~ 518]"
+  },
+  {
+    "index": 519,
+    "flags": 0,
+    "text": "[~ 519]"
+  },
+  {
+    "index": 520,
+    "flags": 0,
+    "text": "[~ 520]"
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "[~ 521]"
+  },
+  {
+    "index": 522,
+    "flags": 0,
+    "text": "[~ 522]"
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "[~ 523]"
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "[~ 524]"
+  },
+  {
+    "index": 525,
+    "flags": 0,
+    "text": "[~ 525]"
+  },
+  {
+    "index": 526,
+    "flags": 0,
+    "text": "[~ 526]"
+  },
+  {
+    "index": 527,
+    "flags": 0,
+    "text": "[~ 527]"
+  },
+  {
+    "index": 528,
+    "flags": 0,
+    "text": "[~ 528]"
+  },
+  {
+    "index": 529,
+    "flags": 0,
+    "text": "[~ 529]"
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "[~ 530]"
+  },
+  {
+    "index": 531,
+    "flags": 0,
+    "text": "[~ 531]"
+  },
+  {
+    "index": 532,
+    "flags": 0,
+    "text": "[~ 532]"
+  },
+  {
+    "index": 533,
+    "flags": 0,
+    "text": "[~ 533]"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "[~ 534]"
+  },
+  {
+    "index": 535,
+    "flags": 0,
+    "text": "[~ 535]"
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "[~ 536]"
+  },
+  {
+    "index": 537,
+    "flags": 0,
+    "text": "[~ 537]"
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "[~ 538]"
+  },
+  {
+    "index": 539,
+    "flags": 0,
+    "text": "[~ 539]"
+  },
+  {
+    "index": 540,
+    "flags": 0,
+    "text": "[~ 540]"
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "[~ 541]"
+  },
+  {
+    "index": 542,
+    "flags": 0,
+    "text": "[~ 542]"
+  },
+  {
+    "index": 543,
+    "flags": 0,
+    "text": "[~ 543]"
+  },
+  {
+    "index": 544,
+    "flags": 0,
+    "text": "[~ 544]"
+  },
+  {
+    "index": 545,
+    "flags": 0,
+    "text": "[~ 545]"
+  },
+  {
+    "index": 546,
+    "flags": 0,
+    "text": "[~ 546]"
+  },
+  {
+    "index": 547,
+    "flags": 0,
+    "text": "[~ 547]"
+  },
+  {
+    "index": 548,
+    "flags": 0,
+    "text": "[~ 548]"
+  },
+  {
+    "index": 549,
+    "flags": 0,
+    "text": "[~ 549]"
+  },
+  {
+    "index": 550,
+    "flags": 0,
+    "text": "[~ 550]"
+  },
+  {
+    "index": 551,
+    "flags": 0,
+    "text": "[~ 551]"
+  },
+  {
+    "index": 552,
+    "flags": 0,
+    "text": "[~ 552]"
+  },
+  {
+    "index": 553,
+    "flags": 0,
+    "text": "[~ 553]"
+  },
+  {
+    "index": 554,
+    "flags": 0,
+    "text": "[~ 554]"
+  },
+  {
+    "index": 555,
+    "flags": 0,
+    "text": "[~ 555]"
+  },
+  {
+    "index": 556,
+    "flags": 0,
+    "text": "[~ 556]"
+  },
+  {
+    "index": 557,
+    "flags": 0,
+    "text": "[~ 557]"
+  },
+  {
+    "index": 558,
+    "flags": 0,
+    "text": "[~ 558]"
+  },
+  {
+    "index": 559,
+    "flags": 0,
+    "text": "[~ 559]"
+  },
+  {
+    "index": 560,
+    "flags": 0,
+    "text": "[~ 560]"
+  },
+  {
+    "index": 561,
+    "flags": 0,
+    "text": "[~ 561]"
+  },
+  {
+    "index": 562,
+    "flags": 0,
+    "text": "[~ 562]"
+  },
+  {
+    "index": 563,
+    "flags": 0,
+    "text": "[~ 563]"
+  },
+  {
+    "index": 564,
+    "flags": 0,
+    "text": "[~ 564]"
+  },
+  {
+    "index": 565,
+    "flags": 0,
+    "text": "[~ 565]"
+  },
+  {
+    "index": 566,
+    "flags": 0,
+    "text": "[~ 566]"
+  },
+  {
+    "index": 567,
+    "flags": 0,
+    "text": "[~ 567]"
+  },
+  {
+    "index": 568,
+    "flags": 0,
+    "text": "[~ 568]"
+  },
+  {
+    "index": 569,
+    "flags": 0,
+    "text": "[~ 569]"
+  },
+  {
+    "index": 570,
+    "flags": 0,
+    "text": "[~ 570]"
+  },
+  {
+    "index": 571,
+    "flags": 0,
+    "text": "[~ 571]"
+  },
+  {
+    "index": 572,
+    "flags": 0,
+    "text": "[~ 572]"
+  },
+  {
+    "index": 573,
+    "flags": 0,
+    "text": "[~ 573]"
+  },
+  {
+    "index": 574,
+    "flags": 0,
+    "text": "[~ 574]"
+  },
+  {
+    "index": 575,
+    "flags": 0,
+    "text": "[~ 575]"
+  },
+  {
+    "index": 576,
+    "flags": 0,
+    "text": "[~ 576]"
+  },
+  {
+    "index": 577,
+    "flags": 0,
+    "text": "[~ 577]"
+  },
+  {
+    "index": 578,
+    "flags": 0,
+    "text": "[~ 578]"
+  },
+  {
+    "index": 579,
+    "flags": 0,
+    "text": "[~ 579]"
+  },
+  {
+    "index": 580,
+    "flags": 4,
+    "text": "Al top"
+  },
+  {
+    "index": 581,
+    "flags": 0,
+    "text": "[~ 581]"
+  },
+  {
+    "index": 582,
+    "flags": 0,
+    "text": "[~ 582]"
+  }
+]

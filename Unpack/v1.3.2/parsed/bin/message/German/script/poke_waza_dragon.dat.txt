@@ -1,0 +1,14 @@
+Draco Meteor ist die stärkste Drachen-Attacke,\ndie es gibt!\c\nSoll ich sie einem deiner Pokémon beibringen?
+Verstehe... Manch einen kann so eine mächtige\nAttacke auch schlichtweg überfordern.
+Rein theoretisch wäre dein Pokémon schon dazu\nin der Lage, die Attacke zu erlernen.\c\nEs gäbe da allerdings noch eine Bedingung,\ndie es zuvor erfüllen müsste.\c\nIch kann die Attacke nämlich nur Pokémon\nbeibringen, die maximales Zutrauen zu ihrem\r\nTrainer haben.
+In deinem Team befindet sich leider kein\nPokémon, das die Attacke erlernen könnte.\c\nSchau wieder vorbei, wenn du ein Pokémon hast,\ndem ich die Attacke beibringen kann!
+Gut, dann wähle bitte aus, welchem Pokémon\nich die Attacke beibringen soll.
+Oh, dieses Pokémon kann die Attacke leider\nnicht erlernen.
+Ist das dein Ernst? Das ist doch ein Ei!\nEinem Ei kann ich die Attacke nicht beibringen!
+Oh, dieses Pokémon beherrscht Draco Meteor\nbereits!
+Draco Meteor ist ohne Zweifel die stärkste\nDrachen-Attacke weit und breit.\c\nWird sie von einem Pokémon eingesetzt, sinkt im\nGegenzug jedoch sein Spezial-Angriff stark!
+Welche Attacke soll durch\n[VAR 0107(0000)] ersetzt werden?
+[VAR 0102(0000)] erlernt\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0001)]\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]
+[VAR 0102(0000)] hat\n[VAR 0107(0001)] nicht erlernt.
+Welche Attacke soll vergessen werden?

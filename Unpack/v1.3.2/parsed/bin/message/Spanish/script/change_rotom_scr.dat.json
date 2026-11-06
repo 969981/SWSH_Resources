@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Hay cajas de cart\u00F3n con aparatos el\u00E9ctricos."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hay muchas cajas de cart\u00F3n con aparatos\\nel\u00E9ctricos.\\c\\n\u00BFEh? Rotom parece tener cierta curiosidad por\\nel motor de los aparatos.\\c\\n\u00BFPermites a Rotom meterse dentro?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Rotom desiste de su deseo de meterse en el\\ninterior de alg\u00FAn motor."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Rotom quieres que entre en alguno de\\nestos motores?"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Ese Pok\u00E9mon no puede entrar en un motor."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Los Huevos no pueden entrar en los motores."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00BFEn qu\u00E9 motor quieres que entre\\n[VAR 0102(0000)]?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Microondas"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Lavadora"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ventilador"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Nevera"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Cortac\u00E9sped"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Retirar"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] se ha metido en el motor!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] quiere aprender\\n[VAR 0107(0001)]!\\c\\nPero [VAR 0102(0000)] ya conoce cuatro\\nmovimientos.\\c\\n\u00BFQuieres sustituir uno de ellos\\npor [VAR 0107(0001)]?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00BFQuieres que deje de aprender\\n[VAR 0107(0001)]?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha salido del motor sin\\naprender [VAR 0107(0001)]."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0006)]\\c\\n\u00A1[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0002)]! Y..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha olvidado\\n[VAR 0107(0002)]."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ya ha entrado en el motor."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha salido del motor!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] no est\u00E1 dentro de ning\u00FAn\\nmotor!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Muy a su pesar, [VAR 0102(0000)] ha desistido\\nde meterse en alg\u00FAn motor."
+  }
+]

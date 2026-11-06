@@ -1,0 +1,622 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Deine Abenteuerfibel ist noch leer.\\c"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Schlie\u00DFen"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Weiter"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Abenteuerfibel"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mit dem [VAR FF00(0006)]X-Knopf[VAR FF00(0000)] \u00F6ffnest du das Spielmen\u00FC.\\n\\nWenn du im Spielmen\u00FC [VAR FF00(0006)]\u201ESpeichern\u201C[VAR FF00(0000)] ausw\u00E4hlst, kannst du\\ndeinen Spielfortschritt sichern.\\n\\nAu\u00DFerdem kannst du dir im Spielmen\u00FC unter [VAR FF00(0006)]\u201EKarte\u201C[VAR FF00(0000)]\\ndie Landkarte der Region und deinen Zielort ansehen.[VAR FF00(0006)]\\n[VAR FF00(0000)]\\nDie Abenteuerfibel kannst du jederzeit wieder zurate\\nziehen. Du findest sie bei den Basis-Items in deinem\\nBeutel."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Mit dem [VAR FF00(0006)]X-Knopf[VAR FF00(0000)] \u00F6ffnest du das Spielmen\u00FC.\\n\\nWenn du im Spielmen\u00FC [VAR FF00(0006)]\u201ESpeichern\u201C[VAR FF00(0000)] ausw\u00E4hlst, kannst du\\ndeinen Spielfortschritt sichern.\\n\\nDie Abenteuerfibel kannst du jederzeit wieder zurate\\nziehen. Du findest sie bei den Basis-Items in deinem\\nBeutel."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Ypsi-Com"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ypsi-Com er\u00F6ffnet dir jede Menge verschiedener\\nKommunikationsm\u00F6glichkeiten mit anderen Spielern.\\nDu kannst Pok\u00E9mon tauschen, an Pok\u00E9mon-K\u00E4mpfen\\nteilnehmen und vieles mehr!\\n\\nSo gibt es immer etwas zu tun!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Das ist ein Sticker. Solche Sticker werden an andere\\nSpieler verschickt, wenn du eine der Optionen des\\nYpsi-Com-Men\u00FCs ausw\u00E4hlst, um so mit anderen zu\\nkommunizieren.\\nDie Sticker bestehen nicht nur aus Bildern, sondern\\nenthalten auch Nachrichten, damit alle sie verstehen."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00DCber Ypsi-Com kannst du stets mit Spielern in deiner\\nN\u00E4he kommunizieren.\\nWenn du aber den Plus-Knopf dr\u00FCckst und dich\\nmit dem Internet verbindest, kannst du auch mit\\nSpielern auf der ganzen Welt kommunizieren."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Wenn dich w\u00E4hrend deines Abenteuers \u00FCber Ypsi-Com\\nSticker erreichen, bedeutet das, dass jemand \u00FCber die\\nKommunikationsfunktionen versucht, sich mit anderen\\nzu verbinden.\\n\\nDr\u00FCcke den Y-Knopf, um zu sehen, wer online ist!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Wenn du einen Sticker ausw\u00E4hlst, auf dem die\\nUmrisse eines Pok\u00E9mon zu sehen sind, kannst\\ndu zusammen mit anderen Trainern gegen\\nPok\u00E9mon antreten."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Ligakarten der Pok\u00E9mon-Liga"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Du kannst das Design deiner Ligakarte mithilfe der\\nKartomaten, die du in den Pok\u00E9mon-Centern von\\nGalar findest, individuell gestalten.\\nWenn du deine Ligakarte anpasst, werden die\\nAngaben darauf automatisch aktualisiert."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Jeder Trainer besitzt seine eigene Ligakarte, die er\\n\u00FCber die Kommunikationsfunktionen mit anderen\\nTrainern tauschen kann.\\nWenn du \u00FCber den X-Knopf das Spielmen\u00FC aufrufst,\\nkannst du die Ligakarten ansehen, die du bereits\\nerhalten hast."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Rufe \u00FCber den X-Knopf das Spielmen\u00FC auf, um die\\nLigakarten anzusehen, die du bereits erhalten hast.\\n\\nDu kannst dort ebenfalls die Ligakarten sehen,\\ndie du von anderen Spielern erhalten hast."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Kampf-Stadion"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Im Kampf-Stadion kannst du dir Link-K\u00E4mpfe mit\\nTrainern aus der ganzen Welt liefern und an vielen\\nunterschiedlichen Turnieren teilnehmen."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Nimm an Zwanglosen K\u00E4mpfen teil, um mit anderen\\nSpielern ganz unkompliziert Link-K\u00E4mpfe auszutragen.\\nVielleicht wirst du ja so Zeuge einiger unerwarteter\\nPok\u00E9mon und Attacken!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Bei Rangk\u00E4mpfen wetteifern die Spieler miteinander\\nin Link-K\u00E4mpfen um den bestm\u00F6glichen Rang.\\nDer Rang gibt die St\u00E4rke eines Spielers an und ist\\nabh\u00E4ngig vom Ausgang seiner bestrittenen K\u00E4mpfe."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Bei Online-Turnieren wetteifern Spieler um die beste\\nWertung. Diese Zahl gibt ihre jeweilige St\u00E4rke an und\\nwird auf der Grundlage der K\u00E4mpfe ermittelt, die sie\\nsich mit anderen Trainern \u00FCber einen bestimmten\\nZeitraum liefern. Im Unterschied zu anderen Formaten\\nm\u00FCssen Spieler hier selbst Turniere zur Teilnahme suchen\\nund ausw\u00E4hlen."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Dynamax"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "An bestimmten Stellen in der Galar-Region ist es\\nPok\u00E9mon m\u00F6glich, gigantische Ausma\u00DFe anzunehmen.\\nDieses Ph\u00E4nomen nennt man Dynamaximierung.\\nBer\u00FChrst du das [VAR FF00(0006)]Dynamax-Symbol[VAR FF00(0000)], das erscheint,\\nwenn im Kampf das Dynamax-Band aufleuchtet,\\nkannst du dein Pok\u00E9mon dynamaximieren."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Die Dynamaximierung eines Pok\u00E9mon h\u00E4lt nur\\n[VAR FF00(0006)]3 Runden lang [VAR FF00(0000)]an.\\n\\nEin dynamaximiertes Pok\u00E9mon kann m\u00E4chtige Attacken\\neinsetzen, die [VAR FF00(0006)]Dynamax-Attacken[VAR FF00(0000)] genannt werden.\\nDiese Attacken l\u00F6sen je nach Typ einen zus\u00E4tzlichen\\nEffekt aus.\\n\\nWarte den richtigen Zeitpunkt f\u00FCr eine Dynamaximierung\\nab, um den Kampf f\u00FCr dich zu entscheiden!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pok\u00E9Camping"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Beim Pok\u00E9Camping kannst du mit deinen Pok\u00E9mon\\nspielen und mit ihnen essen, um so eure Freundschaft\\nzu vertiefen. Wenn du viel mit deinen Pok\u00E9mon\\nspielst, kann es sein, dass sie sich im Kampf sogar\\nnoch mehr f\u00FCr dich ins Zeug legen."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Spiele mit deinen Joy-Con-Controllern!\\nEntferne einen Joy-Con vom System und schwinge ihn,\\num deinen Pok\u00E9mon einen Ball zuzuwerfen oder den\\nPok\u00E9wedel zu schwingen.\\nBist du geschickt im Umgang mit dem Pok\u00E9wedel,\\nkannst du die Aufmerksamkeit der Pok\u00E9mon erregen."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Schl\u00E4gst du in der Naturzone dein Pok\u00E9Camp auf,\\nkannst du dort mit bis zu drei anderen Trainern\\nspielen. Es kommt vor, dass Leute und Pok\u00E9mon,\\ndenen du noch nie zuvor begegnet bist, dein Camp\\nbesuchen. Das ist die perfekte Gelegenheit f\u00FCr\\nneue Bekanntschaften!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Kochen"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Bereite ein leckeres Gericht aus Zutaten und Beeren\\ndeiner Wahl zu!\\n\\nJe hochwertiger die Lebensmittel sind und je mehr\\nBeeren du ins Essen gibst, desto besser schmeckt es."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Nutze den F\u00E4cher, um das Feuer zu regulieren,\\nsobald du mit dem Kochen beginnst. R\u00FChre dann\\nalles mit der Sch\u00F6pfkelle um und gib dabei acht,\\ndass du nichts versch\u00FCttest. Mit der n\u00F6tigen Prise\\nLiebe und dem perfekten Timing wird daraus ein\\nFestmahl f\u00FCr deine Pok\u00E9mon!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Ist das Gericht fertig, hei\u00DFt es f\u00FCr alle: \u201EEssen fassen!\u201C\\nDie gemeinsame Mahlzeit hat diverse Effekte auf\\ndie Pok\u00E9mon in deinem Camp. Sie stellt zum Beispiel\\nihre KP wieder her oder macht sie dir gegen\u00FCber\\nzutraulicher."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Pok\u00E9mon-Nester"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "In der Naturzone findet man viele Pok\u00E9mon-Nester,\\naus denen eine Lichts\u00E4ule in den Himmel aufsteigt.\\nWenn du ein Nest untersuchst, kannst du entweder\\nallein oder mit drei anderen Trainern gegen das\\nDynamax-Pok\u00E9mon, das sich darin verbirgt, antreten."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Wirfst du Wunschsplitter in ein Pok\u00E9mon-Nest, aus\\ndem keine Lichts\u00E4ule emporsteigt, erscheint auch\\ndort ein Dynamax-Pok\u00E9mon.\\n\\nWenn dir unterwegs ein Pok\u00E9mon-Nest auff\u00E4llt,\\nwirf doch einfach mal ein paar Wunschsplitter hinein!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "In leuchtenden Pok\u00E9mon-Nestern findest du eine\\nEnergie namens Watt, unabh\u00E4ngig davon, ob aus\\ndiesen Nestern eine Lichts\u00E4ule aufsteigt oder nicht.\\nEinige Trainer in der Naturzone geben dir im Tausch\\ngegen ein paar Watt wertvolle Items!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Dyna-Raids"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Wenn du ein Dynamax-Pok\u00E9mon besiegst, hast du\\ndie M\u00F6glichkeit, es zu fangen.\\n\\nAu\u00DFerdem kann es sein, dass du seltene Items\\nergatterst, die du sonst nirgendwo findest."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Wilde Dynamax-Pok\u00E9mon sind unvorstellbar stark.\\nMitunter feuern sie mehrere Attacken in Folge ab\\noder greifen zu anderen ungew\u00F6hnlichen Ma\u00DFnahmen.\\nWenn du gegen solche Pok\u00E9mon bestehen willst,\\nliegt der Schl\u00FCssel zum Erfolg in der Zusammenarbeit\\nmit den anderen drei Trainern!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Flugtaxis"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Wenn du die Dienste des Flugtaxis nutzt, wirst du\\nvon einem Krarmor schnurstracks an dein Ziel\\ngebracht.\\n\\n\u00D6ffne \u00FCber das Spielmen\u00FC die Karte und w\u00E4hle,\\nwo die Reise hingehen soll!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "PC-Boxen"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Du kannst deine Pok\u00E9mon in den PC-Boxen der\\nverschiedenen Pok\u00E9mon-Center aufbewahren.\\n\\nBesuche ein beliebiges Pok\u00E9mon-Center,\\num Pok\u00E9mon aus deinen Boxen zu holen."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Mit dem X-Knopf kannst du zwischen den einzelnen\\nModi der Boxen wechseln, um sie zu verwalten.\\n\\nDu kannst unter anderem die Pok\u00E9mon aus deinem\\nTeam mit Pok\u00E9mon aus den Boxen austauschen oder\\ndie Anordnung der Pok\u00E9mon \u00E4ndern."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Mit dem Y-Knopf kannst du den Auswahlmodus\\n\u00E4ndern. Der rote Pfeil dient der normalen Steuerung.\\nMit dem blauen Pfeil kannst du die Position eines\\neinzelnen Pok\u00E9mon wechseln oder es mit einem\\nanderen Pok\u00E9mon tauschen. Mit dem gr\u00FCnen Pfeil\\nkannst du mehrere Pok\u00E9mon gleichzeitig ausw\u00E4hlen."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Pok\u00E9Jobs"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "In Galar suchen zahlreiche Firmen nach Pok\u00E9mon,\\ndie ihnen bei bestimmten Aufgaben helfen k\u00F6nnen.\\nDu kannst diesen Firmen unter die Arme greifen,\\nindem du die Pok\u00E9mon zu ihnen schickst, nach denen\\nsie suchen. Wenn sie zur\u00FCckkommen, haben deine\\nPok\u00E9mon sicher so einiges dazugelernt."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Die Auswahl an Pok\u00E9Jobs wird einmal am Tag\\naktualisiert. Je \u00F6fter du deine Pok\u00E9mon aushelfen\\nl\u00E4sst und je mehr von ihnen du losschickst, desto\\nmehr Belohnungen warten auf dich.\\nHilf aus, sooft du kannst!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Die Auswahl an Pok\u00E9Jobs wird nur ein Mal am Tag\\naktualisiert. Wenn deine Pok\u00E9mon f\u00FCr ihre Arbeit ein\\ngutes Feedback erhalten, nimmt die Zahl an Angeboten\\naber mit der Zeit zu.\\n\\nEin gutes Feedback erh\u00E4ltst du, wenn die Pok\u00E9mon,\\ndie du entsendest, die Anforderungen der Pok\u00E9Jobs\\nerf\u00FCllen. Also achte darauf, dass du Pok\u00E9mon ausw\u00E4hlst,\\ndie f\u00FCr den jeweiligen Job geeignet sind!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Arena-Challenge"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Bei der Arena-Challenge geht es darum, die acht\\nArena-Stadien von Galar nacheinander aufzusuchen\\nund sich ihre jeweiligen Arenaorden zu erk\u00E4mpfen.\\nUm einen Arenaorden zu erhalten, musst du die\\nzugeh\u00F6rige Arena-Mission bestehen und im Anschluss\\nden Arenaleiter im Kampf bezwingen."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Lokales Turnier"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Bei diesem Format kannst du in Turnieren gegen\\nandere Spieler antreten.\\n\\nNeben der Teilnahme an offiziellen Turnieren besteht\\nauch die M\u00F6glichkeit, ein Freundesturnier zu\\nveranstalten.\\n\\nWeitere Informationen zu offiziellen Turnieren findest\\ndu auf der offiziellen Pok\u00E9mon-Internetseite."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Ein Turnier veranstalten"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Du selbst kannst auch Lokale Turniere ausrichten.\\n\\nErstelle die Kampfregeln, denen die anderen\\nbeim K\u00E4mpfen folgen sollen, und mache sie dann\\nf\u00FCr alle Turnier-Teilnehmer \u00FCber die drahtlosen\\nKommunikationsfunktionen deiner Konsole verf\u00FCgbar.\\n\\nWeitere Informationen dazu findest du auf der offiziellen\\nPok\u00E9mon-Internetseite."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Zwanglose K\u00E4mpfe"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Bei Zwanglosen K\u00E4mpfen gelten folgende Regeln:\\n\\n- Dein Kampfteam muss aus [VAR FF00(0006)]sechs unterschiedlichen\\nPok\u00E9mon [VAR FF00(0000)]bestehen.\\n\\n- In deinem Kampfteam darf kein getragenes Item [VAR FF00(0006)]\\ndoppelt vertreten sein[VAR FF00(0000)]."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Bei Zwanglosen K\u00E4mpfen sind besondere Pok\u00E9mon\\nerlaubt.\\n\\nDas bedeutet, du kannst mit deinen Lieblings-Pok\u00E9mon\\nantreten!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Rangk\u00E4mpfe"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Bei Rangk\u00E4mpfen gelten folgende Regeln:\\n\\n- Dein Kampfteam muss aus [VAR FF00(0006)]sechs unterschiedlichen\\nPok\u00E9mon [VAR FF00(0000)]bestehen.\\n\\n- In deinem Kampfteam darf kein getragenes Item [VAR FF00(0006)]\\ndoppelt vertreten sein[VAR FF00(0000)].\\n\\n- [VAR FF00(0006)]Es d\u00FCrfen sich keine besonderen Pok\u00E9mon in deinem\\nKampfteam befinden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Bei Rangk\u00E4mpfen gewinnst oder verlierst du Punkte\\nje nach Ausgang deiner K\u00E4mpfe.\\n\\nWenn du eine bestimmte Punktzahl erreichst, steigst\\ndu im Rang auf.\\nVerlierst du hingegen eine bestimmte Anzahl an Punkten,\\nsteigst du im Rang ab."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Auch wenn du Rangk\u00E4mpfe verlierst, steigst du nicht\\nin der Klasse ab.\\n\\nHast du beispielsweise die Hyperball-Klasse erreicht,\\nkannst du nicht in die Superball-Klasse zur\u00FCckfallen."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Rangk\u00E4mpfe werden in festgelegten Zeitr\u00E4umen\\nausgetragen, die man Saisons nennt.\\n\\nWenn eine Saison endet, beginnt daraufhin die n\u00E4chste.\\n\\nZu Beginn einer neuen Saison wird der Rang jedes\\nSpielers herabgesetzt. Dabei kann es vorkommen,\\ndass Spieler in der Klasse absteigen."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Die Spieler mit dem h\u00F6chsten Rang in Rangk\u00E4mpfen\\nsteigen nicht weiter im Rang auf, sondern k\u00E4mpfen um\\ndie beste Platzierung innerhalb des Rangs.\\n\\nDie Platzierung der Teilnehmer h\u00E4ngt von den\\nErgebnissen der K\u00E4mpfe ab."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Online-Turniere"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Es gibt zwei Arten von Online-Turnieren:\\nOffizielle Turniere und Freundesturniere."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Offizielle Turniere sind besondere Veranstaltungen mit\\nverschiedenen Regeln, bei denen Spieler um die beste\\nPlatzierung k\u00E4mpfen.\\n\\nTurnierzeitpl\u00E4ne und Informationen bez\u00FCglich der\\nPok\u00E9mon, die f\u00FCr die Teilnahme zugelassen sind,\\nwerden auf der offiziellen Pok\u00E9mon-Internetseite\\nver\u00F6ffentlicht."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Freundesturniere werden von Spielern selbst\\nveranstaltet. Sie sind zwanglose Wettk\u00E4mpfe,\\nbei denen Spieler sich zusammenfinden, um\\ngegeneinander anzutreten.\\n\\nDu kannst deine Fertigkeiten bei einer Vielzahl an\\nFreundesturnieren auf die Probe stellen!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Wenn du nach offiziellen Turnieren oder nach\\nFreundesturnieren suchst und dich anmeldest,\\nkannst du teilnehmen, sobald das Turnier beginnt.\\n\\n\u00DCberlege, nach welchen Regeln du k\u00E4mpfen willst\\nund welche Pok\u00E9mon du einsetzen m\u00F6chtest, um ein\\npassendes Turnier zu finden!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Pok\u00E9mon-Box"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Du kannst die Pok\u00E9mon-Box dazu verwenden, auf deine\\nPC-Boxen zuzugreifen. So kannst du die Pok\u00E9mon aus\\ndeinem Team mit Pok\u00E9mon aus den Boxen austauschen.\\nW\u00E4hle im Spielmen\u00FC \u201EPok\u00E9mon\u201C aus und dr\u00FCcke die\\nR-Taste, um auf deine PC-Boxen zuzugreifen."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "An Rangk\u00E4mpfen teilnehmen"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "W\u00E4hle im Spielmen\u00FC erst \u201EVS\u201C und anschlie\u00DFend\\n\u201EKampf-Stadion\u201C aus, um an Rangk\u00E4mpfen\\nteilzunehmen.\\nTrainiere deine F\u00E4higkeiten im Kampfturm und stelle\\ndich der Herausforderung!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Angeln"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Wenn du den Schatten eines Pok\u00E9mon im Wasser\\nentdeckst, wende dich ihm zu und dr\u00FCcke den\\nA-Knopf, um die Angelrute auszuwerfen.\\nDr\u00FCcke erneut den A-Knopf, sobald deine Angelrute\\nwackelt, um das Pok\u00E9mon aus dem Wasser zu holen.\\nProbiere es an verschiedenen Orten aus!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Leihteams"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Leihteams erlauben es dir, die \u00F6ffentlich gemachten\\nKampfteams anderer Trainer \u00FCber das Internet\\nauszuleihen oder dein eigenes Kampfteam an\\nandere Trainer zu verleihen.\\nWenn ein Kampfteam \u00F6ffentlich gemacht wird,\\nwird eine Team-ID ausgegeben. Mit dieser ID\\nkannst du das entsprechende Kampfteam ausleihen."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Die R\u00FCstungsinsel"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Du hast den R\u00FCstungspass erhalten!\\nZeige ihn dem Personal am Brassbury-Bahnhof,\\num zur R\u00FCstungsinsel zu reisen.\\nDort erwartet dich ein neues Abenteuer, auf dem du\\nseltene Pok\u00E9mon fangen und zusammen mit deinem\\nPok\u00E9mon-Team wachsen und st\u00E4rker werden kannst!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Die Kronen-Schneelande"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Du hast den Kronenpass erhalten!\\nZeige ihn dem Personal am Brassbury-Bahnhof,\\num zu den Kronen-Schneelanden zu reisen.\\nDort erwartet dich ein neues Abenteuer voller R\u00E4tsel\\nund Legend\u00E4rer Pok\u00E9mon, die in den verschneiten\\nLanden darauf warten, von dir entdeckt zu werden!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Dynamax-Abenteuer"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Schlie\u00DF dich mit drei weiteren Trainern zusammen\\nund erkunde das r\u00E4tselhafte Dyna-Riesennest.\\n\\nIn den Tiefen des Nests wartet ein\\nLegend\u00E4res Pok\u00E9mon auf dich!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Dynamax-Abenteuer bestreitest du an der Seite\\neines geliehenen Pok\u00E9mon.\\n\\nZu Beginn des Abenteuers muss daher jeder Spieler\\nein Leih-Pok\u00E9mon ausw\u00E4hlen."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Im Inneren des Dyna-Riesennests gibt es etliche\\nAbzweigungen. Entscheide dich gemeinsam mit den\\nanderen drei Trainern f\u00FCr einen Weg und tritt dann\\ngegen die dortigen Pok\u00E9mon in Dyna-Raids an. F\u00E4ngst\\ndu ein Pok\u00E9mon, kannst du es gegen deinen aktuellen\\nBegleiter austauschen und mit ihm weiter vordringen!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Der K\u00F6nig der reichen Ernte"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "In Freezedale wird das M\u00E4rchen vom K\u00F6nig der\\nreichen Ernte \u00FCberliefert, einem Legend\u00E4ren\\nPok\u00E9mon, dessen Haupt eine imposante Krone\\nzieren soll. Die h\u00F6lzerne Statue in der Dorfmitte\\nscheint allerdings keine Krone zu tragen."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Nachdem ich der Statue des K\u00F6nigs der reichen Ernte\\ndie Krone aufgesetzt hatte, tauchte Coronospa auf.\\nEs \u00FCbernahm die Kontrolle \u00FCber Peonys K\u00F6rper,\\num in der Sprache der Menschen sprechen zu k\u00F6nnen.\\nJetzt sollte ich mich bei den Dorfbewohnern \u00FCber\\nden K\u00F6nig der reichen Ernte schlaumachen."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Um das treue Ross des K\u00F6nigs der reichen Ernte\\naufzusp\u00FCren, ben\u00F6tige ich seine Leibspeise: Karotten.\\nVielleicht wissen ja die Leute in Freezedale mehr dazu."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Nachdem ich Coronospa mitgeteilt hatte, dass ich\\nKarottensamen auftreiben konnte, verriet es mir\\nden Standort zweier Felder, wo die Samen gedeihen\\nk\u00F6nnen: eines davon schneebedeckt, das andere in\\nder N\u00E4he einiger Gr\u00E4ber. Jetzt muss ich mich nur noch\\nf\u00FCr eines entscheiden und die Samen dort auss\u00E4en."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Dank Coronospas Kraft ist eine Polarkarotte aus den\\nSamen gewachsen, die ich auf dem schneebedeckten\\nFeld ges\u00E4t hatte. Zwar lockte der Duft der Karotte\\nPolaross an, doch dann st\u00FCrmte es geradewegs in\\nRichtung Freezedale..."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Dank Coronospas Kraft ist eine Phantomkarotte aus\\nden Samen gewachsen, die ich auf dem Feld bei den\\nGrabsteinen ges\u00E4t hatte. Zwar lockte der Duft der\\nKarotte Phantoross an, doch dann st\u00FCrmte es\\ngeradewegs in Richtung Freezedale..."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Mit dem Kronblatt von Coronospa sowie dem\\nM\u00E4hnenhaar, das ich im Kampf gegen sein treues\\nRoss errungen hatte, gelang es, die Z\u00FCgel des Bundes\\nherzustellen. Nun muss ich zum Kronentempel gehen,\\nder Schlafst\u00E4tte des treuen Rosses, um dort\\nCoronospa zu treffen."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Die neuen Z\u00FCgel des Bundes verhalfen dem K\u00F6nig der\\nreichen Ernte dazu, sich wieder mit seinem treuen Ross\\nzu verbinden und neues Vertrauen zu den Menschen\\nzu fassen. Zum Dank daf\u00FCr, dass ich ihm bei der\\nR\u00FCckgewinnung seiner St\u00E4rke geholfen habe, will es\\nmich ab jetzt auf meinen Abenteuern begleiten."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Die Legend\u00E4ren Giganten"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Tief im Bett des Giganten liegen die Ruinen, in denen\\nder Steingigant schl\u00E4ft. Die T\u00FCr ist fest verschlossen\\nund mit der folgenden r\u00E4tselhaften Inschrift versehen:\\n\u201ELa... da... ...ste ...k\u00E9...n ei... St... ...gen,\\nd... ...s un...\u00E4nd... ...cht.\u201C"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Tief im Bett des Giganten liegen die Ruinen, in denen\\nder Steingigant schl\u00E4ft. Auf der T\u00FCr steht:\\n[VAR FF00(0006)]\u201ELass das erste Pok\u00E9mon einen Stein tragen,[VAR FF00(0000)]\\n[VAR FF00(0006)]der es unver\u00E4nderbar macht.\u201C[VAR FF00(0000)]\\n[VAR FF00(0006)]Als ich meinem Pok\u00E9mon einen Ewigstein zum Tragen[VAR FF00(0000)]\\n[VAR FF00(0006)]gab, \u00F6ffnete sich die T\u00FCr und gab Regirock preis.[VAR FF00(0000)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Tief im Herzen der Schneeschlucht liegen die Ruinen,\\nin denen der Eisgigant schl\u00E4ft. Die T\u00FCr ist fest\\nverschlossen und mit der folgenden r\u00E4tselhaften\\nInschrift versehen:\\n\u201EErs... a... de... ...eit... e...ne... leb...n...en\\nSch...kri...s.\u201C"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Tief im Herzen der Schneeschlucht liegen die Ruinen,\\nin denen der Eisgigant schl\u00E4ft. Auf der T\u00FCr steht:\\n[VAR FF00(0006)]\u201EErscheine an der Seite eines lebendigen[VAR FF00(0000)]\\n[VAR FF00(0006)]Schneekristalls.\u201C[VAR FF00(0000)]\\n[VAR FF00(0006)]Als ich Frigometri aus seinem Pok\u00E9ball holte,[VAR FF00(0000)]\\n[VAR FF00(0006)]\u00F6ffnete sich die T\u00FCr und gab Regice preis.[VAR FF00(0000)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Wo Gr\u00FCn und Wei\u00DF sich beim Bett des Giganten\\ntreffen, liegen die Ruinen, in denen der Stahlgigant\\nschl\u00E4ft. Die T\u00FCr ist fest verschlossen und mit der\\nfolgenden r\u00E4tselhaften Inschrift versehen:\\n\u201ELa... ei... ...lles ...r\u00E4u... ert..., d... ...n\\nGig... ...s St... ...ckt.\u201C"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Wo Gr\u00FCn und Wei\u00DF sich beim Bett des Giganten\\ntreffen, liegen die Ruinen, in denen der Stahlgigant\\nschl\u00E4ft. Auf der T\u00FCr steht:\\n[VAR FF00(0006)]\u201ELass ein helles Ger\u00E4usch ert\u00F6nen, das den[VAR FF00(0000)]\\n[VAR FF00(0006)]Stahlgiganten erweckt.\u201C Als ich mit den Fingern pfiff,[VAR FF00(0000)]\\n[VAR FF00(0006)]\u00F6ffnete sich die T\u00FCr und gab Registeel preis.[VAR FF00(0000)]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Am fernen Dreiwegpass liegen die Ruinen, in denen\\ndas Gigantenduo schl\u00E4ft. Die T\u00FCr ist fest verschlossen\\nund mit der folgenden r\u00E4tselhaften Inschrift versehen:\\n\u201EVer...t m...n ...ie dr... ...ant...n,\\n...rd s... d... ...\u00FCr d...s ...ick...ls ...fnen.\u201C"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Am fernen Dreiwegpass liegen die Ruinen, in denen\\ndas Gigantenduo schl\u00E4ft. Auf der T\u00FCr steht:\\n[VAR FF00(0006)]\u201EVersammelt man die drei Giganten,[VAR FF00(0000)]\\n[VAR FF00(0006)]wird sich die T\u00FCr des Schicksals \u00F6ffnen.\u201C[VAR FF00(0000)]\\n[VAR FF00(0006)]Ich versammelte die Giganten aus Stein, Eis und Stahl,[VAR FF00(0000)]\\n[VAR FF00(0006)]die T\u00FCr \u00F6ffnete sich und ich w\u00E4hlte einen Giganten.[VAR FF00(0000)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Die Legend\u00E4ren Vogel-Pok\u00E9mon"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Das orange Pok\u00E9mon flitzte in die Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das schwarze Pok\u00E9mon eilte auf die R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das lila Pok\u00E9mon blieb in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Zapdos fing ich in der Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das schwarze Pok\u00E9mon eilte auf die R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das lila Pok\u00E9mon blieb in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Das orange Pok\u00E9mon flitzte in die Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Lavados fing ich auf der R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das lila Pok\u00E9mon blieb in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Das orange Pok\u00E9mon flitzte in die Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das schwarze Pok\u00E9mon eilte auf die R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Arktos fing ich in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Zapdos fing ich in der Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Lavados fing ich auf der R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das lila Pok\u00E9mon blieb in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Zapdos fing ich in der Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Das schwarze Pok\u00E9mon eilte auf die R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Arktos fing ich in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Das orange Pok\u00E9mon flitzte in die Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Lavados fing ich auf der R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Arktos fing ich in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Wenn die Sonne im Zenit steht, scheint sie auf einen\\nBaumriesen mit Bl\u00E4ttern wie aus Feuer, in dessen\\nGe\u00E4st sich die gefl\u00FCgelten Legenden einfinden.\\n[VAR FF00(0006)]Zapdos fing ich in der Naturzone.[VAR FF00(0000)]\\n[VAR FF00(0006)]Lavados fing ich auf der R\u00FCstungsinsel.[VAR FF00(0000)]\\n[VAR FF00(0006)]Arktos fing ich in den Kronen-Schneelanden.[VAR FF00(0000)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "E... r\u00E4ts...es L...ch ...n g...ltig...m Au...\u00DF,\\n...s uns... W...t ...t ei... a...en verb...t.\\nErst...s ...tde...t w...de e... v... Prof...r M...n.\\nA... and... E...e lie... We...n, i... d...n\\nUltr...sti...n leb... \u2013 W...n, d... ...ch grun...end\\nv...n d...n un... vertr...n P...k\u00E9...n u...rschei...n."
+  }
+]

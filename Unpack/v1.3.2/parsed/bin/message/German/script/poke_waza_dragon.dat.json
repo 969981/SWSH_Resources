@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Draco Meteor ist die st\u00E4rkste Drachen-Attacke,\\ndie es gibt!\\c\\nSoll ich sie einem deiner Pok\u00E9mon beibringen?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Verstehe... Manch einen kann so eine m\u00E4chtige\\nAttacke auch schlichtweg \u00FCberfordern."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Rein theoretisch w\u00E4re dein Pok\u00E9mon schon dazu\\nin der Lage, die Attacke zu erlernen.\\c\\nEs g\u00E4be da allerdings noch eine Bedingung,\\ndie es zuvor erf\u00FCllen m\u00FCsste.\\c\\nIch kann die Attacke n\u00E4mlich nur Pok\u00E9mon\\nbeibringen, die maximales Zutrauen zu ihrem\\r\\nTrainer haben."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "In deinem Team befindet sich leider kein\\nPok\u00E9mon, das die Attacke erlernen k\u00F6nnte.\\c\\nSchau wieder vorbei, wenn du ein Pok\u00E9mon hast,\\ndem ich die Attacke beibringen kann!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Gut, dann w\u00E4hle bitte aus, welchem Pok\u00E9mon\\nich die Attacke beibringen soll."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Oh, dieses Pok\u00E9mon kann die Attacke leider\\nnicht erlernen."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ist das dein Ernst? Das ist doch ein Ei!\\nEinem Ei kann ich die Attacke nicht beibringen!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Oh, dieses Pok\u00E9mon beherrscht Draco Meteor\\nbereits!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Draco Meteor ist ohne Zweifel die st\u00E4rkste\\nDrachen-Attacke weit und breit.\\c\\nWird sie von einem Pok\u00E9mon eingesetzt, sinkt im\\nGegenzug jedoch sein Spezial-Angriff stark!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Welche Attacke soll durch\\n[VAR 0107(0000)] ersetzt werden?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Welche Attacke soll vergessen werden?"
+  }
+]

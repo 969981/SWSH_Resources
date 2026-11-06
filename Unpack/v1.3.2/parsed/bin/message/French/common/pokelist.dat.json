@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Que voulez-vous faire [VAR 1408(0000,0001)][VAR 0102(0000)]\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "O\u00F9 voulez-vous d\u00E9placer ce Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Veuillez choisir un Pok\u00E9mon."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vous a remis\\n[VAR 1400(0001,0000)][VAR 010A(0001)]\u202F!\\c"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ne tient rien.\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Vous ne pouvez pas transporter\\nplus d\u2019exemplaires de cet objet.\\c"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] a chang\u00E9 de forme\u202F!\\c"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quel objet voulez-vous d\u00E9placer\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "O\u00F9 doit-il aller\u202F?"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Avec quels Pok\u00E9mon voulez-vous combattre\u202F?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Vous ne pouvez pas donner d\u2019objet \u00E0 un \u0152uf\u202F!\\c"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Vous avez donn\u00E9 l\u2019objet au Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Bo\u00EEtes PC"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "N. [VAR 0202(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "PV"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0203(0000,202F)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0203(0000,202F)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "R\u00E9sum\u00E9"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Soigner"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Objet"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "D\u00E9placer"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Apte"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pas apte"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "D\u00E9j\u00E0 appris"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Ouvrir le Sac"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Remettre dans le Sac"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Donner un objet"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": " D\u00E9placer un Pok\u00E9mon"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": " D\u00E9placer un objet"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Bo\u00EEte PC"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Permet de choisir dans votre Sac un objet\\n\u00E0 utiliser ou \u00E0 faire tenir \u00E0 un Pok\u00E9mon."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Permet de ranger dans le Sac l\u2019objet tenu\\npar le Pok\u00E9mon."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Permet de d\u00E9placer l\u2019objet tenu par un Pok\u00E9mon."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Retour \u00E0 l\u2019\u00E9cran pr\u00E9c\u00E9dent."
+  }
+]

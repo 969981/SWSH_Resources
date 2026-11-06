@@ -1,0 +1,172 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Osu, [VAR 0100(0000)]!\\nVuoi affrontare la Prova Limitata?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "S\u00EC!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Come funziona?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Non ora..."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "No, mi ritiro..."
+  },
+  {
+    "index": 9,
+    "flags": 8,
+    "text": "Scegli il tipo dei Pok\u00E9mon con cui vuoi\\naffrontare la prova!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Non voglio forzarti.\\nFacciamo un\u2019altra volta!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "La Prova Limitata \u00E8 un allenamento in cui\\nsi lotta solo con Pok\u00E9mon di un certo tipo.\\c\\nPer prima cosa, scegli un tipo e dei Pok\u00E9mon\\nadatti da mandare in campo, al massimo tre.\\c\\nRicorda che non puoi scegliere pi\u00F9 Pok\u00E9mon\\ndella stessa specie, n\u00E9 dare lo stesso\\r\\nstrumento a pi\u00F9 Pok\u00E9mon.\\c\\nPer superare la prova devi ottenere\\ncinque vittorie consecutive.\\r\\nSe perdi anche solo una volta, fallisci!\\c\\nFra una lotta e l\u2019altra puoi rimettere in sesto\\nla tua squadra al massimo due volte,\\r\\nquindi fai buon uso di queste possibilit\u00E0.\\c\\nEcco, ti ho spiegato tutto!\\nVuoi affrontare la Prova Limitata?"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Ora non ti va, eh?\\nFacciamo un\u2019altra volta!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Inizia la prima lotta!\\nPronti..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Proseguiamo con la [VAR 0203(0001,002E)]\u00AA lotta!\\nPronti..."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Via!"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Eccellente!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vuoi rimettere in sesto la tua squadra?\\nPuoi farlo ancora [VAR 0200(0001)] volt[VAR 1101(0001,0101)]ae."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Hai perso...\\c\\nContinua ad allenarti insieme alla tua squadra\\ne torna da me!"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Il risultato di questa Prova Limitata \u00E8...\\c\\n[VAR 0203(0001,0000)] vittori[VAR 1101(0001,0800)]e di fila con Pok\u00E9mon\\ndi tipo [VAR 0103(0002)]!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Niente da dire sulla tua abilit\u00E0 con i Pok\u00E9mon\\ndi tipo [VAR 0103(0002)]!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Ti conferisco questo premio per il tuo incessante\\nimpegno!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Mi raccomando, torna ad affrontare la prova\\nanche con Pok\u00E9mon di altri tipi!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "... C-Cosa?!\\c\\nHai superato la Prova Limitata con tutti\\ni tipi di Pok\u00E9mon!"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Incredibile! Chi l\u2019avrebbe detto?\\nLa tua \u00E8 stata davvero un\u2019impresa epica."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Il tuo talento nella lotta rester\u00E0 nella storia\\ndi questo dojo!\\c\\nTi sei guadagnat[VAR 1100(00FF,0101)]oa il diritto di indossare\\nquesti abiti."
+  },
+  {
+    "index": 27,
+    "flags": 8,
+    "text": "Spero che continuerai a impegnarti per\\nsuperare i tuoi limiti!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Vuoi continuare a lottare?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Rimetto in sesto la squadra e continuo!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi continuare a lottare?\\nPuoi rimettere in sesto la squadra ancora [VAR 0200(0001)] volt[VAR 1101(0001,0101)]ae."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 0201(0003)] PL!"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente articolo:\\n[VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\r\\n([VAR 01C2(0001)])!"
+  }
+]

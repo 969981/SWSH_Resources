@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Au fait, [VAR 0100(0000)]...\\nC\u2019est ta premi\u00E8re fois dans un Centre Pok\u00E9mon\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oui..."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Non, je m\u2019y connais\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Dans ce cas, j\u2019ai rien \u00E0 t\u2019apprendre\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "T\u2019inqui\u00E8te, je vais t\u2019expliquer\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Tout d\u2019abord, voici l\u2019infirmi\u00E8re\u202F! H\u00E9site pas \u00E0 aller\\nlui parler, elle soignera ton \u00E9quipe gratuitement\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Il y a aussi un ordinateur \u00E0 disposition,\\no\u00F9 les Pok\u00E9mon que tu captures sont stock\u00E9s.\\c\\nTu peux voyager qu\u2019avec six Pok\u00E9mon sur toi,\\ndonc c\u2019est bien pratique\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ils vendent aussi des Potions \u00E0 la Boutique\\nPok\u00E9mon\u202F! \u00C7a aide bien\u202F!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Vous \u00EAtes Dresseurs, les jeunes\u202F?\\nPensez \u00E0 faire le plein de Potions\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Merci du conseil, m\u2019sieur\u202F!\\c\\n[VAR 0100(0000)], va faire soigner t[VAR 1101(00FD,0202)]ones Pok\u00E9mon\\nsi n\u00E9cessaire et retrouve-moi sur la Route 2\u202F![VAR 0114(0005)]"
+  }
+]
