@@ -4,6 +4,8 @@ using System.Text;
 using System.Text.Json;
 using pkNX.Containers;
 using pkNX.Structures;
+using pkNX.Structures.FlatBuffers;
+using pkNX.Structures.FlatBuffers.SWSH;
 
 namespace pkNX.SWSHDump;
 
@@ -73,9 +75,18 @@ internal static class Program
             bool gfpak = have >= 8 && BitConverter.ToUInt64(magic) == GFPack.Magic;
             bool sarc = have >= 4 && magic[..4].SequenceEqual("SARC"u8);
             bool ahtb = have >= 4 && magic[..4].SequenceEqual("AHTB"u8);
-            bool text = rel.StartsWith("bin/message/", StringComparison.OrdinalIgnoreCase) && ext == ".dat";
+            bool text = rel.StartsWith("bin/message/", StringComparison.OrdinalIgnoreCase)
+                && !rel.StartsWith("bin/message/grammar/", StringComparison.OrdinalIgnoreCase) && ext == ".dat";
+            bool evolution = rel.StartsWith("bin/pml/evolution/", StringComparison.OrdinalIgnoreCase) && ext == ".bin";
+            bool eggMoves = rel.StartsWith("bin/pml/tamagowaza/", StringComparison.OrdinalIgnoreCase) && ext == ".bin";
+            bool waza = rel.StartsWith("bin/pml/waza/", StringComparison.OrdinalIgnoreCase) && ext == ".wazabin";
+            bool trainerData = rel.StartsWith("bin/trainer/trainer_data/", StringComparison.OrdinalIgnoreCase) && ext == ".bin";
+            bool trainerPoke = rel.StartsWith("bin/trainer/trainer_poke/", StringComparison.OrdinalIgnoreCase) && ext == ".bin";
+            bool trainerType = rel.StartsWith("bin/trainer/trainer_type/", StringComparison.OrdinalIgnoreCase) && ext == ".bin";
+            bool wave = ext == ".wav" && have >= 12 && magic[..4].SequenceEqual("RIFF"u8)
+                && magic.Slice(8, 4).SequenceEqual("WAVE"u8);
             bool personal = rel.Equals("bin/pml/personal/personal_total.bin", StringComparison.OrdinalIgnoreCase);
-            bool known = gfpak || sarc || ahtb || text || personal;
+            bool known = gfpak || sarc || ahtb || text || personal || evolution || eggMoves || waza || trainerData || trainerPoke || trainerType || wave;
             if (!known)
                 return new(rel, "UNSUPPORTED_FORMAT", "signature", sha, size, [], "No validated SWSH adapter for this signature");
             if (size > 256L * 1024 * 1024)
@@ -157,6 +168,103 @@ internal static class Program
                     ability1 = e.Ability1, ability2 = e.Ability2, abilityHidden = e.AbilityH,
                     baseExp = e.BaseEXP, baseFriendship = e.BaseFriendship
                 }), outputRoot));
+            }
+            else if (evolution)
+            {
+                parser = "pkNX.EvolutionSet8";
+                if (data.Length != EvolutionSet8.SIZE)
+                    throw new InvalidDataException("EvolutionSet8 requires exactly 9 x 8 byte records");
+                var evolutions = new EvolutionSet8(data);
+                if (!data.AsSpan().SequenceEqual(evolutions.Write()))
+                    throw new InvalidDataException("EvolutionSet8 byte round-trip mismatch");
+                outputs.Add(SaveJson(target + ".json", evolutions.PossibleEvolutions.Select((e, i) =>
+                    new { slot = i, method = (int)e.Method, argument = e.Argument,
+                        species = e.Species, form = e.Form, level = e.Level }), outputRoot));
+            }
+            else if (eggMoves)
+            {
+                parser = "pkNX.EggMoves7.SWSH";
+                if (data.Length < 4 || data.Length % 2 != 0)
+                    throw new InvalidDataException("Invalid egg move record length");
+                int movesCount = BitConverter.ToInt16(data, 2);
+                if (movesCount < 0 || data.Length != 4 + movesCount * 2)
+                    throw new InvalidDataException("Egg move count/length mismatch");
+                var egg = EggMoves7.GetArray(new[] { data })[0];
+                outputs.Add(SaveJson(target + ".json", new {
+                    formTableIndex = egg.FormTableIndex, count = egg.Moves.Length,
+                    moves = egg.Moves }), outputRoot);
+            }
+            else if (trainerData)
+            {
+                parser = "pkNX.TrainerData8";
+                if (data.Length != 0x14) throw new InvalidDataException("TrainerData8 requires 0x14 bytes");
+                var t = new TrainerData8(data);
+                outputs.Add(SaveJson(target + ".json", new {
+                    trainerClass = t.Class, mode = (int)t.Mode, pokemonCount = t.NumPokemon,
+                    items = new[] { t.Item1, t.Item2, t.Item3, t.Item4 },
+                    ai = t.AI, heal = t.Heal, money = t.Money, gift = t.Gift
+                }, outputRoot));
+            }
+            else if (trainerType)
+            {
+                parser = "pkNX.TrainerClass8";
+                if (data.Length != 280) throw new InvalidDataException("TrainerClass8 requires 280 bytes");
+                var t = new TrainerClass8(data);
+                outputs.Add(SaveJson(target + ".json", new { group = t.Group, ballId = t.BallID,
+                    unknown0 = t.Unk_0x00, unknown3 = t.Unk_0x03,
+                    modelHash = Convert.ToHexString(t.Hash), musicReference = t.S1,
+                    sequenceReference = t.S2 }, outputRoot));
+            }
+            else if (trainerPoke)
+            {
+                parser = "pkNX.TrainerPoke8";
+                if (data.Length % TrainerPoke8.SIZE != 0)
+                    throw new InvalidDataException("TrainerPokemon length must be multiple of 0x20");
+                var team = new List<object>();
+                for (int i = 0; i < data.Length; i += TrainerPoke8.SIZE)
+                {
+                    var mon = new TrainerPoke8(data.AsSpan(i, TrainerPoke8.SIZE).ToArray());
+                    team.Add(new {
+                        slot = i / TrainerPoke8.SIZE, species = mon.Species, form = mon.Form,
+                        level = mon.Level, heldItem = mon.HeldItem, nature = mon.Nature,
+                        ability = mon.Ability, gender = mon.Gender, dynamaxLevel = mon.DynamaxLevel,
+                        canGigantamax = mon.CanGigantamax, shiny = mon.Shiny,
+                        moves = new[] { mon.Move1, mon.Move2, mon.Move3, mon.Move4 },
+                        ivs = new[] { mon.IV_HP, mon.IV_ATK, mon.IV_DEF, mon.IV_SPA, mon.IV_SPD, mon.IV_SPE },
+                        evs = new[] { mon.EV_HP, mon.EV_ATK, mon.EV_DEF, mon.EV_SPA, mon.EV_SPD, mon.EV_SPE }
+                    });
+                }
+                outputs.Add(SaveJson(target + ".json", team, outputRoot));
+            }
+            else if (waza)
+            {
+                parser = "pkNX.FlatBuffers.SWSH.Waza";
+                var move = FlatBufferConverter.DeserializeFrom<Waza>(data);
+                outputs.Add(SaveJson(target + ".json", new {
+                    type = move.Type, category = move.Category, quality = move.Quality,
+                    power = move.Power, accuracy = move.Accuracy, pp = move.PP,
+                    priority = move.Priority, target = (int)move.Target,
+                    critStage = move.CritStage, hitMin = move.HitMin, hitMax = move.HitMax,
+                    inflict = move.Inflict, inflictPercent = move.InflictPercent
+                }, outputRoot));
+            }
+            else if (wave)
+            {
+                parser = "RIFF.WAVE.metadata";
+                var chunks = new List<object>();
+                int offset = 12;
+                while (offset + 8 <= data.Length)
+                {
+                    var name = Encoding.ASCII.GetString(data, offset, 4);
+                    uint chunkLength = BitConverter.ToUInt32(data, offset + 4);
+                    long next = (long)offset + 8 + chunkLength + (chunkLength & 1);
+                    if (next > data.Length) throw new InvalidDataException("WAV chunk exceeds file length");
+                    chunks.Add(new { name, bytes = chunkLength, offset = offset + 8 });
+                    offset = (int)next;
+                }
+                outputs.Add(SaveJson(target + ".metadata.json", new {
+                    riff = "RIFF", wave = "WAVE", fileBytes = data.Length, chunks
+                }, outputRoot));
             }
             else
                 return new(rel, "UNSUPPORTED_FORMAT", "signature", sha, size, [], "No parser");
