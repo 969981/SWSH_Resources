@@ -55,6 +55,8 @@ class WeatherCandidateBreakpoint(gdb.Breakpoint):
           "expected_main_sha256":self.metadata["original_main_sha256"],
           "main_base_claimed":"0x%X"%self.metadata["base"],
           "branch_rva_claimed":"0x%X"%self.metadata["rva"],
+          "native_anchor":self.metadata.get("native_anchor","USER_SUPPLIED_RVA"),
+          "is_weather_branch_verified":False,
           "pc_absolute":"0x%X"%pc,
           "pc_rva_if_main_base_is_correct":"0x%X"%(pc-self.metadata["base"]),
           "instruction_bytes_at_pc":instruction,
@@ -128,5 +130,84 @@ swsh-weather-capture <repo_root> <case_id> <main_base_hex> <verified_branch_rva_
         except Exception as exc:
             raise gdb.GdbError("swsh-weather-capture: "+str(exc))
 
+class SwshWeatherArmKnown(gdb.Command):
+    """Arm four source-backed native entrypoints for the selected Sword/Shield case.
+
+swsh-weather-arm-known <repo_root> <case_id> <main_base_hex> <output_jsonl>
+
+Uses nso_native_encounter_anchors.csv (real NSO TEXT bytes, pinned upstream
+hook versions). Entrypoints are NOT verified weather allow/deny branches.
+"""
+
+    ENTRIES=(
+        "Field.FetchZoneHash",
+        "OverworldEncount.FetchSymbolEncountTable",
+        "OverworldEncount.GenerateSymbolEncountParam",
+        "OverworldEncount.GenerateBasicSpec",
+    )
+
+    def __init__(self):
+        super().__init__("swsh-weather-arm-known",gdb.COMMAND_USER)
+
+    def invoke(self,args,from_tty):
+        try:
+            argv=gdb.string_to_argv(args)
+            if len(argv)!=4:
+                raise ValueError("expected repo_root case_id main_base_hex output_jsonl")
+            repo=Path(argv[0]).expanduser().resolve()
+            case_id=argv[1]
+            base=int(argv[2],0)
+            output=Path(argv[3]).expanduser().resolve()
+            if base<=0 or base%4:
+                raise ValueError("main base must be a positive, 4-byte-aligned address")
+            if not gdb.selected_inferior().is_valid():
+                raise ValueError("attach to a debugger target before arming")
+            casebook=repo/"Unpack/v1.3.2/catalog/weather_bleed_268_cases.csv"
+            with casebook.open(encoding="utf-8-sig",newline="") as f:
+                found=[r for r in csv.DictReader(f) if r["case_id"]==case_id]
+            if len(found)!=1:
+                raise ValueError("case ID is missing or duplicated in original 268-case manifest")
+            case=found[0]
+            native_path=repo/"Unpack/v1.3.2/catalog/nso_native_encounter_anchors.csv"
+            with native_path.open(encoding="utf-8-sig",newline="") as f:
+                available=[r for r in csv.DictReader(f)
+                           if r["game"]==case["game"].lower()
+                           and r["build_id"]==case["build_id"]
+                           and r["main_sha256"]==case["original_main_sha256"]
+                           and r["native_anchor"] in self.ENTRIES]
+            if len(available)!=len(self.ENTRIES):
+                raise ValueError("native entrypoint table does not match case game/BuildID/SHA")
+            names={r["native_anchor"] for r in available}
+            if names!=set(self.ENTRIES):
+                raise ValueError("native entrypoint table has duplicates or missing names")
+            segment_path=repo/"Unpack/v1.3.2/catalog/nso_segments.csv"
+            with segment_path.open(encoding="utf-8-sig",newline="") as f:
+                segments=[r for r in csv.DictReader(f)
+                          if r["game"]==case["game"].lower()
+                          and r["segment"]=="text"
+                          and r["build_id"]==case["build_id"]
+                          and r["source_sha256"]==case["original_main_sha256"]]
+            if len(segments)!=1:
+                raise ValueError("matching NSO TEXT segment metadata not available")
+            low=int(segments[0]["rva_start"])
+            high=int(segments[0]["rva_end_exclusive"])
+            for entry in sorted(available,key=lambda x:self.ENTRIES.index(x["native_anchor"])):
+                rva=int(entry["main_rva_hex"],0)
+                if not (low<=rva<high and rva%4==0):
+                    raise ValueError("native RVA out of NSO TEXT range")
+                metadata={"case_id":case["case_id"],"scenario_id":case["scenario_id"],
+                          "game":case["game"],"build_id":case["build_id"],
+                          "original_main_sha256":case["original_main_sha256"],
+                          "base":base,"rva":rva,"native_anchor":entry["native_anchor"]}
+                WeatherCandidateBreakpoint(base+rva,metadata,output)
+                gdb.write("[SWSH] armed %-47s main+0x%X\n"%(entry["native_anchor"],rva))
+            gdb.write("[SWSH] %d STATIC entrypoints armed for %s. "
+                      "Every hit is raw register evidence, NOT a weather branch verdict. "
+                      "Verify in-process BuildID and real zone/weather before interpretation.\n"%
+                      (len(available),case["case_id"]))
+        except Exception as exc:
+            raise gdb.GdbError("swsh-weather-arm-known: "+str(exc))
+
+SwshWeatherArmKnown()
 SwshWeatherCapture()
-gdb.write("[SWSH] command swsh-weather-capture registered.\n")
+gdb.write("[SWSH] commands swsh-weather-capture / swsh-weather-arm-known registered.\n")
