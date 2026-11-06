@@ -1,0 +1,128 @@
+name: Sync pinned SWSH vendor tools from SV
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/sync-swsh-tools.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swsh-pinned-vendor-import
+  cancel-in-progress: false
+
+jobs:
+  vendor-sync:
+    if: github.repository == '969981/SWSH_Resources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      SV_SOURCE_REF: eca581cb23d5bd84595eca3810d0dee4bd8b60fd
+      SWSH_REPOSITORY: 969981/SWSH_Resources
+    steps:
+      - name: Fetch only SWSH tools and scripts (no ROM checkout)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p swsh
+          git -C swsh init -q
+          git -C swsh remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${SWSH_REPOSITORY}.git"
+          git -C swsh -c protocol.version=2 fetch -q --no-tags --depth=1 --filter=blob:none origin refs/heads/master
+          git -C swsh sparse-checkout init --cone
+          git -C swsh sparse-checkout set tools scripts
+          git -C swsh checkout -q -B master FETCH_HEAD
+          test -f swsh/scripts/verify_vendor_tools.py
+
+      - name: Fetch exact SV source snapshot (tools only)
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p sv-src
+          git -C sv-src init -q
+          git -C sv-src remote add origin https://github.com/969981/SV_Resources.git
+          git -C sv-src -c protocol.version=2 fetch -q --no-tags --depth=1 --filter=blob:none origin "${SV_SOURCE_REF}"
+          git -C sv-src sparse-checkout init --cone
+          git -C sv-src sparse-checkout set tools
+          git -C sv-src checkout -q --detach FETCH_HEAD
+          test "$(git -C sv-src rev-parse HEAD)" = "${SV_SOURCE_REF}"
+
+      - name: Validate source trees and import exact vendor files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+
+          names = ("gftool", "PokeDocs", "pkNX", "Switch-Toolbox", "SCVI_Extract", "nx2elf")
+          src = Path("sv-src")
+          dst = Path("swsh")
+          manifest = json.loads((src / "tools" / "upstream.json").read_text(encoding="utf-8"))
+          entries = manifest["tools"]
+          by_name = {entry["name"]: entry for entry in entries}
+          if set(by_name) != set(names) or len(entries) != len(names):
+              raise RuntimeError("Unexpected upstream tool manifest")
+          roles = {
+              "gftool": "Trinity/GF research reference; SWSH format support unverified",
+              "PokeDocs": "SWSH schemas and format reference; verify against v1.3.2",
+              "pkNX": "Gen 8 Sword/Shield parsing and dump validation",
+              "Switch-Toolbox": "Switch model, texture and container inspection where signatures match",
+              "SCVI_Extract": "SV-only legacy extraction comparison; not a verified SWSH extractor",
+              "nx2elf": "Sword/Shield ExeFS NSO to AArch64 ELF reconstruction",
+          }
+          for name in names:
+              actual = subprocess.check_output(
+                  ["git", "-C", str(src), "rev-parse", f"HEAD:tools/{name}"], text=True
+              ).strip()
+              expected = by_name[name]["sourceTreeSha"]
+              if actual != expected:
+                  raise RuntimeError(f"Source tree changed for {name}: {actual} != {expected}")
+              source_dir = src / "tools" / name
+              target_dir = dst / "tools" / name
+              if not source_dir.is_dir():
+                  raise RuntimeError(f"Missing source tree: {source_dir}")
+              target_dir.mkdir(parents=True, exist_ok=True)
+              subprocess.run(
+                  ["rsync", "-a", "--delete", f"{source_dir}/", f"{target_dir}/"], check=True
+              )
+              by_name[name]["role"] = roles[name]
+              by_name[name]["swshValidation"] = "SOURCE_IDENTICAL_RUNTIME_UNVERIFIED"
+              print(f"Imported {name}: {actual}", flush=True)
+
+          manifest["schemaVersion"] = 3
+          manifest["checkedOn"] = "2026-11-06"
+          manifest["sourceTracking"] = "pinned-full-vendor-tree-from-SV_Resources"
+          manifest["sourceRepository"] = "https://github.com/969981/SV_Resources"
+          manifest["sourceCommit"] = "eca581cb23d5bd84595eca3810d0dee4bd8b60fd"
+          manifest["sourceToolsTreeSha"] = subprocess.check_output(
+              ["git", "-C", str(src), "rev-parse", "HEAD:tools"], text=True
+          ).strip()
+          (dst / "tools" / "upstream.json").write_text(
+              json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+          )
+          PY
+
+      - name: Check staged files, commit, verify and push without force
+        shell: bash
+        run: |
+          set -euo pipefail
+          git -C swsh add -A -- tools
+          git -C swsh diff --cached --check
+          if git -C swsh diff --cached --quiet; then
+            echo 'All tool snapshots already match pinned source.'
+            python swsh/scripts/verify_vendor_tools.py
+            exit 0
+          fi
+          git -C swsh config user.name "github-actions[bot]"
+          git -C swsh config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C swsh diff --cached --stat | tail -30
+          git -C swsh commit -m "chore(tools): vendor six pinned SV tool source trees for SWSH"
+          python swsh/scripts/verify_vendor_tools.py
+          git -C swsh push origin HEAD:refs/heads/master
+          echo "Pushed: $(git -C swsh rev-parse HEAD)"
