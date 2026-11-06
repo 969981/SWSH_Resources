@@ -1,0 +1,79 @@
+name: SWSH v1.3.2 weather accessibility and official Simplified Chinese zone names
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/swsh_weather_locale.py'
+      - '.github/workflows/swsh-weather-locale.yml'
+permissions:
+  contents: write
+concurrency:
+  group: swsh-weather-locale-master
+  cancel-in-progress: false
+jobs:
+  verify-export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_weather_locale.py
+            /tools/pkNX/pkNX.Game/Misc/SWSHInfo.cs
+            /tools/pkNX/FlatBuffers/SWSH/Gen8/Wild/EncounterTableUtil.cs
+            /Unpack/v1.3.2/catalog/wild_encounters_enriched.csv
+            /Unpack/v1.3.2/catalog/wild_zone_index.csv
+            /Unpack/v1.3.2/catalog/wild_weather_locale_summary.json
+            /Unpack/v1.3.2/catalog/zone_id_zh_cn_dictionary.csv
+            /Unpack/v1.3.2/catalog/wild_zone_bilingual.csv
+            /Unpack/v1.3.2/catalog/wild_weather_candidates.csv
+            /Unpack/v1.3.2/parsed/bin/message/Simp_Chinese/common/place_name_indirect.dat.json
+            /Unpack/v1.3.2/parsed/bin/message/English/common/place_name_indirect.dat.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile and re-run native data audit
+        run: |
+          set -euo pipefail
+          python3 -m py_compile scripts/swsh_weather_locale.py
+          python3 scripts/swsh_weather_locale.py
+          python3 - <<'PY'
+          import json,csv
+          from pathlib import Path
+          p=Path("Unpack/v1.3.2/catalog")
+          summary=json.loads((p/"wild_weather_locale_summary.json").read_text(encoding="utf-8"))
+          assert summary["source_slot_count"]==35960
+          assert summary["pkNX_zone_dictionary_count"]==196
+          assert summary["wild_unique_zone_ids"]==186
+          assert summary["member_zone_tables"]==372
+          assert summary["unique_official_message_indices"]==69
+          assert summary["official_map_missing"]==0
+          assert summary["no_runtime_execution"]
+          for name,count in summary["exports"].items():
+              with (p/name).open(encoding="utf-8-sig",newline="") as f:
+                  assert sum(1 for row in csv.DictReader(f))==count,(name,count)
+          print("Verified weather/locale:",summary["exports"])
+          PY
+      - name: Commit verified reports only
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/zone_id_zh_cn_dictionary.csv Unpack/v1.3.2/catalog/wild_zone_bilingual.csv Unpack/v1.3.2/catalog/wild_weather_candidates.csv Unpack/v1.3.2/catalog/wild_weather_locale_summary.json
+          if git diff --cached --quiet; then
+            echo 'No changes'
+            exit 0
+          fi
+          git commit -m 'data(swsh): weather accessibility candidates and official ZH-CN place names [skip ci]'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin master
+            if git push origin HEAD:master; then exit 0; fi
+            sleep 3
+          done
+          echo 'Cannot push'
+          exit 1
