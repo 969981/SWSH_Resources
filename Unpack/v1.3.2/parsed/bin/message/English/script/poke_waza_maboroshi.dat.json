@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "It\u2019s my solemn duty to teach a move to\\nMythical Pok\u00E9mon.\\c\\nAlthough I\u2019m on vacation, I could teach a\\nmove to your Mythical Pok\u00E9mon.\\c\\nWhat do you say?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Whoa! Your Pok\u00E9mon already knows the move\\nI can teach!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "What a shame! I could teach a move if you were\\nwith Keldeo or Meloetta."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "I could teach a move to your Mythical Pok\u00E9mon.\\nWhat do you say?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Speak to me again if you change your mind."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Even I can\u2019t teach my moves to an Egg!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "That Pok\u00E9mon cannot learn the moves\\nI can teach!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Hmm? That Pok\u00E9mon already knows the move\\nI can teach!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Hmmm. That Pok\u00E9mon doesn\u2019t seem to have\\nthe energy to battle..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "What?\\n[VAR 0102(0000)] is..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] has resolved to battle and\\nhas changed into Resolute Form!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon do you want me to teach\\na move to?"
+  }
+]

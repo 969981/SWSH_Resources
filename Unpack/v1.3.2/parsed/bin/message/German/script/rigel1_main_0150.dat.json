@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Da bist du ja.[VAR 0114(0071)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Du bist also erschienen...[VAR 0114(0072)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Jetzt muss ich dich nur noch besiegen,\\ndann geh\u00F6rt die Geheimr\u00FCstung mir![VAR 0114(0071)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Nach meinem Sieg \u00FCber dich werde ich\\ndie Geheimr\u00FCstung f\u00FCr mich beanspruchen.[VAR 0114(0072)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Und dann werde ich eine Arenaleiterin f\u00FCr\\nGift-Pok\u00E9mon! Ich kann es kaum erwarten! \u266A[VAR 0114(0071)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Dies wird mir auf meinem Weg, Arenaleiter f\u00FCr\\nPsycho-Pok\u00E9mon zu werden, alle T\u00FCren \u00F6ffnen![VAR 0114(0072)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Eine Niederlage kommt f\u00FCr mich nicht in Frage,\\ndas verstehst du doch bestimmt, oder?[VAR 0114(0071)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Was auch immer du mir entgegensetzen wirst,\\nder Sieg ist mir jetzt schon gewiss![VAR 0114(0072)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Ich werde mich nicht zur\u00FCckhalten!\\nBereit? \u266A[VAR 0114(0071)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ich werde dir mit aller Kraft entgegentreten,\\ndie ich aufbringen kann! Bist du bereit?[VAR 0114(0072)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Waaas?! Nach meiner tollen Ansage kommt\\nvon dir eine Absage? Du bist echt schr\u00E4g...[VAR 0114(0071)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Trotz meiner elegant geschwungenen Rede sagst\\ndu mir einfach ab? Welch ein freches Wesen![VAR 0114(0072)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Mennooo! Sprich mich gef\u00E4lligst erst an,\\nwenn du auch bereit zum K\u00E4mpfen bist![VAR 0114(0071)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "*Seufz...* Vergewissere dich bitte, dass du bereit\\nbist, bevor du mich das n\u00E4chste Mal ansprichst.[VAR 0114(0072)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Ihr seht aus, als k\u00F6nnte es losgehen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Viel Erfolg!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Ich feuere euch beide an![VAR 0114(0074)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Also gut, geht in Position![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Dies ist die letzte Pr\u00FCfung...[VAR 0114(0073)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Fertig?[VAR 0114(0073)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Und ab geht die Post![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Wir haben [VAR 1100(00FF,0D0C,0000)]einen Siegereine Siegerin![VAR 0114(0073)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] hat die dritte Pr\u00FCfung\\nbestanden![VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Bravooo! Super!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Das war fantastisch!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Was f\u00FCr ein Kampf!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Das habt ihr beide ganz hervorragend gemacht![VAR 0114(0074)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "*Seufz...* Ich hab verloren...[VAR 0114(0071)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Ich... habe verloren...[VAR 0114(0072)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Ha, das ist ja wohl das Allerletzte... Ich verliere,\\nobwohl ich sogar extra geschummelt hab...[VAR 0114(0071)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Ha, wie \u00FCberaus armselig... Dabei habe ich sogar\\nauf faule Tricks zur\u00FCckgegriffen.[VAR 0114(0072)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ein so junges Talent wie du wird das vielleicht\\nnicht verstehen, aber eines solltest du wissen.[VAR 0114(0071)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Ich bezweifle stark, dass ein so junger und\\ntalentierter Mensch wie du das verstehen kann...[VAR 0114(0072)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Ich habe absolut alles gegeben!\\nAlles, was in mir steckt...[VAR 0114(0071)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Aber ich habe alles gegeben, was ein\\ndurchschnittlicher Trainer wie ich nur geben kann.[VAR 0114(0072)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Aber vielleicht sollte ich meinen Traum,\\nArenaleiterin zu werden, langsam aufgeben.[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Doch vielleicht ist nun die Zeit gekommen, den\\nTraum vom Arenaleiter-Dasein aufzugeben.[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Wenn meine Schummelei rauskommt, werde ich\\nsowieso aus dem Dojo geschmissen.[VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Sobald mein unfaires Verhalten auffliegt, werde\\nich sicher ohnehin aus dem Dojo verbannt.[VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]... Du kannst dem Meister ruhig\\nvon meinem faulen Trick erz\u00E4hlen.[VAR 0114(0071)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Halte dich nicht zur\u00FCck, [VAR 0100(0000)].\\c\\nDu kannst dem Meister ruhig von meinen\\nMissetaten berichten.[VAR 0114(0072)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "In Ordnung."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Mach ich aber nicht."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Es tut mir leid...[VAR 0114(0071)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Es tut mir aufrichtig leid...[VAR 0114(0072)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "W-Was? Aber wieso denn nicht?\\c\\nDabei hab ich so feige gehandelt,\\nnur um gegen dich zu gewinnen...[VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "W-Was? Wieso nicht?!\\c\\nDabei habe ich mich zu solch sch\u00E4ndlichen Taten\\nhinrei\u00DFen lassen, um mir den Sieg zu sichern![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Das wird nicht n\u00F6tig sein. Ich wei\u00DF schon genau,\\nwas hier vor sich geht.[VAR 0114(0073)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] zeigt mal wieder wahre St\u00E4rke,\\nindem [VAR 1100(00FF,0302,0000)]ersie sowohl auf Pok\u00E9mon als auch auf\\r\\nGegner R\u00FCcksicht nimmt.[VAR 0114(0073)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "M-Meister?![VAR 0114(0071)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "M-Meister?![VAR 0114(0072)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Als Sophoras Meister trage ich eine gewisse\\nVerantwortung f\u00FCr das, was passiert ist,\\r\\ndaher m\u00F6chte auch ich mich entschuldigen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Als Saverios Meister trage ich eine gewisse\\nVerantwortung f\u00FCr das, was passiert ist,\\r\\ndaher m\u00F6chte auch ich mich entschuldigen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Das war nicht richtig von ihr.[VAR 0114(0073)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Das war nicht richtig von ihm.[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Aber meine Sch\u00FClerin steckt nun einmal voller\\nSiegeswillen und gibt alles gegen [VAR 1100(00FF,0C0D,0000)]ihren Rivalenihre Rivalin.[VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Aber mein Sch\u00FCler steckt nun einmal voller\\nSiegeswillen und gibt alles gegen [VAR 1100(00FF,0D0E,0000)]seinen Rivalenseine Rivalin.[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "*Schnief...* Danke, M-Meister...\\n[VAR 0100(0000)]... Es tut mir wirklich leid![VAR 0114(0071)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "*Schnief...* Meister... Ich danke Euch...\\nVerzeih mir... [VAR 0100(0000)].[VAR 0114(0072)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Als Strafe wirst du dich ein halbes Jahr lang ganz\\nallein um die Pok\u00E9mon im Dojo k\u00FCmmern![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Als Strafe wirst du dich ein halbes Jahr lang ganz\\nallein um die Pok\u00E9mon im Dojo k\u00FCmmern![VAR 0114(0073)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "W-Was?! Also, das ist zwar harte Arbeit, aber...\\nist das wirklich alles?![VAR 0114(0071)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Wie bitte?! S-Seid Ihr sicher, dass es mit dieser\\nStrafe schon getan ist?[VAR 0114(0072)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Na logo! Und von jetzt an wirst du bei uns\\nauch deinen Geist st\u00E4rken![VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "J-Ja, das werde ich![VAR 0114(0071)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "J-Jawohl![VAR 0114(0072)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Dann w\u00E4re damit alles gekl\u00E4rt![VAR 0114(0073)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Ihr habt euch so wunderbar ins Zeug gelegt,\\nmeine Lieben![VAR 0114(0074)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Ich war zwischendurch so aufgeregt,\\ndass ich kaum hinschauen konnte![VAR 0114(0074)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Das war so ergreifend!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Es war so toll, dass wir Rotz und Wasser\\ngeheult haben!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Du hast dich von der misslichen Lage gar nicht\\nerst beeindrucken lassen und prima gek\u00E4mpft![VAR 0114(0073)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Damit hast du alle drei Pr\u00FCfungen gemeistert.[VAR 0114(0073)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Und nun, wie versprochen: die Geheimr\u00FCstung\\ndes Master-Dojos![VAR 0114(0073)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Ich latsch schon mal vor, um im Dojo alle n\u00F6tigen\\nVorbereitungen zu treffen.[VAR 0114(0073)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Also dann, die Show ist vorbei! Macht euren\\nMeister froh und kehrt zur\u00FCck ins Dojo! Hoho![VAR 0114(0073)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]![VAR 0114(0071)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "H\u00E4ttest du einen Moment Zeit?[VAR 0114(0072)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00C4hm, ich... Also...[VAR 0114(0071)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], ich... \u00C4h...[VAR 0114(0072)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Du... Du bist ganz sch\u00F6n stark![VAR 0114(0071)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Ich muss zugeben, dass tats\u00E4chlich ein\\nklein wenig Talent in dir schlummert.[VAR 0114(0072)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Heeey! Du kannst doch nicht einfach so an mir\\nvorbeistolzieren und mich ignorieren![VAR 0114(0071)]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Welch ein hastiges Wesen... Es ziemt sich nicht,\\nan mir vorbeizugehen und mich zu ignorieren.[VAR 0114(0072)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Bald wird dir die Geheimr\u00FCstung des Dojos\\nverliehen!\\c\\nWas das wohl f\u00FCr eine R\u00FCstung ist?\\nUnd was wird daran so geheim sein?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "*Schnief...* Sophora hat sich solche M\u00FChe\\ngegeben..."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "*Schnief...* Saverio hat sich solche M\u00FChe\\ngegeben..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Das war \u2019ne starke Leistung! Aber echt!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Hm... Die letzte Pr\u00FCfung war also ein simpler\\nPok\u00E9mon-Kampf...\\c\\nDann ging es wohl dabei schlicht und ergreifend\\ndarum, seine Kraft zu beweisen?"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Wor\u00FCber habt ihr denn nach dem Kampf\\nmit dem Meister noch gesprochen?"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Du bist wirklich stark!\\c\\nWenn du selbst ein Dojo er\u00F6ffnen w\u00FCrdest,\\nk\u00F6nntest du bestimmt stinkreich werden!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Das war ein toller Kampf! Sophora hat sich auch\\nsuper geschlagen!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Das war ein toller Kampf! Saverio hat sich auch\\nsuper geschlagen!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Zu Beginn des Kampfes sah es so aus, als ob\\nder Kampfplatz kurz geleuchtet h\u00E4tte, oder?\\r\\nVielleicht hab ich mir das auch nur eingebildet..."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Eines Tages m\u00F6chte ich mich auch mit einem\\nstarken Gegner wie dir messen!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Spitzenm\u00E4\u00DFige Leistung, Gl\u00FCckwunsch!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Du wirst schon sehen. Irgendwann werde ich auch\\nso stark wie du sein!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Eines Tages werde auch ich so stark wie...\\c\\nAch, egal. Vergiss, was ich gesagt habe.\\nSaverio setzt Amnesie ein! Das ist sehr effektiv!"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Es ist nat\u00FCrlich immer erfreulich zu gewinnen.\\nAber selbst eine Niederlage hat etwas Gutes.\\c\\nMan kann n\u00E4mlich seine Lehren aus ihr ziehen\\nund daran wachsen.[VAR 0114(0074)]"
+  }
+]

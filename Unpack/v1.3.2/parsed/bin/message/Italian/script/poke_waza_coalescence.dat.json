@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Esistono mosse che solo alcuni Pok\u00E9mon possono\\nimparare... le mosse combinate.\\r\\nVuoi che ne insegni una a un tuo Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Certo, nessun problema.\\nMa se cambi idea, torna pure da me. Ti aspetto!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nessuno dei Pok\u00E9mon che hai con te pu\u00F2\\nimparare mosse combinate... Peccato!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi che insegni la mossa?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] non pu\u00F2 imparare mosse\\ncombinate."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un Uovo? Guarda che le Uova non possono mica\\nimparare mosse... o almeno non che io sappia."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Pare che [VAR 0102(0001)] conosca gi\u00E0\\nuna mossa combinata..."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quale mossa vuoi che dimentichi?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Il segreto per usare al meglio le mosse combinate\\nsta nel saper scegliere la combinazione di tipi\\r\\npi\u00F9 adatta!"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Hai con te un Pok\u00E9mon ricevuto dal Kahuna\\ndi un\u2019isola?\\c\\nQualunque sia il suo stadio evolutivo, se ti \u00E8\\nabbastanza affezionato, posso insegnargli\\r\\nuna mossa davvero speciale...\\c\\nUna mossa combinata!\\nChe dici? Vuoi che gliela insegni?"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Allora, vuoi far imparare a un tuo\\nPok\u00E9mon una mossa combinata?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Non posso insegnare nessuna mossa\\nai Pok\u00E9mon che hai ora in squadra."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Ah, no? Come vuoi.\\nAlla prossima, allora!"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi che insegni la mossa?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon non pu\u00F2 imparare mosse\\ncombinate."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Insegnare una mossa a un Uovo?\\nVuoi scherzare?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon non ti \u00E8 ancora\\nabbastanza affezionato."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Questo Pok\u00E9mon conosce gi\u00E0\\nla mossa combinata!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Vuoi che insegni [VAR 0107(0001)]\\na [VAR 0101(0000)]?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "I miei Pok\u00E9mon preferiti?\\c\\nNiente di pi\u00F9 facile: sono tutti quelli\\nricevuti da un Professore o da un Kahuna!\\r\\nE le loro evoluzioni, naturalmente.\\c\\nA tutti questi Pok\u00E9mon posso insegnare una\\nmossa speciale: una mossa combinata!\\c\\n\u00C8 la mia specialit\u00E0!"
+  },
+  {
+    "index": 22,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire\\ncon [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  }
+]

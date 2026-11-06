@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Hello, [VAR 0100(0000)]!\\nMaster has already sent word."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hello, [VAR 0100(0000)]!\\nMaster has already sent word."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "This is the Tower of Waters..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "This is the Tower of Darkness..."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "It\u2019s a training ground where Kubfu will learn the\\ntrue essence of water..."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "It\u2019s a training ground where Kubfu will learn the\\ntrue essence of darkness..."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "If you\u2019ve raised Kubfu to at least Lv. [VAR 0201(0001)],\\nits training will go smoothly."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "If you\u2019ve raised Kubfu to at least Lv. [VAR 0201(0001)],\\nits training will go smoothly."
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Once you enter the tower, you won\u2019t be able\\nto leave until you best five opponents...or are\\r\\ndefeated yourself."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Once you enter the tower, you won\u2019t be able\\nto leave until you best five opponents...or are\\r\\ndefeated yourself."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "What\u2019s more, the tower you didn\u2019t choose will\\nbe closed to you forever."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "What\u2019s more, the tower you didn\u2019t choose will\\nbe closed to you forever."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Now... Do you wish to forsake the path of\\ndarkness and follow the path of water?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Now... Do you wish to forsake the path of\\nwater and follow the path of darkness?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Remember, there will be no turning back once\\nyou have made your choice.\\c\\nAre you sure you want to climb the\\nTower of Waters?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Remember, there will be no turning back once\\nyou have made your choice.\\c\\nAre you sure you want to climb the\\nTower of Darkness?"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "I\u2019m sure!"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "I\u2019m sure!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Let me think about this..."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "I can tell your heart is set.\\nThe best of luck to you."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "I can tell your heart is set.\\nThe best of luck to you."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Water or darkness...\\c\\nPlease return once you have chosen the path you\\nwish to take."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Darkness or water...\\c\\nPlease return once you have chosen the path you\\nwish to take."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "This is the Tower of Waters...\\c\\nIt\u2019s a special training ground that only Kubfu\\ncan use. If you want to climb the tower, please\\r\\nmake sure that Kubfu is the only Pok\u00E9mon on\\r\\nyour team."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "This is the Tower of Darkness...\\c\\nIt\u2019s a special training ground that only Kubfu\\ncan use. If you want to climb the tower, please\\r\\nmake sure that Kubfu is the only Pok\u00E9mon on\\r\\nyour team."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "This is the Tower of Waters...\\c\\nYou have already chosen the Tower of Darkness.\\nThis tower is no longer open to you."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "This is the Tower of Darkness...\\c\\nYou have already chosen the Tower of Waters.\\nThis tower is no longer open to you."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "This is the Tower of Waters...\\c\\nYou are not yet ready to climb this tower...\\nLeave this place."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "This is the Tower of Darkness...\\c\\nYou are not yet ready to climb this tower...\\nLeave this place."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hmm... I cannot find Kubfu in your team or in\\nyour Boxes..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Hmm... I cannot find Kubfu in your team or in\\nyour Boxes..."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Are you sure you want to climb the\\nTower of Waters without Kubfu?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Are you sure you want to climb the\\nTower of Darkness without Kubfu?"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Once you choose to proceed, there will be no\\nturning back. Are you sure you want to make\\r\\nthis choice?"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Once you choose to proceed, there will be no\\nturning back. Are you sure you want to make\\r\\nthis choice?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "... ... ...\\nIf you insist."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "... ... ...\\nIf you insist."
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "It is still not too late to turn back..."
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "It is still not too late to turn back..."
+  }
+]

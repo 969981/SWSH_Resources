@@ -1,0 +1,27 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Excusez-moi, vous \u00EAtes bien [VAR 0100(0000)],\\nl[VAR 1100(00FF,0101)]ea Challenger\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Le Rozbouton d\u2019Or est dans cette direction.\\c\\nJe vais vous y emmener, suivez-moi."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Bien, [VAR 0100(0000)].\\nNous voici au Rozbouton d\u2019Or\u202F!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Reposez-vous bien et m\u00E9nagez vos forces\\npour les combats qui vous attendent\u202F!"
+  }
+]

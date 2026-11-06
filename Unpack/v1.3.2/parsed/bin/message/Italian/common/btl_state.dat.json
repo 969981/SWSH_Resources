@@ -1,0 +1,832 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Sole intenso"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Quando i raggi solari sono intensi, la potenza\\ndelle mosse di tipo Fuoco aumenta e quella\\ndelle mosse di tipo Acqua diminuisce."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pioggia"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Quando piove, la potenza delle mosse\\ndi tipo Acqua aumenta e quella delle\\nmosse di tipo Fuoco diminuisce."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Tempesta di sabbia"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quando infuria una tempesta di sabbia,\\ntutti i Pok\u00E9mon subiscono danni a ogni turno,\\neccetto quelli di tipo Terra, Roccia e Acciaio.\\nInoltre, la Difesa Speciale dei Pok\u00E9mon di\\ntipo Roccia aumenta."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Grandine"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Quando grandina, tutti i Pok\u00E9mon subiscono\\ndanni a ogni turno, eccetto quelli di tipo\\nGhiaccio."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Campo Elettrico"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Impedisce che i Pok\u00E9mon a contatto con il\\nterreno di lotta si addormentino per cinque turni.\\nPotenzia le mosse di tipo Elettro."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Campo Erboso"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Fa recuperare PS ai Pok\u00E9mon a contatto\\ncon il terreno di lotta per cinque turni.\\nPotenzia le mosse di tipo Erba."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Campo Nebbioso"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Protegge i Pok\u00E9mon a contatto con il terreno\\ndi lotta da problemi di stato per cinque turni.\\nDimezza i danni causati da mosse di tipo Drago."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Distortozona"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Per cinque turni, i Pok\u00E9mon pi\u00F9 lenti agiscono\\nper primi."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Magicozona"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Annulla l\u2019effetto degli strumenti di tutti\\ni Pok\u00E9mon per cinque turni."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Mirabilzona"
+  },
+  {
+    "index": 21,
+    "flags": 8,
+    "text": "Scambia la Difesa e la Difesa Speciale\\ndi tutti i Pok\u00E9mon per cinque turni."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Brutto colpo \u2191"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "La probabilit\u00E0 di sferrare un brutto colpo\\naumenta."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Confusione"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon rischia di danneggiare se stesso\\nper un periodo che va da uno a quattro turni."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Infatuazione"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 riluttante ad attaccare\\nse il bersaglio \u00E8 del sesso opposto."
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Incubo"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon perde PS a ogni turno mentre dorme."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Sonnolenza"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon si addormenta alla fine del turno\\nsuccessivo a quello in cui ha subito la mossa."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Ripeti"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Obbliga il Pok\u00E9mon a ripetere la mossa\\n[VAR 0107(0000)] per tre volte."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Abilit\u00E0 bloccata"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "L\u2019abilit\u00E0 del Pok\u00E9mon \u00E8 stata neutralizzata\\ne non ha effetto."
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Attaccalite"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 usare la stessa mossa\\ndue volte di seguito."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Ventoincoda"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Per quattro turni, la Velocit\u00E0 del Pok\u00E9mon\\nraddoppia."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Fortuncanto"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 subire brutti colpi."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Rancore"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Se il Pok\u00E9mon va KO, i PP della mossa che\\nlo ha messo fuori gioco vengono azzerati."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Anticura"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 recuperare PS con mosse,\\ncon abilit\u00E0 o con lo strumento che ha con s\u00E9\\nper cinque turni."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Identificazione"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon pu\u00F2 essere colpito da mosse che\\nin genere non avrebbero effetto e subisce gli\\nattacchi indipendentemente da un eventuale\\naumento dell\u2019elusione."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Mossa bloccata"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 usare la mossa\\n[VAR 0107(0000)] per quattro turni."
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Antifuga"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 fuggire o essere sostituito."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Localizza"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "La prossima mossa usata dal Pok\u00E9mon andr\u00E0\\na segno immancabilmente."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Divieto"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Impedisce all\u2019Allenatore di usare strumenti\\nsu questo Pok\u00E9mon per cinque turni."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Sottocarica"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Raddoppia la potenza della mossa di tipo Elettro\\nusata dal Pok\u00E9mon dopo Sottocarica."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Gravit\u00E0"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Per cinque turni, le mosse vanno a segno pi\u00F9\\nfacilmente, i Pok\u00E9mon di tipo Volante o con\\nl\u2019abilit\u00E0 Levitazione sono vulnerabili alle mosse\\ndi tipo Terra e le mosse che fanno volare non\\npossono essere utilizzate."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Nebbia"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Impedisce la diminuzione delle statistiche\\nper cinque turni."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Salvaguardia"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Protegge dai problemi di stato per cinque turni."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Levitoroccia"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Danneggia i Pok\u00E9mon che entrano in campo."
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Accumulo"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "La Difesa e la Difesa Speciale del Pok\u00E9mon\\naumentano ogni volta che accumula energia."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Provocazione"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Costringe a usare solo mosse che causano\\ndanni."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Telecinesi"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Per tre turni, il Pok\u00E9mon sar\u00E0 colpito\\nimmancabilmente da tutte le mosse tranne\\nquelle che mandano KO in un colpo solo.\\nIn compenso, il Pok\u00E9mon non pu\u00F2 essere colpito\\ndalle mosse di tipo Terra."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Magnetascesa"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon non pu\u00F2 essere colpito da mosse\\ndi tipo Terra per cinque turni."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Fielepunte"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Avvelena i Pok\u00E9mon che scendono in campo,\\neccetto quelli di tipo Volante o con l\u2019abilit\u00E0\\nLevitazione."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Fangata"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Dimezza la potenza delle mosse di tipo Elettro\\nper cinque turni."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Desiderio"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon recuperer\u00E0 met\u00E0 dei PS totali\\nnel turno successivo all\u2019uso della mossa\\nDesiderio."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Rete Vischiosa"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "La Velocit\u00E0 dei Pok\u00E9mon che entrano in campo\\ndiminuisce."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Radicamento"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon recupera PS alla fine di ogni turno\\ne non pu\u00F2 essere sostituito perch\u00E9 ha messo\\nle radici."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Maledizione"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Fa perdere PS alla fine di ogni turno."
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Halloween"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon adesso \u00E8 anche di tipo Spettro."
+  },
+  {
+    "index": 88,
+    "flags": 8,
+    "text": "Schermoluce"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "La potenza degli attacchi speciali subiti viene\\ndimezzata per cinque turni dall\u2019attivazione\\ndell\u2019effetto."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Riflesso"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "La potenza degli attacchi fisici subiti viene\\ndimezzata per cinque turni dall\u2019attivazione\\ndell\u2019effetto."
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Esclusiva"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "I nemici di un Pok\u00E9mon che ha usato Esclusiva\\nnon possono usare le mosse conosciute anche\\nda lui."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Turni contati"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "I Pok\u00E9mon che subiscono questo effetto\\nvanno KO dopo tre turni."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Punte"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Infligge danni ai Pok\u00E9mon quando scendono\\nin campo, eccetto quelli di tipo Volante o con\\nl\u2019abilit\u00E0 Levitazione."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Docciascudo"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Dimezza la potenza delle mosse di tipo Fuoco\\nper cinque turni."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Destinobbligato"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Chi manda KO questo Pok\u00E9mon finisce KO."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Boscomalocchio"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon adesso \u00E8 anche di tipo Erba."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Parassiseme"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon perde PS alla fine di ogni turno\\ne li fa recuperare a chi ha usato la mossa."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Localizza"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "La prossima mossa usata sul Pok\u00E9mon\\nlocalizzato andr\u00E0 a segno immancabilmente."
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "Imprigionamento"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 intrappolato e subisce danni\\na ogni turno."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Pazienza"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon incassa gli attacchi per due turni,\\npoi contrattacca infliggendo il doppio dei danni\\nricevuti."
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Oltraggio"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon sfoga la sua ira e attacca per due\\no tre turni prima di essere lasciato in preda\\nalla confusione."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Collera"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon sfoga la sua ira e attacca per due\\no tre turni prima di essere lasciato in preda\\nalla confusione."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Petalodanza"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon sfoga la sua ira e attacca per due\\no tre turni prima di essere lasciato in preda\\nalla confusione."
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "Iperavvelenamento"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 iperavvelenato e la quantit\u00E0 di PS\\nche perde aumenta a ogni turno."
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Attacco futuro"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon subisce danni dopo due turni dal\\nmomento in cui \u00E8 stato colpito dalla mossa."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Baraonda"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon attacca per tre turni provocando\\nun frastuono che non permette a nessuno\\ndi addormentarsi."
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Acquanello"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 avvolto in un velo d\u2019acqua\\nche gli fa recuperare PS a ogni turno."
+  },
+  {
+    "index": 126,
+    "flags": 8,
+    "text": "Sganciapesi"
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Il peso corporeo del Pok\u00E9mon diminuisce\\ne la sua Velocit\u00E0 aumenta di molto."
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Abbattimento"
+  },
+  {
+    "index": 129,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon viene colpito e cade a terra."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Blocco Fatato"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Nel turno successivo a quello in cui la mossa\\n\u00E8 stata usata, nessun Pok\u00E9mon pu\u00F2 lasciare\\nil campo di lotta."
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "Arcobaleno"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "La probabilit\u00E0 che si attivino gli effetti\\naggiuntivi delle mosse aumenta."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Palude"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Riduce la Velocit\u00E0 dei Pok\u00E9mon a 1/4."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Mare di fuoco"
+  },
+  {
+    "index": 137,
+    "flags": 4,
+    "text": "Infligge danni a ogni turno a tutti i Pok\u00E9mon\\nnel campo alleato o nel campo nemico\\neccetto quelli di tipo Fuoco."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Sole accecante"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "La luce solare accecante potenzia le mosse di\\ntipo Fuoco e neutralizza le mosse di tipo Acqua."
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Acquazzone"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "L\u2019acquazzone potenzia le mosse di tipo Acqua\\ne neutralizza le mosse di tipo Fuoco."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Vento misterioso"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Soffia una corrente d\u2019aria misteriosa.\\nGli attacchi superefficaci contro il tipo Volante\\nvengono indeboliti."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Campo Psichico"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Per cinque turni i Pok\u00E9mon a contatto con il\\nterreno di lotta non subiscono danni dalle\\nmosse con priorit\u00E0 alta.\\nLa potenza delle mosse di tipo Psico aumenta."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Colpo Infernale"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Per due turni impedisce di usare mosse\\nbasate sul suono."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Velaurora"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "La potenza degli attacchi speciali e fisici\\nsubiti viene dimezzata per cinque turni."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Concentrazione"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "L\u2019attacco sferrato nel turno successivo a quello\\nin cui \u00E8 stata usata Concentrazione causa\\nsempre un brutto colpo."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Colpocatrame"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon diventa vulnerabile al tipo Fuoco."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Tentacolock"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "La Difesa e la Difesa Speciale diminuiscono\\na ogni turno."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Gigavampa"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Per quattro turni tutti i Pok\u00E9mon subiscono danni\\neccetto quelli di tipo Fuoco."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Gigalapilli"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Per quattro turni tutti i Pok\u00E9mon subiscono danni\\neccetto quelli di tipo Roccia."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Gigaferroaculei"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Danneggia i Pok\u00E9mon che entrano in campo."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Gigasferzata"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Per quattro turni tutti i Pok\u00E9mon subiscono danni\\neccetto quelli di tipo Erba."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Gigacannonata"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Per quattro turni tutti i Pok\u00E9mon subiscono danni\\neccetto quelli di tipo Acqua."
+  }
+]

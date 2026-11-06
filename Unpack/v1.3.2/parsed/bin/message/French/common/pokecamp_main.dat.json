@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Quitter"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": " Fermer"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": " Changer"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": " Appeler"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": " Parler"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Parler aux deux"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Ramasser la balle"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": " Pok\u00E9 Plumet"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Balles"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": " Zoomer"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": " Liste noire"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": " Voir sa carte de Ligue"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": " Envoyer"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": " Secouer"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": " Lancer"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": " Modifier champ de vision"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Ranger le jouet"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Papotons\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "On joue plus tard\u202F?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Non, rien."
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Voulez-vous quitter le campement\u202F?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Voulez-vous quitter le campement\\n[VAR 1408(0000,0001)][VAR 0100(0000)]\u202F?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] a quitt\u00E9 le campement."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Tiens\u202F! Un [VAR 0101(0000)] est venu vous rendre\\nvisite au campement\u202F!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] a l\u2019air de vouloir\\nvous accompagner\u202F!\\r\\nSouhaitez-vous l\u2019adopter\u202F?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Vous avez adopt\u00E9 [VAR 0101(0000)]\u202F!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] est entr\u00E9 dans\\n[VAR 1402(0001,0000)][VAR 0109(0001)]\u202F!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] est retourn\u00E9 dans la nature."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] a ador\u00E9 camper\\net a gagn\u00E9 [VAR 0206(0001,202F)] Points d\u2019Exp\u00E9rience\u202F!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] est mont\u00E9 de [VAR 0201(0001)] niveau[VAR 1101(0001,0100)]x\u202F!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Sur le campement"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Part du campement"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "On recrute\u202F!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Cuisine en cours"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Salut\u202F!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Salut\u202F!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Bonsoir\u202F!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "classe"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "mignon"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "magnifique"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "vigoureux"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "malin"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "joueur"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "plein d\u2019entrain"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "fiable"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "super"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "de bonne humeur"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "en forme"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "enjou\u00E9"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "resplendissant"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "d\u00E9tendu"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "discret"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "sauvage"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "choupi"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "joli"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "brillant"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "sublime"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "adorable"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "beau"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "merveilleux"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "\u00E9l\u00E9gant"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "extraordinaire"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": " Sortir un jouet"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": " Changer de jouet"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": " Reprendre la balle"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Liste des jouets"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Liste des currys"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Retour \u00E0 l\u2019aventure"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Mettre fin \u00E0 la querelle"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Discuter"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Voulez-vous ajouter [VAR 0100(0000)]\\n\u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Vous ne pourrez plus jouer en r\u00E9seau\\navec les personnes ajout\u00E9es \u00E0 la liste noire.\\r\\nVoulez-vous continuer malgr\u00E9 tout\u202F?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Joueur ajout\u00E9 \u00E0 la liste noire :\\n[VAR 0100(0000)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Fonctionnalit\u00E9s de communication\\net accueil de joueurs sur le campement\\r\\nimpossibles en mode avion."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Dis-m\u2019en plus\u202F!"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "\u00C0 tout \u00E0 l\u2019heure\u202F!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Jouons ensemble\u202F!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Jouets"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Cuisine"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Quitter"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Quitter"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Cette personne est d\u00E9j\u00E0 sur votre liste noire."
+  }
+]
