@@ -1,0 +1,107 @@
+name: Persist SWSH derived artifacts into Unpack
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_run:
+        description: "Full SWSH secondary unpack Actions run ID"
+        type: string
+        required: true
+        default: "42141830700"
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-persist-artifacts.yml"
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: persist-swsh-unpack-master
+  cancel-in-progress: false
+
+jobs:
+  preflight:
+    name: Verify source artifact layout and checksum manifest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_archive_to_git.py
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-derived-0
+          run-id: ${{ inputs.source_run || '42141830700' }}
+          repository: 969981/SWSH_Resources
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: artifacts/incoming
+      - name: Sanity-check 7z and exact artifact structure
+        run: |
+          set -euo pipefail
+          command -v 7z || (sudo apt-get update -qq && sudo apt-get install -y -qq p7zip-full)
+          python scripts/swsh_archive_to_git.py \
+            --incoming artifacts/incoming \
+            --repo . \
+            --state artifacts/publish-check \
+            --shard 0 \
+            --run-id "${{ inputs.source_run || '42141830700' }}" \
+            --dry-run
+
+  persist:
+    name: Archive derived shard ${{ matrix.shard }} into Unpack
+    needs: preflight
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      fail-fast: true
+      max-parallel: 1
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_archive_to_git.py
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-derived-${{ matrix.shard }}
+          run-id: ${{ inputs.source_run || '42141830700' }}
+          repository: 969981/SWSH_Resources
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: artifacts/incoming
+      - name: Ensure split 7z tool and Git are available
+        run: |
+          set -euo pipefail
+          command -v 7z || (sudo apt-get update -qq && sudo apt-get install -y -qq p7zip-full)
+          git --version
+      - name: Verify SHA-256, repackage >90MiB files, push batches <=650MiB
+        env:
+          SOURCE_RUN: ${{ inputs.source_run || '42141830700' }}
+          SHARD: ${{ matrix.shard }}
+        run: |
+          set -euo pipefail
+          python scripts/swsh_archive_to_git.py \
+            --incoming artifacts/incoming \
+            --repo . \
+            --state artifacts/publish-work \
+            --shard "$SHARD" \
+            --run-id "$SOURCE_RUN" \
+            --push-budget-mib 650
+          {
+            echo "### SWSH shard $SHARD archived"
+            echo "Original source Actions run: $SOURCE_RUN"
+            echo "Git destination: Unpack/v1.3.2/parsed/ and Unpack/v1.3.2/extracted/"
+            echo "Files larger than 90 MiB: split as .7z.001, .7z.002 ..."
+            echo "Each push: <=650 MiB of raw new files"
+          } >> "$GITHUB_STEP_SUMMARY"
