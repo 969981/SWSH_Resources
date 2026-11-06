@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "game": "sword",
+      "version": "1.3.2",
+      "build_id": "A3B75BCD3311385AEED67FBEEB79CBB7BF02F471000000000000000000000000",
+      "main_sha256": "2b5c45ea2e9c4feb366f06cc16eae2c64a00d7c12514e05ec3702ba959398811",
+      "text_sha256": "82a40b8d3c334dba1b5d9d1f2f99d5ba6a04d0b1953a069c39c3e9097264a37e",
+      "text_expected_sha256": "82a40b8d3c334dba1b5d9d1f2f99d5ba6a04d0b1953a069c39c3e9097264a37e",
+      "text_header_sha256_matches": true,
+      "text_rva": 0,
+      "text_size": 26218288,
+      "compressed": true,
+      "anchor_matches": 1,
+      "source_pattern": "tools/pkNX/pkNX.Game/Editors/ShinyRate/ShinyRateSWSH.cs",
+      "status": "STATIC_CANDIDATE"
+    },
+    {
+      "game": "shield",
+      "version": "1.3.2",
+      "build_id": "A16802625E7826BF83B6F9708E475B912A9AB7DF000000000000000000000000",
+      "main_sha256": "81e50a5f08bdb88c1526e7d1c4fc9b0a66b8febdcdc5a03c43421b9bf22c40f7",
+      "text_sha256": "88f4650c736fb61e1d0c624bfdff1718c87a286f2686c7c3cbb9378301f8eb28",
+      "text_expected_sha256": "88f4650c736fb61e1d0c624bfdff1718c87a286f2686c7c3cbb9378301f8eb28",
+      "text_header_sha256_matches": true,
+      "text_rva": 0,
+      "text_size": 26218432,
+      "compressed": true,
+      "anchor_matches": 1,
+      "source_pattern": "tools/pkNX/pkNX.Game/Editors/ShinyRate/ShinyRateSWSH.cs",
+      "status": "STATIC_CANDIDATE"
+    }
+  ],
+  "disclaimer": "RVA from code pattern in decompressed TEXT, not an authenticated runtime function; do not confuse reroll logic with ShinyLock enforcement or PID generation."
+}
