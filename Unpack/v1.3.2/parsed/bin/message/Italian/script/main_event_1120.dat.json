@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa, Sfidapalestre.\\nVuoi sfidare la nostra Palestra?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Certo!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "S\u00EC... ma non subito"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Bene! Allora, ti prego di andare a indossare\\nla divisa per prepararti alla missione.\\c\\nIn realt\u00E0, pi\u00F9 che di una missione si tratta\\ndi un esame per mettere alla prova le tue qualit\u00E0\\r\\ndi Allenat[VAR 1100(00FF,0302)]orrice."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "La divisa ti sta che \u00E8 una favola!\\nRilassati e vedrai che andr\u00E0 tutto bene!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Oh, che peccato..."
+  },
+  {
+    "index": 6,
+    "flags": 8,
+    "text": "Spero che tu sia pront[VAR 1100(00FF,0101)]oa per la missione...\\nO meglio, per il nostro piccolo esame."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Sei andat[VAR 1100(00FF,0101)]oa cos\u00EC a genio alla signora Poppy\\nche ti ha regalato una MT!\\c\\nBene, la prossima tappa sar\u00E0 Circhester!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "La Medaglia Folletto sembra fatta apposta\\nper te! Brav[VAR 1100(00FF,0101)]oa, [VAR 0100(0000)]! Continua cos\u00EC!"
+  }
+]

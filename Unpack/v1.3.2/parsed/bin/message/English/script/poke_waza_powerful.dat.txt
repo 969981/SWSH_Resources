@@ -1,0 +1,24 @@
+Moves that only select Pokémon can learn...\nThey are called ultimate moves.\r\nDo you want your Pokémon to learn one of them?
+All right. Fair enough. If you want your Pokémon\nto learn one of my moves, just come back.
+Oh, but none of the Pokémon you’re with can\nlearn my move! That’s too bad!
+Which Pokémon should learn my move?
+[VAR 0102(0001)] can’t learn my move.
+An Egg... I can’t teach my move to an Egg.
+[VAR 0102(0001)] already knows my move.
+Which move should be forgotten?
+[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\c\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]
+An ultimate move...\c\nHow you handle its overwhelming destructive\npower and its aftermath will be the key!
+I’m devoting what’s left of my life to helping\nyoung Trainers grow.\c\nI’d like to teach the ultimate moves to\nas many successors as I can.\c\nIs it all right to teach them to your\nPokémon, too?
+Would it be all right if I taught your Pokémon the\nultimate moves?
+Young Trainer, the Pokémon with you can’t\nlearn these moves.\c\nPlease thoroughly check the list of Pokémon\nthat can learn these moves.
+Young Trainer, feel free to come visit me\nany time you want.
+Well, please tell me which Pokémon I\nshould teach.
+Young Trainer, that Pokémon can’t learn an\nultimate move.\c\nPlease thoroughly check the list of Pokémon\nthat can learn these moves.
+Young Trainer, I can’t teach a move to\nan Egg.
+Young Trainer, that Pokémon’s bond with\nyou is not yet strong enough.\c\nIt can learn the move once it forms a strong\nbond with you.
+Young Trainer, that Pokémon already knows\nthe ultimate move.
+Is it all right to teach [VAR 0107(0001)]\nto [VAR 0101(0000)]?
+Pokémon that can learn the ultimate\nmoves...\c\nThe blazing Fire-type Pokémon:\nCharizard, Typhlosion, Blaziken, Infernape,\nEmboar, Delphox, and Incineroar!\c\nThe restless Water-type Pokémon:\nBlastoise, Feraligatr, Swampert, Empoleon,\nSamurott, Greninja, and Primarina!\c\nThe quiet Grass-type Pokémon:\nVenusaur, Meganium, Sceptile, Torterra,\nSerperior, Chesnaught, and Decidueye!\n
+Please choose a move that will be replaced\nwith [VAR 0107(0000)].
+[VAR 0102(0000)] did not learn\n[VAR 0107(0001)].

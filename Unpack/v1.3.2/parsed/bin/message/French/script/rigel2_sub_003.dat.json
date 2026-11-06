@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Voulez-vous vous lancer dans\\nune exp\u00E9dition Dynamax\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Oui\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Qu\u2019est-ce qu\u2019une exp\u00E9dition Dynamax\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Non, merci\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Apparemment, vous avez d\u00E9j\u00E0 enregistr\u00E9\\nl\u2019emplacement de certains Pok\u00E9mon.\\c\\nQuel Pok\u00E9mon voulez-vous chercher\\ncette fois-ci\u202F?"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "On dirait que vous avez d\u00E9j\u00E0 attrap\u00E9\\n[VAR 0101(0000)].\\c\\nCela signifie que [VAR FF00(0006)]vous ne pourrez pas le capturer[VAR FF00(0000)]\\nsi vous le croisez de nouveau.\\r\\nVoulez-vous tout de m\u00EAme partir en exp\u00E9dition\u202F?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "On dirait que vous avez trouv\u00E9 [VAR 0101(0000)]\\nlors de votre derni\u00E8re exp\u00E9dition\u202F!\\c\\nPuisque nous avons enregistr\u00E9 son emplacement,\\nvous pouvez le d\u00E9fier \u00E0 nouveau.\\r\\nVoulez-vous essayer\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "N\u2019importe lequel..."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "C\u2019est une exp\u00E9dition dont le but est d\u2019explorer\\nle Grand Antre Dynamax.\\c\\nPour participer, vous devrez emprunter un des\\nPok\u00E9mon que nous mettons \u00E0 votre disposition."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Vous formerez une \u00E9quipe de quatre joueurs\\net choisirez ensemble quel chemin suivre\\r\\npour trouver le Pok\u00E9mon l\u00E9gendaire dynamax\u00E9\\r\\ncach\u00E9 au fond de l\u2019antre."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Une fois l\u2019exploration termin\u00E9e, vous recevrez\\ndu Dynamaxium en r\u00E9compense pour vos efforts.\\c\\nNous vous demanderons de nous remettre\\nles Pok\u00E9mon captur\u00E9s lors de l\u2019exp\u00E9dition,\\r\\ncar nous en avons besoin pour nos recherches.\\c\\nMais vous aurez tout de m\u00EAme le droit\\nd\u2019en garder un si vous le souhaitez\u202F!"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "On dirait que vous avez quitt\u00E9 votre derni\u00E8re\\nexp\u00E9dition Dynamax sans la terminer...\\c\\nCela peut causer du tort aux autres participants.\\nEssayez d\u2019aller jusqu\u2019au bout la prochaine fois\u202F!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vous avez quitt\u00E9 des exp\u00E9ditions Dynamax\\nsans les terminer de mani\u00E8re r\u00E9p\u00E9t\u00E9e...\\r\\nCela peut causer du tort \u00E0 vos co\u00E9quipiers.\\c\\nAvant de vous laisser participer \u00E0 une autre\\nexp\u00E9dition, nous aimerions que vous nous\\r\\nremettiez [VAR 0201(0000)] \u00E9clat[VAR 1101(0000,0100)]s de Dynamaxium.\\c\\nCela montrera que vous prenez ceci au s\u00E9rieux.\\nVoulez-vous nous le[VAR 1101(0000,0100)]s remettre maintenant\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Vous ne pourrez plus participer aux exp\u00E9ditions\\nDynamax tant que vous ne nous aurez pas prouv\u00E9\\r\\nvotre bonne foi."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vous n\u2019avez pas assez de Dynamaxium..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vous pouvez vous en procurer en faisant\\ndes raids Dynamax \u00E0 Couronneige."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Dor\u00E9navant, essayez d\u2019\u00E9viter de partir avant\\nla fin de vos exp\u00E9ditions Dynamax."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Excellent travail\u202F! N\u2019h\u00E9sitez pas \u00E0 revenir\\nnous aider \u00E0 explorer le Grand Antre Dynamax\u202F!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Vous y \u00E9tiez presque\u202F!\\nLa prochaine fois sera la bonne\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Voulez-vous que nous enregistrions\\nl\u2019emplacement [VAR 1408(0000,0001)][VAR 0101(0000)] pour que\\r\\nvous puissiez le d\u00E9fier \u00E0 nouveau plus tard\u202F?"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Oh, je vois que vous avez d\u00E9j\u00E0 enregistr\u00E9\\nde nombreux emplacements de Pok\u00E9mon...\\c\\nY en a-t-il un que vous souhaiteriez effacer\\npour faire de la place\u202F?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Dans ce cas, nous ne noterons pas o\u00F9 vous avez\\ntrouv\u00E9 [VAR 0101(0000)], cette fois-ci."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Dans ce cas, nous allons effacer l\u2019emplacement\\n[VAR 1408(0001,0001)][VAR 0101(0001)], et enregistrer l\u2019endroit\\r\\no\u00F9 se trouve [VAR 0101(0000)]."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "... Et voil\u00E0\u202F!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Nous esp\u00E9rons vous revoir bient\u00F4t\u202F!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Quel dommage\u202F! Mais ne vous d\u00E9couragez pas\u202F!\\nVous ferez mieux la prochaine fois\u202F!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Vous revoil\u00E0\u202F!\\c\\nVoulez-vous que nous conservions la marque\\nde l\u2019emplacement [VAR 1408(0000,0001)][VAR 0101(0000)]\u202F?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "C\u2019est d\u2019accord\u202F!\\nNous la conservons."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Entendu\u202F!\\nNous allons donc l\u2019effacer."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "... Hmmm\u202F?\\nAh, c\u2019est toi\u202F!\\c\\nJ\u2019ai quelque chose \u00E0 proposer aux experts\\nen exp\u00E9ditions Dynamax. Reviens me voir\\r\\nquand tu en auras fait davantage\u202F!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Dis, t\u2019aimes les exp\u00E9ditions Dynamax\u202F?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "C\u2019est ce que je pensais\u202F!\\nApr\u00E8s tout, t\u2019en es pas \u00E0 ton coup d\u2019essai\u202F!"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Ah... Euh, d\u2019accord. Tant pis."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Les exp\u00E9ditions Dynamax, \u00E7a te conna\u00EEt, hein...\\c\\n\u00C7a te dirait d\u2019essayer le mode sans fin\\nque j\u2019ai cr\u00E9\u00E9\u202F?"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00C7a te dirait de tenter une exp\u00E9dition Dynamax\\nen mode sans fin\u202F?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "C\u2019est quoi mon record\u202F?"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Comme son nom l\u2019indique, le mode sans fin...\\nn\u2019a pas de fin\u202F!\\c\\nApr\u00E8s avoir vaincu le Pok\u00E9mon qui se cache\\nau fond, tu vas pouvoir continuer d\u2019explorer\\r\\nl\u2019antre pour voir jusqu\u2019o\u00F9 tu peux aller\u202F!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Les Pok\u00E9mon que tu captureras m\u2019aideront dans\\nmes recherches, donc tu ne pourras en garder\\r\\naucun, mais en \u00E9change, je te donnerai plus de\\r\\nDynamaxium que lors des exp\u00E9ditions normales\u202F!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Je noterai l\u2019endroit le plus profond que tu auras\\natteint, alors fais de ton mieux pour aller\\r\\naussi loin que possible avec tes camarades\u202F!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Reviens me voir quand tu veux\u202F!"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Ouah\u202F! C\u2019est g\u00E9nial\u202F! Tu as battu ton record\u202F!\\nJe vais le noter\u202F!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "J\u2019ai not\u00E9 l\u2019endroit o\u00F9 tu t\u2019es arr\u00EAt\u00E9[VAR 1100(00FF,0100)]e cette fois-ci\u202F!\\c\\nReviens me voir si tu veux \u00E0 nouveau\\nexplorer l\u2019antre\u202F!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Le voici\u202F!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Fais de ton mieux pour battre ton record\\nla prochaine fois\u202F!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ah\u202F! Salut, [VAR 0100(0000)]\u202F!\\c\\nJ\u2019ai localis\u00E9 [VAR 0101(0001)]\\ndans le Grand Antre Dynamax\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Si \u00E7a te tente, je peux te dire o\u00F9 il est\\npour [VAR 0202(0002)] \u00E9clat[VAR 1101(0002,0100)]s de Dynamaxium\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Attends un peu... T\u2019as d\u00E9j\u00E0 enregistr\u00E9 pas mal\\nd\u2019emplacements de Pok\u00E9mon\u202F!\\c\\nSi on en effa\u00E7ait un pour faire un peu de place\u202F?[VAR 0114(0078)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Attends un peu...\\nT\u2019as d\u00E9j\u00E0 attrap\u00E9 [VAR 0101(0001)]\u202F!\\c\\nSi tu t\u2019en fiches de pas pouvoir le capturer\\n\u00E0 nouveau, je peux te dire o\u00F9 il se trouve\\r\\npour [VAR 0202(0002)] \u00E9clat[VAR 1101(0002,0100)]s de Dynamaxium.[VAR 0114(0078)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Pivonia vous a indiqu\u00E9 l\u2019emplacement\\n[VAR 1408(0001,0001)][VAR 0101(0001)]."
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ah mais... T\u2019as pas assez de Dynamaxium\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Bon allez... \u00C7a va pour cette fois\u202F!\\nJe vais quand m\u00EAme te dire o\u00F9 le trouver,\\r\\nmais c\u2019est juste parce que je t\u2019aime bien\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Ah mais... Tu sais d\u00E9j\u00E0 o\u00F9 trouver\\n[VAR 0101(0001)]\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "T\u2019es s\u00FBr[VAR 1100(00FF,0100)]e\u202F? Tu risques de le regretter, non\u202F?[VAR 0114(0078)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Parle \u00E0 la scientifique pour tenter ta chance.\\nEt donne tout ce que t\u2019as\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Salut [VAR 0100(0000)]\u202F! T\u2019as la forme\u202F?\\nMoi \u00E7a va, tranquille.[VAR 0114(0078)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Au fait\u202F! J\u2019ai ramass\u00E9 ce truc bizarre dans\\nle Grand Antre Dynamax. J\u2019te le donne\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Vous obtenez\\n[VAR 1402(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\r\\n(en [VAR 01C2(0001)])."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Fais pas t[VAR 1100(00FF,0102)]ona timide, accepte mon cadeau\u202F!\\nC\u2019est pas trop mon style, de toute fa\u00E7on\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Je me demande pourquoi y\u2019a autant de Pok\u00E9mon\\nl\u00E9gendaires dans le Grand Antre Dynamax...[VAR 0114(0078)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Tu savais [VAR 140A(0000,0001)][VAR 0101(0000)] \u00E9tait le premier\\nPok\u00E9mon l\u00E9gendaire qu\u2019on a trouv\u00E9 ici\u202F?\\r\\nC\u2019est ce que m\u2019a dit la scientifique\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "La scientifique m\u2019a dit qu\u2019avant, elle travaillait\\ndans un centre de recherche \u00E0 Alola.\\c\\nLa chance\u202F! T\u2019imagines toutes les Malasadas\\nqu\u2019on pourrait manger, l\u00E0-bas\u202F?![VAR 0114(0078)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "J\u2019ai vraiment envie d\u2019utiliser un Patch Talent\\nsur mon Rexillius ch\u00E9ri. Comme \u00E7a, il arr\u00EAterait\\r\\nde se blesser quand il utilise Fracass\u2019T\u00EAte,\\r\\nil adore cette capacit\u00E9\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Tu veux un petit conseil pour une exp\u00E9dition\\nDynamax r\u00E9ussie\u202F?\\c\\nUtilise des capacit\u00E9s qui r\u00E9duisent les d\u00E9g\u00E2ts\\ncomme Protection ou Mur Lumi\u00E8re\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Tu veux un petit conseil pour une exp\u00E9dition\\nDynamax r\u00E9ussie\u202F?\\c\\nExamine bien comment le Pok\u00E9mon qui t\u2019attend\\nau fond de l\u2019antre r\u00E9agit face \u00E0 diff\u00E9rents types\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Tu veux un petit conseil pour une exp\u00E9dition\\nDynamax r\u00E9ussie\u202F?\\c\\nAvec une capacit\u00E9 Dynamax comme Pugilomax,\\nqui augmente l\u2019Attaque des alli\u00E9s,\\r\\ntu pourras s\u00FBrement prendre l\u2019avantage\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Au fait, t\u2019as entendu la rumeur sur cet arbre\\n\u00E9norme, l\u00E0, celui qu\u2019ils appellent le Dynarbre\u202F?\\c\\nIl para\u00EEt qu\u2019il se passe un truc cool\\nquand on le secoue\u202F!\\c\\nBon, c\u2019est pas avec ma force que j\u2019y arriverai,\\nmais toi, je suis s\u00FBre que t\u2019es assez [VAR 1100(00FF,0707)]costaudmuscl\u00E9e\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Les Pok\u00E9mon dans le Grand Antre Dynamax\\nsont tous dynamax\u00E9s\u202F! C\u2019est fou\u202F!\\c\\nIl doit y avoir une \u00C9toile V\u0153u g\u00E9ante enterr\u00E9e\\nen dessous ou un truc du genre\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Alors, comment \u00E7a se passe ta recherche\\nde Pok\u00E9mon l\u00E9gendaires avec mon p\u00E8re\u202F?\\c\\nIl fait toujours tout \u00E0 l\u2019arrache, donc pas la peine\\nde prendre \u00E7a trop au s\u00E9rieux, hein\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "T\u2019as vu ce type, l\u00E0-bas\u202F?\\nIl est un peu bizarre, tu trouves pas\u202F?...\\r\\nBah, cela dit, mon p\u00E8re aussi\u202F![VAR 0114(0078)]"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Au fait, j\u2019ai entendu une rumeur\\nqui fait froid dans le dos...\\c\\nIl para\u00EEt qu\u2019une femme aux cheveux tr\u00E8s longs\\nerre la nuit dans le cimeti\u00E8re de Couronneige.\\r\\nElle y chercherait quelque chose inlassablement...[VAR 0114(0078)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Une fois, lors d\u2019une exp\u00E9dition Dynamax,\\nle Gouroutan d\u2019un de mes alli\u00E9s a utilis\u00E9\\r\\nla capacit\u00E9 Sommation pour contr\u00F4ler\\r\\nles prochaines attaques des Pok\u00E9mon\\r\\nqui l\u2019entouraient. C\u2019\u00E9tait trop pratique\u202F!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "T\u00E9n\u00E9\u00E9\u00E9\u202F!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Ces Pok\u00E9mon nous aident dans nos recherches\u202F!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Col\u00E9\u202F!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Col\u00E9 col\u00E9\u202F!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "L\u00E9od\u00F4\u202F!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Les donn\u00E9es sur l\u2019\u00E9cran n\u2019arr\u00EAtent pas de fluctuer...\\nPeut-\u00EAtre que la machine mesure quelque chose\u202F?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Mieux vaut ne pas s\u2019y aventurer sans renforts..."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Vous d\u00E9cidez de retourner \u00E0 l\u2019entr\u00E9e en\\ncontinuant de chercher la fille de Dhilan..."
+  }
+]

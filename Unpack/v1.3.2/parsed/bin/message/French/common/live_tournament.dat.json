@@ -1,0 +1,552 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Participer \u00E0 une comp\u00E9tition live"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Recevoir une Licence Num\u00E9rique"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Se d\u00E9sinscrire"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Comp\u00E9tition live"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "R\u00E9sultats [VAR 1408(0000,0001)][VAR 0100(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Nombre de combats"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Victoires"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "D\u00E9faites"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]\u2642[VAR FF00(0000)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]\u2640[VAR FF00(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "N."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Vous aurez besoin d\u2019une Licence Num\u00E9rique\\npour participer \u00E0 cette comp\u00E9tition live.\\c\\nComment d\u00E9sirez-vous la recevoir\u202F?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "R\u00E9ception de la Licence Num\u00E9rique en cours...\\nPour annuler, appuyez sur le bouton B."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "La r\u00E9ception de la Licence Num\u00E9rique\\na \u00E9t\u00E9 annul\u00E9e.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Vous avez re\u00E7u la Licence Num\u00E9rique.\\c"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "\u00C9chec de la r\u00E9ception de la Licence Num\u00E9rique.\\nVeuillez recommencer depuis le d\u00E9but.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Vous avez disput\u00E9 le nombre de combats requis.\\nBravo\u202F!\\c"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Voulez-vous interrompre la communication\u202F?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "La communication a \u00E9t\u00E9 interrompue."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Vous devrez inscrire une \u00C9quipe Combat\\npour participer \u00E0 cette comp\u00E9tition.\\r\\nVoulez-vous continuer\u202F?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Voulez-vous abandonner la comp\u00E9tition\\n\u00AB\u202F[VAR 01AF(0000)]\u202F\u00BB\u202F?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Si vous d\u00E9cidez d\u2019abandonner, vous ne pourrez\\nplus participer \u00E0 la comp\u00E9tition\\r\\n\u00AB\u202F[VAR 01AF(0000)]\u202F\u00BB.\\c\\nCela vous convient-il\u202F?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Votre participation \u00E0 la comp\u00E9tition\\n\u00AB\u202F[VAR 01AF(0000)]\u202F\u00BB\\r\\na \u00E9t\u00E9 annul\u00E9e.\\r\\nVotre \u00C9quipe Combat a \u00E9t\u00E9 d\u00E9verrouill\u00E9e.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "L\u2019inscription de votre \u00C9quipe Combat\\na \u00E9t\u00E9 interrompue.\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Vous n\u2019avez pas encore disput\u00E9 de combat\u202F!\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Recherche d\u2019un\\nadversaire en cours..."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Communication en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Au signal de d\u00E9part, appuyez sur le bouton A."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Votre \u00E9quipe ne r\u00E9pond pas aux crit\u00E8res\\nde la comp\u00E9tition.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Les donn\u00E9es ont \u00E9t\u00E9 envoy\u00E9es.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Voulez-vous annuler l\u2019inscription\\nde l\u2019\u00C9quipe Combat\u202F?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Sauvegarde en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "L\u2019inscription \u00E0 cette comp\u00E9tition a d\u00E9j\u00E0\\n\u00E9t\u00E9 effectu\u00E9e.\\c"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Inscrire"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Vous vous \u00EAtes d\u00E9sinscrit de la comp\u00E9tition\\n\u00AB\u202F[VAR 01AF(0000)]\u202F\u00BB.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Impossible de participer \u00E0 cette comp\u00E9tition.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Organiser une comp\u00E9tition live"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Recevoir via mode r\u00E9seau local"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Participer \u00E0 votre propre comp\u00E9tition"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "\u00C9tablir les r\u00E8gles de la comp\u00E9tition"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Consulter les r\u00E8gles de la comp\u00E9tition"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Regarder les combats"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "R\u00E9ception via mode r\u00E9seau local en cours...\\nPour annuler, appuyez sur le bouton B."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": " Valider"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Aide"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "D\u00E9but"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[~ 87]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[~ 88]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Commencer le combat"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Voulez-vous supprimer ces r\u00E8gles\u202F?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "R\u00E8gles supprim\u00E9es.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Diffuser"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Supprimer"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Voulez-vous participer \u00E0 la comp\u00E9tition\\nque vous avez cr\u00E9\u00E9e\u202F?"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Le combat va bient\u00F4t commencer\u202F!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Se battre en mode r\u00E9seau local"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Vous n\u2019avez pas encore organis\u00E9 de comp\u00E9tition.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Voulez-vous participer \u00E0 une nouvelle\\ncomp\u00E9tition\u202F?"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Participer \u00E0 une nouvelle comp\u00E9tition"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Voir les anciennes comp\u00E9titions"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Regarder un combat en mode r\u00E9seau local"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Si vous d\u00E9cidez d\u2019abandonner, vous ne pourrez\\npeut-\u00EAtre plus participer \u00E0 la comp\u00E9tition\\r\\n\u00AB\u202F[VAR 01AF(0000)]\u202F\u00BB.\\c\\nVotre r\u00E9inscription d\u00E9pendra de l\u2019organisateur.\\nVoulez-vous abandonner malgr\u00E9 tout\u202F?"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "R\u00E8gles sauvegard\u00E9es.\\c"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Une version plus r\u00E9cente du jeu est disponible.\\c\\nVeuillez mettre votre jeu \u00E0 jour afin de pouvoir\\nparticiper \u00E0 la comp\u00E9tition.\\c"
+  }
+]

@@ -1,0 +1,180 @@
+[~ 0]
+Ich bin dein Ansprechpartner in Sachen Pokémon!\nWas darf’s sein?
+Super-Spezialtraining absolvieren
+Besondere Attacken erlernen
+An eine Attacke erinnern
+Eine Attacke vergessen
+Abbrechen
+Einen Namen bewerten
+Pokémon-Erinnerungen
+Okay. Komm gerne wieder vorbei!
+Oh, du bist also der neue Champ, was?\c\nDann hast du jetzt die fantastische Möglichkeit,\nPokémon, die Level 100 erreicht haben, bei mir\r\nein Super-Spezialtraining absolvieren zu lassen!
+Oh, du scheinst aber keine Silberkronkorken oder\nGoldkronkorken dabeizuhaben...
+Welches deiner Pokémon soll mein\nSuper-Spezialtraining absolvieren?
+Nur Pokémon auf Level 100 sind stark genug,\num mein Super-Spezialtraining zu bewältigen.
+Aber [VAR 0102(0001)] ist doch schon superstark!\nEs braucht gar kein Training mehr!
+Möchtest du Gold- oder Silberkronkorken\neinsetzen?
+Es sollen also alle Statuswerte per\nSuper-Spezialtraining erhöht werden?
+Welche Statuswerte sollen per\nSuper-Spezialtraining erhöht werden?
+[VAR 0109(0000)] (Im Besitz: [VAR 0201(0001)])
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+Legen wir los!
+Diesen Statuswert kann ich nicht weiter\ntrainieren!
+Du hast keinen [VAR 0109(0000)]...
+Puh, geschafft! [VAR 0102(0000)] ist durch mein\nSuper-Spezialtraining jetzt noch stärker!
+Möchtest du das Super-Spezialtraining\nfortführen?
+Was für eine Attacke möchtest du deinen\nPokémon beibringen?
+Eine ultimative Attacke
+Eine Kombi-Attacke
+Abbrechen
+Zurück
+Draco Meteor
+Flora-Statue
+Aquahaubitze
+Lohekanonade
+Feuersäulen
+Wassersäulen
+Pflanzensäulen
+Welchem Pokémon soll ich diese Attacke\nbeibringen?
+Welches Pokémon soll sich wieder an eine\nAttacke erinnern?
+Welches Pokémon soll eine Attacke vergessen?
+Hoppla, das ist aber eine sehr seltene Attacke!\c\nWenn dein Pokémon sie vergisst, wird es sie nie\nwieder erlernen können.\c\nDafür kann ich ihm aber eine andere seltene\nAttacke beibringen.
+[VAR 0102(0001)] kann diese Attacke leider nicht\nerlernen.
+Aber [VAR 0102(0001)] beherrscht diese Attacke\ndoch bereits!
+[VAR 0102(0000)] erlernt\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Dies sind Attacken, die nicht durch Levelaufstieg,\nTM oder TP erlernt werden können.\c\nWenn du Interesse hast, bringe ich sie deinen\nPokémon bei.
+Eines deiner Pokémon soll also eine Attacke\nvergessen?\c\nWenn ein Pokémon eine Attacke vergisst, musst\ndu sie ihm erneut beibringen, wenn es sie wieder\r\neinsetzen können soll.
+Ich helfe deinen Pokémon gern dabei, sich an\nAttacken zu erinnern, die sie bis zu ihrem jetzigen\r\nLevel theoretisch hätten erlernen können.
+[VAR 0102(0001)] kann keine seiner Attacken\nvergessen.
+Hm... Ich sehe keine Attacken, an die sich\n[VAR 0102(0001)] erinnern könnte.
+Du kannst doch kein Ei auswählen!\nKomm wieder, wenn es geschlüpft ist.
+Aber [VAR 0102(0001)] beherrscht diese\nbesondere Attacke doch bereits.
+Soll ich deinen Pokémon noch eine Attacke\nbeibringen?
+Soll ich deinen Pokémon helfen, sich an eine\nweitere Attacke zu erinnern?
+Soll ich deinen Pokémon helfen, eine weitere\nAttacke zu vergessen?
+Hast du es dir anders überlegt?
+Hast du es dir anders überlegt?
+Hast du es dir anders überlegt?
+Hast du es dir anders überlegt?
+[VAR 0102(0000)] ist entschlossen zu kämpfen\nund hat die Resolutform angenommen!
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0001)]\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0002)]\nvergessen!
+Welche Attacke soll es vergessen?
+An welche Attacke soll es sich erinnern?
+[~ 70]
+[~ 71]
+[~ 72]
+Von welchem Pokémon darf ich den Spitznamen\nbewerten?
+Aha, sein momentaner Name lautet also\n[VAR 0102(0000)]...\c\nDamit hast du dir schon viel Mühe gegeben!\c\nAber wollen wir dem Pokémon nicht einen etwas\nbesseren Namen verpassen? Was meinst du?
+Sehr schön...\nWie soll sein neuer Spitzname lauten?
+Alles klar! Von nun an heißt dein Pokémon\n[VAR 0102(0000)]!\c\nDieser Name passt viel besser zu ihm, das stimmt.\nEine gute Entscheidung!
+[~ 77]
+Alles klar! Dein Pokémon heißt jetzt also\n[VAR 0102(0000)]!\c\nHm? So hieß es vorher auch schon?\nAch was, das bildest du dir nur ein!\c\nDer neue Name passt eben wie die Faust\naufs Auge. Das ist doch toll!
+Oho! [VAR 0102(0000)] also...\c\nDas ist ein fantastischer Spitzname!\nDa kann man echt nicht meckern...\c\nAlso dann, kümmere dich auch weiter gut um\n[VAR 0102(0000)], ja?
+Hoppla...\nAber das ist doch nur ein Ei!
+Oder soll das Pokémon wieder so heißen,\nwie es bei eurem ersten Treffen hieß?
+Ah! Es soll also wieder [VAR 0101(0001)] heißen!\c\nDas weckt bestimmt Erinnerungen an die Zeit,\nals ihr euch gerade erst begegnet seid.\c\nAlso dann! Du weißt, wo du mich findest,\nwenn du mal wieder meine Dienste benötigst!
+Pokémon, die du von jemandem bekommen hast,\nkönnen nur ein einziges Mal umbenannt werden.\c\nBist du sicher, dass dieses Pokémon für immer\nden Spitznamen [VAR 0102(0000)] tragen soll?
+Schon klar. So was darf man nicht übers Knie\nbrechen, lass es dir gut durch den Kopf gehen!
+Soll ich den Spitznamen eines anderen Pokémon\nbewerten?
+Wähle ein Pokémon, über dessen Erinnerungen\ndu mehr erfahren möchtest.
+Ob du’s glaubst oder nicht, irgendwie kann ich\ndie Erinnerungen von Pokémon erspüren.
+[VAR 0102(0000)] hat auch Erinnerungen an die\nZeit, bevor es dich getroffen hat.
+Möchtest du auch etwas über die Erinnerungen\neines anderen Pokémon erfahren?
+[VAR 0102(0000)] scheint schöne Erinnerungen\nzu haben, kann sich aber gerade nicht entsinnen.
+[VAR 0102(0000)] ist [VAR 0100(0001)]\n[VAR 01D6(0002)] begegnet.\c\nDie gemeinsame Reise begann mit einem\ngezielten Pokéball-Wurf.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat [VAR 0100(0001)]\nzum ersten Mal gesehen,\r\nals es [VAR 01D6(0002)]\r\naus seinem Ei geschlüpft ist.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist [VAR 0100(0001)]\n[VAR 01D6(0002)] begegnet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] gelangte durch einen Tausch\n[VAR 01D6(0002)] in das\r\nTeam von [VAR 0100(0001)].\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist mit [VAR 0100(0001)]\nin ein Pokémon-Center gegangen,\r\num [VAR 1001][VAR 0109(0003)] zu kaufen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\nins Pokémon-Center gebracht und aufgepäppelt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nangeln. Zusammen haben sie ein\r\n[VAR 0101(0004)] an Land gezogen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nangeln, als ihnen ein mühsam an Land gezogenes\r\nPokémon doch noch entkommen ist.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat gesehen, wie\n[VAR 0100(0001)] sich um ein [VAR 0101(0004)]\r\ngekümmert hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat von [VAR 0100(0001)]\nSüßigkeiten bekommen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nKlamotten shoppen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] bekam von [VAR 0100(0001)]\ndie Attacke [VAR 0107(0005)] beigebracht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat [VAR 0100(0001)] dabei\ngeholfen, ein [VAR 0101(0004)] aus einem Ei\r\nschlüpfen zu lassen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\nein [VAR 0101(0004)] gefangen hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in der Klemme steckte, hat\n[VAR 0100(0001)] [VAR 1606(0003,0000)][VAR 0109(0003)]\r\neingesetzt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat auf Anweisung von\n[VAR 0100(0001)] die Attacke\r\n[VAR 0107(0005)] eingesetzt,\r\naber sie zeigte keine Wirkung.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat an der Seite von\n[VAR 0100(0001)] gekämpft und ein\r\n[VAR 0101(0004)] besiegt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von einem\n[VAR 0101(0004)] besiegt und ist mit\r\n[VAR 0100(0001)] geflüchtet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\ntrainiert und hat sich dann\r\n[VAR 01D6(0002)] entwickelt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist übers Wasser gesurft und hat\ndabei [VAR 0100(0001)] auf dem Rücken getragen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat gesehen, wie\n[VAR 0100(0001)] von einem [VAR 0101(0004)]\r\nauf dessen Rücken getragen wurde.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\neinen Arenaleiterkampf gewonnen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0100(0001)] sich der Herausforderung\nim Kampfhaus gestellt hat, war [VAR 0102(0000)]\r\nextrem nervös.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist mit [VAR 0100(0001)]\nauf dem Rücken losgeflogen, um dann\r\n[VAR 01D6(0002)] zu landen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde zusammen mit\n[VAR 0100(0001)] von einem wilden\r\n[VAR 0101(0004)] überrascht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat gesehen, wie\n[VAR 0100(0001)] [VAR 1606(0003,0000)][VAR 0109(0003)]\r\neingesetzt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat zusammen mit\n[VAR 0100(0001)] den Champ besiegt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\nden Pokédex vervollständigt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] und [VAR 0100(0001)] sind\nzusammen einem [VAR 0101(0004)] begegnet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\ndie höchste Autorität in Sachen Kämpfe\r\nbesiegt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\n[VAR 01D6(0002)] mit dem\r\nItemradar nach versteckten Items gesucht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\n[VAR 01D6(0002)] Radfahren.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\n[VAR 01D6(0002)] auf der\r\nKarte überprüft, wo es langgeht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\n[VAR 1001][VAR 0109(0003)] gepflanzt und sich\r\nvorgestellt, wie reich die Ernte sein würde.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat auf Wunsch von\n[VAR 0100(0001)] stolz die Attacke Stärke\r\n[VAR 01D6(0002)] eingesetzt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat auf Wunsch von\n[VAR 0100(0001)] die Attacke Zerschneider\r\n[VAR 01D6(0002)]\r\nzur Schau gestellt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat auf Wunsch von\n[VAR 0100(0001)] mit aller Kraft\r\n[VAR 01D6(0002)] einen\r\nFelsen zertrümmert.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat die Attacke Kaskade\n[VAR 01D6(0002)] eingesetzt,\r\nwährend [VAR 0100(0001)] auf seinem Rücken saß.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat gesehen, wie\n[VAR 0100(0001)] heimlich etwas\r\n[VAR 01D6(0002)]\r\naufgehoben hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat von [VAR 0100(0001)]\n[VAR 1606(0003,0000)][VAR 0109(0003)] zum Tragen\r\nbekommen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist mit [VAR 0100(0001)]\nzur Siegesstraße gegangen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\n[VAR 01D6(0002)]\r\nein Schild gelesen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war sehr beeindruckt von der\nGeschwindigkeit des Zugs, den es mit\r\n[VAR 0100(0001)] genommen hatte.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\ndas Pokéradar benutzt und zusammen sind sie\r\neinem [VAR 0101(0004)] begegnet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nunterwegs, als sie plötzlich von einem wilden\r\n[VAR 0101(0004)] angegriffen wurden.\c\nVöllig überrumpelt haben sie das Weite gesucht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)] im\nHaus der Prüfung eine hohe Punktzahl erreicht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat über [VAR 0100(0001)]\nden Richter kennengelernt, der es unverwandt\r\nangestarrt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat über [VAR 0100(0001)] den\nAttacken-Verlerner kennengelernt, durch den es\r\n[VAR 0107(0005)] vergessen hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] konnte sich unter Anleitung von\n[VAR 0100(0001)] wieder an\r\n[VAR 0107(0005)] erinnern.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\nin der Pokémon-Pension abgegeben und\r\nverbrachte seine Zeit dort mit einem\r\n[VAR 0101(0004)].\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war neidisch, als\n[VAR 0100(0001)] mit einem Los\r\n[VAR 1606(0003,0000)][VAR 0109(0003)] gewonnen hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war dabei, als\n[VAR 0100(0001)] das Item Schutz\r\n[VAR 01D6(0002)]\r\neingesetzt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)] ein\nanstrengendes Spezialtraining absolviert.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\neinen Fahrstuhl genommen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\nzum Namenbewerter gebracht und hat dort\r\neinen schicksalhaften Namen erhalten.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nin einer Boutique. [VAR 0100(0001)] hat einiges\r\nanprobiert, aber nichts gekauft.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nin einem tollen Restaurant und hat dort\r\nordentlich gemampft.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\nzu einer freundlichen Frau gebracht, die sich\r\nliebevoll um es gekümmert hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\n[VAR 01D6(0002)] einen\r\nAbfalleimer durchstöbert.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\ngegen ein [VAR 0101(0004)] gekämpft und sich\r\ndabei so sehr angestrengt, dass es sogar\r\nVerzweifler eingesetzt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nauf einem hohen Turm und hat von dort\r\ndie Welt unter sich betrachtet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nin der Spiegelhöhle und hat dort sein\r\nSpiegelbild betrachtet.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat sich mit [VAR 0100(0001)]\nfast verlaufen, als sie gemeinsam einen Wald\r\nerkundet haben.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nin einer Fabrik, in der es viele kompliziert\r\naussehende Maschinen gab.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\neine Geheimbasis eingerichtet hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\nan einem Wettbewerb teilgenommen und\r\ndabei viele Leute beeindruckt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\nan einem Wettbewerb teilgenommen und\r\neinen spektakulären Sieg errungen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] ist mit [VAR 0100(0001)]\nper Überflieger durch die Lüfte gesaust und\r\nzu vielen verschiedenen Orten geflogen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\ngebeten, in die Tiefe hinabzutauchen\r\nund den Meeresboden zu erkunden.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat sich mit [VAR 0100(0001)]\n[VAR 01D6(0002)]\r\nauf eine Bank gesetzt.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\ngegen ein dynamaximiertes [VAR 0101(0004)]\r\ngekämpft.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat sich auf Befehl von\n[VAR 0100(0001)] dynamaximiert und gegen\r\nein [VAR 0101(0004)] gekämpft.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\ncampen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat zusammen mit\n[VAR 0100(0001)] gekocht.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] wurde von [VAR 0100(0001)]\nim Pokémon-Hort abgegeben und verbrachte\r\nseine Zeit dort mit einem [VAR 0101(0004)].\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\nim Pokémon-Center Geburtstag gefeiert.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nim Friseursalon und hat gesehen, wie schwer es\r\n[VAR 0100(0001)] gefallen ist, sich für eine Frisur\r\nzu entscheiden.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war mit [VAR 0100(0001)]\nunterwegs, als es anfing zu regnen.\r\nBeide wurden klitschnass.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat mit [VAR 0100(0001)]\nan einer Rallye teilgenommen, bei der sie\r\nrasend schnell waren.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war, hat es sich\n[VAR 0100(0001)] zuliebe überlegt, wie es\r\n[VAR 0107(0005)] gut einsetzen könnte.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war, hat es\neine besonders coole Pose für die Attacke\r\n[VAR 0107(0005)] geübt, damit es von\r\n[VAR 0100(0001)] gelobt wird.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] war in derselben Box wie\n[VAR 0101(0004)] und hat sich gut mit ihm über\r\n[VAR 0100(0001)] unterhalten.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+[VAR 0102(0000)] hat sich in einer Box mit\n[VAR 0101(0004)] angefreundet.\r\nZusammen haben sie Attacken geübt und\r\nüber den Tag geredet, an dem sie von\r\n[VAR 0100(0001)] gelobt werden würden.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war, hat es sich\ndarüber Sorgen gemacht, dass [VAR 0100(0001)]\r\ndas Item suchen könnte, das es bei sich trug.\c\nEs war [VAR 1602(0003,0000)][VAR 010A(0003)].\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0100(0001)] in einer Box nach\n[VAR 0102(0000)] sehen kam, war es so nervös,\r\ndass es den Blick nicht heben konnte.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war,\nhat es gehört, wie [VAR 0100(0001)]\r\n[VAR 01D6(0002)] ankam.\r\nEs konnte sich diesen Moment bildlich vorstellen.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in derselben Box wie\n[VAR 0101(0004)] war, haben sie sich über\r\n[VAR 0100(0001)] gestritten.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war, hat es\ndarüber nachgedacht, warum [VAR 0100(0001)]\r\nihm [VAR 1606(0003,0000)][VAR 0109(0003)] zum Tragen\r\ngegeben hatte.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].
+Als [VAR 0102(0000)] in einer Box war, hatte es\neinen seltsamen Traum, in dem [VAR 0100(0001)]\r\n[VAR 0107(0005)] eingesetzt hat.\c\n[VAR 01D8(0007)]\n[VAR 01D7(0006)].

@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Sai qual \u00E8 la mossa di tipo Drago pi\u00F9 potente?\\n\u00C8 Dragobolide!\\c\\nSe vuoi, posso insegnarla a un tuo Pok\u00E9mon.\\nTi interessa?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Capisco... In effetti, le mosse troppo forti\\nsono difficili da usare."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Uhm... S\u00EC... Questo Pok\u00E9mon potrebbe impararla...\\nma la vostra Amicizia non \u00E8 abbastanza forte.\\c\\nTorna quando sarete pi\u00F9 amici che mai e sar\u00F2\\nfelice di insegnargliela!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Mi spiace, ma non hai con te nessun Pok\u00E9mon\\nin grado di imparare questa mossa...\\c\\nTorna con un Pok\u00E9mon capace di apprenderla!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bene, a chi vuoi che la insegni?"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ah...! Quel Pok\u00E9mon non pu\u00F2 impararla!"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Ah...! Ma quello \u00E8 un Uovo!\\nNon si possono insegnare mosse alle Uova..."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ah...! Questo Pok\u00E9mon conosce gi\u00E0 Dragobolide."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Dragobolide \u00E8 davvero una mossa formidabile!\\nMa c\u2019\u00E8 una cosa che devi sapere.\\c\\nQuando il Pok\u00E9mon la usa, il suo Attacco\\nSpeciale diminuisce di molto."
+  },
+  {
+    "index": 9,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire\\ncon [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Quale mossa vuoi che dimentichi?"
+  }
+]

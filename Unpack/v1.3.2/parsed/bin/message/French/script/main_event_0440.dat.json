@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Salut, les apprentis Dresseurs\u202F!\\nAlors, c\u2019est bon\u202F? Vous \u00EAtes inscrits\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Eh, Sonya\u202F!\\nQu\u2019est-ce que tu fais ici\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "J\u2019enqu\u00EAte sur le myst\u00E9rieux Pok\u00E9mon\\nde la For\u00EAt de Sleepwood.\\c\\nJe me dis que \u00E7a pourrait \u00EAtre une bonne id\u00E9e\\nde fouiller du c\u00F4t\u00E9 des l\u00E9gendes de Galar.\\c\\n\u00C7a vous int\u00E9resse\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Bah, euh, d\u00E9j\u00E0...\\nC\u2019est quoi, \u00E7a\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "C\u2019est une statue du h\u00E9ros qui a sauv\u00E9 Galar, il y a\\ntr\u00E8s longtemps. Vous voulez conna\u00EEtre l\u2019histoire\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Euh, un r\u00E9sum\u00E9, oui, pourquoi pas\u202F?"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "On veut tous les d\u00E9tails\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Il y a fort, fort longtemps, un sombre vortex\\ns\u2019est mat\u00E9rialis\u00E9 dans le ciel de Galar.\\r\\nLes gens l\u2019ont appel\u00E9 la \u00AB\u202FNuit Noire\u202F\u00BB.\\c\\nDes Pok\u00E9mon g\u00E9ants sont apparus un peu\\npartout et ont commenc\u00E9 \u00E0 saccager la r\u00E9gion.\\c\\nMais un jeune et valeureux h\u00E9ros, arm\u00E9\\nd\u2019une \u00E9p\u00E9e et d\u2019un bouclier, les a tous vaincus.\\c\\nCette statue repr\u00E9sente le jeune h\u00E9ros\\nde la l\u00E9gende.[VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Mais on a vraiment tr\u00E8s peu de sources fiables\\npour cette histoire. Je vous laisse imaginer\\r\\nle casse-t\u00EAte que c\u2019est, pour les historiens.\\c\\n\u00C0 quoi ressemblaient l\u2019\u00E9p\u00E9e et le bouclier\\ndu h\u00E9ros\u202F? Myst\u00E8re.\\r\\nC\u2019\u00E9tait quoi, ce vortex\u202F? On ne sait pas non plus.\\c\\nBeaucoup d\u2019\u00E9nigmes entourent cette Nuit Noire\\nqui a assombri le pass\u00E9 de Galar.[VAR 0114(000B)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Ah, OK... En tout cas, le h\u00E9ros, il en jette\u202F!\\nIl devait \u00EAtre fort comme mon frangin\u202F!\\c\\nEn tout cas, tu vas avoir du pain sur la planche,\\nSonya, s\u2019il faut que tu fasses des recherches\\r\\nsur le vortex, les armes et tout...[VAR 0114(0005)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Je suis s\u00FBr[VAR 1100(00FF,0100)]e que Sonya va y arriver\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00C7a va aller\u202F?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Mais oui\u202F!\\nJe finirai bien par trouver quelque chose.[VAR 0114(000B)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Bof, on verra bien.\\nC\u2019est \u00E7a, la vie de chercheuse\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Vous dormez \u00E0 l\u2019h\u00F4tel, c\u2019est \u00E7a\u202F?\\nPensez \u00E0 vous enregistrer \u00E0 la r\u00E9ception.\\c\\nEnfin, ils ont l\u2019air pas mal occup\u00E9s, l\u00E0.[VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00C7a marche\u202F! Et si on trouve quelque chose,\\non te pr\u00E9vient\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Il suffit de s\u2019adresser \u00E0 la r\u00E9ception pour r\u00E9cup\u00E9rer\\nla cl\u00E9 de sa chambre. Vas-y, je te suis\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "C\u2019est gentil de prendre soin de Nabil comme\\ntu le fais. Tarak s\u2019inqui\u00E8te pas mal pour lui.\\c\\nC\u2019est normal, il s\u2019est beaucoup occup\u00E9\\nde son petit fr\u00E8re quand il \u00E9tait petit.\\r\\nC\u2019est quasiment un p\u00E8re pour Nabil.[VAR 0114(000B)]"
+  }
+]

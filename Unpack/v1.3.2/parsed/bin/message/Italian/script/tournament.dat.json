@@ -1,0 +1,607 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa, Campione[VAR 1100(00FF,0300)]ssa!\\c\\nNoi teniamo sempre nuovi tornei... E ovviamente\\nsei invitat[VAR 1100(00FF,0101)]oa anche tu! Che ne dici?\\r\\nSe sei in vena di lottare, scegli un torneo!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa, Campione[VAR 1100(00FF,0300)]ssa! Vuoi partecipare\\na un torneo?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Capisco! Torna a trovarci presto. Ti aspettiamo!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un Allenatore in particolare che vorresti\\ninvitare a questo torneo?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Chi vuoi invitare?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Avanti"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Vuoi invitare [VAR 0100(0000)]?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Benissimo. Seguimi, entriamo in campo!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Benissimo. Pare che il tuo invito sia stato\\naccettato!\\c\\nSeguimi, allora... Entriamo in campo!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Congratulazioni! \u00C8 stata una vittoria schiacciante!\\nTi aspetta una bella ricompensa."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Torna a trovarci!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Che peccato... Ma non abbatterti, avrai modo\\ndi prenderti una rivincita!\\r\\nTorna a trovarci, mi raccomando!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Chi si vede! [VAR 1100(00FF,0E0B)]Il CampioneLa Campionessa in persona!\\nCongratulazioni! Mega, ultra congratulazioni!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "La tua vittoria mi ha conquistato!\\nTieni, ti sei meritat[VAR 1100(00FF,0101)]oa questo regalo!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa, Campione[VAR 1100(00FF,0300)]ssa! Dandel non vedeva\\nl\u2019ora che arrivassi."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Per poter partecipare al Torneo delle Star\\ndi Galar \u00E8 necessario avere un compagno\\r\\ndi squadra.\\c\\nChe ne dici di chiedere a uno degli Allenatori\\ne Allenatrici qui presenti?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "La tua compagna di squadra \u00E8 Mary, giusto?\\nAvete terminato i preparativi?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Il tuo compagno di squadra \u00E8 Hop, giusto?\\nAvete terminato i preparativi?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Bene, ora vi accompagner\u00F2 alla sala d\u2019attesa."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Nessun problema. Tornate pure quando avrete\\ncompletato i preparativi."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa! A quale torneo parteciperai questa\\nvolta?"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Il solito torneo!"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Il Torneo delle Star di Galar!"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Ho cambiato idea..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Bene. Allora sei pregat[VAR 1100(00FF,0101)]oa di scegliere con\\nchi partecipare."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Congratulazioni per la vittoria!\\nTieni, questo \u00E8 il tuo premio!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR BE05(0006)]Hai ricevuto [VAR 0205(0001,002E)] \uE300!"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Hai ricevuto la [VAR FF00(0008)]Divisa da torneo[VAR FF00(0000)]."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Inoltre, ci sono altri Allenatori che dopo aver\\nassistito alla tua straordinaria performance\\r\\nvorrebbero fare squadra con te.\\c\\nChe ne dici di partecipare con un nuovo\\ncompagno di lotta?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Che peccato, questa volta non \u00E8 andata.\\nTieni, una ricompensa per aver partecipato."
+  },
+  {
+    "index": 36,
+    "flags": 8,
+    "text": "Spero di vederti partecipare di nuovo."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Ci sono altri Allenatori che dopo aver assistito\\nalla tua straordinaria performance vorrebbero\\r\\nfare squadra con te..."
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Oh oh! Oh oh oh![VAR 0114(0042)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Nobile [VAR 0100(0000)]! Sembra che tu abbia\\navuto una magnifica riuscita in questo torneo![VAR 0114(0042)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Non mi aspetterei altro da una celebrit\u00E0 che\\nha ottenuto il nostro timbro d\u2019approvazione![VAR 0114(0042)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Il mio nome \u00E8 Brandobaldo![VAR 0114(0068)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "E il mio \u00E8 Scudobaldo![VAR 0114(0069)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Siamo i discendenti della famiglia reale,\\nnonch\u00E9 le celebrit\u00E0 che sponsorizzano\\r\\nil Torneo delle Star di Galar...![VAR 0114(0068)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Essere uno sponsor significa sborsare\\nun sacco di soldi, per la cronaca.[VAR 0114(0069)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Devi sapere che noi fratelli abbiamo a lungo\\nassistito l\u2019organizzazione del torneo![VAR 0114(0068)]"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Abbiamo convenuto fosse un ottimo modo\\nper fare ammenda delle nostre colpe![VAR 0114(0069)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Per inciso, abbiamo anche partecipato al torneo.[VAR 0114(0068)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Anche se non te ne sarai nemmeno accort[VAR 1100(00FF,0101)]oa...\\ndato che perdiamo sempre al primo round![VAR 0114(0069)]"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Ah ah ah ah![VAR 0114(006A)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Tuttavia, per una volta vorrei salire sul podio\\nanche io![VAR 0114(0068)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Usufruire della nostra posizione privilegiata di\\nsponsor per partecipare non ha alcun senso\\r\\nse poi non facciamo altro che perdere![VAR 0114(0069)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Per cui...[VAR 0114(006A)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Nobile [VAR 0100(0000)], che ne dici di puntare\\ninsieme alla vittoria?[VAR 0114(0068)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Consentimi di contestare. Sar\u00F2 io trionfare\\nal fianco di [VAR 0100(0000)].[VAR 0114(0069)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Eheh, caro fratellino...[VAR 0114(0068)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Eheheh, caro fratellone...[VAR 0114(0069)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Ottimo! Togliamo il disturbo per tornare in alta\\nquota.[VAR 0114(0068)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Sai, abbiamo una predilezione per i luoghi\\nelevati![VAR 0114(0069)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Ci aspettiamo da parte tua una risposta\\nmeravigliosamente favorevole.[VAR 0114(0068)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Allora... Goodbye, mi[VAR 1100(00FF,0606)]o caroa cara![VAR 0114(0069)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Immagino non sia semplice avere a che fare\\ncon quei due signori...\\c\\nMa spero vivamente che vorrai partecipare\\ncon un nuovo compagno di squadra."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Hai scelto con chi partecipare? Perfetto.\\nAllora proceder\u00F2 a registrare la vostra iscrizione.\\r\\n... ... ...\\c\\nBene, tutte le squadre sono state registrate!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[~ 82]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[~ 84]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "[~ 85]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[~ 87]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[~ 88]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[~ 90]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[~ 91]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[~ 92]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[~ 93]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[~ 94]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[~ 95]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[~ 96]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[~ 97]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[~ 98]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  }
+]

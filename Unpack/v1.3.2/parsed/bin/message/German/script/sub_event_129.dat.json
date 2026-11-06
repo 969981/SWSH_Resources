@@ -1,0 +1,902 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ich bin dein Ansprechpartner in Sachen Pok\u00E9mon!\\nWas darf\u2019s sein?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Super-Spezialtraining absolvieren"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Besondere Attacken erlernen"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "An eine Attacke erinnern"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Eine Attacke vergessen"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Einen Namen bewerten"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Pok\u00E9mon-Erinnerungen"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Okay. Komm gerne wieder vorbei!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Oh, du bist also der neue Champ, was?\\c\\nDann hast du jetzt die fantastische M\u00F6glichkeit,\\nPok\u00E9mon, die Level 100 erreicht haben, bei mir\\r\\nein Super-Spezialtraining absolvieren zu lassen!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Oh, du scheinst aber keine Silberkronkorken oder\\nGoldkronkorken dabeizuhaben..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Welches deiner Pok\u00E9mon soll mein\\nSuper-Spezialtraining absolvieren?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Nur Pok\u00E9mon auf Level 100 sind stark genug,\\num mein Super-Spezialtraining zu bew\u00E4ltigen."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Aber [VAR 0102(0001)] ist doch schon superstark!\\nEs braucht gar kein Training mehr!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "M\u00F6chtest du Gold- oder Silberkronkorken\\neinsetzen?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Es sollen also alle Statuswerte per\\nSuper-Spezialtraining erh\u00F6ht werden?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Welche Statuswerte sollen per\\nSuper-Spezialtraining erh\u00F6ht werden?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] (Im Besitz: [VAR 0201(0001)])"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Legen wir los!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Diesen Statuswert kann ich nicht weiter\\ntrainieren!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Du hast keinen [VAR 0109(0000)]..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Puh, geschafft! [VAR 0102(0000)] ist durch mein\\nSuper-Spezialtraining jetzt noch st\u00E4rker!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "M\u00F6chtest du das Super-Spezialtraining\\nfortf\u00FChren?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Was f\u00FCr eine Attacke m\u00F6chtest du deinen\\nPok\u00E9mon beibringen?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Eine ultimative Attacke"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Eine Kombi-Attacke"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Draco Meteor"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Flora-Statue"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Aquahaubitze"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Lohekanonade"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Feuers\u00E4ulen"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Wassers\u00E4ulen"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Pflanzens\u00E4ulen"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Welchem Pok\u00E9mon soll ich diese Attacke\\nbeibringen?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Welches Pok\u00E9mon soll sich wieder an eine\\nAttacke erinnern?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Welches Pok\u00E9mon soll eine Attacke vergessen?"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Hoppla, das ist aber eine sehr seltene Attacke!\\c\\nWenn dein Pok\u00E9mon sie vergisst, wird es sie nie\\nwieder erlernen k\u00F6nnen.\\c\\nDaf\u00FCr kann ich ihm aber eine andere seltene\\nAttacke beibringen."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] kann diese Attacke leider nicht\\nerlernen."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Aber [VAR 0102(0001)] beherrscht diese Attacke\\ndoch bereits!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Dies sind Attacken, die nicht durch Levelaufstieg,\\nTM oder TP erlernt werden k\u00F6nnen.\\c\\nWenn du Interesse hast, bringe ich sie deinen\\nPok\u00E9mon bei."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Eines deiner Pok\u00E9mon soll also eine Attacke\\nvergessen?\\c\\nWenn ein Pok\u00E9mon eine Attacke vergisst, musst\\ndu sie ihm erneut beibringen, wenn es sie wieder\\r\\neinsetzen k\u00F6nnen soll."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Ich helfe deinen Pok\u00E9mon gern dabei, sich an\\nAttacken zu erinnern, die sie bis zu ihrem jetzigen\\r\\nLevel theoretisch h\u00E4tten erlernen k\u00F6nnen."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] kann keine seiner Attacken\\nvergessen."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Hm... Ich sehe keine Attacken, an die sich\\n[VAR 0102(0001)] erinnern k\u00F6nnte."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Du kannst doch kein Ei ausw\u00E4hlen!\\nKomm wieder, wenn es geschl\u00FCpft ist."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Aber [VAR 0102(0001)] beherrscht diese\\nbesondere Attacke doch bereits."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Soll ich deinen Pok\u00E9mon noch eine Attacke\\nbeibringen?"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Soll ich deinen Pok\u00E9mon helfen, sich an eine\\nweitere Attacke zu erinnern?"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Soll ich deinen Pok\u00E9mon helfen, eine weitere\\nAttacke zu vergessen?"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Hast du es dir anders \u00FCberlegt?"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Hast du es dir anders \u00FCberlegt?"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Hast du es dir anders \u00FCberlegt?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Hast du es dir anders \u00FCberlegt?"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist entschlossen zu k\u00E4mpfen\\nund hat die Resolutform angenommen!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0002)]\\nvergessen!"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Welche Attacke soll es vergessen?"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "An welche Attacke soll es sich erinnern?"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Von welchem Pok\u00E9mon darf ich den Spitznamen\\nbewerten?"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Aha, sein momentaner Name lautet also\\n[VAR 0102(0000)]...\\c\\nDamit hast du dir schon viel M\u00FChe gegeben!\\c\\nAber wollen wir dem Pok\u00E9mon nicht einen etwas\\nbesseren Namen verpassen? Was meinst du?"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Sehr sch\u00F6n...\\nWie soll sein neuer Spitzname lauten?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Alles klar! Von nun an hei\u00DFt dein Pok\u00E9mon\\n[VAR 0102(0000)]!\\c\\nDieser Name passt viel besser zu ihm, das stimmt.\\nEine gute Entscheidung!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Alles klar! Dein Pok\u00E9mon hei\u00DFt jetzt also\\n[VAR 0102(0000)]!\\c\\nHm? So hie\u00DF es vorher auch schon?\\nAch was, das bildest du dir nur ein!\\c\\nDer neue Name passt eben wie die Faust\\naufs Auge. Das ist doch toll!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Oho! [VAR 0102(0000)] also...\\c\\nDas ist ein fantastischer Spitzname!\\nDa kann man echt nicht meckern...\\c\\nAlso dann, k\u00FCmmere dich auch weiter gut um\\n[VAR 0102(0000)], ja?"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Hoppla...\\nAber das ist doch nur ein Ei!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Oder soll das Pok\u00E9mon wieder so hei\u00DFen,\\nwie es bei eurem ersten Treffen hie\u00DF?"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Ah! Es soll also wieder [VAR 0101(0001)] hei\u00DFen!\\c\\nDas weckt bestimmt Erinnerungen an die Zeit,\\nals ihr euch gerade erst begegnet seid.\\c\\nAlso dann! Du wei\u00DFt, wo du mich findest,\\nwenn du mal wieder meine Dienste ben\u00F6tigst!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die du von jemandem bekommen hast,\\nk\u00F6nnen nur ein einziges Mal umbenannt werden.\\c\\nBist du sicher, dass dieses Pok\u00E9mon f\u00FCr immer\\nden Spitznamen [VAR 0102(0000)] tragen soll?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Schon klar. So was darf man nicht \u00FCbers Knie\\nbrechen, lass es dir gut durch den Kopf gehen!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Soll ich den Spitznamen eines anderen Pok\u00E9mon\\nbewerten?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "W\u00E4hle ein Pok\u00E9mon, \u00FCber dessen Erinnerungen\\ndu mehr erfahren m\u00F6chtest."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Ob du\u2019s glaubst oder nicht, irgendwie kann ich\\ndie Erinnerungen von Pok\u00E9mon ersp\u00FCren."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat auch Erinnerungen an die\\nZeit, bevor es dich getroffen hat."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "M\u00F6chtest du auch etwas \u00FCber die Erinnerungen\\neines anderen Pok\u00E9mon erfahren?"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] scheint sch\u00F6ne Erinnerungen\\nzu haben, kann sich aber gerade nicht entsinnen."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist [VAR 0100(0001)]\\n[VAR 01D6(0002)] begegnet.\\c\\nDie gemeinsame Reise begann mit einem\\ngezielten Pok\u00E9ball-Wurf.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat [VAR 0100(0001)]\\nzum ersten Mal gesehen,\\r\\nals es [VAR 01D6(0002)]\\r\\naus seinem Ei geschl\u00FCpft ist.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist [VAR 0100(0001)]\\n[VAR 01D6(0002)] begegnet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] gelangte durch einen Tausch\\n[VAR 01D6(0002)] in das\\r\\nTeam von [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist mit [VAR 0100(0001)]\\nin ein Pok\u00E9mon-Center gegangen,\\r\\num [VAR 1001][VAR 0109(0003)] zu kaufen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\nins Pok\u00E9mon-Center gebracht und aufgep\u00E4ppelt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nangeln. Zusammen haben sie ein\\r\\n[VAR 0101(0004)] an Land gezogen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nangeln, als ihnen ein m\u00FChsam an Land gezogenes\\r\\nPok\u00E9mon doch noch entkommen ist.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat gesehen, wie\\n[VAR 0100(0001)] sich um ein [VAR 0101(0004)]\\r\\ngek\u00FCmmert hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat von [VAR 0100(0001)]\\nS\u00FC\u00DFigkeiten bekommen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nKlamotten shoppen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] bekam von [VAR 0100(0001)]\\ndie Attacke [VAR 0107(0005)] beigebracht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat [VAR 0100(0001)] dabei\\ngeholfen, ein [VAR 0101(0004)] aus einem Ei\\r\\nschl\u00FCpfen zu lassen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\\nein [VAR 0101(0004)] gefangen hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in der Klemme steckte, hat\\n[VAR 0100(0001)] [VAR 1606(0003,0000)][VAR 0109(0003)]\\r\\neingesetzt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat auf Anweisung von\\n[VAR 0100(0001)] die Attacke\\r\\n[VAR 0107(0005)] eingesetzt,\\r\\naber sie zeigte keine Wirkung.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat an der Seite von\\n[VAR 0100(0001)] gek\u00E4mpft und ein\\r\\n[VAR 0101(0004)] besiegt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von einem\\n[VAR 0101(0004)] besiegt und ist mit\\r\\n[VAR 0100(0001)] gefl\u00FCchtet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\ntrainiert und hat sich dann\\r\\n[VAR 01D6(0002)] entwickelt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist \u00FCbers Wasser gesurft und hat\\ndabei [VAR 0100(0001)] auf dem R\u00FCcken getragen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat gesehen, wie\\n[VAR 0100(0001)] von einem [VAR 0101(0004)]\\r\\nauf dessen R\u00FCcken getragen wurde.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\neinen Arenaleiterkampf gewonnen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Als [VAR 0100(0001)] sich der Herausforderung\\nim Kampfhaus gestellt hat, war [VAR 0102(0000)]\\r\\nextrem nerv\u00F6s.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist mit [VAR 0100(0001)]\\nauf dem R\u00FCcken losgeflogen, um dann\\r\\n[VAR 01D6(0002)] zu landen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde zusammen mit\\n[VAR 0100(0001)] von einem wilden\\r\\n[VAR 0101(0004)] \u00FCberrascht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat gesehen, wie\\n[VAR 0100(0001)] [VAR 1606(0003,0000)][VAR 0109(0003)]\\r\\neingesetzt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat zusammen mit\\n[VAR 0100(0001)] den Champ besiegt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\\nden Pok\u00E9dex vervollst\u00E4ndigt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] und [VAR 0100(0001)] sind\\nzusammen einem [VAR 0101(0004)] begegnet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\\ndie h\u00F6chste Autorit\u00E4t in Sachen K\u00E4mpfe\\r\\nbesiegt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\n[VAR 01D6(0002)] mit dem\\r\\nItemradar nach versteckten Items gesucht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\n[VAR 01D6(0002)] Radfahren.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\n[VAR 01D6(0002)] auf der\\r\\nKarte \u00FCberpr\u00FCft, wo es langgeht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\n[VAR 1001][VAR 0109(0003)] gepflanzt und sich\\r\\nvorgestellt, wie reich die Ernte sein w\u00FCrde.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat auf Wunsch von\\n[VAR 0100(0001)] stolz die Attacke St\u00E4rke\\r\\n[VAR 01D6(0002)] eingesetzt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat auf Wunsch von\\n[VAR 0100(0001)] die Attacke Zerschneider\\r\\n[VAR 01D6(0002)]\\r\\nzur Schau gestellt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat auf Wunsch von\\n[VAR 0100(0001)] mit aller Kraft\\r\\n[VAR 01D6(0002)] einen\\r\\nFelsen zertr\u00FCmmert.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat die Attacke Kaskade\\n[VAR 01D6(0002)] eingesetzt,\\r\\nw\u00E4hrend [VAR 0100(0001)] auf seinem R\u00FCcken sa\u00DF.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat gesehen, wie\\n[VAR 0100(0001)] heimlich etwas\\r\\n[VAR 01D6(0002)]\\r\\naufgehoben hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat von [VAR 0100(0001)]\\n[VAR 1606(0003,0000)][VAR 0109(0003)] zum Tragen\\r\\nbekommen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist mit [VAR 0100(0001)]\\nzur Siegesstra\u00DFe gegangen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\n[VAR 01D6(0002)]\\r\\nein Schild gelesen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war sehr beeindruckt von der\\nGeschwindigkeit des Zugs, den es mit\\r\\n[VAR 0100(0001)] genommen hatte.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\ndas Pok\u00E9radar benutzt und zusammen sind sie\\r\\neinem [VAR 0101(0004)] begegnet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nunterwegs, als sie pl\u00F6tzlich von einem wilden\\r\\n[VAR 0101(0004)] angegriffen wurden.\\c\\nV\u00F6llig \u00FCberrumpelt haben sie das Weite gesucht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)] im\\nHaus der Pr\u00FCfung eine hohe Punktzahl erreicht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat \u00FCber [VAR 0100(0001)]\\nden Richter kennengelernt, der es unverwandt\\r\\nangestarrt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat \u00FCber [VAR 0100(0001)] den\\nAttacken-Verlerner kennengelernt, durch den es\\r\\n[VAR 0107(0005)] vergessen hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] konnte sich unter Anleitung von\\n[VAR 0100(0001)] wieder an\\r\\n[VAR 0107(0005)] erinnern.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\nin der Pok\u00E9mon-Pension abgegeben und\\r\\nverbrachte seine Zeit dort mit einem\\r\\n[VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war neidisch, als\\n[VAR 0100(0001)] mit einem Los\\r\\n[VAR 1606(0003,0000)][VAR 0109(0003)] gewonnen hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war dabei, als\\n[VAR 0100(0001)] das Item Schutz\\r\\n[VAR 01D6(0002)]\\r\\neingesetzt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)] ein\\nanstrengendes Spezialtraining absolviert.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\neinen Fahrstuhl genommen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\nzum Namenbewerter gebracht und hat dort\\r\\neinen schicksalhaften Namen erhalten.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nin einer Boutique. [VAR 0100(0001)] hat einiges\\r\\nanprobiert, aber nichts gekauft.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nin einem tollen Restaurant und hat dort\\r\\nordentlich gemampft.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\nzu einer freundlichen Frau gebracht, die sich\\r\\nliebevoll um es gek\u00FCmmert hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\n[VAR 01D6(0002)] einen\\r\\nAbfalleimer durchst\u00F6bert.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\ngegen ein [VAR 0101(0004)] gek\u00E4mpft und sich\\r\\ndabei so sehr angestrengt, dass es sogar\\r\\nVerzweifler eingesetzt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nauf einem hohen Turm und hat von dort\\r\\ndie Welt unter sich betrachtet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nin der Spiegelh\u00F6hle und hat dort sein\\r\\nSpiegelbild betrachtet.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat sich mit [VAR 0100(0001)]\\nfast verlaufen, als sie gemeinsam einen Wald\\r\\nerkundet haben.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nin einer Fabrik, in der es viele kompliziert\\r\\naussehende Maschinen gab.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war dabei, als [VAR 0100(0001)]\\neine Geheimbasis eingerichtet hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\nan einem Wettbewerb teilgenommen und\\r\\ndabei viele Leute beeindruckt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\nan einem Wettbewerb teilgenommen und\\r\\neinen spektakul\u00E4ren Sieg errungen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist mit [VAR 0100(0001)]\\nper \u00DCberflieger durch die L\u00FCfte gesaust und\\r\\nzu vielen verschiedenen Orten geflogen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\ngebeten, in die Tiefe hinabzutauchen\\r\\nund den Meeresboden zu erkunden.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat sich mit [VAR 0100(0001)]\\n[VAR 01D6(0002)]\\r\\nauf eine Bank gesetzt.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\ngegen ein dynamaximiertes [VAR 0101(0004)]\\r\\ngek\u00E4mpft.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat sich auf Befehl von\\n[VAR 0100(0001)] dynamaximiert und gegen\\r\\nein [VAR 0101(0004)] gek\u00E4mpft.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\ncampen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat zusammen mit\\n[VAR 0100(0001)] gekocht.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde von [VAR 0100(0001)]\\nim Pok\u00E9mon-Hort abgegeben und verbrachte\\r\\nseine Zeit dort mit einem [VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\nim Pok\u00E9mon-Center Geburtstag gefeiert.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nim Friseursalon und hat gesehen, wie schwer es\\r\\n[VAR 0100(0001)] gefallen ist, sich f\u00FCr eine Frisur\\r\\nzu entscheiden.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war mit [VAR 0100(0001)]\\nunterwegs, als es anfing zu regnen.\\r\\nBeide wurden klitschnass.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat mit [VAR 0100(0001)]\\nan einer Rallye teilgenommen, bei der sie\\r\\nrasend schnell waren.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war, hat es sich\\n[VAR 0100(0001)] zuliebe \u00FCberlegt, wie es\\r\\n[VAR 0107(0005)] gut einsetzen k\u00F6nnte.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war, hat es\\neine besonders coole Pose f\u00FCr die Attacke\\r\\n[VAR 0107(0005)] ge\u00FCbt, damit es von\\r\\n[VAR 0100(0001)] gelobt wird.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] war in derselben Box wie\\n[VAR 0101(0004)] und hat sich gut mit ihm \u00FCber\\r\\n[VAR 0100(0001)] unterhalten.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat sich in einer Box mit\\n[VAR 0101(0004)] angefreundet.\\r\\nZusammen haben sie Attacken ge\u00FCbt und\\r\\n\u00FCber den Tag geredet, an dem sie von\\r\\n[VAR 0100(0001)] gelobt werden w\u00FCrden.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war, hat es sich\\ndar\u00FCber Sorgen gemacht, dass [VAR 0100(0001)]\\r\\ndas Item suchen k\u00F6nnte, das es bei sich trug.\\c\\nEs war [VAR 1602(0003,0000)][VAR 010A(0003)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Als [VAR 0100(0001)] in einer Box nach\\n[VAR 0102(0000)] sehen kam, war es so nerv\u00F6s,\\r\\ndass es den Blick nicht heben konnte.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war,\\nhat es geh\u00F6rt, wie [VAR 0100(0001)]\\r\\n[VAR 01D6(0002)] ankam.\\r\\nEs konnte sich diesen Moment bildlich vorstellen.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in derselben Box wie\\n[VAR 0101(0004)] war, haben sie sich \u00FCber\\r\\n[VAR 0100(0001)] gestritten.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war, hat es\\ndar\u00FCber nachgedacht, warum [VAR 0100(0001)]\\r\\nihm [VAR 1606(0003,0000)][VAR 0109(0003)] zum Tragen\\r\\ngegeben hatte.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Als [VAR 0102(0000)] in einer Box war, hatte es\\neinen seltsamen Traum, in dem [VAR 0100(0001)]\\r\\n[VAR 0107(0005)] eingesetzt hat.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]."
+  }
+]

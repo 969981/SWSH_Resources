@@ -1,0 +1,311 @@
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+[~ 31]
+[~ 32]
+[~ 33]
+[~ 34]
+[~ 35]
+[~ 36]
+[~ 37]
+[~ 38]
+[~ 39]
+[~ 40]
+[~ 41]
+[~ 42]
+[~ 43]
+[~ 44]
+[~ 45]
+[~ 46]
+[~ 47]
+[~ 48]
+[~ 49]
+[~ 50]
+[~ 51]
+[~ 52]
+[~ 53]
+[~ 54]
+[~ 55]
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+[~ 74]
+[~ 75]
+[~ 76]
+[~ 77]
+[~ 78]
+[~ 79]
+[~ 80]
+[~ 81]
+[~ 82]
+[~ 83]
+[~ 84]
+[~ 85]
+[~ 86]
+[~ 87]
+[~ 88]
+[~ 89]
+[~ 90]
+[~ 91]
+[~ 92]
+[~ 93]
+[~ 94]
+[~ 95]
+[~ 96]
+[~ 97]
+Sentez ces encens ! Laissez-vous tenter\npar leur parfum ! En désirez-vous ?
+Au plaisir de vous revoir !
+Désirez-vous d’autres sortes d’encens ?
+Combien en désirez-vous ?
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nCela fera [VAR 0206(0002,202F)]  !
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nCela fera [VAR 0206(0002,202F)]  !
+En un mot comme en cent, merci !\nRevenez sans hésiter !\c
+Vous manquez de place.\nNavrée, mais vous devrez faire sans encens.\c
+Vous semblez être sans le sou...\c
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Bonjour ! Ici, on vend des montagnes de remèdes !\nJ’suis en stage, là, mais j’apprends vite !
+Merci !\nReviens nous voir !
+T’en veux d’autres ?
+T’en veux combien ?
+[VAR 0202(0001)] [VAR 010A(0000)], ça fait...\n[VAR 0206(0002,202F)]  !
+[VAR 0202(0001)] [VAR 010A(0000)], ça fait...\n[VAR 0206(0002,202F)]  !
+Tiens, c’est pour toi !\nTu vas voir, c’est hyper efficace !\c
+T’as plus vraiment de place pour emporter ça,\ndis donc !\c
+Hum ? T’as pas de quoi payer ? Désolé alors,\nmais faudra revenir quand t’auras des sous !\c
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Bonjour ! Elles sont fraîches mes Baies, elles sont\njuteuses ! Elles te tentent ? Dis-moi tout !
+Merci de ta visite !\nAu plaisir !
+D’autres Baies t’intéresseraient-elles ?
+Combien en veux-tu ?
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nCela fera [VAR 0206(0002,202F)]  !
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nCela fera [VAR 0206(0002,202F)]  !
+Et voici !\nAvec ça, tes Pokémon vont se régaler !\c
+Mais dis-moi, ton Sac me semble déjà\nbien rempli !\c
+Pas de sous, pas de Baie !\nPas de Baie... pas de Baie !\c
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+[~ 131]
+[~ 132]
+[~ 133]
+[~ 134]
+[~ 135]
+[~ 136]
+[~ 137]
+[~ 138]
+[~ 139]
+[~ 140]
+[~ 141]
+[~ 142]
+[~ 143]
+[~ 144]
+[~ 145]
+[~ 146]
+[~ 147]
+[~ 148]
+Bienvenue dans notre magasin !\nQue désirez-vous ?
+Merci beaucoup !\c\nPour vous changer, n’hésitez pas à utiliser\nla cabine d’essayage !
+Bienvenue à la boutique d’uniformes !\nQue désirez-vous ?
+Merci !
+Qu-que vois-je... ? Une Carte Élégance ?!
+Ça alors, c’est une rareté ! Seules les personnes\nles plus distinguées de Galar en possèdent !
+Grâce à cette carte mythique, vous aurez\ndésormais accès à une collection exclusive.
+Laissez-moi vous offrir ceci en reconnaissance\nde votre nouveau statut.
+J’espère que la collection exclusive vous plaira !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Greenbury !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Skifford !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Motorby !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade d’Old Chister !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Corrifey !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Ludester !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène de Smashings !
+Mais je vous reconnais ! Vous avez terminé\nla Mission d’Arène du Stade de Kickenham !
+Félicitations ! En récompense, vous avez désormais\naccès à plus de produits dans nos établissements !\c\nMais je parle, je parle... et j’en oublie\nles bonnes manières !
+Voici donc cel[VAR 1100(00FF,0202)]uile qui est venu[VAR 1100(00FF,0100)]e à bout\nde Tarak l’Invaincu !\c\nFélicitations ! Quand je raconterai à mes amis\nque je vous ai rencontré[VAR 1100(00FF,0100)]e... !\c\nOh, mais je parle, je parle... et j’en oublie\nles bonnes manières !
+Bienvenue, Maître !\nPuis-je vous aider ?
+Joyeux anniversaire !\nMerci de rester fidèle aux Boutiques Pokémon !
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+[~ 191]
+[~ 192]
+[~ 193]
+[~ 194]
+[~ 195]
+[~ 196]
+[~ 197]
+[~ 198]
+[~ 199]
+[~ 200]
+[~ 201]
+Acheter
+Vendre
+Quitter
+Bienvenue à la Boutique Pokémon !\nQue désirez-vous faire ?
+Souhaitez-vous autre chose ?
+Nous espérons vous revoir bientôt !
+Bienvenue au point de vente des Capsules\nTechniques ! En quoi puis-je vous aider ?
+Argent
+Points de Combat
+[VAR 0206(0000,202F)] 
+[~ 212]
+[~ 213]
+[~ 214]
+Quitter
+[VAR 0206(0000,202F)] PCo
+[VAR 0109(0000)]
+[VAR 0109(0000)]
+[VAR 0107(0000)]
+[~ 220]
+[VAR 0206(0000,202F)] 
+[VAR 0202(0000)]
+×
+Combien [VAR 1001][VAR 1408(0000,0000)][VAR 010A(0000)]\nvous faut-il ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)]...\nCela fera [VAR 0206(0002,202F)]  !
+Voici pour vous.\nAu plaisir de vous revoir !\c
+Vous n’avez pas assez d’argent.\c
+Je crois que vous ne pouvez pas en emporter\ndavantage...\c
+Achat rangé dans la poche [VAR 0112(0001)].\c
+Vous ne pouvez pas en emporter davantage !\c
+Nous vous offrons [VAR 0201(0000)] Honor Ball[VAR 1101(0000,0100)]s en cadeau.\c
+[VAR 1401(0000,0000)][VAR 0109(0000)] [VAR 0107(0001)] ?\nCela fera [VAR 0206(0002,202F)] .
+Vous possédez déjà cette CT !\c
+Bienvenue à la Boutique PCo !\nQue désirez-vous ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)]...\nÇa fera [VAR 0206(0002,202F)]  !
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)],\nça fait [VAR 0206(0002,202F)] PCo. Ça vous va ?
+[~ 238]
+Au plaisir de vous revoir !
+Vous faut-il autre chose ?
+Combien [VAR 1001]d[VAR 1104(0000,0102)]e ’[VAR 010A(0000)]\ndésirez-vous ?
+Et voilà !\c
+Vous ne pouvez pas en emporter plus !\c
+Vous n’avez pas assez de PCo pour ça...\c
+Je vois que vous avez participé à un combat\nen réseau.\c\nVoici un uniforme en cadeau !\nBon courage pour vos prochains combats classés !
+×
+[VAR 0206(0000,202F)] 
+Oui
+Non
+ Annuler
+ Sélectionner
+[VAR 0202(0000)]
+Puissance
+Précision
+PP
+[VAR 0201(0000)]
+[VAR 0107(0000)]
+CT[VAR 0201(0000)]
+[VAR 0202(0000)]
+-
+[~ 261]
+---
+Aujourd’hui, j’ai réuni de ces ingrédients... !\nJettes-y donc un œil, ils valent le détour !
+Reviens demain !
+D’autres ingrédients t’intéressent ?\c
+Combien en veux-tu ?
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nTrès bien ! Ça fait [VAR 0206(0002,202F)]  !
+[VAR 0202(0001)] [VAR 010A(0000)] ?\nTrès bien ! Ça fait [VAR 0206(0002,202F)]  !
+Et voici ! Avec ça, je te garantis des plats\ndignes d’un restaurant trois étoiles !\c
+Tiens ? On dirait que tu n’as plus de place\ndans ton Sac.\c
+Tu n’as pas assez d’argent ? La maison ne fait\npas crédit. Reviens quand tu pourras payer.\c
+Watts
+[VAR 0206(0000,202F)] W
+Bienvenue à la Boutique Watt !\nVous venez faire des emplettes ?
+Au plaisir !
+Il vous faut autre chose ?
+Combien [VAR 1408(0000,0000)][VAR 1001][VAR 010A(0000)]\nvous faut-il ?
+Combien [VAR 1408(0000,0000)][VAR 1001][VAR 0109(0000)] [VAR 0107(0001)]\nvous faut-il ?
+Alors, [VAR 0202(0001)] [VAR 010A(0000)]...\nÇa fera [VAR 0206(0002,0000)] W !
+Alors, [VAR 0202(0001)] [VAR 010A(0000)]...\nÇa fera [VAR 0206(0002,0000)] W !
+Alors, [VAR 0202(0002)] [VAR 0109(0000)] [VAR 0107(0001)]...\nÇa fera [VAR 0206(0003,202F)] W !
+Alors, [VAR 0202(0002)] [VAR 0109(0000)] [VAR 0107(0001)]...\nÇa fera [VAR 0206(0003,202F)] W !
+Et voilà, merci !\c
+Vous ne pouvez pas en emporter plus !\c
+Oh, non... Vous manquez de watts...\c
+Bienvenue à la Boutique Watt !\nTu veux acheter quelque chose ?
+Reviens quand tu veux !
+×
+Je propose de fabuleux objets en échange\nde Dynamaxium !
+Reviens quand tu veux !
+Je t’offre [VAR 0202(0001)] [VAR 010A(0000)]\ncontre [VAR 0202(0002)] éclat[VAR 1101(0002,0100)]s de Dynamaxium. Ça te va ?
+Je t’offre [VAR 0202(0001)] [VAR 010A(0000)]\ncontre [VAR 0202(0002)] éclat[VAR 1101(0002,0100)]s de Dynamaxium. Ça te va ?
+Tu n’as pas assez de Dynamaxium...\c
+J’ai bien peur que tu ne puisses pas\nen emporter plus !\c
+Et voilà, merci !\c
+Combien [VAR 1408(0000,0000)][VAR 1001][VAR 010A(0000)]\nveux-tu ?
+Bonjour ! J’ai reçu d’excellents produits,\naujourd’hui. Viens voir !
+Bienvenue à la Boutique Watt !\c\nEn plus de l’étalage habituel, nous proposons\négalement des offres spéciales qui changent\r\nquotidiennement, donc n’hésitez pas à revenir\r\nnous voir tous les jours !\c\nBien. Que puis-je faire pour vous ?
+Bienvenue à la Boutique Watt !\nQue puis-je faire pour vous ?
+Voir l’étalage habituel
+Voir l’offre du jour
+L’offre du jour est...
+[VAR 1403(0000,0000)][VAR 010A(0000)] !\nEt ce pour la modique somme de [VAR 0206(0001,202F)] W !\r\nAttention, premier arrivé, premier servi !
+Un lot de [VAR 0202(0002)] [VAR 1001][VAR 010A(0000)] !\nEt ce pour la modique somme de [VAR 0206(0001,202F)] W !
+J’achète !
+Non merci...
+Vous avez l’œil pour les affaires !\nMerci de votre achat !
+L’offre du jour a déjà été vendue.\nRepassez nous voir demain !
+À bientôt !
+Y a-t-il autre chose qui vous intéresse ?

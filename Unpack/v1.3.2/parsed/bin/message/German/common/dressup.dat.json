@@ -1,0 +1,187 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Geld:"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0206(0000,002E)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0206(0000,002E)] \uE300"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 01C1(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 01C1(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 01C2(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Gekauft"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Keine Items vorhanden"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Das macht [VAR 0206(0000,002E)] \uE300.\\nEinverstanden?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Das macht [VAR 0206(0000,002E)] \uE300.\\c\\nDu kannst den Artikel nicht mit deinem jetzigen\\nLook kombinieren. Willst du ihn dennoch kaufen?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Du hast nicht genug Geld."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Diesen Artikel besitzt du bereits."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "M\u00F6chtest du deine Neuanschaffung gleich\\nanprobieren?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vielen Dank! Wenn du dich umziehen m\u00F6chtest,\\nnutze doch einfach unsere Umkleidekabine."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Vielen Dank! M\u00F6chtest du dir gleich anziehen,\\nwas du gekauft hast?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vielen Dank!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "M\u00F6chtest du dieses Outfit anziehen?"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "M\u00F6chtest du deine Ligakarte aktualisieren?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "M\u00F6chtest du deinen Einkauf beenden?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "M\u00F6chtest du dein altes Outfit beibehalten?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Modeartikel dieser Art sind nicht\\nmit dieser Frisur kombinierbar."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": " Beenden"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": " Betrachten"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": " Ablegen"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": " Heranzoomen"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": " Herauszoomen"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": " Jacke ausziehen"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": " Schuhe ausziehen"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": " Jacke anziehen"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": " Schuhe anziehen"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Nicht umziehen"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Deine Frisur ist nicht mit einer Kopfbedeckung\\nkombinierbar.\\c\\nM\u00F6chtest du den Rest des Outfits anziehen?"
+  }
+]

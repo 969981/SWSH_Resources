@@ -1,0 +1,83 @@
+[~ 0]
+Voulez-vous vous lancer dans\nune expédition Dynamax ?
+Oui !
+Qu’est-ce qu’une expédition Dynamax ?
+Non, merci !
+Apparemment, vous avez déjà enregistré\nl’emplacement de certains Pokémon.\c\nQuel Pokémon voulez-vous chercher\ncette fois-ci ?
+On dirait que vous avez déjà attrapé\n[VAR 0101(0000)].\c\nCela signifie que [VAR FF00(0006)]vous ne pourrez pas le capturer[VAR FF00(0000)]\nsi vous le croisez de nouveau.\r\nVoulez-vous tout de même partir en expédition ?
+On dirait que vous avez trouvé [VAR 0101(0000)]\nlors de votre dernière expédition !\c\nPuisque nous avons enregistré son emplacement,\nvous pouvez le défier à nouveau.\r\nVoulez-vous essayer ?
+[VAR 0101(0000)] !
+N’importe lequel...
+C’est une expédition dont le but est d’explorer\nle Grand Antre Dynamax.\c\nPour participer, vous devrez emprunter un des\nPokémon que nous mettons à votre disposition.
+Vous formerez une équipe de quatre joueurs\net choisirez ensemble quel chemin suivre\r\npour trouver le Pokémon légendaire dynamaxé\r\ncaché au fond de l’antre.
+[~ 12]
+Une fois l’exploration terminée, vous recevrez\ndu Dynamaxium en récompense pour vos efforts.\c\nNous vous demanderons de nous remettre\nles Pokémon capturés lors de l’expédition,\r\ncar nous en avons besoin pour nos recherches.\c\nMais vous aurez tout de même le droit\nd’en garder un si vous le souhaitez !
+On dirait que vous avez quitté votre dernière\nexpédition Dynamax sans la terminer...\c\nCela peut causer du tort aux autres participants.\nEssayez d’aller jusqu’au bout la prochaine fois !
+Vous avez quitté des expéditions Dynamax\nsans les terminer de manière répétée...\r\nCela peut causer du tort à vos coéquipiers.\c\nAvant de vous laisser participer à une autre\nexpédition, nous aimerions que vous nous\r\nremettiez [VAR 0201(0000)] éclat[VAR 1101(0000,0100)]s de Dynamaxium.\c\nCela montrera que vous prenez ceci au sérieux.\nVoulez-vous nous le[VAR 1101(0000,0100)]s remettre maintenant ?
+Vous ne pourrez plus participer aux expéditions\nDynamax tant que vous ne nous aurez pas prouvé\r\nvotre bonne foi.
+Vous n’avez pas assez de Dynamaxium...
+Vous pouvez vous en procurer en faisant\ndes raids Dynamax à Couronneige.
+Dorénavant, essayez d’éviter de partir avant\nla fin de vos expéditions Dynamax.
+Excellent travail ! N’hésitez pas à revenir\nnous aider à explorer le Grand Antre Dynamax !
+Vous y étiez presque !\nLa prochaine fois sera la bonne !
+Voulez-vous que nous enregistrions\nl’emplacement [VAR 1408(0000,0001)][VAR 0101(0000)] pour que\r\nvous puissiez le défier à nouveau plus tard ?
+Oh, je vois que vous avez déjà enregistré\nde nombreux emplacements de Pokémon...\c\nY en a-t-il un que vous souhaiteriez effacer\npour faire de la place ?
+Dans ce cas, nous ne noterons pas où vous avez\ntrouvé [VAR 0101(0000)], cette fois-ci.
+Dans ce cas, nous allons effacer l’emplacement\n[VAR 1408(0001,0001)][VAR 0101(0001)], et enregistrer l’endroit\r\noù se trouve [VAR 0101(0000)].
+... Et voilà !
+Nous espérons vous revoir bientôt !
+Quel dommage ! Mais ne vous découragez pas !\nVous ferez mieux la prochaine fois !
+Vous revoilà !\c\nVoulez-vous que nous conservions la marque\nde l’emplacement [VAR 1408(0000,0001)][VAR 0101(0000)] ?
+C’est d’accord !\nNous la conservons.
+Entendu !\nNous allons donc l’effacer.
+... Hmmm ?\nAh, c’est toi !\c\nJ’ai quelque chose à proposer aux experts\nen expéditions Dynamax. Reviens me voir\r\nquand tu en auras fait davantage !
+Dis, t’aimes les expéditions Dynamax ?
+C’est ce que je pensais !\nAprès tout, t’en es pas à ton coup d’essai !
+Ah... Euh, d’accord. Tant pis.
+Les expéditions Dynamax, ça te connaît, hein...\c\nÇa te dirait d’essayer le mode sans fin\nque j’ai créé ?
+Ça te dirait de tenter une expédition Dynamax\nen mode sans fin ?
+C’est quoi mon record ?
+Comme son nom l’indique, le mode sans fin...\nn’a pas de fin !\c\nAprès avoir vaincu le Pokémon qui se cache\nau fond, tu vas pouvoir continuer d’explorer\r\nl’antre pour voir jusqu’où tu peux aller !
+Les Pokémon que tu captureras m’aideront dans\nmes recherches, donc tu ne pourras en garder\r\naucun, mais en échange, je te donnerai plus de\r\nDynamaxium que lors des expéditions normales !
+Je noterai l’endroit le plus profond que tu auras\natteint, alors fais de ton mieux pour aller\r\naussi loin que possible avec tes camarades !
+Reviens me voir quand tu veux !
+Ouah ! C’est génial ! Tu as battu ton record !\nJe vais le noter !
+J’ai noté l’endroit où tu t’es arrêté[VAR 1100(00FF,0100)]e cette fois-ci !\c\nReviens me voir si tu veux à nouveau\nexplorer l’antre !
+Le voici !
+Fais de ton mieux pour battre ton record\nla prochaine fois !
+[~ 47]
+Ah ! Salut, [VAR 0100(0000)] !\c\nJ’ai localisé [VAR 0101(0001)]\ndans le Grand Antre Dynamax ![VAR 0114(0078)]
+Si ça te tente, je peux te dire où il est\npour [VAR 0202(0002)] éclat[VAR 1101(0002,0100)]s de Dynamaxium ![VAR 0114(0078)]
+Attends un peu... T’as déjà enregistré pas mal\nd’emplacements de Pokémon !\c\nSi on en effaçait un pour faire un peu de place ?[VAR 0114(0078)]
+Attends un peu...\nT’as déjà attrapé [VAR 0101(0001)] !\c\nSi tu t’en fiches de pas pouvoir le capturer\nà nouveau, je peux te dire où il se trouve\r\npour [VAR 0202(0002)] éclat[VAR 1101(0002,0100)]s de Dynamaxium.[VAR 0114(0078)]
+Pivonia vous a indiqué l’emplacement\n[VAR 1408(0001,0001)][VAR 0101(0001)].
+Ah mais... T’as pas assez de Dynamaxium ![VAR 0114(0078)]
+Bon allez... Ça va pour cette fois !\nJe vais quand même te dire où le trouver,\r\nmais c’est juste parce que je t’aime bien ![VAR 0114(0078)]
+Ah mais... Tu sais déjà où trouver\n[VAR 0101(0001)] ![VAR 0114(0078)]
+T’es sûr[VAR 1100(00FF,0100)]e ? Tu risques de le regretter, non ?[VAR 0114(0078)]
+Parle à la scientifique pour tenter ta chance.\nEt donne tout ce que t’as ![VAR 0114(0078)]
+Salut [VAR 0100(0000)] ! T’as la forme ?\nMoi ça va, tranquille.[VAR 0114(0078)]
+Au fait ! J’ai ramassé ce truc bizarre dans\nle Grand Antre Dynamax. J’te le donne ![VAR 0114(0078)]
+Vous obtenez\n[VAR 1402(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\r\n(en [VAR 01C2(0001)]).
+Fais pas t[VAR 1100(00FF,0102)]ona timide, accepte mon cadeau !\nC’est pas trop mon style, de toute façon ![VAR 0114(0078)]
+Je me demande pourquoi y’a autant de Pokémon\nlégendaires dans le Grand Antre Dynamax...[VAR 0114(0078)]
+Tu savais [VAR 140A(0000,0001)][VAR 0101(0000)] était le premier\nPokémon légendaire qu’on a trouvé ici ?\r\nC’est ce que m’a dit la scientifique ![VAR 0114(0078)]
+La scientifique m’a dit qu’avant, elle travaillait\ndans un centre de recherche à Alola.\c\nLa chance ! T’imagines toutes les Malasadas\nqu’on pourrait manger, là-bas ?![VAR 0114(0078)]
+J’ai vraiment envie d’utiliser un Patch Talent\nsur mon Rexillius chéri. Comme ça, il arrêterait\r\nde se blesser quand il utilise Fracass’Tête,\r\nil adore cette capacité ![VAR 0114(0078)]
+Tu veux un petit conseil pour une expédition\nDynamax réussie ?\c\nUtilise des capacités qui réduisent les dégâts\ncomme Protection ou Mur Lumière ![VAR 0114(0078)]
+Tu veux un petit conseil pour une expédition\nDynamax réussie ?\c\nExamine bien comment le Pokémon qui t’attend\nau fond de l’antre réagit face à différents types ![VAR 0114(0078)]
+Tu veux un petit conseil pour une expédition\nDynamax réussie ?\c\nAvec une capacité Dynamax comme Pugilomax,\nqui augmente l’Attaque des alliés,\r\ntu pourras sûrement prendre l’avantage ![VAR 0114(0078)]
+Au fait, t’as entendu la rumeur sur cet arbre\nénorme, là, celui qu’ils appellent le Dynarbre ?\c\nIl paraît qu’il se passe un truc cool\nquand on le secoue !\c\nBon, c’est pas avec ma force que j’y arriverai,\nmais toi, je suis sûre que t’es assez [VAR 1100(00FF,0707)]costaudmusclée ![VAR 0114(0078)]
+Les Pokémon dans le Grand Antre Dynamax\nsont tous dynamaxés ! C’est fou !\c\nIl doit y avoir une Étoile Vœu géante enterrée\nen dessous ou un truc du genre ![VAR 0114(0078)]
+Alors, comment ça se passe ta recherche\nde Pokémon légendaires avec mon père ?\c\nIl fait toujours tout à l’arrache, donc pas la peine\nde prendre ça trop au sérieux, hein ![VAR 0114(0078)]
+T’as vu ce type, là-bas ?\nIl est un peu bizarre, tu trouves pas ?...\r\nBah, cela dit, mon père aussi ![VAR 0114(0078)]
+Au fait, j’ai entendu une rumeur\nqui fait froid dans le dos...\c\nIl paraît qu’une femme aux cheveux très longs\nerre la nuit dans le cimetière de Couronneige.\r\nElle y chercherait quelque chose inlassablement...[VAR 0114(0078)]
+Une fois, lors d’une expédition Dynamax,\nle Gouroutan d’un de mes alliés a utilisé\r\nla capacité Sommation pour contrôler\r\nles prochaines attaques des Pokémon\r\nqui l’entouraient. C’était trop pratique !
+Ténééé !
+Ces Pokémon nous aident dans nos recherches !
+Colé !
+Colé colé !
+Léodô !
+Les données sur l’écran n’arrêtent pas de fluctuer...\nPeut-être que la machine mesure quelque chose ?
+Mieux vaut ne pas s’y aventurer sans renforts...
+Vous décidez de retourner à l’entrée en\ncontinuant de chercher la fille de Dhilan...

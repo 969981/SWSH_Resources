@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Moves that only select Pok\u00E9mon can learn...\\nThey are called ultimate moves.\\r\\nDo you want your Pok\u00E9mon to learn one of them?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "All right. Fair enough. If you want your Pok\u00E9mon\\nto learn one of my moves, just come back."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Oh, but none of the Pok\u00E9mon you\u2019re with can\\nlearn my move! That\u2019s too bad!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon should learn my move?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] can\u2019t learn my move."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "An Egg... I can\u2019t teach my move to an Egg."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] already knows my move."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Which move should be forgotten?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "An ultimate move...\\c\\nHow you handle its overwhelming destructive\\npower and its aftermath will be the key!"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "I\u2019m devoting what\u2019s left of my life to helping\\nyoung Trainers grow.\\c\\nI\u2019d like to teach the ultimate moves to\\nas many successors as I can.\\c\\nIs it all right to teach them to your\\nPok\u00E9mon, too?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Would it be all right if I taught your Pok\u00E9mon the\\nultimate moves?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Young Trainer, the Pok\u00E9mon with you can\u2019t\\nlearn these moves.\\c\\nPlease thoroughly check the list of Pok\u00E9mon\\nthat can learn these moves."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Young Trainer, feel free to come visit me\\nany time you want."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Well, please tell me which Pok\u00E9mon I\\nshould teach."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Young Trainer, that Pok\u00E9mon can\u2019t learn an\\nultimate move.\\c\\nPlease thoroughly check the list of Pok\u00E9mon\\nthat can learn these moves."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Young Trainer, I can\u2019t teach a move to\\nan Egg."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Young Trainer, that Pok\u00E9mon\u2019s bond with\\nyou is not yet strong enough.\\c\\nIt can learn the move once it forms a strong\\nbond with you."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Young Trainer, that Pok\u00E9mon already knows\\nthe ultimate move."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Is it all right to teach [VAR 0107(0001)]\\nto [VAR 0101(0000)]?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Pok\u00E9mon that can learn the ultimate\\nmoves...\\c\\nThe blazing Fire-type Pok\u00E9mon:\\nCharizard, Typhlosion, Blaziken, Infernape,\\nEmboar, Delphox, and Incineroar!\\c\\nThe restless Water-type Pok\u00E9mon:\\nBlastoise, Feraligatr, Swampert, Empoleon,\\nSamurott, Greninja, and Primarina!\\c\\nThe quiet Grass-type Pok\u00E9mon:\\nVenusaur, Meganium, Sceptile, Torterra,\\nSerperior, Chesnaught, and Decidueye!\\n"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  }
+]

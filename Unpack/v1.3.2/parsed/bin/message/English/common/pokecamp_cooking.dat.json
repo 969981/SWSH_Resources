@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] came to visit."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Start cooking"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Invite for cooking"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Join cooking"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Want to cook!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Check ingredients"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Check Curry Dex"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Join"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Looking for players who want to cook with you..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Waiting for cooking to start..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Would you like to start cooking with the Trainers\\nhere now?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] is inviting you to cook together!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Select this option to cook with Berries and other\\nspecial ingredients you have."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Select this option to invite other players to\\ncook with you."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Select this option to check what Berries and\\nother special ingredients you have."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Select this option to check out the curries\\nyou\u2019ve cooked in the past."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Select this option to return to the main menu of\\nthe camp."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Select this option to help [VAR 0100(0000)] cook."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Select this option to let other players know that\\nyou\u2019re interested in cooking something."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "What would you like to do?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Have you changed your mind?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Let\u2019s start cooking!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "You can\u2019t cook because you don\u2019t have\\nenough Berries.\\c\\nShake Berry trees, and get Berries!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Would you like to let other players know that\\nyou\u2019re interested in cooking something?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "You let other players know that you\u2019re interested\\nin cooking something."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "The invitation to cooking has been canceled."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] is looking for players who\\nwould like to cook!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Their cooking has already started."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Would you like to start cooking\\nwith [VAR 0100(0000)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Would you like to quit looking for players\\nwho would like to cook?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Inviting others..."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon gained [VAR 0206(0000,002C)] Exp. Point[VAR 1101(0000,0100)]s!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon\u2019s HP was restored by half."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon\u2019s HP was restored, and any status conditions were healed."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon\u2019s HP and PP were restored, and any status conditions were healed."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon grew a little bit more friendly!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon grew more friendly!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon grew very friendly!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon gained a few Exp. Points!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon gained Exp. Points!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon gained a lot of Exp. Points!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] got friendly toward you!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] and the rest of your party got friendly toward you!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] got quite friendly toward you!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] and the rest of your party got quite friendly toward you!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] got very friendly toward you!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] and the rest of your party got very friendly toward you!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon\u2019s HP was restored a little bit."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "No. [VAR 0202(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Curry Description"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "I made this curry for the first time with [VAR 0102(0004)]\\n[VAR FF00(0002)][VAR 01D3(0003)] [VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)].\\n\\nI\u2019ve made this curry [VAR 0202(0006)] time[VAR 1101(0006,0100)]s so far."
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "I made this curry for the first time with [VAR 0102(0004)]\\n[VAR FF00(0002)][VAR 01D3(0003)] [VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)].\\n\\nI\u2019ve made this curry [VAR 0202(0006)] time[VAR 1101(0006,0100)]s so far."
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "I made this curry for the first time with [VAR 0102(0004)]\\n[VAR FF00(0002)][VAR 01D3(0003)] [VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)]."
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "I made this curry for the first time with some Pok\u00E9mon,\\nincluding [VAR 0102(0004)], [VAR FF00(0002)][VAR 01D3(0003)]\\n[VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)]."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "I made this curry for the first time with some Pok\u00E9mon,\\nincluding [VAR 0102(0004)], [VAR FF00(0002)][VAR 01D3(0003)]\\n[VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)].\\n\\nI\u2019ve made this curry [VAR 0202(0006)] time[VAR 1101(0006,0100)]s so far."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "I made this curry for the first time with some Pok\u00E9mon,\\nincluding [VAR 0102(0004)], [VAR FF00(0002)][VAR 01D3(0003)]\\n[VAR FF00(0000)]on [VAR 0201(0001)]/[VAR 0201(0002)]/20[VAR 0201(0000)].\\n\\nI\u2019ve made this curry [VAR 0202(0006)] time[VAR 1101(0006,0100)]s so far."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Taste Rating"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Empty"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Kinds of curries you\u2019ve cooked: [VAR 0202(0000)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Key Ingredient"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] second[VAR 1101(0000,0100)]s remaining"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Please select a Berry."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Please select a key ingredient."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Waiting for the other Trainers\u2019 decisions..."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "How many [VAR 1001][VAR 010A(0000)] do you want to add\\nto the pot?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Do you want to add [VAR 0201(0001)] [VAR 010A(0000)]\\nto the pot?"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Do you want to add [VAR 1302(0000,0000)][VAR 010A(0000)]\\nto the pot?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Do you want to quit cooking?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Do you want to put the Berries you selected back\\nin your Bag?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Do you want to start cooking without adding\\nany special ingredients?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Would you like to start cooking with your current\\nBerry selection?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Communications have been interrupted!\\nReturning to camp..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Select"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": " Quit Cooking"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": " Put Back Berries"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": " Cancel Selection"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": " Choose Key Ingredient"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": " Ready"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": " Check Berries"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": " Don\u2019t Add"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": " Change Display"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": " Change Size"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": " Sort"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": " Favorite"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Don\u2019t add"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Ready"
+  }
+]

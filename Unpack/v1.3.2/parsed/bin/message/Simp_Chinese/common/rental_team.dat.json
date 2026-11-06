@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lv.[VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u7279\u6027"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u9053\u5177"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u961F\u4F0D\uFF29\uFF24"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u961F\u4F0D\u540D\u79F0"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u79DF\u7528"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u7BA1\u7406\u79DF\u7528\u7684\u961F\u4F0D"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u7BA1\u7406\u4E0A\u4F20\u961F\u4F0D"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u8981\u5BF9\u8BE5\u79DF\u7528\u961F\u4F0D\u8FDB\u884C\u4EC0\u4E48\u64CD\u4F5C\uFF1F"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u79DF\u7528"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u53D6\u6D88"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u6CA1\u6709\u961F\u4F0D"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u8FD4\u8FD8"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u8981\u5BF9\u8BE5\u5BF9\u6218\u961F\u4F0D\u8FDB\u884C\u4EC0\u4E48\u64CD\u4F5C\uFF1F"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u516C\u5F00"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u4E0D\u516C\u5F00"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u67E5\u770B"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u8BF7\u9009\u62E9\u5BF9\u6218\u961F\u4F0D\u3002"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u8BF7\u9009\u62E9\u79DF\u7528\u961F\u4F0D\u3002"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u79DF\u75281"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u79DF\u75282"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u79DF\u75283"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u79DF\u75284"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u79DF\u75285"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u516C\u5F001"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u516C\u5F002"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u516C\u5F003"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u516C\u5F004"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u516C\u5F005"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u79DF\u7528[VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u516C\u5F00[VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "\u786E\u5B9A\u8981\u8FD4\u8FD8\u8BE5\u961F\u4F0D\u5417\uFF1F"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "\u662F"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "\u5426"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u5DF2\u8FD4\u8FD8\u5BF9\u6218\u961F\u4F0D\u3002\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u786E\u5B9A\u8981\u516C\u5F00\u8BE5\u961F\u4F0D\u5417\uFF1F"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u5DF2\u516C\u5F00\u5BF9\u6218\u961F\u4F0D\u3002\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u786E\u5B9A\u8981\u53D6\u6D88\u516C\u5F00\\n\u8BE5\u961F\u4F0D\u5417\uFF1F"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u5DF2\u53D6\u6D88\u516C\u5F00\u8BE5\u961F\u4F0D\u3002\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u6B63\u5728\u7B49\u5F85\u8FDE\u63A5\u2026\u2026"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u786E\u5B9A\u8981\u79DF\u7528\u8BE5\u961F\u4F0D\u5417\uFF1F"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u5DF2\u79DF\u7528\u8BE5\u5BF9\u6218\u961F\u4F0D\u3002\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u786E\u5B9A"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u8FD4\u56DE"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u5E2E\u52A9"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u6CA1\u6709\u627E\u5230\u961F\u4F0D\u3002\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "\u5BF9\u6218\u961F\u4F0D\u7684\u5B9D\u53EF\u68A6\u6709\u95EE\u9898\u3002\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u6B63\u5728\u5199\u5165\u8BB0\u5F55\u2026\u2026\\n\u8BF7\u52FF\u5207\u65AD\u7535\u6E90\u3002"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ist das dein erster Besuch in einem\\nPok\u00E9mon-Center, [VAR 0100(0000)]?[VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ja, das ist neu f\u00FCr mich!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nein, ich kenne mich schon aus!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Na, dann muss ich dir ja nichts mehr erkl\u00E4ren.[VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "In Ordnung! Dann pass mal auf...[VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Siehst du die Dame da hinterm Tresen?\\c\\nWenn du sie nett fragst, macht sie all deine\\nPok\u00E9mon wieder fit.[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Und an solchen Computern kannst du Pok\u00E9mon\\nabgeben, die du gefangen hast.\\c\\nMan kann n\u00E4mlich immer nur sechs Pok\u00E9mon\\ngleichzeitig mit sich rumtragen![VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Gut, dass ich mich hier im Pok\u00E9mon-Supermarkt\\nmit Tr\u00E4nken eingedeckt habe...\\c\\nDas hat mir neulich echt den Hals gerettet!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Wenn ihr echte Pok\u00E9mon-Trainer werden wollt,\\nm\u00FCsst ihr auf jeden Fall Tr\u00E4nke mitnehmen!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Gute Idee, danke!\\c\\n[VAR 0100(0000)], ich geh schon mal zu Route 2.\\nKomm einfach nach, sobald du hier fertig bist.[VAR 0114(0005)]"
+  }
+]
