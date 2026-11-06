@@ -1,0 +1,36 @@
+{
+  "game_version": "Sword / Shield v1.3.2",
+  "source": "https://github.com/lincoln-lm/swsh-mods-exl/blob/61dc6d8df4347c0fd3a30373a117502e9dfdce80/source/program/symbols.hpp",
+  "hook_context": [
+    "https://github.com/lincoln-lm/swsh-mods-exl/blob/61dc6d8df4347c0fd3a30373a117502e9dfdce80/source/program/patches/underworld.hpp",
+    "https://github.com/lincoln-lm/swsh-mods-exl/blob/61dc6d8df4347c0fd3a30373a117502e9dfdce80/source/program/patches/randomizer.hpp"
+  ],
+  "source_sha256": {
+    "Unpack/v1.3.2/catalog/nso_shiny_probe.json": "e770b6c66d7a8048b17226ad5f7ff8e4b18e916747610017ae148fae0bbfe564"
+  },
+  "summary": [
+    {
+      "game": "sword",
+      "original_main_sha256": "2b5c45ea2e9c4feb366f06cc16eae2c64a00d7c12514e05ec3702ba959398811",
+      "build_id": "A3B75BCD3311385AEED67FBEEB79CBB7BF02F471000000000000000000000000",
+      "text_sha256": "82a40b8d3c334dba1b5d9d1f2f99d5ba6a04d0b1953a069c39c3e9097264a37e",
+      "upstream_version_delta": 48,
+      "native_candidates": 10,
+      "independent_generate_main_spec_prelude_matches": 1
+    },
+    {
+      "game": "shield",
+      "original_main_sha256": "81e50a5f08bdb88c1526e7d1c4fc9b0a66b8febdcdc5a03c43421b9bf22c40f7",
+      "build_id": "A16802625E7826BF83B6F9708E475B912A9AB7DF000000000000000000000000",
+      "text_sha256": "88f4650c736fb61e1d0c624bfdff1718c87a286f2686c7c3cbb9378301f8eb28",
+      "upstream_version_delta": 0,
+      "native_candidates": 10,
+      "independent_generate_main_spec_prelude_matches": 1
+    }
+  ],
+  "rows": 20,
+  "independent_code_anchor_name": "OverworldEncount.GenerateMainSpec",
+  "runtime_tested": false,
+  "weather_allow_deny_rva_verified": false,
+  "warning": "Native addresses are upstream hook candidates cross-checked against original TEXT bytes; none is independently a verified weather allow/deny branch. Dynamic GDB is still necessary."
+}
