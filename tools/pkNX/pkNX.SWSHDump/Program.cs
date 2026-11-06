@@ -192,7 +192,7 @@ internal static class Program
                 var egg = EggMoves7.GetArray(new[] { data })[0];
                 outputs.Add(SaveJson(target + ".json", new {
                     formTableIndex = egg.FormTableIndex, count = egg.Moves.Length,
-                    moves = egg.Moves }), outputRoot);
+                    moves = egg.Moves }, outputRoot));
             }
             else if (trainerData)
             {
