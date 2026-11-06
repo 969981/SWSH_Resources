@@ -30,6 +30,7 @@ jobs:
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             /scripts/
+            /tests/
             /docs/sword-v1.3.2-archive-manifest.csv
             /sword_1.3.2_file_inventory_full.csv
       - uses: actions/setup-python@v5
@@ -38,7 +39,7 @@ jobs:
       - name: Build and verify complete source inventory plan
         id: plan
         run: |
-          python -m unittest discover -s tests -p 'test_swsh_unpack_plan.py' -v || true
+          python -m unittest discover -s tests -p 'test_swsh_unpack_plan.py' -v
           python scripts/swsh_unpack_plan.py --shards 16 --expected-count 50494 --out-dir artifacts/swsh-unpack-plan
           echo "matrix=$(cat artifacts/swsh-unpack-plan/matrix.json)" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-artifact@v4
@@ -57,6 +58,7 @@ jobs:
           sparse-checkout: |
             tools/pkNX
             scripts
+            tests
       - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: "10.0.x"
@@ -65,6 +67,7 @@ jobs:
           dotnet publish tools/pkNX/pkNX.SWSHDump/pkNX.SWSHDump.csproj \
             -c Release --self-contained false -o artifacts/decoder
           test -s artifacts/decoder/pkNX.SWSHDump.dll
+          python tests/smoke_swsh_dump.py artifacts/decoder/pkNX.SWSHDump.dll
       - uses: actions/upload-artifact@v4
         with:
           name: swsh-headless-decoder
