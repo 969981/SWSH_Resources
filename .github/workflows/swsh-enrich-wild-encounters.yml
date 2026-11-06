@@ -1,0 +1,70 @@
+name: SWSH v1.3.2 verified wild member/version/weather/zone mapping
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/enrich_swsh_wild_encounters.py'
+      - '.github/workflows/swsh-enrich-wild-encounters.yml'
+permissions:
+  contents: write
+concurrency:
+  group: swsh-enrich-wild-master
+  cancel-in-progress: false
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/enrich_swsh_wild_encounters.py
+            /tools/pkNX/pkNX.Game/Misc/SWSHInfo.cs
+            /tools/pkNX/pkNX.Game/Misc/SWSHEncounterType.cs
+            /Unpack/v1.3.2/catalog/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Enrich and independently verify 35,960 encounter slots
+        run: |
+          set -euo pipefail
+          python -m py_compile scripts/enrich_swsh_wild_encounters.py
+          python scripts/enrich_swsh_wild_encounters.py
+          python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          d=Path('Unpack/v1.3.2/catalog')
+          x=json.loads((d/'wild_mapping_summary.json').read_text(encoding='utf-8'))
+          assert x['raw_slots']==35960
+          assert x['member_zone_tables']==372
+          assert x['unmapped_zone_tables']==0
+          assert [(i['member'],i['game'],i['mode'],i['slots']) for i in x['members']]==[
+              (0,'Sword','Hidden',6820),(1,'Sword','Symbol',11160),
+              (2,'Shield','Symbol',11160),(3,'Shield','Hidden',6820)]
+          for filename,n in x['outputs'].items():
+              with (d/filename).open(encoding='utf-8-sig',newline='') as f:
+                  assert sum(1 for _ in csv.DictReader(f))==n
+          print('SWSH wild map validated:',x['member_zone_tables'],'tables')
+          PY
+      - name: Commit verified CSVs and report
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/wild_encounters_enriched.csv Unpack/v1.3.2/catalog/wild_zone_index.csv Unpack/v1.3.2/catalog/wild_mapping_summary.json
+          if git diff --cached --quiet; then
+            echo 'Wild mapping unchanged'
+            exit 0
+          fi
+          git commit -m 'data(swsh): verified version/weather/zone wild encounter map [skip ci]'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin master
+            if git push origin HEAD:master; then exit 0; fi
+            sleep 3
+          done
+          exit 1
