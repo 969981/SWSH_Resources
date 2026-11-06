@@ -1,0 +1,337 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Okey, makey! \u00BFEst\u00E1s list[VAR 1100(00FF,0101)]oa para la acci\u00F3n?[VAR 0114(0073)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Pues s\u00ED que te tomas las cosas con calma!\\nPero no me dejes en ascuas eternamente, \u00BFeh?[VAR 0114(0073)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00A1Venga, vamos all\u00E1! \u00A1Mu\u00E9strame de qu\u00E9 madera\\nest\u00E1s hech[VAR 1100(00FF,0101)]oa![VAR 0114(0073)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00A1Ja, ja, ja! \u00A1Alucina, vecina! \u00A1He perdido!\\nSe te da bien esto, \u00BFeh?[VAR 0114(0073)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00BF[VAR 1100(00FF,0202)]ElLa nuev[VAR 1100(00FF,0101)]oa ha vencido al Maestro? Vale que no\\nestaba poniendo todo su empe\u00F1o, pero aun as\u00ED..."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00BFPero de d\u00F3nde sale est[VAR 1100(00FF,0101)]ea chic[VAR 1100(00FF,0101)]oa?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Por tu estilo de combate he podido percibir lo\\nmucho que cuidas a tu[VAR 1101(00FD,0100)]s Pok\u00E9mon.[VAR 0114(0073)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Aunque hayas recalado aqu\u00ED sin comerlo ni\\nbeberlo, si tienes ganas de aprender...[VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1El Dojo Maestro te abre sus puertas![VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Bueno, \u00A1ahora toca entrenar con toda la basca\\npara volverse m\u00E1s fuertes![VAR 0114(0073)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Y para eso hay que vestirse de forma adecuada.\\n\u00A1Toma este uniforme![VAR 0114(0073)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Vestid[VAR 1100(00FF,0101)]oa con esta ropa, ser\u00E1s un[VAR 1100(00FF,0100)]a Alumn[VAR 1100(00FF,0101)]oa m\u00E1s del\\nDojo Maestro.[VAR 0114(0073)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Has recibido el [VAR FF00(0008)]Uniforme del dojo[VAR FF00(0000)]!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Oye, por cierto!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Siempre que quieras cambiarte o tomarte un\\ndescanso, usa sin reparo esa habitaci\u00F3n."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00A1En fin, Seraf\u00EDn![VAR 0114(0073)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Con la llegada de [VAR 0100(0000)], ya hemos\\nalcanzado el n\u00FAmero m\u00E1ximo de Alumnos.[VAR 0114(0073)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1Ahora proceder\u00E9 a encomendaros nada m\u00E1s y\\nnada menos que [VAR FF00(0006)]tres pruebas[VAR FF00(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u00A1\u00BFTres pruebas?!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00BFHab\u00EDa un n\u00FAmero m\u00E1ximo de Alumnos?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Quien supere las tres pruebas ser\u00E1 agasajado\\ncon la [VAR FF00(0006)]armadura secreta[VAR FF00(0000)] del dojo, que concede\\r\\nla victoria al portador.[VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00A1\u00BFLa armadura secreta?! \u00A1Tiene que ser m\u00EDa s\u00ED o s\u00ED!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Je, je, je... \u00A1Chachi piruli!\\c\\nBueno, os voy a explicar en qu\u00E9 consiste\\nentonces la primera prueba.[VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1Jooo, Maestrooo! \u00A1Yo todav\u00EDa no he recibido mi\\nuniforme![VAR 0114(0071)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1Disculpe, Maestro! Lamento decirle que yo a\u00FAn\\nno he recibido mi uniforme...[VAR 0114(0072)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0202)]ElLa nuev[VAR 1100(00FF,0101)]oa tiene un morro que se lo pisa, \u00BFno?\\nHa sido llegar y agenciarse uno. Qu\u00E9 fuerte...[VAR 0114(0071)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Me parece terriblemente injusto. \u00A1Exijo un\\nintercambio de indumentaria![VAR 0114(0072)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Uy, \u00BFes eso verdad? \u00A1Mil perdones![VAR 0114(0073)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Pero bueno, no es ning\u00FAn problema, ya ves truz.\\n\u00A1Aqu\u00ED mismo tengo otro para ti, S\u00F3fora![VAR 0114(0073)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Pero bueno, no es ning\u00FAn problema, ya ves truz.\\n\u00A1Aqu\u00ED mismo tengo otro para ti, Dreo![VAR 0114(0073)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u00A1Ja! Si es que para conseguir tu meta lo mejor\\nes... \u00A1una buena pataleta![VAR 0114(0071)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Mpf, a veces uno debe alzar la voz para reclamar\\naquello que le pertenece.[VAR 0114(0072)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "S\u00F3fora ha recibido el..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Dreo ha recibido el..."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u00A1Slooow![VAR 0114(0042)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00BFEh? \u00BFQu\u00E9 ha sido eso?[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00BFEh? \u00BFQ-qu\u00E9 ha sido eso?[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00A1Ser\u00E1 posible! \u00A1No hay ni rastro de mi uniforme![VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u00A1Diantres! \u00A1El uniforme ha desaparecido de mi\\nvista![VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Slow, slow, slow...[VAR 0114(0042)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "\u00BFEh?[VAR 0114(0071)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "\u00BFEh?[VAR 0114(0072)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1Poke!"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Esos movimientos como una exhalaci\u00F3n...\\n\u00A1no me digas que eran de Slowpoke!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u00A1En mi vida he visto Slowpoke as\u00ED de r\u00E1pidos!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00A1Pero bueno! \u00A1Ya est\u00E1is tardando en devolverme\\nmi uniforme![VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00A1Alto ah\u00ED, bribonzuelos! \u00BFAcaso sois expertos en\\nel arte del hurto?\\c\\n\u00A1Devolvedme el uniforme ahora mismo![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00BFSlow? Poke..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1Poke!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00BFD\u00F3nde cre\u00E9is que vais? \u00A1Esperaaad![VAR 0114(0071)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1Deteneos! \u00A1Es una orden![VAR 0114(0072)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Je, je, je. Me da que me he precipitado un poco\\nal sacarlos de las Pok\u00E9 Balls.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Maestro... \u00BFqu\u00E9 ha sucedido?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Pues esta es precisamente la primera prueba.[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1Deb\u00E9is perseguir esos tres Slowpoke fitipaldis\\nque ha entrenado servidor para derrotarlos en\\r\\ncombate![VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Y, ya de paso, recuperar el uniforme de S\u00F3fora.[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Y, ya de paso, recuperar el uniforme de Dreo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u00A1\u00BFQu\u00E9ee?!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Hala, \u00A1que os sea leve, titis![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u00BFQuieres ponerte la ropa de antes?"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Ya puedes partir en busca de los Slowpoke\\nr\u00E1pidos."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Ya puedes partir en busca de los Slowpoke\\nr\u00E1pidos."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1La primera prueba consiste en perseguir a esos\\ntres Slowpoke fitipaldis!\\c\\nY, ya que est\u00E1s, recupera tambi\u00E9n el uniforme\\nque han birlado.[VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1Hasta unos pachorras como Slowpoke pueden\\nadquirir una velocidad inusitada gracias a las\\r\\nense\u00F1anzas del Maestro!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "\u00A1Esa agilidad no la posee cualquiera!\\c\\nQuiz\u00E1s los propios Slowpoke ten\u00EDan ganas\\ntambi\u00E9n de vestir el uniforme."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "No sientas apuro por ser [VAR 1100(00FF,0808)]el nuevola nueva. \u00A1Todos\\nnuestros Alumnos son unos pedazos de pan![VAR 0114(0074)]"
+  }
+]

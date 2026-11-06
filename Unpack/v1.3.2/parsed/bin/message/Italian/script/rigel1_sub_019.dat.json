@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00C8 un Distributore.\\nQuale bevanda nutriente vuoi?"
+  },
+  {
+    "index": 1,
+    "flags": 8,
+    "text": "PS-Su"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Proteine"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ferro"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Calcio"
+  },
+  {
+    "index": 5,
+    "flags": 8,
+    "text": "Zinco"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Carburante"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quante confezioni di [VAR 0109(0000)] vuoi?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0201(0001)] al prezzo di [VAR BD03(0000)][VAR 0205(0002,002E)] \uE300"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Esci"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Decidi di non comprare niente..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Hai raggiunto il limite per questo strumento!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Non hai abbastanza soldi!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Ecco [VAR 0201(0001)] confezion[VAR 1101(0001,0101)]ei di [VAR 0109(0000)]!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Ne compro ancora"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Voglio comprare qualcos\u2019altro"
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Aucun conseil n\u2019a \u00E9t\u00E9 enregistr\u00E9 pour l\u2019instant.\\c"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Fermer"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Page suivante"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "ABC Aventure"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Ouvrez le menu principal avec le [VAR FF00(0006)]bouton X[VAR FF00(0000)].\\n\\nVia le menu, vous pouvez [VAR FF00(0006)]sauvegarder [VAR FF00(0000)]votre progression,\\nou bien encore consulter la [VAR FF00(0006)]Carte [VAR FF00(0000)]pour conna\u00EEtre\\nvotre position et l\u2019endroit o\u00F9 vous devez vous rendre.\\n\\nL\u2019ABC Aventure se trouve dans la poche Objets rares\\nde votre Sac. Vous pouvez le consulter \u00E0 loisir."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ouvrez le menu avec le [VAR FF00(0006)]bouton X[VAR FF00(0000)].\\n\\nVia le menu, vous pouvez [VAR FF00(0006)]sauvegarder [VAR FF00(0000)]votre progression.\\n\\nL\u2019ABC Aventure se trouve dans la poche Objets rares\\nde votre Sac. Vous pouvez le consulter \u00E0 loisir."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Comm-Y"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Gr\u00E2ce au menu \u00AB\u202FComm-Y\u202F\u00BB, vous pouvez communiquer\\navec d\u2019autres joueurs de diverses mani\u00E8res\u202F!\\nVous pouvez \u00E9changer des Pok\u00E9mon, participer\\n\u00E0 des combats, et bien plus encore\u202F!\\n\\nLes activit\u00E9s disponibles ne manquent pas\u202F!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Ceci est un sticker.\\nDes stickers sont envoy\u00E9s \u00E0 d\u2019autres joueurs\\nlorsque vous ouvrez le menu \u00AB\u202FComm-Y\u202F\u00BB et que\\nvous s\u00E9lectionnez une option de communication\u202F!\\nIls contiennent aussi un message pour que tout\\nle monde puisse comprendre ce qui vous int\u00E9resse."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "D\u2019ordinaire, le menu \u00AB\u202FComm-Y\u202F\u00BB vous permet\\nde vous connecter avec des joueurs situ\u00E9s \u00E0 proximit\u00E9,\\nmais si vous appuyez sur le bouton \u002B, vous pourrez\\nvous connecter \u00E0 Internet et communiquer avec\\ndes joueurs du monde entier\u202F!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Quand vous recevez des stickers au cours\\nde votre aventure, cela signifie que d\u2019autres\\nDresseurs sont en train de jouer et cherchent\\nquelqu\u2019un avec qui se connecter\u202F!\\nAppuyez sur le bouton Y pour voir qui est disponible\u202F!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En s\u00E9lectionnant un sticker avec la silhouette\\nd\u2019un Pok\u00E9mon, vous pouvez rejoindre d\u2019autres\\nDresseurs pour affronter un Pok\u00E9mon ensemble\u202F!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Cartes de Ligue Pok\u00E9mon"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Rendez votre carte de Ligue unique au monde\u202F!\\nPour la personnaliser, allez dans n\u2019importe quel\\nCentre Pok\u00E9mon et utilisez le Studio Carte\u202F!\\nCela vous permettra \u00E9galement de la mettre \u00E0 jour\\navec les derni\u00E8res informations sur votre parcours."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tous les Dresseurs poss\u00E8dent des cartes de Ligue\\nqu\u2019il est possible d\u2019\u00E9changer en r\u00E9seau.\\nOuvrez le menu principal avec le bouton X\\net s\u00E9lectionnez \u00AB\u202FCartes de Ligue\u202F\u00BB,\\npuis \u00AB\u202FAlbum\u202F\u00BB pour admirer toutes les cartes\\nque vous avez obtenues."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Ouvrez le menu principal avec le bouton X\\net s\u00E9lectionnez \u00AB\u202FCartes de Ligue\u202F\u00BB,\\npuis \u00AB\u202FAlbum\u202F\u00BB pour admirer toutes les cartes\\nque vous avez obtenues, y compris celles\\nque vous avez re\u00E7ues en r\u00E9seau."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Stade de Combat"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Au Stade de Combat, vous pouvez affronter\\ndes joueurs du monde entier en r\u00E9seau,\\net participer \u00E0 diverses comp\u00E9titions.\\nPlusieurs modes de combat s\u2019offrent \u00E0 vous."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Les combats amicaux sont un mode de jeu en r\u00E9seau\\nvous permettant d\u2019affronter diff\u00E9rents joueurs\\nen toute d\u00E9contraction.\\nQui sait\u202F? Vous pourriez d\u00E9couvrir des Pok\u00E9mon\\nou des capacit\u00E9s surprenantes en y participant\u202F!"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "En mode combats class\u00E9s, les joueurs participant\\nsont class\u00E9s par rang. Plus un joueur remporte\\nde victoires, plus il monte en rang. Mesurez-vous\\n\u00E0 d\u2019autres joueurs dans des combats class\u00E9s\\nafin d\u2019essayer d\u2019obtenir le plus haut rang possible\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Dans les comp\u00E9titions Internet, le niveau des participants\\nest repr\u00E9sent\u00E9 par une valeur appel\u00E9e la cote. Pendant\\nune p\u00E9riode limit\u00E9e, vous affronterez plusieurs Dresseurs\\nafin de faire monter votre cote et vous hisser le plus haut\\npossible dans le classement de la comp\u00E9tition.\\nContrairement aux autres modes de jeu, il est n\u00E9cessaire\\nde chercher une comp\u00E9tition afin d\u2019y participer."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Dynamax"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Quand ils se trouvent \u00E0 certains endroits de Galar,\\nles Pok\u00E9mon peuvent devenir gigantesques.\\nIl s\u2019agit d\u2019un ph\u00E9nom\u00E8ne appel\u00E9 Dynamax.\\nCette transformation devient possible\\nlorsque le Poignet Dynamax se met \u00E0 briller.\\nIl suffit alors d\u2019appuyer sur le [VAR FF00(0006)]bouton Dynamax[VAR FF00(0000)]\u202F!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Le Dynamax peut \u00EAtre activ\u00E9 pendant [VAR FF00(0006)]trois tours[VAR FF00(0000)]\u202F!\\n\\nAu cours de ce laps de temps, le Pok\u00E9mon sous\\nl\u2019influence du Dynamax peut utiliser de puissantes\\n[VAR FF00(0006)]capacit\u00E9s Dynamax[VAR FF00(0000)]. Celles-ci provoquent des effets\\nsuppl\u00E9mentaires qui varient selon leur type.\\n\\nPensez \u00E0 faire appel au Dynamax au moment opportun\u202F!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pok\u00E9 Camping"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Au Pok\u00E9 Camping, vous pouvez vous lier d\u2019amiti\u00E9\\navec vos Pok\u00E9mon en jouant et en mangeant\\nensemble.\\nQui sait, peut-\u00EAtre que tout ce fun les motivera\\n\u00E0 d\u00E9passer leurs limites en combat\u202F?"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Amusez-vous avec les Joy-Con\u202F!\\nD\u00E9tachez un Joy-Con et secouez-le pour lancer\\ndes Pok\u00E9 Balls ou agiter le Pok\u00E9 Plumet\u202F!\\nServez-vous de ce dernier astucieusement\\npour attirer l\u2019attention de vos Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Jusqu\u2019\u00E0 trois personnes peuvent vous rejoindre\\nlorsque vous installez votre campement\\ndans les Terres Sauvages.\\nVous y croiserez de nouveaux joueurs et Pok\u00E9mon,\\nautant de rencontres qui vous donneront l\u2019occasion\\nde vous amuser tous ensemble\u202F!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Cuisine"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Utilisez des ingr\u00E9dients et des Baies pour cuisiner\u202F!\\n\\nN\u2019h\u00E9sitez pas \u00E0 incorporer plusieurs Baies\\net \u00E0 vous servir de vos meilleurs ingr\u00E9dients\\npour concocter des plats succulents\u202F!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Pour cuisiner de bons petits plats, utilisez l\u2019\u00E9ventail\\nafin d\u2019ajuster la temp\u00E9rature du feu, puis m\u00E9langez\\nbien avec la louche.\\n\u00C0 la fin, faites preuve d\u2019un timing parfait pour ajouter\\nune pinc\u00E9e d\u2019amour et ainsi r\u00E9galer vos Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Une fois que le plat est pr\u00EAt, c\u2019est l\u2019heure\\nde se r\u00E9galer tous ensemble\u202F!\\nD\u00E9guster un plat peut produire divers effets :\\ncela peut soigner les Pok\u00E9mon sur le campement,\\nou bien encore renforcer votre amiti\u00E9, par exemple."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Antres de Pok\u00E9mon"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Vous apercevrez parfois des faisceaux de lumi\u00E8re\\nrouge dans les Terres Sauvages\u202F; ceux-ci marquent\\nla pr\u00E9sence d\u2019un antre de Pok\u00E9mon Dynamax.\\nPour l\u2019affronter, il vous suffit d\u2019inspecter l\u2019antre\\nd\u2019o\u00F9 provient le faisceau\u202F! Vous pourrez alors inviter\\njusqu\u2019\u00E0 trois joueurs, ou commencer le combat seul[VAR 1100(00FF,0100)]e."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Lancer des Fragments V\u0153u dans un antre sans\\nfaisceau de lumi\u00E8re permet d\u2019y faire appara\u00EEtre\\nun Pok\u00E9mon Dynamax.\\n\\nN\u2019h\u00E9sitez pas \u00E0 en lancer dans les antres\\nqui vous intriguent le plus\u202F!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Certains antres brillent sans pour autant avoir\\nun faisceau de lumi\u00E8re. Les inspecter vous permettra\\nde r\u00E9cup\u00E9rer des unit\u00E9s d\u2019\u00E9nergie appel\u00E9es watts\u202F!\\nVous pourrez ensuite \u00E9changer ces watts contre\\ndes objets int\u00E9ressants aupr\u00E8s des Dresseurs\\nque vous rencontrerez dans les Terres Sauvages."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Raids Dynamax"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Battez un Pok\u00E9mon Dynamax et vous aurez une chance\\nde le capturer\u202F!\\n\\nVous pourrez \u00E9galement mettre la main sur des objets\\nrares qu\u2019il est impossible d\u2019obtenir ailleurs."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Les Pok\u00E9mon Dynamax sauvages sont tr\u00E8s puissants.\\n\\nIls sont capables d\u2019agir de mani\u00E8re inhabituelle,\\net peuvent par exemple lancer plusieurs capacit\u00E9s\\nd\u2019affil\u00E9e. Pour les affronter, il est indispensable\\nde former une \u00E9quipe de quatre Dresseurs\u202F!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Taxis volants"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Gr\u00E2ce aux taxis volants, vous pouvez vous rendre\\nn\u2019importe o\u00F9 \u00E0 Galar d\u2019un coup d\u2019aile de Corvaillus\u202F!\\n\\nPour essayer, ouvrez la Carte dans le menu principal,\\npuis choisissez votre destination\u202F!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Bo\u00EEtes PC"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Vous pouvez stocker vos Pok\u00E9mon dans vos Bo\u00EEtes PC,\\naccessibles depuis les Centres Pok\u00E9mon.\\n\\nLes Pok\u00E9mon ainsi stock\u00E9s peuvent \u00EAtre r\u00E9cup\u00E9r\u00E9s\\ndepuis n\u2019importe quel PC."
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Appuyez sur le bouton X pour activer le mode\\nqui permet de ranger les Bo\u00EEtes.\\n\\nChangez les membres de votre \u00E9quipe en les \u00E9changeant\\navec ceux de vos Bo\u00EEtes, ou modifiez la mani\u00E8re dont\\nsont tri\u00E9s vos Pok\u00E9mon dans les Bo\u00EEtes."
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Appuyez sur le bouton Y pour changer\\nla configuration du curseur.\\nCurseur rouge : Utilisation des contr\u00F4les par d\u00E9faut.\\nCurseur bleu : S\u00E9lection de plusieurs Pok\u00E9mon\\n\u00E0 la suite.\\nCurseur vert : S\u00E9lection de plusieurs Pok\u00E9mon \u00E0 la fois."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Pok\u00E9 Service"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "\u00C0 Galar, de nombreuses entreprises recrutent\\ndes Pok\u00E9mon pour qu\u2019ils les aident dans leur travail.\\nEnvoyez donc vos Pok\u00E9mon en mission\\npour leur donner un coup de main\u202F!\\nL\u2019exp\u00E9rience que vos Pok\u00E9mon gagneront en mission\\nne manquera pas de les rendre plus forts\u202F!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "La liste des missions disponibles est actualis\u00E9e\\nune fois par jour. Plus vous enverrez de Pok\u00E9mon\\nen mission, plus leurs efforts seront r\u00E9compens\u00E9s,\\ndonc gardez l\u2019\u0153il ouvert pour ne manquer aucune\\nmission disponible\u202F!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Les annonces ne sont r\u00E9initialis\u00E9es qu\u2019une fois par jour,\\nmais en obtenant de bonnes appr\u00E9ciations,\\nleur nombre augmentera.\\n\\nPour obtenir une bonne appr\u00E9ciation, envoyez\\nbeaucoup de Pok\u00E9mon qui correspondent\\nexactement \u00E0 la description de l\u2019annonce\u202F!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "D\u00E9fi des Ar\u00E8nes"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Le D\u00E9fi des Ar\u00E8nes consiste \u00E0 se rendre dans\\nles huit Ar\u00E8nes de Galar, o\u00F9 il vous faudra remplir\\nles Missions des Champions, puis les vaincre\\ndans le but d\u2019obtenir leur Badge."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Comp\u00E9tition live"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Le mode comp\u00E9tition live vous permet de participer\\n\u00E0 des comp\u00E9titions contre d\u2019autres joueurs.\\n\\nIl peut s\u2019agir de tournois amicaux organis\u00E9s entre amis,\\nou bien de comp\u00E9titions officielles.\\n\\nPour plus d\u2019informations sur les comp\u00E9titions officielles\\nen cours ou \u00E0 venir, veuillez consulter le site officiel\\nde Pok\u00E9mon."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Organiser un tournoi"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "N\u2019importe qui peut organiser des comp\u00E9titions live,\\nm\u00EAme vous\u202F!\\n\\nD\u00E9finissez les r\u00E8gles de votre tournoi et partagez-les\\navec tous les participants en utilisant les fonctions\\nde communication de votre console\u202F!\\n\\nPour plus d\u2019informations, veuillez consulter\\nle site officiel de Pok\u00E9mon."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Combat amical"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "En combat amical, veillez \u00E0 respecter les r\u00E8gles suivantes :\\n\\n- Former une \u00C9quipe Combat de [VAR FF00(0006)]six Pok\u00E9mon diff\u00E9rents[VAR FF00(0000)].\\n\\n- [VAR FF00(0006)]Donner un objet diff\u00E9rent[VAR FF00(0000)] \u00E0 chaque Pok\u00E9mon\\nde l\u2019\u00C9quipe Combat."
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "En combat amical, il est tout \u00E0 fait possible d\u2019int\u00E9grer\\ndes Pok\u00E9mon sp\u00E9ciaux dans votre \u00C9quipe Combat.\\n\\nBattez-vous avec vos Pok\u00E9mon pr\u00E9f\u00E9r\u00E9s\u202F!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Combat class\u00E9"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "En combat class\u00E9, veillez \u00E0 respecter les r\u00E8gles suivantes :\\n\\n- Former une \u00C9quipe Combat de [VAR FF00(0006)]six Pok\u00E9mon diff\u00E9rents[VAR FF00(0000)].\\n\\n- [VAR FF00(0006)]Donner un objet diff\u00E9rent[VAR FF00(0000)] \u00E0 chaque Pok\u00E9mon\\nde l\u2019\u00C9quipe Combat.\\n\\n- [VAR FF00(0006)]Ne pas utiliser de Pok\u00E9mon sp\u00E9cial[VAR FF00(0000)]."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Selon l\u2019issue d\u2019un combat class\u00E9,\\nvous pouvez gagner ou perdre des points.\\n\\nVotre rang montera ou descendra en fonction\\ndu nombre de points que vous poss\u00E9dez."
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Une fois que vous avez atteint un niveau,\\nvous ne pouvez pas en redescendre,\\nm\u00EAme si vous perdez vos combats class\u00E9s.\\n\\nPar exemple, si vous avez atteint le niveau Hyper Ball,\\nvous ne pourrez pas redescendre au niveau Super Ball."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Les combats class\u00E9s sont accessibles pendant\\nune dur\u00E9e d\u00E9termin\u00E9e que l\u2019on appelle \u00AB\u202Fsaison\u202F\u00BB.\\n\\nQuand une saison s\u2019ach\u00E8ve, une autre commence.\\n\\nLorsqu\u2019une nouvelle saison d\u00E9marre, le rang\\net le niveau de tous les participants redescendent."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Lorsque les joueurs ont atteint le rang maximal\\nen combat class\u00E9, ils s\u2019affrontent pour d\u00E9terminer\\nleur position dans le classement.\\n\\nLe classement varie en fonction de l\u2019issue des combats."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Comp\u00E9tition Internet"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Il existe deux types de comp\u00E9titions Internet :\\n\\n- Les comp\u00E9titions officielles\\n- Les tournois amicaux"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Les combats des comp\u00E9titions officielles suivent\\ncertaines r\u00E8gles et restrictions particuli\u00E8res.\\nLeur issue influe sur votre classement.\\n\\nPour en savoir plus sur le calendrier des comp\u00E9titions\\net la liste des Pok\u00E9mon autoris\u00E9s, veuillez consulter\\nle site officiel de Pok\u00E9mon."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Les tournois amicaux sont organis\u00E9s par les joueurs.\\nIls permettent aux participants de s\u2019affronter\\nen toute d\u00E9contraction.\\n\\nN\u2019h\u00E9sitez pas \u00E0 vous y essayer\u202F!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Cherchez une comp\u00E9tition officielle ou un tournoi\\namical et inscrivez-vous-y afin de pouvoir commencer\\n\u00E0 participer \u00E0 des combats d\u00E8s le d\u00E9but de l\u2019\u00E9v\u00E8nement.\\n\\nEssayez de trouver des comp\u00E9titions dont les r\u00E8gles\\net les Pok\u00E9mon autoris\u00E9s vous plaisent\u202F!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Bo\u00EEte Pok\u00E9mon"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Gr\u00E2ce \u00E0 la Bo\u00EEte Pok\u00E9mon, vous pouvez acc\u00E9der\\naux Bo\u00EEtes PC du Centre Pok\u00E9mon depuis le menu\\n\u00AB\u202F\u00C9quipe\u202F\u00BB. Vous pouvez ainsi changer les membres\\nde votre \u00E9quipe.\\n\\nPour ce faire, s\u00E9lectionnez \u00AB\u202F\u00C9quipe\u202F\u00BB dans le menu\\nprincipal et appuyez sur le bouton R."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Combat class\u00E9"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "S\u00E9lectionnez le menu \u00AB\u202FVS\u202F\u00BB dans le menu principal\\npour acc\u00E9der au Stade de Combat et participer\\n\u00E0 des combats class\u00E9s.\\nEntra\u00EEnez-vous \u00E0 la Tour de Combat\\net mesurez vos comp\u00E9tences\u202F!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "P\u00EAche"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Lorsque vous voyez une silhouette \u00E0 la surface\\nde l\u2019eau, appuyez sur le bouton A dans sa direction\\npour lancer votre ligne.\\nQuand votre canne remue, appuyez \u00E0 nouveau\\nsur le bouton A pour sortir le Pok\u00E9mon de l\u2019eau.\\nN\u2019h\u00E9sitez pas \u00E0 p\u00EAcher dans diff\u00E9rents points d\u2019eau\u202F!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "\u00C9quipes d\u2019emprunt"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Cette option permet d\u2019emprunter une \u00C9quipe\\nCombat partag\u00E9e via Internet par un autre joueur,\\nou d\u2019en proposer une vous-m\u00EAme\u202F!\\n\\nLorsqu\u2019une \u00C9quipe Combat est partag\u00E9e,\\nun ID d\u2019\u00E9quipe lui est associ\u00E9. Il suffit de saisir\\nce dernier pour l\u2019emprunter."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Direction Isolarmure"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Vous poss\u00E9dez un Pass Isolarmure\u202F!\\nMontrez-le \u00E0 l\u2019employ\u00E9 de la Gare de Brasswick\\npour atteindre cette nouvelle destination.\\nDes Pok\u00E9mon rares et d\u2019incroyables aventures\\nvous y attendent, alors allez vite d\u00E9couvrir\\ncette \u00EEle solitaire\u202F!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Direction Couronneige"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Vous poss\u00E9dez un Pass Couronneige\u202F!\\nMontrez-le \u00E0 l\u2019employ\u00E9 de la Gare de Brasswick\\npour atteindre cette nouvelle destination.\\nDes Pok\u00E9mon l\u00E9gendaires et d\u2019incroyables aventures\\nvous y attendent, alors allez vite d\u00E9couvrir ces terres\\nenneig\u00E9es\u202F!"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Exp\u00E9ditions Dynamax"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Formez une \u00E9quipe de quatre joueurs et explorez\\nle myst\u00E9rieux Grand Antre Dynamax\u202F!\\n\\nUn Pok\u00E9mon l\u00E9gendaire se trouve tout au fond\u202F!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Dans les exp\u00E9ditions Dynamax, chaque joueur\\nchoisit un Pok\u00E9mon d\u2019emprunt pour l\u2019accompagner\\nlors de l\u2019exploration des antres."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Votre \u00E9quipe de joueurs devra d\u00E9cider\\nquel chemin emprunter \u00E0 chaque intersection.\\nVous vous battrez ensemble dans des raids Dynamax\\ncontre les Pok\u00E9mon que vous rencontrerez\u202F!\\nRemplacez votre Pok\u00E9mon en capturant ceux\\nque vous trouverez pour aller jusqu\u2019au bout\u202F!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Le Seigneur des r\u00E9coltes"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Un conte du Hameau Gel\u00E9 raconte l\u2019histoire\\nd\u2019un Pok\u00E9mon l\u00E9gendaire connu sous le nom\\nde Seigneur des r\u00E9coltes. Selon cette l\u00E9gende,\\nil serait coiff\u00E9 d\u2019une grande couronne.\\nCependant, la statue de bois \u00E0 son effigie\\nau centre du village n\u2019en porte pas."
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Aussit\u00F4t la statue coiff\u00E9e de la couronne du\\nSeigneur des r\u00E9coltes, ce dernier est apparu.\\nIl a pris le contr\u00F4le du corps de Dhilan et a ainsi\\npu s\u2019exprimer dans la langue des humains.\\nJe dois aller enqu\u00EAter sur le Seigneur des r\u00E9coltes\\nau village."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Pour retrouver le fid\u00E8le destrier du Seigneur des\\nr\u00E9coltes, je dois partir \u00E0 la recherche des carottes\\ndont ce Pok\u00E9mon raffole.\\nLes habitants du Hameau Gel\u00E9 ont peut-\u00EAtre\\ndes informations \u00E0 ce sujet."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Lorsque j\u2019ai annonc\u00E9 \u00E0 Sylveroy que j\u2019avais obtenu\\ndes graines de carotte, il m\u2019a indiqu\u00E9 l\u2019emplacement\\nde deux champs o\u00F9 ces l\u00E9gumes pourraient pousser.\\nJe dois maintenant semer ces graines dans un champ\\nentour\u00E9 d\u2019une neige \u00E9paisse, ou dans un champ\\nproche d\u2019un lieu de s\u00E9pulture."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "J\u2019ai sem\u00E9 les graines dans un champ entour\u00E9\\nd\u2019une neige \u00E9paisse. Gr\u00E2ce aux pouvoirs\\nde Sylveroy, une Carotte Gel\u00E9e a pouss\u00E9\u202F!\\nAttir\u00E9 par son odeur, Blizzeval est apparu\\net s\u2019est pr\u00E9cipit\u00E9 vers le Hameau Gel\u00E9..."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "J\u2019ai sem\u00E9 les graines dans un champ pr\u00E8s du cimeti\u00E8re.\\nGr\u00E2ce aux pouvoirs de Sylveroy, une Carotte Sombre\\na pouss\u00E9\u202F! Attir\u00E9 par son odeur, Spectreval est apparu\\net s\u2019est pr\u00E9cipit\u00E9 vers le Hameau Gel\u00E9..."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "L\u2019attaque de celui qui \u00E9tait autrefois le fid\u00E8le destrier\\ndu Seigneur des r\u00E9coltes a \u00E9t\u00E9 repouss\u00E9e. Sylveroy\\nm\u2019a donn\u00E9 un P\u00E9tale Brillant, qui a ensuite \u00E9t\u00E9 tress\u00E9\\navec des crins du Pok\u00E9mon cheval pour fabriquer des\\nR\u00EAnes de l\u2019Unit\u00E9\u202F! Je dois \u00E0 pr\u00E9sent rejoindre Sylveroy\\nau Temple Couronne, o\u00F9 se cache son ancien destrier."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Sylveroy, le Seigneur des r\u00E9coltes, a pu renouer\\navec son fid\u00E8le destrier gr\u00E2ce aux R\u00EAnes de l\u2019Unit\u00E9.\\nIl semblerait qu\u2019il avait mal interpr\u00E9t\u00E9 l\u2019attitude\\ndes humains \u00E0 son \u00E9gard. Pour me remercier de\\nl\u2019avoir aid\u00E9 \u00E0 retrouver ses pouvoirs, il a d\u00E9cid\u00E9\\nde me suivre dans mes aventures\u202F!"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Les colosses l\u00E9gendaires"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Le colosse de Roche sommeille dans des ruines\\nau fin fond du Repos du G\u00E9ant. Une inscription\\nmyst\u00E9rieuse est grav\u00E9e sur la porte, qui demeure\\nsolidement ferm\u00E9e :\\n\u00AB\u202FQu... le mom... est ... ...ntrer, le prem...\\n...k\u00E9mon ... la ro... ... sta... ...orter.\u202F\u00BB"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Le colosse de Roche sommeille dans des ruines\\nau fin fond du Repos du G\u00E9ant.[VAR FF00(0006)]\\n\u00AB\u202FQuand le moment est venu d\u2019entrer, le premier\\nPok\u00E9mon doit la roche de stase porter.\u202F\u00BB\\nLorsque j\u2019ai donn\u00E9 une Pierre Stase \u00E0 mon Pok\u00E9mon,\\nla porte s\u2019est ouverte pour d\u00E9voiler Regirock.[VAR FF00(0000)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Le colosse de Glace sommeille dans des ruines\\nau c\u0153ur de la Pente Enneig\u00E9e. Une inscription\\nmyst\u00E9rieuse est grav\u00E9e sur la porte, qui demeure\\nsolidement ferm\u00E9e :\\n\u00AB\u202FPour ...ler ... l\u2019av..., ...arche aux c...\\n... crista... de ne... viv...\u202F\u00BB"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Le colosse de Glace sommeille dans des ruines\\nau c\u0153ur de la Pente Enneig\u00E9e.\\n[VAR FF00(0006)]\u00AB\u202FPour aller de l\u2019avant, marche aux c\u00F4t\u00E9s\\nd\u2019un cristal de neige vivant.\u202F\u00BB\\nQuand j\u2019ai sorti Hexagel de sa Pok\u00E9 Ball,\\nla porte s\u2019est ouverte pour d\u00E9voiler Regice.[VAR FF00(0000)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Le colosse d\u2019Acier sommeille dans des ruines \u00E0 la\\nfronti\u00E8re entre le blanc et le vert au Repos du G\u00E9ant.\\nUne inscription myst\u00E9rieuse est grav\u00E9e sur la porte,\\nqui demeure solidement ferm\u00E9e :\\n\u00AB\u202F...mets ... son qui ...lera le ...losse d\u2019...cier,\\nc\u2019... al... qu\u2019il ... ...v\u00E9l\u00E9.\u202F\u00BB"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Le colosse d\u2019Acier sommeille dans des ruines \u00E0 la\\nfronti\u00E8re entre le blanc et le vert au Repos du G\u00E9ant.\\n[VAR FF00(0006)]\u00AB\u202F\u00C9mets le son qui \u00E9veillera le colosse d\u2019Acier,\\nc\u2019est alors qu\u2019il sera r\u00E9v\u00E9l\u00E9.\u202F\u00BB\\nQuand j\u2019ai siffl\u00E9, la porte s\u2019est ouverte\\npour d\u00E9voiler Registeel.[VAR FF00(0000)]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Les colosses jumeaux sommeillent dans des ruines\\nlointaines, \u00E0 la Crois\u00E9e Trois-Voies. Une inscription\\nmyst\u00E9rieuse est grav\u00E9e sur la porte, qui demeure\\nsolidement ferm\u00E9e :\\n\u00AB\u202FLors... les trois ...losses ... ...sembl\u00E9s,\\n... port... du ...tin ...rira.\u202F\u00BB"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Les colosses jumeaux sommeillent dans des ruines\\nlointaines, \u00E0 la Crois\u00E9e Trois-Voies.\\n[VAR FF00(0006)]\u00AB\u202FLorsque les trois colosses seront rassembl\u00E9s,\\nla porte du destin s\u2019ouvrira.\u202F\u00BB\\nJ\u2019ai r\u00E9uni les colosses de Roche, de Glace et d\u2019Acier.\\nLa porte s\u2019est ouverte, et j\u2019ai choisi un colosse.[VAR FF00(0000)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Les oiseaux l\u00E9gendaires"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires."
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]Le Pok\u00E9mon orange est dans les Terres Sauvages.\\nLe Pok\u00E9mon noir est \u00E0 Isolarmure.\\nLe Pok\u00E9mon violet est \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]J\u2019ai captur\u00E9 \u00C9lecthor dans les Terres Sauvages.\\nLe Pok\u00E9mon noir est \u00E0 Isolarmure.\\nLe Pok\u00E9mon violet est \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]Le Pok\u00E9mon orange est dans les Terres Sauvages.\\nJ\u2019ai captur\u00E9 Sulfura \u00E0 Isolarmure.\\nLe Pok\u00E9mon violet est \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]Le Pok\u00E9mon orange est dans les Terres Sauvages.\\nLe Pok\u00E9mon noir est \u00E0 Isolarmure.\\nJ\u2019ai captur\u00E9 Artikodin \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]J\u2019ai captur\u00E9 \u00C9lecthor dans les Terres Sauvages.\\nJ\u2019ai captur\u00E9 Sulfura \u00E0 Isolarmure.\\nLe Pok\u00E9mon violet est \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]J\u2019ai captur\u00E9 \u00C9lecthor dans les Terres Sauvages.\\nLe Pok\u00E9mon noir est \u00E0 Isolarmure.\\nJ\u2019ai captur\u00E9 Artikodin \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]Le Pok\u00E9mon orange est dans les Terres Sauvages.\\nJ\u2019ai captur\u00E9 Sulfura \u00E0 Isolarmure.\\nJ\u2019ai captur\u00E9 Artikodin \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Il est un arbre gigantesque aux feuilles flamboyantes,\\nl\u00E0 o\u00F9 le soleil brille au plus haut dans le ciel. Ce sont\\nsur ses branches que se r\u00E9unissent les ailes l\u00E9gendaires.\\n[VAR FF00(0006)]J\u2019ai captur\u00E9 \u00C9lecthor dans les Terres Sauvages.\\nJ\u2019ai captur\u00E9 Sulfura \u00E0 Isolarmure.\\nJ\u2019ai captur\u00E9 Artikodin \u00E0 Couronneige.[VAR FF00(0000)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Un \u00E9n... trou myst... ... lie ... ...nde ... ...aut... mon...\\n... \u00E9t\u00E9 ...vert par ... Prof... Mo...\\nDe l\u2019aut... ...t\u00E9 ... trouvent ... \u00EAt... diff... ... ...k\u00E9mon\\n... nous ...nnaissons.\\n... sont ... Ul...m\u00E8res."
+  }
+]

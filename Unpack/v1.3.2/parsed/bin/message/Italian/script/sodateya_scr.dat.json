@@ -1,0 +1,647 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa all\u2019Ostello Pok\u00E9mon!\\nCome posso aiutarti?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ciao! Questo \u00E8 l\u2019Ostello Pok\u00E9mon!\\c\\nGli Allenatori possono lasciarci i loro Pok\u00E9mon\\ne noi ci prendiamo cura di loro.\\c\\nQuando ci affidano due Pok\u00E9mon, a volte ci\\ncapita di trovare un Uovo! Se vuoi saperne\\r\\ndi pi\u00F9, parla con mia nonna dentro l\u2019ostello.\\c\\nVuoi affidarci dei Pok\u00E9mon?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Torna a trovarci!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ci stavamo occupando dei tuoi Pok\u00E9mon e...\\nSorpresa! Ecco che salta fuori un Uovo!\\c\\nVuoi prenderlo tu?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Capisco. Va bene, allora lo tengo io."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Hai ricevuto l\u2019Uovo dalla proprietaria\\ndell\u2019Ostello Pok\u00E9mon!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Prenditene cura e trattalo bene!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Sembra che i tuoi Box siano pieni.\\nTorna quando avrai fatto un po\u2019 di spazio!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u00E8 in gran forma!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)] sono\\nin gran forma!\\c\\nVanno d\u2019amore e d\u2019accordo."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)]\\nsono in gran forma!\\c\\nE di solito vanno d\u2019accordo."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)]\\nsono in gran forma...\\c\\nMa non vanno molto d\u2019accordo."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)]\\nsono in gran forma...\\c\\nMa preferiscono giocare ognuno per conto suo."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Non hai abbastanza Pok\u00E9mon!\\nNon puoi affidarcene uno."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Puoi affidare all\u2019ostello due Pok\u00E9mon.\\nChi vuoi lasciarci?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Mi sto gi\u00E0 occupando di [VAR 0102(0000)].\\nVuoi lasciarmi un altro Pok\u00E9mon?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Per due Pok\u00E9mon, sono 1.000 \uE300."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Per un Pok\u00E9mon, sono 500 \uE300."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Allora sono altri 500 \uE300."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Va bene, allora. Mi prender\u00F2 cura di\\n[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Va bene, allora. Mi prender\u00F2 cura di\\n[VAR 0102(0000)]."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Torna a trovarmi quando vuoi ritirare\\nun Pok\u00E9mon."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Non hai abbastanza soldi..."
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "I Pok\u00E9mon all\u2019ostello sono in gran forma!\\nQuale vuoi ritirare?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0102(0000)], giusto?\\nVado subito a prenderlo."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Vuoi ritirare anche [VAR 0102(0000)]?"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Hai una squadra un po\u2019 striminzita...\\nVorr\u00E0 dire che mi occuper\u00F2 di un solo Pok\u00E9mon."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa all\u2019Ostello Pok\u00E9mon!\\nCosa posso fare per te?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Piacere! Questa \u00E8 la filiale dell\u2019Ostello Pok\u00E9mon\\ndelle Terre Selvagge!\\c\\nI nostri servizi non hanno niente da invidiare a\\nquelli della sede che si trova sul Percorso 5.\\c\\nSaremo lieti di aiutarti, a partire da subito!\\nVuoi affidarci dei Pok\u00E9mon?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Torna presto a trovarci!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ci stavamo occupando dei tuoi Pok\u00E9mon e...\\nSorpresa! Ecco che salta fuori un Uovo!\\c\\nVuoi prenderlo tu?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Capisco. Va bene, allora lo tengo io."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Prenditene cura e trattalo bene!"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Sembra che i tuoi Box siano pieni.\\nTorna quando avrai fatto un po\u2019 di spazio!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u00E8 in gran forma!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)] sono\\nin gran forma!\\c\\nVanno d\u2019amore e d\u2019accordo."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)] sono\\nin gran forma!\\c\\nE di solito vanno d\u2019accordo."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)] sono\\nin gran forma...\\c\\nMa non vanno molto d\u2019accordo."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0102(0001)] sono\\nin gran forma...\\c\\nMa preferiscono giocare ognuno per conto suo."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Non hai abbastanza Pok\u00E9mon!\\nNon puoi affidarcene uno."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Puoi affidare all\u2019ostello due Pok\u00E9mon.\\nChi vuoi lasciarci?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Mi sto gi\u00E0 occupando di [VAR 0102(0000)].\\nQuale altro Pok\u00E9mon vuoi lasciarmi?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Per due Pok\u00E9mon, sono 1.000 \uE300."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Per un Pok\u00E9mon, sono 500 \uE300."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Allora sono altri 500 \uE300."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Va bene, allora. Mi prender\u00F2 cura di\\n[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Va bene, allora. Mi prender\u00F2 cura di\\n[VAR 0102(0000)]."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Torna a trovarmi quando vuoi ritirare\\nun Pok\u00E9mon."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Non hai abbastanza soldi..."
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "I Pok\u00E9mon all\u2019ostello sono in gran forma!\\nQuale vuoi ritirare?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0102(0000)], giusto?\\nVado subito a prenderlo."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Vuoi ritirare anche [VAR 0102(0000)]?"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Hai una squadra un po\u2019 striminzita...\\nVorr\u00E0 dire che mi occuper\u00F2 di un solo Pok\u00E9mon."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Ciao, questo \u00E8 l\u2019Ostello Pok\u00E9mon!\\c\\nGli Allenatori possono lasciarci i loro Pok\u00E9mon\\ne noi ci prendiamo cura di loro!\\c\\nE poi... non so bene come mai, ma a volte quando\\nospitiamo i Pok\u00E9mon salta fuori anche un Uovo!\\r\\nMi chiedo come sia possibile!\\c\\nSe vuoi affidarci i tuoi Pok\u00E9mon, rivolgiti a mia\\nsorella all\u2019interno."
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Ehil\u00E0!\\n[VAR 0101(0000)] \u00E8 in gran forma!"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Ehil\u00E0, Campione[VAR 1100(00FF,0300)]ssa!\\n[VAR 0101(0000)] \u00E8 in gran forma!"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Ehil\u00E0!\\c\\n[VAR 0101(0000)] e [VAR 0101(0001)]\\nsono in gran forma!\\c\\nVanno d\u2019amore e d\u2019accordo."
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Ehil\u00E0!\\c\\n[VAR 0101(0000)] e [VAR 0101(0001)]\\nsono in gran forma!\\c\\nE di solito vanno d\u2019accordo."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Ehil\u00E0!\\c\\n[VAR 0101(0000)] e [VAR 0101(0001)]\\nsono in gran forma...\\c\\nMa non vanno molto d\u2019accordo."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Ehil\u00E0!\\c\\n[VAR 0101(0000)] e [VAR 0101(0001)]\\nsono in gran forma...\\c\\nMa preferiscono giocare ognuno per conto suo."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Ah, sei tu!\\c\\nCi stavamo occupando dei tuoi Pok\u00E9mon e...\\nSorpresa! Ecco che salta fuori un Uovo!\\c\\nNessuno si \u00E8 accorto di niente, \u00E8 spuntato\\nall\u2019improvviso! Vuoi prenderlo tu, vero?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Ricevi l\u2019Uovo dalla proprietaria\\ndell\u2019Ostello Pok\u00E9mon!"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Abbine cura!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "La tua squadra e i Box sono al completo.\\c\\nTorna quando avrai pi\u00F9 spazio."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Guarda che me lo tengo io!\\nScommetto che in realt\u00E0 lo vorresti... Vero?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Va bene, allora lo prendo io.\\nGrazie!"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa all\u2019Ostello Pok\u00E9mon!\\c\\nQui possiamo prenderci cura di due dei tuoi\\nPok\u00E9mon!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa all\u2019Ostello Pok\u00E9mon!\\c\\nCome posso aiutarti oggi?"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa all\u2019Ostello Pok\u00E9mon, Campione[VAR 1100(00FF,0300)]ssa!\\c\\nCome posso aiutarti oggi?"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Va bene. Torna quando vuoi."
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Ah, eccoti! Mia sorella ti stava cercando."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Se mi affidi l\u2019unico Pok\u00E9mon che hai,\\ncome farai poi a lottare?\\c\\nTorna quando avrai pi\u00F9 Pok\u00E9mon con te."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Quale Pok\u00E9mon vuoi affidarci?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Ma... Ma quello \u00E8 ancora un Uovo!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Bene, allora ci occuperemo\\ndi [VAR 0101(0000)] per un po\u2019."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Torna a trovarci quando vuoi!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Possiamo prenderci cura di due Pok\u00E9mon.\\nVuoi lasciarcene un altro?"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "I tuoi Pok\u00E9mon sono in gran forma!\\nQuale vorresti riprendere con te?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Per ritirare il tuo [VAR 0101(0000)]\\ndevi pagare [VAR 0204(0001,002E)] \uE300. Va bene?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Non hai abbastanza soldi..."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Ricevi [VAR 0101(0000)] dalla proprietaria\\ndell\u2019Ostello Pok\u00E9mon!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Vuoi ritirare anche l\u2019altro?"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Uh? Ehm... Se mi affidi un Pok\u00E9mon,\\nte ne rimarr\u00E0 solo uno.\\c\\nTi consiglio di tornare quando ne avrai\\ncatturato qualcuno in pi\u00F9."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "La tua squadra \u00E8 al completo.\\nTorna quando avrai pi\u00F9 spazio."
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "Affida"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Ritira"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Annulla"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Chiedi aggiornamenti"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "L. [VAR 0202(0001)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2642 L. [VAR 0202(0001)]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2640 L. [VAR 0202(0001)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] L. [VAR 0202(0001)]"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Eh...?"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Dall\u2019Uovo \u00E8 nato [VAR 1002][VAR 1502(0000,0000)][VAR 0101(0000)]!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Vuoi dare un soprannome [VAR 1002][VAR 1508(0000,0000)][VAR 0101(0000)]\\nappena nato?"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[~ 121]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[~ 122]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[~ 123]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[~ 124]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[~ 126]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[~ 128]"
+  }
+]

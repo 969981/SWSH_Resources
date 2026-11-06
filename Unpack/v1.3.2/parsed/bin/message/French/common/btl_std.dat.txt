@@ -1,0 +1,535 @@
+●●
+Un [VAR 0101(0000)] sauvage apparaît !
+Oh ! Un [VAR 0101(0000)] sauvage vous bondit dessus !
+Un [VAR 0101(0000)] sauvage apparaît !
+Un [VAR 0101(0000)] sauvage apparaît !
+Oh ! Votre monture a failli écraser un [VAR 0101(0000)]...\nIl vous attaque !
+[VAR 0101(0000)] apparaît !
+Oh ! Une horde de Pokémon sauvages apparaît !
+[~ 8]
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 019E(0000)] veu[VAR 1101(0000,0300)]lent\nse battre !\c
+[VAR 0100(0000)] veut se battre !\c
+[VAR 1401(0000,0000)][VAR 019E(0000)]\net [VAR 1400(0002,0000)][VAR 019E(0002)] veulent se battre !\c
+[VAR 0100(0000)] et [VAR 0100(0001)] veulent se battre !\c
+[VAR 0102(0000)] ! Go !
+[VAR 0102(0000)] et [VAR 0102(0001)] ! Go !
+[VAR 0102(0000)], [VAR 0102(0001)] et [VAR 0102(0002)] ! Go !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 019E(0000)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0002)] !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 019E(0000)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0002)] et un [VAR 0102(0003)] !
+[VAR 1401(0000,0000)][VAR 019E(0000)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0002)], un [VAR 0102(0003)] et un [VAR 0102(0004)] !
+[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+[VAR BD06(0000)][VAR 0100(0000)] envoie [VAR 0102(0001)] et [VAR 0102(0002)] !
+[VAR BD06(0000)][VAR 0100(0000)] envoie [VAR 0102(0001)], [VAR 0102(0002)]\net [VAR 0102(0003)] !
+[VAR 019E(0000)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0002)].\r\nVoulez-vous changer de Pokémon ?
+[VAR 0102(0000)] ! Fonce !
+En avant, [VAR 0102(0000)] !
+Un dernier petit effort !\nTiens bon, [VAR 0102(0000)] !
+L’ennemi est faible !\nC’est le moment, [VAR 0102(0000)] !
+[VAR 0102(0000)], on change !\nReviens !
+Reviens, [VAR 0102(0000)] !
+[VAR 0102(0000)], ça suffit !\nReviens !
+OK, [VAR 0102(0000)] !\nReviens !
+Bien, [VAR 0102(0000)] !\nReviens !
+[VAR BD06(0000)][VAR 019E(0000)] retire[VAR 1101(0000,0200)]nt\n[VAR 1002][VAR 1400(0002,0000)][VAR 0102(0002)] !
+[VAR 0100(0000)] retire [VAR 0102(0001)] !
+Touché [VAR 0200(0000)] fois !
+Vous utilisez [VAR 1402(0001,0000)][VAR 010A(0001)] !
+[VAR 0100(0000)] utilise[VAR 1101(0000,0200)]nt [VAR 1402(0001,0000)][VAR 010A(0001)] !
+[VAR BD06(0000)][VAR 019E(0000)] utilise[VAR 1101(0000,0200)]nt\n[VAR 1402(0002,0000)][VAR 010A(0002)] !
+[~ 38]
+[~ 39]
+[~ 40]
+[~ 41]
+[~ 42]
+[~ 43]
+[VAR 010C(0000)] a gagné [VAR 0206(0001,202F)] Point[VAR 1101(0001,0100)]s d’Expérience !
+[VAR BD06(0000)][VAR 010C(0000)] a gagné un total de [VAR 0206(0001,202F)] Point[VAR 1101(0001,0100)]s d’Expérience !
+Le reste de votre équipe a gagné des Points d’Expérience\ngrâce au Multi Exp !
+[VAR 010C(0000)] veut apprendre [VAR 0107(0001)].\c\nVoulez-vous oublier une capacité pour apprendre\n[VAR 0107(0001)] ?
+1[WAIT 20], 2[WAIT 20], [WAIT 20]... [WAIT 20]... Tadaaa ![VAR BE05(0003)][VAR BE05(0006)]\c\n[VAR 010C(0000)] oublie [VAR 0107(0001)].\c\nEt...
+Il apprend [VAR 0107(0001)] !
+[VAR 010C(0000)] n’a pas appris [VAR 0107(0001)].\c
+[VAR BD06(0000)]Vous avez battu [VAR 1400(0000,0000)][VAR 019E(0000)] !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 019E(0000)]\net [VAR 1400(0002,0000)][VAR 019E(0002)] ont perdu !
+[VAR 1401(0000,0000)][VAR 019E(0000)] [VAR 1101(0000,0301)]aont gagné !
+Égalité avec [VAR 1400(0000,0000)][VAR 019E(0000)] !
+[VAR 0100(0000)] a perdu !
+[VAR 0100(0000)] et [VAR 0100(0001)] ont perdu !
+[VAR 0100(0000)] a gagné !
+[VAR 0100(0000)] et [VAR 0100(0001)] ont gagné !
+Égalité avec [VAR 0100(0000)] !
+Égalité avec [VAR 0100(0000)] et [VAR 0100(0001)] !
+[~ 61]
+[~ 62]
+[VAR 0100(0000)] n’a plus de Pokémon en forme !\c
+Dans la panique, [VAR 0100(0000)] fait tomber [VAR 0204(0001,202F)]  !
+[VAR 0100(0000)] donne [VAR 0204(0001,202F)]  au vainqueur.
+...\n...\c\n[VAR 0100(0000)] est hors jeu !
+[VAR 0100(0000)] remporte [VAR 0205(0001,202F)]  !\c
+[VAR 0100(0000)] obtient [VAR 0204(0001,202F)]  !
+[VAR 010C(0000)] monte au N. [VAR 0202(0001)] !
+Oh, non !\nLe Pokémon s’est libéré !
+Raaah !\nÇa y était presque !
+Aaaaah !\nPresque !
+Mince !\nÇa y était presque !
+Et hop !\nVous avez attrapé [VAR 0101(0000)] !
+Les données [VAR 1406(0000,0001)][VAR 0101(0000)] ont été ajoutées au Pokédex.
+Le Dresseur détourne la Poké Ball !\c\nÇa ne se fait pas de voler les Pokémon !
+Impossible de viser quand il y a plus d’un Pokémon !
+Il n’y a plus de place dans les Boîtes PC !
+Il faut se concentrer pour bien lancer !
+Impossible de viser si aucun Pokémon n’est visible !
+Mais ça n’a aucun effet !
+Que doit faire [VAR 010C(0000)] ?
+Que doit faire [VAR 0100(0000)] ?
+[VAR BD06(0000)][VAR 010C(0000)] vous regarde pour savoir quoi faire.
+Mais cela échoue !
+Vous prenez la fuite !
+Vous n’avez pas réussi à fuir !
+Fuite impossible !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0102(0000)] sauvage prend la fuite !
+On ne s’enfuit pas d’un combat de Dresseurs !
+Voulez-vous abandonner et quitter le combat ?
+C’est super efficace !
+Ce n’est pas très efficace...
+Il se blesse dans sa confusion.
+[VAR FF00(0006)]Coup critique ![VAR FF00(0000)]
+Mais il n’y a plus de PP pour cette capacité !
+[VAR BD06(0000)][VAR 0100(0000)] vient au secours [VAR 1408(0001,0001)][VAR 0102(0001)] et restaure ses PV !
+Les rayons du soleil brillent !
+Il commence à pleuvoir !
+Une tempête de sable se prépare !
+Il commence à grêler !
+Le brouillard devient épais...
+Les rayons du soleil s’affaiblissent !
+La pluie s’est arrêtée !
+La tempête de sable se calme !
+La grêle s’est arrêtée !
+Le brouillard s’est dissipé !
+Les effets de la météo se dissipent !
+La tempête de sable fait rage.
+Il y a un déluge de grêle.
+K.O. en un coup !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 010A(0000)] affaibli[VAR 1101(0000,0400)]ssent l’effet\nde la capacité [VAR 0107(0001)] !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 010A(0000)] empêche[VAR 1101(0000,0200)]nt d’utiliser\ntoute capacité autre que [VAR 0107(0001)] !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 010A(0000)] empêche[VAR 1101(0000,0200)]nt d’utiliser\ntoute capacité de statut !
+[VAR BD06(0000)][VAR 010C(0000)] ne peut utiliser que la capacité\n[VAR 0107(0001)] !
+Les changements de stats ont tous été annulés !
+Mais rien ne se passe !
+[VAR 0106(0001)]\n[VAR 1408(0000,0001)][VAR 0102(0000)]
+Ampleur 4 !
+Ampleur 5 !
+Ampleur 6 !
+Ampleur 7 !
+Ampleur 8 !
+Ampleur 9 !
+Ampleur 10 !
+Un grelot sonne !
+Une odeur apaisante flotte dans l’air !
+Les adversaires partagent leurs PV !
+La puissance des capacités de type Feu est diminuée !
+L’effet de Tourniquet se dissipe !
+La puissance des capacités de type Électrik est diminuée !
+L’effet de Lance-Boue se dissipe !
+Les dimensions faussées reviennent à la normale !
+La gravité est intensifiée !
+La gravité est revenue à la normale !
+Les Pokémon au combat seront K.O. dans trois tours !
+Grâce à Métronome, le Pokémon lance [VAR 0107(0000)] !
+Force Nature provoque [VAR 0107(0000)].
+Il pleut des pièces !
+Mais il est trop faible pour créer un clone !
+Protection augmente la résistance de l’équipe aux capacités physiques !
+Protection augmente la résistance de l’équipe ennemie\naux capacités physiques !
+Protection n’a plus d’effet sur l’équipe !
+Protection n’a plus d’effet sur l’équipe ennemie !
+Mur Lumière augmente la résistance de l’équipe aux capacités spéciales !
+Mur Lumière augmente la résistance de l’équipe ennemie\naux capacités spéciales !
+Mur Lumière n’a plus d’effet sur l’équipe !
+Mur Lumière n’a plus d’effet sur l’équipe ennemie !
+Voile Aurore augmente la résistance des Pokémon de l’équipe\naux capacités physiques et spéciales !
+Voile Aurore augmente la résistance des Pokémon de l’équipe\nennemie aux capacités physiques et spéciales !
+Voile Aurore n’a plus d’effet sur l’équipe !
+Voile Aurore n’a plus d’effet sur l’équipe ennemie !
+Votre équipe est recouverte par un voile mystérieux !
+L’équipe ennemie est recouverte par un voile mystérieux !
+Votre équipe n’est plus protégée par le voile mystérieux !
+L’équipe ennemie n’est plus protégée par le voile !
+Votre équipe s’entoure de brume !
+L’équipe ennemie s’entoure de brume !
+La brume autour de l’équipe s’est dissipée !
+La brume autour de l’équipe ennemie s’est dissipée !
+Un vent arrière souffle sur votre équipe !
+Un vent arrière souffle sur l’équipe ennemie !
+Le vent arrière soufflant sur votre équipe s’arrête !
+Le vent arrière soufflant sur l’équipe ennemie s’arrête !
+L’Air Veinard immunise votre équipe contre les coups critiques !
+L’Air Veinard immunise l’équipe ennemie contre les coups critiques !
+L’Air Veinard de votre équipe prend fin !
+L’Air Veinard de l’équipe ennemie prend fin !
+Des picots s’éparpillent autour de votre équipe !
+Des picots s’éparpillent autour de l’équipe ennemie !
+Il n’y a plus de picots autour de votre équipe !
+Il n’y a plus de picots autour de l’équipe ennemie !
+Des pics toxiques se répandent autour de votre équipe !
+Des pics toxiques se répandent autour de l’équipe ennemie !
+Il n’y a plus de pics toxiques autour de votre équipe !
+Il n’y a plus de pics toxiques autour de l’équipe ennemie !
+Des pierres pointues lévitent autour de votre équipe !
+Des pierres pointues lévitent autour de l’équipe ennemie !
+Les pierres pointues autour de votre équipe ont disparu !
+Les pierres pointues autour de l’équipe ennemie ont disparu !
+Votre équipe est protégée par la capacité Garde Large !
+L’équipe ennemie est protégée par la capacité Garde Large !
+Votre équipe est protégée par la capacité Prévention !
+L’équipe ennemie est protégée par la capacité Prévention !
+Un arc-en-ciel apparaît au-dessus de votre équipe !
+Un arc-en-ciel apparaît au-dessus de l’équipe ennemie !
+L’arc-en-ciel au-dessus de votre équipe a disparu !
+L’arc-en-ciel au-dessus de l’équipe ennemie a disparu !
+Votre équipe est cernée par une mer de feu !
+L’équipe ennemie est cernée par une mer de feu !
+La mer de feu autour de votre équipe a disparu !
+La mer de feu autour de l’équipe ennemie a disparu !
+Votre équipe est cernée par un marécage !
+L’équipe ennemie est cernée par un marécage !
+Le marécage autour de votre équipe a disparu !
+Le marécage autour de l’équipe ennemie a disparu !
+Votre équipe est tendue et ne peut plus manger de Baies !
+L’équipe ennemie est tendue et ne peut plus manger de Baies !
+La Défense et la Défense Spéciale sont interverties !
+La Défense et la Défense Spéciale sont revenues à la normale !
+L’effet des objets tenus est neutralisé !
+L’effet des objets tenus est rétabli !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 010A(0000)] renforce[VAR 1101(0000,0200)]nt la capacité\n[VAR 0107(0001)] !
+La limite de temps est dépassée !\nFin du combat !
+Votre adversaire a dépassé sa limite de temps !\nFin du combat !
+Vous avez dépassé votre limite de temps !\nFin du combat !
+Le combat est trop long.\nFin de la retransmission !
+Mode Transe !
+Mode Normal !
+Les deux capacités se sont combinées !
+[VAR 010C(0000)] n’obéit pas !
+[VAR 010C(0000)] paresse !
+[VAR 010C(0000)] tourne le dos !
+[VAR 010C(0000)] fait semblant de ne rien remarquer !
+[VAR 010C(0000)] ignore les ordres !
+[VAR 010C(0000)] fait la sieste !
+[VAR 010C(0000)] ignore les ordres et dort toujours !
+Réinitialisation !
+Mais cet objet n’est pas utilisable sur cette cible !
+[VAR 010C(0000)] est en chute libre !\nCette action est impossible !
+Le combat se termine par un forfait.
+Un beau gazon pousse sur le terrain !
+Le gazon disparaît...
+Le terrain se couvre de brume !
+La brume qui recouvrait le terrain se dissipe...
+De l’électricité parcourt le terrain !
+L’électricité parcourant le terrain s’est dissipée...
+Votre équipe est protégée par la capacité Vigilance !
+L’équipe ennemie est protégée par la capacité Vigilance !
+[VAR BD06(0000)]La capacité [VAR 0107(0000)] a été bloquée par un tatami !
+Le terrain est couvert d’une toile gluante du côté de votre équipe !
+Le terrain est couvert d’une toile gluante du côté de l’équipe ennemie !
+La toile gluante du côté de votre équipe a disparu !
+La toile gluante du côté de l’équipe ennemie a disparu !
+Impossible d’utiliser cette capacité sans avoir mangé de Baie !
+[VAR 0100(0000)] ramasse [VAR 1402(0001,0000)][VAR 010A(0001)] !
+[VAR 010C(0000)] ne veut pas vous faire de la peine\net endure le choc !
+[VAR 010C(0000)] ne veut pas que vous vous inquiétiez pour lui\net ouvre les yeux !
+[VAR 010C(0000)] ne veut pas que vous vous inquiétiez pour lui\net guérit du poison !
+[VAR 010C(0000)] ne veut pas que vous vous inquiétiez pour lui\net guérit de sa brûlure !
+[VAR 010C(0000)] ne veut pas que vous vous inquiétiez pour lui\net guérit de sa paralysie !
+[VAR 010C(0000)] ne veut pas que vous vous inquiétiez pour lui\net se libère du gel !
+[VAR 010C(0000)] entend vos encouragements et évite l’attaque !
+[VAR 010C(0000)] entend vos encouragements et inflige un [VAR FF00(0006)]coup critique[VAR FF00(0000)] !
+[VAR 010C(0000)] se tourne vers vous et vous fait signe\nqu’il est prêt à donner le meilleur de lui-même !
+[VAR 010C(0000)] se tourne vers vous et vous fait signe\nqu’il est prêt à donner son maximum !
+[VAR 010C(0000)] a hâte de voir quelle stratégie ingénieuse\nvous allez utiliser cette fois !
+[VAR 010C(0000)] est parfaitement synchrone avec vous !
+[VAR 010C(0000)] examine d’un air inquiet vos choix vestimentaires...
+[VAR 010C(0000)] a l’air rassuré de vous savoir à ses côtés.
+[VAR 010C(0000)] a envie de s’amuser avec vous,\nmais le combat passe avant !
+[VAR 010C(0000)] renifle le Pokémon ennemi avec intérêt...
+[VAR BD06(0000)][VAR 010C(0000)] est rassuré en sentant votre odeur près de lui.
+[VAR 010C(0000)] admire le paysage.
+[VAR BD06(0000)][VAR 010C(0000)] se souvient de sa première rencontre avec vous...
+[VAR 010C(0000)] préfèrerait faire du camping...
+[VAR 010C(0000)] a envie de retourner se coucher.
+[VAR 010C(0000)] n’a pas l’air très sûr de lui...
+[VAR 010C(0000)] veut que vous le caressiez.
+Vas-y, [VAR 010C(0000)] ! J’ai confiance en toi !
+[VAR 010C(0000)], on change !\nJe suis fi[VAR 1100(00FF,0302)]erère de toi !
+Bravo !
+[VAR 010C(0000)] n’est pas en bonne posture.\nIl a l’air désespéré...
+[VAR 010C(0000)] est très reconnaissant !
+Zzz...
+[~ 266]
+[VAR 0200(0000)] Pokémon [VAR 1101(0000,0E0B)]a été battuont été battus d’un coup !
+Passage en Forme Assaut !
+Passage en Forme Parade !
+[VAR 0102(0000)] a été fouillé !\nIl tient [VAR 1402(0001,0000)][VAR 0109(0001)] !
+L’ambiance est euphorique !
+[~ 272]
+Un déluge de plasma s’abat sur le terrain !
+Il sera impossible de fuir au tour suivant !
+[VAR BD06(0000)]La nuée de poudre entre en réaction avec [VAR 0107(0000)]\net explose !
+Métronome de ([VAR 0200(0000)]) [VAR 0202(0001)] : [VAR 0107(0002)]
+Oh ! Un [VAR 0101(0000)] sauvage surgit des fourrés !
+Oh ! Un [VAR 0101(0000)] sauvage surgit du sol !
+Oh ! Un [VAR 0101(0000)] sauvage fond sur vous !
+Oh ! Un [VAR 0101(0000)] sauvage vous tombe dessus !
+Oh ! Un [VAR 0101(0000)] sauvage surgit de la poubelle !
+[~ 282]
+Félicitations, [VAR 0100(0000)] !
+Quelle honte ce serait, de s’enfuir pendant une Épreuve !
+Une pluie battante s’abat soudainement !
+La pluie battante s’est arrêtée...
+Les rayons du soleil s’intensifient !
+Les rayons du soleil s’affaiblissent !
+Un vent mystérieux enveloppe les Pokémon de type Vol !
+Le vent mystérieux s’est dissipé...
+La pluie battante empêche toute attaque de type Feu !
+Le soleil brille si intensément que toute attaque de type Eau s’évapore !
+Impossible de dissiper une telle pluie !
+Le soleil brille si intensément que rien ne peut l’obscurcir !
+Le vent mystérieux affaiblit l’attaque !
+Impossible de ramener l’atmosphère à la normale !
+Mais il en est incapable sous cette forme !
+Mais [VAR 0102(0000)] en est incapable !
+[VAR BD06(0000)]Les Sbires de la [VAR 010E(0000)] envoient\nune horde de Medhyèna !
+[VAR BD06(0000)]Les Sbires de la [VAR 010E(0000)] envoient\nune horde de Grahyèna !
+[VAR BD06(0000)][VAR 019E(0000)] veut se battre !\c
+[VAR BD06(0000)]Vous avez battu\n[VAR 019E(0000)] !
+La météo change [VAR 01B0(0000)]\nen [VAR 01B0(0001)] !
+[~ 304]
+[~ 305]
+[~ 306]
+[~ 307]
+[~ 308]
+[~ 309]
+[~ 310]
+[~ 311]
+[~ 312]
+[~ 313]
+[~ 314]
+[~ 315]
+[~ 316]
+[~ 317]
+[~ 318]
+[~ 319]
+[~ 320]
+[~ 321]
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente son Attaque !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup son Attaque !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément son Attaque !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente sa Défense !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup sa Défense !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément sa Défense !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nson Attaque Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup son Attaque Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément son Attaque Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nsa Défense Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup sa Défense Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément sa Défense Spéciale !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente sa Vitesse !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup sa Vitesse !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément sa Vitesse !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente ses stats !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nbeaucoup ses stats !
+[VAR 1002][VAR 1401(0000,0001)][VAR 0101(0000)] dégage une aura qui augmente\nénormément ses stats !
+[VAR 0101(0000)] appelle à l’aide !
+[VAR 0101(0000)] appelle du renfort !
+...[WAIT 20] ...[WAIT 20] ...[WAIT 20]
+Aucun Pokémon n’est venu à la rescousse !
+Un [VAR 0101(0000)] apparaît !
+L’Orbe Frousse rend le Pokémon sauvage nerveux...
+Le sol se met à réagir de façon bizarre...
+Le sol redevient normal !
+Vous vous trouvez sous le Dôme Royal, où se déroulent\nles plus grandes Batailles Royales ![WAIT 60]\r\nLe stade est comble, et le public est déchaîné !
+Les challengers s’avancent !
+Dans le coin vert...\n[VAR 019E(0000)]\r\nenvoie [VAR 0102(0002)] !
+Dans le coin jaune...\n[VAR 019E(0000)]\r\nenvoie [VAR 0102(0002)] !
+Dans le coin rouge...\n[VAR 019E(0000)]\r\nenvoie [VAR 0102(0002)] !
+Dans le coin bleu...\n[VAR 019E(0000)]\r\nenvoie [VAR 0102(0002)] !
+Dans le coin vert...\n[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+Dans le coin jaune...\n[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+Dans le coin rouge...\n[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+Dans le coin bleu...\n[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+Que la Bataille Royale commence !
+Fin de la rencontre !
+Le Bouclier-Carcan s’active !
+Le Bouclier-Carcan n’est plus actif !
+Vous sentez la présence d’un grand nombre d’individus !
+???
+Le déguisement absorbe l’attaque !
+[VAR 0100(0002)] et [VAR 019E(0000)]\nveulent se battre !\c
+Vous avez battu [VAR 0100(0002)]\net [VAR 019E(0000)] !
+C’est quoi ce Pokémon ? Jamais vu !
+[VAR 0100(0000)] !\nC’est un Pokémon qu’on n’a jamais vu !
+[VAR 0100(0000)] !\nC’est un Pokémon qu’on n’a jamais vu !
+[VAR 0189(0000)] !\nC’est un Pokémon qu’on n’a jamais vu !
+
+
+
+
+Vos chances de capture augmentent !
+Votre Motisma-Dex vous permet d’utiliser à nouveau la Force Z !
+Motism’Aura Motism-activée !
+Je t’envoie mes Z’encouragements !
+[VAR 0102(0000)] est protégé par une étrange barrière\net n’est pas affecté par la capacité.
+[VAR 0102(0000)] a annulé les modifications de stats et les talents\ndes Pokémon !
+[~ 381]
+La puissance accumulée du Dynamax a permis à [VAR 0102(0000)]\nd’utiliser une autre capacité !
+L’étrange barrière qui protégeait [VAR 0102(0000)] a disparu !
+Une étrange barrière entoure [VAR 0102(0000)]\net le protège des attaques !
+[VAR 0102(0000)] se sent acculé !\nLa violence de ses attaques augmente !
+[VAR 0100(0000)] est maintenant capable d’utiliser le Dynamax !
+Bravo ! Vous avez vaincu [VAR 0101(0000)] !
+[VAR 0101(0000)] est affaibli !\nC’est le moment de lancer une Poké Ball !
+[VAR 0100(0000)] hésite à lancer une Poké Ball...
+La tempête gagne en puissance !
+Le Pokémon [VAR 1408(0000,0001)][VAR 0100(0000)] n’est plus K.O. !
+Vous ne pouvez pas utiliser d’objets !
+La puissance du Dynamax entoure [VAR 0100(0000)] !
+La tempête au-dessus de vous s’intensifie.
+La tempête au-dessus de vous gagne encore en intensité !
+La tempête est terrible !\nC’est intenable !
+Vous avez été éjectés de l’antre.
+[VAR 0101(0000)] a disparu à l’intérieur de l’antre !
+Vous encouragez vos alliés !
+Vos encouragements sont amplifiés\npar la puissance du Dynamax !
+Les encouragements résonnent dans les environs...
+Quelle puissance !\nL’étrange barrière a pris un gros coup !
+Les Pokémon ne peuvent plus s’enfuir !
+C’est l’heure du thé !\nTout le monde mange sa Baie.
+Mais rien ne se passe !
+Les deux Pokémon seront K.O. dans trois tours !
+Un gaz inhibiteur envahit les lieux !
+Les effets du gaz inhibiteur se sont dissipés.
+Il doit tenir une Baie pour utiliser cette capacité !
+Une puissance mystérieuse empêche [VAR 0102(0000)]\nd’utiliser toute capacité.
+[VAR 0102(0000)] accumule de l’énergie.
+Ce n’est pas le moment !
+Il est trop tard pour s’enfuir !
+Impossible de fuir !
+L’Attaque des alliés a augmenté !
+La Défense des alliés a augmenté !
+L’Attaque Spéciale des alliés a augmenté !
+La Défense Spéciale des alliés a augmenté !
+La Vitesse des alliés a augmenté !
+La Précision des alliés a augmenté !
+L’Esquive des alliés a augmenté !
+L’Attaque des alliés augmente beaucoup !
+La Défense des alliés augmente beaucoup !
+L’Attaque Spéciale des alliés augmente beaucoup !
+La Défense Spéciale des alliés augmente beaucoup !
+La Vitesse des alliés augmente beaucoup !
+La Précision des alliés augmente beaucoup !
+L’Esquive des alliés augmente beaucoup !
+L’Attaque des alliés baisse !
+La Défense des alliés baisse !
+L’Attaque Spéciale des alliés baisse !
+La Défense Spéciale des alliés baisse !
+La Vitesse des alliés baisse !
+La Précision des alliés baisse !
+L’Esquive des alliés baisse !
+L’Attaque des alliés baisse beaucoup !
+La Défense des alliés baisse beaucoup !
+L’Attaque Spéciale des alliés baisse beaucoup !
+La Défense Spéciale des alliés baisse beaucoup !
+La Vitesse des alliés baisse beaucoup !
+La Précision des alliés baisse beaucoup !
+L’Esquive des alliés baisse beaucoup !
+Les alliés sont prêts à tout donner !
+Les alliés sont empoisonnés !
+Les alliés sont paralysés !\nIls auront du mal à attaquer !
+Les alliés se sont endormis !
+Les alliés sont gelés !
+Les alliés sont brûlés !
+L’onde de choc rend les alliés confus !
+Les alliés sont amoureux !
+Les alliés souffrent de plusieurs altérations de statut !
+Les alliés guérissent de leurs altérations de statut !
+Les alliés ne peuvent plus s’échapper !
+Les alliés sont tourmentés !
+Les alliés sont piégés dans un tourbillon de sable !
+Les alliés sont piégés dans un tourbillon de flammes !
+Les alliés récupèrent des PV !
+Les alliés ont perdu des PP !
+Des morceaux d’acier acérés lévitent autour de votre équipe !
+Des morceaux d’acier acérés lévitent autour de l’équipe ennemie !
+Les morceaux d’acier acérés autour de votre équipe ont disparu !
+Les morceaux d’acier acérés autour de l’équipe ennemie ont disparu !
+Votre équipe est encerclée par les flammes !
+L’équipe ennemie est encerclée par les flammes !
+Votre équipe est encerclée par les rochers !
+L’équipe ennemie est encerclée par les rochers !
+Mais que se passe-t-il ?!\nVous ne pouvez pas vous enfuir !
+Incroyable... C’est comme si l’attaque n’avait aucun effet !
+Aaargh !
+La puissance du Dynamax a bloqué l’attaque !
+[VAR 0102(0000)] a détourné la Poké Ball !\c\nVous n’avez pas assez de Badges pour capturer ce Pokémon !
+Vous ne pouvez pas encore lancer de Poké Ball !
+Vas-y, [VAR 0100(0000)] !\nUtilise ton épée !
+Vas-y, [VAR 0100(0000)] !\nUtilise ton bouclier !
+Vous ne pouvez pas lancer de Poké Ball !
+L’Attaque et l’Attaque Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] augmentent !
+L’Attaque et l’Attaque Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] augmentent\nbeaucoup !
+La Défense et la Défense Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] augmentent !
+La Défense et la Défense Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] augmentent\nbeaucoup !
+La Vitesse [VAR 1408(0000,0001)][VAR 0102(0000)] augmente !
+La Vitesse [VAR 1408(0000,0001)][VAR 0102(0000)] augmente beaucoup !
+L’Attaque et l’Attaque Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] baissent !
+L’Attaque et l’Attaque Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] baissent beaucoup !
+La Défense et la Défense Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] baissent !
+La Défense et la Défense Spéciale [VAR 1408(0000,0001)][VAR 0102(0000)] baissent beaucoup !
+La Vitesse [VAR 1408(0000,0001)][VAR 0102(0000)] baisse !
+La Vitesse [VAR 1408(0000,0001)][VAR 0102(0000)] baisse beaucoup !
+[VAR 01D1(0000)] ! Go !
+[VAR 01D1(0000)]\net [VAR 01D1(0001)] ! Go !
+[VAR 0100(0000)] envoie [VAR 01D1(0001)] !
+[VAR BD06(0000)][VAR 0100(0000)] envoie [VAR 01D1(0001)]\net [VAR 01D1(0002)] !
+[VAR 01D1(0000)] ! Fonce !
+En avant, [VAR 01D1(0000)] !
+Un dernier petit effort !\nTiens bon, [VAR 01D1(0000)] !
+L’ennemi est faible !\nC’est le moment, [VAR 01D1(0000)] !
+Vas-y, [VAR 01D1(0000)] !
+La tempête de grêle inflige des dégâts aux Pokémon !
+La tempête de sable inflige des dégâts aux Pokémon !
+Un beau gazon recouvre le terrain !
+Le terrain est couvert de brume !
+De l’électricité parcourt le terrain !
+Le sol réagit de façon bizarre...
+Les rayons du soleil brillent !
+Il pleut !
+Une tempête de sable fait rage !
+Il grêle !
+Cet adversaire ne se laissera pas avoir par une Poké Ball...
+Vous ne pouvez pas utiliser cette capacité !
+Ah ! Un [VAR 0101(0000)] est apparu devant vous !\nIl a l’air très fort...
+Ouah ! Un [VAR 0101(0000)] a accouru vers vous !\nIl a l’air très fort...
+Ah ! Un [VAR 0101(0000)] est apparu !\nIl a l’air très fort...
+Un [VAR 0101(0000)] est apparu !\nIl a l’air très fort...
+Ouah ! Un [VAR 0101(0000)] a accouru vers vous !\nIl a l’air très fort...
+Un [VAR 0101(0000)] est apparu !\nIl a l’air très fort...
+Vous ne pouvez pas partir en laissant ce Pokémon hors de contrôle !
+Vous ne pouvez pas partir en laissant Zacian hors de contrôle !
+Vous ne pouvez pas partir en laissant Zamazenta hors de contrôle !
+[VAR 1401(0000,0000)][VAR 010A(0000)] a disparu après avoir rempli sa fonction.
+[VAR 0100(0000)] vous encourage !
+Les encouragements [VAR 1408(0000,0001)][VAR 0100(0000)] sont amplifiés\npar la puissance du Dynamax !
+[VAR BD06(0000)][VAR 1401(0000,0000)][VAR 019E(0000)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0002)] !\r\n[VAR BD06(0000)][VAR 1401(0003,0000)][VAR 019E(0003)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0005)] !
+[VAR 0102(0000)] ! Go !\r\n[VAR BD06(0000)][VAR 1401(0001,0000)][VAR 019E(0001)] envoie[VAR 1101(0000,0200)]nt\nun [VAR 0102(0003)] !
+[VAR 0100(0000)] envoie [VAR 0102(0001)] !\n[VAR 0100(0002)] envoie [VAR 0102(0003)] !
+[VAR 0102(0000)] ! Go !\n[VAR 0100(0001)] envoie [VAR 0102(0002)] !
+Les PP de l’équipe ennemie baissent !
+[VAR 0100(0000)] envoie [VAR 0102(0001)] !
+Les alliés subissent des coups de fouet !
+L’équipe ennemie subit des coups de fouet !
+Les alliés subissent la violence des courants !
+L’équipe ennemie subit la violence des courants !
+C’est l’un des Ramoloss véloces !\nBattez-le pour récupérer l’uniforme du dojo !
+Les Ramoloss véloces appartiennent au maître !\nVous ne pouvez pas les capturer !
+Vous ne pouvez plus poursuivre cette expédition !
+Vous décidez de continuer votre chemin\nsans avoir attrapé [VAR 0101(0000)] !

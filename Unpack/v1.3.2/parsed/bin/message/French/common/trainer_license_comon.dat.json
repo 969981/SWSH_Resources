@@ -1,0 +1,147 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 01C4(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 01C4(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Pok\u00E9dex"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Enregistr\u00E9[VAR 1100(00FF,0100)]e le"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "D\u00E9but de l\u2019aventure"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]:[VAR 0201(0001)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "N\u00BA ID"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0205(0000,0000)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Currydex :"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0202(0000)] type[VAR 1101(0000,0100)]s de currys"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Meilleur score au Moti-Rallye :"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0204(0000,202F)] point[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Nombre total de captures :"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0204(0000,202F)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Pok\u00E9mon chromatiques vus :"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR 0204(0000,202F)] esp\u00E8ce[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Premier Pok\u00E9mon"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  }
+]

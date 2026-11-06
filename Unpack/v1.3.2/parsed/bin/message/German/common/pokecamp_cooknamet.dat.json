@@ -1,0 +1,757 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Curry"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Scharfes Curry"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Herbes Curry"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Curry"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bitteres Curry"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Saures Curry"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "W\u00FCrstchencurry"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Scharfes W\u00FCrstchencurry"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Herbes W\u00FCrstchencurry"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes W\u00FCrstchencurry"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Bitteres W\u00FCrstchencurry"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Saures W\u00FCrstchencurry"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Bauerncurry"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Scharfes Bauerncurry"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Herbes Bauerncurry"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Bauerncurry"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Bitteres Bauerncurry"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Saures Bauerncurry"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Meerescurry"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Scharfes Meerescurry"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Herbes Meerescurry"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Meerescurry"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Bitteres Meerescurry"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Saures Meerescurry"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Bohnencurry"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Scharfes Bohnencurry"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Herbes Bohnencurry"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Bohnencurry"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Bitteres Bohnencurry"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Saures Bohnencurry"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Toastcurry"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Scharfes Toastcurry"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Herbes Toastcurry"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Toastcurry"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Bitteres Toastcurry"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Saures Toastcurry"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Spaghetticurry"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Scharfes Spaghetticurry"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Herbes Spaghetticurry"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Spaghetticurry"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Bitteres Spaghetticurry"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Saures Spaghetticurry"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Pilzcurry"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Scharfes Pilzcurry"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Herbes Pilzcurry"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Pilzcurry"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Bitteres Pilzcurry"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Saures Pilzcurry"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "R\u00F6strutencurry"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Scharfes R\u00F6strutencurry"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Herbes R\u00F6strutencurry"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes R\u00F6strutencurry"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Bitteres R\u00F6strutencurry"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Saures R\u00F6strutencurry"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Lauchcurry"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Scharfes Lauchcurry"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Herbes Lauchcurry"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Lauchcurry"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Bitteres Lauchcurry"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Saures Lauchcurry"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Apfelcurry"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Scharfes Apfelcurry"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Herbes Apfelcurry"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Apfelcurry"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Bitteres Apfelcurry"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Saures Apfelcurry"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Knochencurry"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Scharfes Knochencurry"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Herbes Knochencurry"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Knochencurry"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Bitteres Knochencurry"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Saures Knochencurry"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Kartoffelcurry"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Scharfes Kartoffelcurry"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Herbes Kartoffelcurry"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Kartoffelcurry"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Bitteres Kartoffelcurry"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Saures Kartoffelcurry"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Kr\u00E4utercurry"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Scharfes Kr\u00E4utercurry"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Herbes Kr\u00E4utercurry"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Kr\u00E4utercurry"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Bitteres Kr\u00E4utercurry"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Saures Kr\u00E4utercurry"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Gem\u00FCsecurry"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Scharfes Gem\u00FCsecurry"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Herbes Gem\u00FCsecurry"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Gem\u00FCsecurry"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Bitteres Gem\u00FCsecurry"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Saures Gem\u00FCsecurry"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Frittiercurry"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Scharfes Frittiercurry"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Herbes Frittiercurry"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Frittiercurry"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Bitteres Frittiercurry"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Saures Frittiercurry"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Eiercurry"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Scharfes Eiercurry"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Herbes Eiercurry"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Eiercurry"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Bitteres Eiercurry"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Saures Eiercurry"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Tropencurry"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Scharfes Tropencurry"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Herbes Tropencurry"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Tropencurry"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Bitteres Tropencurry"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Saures Tropencurry"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "K\u00E4securry"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Scharfes K\u00E4securry"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Herbes K\u00E4securry"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes K\u00E4securry"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Bitteres K\u00E4securry"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Saures K\u00E4securry"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Gew\u00FCrzcurry"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Scharfes Gew\u00FCrzcurry"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Herbes Gew\u00FCrzcurry"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Gew\u00FCrzcurry"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Bitteres Gew\u00FCrzcurry"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Saures Gew\u00FCrzcurry"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Sahnecurry"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Scharfes Sahnecurry"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Herbes Sahnecurry"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Sahnecurry"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Bitteres Sahnecurry"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Saures Sahnecurry"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Dekocurry"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Scharfes Dekocurry"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Herbes Dekocurry"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Dekocurry"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Bitteres Dekocurry"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Saures Dekocurry"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Kokoscurry"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Scharfes Kokoscurry"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Herbes Kokoscurry"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Kokoscurry"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Bitteres Kokoscurry"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Saures Kokoscurry"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Fertignudelcurry"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Scharfes Fertignudelcurry"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Herbes Fertignudelcurry"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Fertignudelcurry"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Bitteres Fertignudelcurry"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Saures Fertignudelcurry"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Frikadellencurry"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Scharfes Frikadellencurry"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Herbes Frikadellencurry"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "S\u00FC\u00DFes Frikadellencurry"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Bitteres Frikadellencurry"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Saures Frikadellencurry"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Gigadynamax-Curry"
+  }
+]

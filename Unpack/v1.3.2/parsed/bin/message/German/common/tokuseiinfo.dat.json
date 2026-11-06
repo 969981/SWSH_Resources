@@ -1,0 +1,1342 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "-"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "L\u00E4sst das Ziel beim Angriff eventuell durch Gestank\\nzur\u00FCckschrecken."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Ruft bei Kampfantritt Regen herbei."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Erh\u00F6ht in jeder Runde die Initiative."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Wehrt gegnerische Volltreffer mit einem harten\\nPanzer ab."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Bietet Schutz gegen K.O.-Attacken. Bei vollen KP\\n\u00FCbersteht das Pok\u00E9mon auch K.O.-Treffer."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Befeuchtet die Umgebung und verhindert so den Einsatz\\nvon Attacken wie Finale, die Explosionen ausl\u00F6sen."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Der flexible K\u00F6rper des Pok\u00E9mon sch\u00FCtzt es vor\\nParalyse."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Erh\u00F6ht in Sandst\u00FCrmen den Ausweichwert."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Kann bei Ber\u00FChrung durch statisch aufgeladenen K\u00F6rper\\nparalysieren."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Treffer durch Elektro-Attacken verursachen keinen\\nSchaden, sondern regenerieren stattdessen KP."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Treffer durch Wasser-Attacken verursachen keinen\\nSchaden, sondern regenerieren stattdessen KP."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist so apathisch, dass es nicht bet\u00F6rt oder\\nprovoziert werden kann."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Hebt alle Wetter-Effekte auf."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Erh\u00F6ht die Genauigkeit von Attacken."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Verhindert Einschlafen."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00C4ndert seinen Typ zu dem der Attacke des Angreifers."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Das starke Immunsystem des Pok\u00E9mon verhindert\\nVergiftungen."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Verst\u00E4rkt Feuer-Attacken, wenn es von Feuer-Attacken\\ngetroffen wird."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Blockiert durch Puder die Zusatzeffekte gegnerischer\\nAngriffe."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon l\u00E4sst sich nicht aus der Ruhe bringen und\\nverhindert so Verwirrung."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Blockt Attacken und Items, die Pok\u00E9mon austauschen,\\nindem es sich mit einem Saugnapf am Boden verankert."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Senkt den Angriff der Gegner, indem es sie gleich zu\\nKampfantritt bedroht und einsch\u00FCchtert."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Hindert Gegner an der Flucht beziehungsweise am\\nAuswechseln, indem es ihnen den Weg versperrt."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Angreifer werden durch die raue Haut des Pok\u00E9mon\\nbei direkten Attacken verletzt."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Wundersame Kr\u00E4fte bewirken, dass nur sehr effektive\\nTreffer bei ihm Schaden anrichten."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Verleiht volle Immunit\u00E4t gegen alle Boden-Attacken\\ndurch Schwebezustand."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Wird dieses Pok\u00E9mon durch eine direkte Attacke\\nangegriffen, kann das beim Gegner Paralyse,\\nVergiftung oder Schlaf ausl\u00F6sen."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Erleidet das Pok\u00E9mon Verbrennungen, Vergiftungen\\noder Paralyse, ereilt das jeweilige Statusproblem\\nauch den Verursacher."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Verhindert das Senken der Statuswerte durch Attacken\\nund F\u00E4higkeiten von Angreifern."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon ausgewechselt, werden seine\\nStatusprobleme geheilt."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Zieht Elektro-Attacken an. Statt durch diese Schaden\\nzu nehmen, erh\u00F6ht es den eigenen Spezial-Angriff."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Erh\u00F6ht die Wahrscheinlichkeit, dass Zusatzeffekte von\\nAttacken auftreten."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Regen die Initiative."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Sonnenschein die Initiative."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Erhellt die Umgebung und erh\u00F6ht dadurch die\\nWahrscheinlichkeit, wilden Pok\u00E9mon zu begegnen."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Kopiert bei Kampfantritt die F\u00E4higkeit eines Gegners."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Verdoppelt die St\u00E4rke von physischen Attacken."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Vergiftet den Angreifer bei Ber\u00FChrung eventuell."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Verhindert durch erh\u00F6hte Konzentrationsf\u00E4higkeit\\nZur\u00FCckschrecken."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Dank eines Panzers aus Magma kann dieses Pok\u00E9mon\\nnicht eingefroren werden."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Verhindert durch eine H\u00FClle aus Wasser Verbrennungen."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Hindert Stahl-Pok\u00E9mon durch Magnetismus an der\\nFlucht."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Bietet durch Schalld\u00E4mmung volle Immunit\u00E4t gegen\\nalle L\u00E4rm-Attacken."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Regeneriert bei Regen nach und nach KP."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt Sandst\u00FCrme."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Zwingt Gegner dazu, beim Einsatz von Attacken\\nmehr AP zu verbrauchen."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon wird von einer dicken Fettschicht\\ngesch\u00FCtzt, was den durch Feuer- und Eis-Attacken\\nerlittenen Schaden halbiert."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Wenn es eingeschlafen ist, kann es doppelt so schnell\\nwieder aufwachen wie andere Pok\u00E9mon."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "F\u00FCgt dem Angreifer bei Ber\u00FChrung eventuell\\nVerbrennungen zu."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Die Flucht vor wilden Pok\u00E9mon gelingt immer."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Sein scharfer Blick hindert Angreifer daran,\\nseine Genauigkeit zu senken."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Hindert Angreifer durch m\u00E4chtige Scheren daran,\\nden Angriffs-Wert zu senken."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Hebt gelegentlich von Gegnern benutzte Items auf.\\nDies geschieht nicht nur w\u00E4hrend K\u00E4mpfen, sondern\\nauch unterwegs."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon muss nach Einsatz einer Attacke\\neine Runde lang aussetzen."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Angriffs-Wert, aber senkt die Genauigkeit."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Wird dieses Pok\u00E9mon durch eine direkte Attacke\\nangegriffen, verliebt sich der Gegner eventuell in es."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Spezial-Angriff, wenn das Pok\u00E9mon einen\\nMitstreiter mit der F\u00E4higkeit Plus oder Minus hat."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Spezial-Angriff, wenn das Pok\u00E9mon einen\\nMitstreiter mit der F\u00E4higkeit Plus oder Minus hat."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Nimmt je nach Wetter entweder den Typ Wasser, Feuer\\noder Eis an."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Tr\u00E4gt es ein Item, bleibt dieses an seinem klebrigen\\nK\u00F6rper haften, wodurch Item-Diebstahl verhindert wird."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon befreit sich eventuell von\\nStatusproblemen, indem es seine Haut abstreift."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Bei Statusproblemen setzt es Adrenalin frei und\\nerh\u00F6ht so seinen Angriffs-Wert."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Bei Statusproblemen sch\u00FCtzt es sich mit mysteri\u00F6sen\\nSchuppen und erh\u00F6ht so seine Verteidigung."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Angreifer, die durch Saug-Attacken Kloakenso\u00DFe in\\nsich aufgenommen haben, nehmen durch deren\\nwiderw\u00E4rtigen Gestank Schaden."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Pflanzen-Attacken, wenn die KP\\nauf einen gewissen Wert fallen."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Feuer-Attacken, wenn die KP auf\\neinen gewissen Wert fallen."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Wasser-Attacken, wenn die KP auf\\neinen gewissen Wert fallen."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von K\u00E4fer-Attacken, wenn die KP auf\\neinen gewissen Wert fallen."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Verhindert Schaden, der durch R\u00FCcksto\u00DF entstehen\\nw\u00FCrde."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt glei\u00DFendes Sonnenlicht."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Hindert Gegner im Kampf an der Flucht."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist so munter, dass es nicht\\neinschlafen kann."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Indem es sich mit pulvrigem Rauch umh\u00FCllt, hindert es\\nAngreifer daran, seine Statuswerte zu senken."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Verdoppelt mit reiner Willenskraft die St\u00E4rke seiner\\nphysischen Attacken."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Wehrt gegnerische Volltreffer mit einem harten\\nPanzer ab."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Hebt alle Wetter-Effekte auf."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Ausweichwert, wenn das Pok\u00E9mon\\nverwirrt ist."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Treffer durch Elektro-Attacken verursachen keinen\\nSchaden, sondern geben dem Pok\u00E9mon eine\\nStarthilfe und erh\u00F6hen so seine Initiative."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Greift es einen Rivalen desselben Geschlechts an,\\nwird es st\u00E4rker. Greift es ein Ziel des anderen\\nGeschlechts an, wird es schw\u00E4cher."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Sein eiserner Wille erh\u00F6ht die Initiative, wann immer\\ndas Pok\u00E9mon zur\u00FCckschreckt."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Hagel den Ausweichwert."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Setzt bestimmte Beeren nicht erst in einer Notlage ein,\\nsondern bereits dann, wenn seine KP auf die H\u00E4lfte des\\nMaximalwerts fallen."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Wird nach Einstecken eines Volltreffers w\u00FCtend und\\nmaximiert dabei seinen Angriffs-Wert."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Wenn das von ihm getragene Item verwendet wird\\noder verloren geht, erh\u00F6ht dies seine Initiative."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Sein Hitze abweisender K\u00F6rper halbiert den durch\\nFeuer-Attacken erlittenen Schaden."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Verdoppelt die Wirkung eigener Statusver\u00E4nderungen."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Bei Sonnenschein verliert das Pok\u00E9mon KP und der\\nSchaden durch Feuer-Attacken steigt. Bei Regen und\\nTreffern durch Wasser-Attacken regeneriert es KP."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Ist die Spezial-Verteidigung des Gegners h\u00F6her als\\nseine Verteidigung, wird der eigene Spezial-Angriff\\nerh\u00F6ht. Ist die Verteidigung h\u00F6her, steigt der Angriff."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Hieb-, Punch-, Faust- und\\nSchlag-Attacken."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon erleidet keinen Schaden durch Vergiftung,\\nsondern regeneriert KP."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Attacken, die dem Typ des\\nPok\u00E9mon entsprechen."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Landet mit Serien-Attacken immer die maximale Anzahl\\nan Treffern."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Heilt bei Regen Statusprobleme."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "F\u00FChrt bei Sonnenschein in jeder Runde zu KP-Verlusten,\\nerh\u00F6ht aber den Spezial-Angriff."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Statusproblemen die Initiative."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Alle Attacken des Pok\u00E9mon nehmen den Typ Normal\\nan und ihre St\u00E4rke erh\u00F6ht sich ein wenig."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Volltreffern die St\u00E4rke der Attacke noch\\nweiter."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon nimmt nur durch Offensiv-Attacken\\nSchaden."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Alle Attacken des oder auf das Pok\u00E9mon gelingen\\naufgrund seiner deckungslosen Kampftaktik."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Handelt auch mit Initiative-Vorteil stets als Letztes."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von schw\u00E4cheren Attacken."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Verhindert bei Sonnenschein Statusprobleme."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann keine getragenen Items verwenden."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Attacken k\u00F6nnen ungeachtet der F\u00E4higkeiten des\\nZieles verwendet werden."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Gro\u00DFes Gl\u00FCck erh\u00F6ht die Wahrscheinlichkeit,\\neinen Volltreffer zu landen."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon durch eine direkte Attacke besiegt,\\nf\u00FCgt es dem Angreifer Schaden zu."
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Kann gef\u00E4hrliche gegnerische Attacken erahnen."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Gibt bei Kampfantritt Auskunft \u00FCber eine Attacke aus\\ndem gegnerischen Repertoire."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Greift das Pok\u00E9mon an, ignoriert es s\u00E4mtliche\\nStatusver\u00E4nderungen des Zieles."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Bewirkt, dass nicht sehr effektive Attacken dem Ziel\\ntrotz des Typennachteils normalen Schaden zuf\u00FCgen."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Reduziert die St\u00E4rke von sehr effektiven Attacken und\\nverringert damit den Schaden, den das Pok\u00E9mon durch\\nsie erleidet."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Halbiert f\u00FCnf Runden lang den Angriffs-Wert und die\\nInitiative des Pok\u00E9mon."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Bewirkt, dass Normal- und Kampf-Attacken auch\\nPok\u00E9mon vom Typ Geist treffen k\u00F6nnen."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Zieht Wasser-Attacken an. Statt durch diese Schaden\\nzu nehmen, erh\u00F6ht es den eigenen Spezial-Angriff."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Regeneriert bei Hagel nach und nach KP."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Reduziert die St\u00E4rke von sehr effektiven Attacken und\\nverringert damit den Schaden, den das Pok\u00E9mon durch\\nsie erleidet."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "L\u00F6st bei Kampfantritt Hagel aus."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon sammelt nach K\u00E4mpfen eventuell\\nHonig auf."
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Kann bei Kampfantritt Auskunft \u00FCber das vom Gegner\\ngetragene Item geben."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Attacken mit R\u00FCcksto\u00DFschaden."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon passt seinen Typ dem der getragenen\\nTafel bzw. des getragenen Z-Kristalls an."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Sonnenschein den Angriff und die\\nSpezial-Verteidigung aller Team-Pok\u00E9mon."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "F\u00FCgt schlafenden Gegnern Schaden zu."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Stiehlt das Item des Angreifers bei Ber\u00FChrung."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Attacken, aber hebt daf\u00FCr ihre\\nZusatzeffekte auf."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Statusver\u00E4nderungen werden umgekehrt: Statuswerte,\\ndie eigentlich erh\u00F6ht werden sollten, sinken und\\numgekehrt."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Erzeugt bei Gegnern Stress und hindert sie so daran,\\nBeeren zu konsumieren."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Angriff stark, wenn ein Statuswert\\ngesenkt wurde."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, bekommt es Angst. Dadurch wird die St\u00E4rke\\nseines Angriffs und Spezial-Angriffs halbiert."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Blockiert eventuell die Attacke, mit welcher der\\nAngreifer es getroffen hat."
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Befreit Mitstreiter gelegentlich von Statusproblemen."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Kann den Schaden, den Mitstreiter erleiden, verringern."
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Senkt bei erlittenem Treffer durch eine physische\\nAttacke die Verteidigung des Pok\u00E9mon, aber erh\u00F6ht\\ndaf\u00FCr seine Initiative stark."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Verdoppelt das eigene Gewicht."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Halbiert das eigene Gewicht."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Verringert den erlittenen Schaden bei vollen KP."
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Vergiftungen die St\u00E4rke von physischen\\nAttacken."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Verbrennungen die St\u00E4rke von\\nSpezial-Attacken."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Dieselbe Beere kann mehrmals verwendet werden."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Erkennt und pariert Attacken von Mitstreitern."
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Erh\u00F6ht in jeder Runde aufs Neue einen Statuswert stark\\nund senkt einen anderen."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Nimmt weder durch Wetterlagen wie Sandsturm oder\\nHagel noch durch Pulver oder Puder Schaden."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Kann das Ziel durch blo\u00DFes Ber\u00FChren vergiften."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon ausgewechselt, regeneriert es eine\\nkleine Menge an KP."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Hindert Angreifer daran, die Verteidigung des Pok\u00E9mon\\nzu senken."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Erh\u00F6ht in Sandst\u00FCrmen die Initiative."
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Wehrt mit robustem K\u00F6rper viele Status-Attacken ab."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Greift das Pok\u00E9mon zuletzt an, erh\u00F6ht sich die St\u00E4rke\\nder Attacke, die es einsetzt."
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "F\u00FChrt den Gegner hinters Licht, indem es bei\\nKampfantritt die Gestalt des Pok\u00E9mon an der\\nletzten Stelle im Team annimmt."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "K\u00E4mpft als Kopie seines Gegen\u00FCbers."
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "\u00DCberwindet gegnerische Schilde sowie Delegatoren\\nund greift an."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "\u00DCbertr\u00E4gt bei Ber\u00FChrung die F\u00E4higkeit Mumie auf den\\nAngreifer."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Besiegt es ein Pok\u00E9mon, steigt sein Selbstvertrauen\\nund somit auch sein Angriff."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Wird es von einer Unlicht-Attacke getroffen, meldet\\nsich sein Sinn f\u00FCr Gerechtigkeit zu Wort und sein\\nAngriff steigt."
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Wird es von einer Unlicht-, Geister- oder K\u00E4fer-Attacke\\ngetroffen, bekommt es Angst und seine Initiative steigt."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Lenkt Status-Attacken auf den Angreifer um,\\nohne selbst von ihnen getroffen zu werden."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Wird es von einer Pflanzen-Attacke getroffen, erleidet\\nes keinerlei Schaden und sein Angriff steigt."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Erm\u00F6glicht einen Erstschlag mit Status-Attacken."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Erh\u00F6ht in Sandst\u00FCrmen die St\u00E4rke von Gesteins-,\\nBoden- und Stahl-Attacken."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "F\u00FCgt dem Angreifer bei Ber\u00FChrung mit eisernen Stacheln\\nSchaden zu."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, wechselt es seine Gestalt."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Erh\u00F6ht die Genauigkeit aller Team-Pok\u00E9mon."
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Attacken k\u00F6nnen ungeachtet der F\u00E4higkeit des Zieles\\neingesetzt werden."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Attacken k\u00F6nnen ungeachtet der F\u00E4higkeit des Zieles\\neingesetzt werden."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Kann alle Team-Pok\u00E9mon vor mentalen Angriffen\\nsch\u00FCtzen."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Sch\u00FCtzt Mitstreiter vom Typ Pflanze vor dem Senken\\nihrer Statuswerte sowie vor Statusproblemen."
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Regeneriert beim Konsum von Beeren ungeachtet\\nder Beerensorte KP."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon nimmt bei Einsatz einer Attacke deren\\nTyp an."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Halbiert den Schaden, den das Pok\u00E9mon durch\\nphysische Attacken erleidet."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Trifft das Pok\u00E9mon ein Ziel mit einer Attacke, kann es\\nihm dabei sein Item stehlen."
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Kann das Pok\u00E9mon vor geworfenen kugelf\u00F6rmigen\\nObjekten, wie zum Beispiel Bomben, sch\u00FCtzen."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Spezial-Angriff stark, wenn ein Statuswert\\ngesenkt wurde."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Der kr\u00E4ftige Kiefer des Pok\u00E9mon erh\u00F6ht die St\u00E4rke\\nvon Biss-Attacken."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Attacken vom Typ Normal nehmen den Typ Eis an und\\nihre St\u00E4rke erh\u00F6ht sich ein wenig."
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Alle Team-Pok\u00E9mon k\u00F6nnen nicht einschlafen."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Setzt das Pok\u00E9mon eine Offensiv-Attacke ein, nimmt\\nes die Klingenform an. Setzt es danach die Attacke\\nK\u00F6nigsschild ein, nimmt es die Schildform an."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Kann bei vollen KP einen Erstschlag mit Flug-Attacken\\nerm\u00F6glichen."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke einiger Wellen-, Aura- und\\nPuls-Attacken."
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Erh\u00F6ht die Verteidigung, wenn Grasfeld aktiv ist."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Gibt Mitstreitern, die ihr Item aufgebraucht haben,\\nsein eigenes Item."
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von direkten Attacken."
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Attacken vom Typ Normal nehmen den Typ Fee an und\\nihre St\u00E4rke erh\u00F6ht sich ein wenig."
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Senkt bei Ber\u00FChrung im Zuge eines Angriffs die\\nInitiative des Angreifers."
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Attacken vom Typ Normal nehmen den Typ Flug an und\\nihre St\u00E4rke erh\u00F6ht sich ein wenig."
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Zwei Generationen setzen jeweils ein Mal zum\\nAngriff an."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke aller Attacken des Typs Unlicht."
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke aller Attacken des Typs Fee."
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Kehrt die Wirkung von Auren um und senkt so die\\nSt\u00E4rke bestimmter Attacken, anstatt sie zu erh\u00F6hen."
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "\u00C4ndert das Wetter, um Feuer-Attacken wirkungslos\\nzu machen."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "\u00C4ndert das Wetter, um Wasser-Attacken wirkungslos\\nzu machen."
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "\u00C4ndert das Wetter, um die Schw\u00E4chen des Typs Flug\\nzu beseitigen."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Wird es von einer Attacke getroffen, steigt seine\\nVerteidigung."
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, zieht es sich \u00E4ngstlich zur\u00FCck."
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, bringt es sich in Sicherheit."
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Wird es von einer Wasser-Attacke getroffen, steigt\\nseine Verteidigung stark."
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Sorgt bei Angriffen auf vergiftete Ziele f\u00FCr\\nVolltreffergarantie."
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, zerbricht die Panzerung des Pok\u00E9mon und es\\nwird aggressiver."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Bewirkt bei Angriffen auf neu eingewechselte Ziele\\ndoppelten Schaden."
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Feuer-Attacken f\u00FCgen dem Pok\u00E9mon weniger\\nSchaden zu. Verhindert Verbrennungen."
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Stahl-Attacken."
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Fallen seine KP nach einem Angriff auf die H\u00E4lfte des\\nMaximalwerts oder weniger, steigt sein Spezial-Angriff."
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Hagel die Initiative."
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Erm\u00F6glicht dem Pok\u00E9mon den Einsatz aller seiner\\nAttacken, ohne das Ziel dabei direkt zu ber\u00FChren."
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Bewirkt, dass alle L\u00E4rm-Attacken des Pok\u00E9mon den\\nTyp Wasser annehmen."
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Erm\u00F6glicht einen Erstschlag mit Attacken, welche die\\nKP des Anwenders direkt regenerieren."
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Attacken vom Typ Normal nehmen den Typ Elektro an\\nund ihre St\u00E4rke erh\u00F6ht sich ein wenig."
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Verdoppelt die Initiative, wenn zuvor ein Elektrofeld\\nerzeugt wurde."
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Verf\u00FCgt es \u00FCber einen hohen KP-Wert, wird es zu einem\\nSchwarm und gewinnt an St\u00E4rke. Ist der KP-Wert niedrig,\\nl\u00F6st sich der Schwarm wieder auf."
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Kann ein Mal pro Kampf mit seinem gruseligen Kost\u00FCm\\neinen Angriff abwehren."
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Besiegt es ein Ziel, vertieft dies die Freundschaft zu\\nseinem Trainer, wodurch es die Ash-Form annimmt\\nund sein Wasser-Shuriken st\u00E4rker wird."
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Fallen seine KP auf die H\u00E4lfte des Maximalwerts oder\\nweniger, eilen ihm weitere Zellen zu Hilfe und es\\nnimmt die Optimumform an."
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Kann selbst Pok\u00E9mon vom Typ Stahl oder Gift vergiften."
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon befindet sich ununterbrochen im\\nHalbschlaf und wacht nie vollst\u00E4ndig auf. Es kann\\njedoch im Schlaf angreifen."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Sch\u00FCchtert Gegner ein und hindert sie so daran,\\nErstschlag-Attacken gegen es einzusetzen."
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Wird es durch eine Attacke besiegt, f\u00FCgt es dem\\nAngreifer Schaden in H\u00F6he des KP-Werts zu,\\nden es besa\u00DF, bevor es kampfunf\u00E4hig wurde."
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Kann direkt im Anschluss an die Tanz-Attacke eines\\nanderen Pok\u00E9mon ebenfalls eine solche einsetzen."
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke der Spezial-Attacken seiner\\nMitstreiter."
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Halbiert den Schaden, den es durch direkte Attacken\\nnimmt, aber verdoppelt daf\u00FCr den durch Feuer-Attacken\\nerlittenen Schaden."
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "\u00DCberrascht Gegner und hindert sie so daran,\\nErstschlag-Attacken gegen es einzusetzen."
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Erh\u00F6ht jedes Mal, wenn ein Pok\u00E9mon besiegt wird,\\nden eigenen Spezial-Angriff."
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Senkt bei Ber\u00FChrung im Zuge eines Angriffs die\\nInitiative des Angreifers."
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Wird einer seiner Mitstreiter besiegt, erh\u00E4lt es\\ndessen F\u00E4higkeit."
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Wechselt seine F\u00E4higkeit zu der eines kampfunf\u00E4hig\\ngewordenen Mitstreiters."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Erh\u00F6ht in jeder Runde, in der es ein anderes Pok\u00E9mon\\nbesiegt, seinen h\u00F6chsten Statuswert."
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon passt seinen Typ der getragenen Disc an."
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt ein Elektrofeld."
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt ein Psychofeld."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt ein Nebelfeld."
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Erzeugt bei Kampfantritt ein Grasfeld."
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Verhindert das Senken der Statuswerte durch Attacken\\nund F\u00E4higkeiten von Angreifern."
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Verringert den erlittenen Schaden bei vollen KP."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Reduziert die St\u00E4rke von sehr effektiven Attacken und\\nverringert damit den Schaden, den das Pok\u00E9mon durch\\nsie erleidet."
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von sehr effektiven Attacken."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Kampfantritt den Angriff."
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei Kampfantritt die Verteidigung."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon nimmt bei Einsatz einer Attacke deren\\nTyp an."
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Tr\u00E4gt das Pok\u00E9mon kein Item bei sich, hebt es den Ball\\naus dem ersten gescheiterten Fangversuch des Kampfes\\nwieder auf."
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Wird es von einem Angriff getroffen, verstreut es Teile\\nseines Wollflaums, wodurch die Initiative aller anderen\\nPok\u00E9mon sinkt."
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Ignoriert die Effekte von F\u00E4higkeiten und Attacken\\nanderer Pok\u00E9mon, die Attacken auf sich lenken."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Lenkt ausschlie\u00DFlich Effekte, welche die Statuswerte\\ndes Pok\u00E9mon senken w\u00FCrden, auf den Angreifer um."
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Wenn das Pok\u00E9mon Surfer oder Taucher einsetzt, f\u00E4ngt\\nes sich dabei Beute. Erleidet es anschlie\u00DFend Schaden,\\ngreift es an, indem es die Beute wieder ausspuckt."
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Ignoriert die Effekte von F\u00E4higkeiten und Attacken\\nanderer Pok\u00E9mon, die Attacken auf sich lenken."
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Wird es von einer Wasser- oder Feuer-Attacke\\ngetroffen, steigt seine Initiative drastisch."
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von eigenen L\u00E4rm-Attacken und\\nhalbiert den Schaden, den das Pok\u00E9mon selbst durch\\nL\u00E4rm-Attacken erleidet."
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "L\u00F6st einen Sandsturm aus, wenn das Pok\u00E9mon von einer\\nAttacke erfasst wird."
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Halbiert mithilfe von sch\u00FCtzendem Eisfl\u00FCgelstaub den\\nSchaden, den das Pok\u00E9mon durch Spezial-Attacken\\nerleidet."
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Verdoppelt den Effekt von Beeren, indem es sie\\nheranreifen l\u00E4sst."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Der Eisblock um seinen Kopf blockt eine physische\\nAttacke ab. Dies bewirkt jedoch einen Formwechsel.\\nDurch Hagel wird der Eisblock wiederhergestellt."
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Erh\u00F6ht bei direkt benachbarten Pok\u00E9mon die St\u00E4rke\\nvon Attacken."
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Der Typ des Pok\u00E9mon \u00E4ndert sich in Abh\u00E4ngigkeit vom\\nZustand des Feldes."
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Hebt bei Kampfantritt die Wirkung von Lichtschild,\\nReflektor und Auroraschleier auf Mitstreiter- und\\nGegnerseite auf."
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Stahl-Attacken auf\\nMitstreiterseite."
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Erleidet es einen Treffer von einer direkten Attacke,\\nwird es zusammen mit dem Angreifer nach drei Runden\\nbesiegt. Rettung ist durch Austausch m\u00F6glich."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon von einer direkten Attacke\\ngetroffen, tauscht es seine F\u00E4higkeit mit der des\\nAngreifers."
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Erh\u00F6ht den Angriff, aber nur die zuerst gew\u00E4hlte\\nAttacke kann eingesetzt werden."
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Solange ein Pok\u00E9mon mit der F\u00E4higkeit Reaktionsgas\\nam Kampf beteiligt ist, werden die F\u00E4higkeiten aller\\nanderen Pok\u00E9mon unterdr\u00FCckt oder aufgehoben."
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Sch\u00FCtzt das Pok\u00E9mon und seine Mitstreiter vor\\nVergiftung."
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon \u00E4ndert zum Ende jeder Runde seine\\nForm und wechselt somit zwischen dem Pappsatt- und\\ndem Kohldampfmuster."
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Erm\u00F6glicht dem Pok\u00E9mon gelegentlich den Erstschlag."
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Wenn das Pok\u00E9mon eine direkte Attacke einsetzt,\\ntrifft diese auch dann, wenn sich das Ziel selbst\\nsch\u00FCtzt."
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verspr\u00FCht bei Kampfantritt Arznei aus\\nseiner Muschel, die alle Statusver\u00E4nderungen auf der\\nMitstreiterseite aufhebt."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Elektro-Attacken."
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Erh\u00F6ht die St\u00E4rke von Drachen-Attacken."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Besiegt es ein Pok\u00E9mon, st\u00F6\u00DFt es ein frostiges Wiehern\\naus und erh\u00F6ht damit seinen Angriff."
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Besiegt es ein Pok\u00E9mon, st\u00F6\u00DFt es ein furchteinfl\u00F6\u00DFendes\\nWiehern aus und erh\u00F6ht damit seinen Spezial-Angriff."
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verf\u00FCgt sowohl \u00FCber Coronospas F\u00E4higkeit\\nAnspannung als auch \u00FCber Polaross\u2019 F\u00E4higkeit\\nHelles Wiehern."
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verf\u00FCgt sowohl \u00FCber Coronospas F\u00E4higkeit\\nAnspannung als auch \u00FCber Phantoross\u2019 F\u00E4higkeit\\nDunkles Wiehern."
+  }
+]

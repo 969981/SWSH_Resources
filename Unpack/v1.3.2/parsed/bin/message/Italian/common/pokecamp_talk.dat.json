@@ -1,0 +1,802 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha una gran voglia\\ndi giocare con te!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha un grande bisogno\\nd\u2019attenzioni!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare di pi\u00F9 con te!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole ricevere pi\u00F9 attenzioni!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare di nuovo con te!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha ancora un sacco di energie!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra mostrare una certa\\ncuriosit\u00E0 per il cibo..."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] abbia fame."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare con\\naltri Pok\u00E9mon!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si guarda intorno\\ncon circospezione..."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha l\u2019aria irrequieta."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra un po\u2019 titubante..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha l\u2019aria tesa..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] non abbia granch\u00E9\\nvoglia di muoversi..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha una voglia matta di giocare!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se la sta proprio spassando\\nin campeggio!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non vede l\u2019ora di mangiare!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] abbia\\nun po\u2019 fame..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare\\ncon una Pok\u00E9 Ball!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare\\ncon il Pok\u00E9gingillo!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] muore dalla voglia di giocare!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole mangiare qualcosa\\ndi gustoso!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] sia felice!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha un sacco di energie!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non si stanca mai di giocare!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole mangiare a pi\u00F9\\nnon posso!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha un po\u2019 sonno..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha paura di [VAR 0102(0001)]!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha paura di [VAR 0100(0003)]!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] guardi\\n[VAR 0102(0001)] con timore..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] guardi\\n[VAR 0100(0003)] con timore..."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non sembra provare molto\\ninteresse per [VAR 0102(0001)]!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non sembra provare molto\\ninteresse per [VAR 0100(0003)]!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] non capisca\\n[VAR 0102(0001)]!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] non capisca\\n[VAR 0100(0003)]!"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra pensare che\\n[VAR 0102(0001)] si comporta in modo strano..."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra pensare che\\n[VAR 0100(0003)] si comporta in modo strano..."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] guardi\\n[VAR 0102(0001)] con aria incuriosita..."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] guardi\\n[VAR 0100(0003)] con aria incuriosita..."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole fare amicizia con\\n[VAR 0102(0001)]!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole fare amicizia con\\n[VAR 0100(0003)]!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare con\\n[VAR 0102(0001)]!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare con\\n[VAR 0100(0003)]!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] pensa che [VAR 0102(0001)]\\nsia un mito!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] pensa che [VAR 0100(0003)]\\nsia un mito!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] pensa che [VAR 0102(0001)]\\nsia divertente!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] pensa che [VAR 0100(0003)]\\nsia divertente!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Sembra che ci sia una forte amicizia\\ntra [VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Sembra che ci sia una forte amicizia\\ntra [VAR 0102(0000)] [VAR 150C(0003,0001)][VAR 0100(0003)]!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] adora [VAR 0102(0001)]!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] adora [VAR 0100(0003)]!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] sono\\ninseparabili!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0003,0001)][VAR 0100(0003)] sono\\ninseparabili!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha una gran voglia\\ndi giocare con te!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha un grande bisogno\\nd\u2019attenzioni!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare di pi\u00F9!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole ricevere pi\u00F9 attenzioni!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare di nuovo con te!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha ancora un sacco di energie!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si sta divertendo un sacco!"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 di ottimo umore!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di aver giocato\\ncos\u00EC tanto!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se l\u2019\u00E8 proprio spassata!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha giocato tantissimo.\\nChe soddisfazione!"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sente un certo languorino..."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra mostrare una certa\\ncuriosit\u00E0 per il cibo..."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha una fame da Lycanroc!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha l\u2019aria di non trovarti molto\\nsimpatic[VAR 1100(00FF,0101)]oa..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non sembra molto entusiasta\\ndi te..."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra in apprensione\\nper qualcosa..."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vorrebbe andarsene lontano..."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra pensare molto a te..."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si annoia un po\u2019..."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vorrebbe visitare tanti\\nluoghi diversi!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] ti abbia preso\\nin simpatia!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si sta divertendo un mondo!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 sempre di buon umore\\nquando sta con te!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole stare sempre con te!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Sembra che tu piaccia un sacco\\na [VAR 0102(0000)]!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra davvero felice!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non sembra molto entusiasta\\ndi [VAR 0100(0002)]..."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] non abbia molta\\nsimpatia per [VAR 0100(0002)]..."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Sembra che [VAR 0100(0002)] guardi\\n[VAR 0102(0000)] con un certo nervosismo..."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha l\u2019aria di non capire bene\\n[VAR 0100(0002)]..."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vorrebbe rafforzare\\nil suo legame con [VAR 0100(0002)]..."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra pensare molto\\na [VAR 0100(0002)]..."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare\\ncon [VAR 0100(0002)]!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vorrebbe visitare tanti\\nluoghi diversi assieme a [VAR 0100(0002)]!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "C\u2019\u00E8 una solida amicizia tra [VAR 0102(0000)]\\ne [VAR 0100(0002)]!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole stare sempre\\ncon [VAR 0100(0002)]!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si fida di [VAR 0100(0002)]!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Sembra che a [VAR 0102(0000)] piaccia un sacco\\n[VAR 0100(0002)]!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di stare\\ncon [VAR 0100(0002)]!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Grazie all\u2019atmosfera tranquilla, ora\\n[VAR 0102(0000)] ha un sacco di energie!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "L\u2019umidit\u00E0 dell\u2019aria mette [VAR 0102(0000)]\\ndi buon umore!"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Ora [VAR 0102(0000)] ha un sacco di energie\\ngrazie alla pioggia!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra felice di stare\\nnella neve!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Il tepore dell\u2019aria mette [VAR 0102(0000)]\\ndi buon umore!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si diverte un mondo\\nnella tempesta di sabbia!"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di stare in mezzo\\nalla nebbia!"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si sente a proprio agio\\nnell\u2019oscurit\u00E0!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare con altri\\nPok\u00E9mon!"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] vuole giocare con altri\\nPok\u00E9mon!"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] vogliono\\ngiocare con altri Pok\u00E9mon!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] non si\\ncapiscono molto..."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] [VAR 150C(0000,0001)][VAR 0102(0000)] non si\\ncapiscono granch\u00E9..."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)]\\n[VAR 150C(0001,0001)][VAR 0102(0001)] non siano in armonia..."
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] non sanno\\ncosa fare..."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] non vanno\\nmolto d\u2019accordo..."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]\\nnon provino un grande interesse reciproco."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] stanno\\niniziando a conoscersi..."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] sembrano\\nun po\u2019 in tensione..."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] guarda [VAR 0102(0001)]\\ncon aria leggermente incuriosita..."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole giocare un po\u2019\\ncon [VAR 0102(0001)]!"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] guarda [VAR 0102(0001)]\\ncon una certa curiosit\u00E0..."
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "A [VAR 0102(0001)] piacerebbe giocare un po\u2019\\ncon [VAR 0102(0000)]!"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]\\nsi guardano con reciproca curiosit\u00E0."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra andare un po\u2019 pi\u00F9\\nd\u2019accordo con [VAR 0102(0001)]!"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] vanno\\nd\u2019amore e d\u2019accordo!"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Tra [VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]\\nc\u2019\u00E8 una certa complicit\u00E0."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] vogliono\\ngiocare assieme."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra guardare\\n[VAR 0102(0001)] con grande interesse."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] ha una voglia matta di giocare\\ncon [VAR 0102(0000)]!"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] [VAR 150C(0000,0001)][VAR 0102(0000)] sembrano\\nabbastanza interessati l\u2019uno all\u2019altro."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha fatto amicizia\\ncon [VAR 0102(0001)]!"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si diverte un sacco quando\\n\u00E8 insieme a [VAR 0102(0001)]!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Tra [VAR 0102(0000)] e [VAR 0102(0001)]\\nc\u2019\u00E8 una gran fiducia!"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)] vanno\\nd\u2019accordissimo!"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Non si sono mai visti due Pok\u00E9mon tanto affiatati\\ncome [VAR 0102(0000)] [VAR 150C(0001,0001)][VAR 0102(0001)]!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di avere cos\u00EC\\ntanti amici!"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di trovarsi in un posto\\nnuovo!"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice di essere in un luogo\\nche conosce e si rilassa!"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha la pancia piena ed \u00E8\\nperfettamente felice!"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha ancora sonno..."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 012E(0002)] Guarda [VAR 0102(0000)]!\\n\u00C8 proprio [VAR 012E(0003)]!"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 012E(0002)] Hai visto [VAR 0102(0001)]?\\n\u00C8 proprio [VAR 012E(0003)], vero?"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 012E(0002)]\\n[VAR 0102(0001)] ha una natura [VAR 0108(0005)]!"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 012E(0002)] Sai che ti dico di [VAR 0102(0001)]?\\n[VAR 012E(0004)]"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] ha giocato tantissimo!\\nChe soddisfazione!"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sta per addormentarsi..."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha fatto un pisolino e ora\\nsta molto meglio!"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 felice perch\u00E9 ha fatto\\nun bel sogno!"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] vuole dormire di pi\u00F9..."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sta all\u2019erta!"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sta cercando altri Pok\u00E9mon."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 in apprensione per il tempo..."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sprizza energia da tutti i pori!"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] si gode il relax."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] dorme della grossa!"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] avverte un forte legame\\nfra di voi!"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ti considera [VAR 1100(00FF,0F0F)]il suo compagnola sua compagna\\nd\u2019avventura!"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Mh...? [VAR 0102(0000)] vuole darti qualcosa!"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Ricevi [VAR 1502(0002,0000)][VAR 0109(0002)]\\nda [VAR 0102(0000)]!"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Grazie, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Vuoi aggiungere questa persona alla lista\\ndegli utenti bloccati?"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ci vede pi\u00F9 dalla fame..."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sembra aver voglia di un buon\\ncurry..."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non vuole mollare la palla."
+  }
+]

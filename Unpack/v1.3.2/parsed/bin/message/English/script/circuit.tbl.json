@@ -1,0 +1,297 @@
+[
+  {
+    "index": 0,
+    "hash": "CE67E6E68FEB7270",
+    "name": "msg_circuit_01"
+  },
+  {
+    "index": 1,
+    "hash": "CE67E9E68FEB7789",
+    "name": "msg_circuit_02"
+  },
+  {
+    "index": 2,
+    "hash": "CE67E8E68FEB75D6",
+    "name": "msg_circuit_03"
+  },
+  {
+    "index": 3,
+    "hash": "78967FB981AC428F",
+    "name": "msg_circuit_select_01"
+  },
+  {
+    "index": 4,
+    "hash": "789680B981AC4442",
+    "name": "msg_circuit_select_02"
+  },
+  {
+    "index": 5,
+    "hash": "789681B981AC45F5",
+    "name": "msg_circuit_select_03"
+  },
+  {
+    "index": 6,
+    "hash": "78967AB981AC3A10",
+    "name": "msg_circuit_select_04"
+  },
+  {
+    "index": 7,
+    "hash": "78967BB981AC3BC3",
+    "name": "msg_circuit_select_05"
+  },
+  {
+    "index": 8,
+    "hash": "CE67EBE68FEB7AEF",
+    "name": "msg_circuit_04"
+  },
+  {
+    "index": 9,
+    "hash": "CE67EAE68FEB793C",
+    "name": "msg_circuit_05"
+  },
+  {
+    "index": 10,
+    "hash": "1239806F0F4BA007",
+    "name": "msg_circuit_select_color_01"
+  },
+  {
+    "index": 11,
+    "hash": "1239816F0F4BA1BA",
+    "name": "msg_circuit_select_color_02"
+  },
+  {
+    "index": 12,
+    "hash": "1239826F0F4BA36D",
+    "name": "msg_circuit_select_color_03"
+  },
+  {
+    "index": 13,
+    "hash": "12397B6F0F4B9788",
+    "name": "msg_circuit_select_color_04"
+  },
+  {
+    "index": 14,
+    "hash": "D3475DC02AE2270F",
+    "name": "msg_circuit_color_change_01"
+  },
+  {
+    "index": 15,
+    "hash": "D3475EC02AE228C2",
+    "name": "msg_circuit_color_change_02"
+  },
+  {
+    "index": 16,
+    "hash": "D3475FC02AE22A75",
+    "name": "msg_circuit_color_change_03"
+  },
+  {
+    "index": 17,
+    "hash": "D34758C02AE21E90",
+    "name": "msg_circuit_color_change_04"
+  },
+  {
+    "index": 18,
+    "hash": "D34759C02AE22043",
+    "name": "msg_circuit_color_change_05"
+  },
+  {
+    "index": 19,
+    "hash": "897994B603344FC9",
+    "name": "msg_circuit_select_color_end"
+  },
+  {
+    "index": 20,
+    "hash": "080B9609A589B3EB",
+    "name": "msg_circuit_color_change"
+  },
+  {
+    "index": 21,
+    "hash": "D3475AC02AE221F6",
+    "name": "msg_circuit_color_change_06"
+  },
+  {
+    "index": 22,
+    "hash": "CE67EDE68FEB7E55",
+    "name": "msg_circuit_06"
+  },
+  {
+    "index": 23,
+    "hash": "57EE4B4DC6190365",
+    "name": "msg_circuit_select_course_01"
+  },
+  {
+    "index": 24,
+    "hash": "57EE484DC618FE4C",
+    "name": "msg_circuit_select_course_02"
+  },
+  {
+    "index": 25,
+    "hash": "57EE494DC618FFFF",
+    "name": "msg_circuit_select_course_03"
+  },
+  {
+    "index": 26,
+    "hash": "57EE464DC618FAE6",
+    "name": "msg_circuit_select_course_04"
+  },
+  {
+    "index": 27,
+    "hash": "57EE474DC618FC99",
+    "name": "msg_circuit_select_course_05"
+  },
+  {
+    "index": 28,
+    "hash": "57EE454DC618F933",
+    "name": "msg_circuit_select_course_07"
+  },
+  {
+    "index": 29,
+    "hash": "57EE444DC618F780",
+    "name": "msg_circuit_select_course_06"
+  },
+  {
+    "index": 30,
+    "hash": "F98E13262CC674CF",
+    "name": "msg_circuit_select_course_end"
+  },
+  {
+    "index": 31,
+    "hash": "CE67ECE68FEB7CA2",
+    "name": "msg_circuit_07"
+  },
+  {
+    "index": 32,
+    "hash": "E7548E71F649F025",
+    "name": "msg_circuit_start_01"
+  },
+  {
+    "index": 33,
+    "hash": "55F9E49BCBE0E966",
+    "name": "msg_circuit_goal_01"
+  },
+  {
+    "index": 34,
+    "hash": "C61AA6B4537A96BE",
+    "name": "msg_circuit_goalscore"
+  },
+  {
+    "index": 35,
+    "hash": "BEB9E96A3E39956E",
+    "name": "msg_circuit_reward_01"
+  },
+  {
+    "index": 36,
+    "hash": "BEB9E86A3E3993BB",
+    "name": "msg_circuit_reward_02"
+  },
+  {
+    "index": 37,
+    "hash": "BEB9E76A3E399208",
+    "name": "msg_circuit_reward_03"
+  },
+  {
+    "index": 38,
+    "hash": "BEB9EE6A3E399DED",
+    "name": "msg_circuit_reward_04"
+  },
+  {
+    "index": 39,
+    "hash": "BEB9ED6A3E399C3A",
+    "name": "msg_circuit_reward_05"
+  },
+  {
+    "index": 40,
+    "hash": "089A21802493C905",
+    "name": "msg_circuit_score_update_01"
+  },
+  {
+    "index": 41,
+    "hash": "D29F241D6AB29E9A",
+    "name": "msg_circuit_itemget_01"
+  },
+  {
+    "index": 42,
+    "hash": "E698DEF524A639AF",
+    "name": "msg_circuit_watmget_02"
+  },
+  {
+    "index": 43,
+    "hash": "CE67EFE68FEB81BB",
+    "name": "msg_circuit_08"
+  },
+  {
+    "index": 44,
+    "hash": "E5C22B98884B7C5D",
+    "name": "msg_circuit_retire_select_01"
+  },
+  {
+    "index": 45,
+    "hash": "E5C22898884B7744",
+    "name": "msg_circuit_retire_select_02"
+  },
+  {
+    "index": 46,
+    "hash": "CE67EEE68FEB8008",
+    "name": "msg_circuit_09"
+  },
+  {
+    "index": 47,
+    "hash": "CE6481E68FE890FA",
+    "name": "msg_circuit_10"
+  },
+  {
+    "index": 48,
+    "hash": "BEB9EC6A3E399A87",
+    "name": "msg_circuit_reward_06"
+  },
+  {
+    "index": 49,
+    "hash": "BEB9EB6A3E3998D4",
+    "name": "msg_circuit_reward_07"
+  },
+  {
+    "index": 50,
+    "hash": "BEB9E26A3E398989",
+    "name": "msg_circuit_reward_08"
+  },
+  {
+    "index": 51,
+    "hash": "AD12FE7E00DC96A8",
+    "name": "msg_circuit_strength_01"
+  },
+  {
+    "index": 52,
+    "hash": "AD13017E00DC9BC1",
+    "name": "msg_circuit_strength_02"
+  },
+  {
+    "index": 53,
+    "hash": "AD13007E00DC9A0E",
+    "name": "msg_circuit_strength_03"
+  },
+  {
+    "index": 54,
+    "hash": "AD13037E00DC9F27",
+    "name": "msg_circuit_strength_04"
+  },
+  {
+    "index": 55,
+    "hash": "AD13027E00DC9D74",
+    "name": "msg_circuit_strength_05"
+  },
+  {
+    "index": 56,
+    "hash": "AD13057E00DCA28D",
+    "name": "msg_circuit_strength_06"
+  },
+  {
+    "index": 57,
+    "hash": "AD13047E00DCA0DA",
+    "name": "msg_circuit_strength_07"
+  },
+  {
+    "index": 58,
+    "hash": "196E46C75F29DBC3",
+    "name": "msg_circuit_max"
+  }
+]

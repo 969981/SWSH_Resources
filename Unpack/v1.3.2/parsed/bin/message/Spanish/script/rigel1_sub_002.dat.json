@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Hola! \u00BFQuieres darle un poco de deliciosa\\nMaxisopa a alguno de tus Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1S\u00ED!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00BFTe puedo hacer una pregunta?"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Ahora no"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres que te cuente sobre la Maxisopa?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00BFAlguna otra duda?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 efectos tiene?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon pueden tomarla?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "No, nada"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 Pok\u00E9mon quieres darle Maxisopa?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Si le das Maxisopa a un Pok\u00E9mon con cierto\\npotencial, se volver\u00E1 capaz de gigamaxizarse,\\r\\nque es un tipo especial de fen\u00F3meno Dinamax.\\c\\nEn cambio, si se la toma un Pok\u00E9mon que ya\\ntenga esa capacidad, la perder\u00E1 y solo podr\u00E1\\r\\ndinamaxizarse."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Pueden tomarla los Pok\u00E9mon que alberguen en\\nsu interior el potencial de gigamaxizarse...\\c\\nLo siento, pero, si quieres m\u00E1s detalles, tendr\u00E1s\\nque consultar los libros del estante."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Cuando [VAR 0101(0001)] se tome la Maxisopa,\\nadquirir\u00E1 la capacidad de gigamaxizarse."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Cuando [VAR 0101(0001)] se tome la Maxisopa,\\nperder\u00E1 la capacidad de gigamaxizarse."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00BFQuieres que prepare Maxisopa con tres\\nMaxisetas?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00BFQuieres que prepare Maxisopa con tres\\nMaxisetas y un Maxipanal?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1Vale!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Mejor no"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u00BFAl final no te apetece? \u00A1Pues hasta la pr\u00F3xima!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "No tienes suficientes Maxisetas. Se necesitan tres\\npara preparar una Maxisopa.\\c\\nPuedes encontrarlas en el bosque y las cuevas\\nde la Isla de la Armadura, donde crecen gracias\\r\\na las part\u00EDculas liberadas en las Incursiones\\r\\nDinamax."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1Fuu, fuu!"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Urshifu le hace ascos a la sopa porque le\\ndesagrada el sabor...\\c\\nA saber qu\u00E9 es lo que no le gusta, porque\\npotencial para gigamaxizarse s\u00ED que tiene..."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Como no a\u00F1adamos un Maxipanal a la sopa,\\nUrshifu no se la tomar\u00E1.\\c\\n\u00A1Tr\u00E1eme tres Maxisetas y un Maxipanal!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Preparo una Maxisopa por persona al d\u00EDa como\\nm\u00E1ximo. Se lo promet\u00ED a la Patrona."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1Ahora [VAR 0102(0001)] puede gigamaxizarse!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1Ahora [VAR 0102(0001)] puede dinamaxizarse!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Lista de Pok\u00E9mon con potencial para\\ngigamaxizarse y aptos para tomar Maxisopa..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Venusaur, Charizard, Blastoise, Rillaboom,\\nCinderace, Inteleon, Butterfree, Pikachu,\\nMeowth, Machamp, Gengar, Lapras, Eevee,\\nSnorlax, Garbodor..."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Drednaw, Corviknight, Toxtricity, Alcremie,\\nDuraludon, Orbeetle, Coalossal, Sandaconda,\\nGrimmsnarl, Flapple, Appletun, Hatterene,\\nCopperajah, Kingler, Centiskorch..."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Y por \u00FAltimo, pero no menos importante, el\\nsecreto mejor guardado del Dojo Maestro...\\n\u00A1Vaya, este libro est\u00E1 sin terminar!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Y por \u00FAltimo, pero no menos importante, el\\nsecreto mejor guardado del Dojo Maestro...\\n\u00A1Urshifu!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00A1Hay una hilera de libros de recetas!"
+  }
+]

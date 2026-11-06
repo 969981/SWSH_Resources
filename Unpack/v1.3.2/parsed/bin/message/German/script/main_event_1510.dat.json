@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ah, da bist du ja! Wir haben dich bereits\\nerwartet, [VAR 0100(0000)].\\c\\nNun, da der Champ-Cup bald beginnt, werde ich\\ndir kurz erkl\u00E4ren, was dich erwartet.\\c\\nDie Veranstaltung ist in drei Teile untergliedert\\nund beginnt mit dem sogenannten Vorturnier.\\c\\nAm Vorturnier nehmen alle Trainer teil, die\\ndie Arena-Challenge bestanden haben.\\c\\nDer Sieger des Vorturniers r\u00FCckt automatisch zum\\nFinalturnier vor, bei dem neben ihm die sieben\\r\\nrangh\u00F6chsten Arenaleiter Galars mitmischen.\\c\\nWer aus dem Finalturnier als Sieger hervorgeht,\\ndarf zum kr\u00F6nenden Abschluss den Champ\\r\\nherausfordern.\\c\\nDieser entscheidende Kampf wird auch als\\nChamp-Match bezeichnet."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Dein Match f\u00E4ngt in K\u00FCrze an.\\nBitte begib dich jetzt auf den Kampfplatz."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dein Gegner wartet bereits auf dem Kampfplatz\\nauf dich."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Oh, hey! Du hier?\\nDann mal viel Gl\u00FCck und so...\\c\\nAber Gl\u00FCck hilft dir gegen Miss Mary auch nicht.\\nDu hast eh schon so gut wie verloren![VAR 0114(0043)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Team Yell steht geschlossen hinter Miss Mary.\\nWir sind ihre gr\u00F6\u00DFten Fans! OL\u00C9, OL\u00C9, OL\u00C9! \u266A[VAR 0114(0044)]"
+  }
+]

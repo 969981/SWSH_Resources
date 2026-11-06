@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Draco-M\u00E9t\u00E9ore, c\u2019est la plus puissante\\ndes capacit\u00E9s de type Dragon\u202F!\\c\\nVeux-tu que j\u2019enseigne cette technique\\n\u00E0 un de tes Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "C\u2019est ton choix, et je le respecte. Une capacit\u00E9\\naussi puissante n\u2019est pas facile \u00E0 ma\u00EEtriser\u202F!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Ce Pok\u00E9mon pourrait sans doute apprendre\\ncette capacit\u00E9 formidable, mais j\u2019ai bien peur\\r\\nqu\u2019il ne se soit pas encore suffisamment\\r\\nli\u00E9 d\u2019amiti\u00E9 avec toi..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Navr\u00E9, mais [VAR 1101(00FD,1C17)]ton Pok\u00E9mon ne peut pasaucun de tes Pok\u00E9mon ne peut\\napprendre cette technique\u202F!\\c\\nReviens me voir lorsque tu auras\\nun Pok\u00E9mon ad\u00E9quat\u202F!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Tr\u00E8s bien.\\nChoisis celui qui devra apprendre ma capacit\u00E9\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "D\u00E9sol\u00E9, mais ce Pok\u00E9mon ne peut pas apprendre\\ncette capacit\u00E9\u202F!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "C\u2019est un \u0152uf...\\nJe ne peux pas lui apprendre de capacit\u00E9."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ce Pok\u00E9mon conna\u00EEt d\u00E9j\u00E0 Draco-M\u00E9t\u00E9ore..."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Draco-M\u00E9t\u00E9ore est certes la plus puissante\\ndes attaques de type Dragon, mais sache que\\r\\nl\u2019Attaque Sp\u00E9ciale de ton Pok\u00E9mon baissera\\r\\nbeaucoup apr\u00E8s chaque utilisation\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Choisissez une capacit\u00E9 \u00E0 oublier pour\\nfaire place \u00E0 [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Quelle capacit\u00E9 doit-il oublier\u202F?"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "index": 0,
+    "hash": "5CE58314F57EAD71",
+    "name": "msg_ui_rental_team_trainername"
+  },
+  {
+    "index": 1,
+    "hash": "716FDCE35D30A02F",
+    "name": "msg_ui_rental_team_pokename"
+  },
+  {
+    "index": 2,
+    "hash": "10255D7F5BC3286F",
+    "name": "msg_ui_rental_team_lv"
+  },
+  {
+    "index": 3,
+    "hash": "2B25DE31A07E66D7",
+    "name": "msg_ui_rental_team_wazaname"
+  },
+  {
+    "index": 4,
+    "hash": "7F6A0367A578C408",
+    "name": "msg_ui_rental_team_tokusei_00"
+  },
+  {
+    "index": 5,
+    "hash": "7F6A0467A578C5BB",
+    "name": "msg_ui_rental_team_tokusei_01"
+  },
+  {
+    "index": 6,
+    "hash": "D570B325D9EDE6CB",
+    "name": "msg_ui_rental_team_item_00"
+  },
+  {
+    "index": 7,
+    "hash": "D570B225D9EDE518",
+    "name": "msg_ui_rental_team_item_01"
+  },
+  {
+    "index": 8,
+    "hash": "1F4CB8D3AA8DFDA2",
+    "name": "msg_ui_rental_team_teamid_00"
+  },
+  {
+    "index": 9,
+    "hash": "1F4CB9D3AA8DFF55",
+    "name": "msg_ui_rental_team_teamid_01"
+  },
+  {
+    "index": 10,
+    "hash": "434F1F97415BFBD0",
+    "name": "msg_ui_rental_team_teamname_00"
+  },
+  {
+    "index": 11,
+    "hash": "434F2097415BFD83",
+    "name": "msg_ui_rental_team_teamname_01"
+  },
+  {
+    "index": 12,
+    "hash": "434F2197415BFF36",
+    "name": "msg_ui_rental_team_teamname_02"
+  },
+  {
+    "index": 13,
+    "hash": "AC04E5CBB5813C05",
+    "name": "msg_ui_rental_team_hierarchy_00"
+  },
+  {
+    "index": 14,
+    "hash": "AC04E4CBB5813A52",
+    "name": "msg_ui_rental_team_hierarchy_01"
+  },
+  {
+    "index": 15,
+    "hash": "AC04E3CBB581389F",
+    "name": "msg_ui_rental_team_hierarchy_02"
+  },
+  {
+    "index": 16,
+    "hash": "0A26BFBA1B557D91",
+    "name": "msg_ui_rental_team_teamselect_00"
+  },
+  {
+    "index": 17,
+    "hash": "0A26BEBA1B557BDE",
+    "name": "msg_ui_rental_team_teamselect_01"
+  },
+  {
+    "index": 18,
+    "hash": "0A26BDBA1B557A2B",
+    "name": "msg_ui_rental_team_teamselect_02"
+  },
+  {
+    "index": 19,
+    "hash": "0A26BCBA1B557878",
+    "name": "msg_ui_rental_team_teamselect_03"
+  },
+  {
+    "index": 20,
+    "hash": "0A26C3BA1B55845D",
+    "name": "msg_ui_rental_team_teamselect_04"
+  },
+  {
+    "index": 21,
+    "hash": "0A26C2BA1B5582AA",
+    "name": "msg_ui_rental_team_teamselect_05"
+  },
+  {
+    "index": 22,
+    "hash": "0A26C1BA1B5580F7",
+    "name": "msg_ui_rental_team_teamselect_06"
+  },
+  {
+    "index": 23,
+    "hash": "0A26C0BA1B557F44",
+    "name": "msg_ui_rental_team_teamselect_07"
+  },
+  {
+    "index": 24,
+    "hash": "0A26B7BA1B556FF9",
+    "name": "msg_ui_rental_team_teamselect_08"
+  },
+  {
+    "index": 25,
+    "hash": "0A26B6BA1B556E46",
+    "name": "msg_ui_rental_team_teamselect_09"
+  },
+  {
+    "index": 26,
+    "hash": "0A2339BA1B526408",
+    "name": "msg_ui_rental_team_teamselect_10"
+  },
+  {
+    "index": 27,
+    "hash": "0A233ABA1B5265BB",
+    "name": "msg_ui_rental_team_teamselect_11"
+  },
+  {
+    "index": 28,
+    "hash": "0A233BBA1B52676E",
+    "name": "msg_ui_rental_team_teamselect_12"
+  },
+  {
+    "index": 29,
+    "hash": "0A233CBA1B526921",
+    "name": "msg_ui_rental_team_teamselect_13"
+  },
+  {
+    "index": 30,
+    "hash": "0A233DBA1B526AD4",
+    "name": "msg_ui_rental_team_teamselect_14"
+  },
+  {
+    "index": 31,
+    "hash": "0A233EBA1B526C87",
+    "name": "msg_ui_rental_team_teamselect_15"
+  },
+  {
+    "index": 32,
+    "hash": "0A233FBA1B526E3A",
+    "name": "msg_ui_rental_team_teamselect_16"
+  },
+  {
+    "index": 33,
+    "hash": "0A2340BA1B526FED",
+    "name": "msg_ui_rental_team_teamselect_17"
+  },
+  {
+    "index": 34,
+    "hash": "0A2331BA1B525670",
+    "name": "msg_ui_rental_team_teamselect_18"
+  },
+  {
+    "index": 35,
+    "hash": "0A2332BA1B525823",
+    "name": "msg_ui_rental_team_teamselect_19"
+  },
+  {
+    "index": 36,
+    "hash": "0A2DABBA1B5B7A43",
+    "name": "msg_ui_rental_team_teamselect_20"
+  },
+  {
+    "index": 37,
+    "hash": "0A2DAABA1B5B7890",
+    "name": "msg_ui_rental_team_teamselect_21"
+  },
+  {
+    "index": 38,
+    "hash": "0A2DADBA1B5B7DA9",
+    "name": "msg_ui_rental_team_teamselect_22"
+  },
+  {
+    "index": 39,
+    "hash": "5BC321FA6F7522A1",
+    "name": "msg_ui_rental_team_teamlist_00"
+  },
+  {
+    "index": 40,
+    "hash": "5BC320FA6F7520EE",
+    "name": "msg_ui_rental_team_teamlist_01"
+  },
+  {
+    "index": 41,
+    "hash": "5BC31FFA6F751F3B",
+    "name": "msg_ui_rental_team_teamlist_02"
+  },
+  {
+    "index": 42,
+    "hash": "5BC31EFA6F751D88",
+    "name": "msg_ui_rental_team_teamlist_03"
+  },
+  {
+    "index": 43,
+    "hash": "5BC325FA6F75296D",
+    "name": "msg_ui_rental_team_teamlist_04"
+  },
+  {
+    "index": 44,
+    "hash": "5BC324FA6F7527BA",
+    "name": "msg_ui_rental_team_teamlist_05"
+  },
+  {
+    "index": 45,
+    "hash": "5BC323FA6F752607",
+    "name": "msg_ui_rental_team_teamlist_06"
+  },
+  {
+    "index": 46,
+    "hash": "5BC322FA6F752454",
+    "name": "msg_ui_rental_team_teamlist_07"
+  },
+  {
+    "index": 47,
+    "hash": "5BC319FA6F751509",
+    "name": "msg_ui_rental_team_teamlist_08"
+  },
+  {
+    "index": 48,
+    "hash": "5BC318FA6F751356",
+    "name": "msg_ui_rental_team_teamlist_09"
+  },
+  {
+    "index": 49,
+    "hash": "5BBF9BFA6F720918",
+    "name": "msg_ui_rental_team_teamlist_10"
+  },
+  {
+    "index": 50,
+    "hash": "C7F08E1EB8D730D1",
+    "name": "msg_ui_rental_team_option_00"
+  },
+  {
+    "index": 51,
+    "hash": "C7F08D1EB8D72F1E",
+    "name": "msg_ui_rental_team_option_01"
+  },
+  {
+    "index": 52,
+    "hash": "C7F08C1EB8D72D6B",
+    "name": "msg_ui_rental_team_option_02"
+  },
+  {
+    "index": 53,
+    "hash": "722EB6186A576452",
+    "name": "msg_ui_rental_team_error_00"
+  },
+  {
+    "index": 54,
+    "hash": "722EB7186A576605",
+    "name": "msg_ui_rental_team_error_01"
+  },
+  {
+    "index": 55,
+    "hash": "5BBF9CFA6F720ACB",
+    "name": "msg_ui_rental_team_teamlist_11"
+  },
+  {
+    "index": 56,
+    "hash": "D21F275DEE4C788A",
+    "name": "msg_rental_team_max"
+  }
+]

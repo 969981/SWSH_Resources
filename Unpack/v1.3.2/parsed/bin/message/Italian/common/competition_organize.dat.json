@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Immetti le informazioni."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Conferma"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 3,
+    "flags": 8,
+    "text": "Scegli la data della gara."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Immetti il giorno e l\u2019ora d\u2019inizio."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Immetti il giorno e l\u2019ora di conclusione."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Immetti il numero di lotte che si possono affrontare."
+  },
+  {
+    "index": 7,
+    "flags": 8,
+    "text": "Scegli le regole riguardanti i limiti di tempo."
+  },
+  {
+    "index": 8,
+    "flags": 8,
+    "text": "Scarica"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Non scaricare"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Tutti"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Solo chi possiede l\u2019ID"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vuoi scaricare le regole della lotta aggiuntive?"
+  },
+  {
+    "index": 16,
+    "flags": 8,
+    "text": "Stabilisci chi pu\u00F2 partecipare alla gara."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vuoi dare un nome aggiuntivo alla gara?"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Impostazioni della gara"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Nome della gara"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Regole"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Lotta in Singolo"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Lotta in Doppio"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Torre Lotta"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Senza restrizioni"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Durata"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Dal[VAR 1106(0002,0102)]l\u2019 [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "fino"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "al[VAR 1106(0002,0102)]l\u2019 [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Giocatori ammessi"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Tutti"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Solo chi possiede l\u2019ID"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Organizza gara"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Attenzione!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Non \u00E8 possibile annullare una gara."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Numero di lotte"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Fino a [VAR 0201(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Limite di tempo"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Tuo tempo: [VAR 0201(0000)] minut[VAR 1101(0000,0101)]oi"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Tempo lotta: [VAR 0201(0000)] minut[VAR 1101(0000,0101)]oi"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Da impostare"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:00"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:59"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Durata"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] --:-- - --:--"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)] - --:--"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)] - [VAR 0201(0005)]:[VAR 0201(0006)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Fino a [VAR 0201(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Tuo tempo: [VAR 0201(0000)] minut[VAR 1101(0000,0101)]oi/Tempo lotta: [VAR 0201(0001)] minut[VAR 1101(0001,0101)]oi"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Tuo tempo: [VAR 0201(0000)] minut[VAR 1101(0000,0101)]oi/Tempo lotta: illimitato"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Tuo tempo: illimitato/Tempo lotta: [VAR 0201(0000)] minut[VAR 1101(0000,0101)]oi"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Invio delle regole in corso.\\nNon scollegare il cavo LAN."
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Invio regole riuscito.\\c"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Invio regole non riuscito.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Invia le regole"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Inizia il trasferimento"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Invia le regole a pi\u00F9 giocatori tramite\\nla comunicazione locale."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Invia le regole a un altro giocatore\\ntramite comunicazione LAN."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " Interrompi il trasferimento"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Invio regole in corso.\\nPremi B per interrompere il trasferimento."
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Il trasferimento \u00E8 stato interrotto.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Connessione in corso. Attendi..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Connettiti all\u2019altro giocatore tramite il cavo LAN."
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Inizia il trasferimento"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Premi il pulsante per inviare le regole."
+  }
+]

@@ -1,0 +1,29 @@
+[VAR 01C4(0000)]
+[VAR 0100(0000)]
+[VAR 01C4(0000)]
+Pokédex
+Enregistré[VAR 1100(00FF,0100)]e le
+Début de l’aventure
+[VAR 0202(0000)]
+[VAR 0202(0000)]:[VAR 0201(0001)]
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]
+Nº ID
+[VAR 0205(0000,0000)]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+Currydex :
+[VAR 0202(0000)] type[VAR 1101(0000,0100)]s de currys
+Meilleur score au Moti-Rallye :
+[VAR 0204(0000,202F)] point[VAR 1101(0000,0100)]s
+Nombre total de captures :
+[VAR 0204(0000,202F)]
+Pokémon chromatiques vus :
+[VAR 0204(0000,202F)] espèce[VAR 1101(0000,0100)]s
+[~ 26]
+Premier Pokémon
+[~ 28]

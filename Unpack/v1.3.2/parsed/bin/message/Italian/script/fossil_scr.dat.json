@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ciao! Benvenut[VAR 1100(00FF,0101)]oa alla Fattoria dei Sogni!\\nIo studio i fossili dei Pok\u00E9mon."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oh, hai un fossile?\\nVuoi rigenerare un Pok\u00E9mon?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Quale fossile desideri utilizzare?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bene! Lascia fare a me!\\c\\nQuest[VAR 1100(0000,0101)]oa [VAR 0109(0000)] diventer\u00E0...\\nun Pok\u00E9mon!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ah... Non apprezzi... Non capisci...\\n\u00C8 un processo davvero straordinario, sai?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ho rigenerato un Pok\u00E9mon dal fossile\\nche mi hai consegnato!\\c\\n\u00C8 [VAR 1502(0001,0000)][VAR 0101(0001)]! Abbine cura!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0100(0002)] ottiene [VAR 1502(0001,0000)][VAR 0101(0001)]!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Ah! Non hai pi\u00F9 posto in squadra!\\c\\nNon c\u2019\u00E8 problema, mi occuper\u00F2 io di questo\\nPok\u00E9mon finch\u00E9 non tornerai a prenderlo."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Un giorno qui sar\u00E0 pieno di Pok\u00E9mon\\ndell\u2019antichit\u00E0!\\c\\nNella mia Fattoria dei Sogni riporter\u00F2 in vita\\nil lontano passato!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0109(0003)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Ho cambiato idea..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Ciao! Ti piacerebbe incontrare i Pok\u00E9mon\\ndell\u2019antichit\u00E0? Quelli ormai scomparsi...\\c\\nAllora devi trovare dei fossili!\\nSai cosa sono, vero?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Quando ne trovi uno, portalo a mio padre!"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "I fossili sono resti di Pok\u00E9mon antichissimi che\\nsi sono preservati negli strati del sottosuolo.\\c\\nE mio padre \u00E8 in grado di riportarli in vita!\\nAffascinante, vero?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Wow! Eccezionale! Hai ottenuto tutti i Pok\u00E9mon\\nche possono essere rigenerati da fossili!\\c\\nFormidabile! Meriti il titolo di \u201CEspert[VAR 1100(00FF,0101)]oa di fossili\u201D!\\c\\nE anche un regalo!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Sei anche tu un[VAR 1100(00FF,0D0D)] appassionato\u2019appassionata di fossili?\\c\\nHo fatto rigenerare un [VAR 0109(000A)]!\\nIndovina che Pok\u00E9mon \u00E8 diventato!\\c\\nSe vuoi sapere la risposta... lottiamo!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Che delusione..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "La risposta esatta \u00E8... Il [VAR 0109(000A)]\\ndiventa [VAR 1002][VAR 1502(000B,0000)][VAR 0101(000B)]!"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Ah, il mio [VAR 0109(000A)]... L\u2019ho sempre\\nsaputo che era speciale!\\c\\nChiss\u00E0 che Pok\u00E9mon vengono rigenerati da tutti\\ngli altri fossili... Devo scoprirlo!"
+  }
+]

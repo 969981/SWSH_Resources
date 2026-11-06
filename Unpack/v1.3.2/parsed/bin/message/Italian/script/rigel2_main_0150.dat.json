@@ -1,0 +1,257 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oh, col[VAR 1100(00FF,0101)]uei che ha salvato il nostro villaggio!\\nSei qui per consultare i libri?[VAR 0114(007A)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Non proprio..."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Avrei bisogno di un favore!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Che? Vuoi che realizzi delle Briglie del legame?[VAR 0114(007A)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Non saprei come aiutarti...[VAR 0114(007A)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ai tempi del mio bisnonno non sarebbe\\nstato un problema...[VAR 0114(007A)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ma oramai non c\u2019\u00E8 pi\u00F9 nessuno che sappia\\ncome fabbricarle secondo la tradizione...[VAR 0114(007A)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "E poi non credo proprio che tu abbia il fiore\\nnecessario per realizzare le briglie.[VAR 0114(007A)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "S\u00EC, ce l\u2019ho!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Ho un petalo di quel fiore!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Quello... \u00E8 un petalo del fiore lucente...?[VAR 0114(007A)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Se \u00E8 davvero quello, vuol dire che il Re\\ndell\u2019abbondanza... Ma no, non \u00E8 possibile![VAR 0114(007A)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Se ricordo bene, i miei antenati fabbricavano\\nle Briglie del legame con fiori e peli di Pok\u00E9mon\\r\\nseguendo i metodi tramandati nelle favole.[VAR 0114(007A)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Si tratta di un\u2019antica tradizione che ormai \u00E8\\nandata perduta...[VAR 0114(007A)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Per\u00F2 il minimo che possa fare per ringraziarti\\nper l\u2019aiuto che ci hai dato \u00E8 provare!\\r\\nDammi pure l\u2019occorrente.[VAR 0114(007A)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Dai i Crini bianchi e il Petalo lucente\\nal capo del villaggio."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Dai i Crini neri e il Petalo lucente\\nal capo del villaggio."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Non so se sar\u00F2 in grado di eguagliare la maestria\\ndel mio bisnonno...[VAR 0114(007A)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "... ma prover\u00F2 a riportare in vita le tradizioni\\ndel villaggio![VAR 0114(007A)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Taglia... Taglia..."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Cuci... Cuci..."
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Uhm...[VAR 0114(007A)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Niente da fare, non ci siamo...[VAR 0114(007A)]"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Anche se sono piuttosto abile nei lavori manuali,\\ntemo che per realizzare le briglie sia necessaria\\r\\nuna tecnica pi\u00F9 fine...[VAR 0114(007A)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Non fare quella faccia, ti prego...\\nSono veramente desolato...[VAR 0114(007A)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Ehi, capo![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Ho un problema con la doccia nella mia stanza,\\nnon esce pi\u00F9 acqua calda![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Oh, sono spiacente!\\nPi\u00F9 tardi vengo a controllare...[VAR 0114(007A)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Ehi, caposquadra![VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 8,
+    "text": "Stavate facendo qualcosa di importante?\\nL\u2019atmosfera \u00E8 un po\u2019 tesa...[VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Veramente..."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Il capo del villaggio..."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Gahahah!\\nTutto qui il problema?!\\r\\nBasta fare una specie di nastro, no?[VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Su, dammi qua il necessario![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Bene, e adesso cosa dovrei fare con questo\\npetalo e questi peli?[VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Ahem... Se mi \u00E8 permesso...[VAR 0114(007A)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Avvolgi i fiori in delicate spire... \u266A\\nE intrecciale ai crini per il nostro sire... \u266A[VAR 0114(007A)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Ma cosa...?! Serviva proprio cantare...?\\nVabb\u00E8, ho capito![VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Taglia di qua, cuci di l\u00E0, tralalal\u00E0...[VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Toh, ecco qua! Cos\u00EC va bene?[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Chi l\u2019avrebbe mai detto che costui celava\\nun simile talento?!\\c\\nSono le Briglie del legame, proprio come\\nquelle descritte nei racconti tramandati\\r\\ndalla mia famiglia![VAR 0114(007A)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Gahahah! Non per niente cucio io i vestiti\\nper quella ribelle di mia figlia![VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Anche il Completo da esplorazione che ti ho\\ndato \u00E8 frutto delle mie manine d\u2019oro![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "A ogni modo...![VAR 0114(007A)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Sei riuscit[VAR 1100(00FF,0101)]oa a ottenere le Briglie del legame![VAR 0114(007A)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Sono davvero contento![VAR 0114(007A)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Caposquadra! Le mie abilit\u00E0 di sarto ti sono\\nstate utili?![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Un momento... Se lui \u00E8 riuscito a creare\\nle Briglie del legame vuol dire che...\\c\\nQuei Crini bianchi e quel petalo erano veri?!\\nMa no, non pu\u00F2 essere... Oh oh oh![VAR 0114(007A)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Un momento... Se lui \u00E8 riuscito a creare\\nle Briglie del legame vuol dire che...\\c\\nQuei Crini neri e quel petalo erano veri?!\\nMa no, non pu\u00F2 essere... Oh oh oh![VAR 0114(007A)]"
+  }
+]

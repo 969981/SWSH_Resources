@@ -1,0 +1,4137 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u2015\u2015\u2015\u2015\u2015"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "\u00C9cras\u2019Face"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Poing Karat\u00E9"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Torgnoles"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Poing Com\u00E8te"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ultimapoing"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Jackpot"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Poing Feu"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Poing Glace"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Poing \u00C9clair"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Griffe"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Force Poigne"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Guillotine"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Coupe-Vent"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Danse Lames"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Coupe"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tornade"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Cru-Ailes"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Cyclone"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vol"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "\u00C9treinte"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Souplesse"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Fouet Lianes"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "\u00C9crasement"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Double Pied"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Ultimawashi"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pied Saut\u00E9"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Mawashi Geri"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Jet de Sable"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Coup d\u2019Boule"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Koud\u2019Korne"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Furie"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Empal\u2019Korne"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Charge"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Plaquage"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Ligotage"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "B\u00E9lier"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Mania"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Damocl\u00E8s"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Mimi-Queue"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Dard-Venin"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Double Dard"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Dard-Nu\u00E9e"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Groz\u2019Yeux"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Morsure"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Rugissement"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Hurlement"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Berceuse"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ultrason"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Sonic Boom"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Entrave"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Acide"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Flamm\u00E8che"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Lance-Flammes"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Brume"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Pistolet \u00E0 O"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Hydrocanon"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Surf"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Laser Glace"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Blizzard"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Rafale Psy"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Bulles d\u2019O"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Onde Bor\u00E9ale"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Ultralaser"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Picpic"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Bec Vrille"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Sacrifice"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Balayage"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Riposte"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Frappe Atlas"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Force"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Vole-Vie"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "M\u00E9ga-Sangsue"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Vampigraine"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Croissance"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Tranch\u2019Herbe"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Lance-Soleil"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Poudre Toxik"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Para-Spore"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Poudre Dodo"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Danse Fleurs"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "S\u00E9cr\u00E9tion"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Draco-Rage"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Danse Flammes"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "\u00C9clair"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Tonnerre"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Cage \u00C9clair"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Fatal-Foudre"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Jet-Pierres"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "S\u00E9isme"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Ab\u00EEme"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Tunnel"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Toxik"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Choc Mental"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Psyko"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Hypnose"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Yoga"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "H\u00E2te"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Vive-Attaque"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Fr\u00E9n\u00E9sie"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "T\u00E9l\u00E9port"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Ombre Nocturne"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Copie"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Grincement"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Reflet"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Soin"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Armure"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Lilliput"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Brouillard"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Onde Folie"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Repli"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Boul\u2019Armure"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Bouclier"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Mur Lumi\u00E8re"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Bu\u00E9e Noire"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Protection"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Puissance"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Patience"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "M\u00E9tronome"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Mimique"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Destruction"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Bombe \u0152uf"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "L\u00E9chouille"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Pur\u00E9dpois"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "D\u00E9tritus"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Massd\u2019Os"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "D\u00E9flagration"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Cascade"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Claquoir"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "M\u00E9t\u00E9ores"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Coud\u2019Kr\u00E2ne"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Picanon"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Constriction"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Amn\u00E9sie"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "T\u00E9l\u00E9kin\u00E9sie"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "E-Coque"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Pied Voltige"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Regard M\u00E9dusant"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "D\u00E9vor\u00EAve"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Gaz Toxik"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Pilonnage"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Vampirisme"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Grobisou"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Piqu\u00E9"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Morphing"
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "\u00C9cume"
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Uppercut"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Spore"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Flash"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Vague Psy"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Trempette"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Acidarmure"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Pince-Masse"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Explosion"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Combo-Griffe"
+  },
+  {
+    "index": 155,
+    "flags": 4,
+    "text": "Osmerang"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Repos"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "\u00C9boulement"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Croc de Mort"
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "Aff\u00FBtage"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Conversion"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Triplattaque"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Croc Fatal"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Tranche"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Clonage"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Lutte"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Gribouille"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Triple Pied"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Larcin"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Toile"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Lire-Esprit"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Cauchemar"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Roue de Feu"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Ronflement"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Mal\u00E9diction"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Gigotage"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Conversion 2"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "A\u00E9roblast"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Spore Coton"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Contre"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "D\u00E9pit"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Poudreuse"
+  },
+  {
+    "index": 182,
+    "flags": 4,
+    "text": "Abri"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Mach Punch"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Grimace"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Feinte"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Doux Baiser"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Cognobidon"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Bombe Beurk"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Coud\u2019Boue"
+  },
+  {
+    "index": 190,
+    "flags": 4,
+    "text": "Octazooka"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Picots"
+  },
+  {
+    "index": 192,
+    "flags": 4,
+    "text": "\u00C9lecanon"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Clairvoyance"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Lien du Destin"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Requiem"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Vent Glace"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "D\u00E9tection"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Charge Os"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Verrouillage"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Col\u00E8re"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Temp\u00EAte de Sable"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Giga-Sangsue"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "T\u00E9nacit\u00E9"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Charme"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Roulade"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Faux-Chage"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Vantardise"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Lait \u00E0 Boire"
+  },
+  {
+    "index": 209,
+    "flags": 4,
+    "text": "\u00C9tincelle"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "Taillade"
+  },
+  {
+    "index": 211,
+    "flags": 4,
+    "text": "Ailes d\u2019Acier"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Regard Noir"
+  },
+  {
+    "index": 213,
+    "flags": 4,
+    "text": "Attraction"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Blabla Dodo"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Glas de Soin"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Cadeau"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Frustration"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Rune Protect"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Balance"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Feu Sacr\u00E9"
+  },
+  {
+    "index": 222,
+    "flags": 4,
+    "text": "Ampleur"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Dynamo-Poing"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "M\u00E9gacorne"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Draco-Souffle"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Relais"
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "Encore"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Poursuite"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Tour Rapide"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Doux Parfum"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Queue de Fer"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Griffe Acier"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Corps Perdu"
+  },
+  {
+    "index": 234,
+    "flags": 4,
+    "text": "Aurore"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Synth\u00E8se"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Rayon Lune"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Puissance Cach\u00E9e"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Coup Croix"
+  },
+  {
+    "index": 239,
+    "flags": 4,
+    "text": "Ouragan"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Danse Pluie"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Z\u00E9nith"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "M\u00E2chouille"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Voile Miroir"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Boost"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Vitesse Extr\u00EAme"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Pouvoir Antique"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Ball\u2019Ombre"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Prescience"
+  },
+  {
+    "index": 249,
+    "flags": 4,
+    "text": "\u00C9clate-Roc"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Siphon"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Baston"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Bluff"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Brouhaha"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Stockage"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Rel\u00E2che"
+  },
+  {
+    "index": 256,
+    "flags": 4,
+    "text": "Avale"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Canicule"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Gr\u00EAle"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Tourmente"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Flatterie"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Feu Follet"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Souvenir"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Fa\u00E7ade"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Mitra-Poing"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Stimulant"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Par Ici"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "Force Nature"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Chargeur"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Provoc"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Coup d\u2019Main"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Tour de Magie"
+  },
+  {
+    "index": 272,
+    "flags": 4,
+    "text": "Imitation"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "V\u0153u"
+  },
+  {
+    "index": 274,
+    "flags": 4,
+    "text": "Assistance"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "Racines"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Surpuissance"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Reflet Magik"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Recyclage"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Vendetta"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Casse-Brique"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "B\u00E2illement"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Sabotage"
+  },
+  {
+    "index": 283,
+    "flags": 4,
+    "text": "Effort"
+  },
+  {
+    "index": 284,
+    "flags": 4,
+    "text": "\u00C9ruption"
+  },
+  {
+    "index": 285,
+    "flags": 4,
+    "text": "\u00C9change"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "Possessif"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "R\u00E9g\u00E9n\u00E9ration"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Rancune"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Saisie"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Force Cach\u00E9e"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Plong\u00E9e"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Cogne"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Camouflage"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "Lumi-Queue"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Lumi-\u00C9clat"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Ball\u2019Brume"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Danse Plumes"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Danse Folle"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Pied Br\u00FBleur"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Lance-Boue"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "Ball\u2019Glace"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Poing Dard"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Paresse"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "M\u00E9gaphone"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Crochet Venin"
+  },
+  {
+    "index": 306,
+    "flags": 4,
+    "text": "\u00C9clate Griffe"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "Rafale Feu"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Hydroblast"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Poing M\u00E9t\u00E9ore"
+  },
+  {
+    "index": 310,
+    "flags": 4,
+    "text": "\u00C9tonnement"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Ball\u2019M\u00E9t\u00E9o"
+  },
+  {
+    "index": 312,
+    "flags": 4,
+    "text": "Aromath\u00E9rapie"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Croco Larme"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Tranch\u2019Air"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Surchauffe"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Flair"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Tomberoche"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "Vent Argent\u00E9"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Strido-Son"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Siffl\u2019Herbe"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Chatouille"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Force Cosmique"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Gicl\u00E9do"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "Rayon Signal"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Poing Ombre"
+  },
+  {
+    "index": 326,
+    "flags": 4,
+    "text": "Extrasenseur"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Stratopercut"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Tourbi-Sable"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Glaciation"
+  },
+  {
+    "index": 330,
+    "flags": 4,
+    "text": "Ocroupi"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Balle Graine"
+  },
+  {
+    "index": 332,
+    "flags": 4,
+    "text": "A\u00E9ropique"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Stalactite"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Mur de Fer"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Barrage"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "Grondement"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Draco-Griffe"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "V\u00E9g\u00E9-Attaque"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Gonflette"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "Rebond"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "Tir de Boue"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Queue-Poison"
+  },
+  {
+    "index": 343,
+    "flags": 4,
+    "text": "Implore"
+  },
+  {
+    "index": 344,
+    "flags": 4,
+    "text": "\u00C9lectacle"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "Feuille Magik"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "Tourniquet"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Pl\u00E9nitude"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Lame Feuille"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Danse Draco"
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "Boule Roc"
+  },
+  {
+    "index": 351,
+    "flags": 4,
+    "text": "Onde de Choc"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Vibraqua"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "V\u0153u Destructeur"
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Psycho-Boost"
+  },
+  {
+    "index": 355,
+    "flags": 4,
+    "text": "Atterrissage"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Gravit\u00E9"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "\u0152il Miracle"
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "R\u00E9veil Forc\u00E9"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Marto-Poing"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Gyroballe"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "V\u0153u Soin"
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Saumure"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Don Naturel"
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Ruse"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Picore"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "Vent Arri\u00E8re"
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "Acupression"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Fulmifer"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Demi-Tour"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Close Combat"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Repr\u00E9sailles"
+  },
+  {
+    "index": 372,
+    "flags": 4,
+    "text": "Assurance"
+  },
+  {
+    "index": 373,
+    "flags": 4,
+    "text": "Embargo"
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "D\u00E9gommage"
+  },
+  {
+    "index": 375,
+    "flags": 4,
+    "text": "\u00C9change Psy"
+  },
+  {
+    "index": 376,
+    "flags": 4,
+    "text": "Atout"
+  },
+  {
+    "index": 377,
+    "flags": 4,
+    "text": "Anti-Soin"
+  },
+  {
+    "index": 378,
+    "flags": 4,
+    "text": "Essorage"
+  },
+  {
+    "index": 379,
+    "flags": 4,
+    "text": "Astuce Force"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "Suc Digestif"
+  },
+  {
+    "index": 381,
+    "flags": 4,
+    "text": "Air Veinard"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Moi d\u2019Abord"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "Photocopie"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Permuforce"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "Permugarde"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Punition"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "Dernier Recours"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "Soucigraine"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Coup Bas"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Pics Toxik"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "Permuc\u0153ur"
+  },
+  {
+    "index": 392,
+    "flags": 4,
+    "text": "Anneau Hydro"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Vol Magn\u00E9tik"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "Boutefeu"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "Forte-Paume"
+  },
+  {
+    "index": 396,
+    "flags": 4,
+    "text": "Aurasph\u00E8re"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "Poliroche"
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Direct Toxik"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Vibrobscur"
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Tranche-Nuit"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Hydro-Queue"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Canon Graine"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Lame d\u2019Air"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "Plaie Croix"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Bourdon"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Draco-Choc"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Draco-Charge"
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Rayon Gemme"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Vampi-Poing"
+  },
+  {
+    "index": 410,
+    "flags": 4,
+    "text": "Onde Vide"
+  },
+  {
+    "index": 411,
+    "flags": 4,
+    "text": "Exploforce"
+  },
+  {
+    "index": 412,
+    "flags": 4,
+    "text": "\u00C9co-Sph\u00E8re"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Rapace"
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "Telluriforce"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "Passe-Passe"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Giga Impact"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "Machination"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "Pisto-Poing"
+  },
+  {
+    "index": 419,
+    "flags": 4,
+    "text": "Avalanche"
+  },
+  {
+    "index": 420,
+    "flags": 4,
+    "text": "\u00C9clats Glace"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Griffe Ombre"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "Crocs \u00C9clair"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Crocs Givre"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Crocs Feu"
+  },
+  {
+    "index": 425,
+    "flags": 4,
+    "text": "Ombre Port\u00E9e"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Boue-Bombe"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Coupe Psycho"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Psykoud\u2019Boul"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Miroi-Tir"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Luminocanon"
+  },
+  {
+    "index": 431,
+    "flags": 4,
+    "text": "Escalade"
+  },
+  {
+    "index": 432,
+    "flags": 4,
+    "text": "Anti-Brume"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Distorsion"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Draco-M\u00E9t\u00E9ore"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Coup d\u2019Jus"
+  },
+  {
+    "index": 436,
+    "flags": 4,
+    "text": "\u00C9bullilave"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Temp\u00EAte Verte"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "M\u00E9gafouet"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Roc-Boulet"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Poison Croix"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "D\u00E9tricanon"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "T\u00EAte de Fer"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Bombe Aimant"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Lame de Roc"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "S\u00E9duction"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Pi\u00E8ge de Roc"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "N\u0153ud Herbe"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Babil"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "Jugement"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "Piq\u00FBre"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "Rayon Charg\u00E9"
+  },
+  {
+    "index": 452,
+    "flags": 0,
+    "text": "Martobois"
+  },
+  {
+    "index": 453,
+    "flags": 4,
+    "text": "Aqua-Jet"
+  },
+  {
+    "index": 454,
+    "flags": 4,
+    "text": "Appel Attaque"
+  },
+  {
+    "index": 455,
+    "flags": 4,
+    "text": "Appel D\u00E9fense"
+  },
+  {
+    "index": 456,
+    "flags": 4,
+    "text": "Appel Soins"
+  },
+  {
+    "index": 457,
+    "flags": 0,
+    "text": "Fracass\u2019T\u00EAte"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "Coup Double"
+  },
+  {
+    "index": 459,
+    "flags": 0,
+    "text": "Hurle-Temps"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "Spatio-Rift"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "Danse Lune"
+  },
+  {
+    "index": 462,
+    "flags": 0,
+    "text": "Presse"
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "Vortex Magma"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "Trou Noir"
+  },
+  {
+    "index": 465,
+    "flags": 0,
+    "text": "Fulmigraine"
+  },
+  {
+    "index": 466,
+    "flags": 0,
+    "text": "Vent Mauvais"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "Revenant"
+  },
+  {
+    "index": 468,
+    "flags": 4,
+    "text": "Aiguisage"
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "Garde Large"
+  },
+  {
+    "index": 470,
+    "flags": 0,
+    "text": "Partage Garde"
+  },
+  {
+    "index": 471,
+    "flags": 0,
+    "text": "Partage Force"
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "Zone \u00C9trange"
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "Choc Psy"
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "Choc Venin"
+  },
+  {
+    "index": 475,
+    "flags": 4,
+    "text": "All\u00E8gement"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "Poudre Fureur"
+  },
+  {
+    "index": 477,
+    "flags": 0,
+    "text": "L\u00E9vikin\u00E9sie"
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "Zone Magique"
+  },
+  {
+    "index": 479,
+    "flags": 4,
+    "text": "Anti-Air"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "Yama Arashi"
+  },
+  {
+    "index": 481,
+    "flags": 0,
+    "text": "Rebondifeu"
+  },
+  {
+    "index": 482,
+    "flags": 0,
+    "text": "Cradovague"
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "Papillodanse"
+  },
+  {
+    "index": 484,
+    "flags": 0,
+    "text": "Tacle Lourd"
+  },
+  {
+    "index": 485,
+    "flags": 0,
+    "text": "Synchropeine"
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "Boule \u00C9lek"
+  },
+  {
+    "index": 487,
+    "flags": 0,
+    "text": "D\u00E9trempage"
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "Nitrocharge"
+  },
+  {
+    "index": 489,
+    "flags": 4,
+    "text": "Enroulement"
+  },
+  {
+    "index": 490,
+    "flags": 0,
+    "text": "Balayette"
+  },
+  {
+    "index": 491,
+    "flags": 0,
+    "text": "Bombe Acide"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "Tricherie"
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "Rayon Simple"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "Ten-Danse"
+  },
+  {
+    "index": 495,
+    "flags": 4,
+    "text": "Apr\u00E8s Vous"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "Chant Canon"
+  },
+  {
+    "index": 497,
+    "flags": 4,
+    "text": "\u00C9cho"
+  },
+  {
+    "index": 498,
+    "flags": 4,
+    "text": "Attrition"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "Bain de Smog"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "Force Ajout\u00E9e"
+  },
+  {
+    "index": 501,
+    "flags": 0,
+    "text": "Pr\u00E9vention"
+  },
+  {
+    "index": 502,
+    "flags": 4,
+    "text": "Interversion"
+  },
+  {
+    "index": 503,
+    "flags": 4,
+    "text": "\u00C9bullition"
+  },
+  {
+    "index": 504,
+    "flags": 4,
+    "text": "Exuviation"
+  },
+  {
+    "index": 505,
+    "flags": 0,
+    "text": "Vibra Soin"
+  },
+  {
+    "index": 506,
+    "flags": 0,
+    "text": "Ch\u00E2timent"
+  },
+  {
+    "index": 507,
+    "flags": 0,
+    "text": "Chute Libre"
+  },
+  {
+    "index": 508,
+    "flags": 0,
+    "text": "Chgt Vitesse"
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "Projection"
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "Calcination"
+  },
+  {
+    "index": 511,
+    "flags": 4,
+    "text": "\u00C0 la Queue"
+  },
+  {
+    "index": 512,
+    "flags": 4,
+    "text": "Acrobatie"
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "Copie-Type"
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "Vengeance"
+  },
+  {
+    "index": 515,
+    "flags": 0,
+    "text": "Tout ou Rien"
+  },
+  {
+    "index": 516,
+    "flags": 0,
+    "text": "Passe-Cadeau"
+  },
+  {
+    "index": 517,
+    "flags": 0,
+    "text": "Feu d\u2019Enfer"
+  },
+  {
+    "index": 518,
+    "flags": 4,
+    "text": "Aire d\u2019Eau"
+  },
+  {
+    "index": 519,
+    "flags": 4,
+    "text": "Aire de Feu"
+  },
+  {
+    "index": 520,
+    "flags": 4,
+    "text": "Aire d\u2019Herbe"
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "Change \u00C9clair"
+  },
+  {
+    "index": 522,
+    "flags": 0,
+    "text": "Survinsecte"
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "Pi\u00E9tisol"
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "Souffle Glac\u00E9"
+  },
+  {
+    "index": 525,
+    "flags": 0,
+    "text": "Draco-Queue"
+  },
+  {
+    "index": 526,
+    "flags": 0,
+    "text": "Rengorgement"
+  },
+  {
+    "index": 527,
+    "flags": 0,
+    "text": "Toile \u00C9lek"
+  },
+  {
+    "index": 528,
+    "flags": 4,
+    "text": "\u00C9clair Fou"
+  },
+  {
+    "index": 529,
+    "flags": 0,
+    "text": "Tunnelier"
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "Double Baffe"
+  },
+  {
+    "index": 531,
+    "flags": 0,
+    "text": "Cr\u00E8ve-C\u0153ur"
+  },
+  {
+    "index": 532,
+    "flags": 4,
+    "text": "Encornebois"
+  },
+  {
+    "index": 533,
+    "flags": 0,
+    "text": "Lame Sainte"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "Coqui-Lame"
+  },
+  {
+    "index": 535,
+    "flags": 0,
+    "text": "Tacle Feu"
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "Phytomixeur"
+  },
+  {
+    "index": 537,
+    "flags": 0,
+    "text": "Bulldoboule"
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "Cotogarde"
+  },
+  {
+    "index": 539,
+    "flags": 4,
+    "text": "Explonuit"
+  },
+  {
+    "index": 540,
+    "flags": 0,
+    "text": "Frappe Psy"
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "Plumo-Queue"
+  },
+  {
+    "index": 542,
+    "flags": 0,
+    "text": "Vent Violent"
+  },
+  {
+    "index": 543,
+    "flags": 0,
+    "text": "Peign\u00E9e"
+  },
+  {
+    "index": 544,
+    "flags": 0,
+    "text": "Lanc\u00E9crou"
+  },
+  {
+    "index": 545,
+    "flags": 4,
+    "text": "Incendie"
+  },
+  {
+    "index": 546,
+    "flags": 0,
+    "text": "Techno-Buster"
+  },
+  {
+    "index": 547,
+    "flags": 0,
+    "text": "Chant Antique"
+  },
+  {
+    "index": 548,
+    "flags": 0,
+    "text": "Lame Ointe"
+  },
+  {
+    "index": 549,
+    "flags": 4,
+    "text": "\u00C8re Glaciaire"
+  },
+  {
+    "index": 550,
+    "flags": 0,
+    "text": "Charge Foudre"
+  },
+  {
+    "index": 551,
+    "flags": 0,
+    "text": "Flamme Bleue"
+  },
+  {
+    "index": 552,
+    "flags": 0,
+    "text": "Danse du Feu"
+  },
+  {
+    "index": 553,
+    "flags": 4,
+    "text": "\u00C9clair Gel\u00E9"
+  },
+  {
+    "index": 554,
+    "flags": 0,
+    "text": "Feu Glac\u00E9"
+  },
+  {
+    "index": 555,
+    "flags": 4,
+    "text": "Aboiement"
+  },
+  {
+    "index": 556,
+    "flags": 0,
+    "text": "Chute Glace"
+  },
+  {
+    "index": 557,
+    "flags": 0,
+    "text": "Coup Victoire"
+  },
+  {
+    "index": 558,
+    "flags": 0,
+    "text": "Flamme Croix"
+  },
+  {
+    "index": 559,
+    "flags": 4,
+    "text": "\u00C9clair Croix"
+  },
+  {
+    "index": 560,
+    "flags": 0,
+    "text": "Flying Press"
+  },
+  {
+    "index": 561,
+    "flags": 0,
+    "text": "Tatamigaeshi"
+  },
+  {
+    "index": 562,
+    "flags": 4,
+    "text": "\u00C9ructation"
+  },
+  {
+    "index": 563,
+    "flags": 0,
+    "text": "Fertilisation"
+  },
+  {
+    "index": 564,
+    "flags": 0,
+    "text": "Toile Gluante"
+  },
+  {
+    "index": 565,
+    "flags": 0,
+    "text": "Dard Mortel"
+  },
+  {
+    "index": 566,
+    "flags": 0,
+    "text": "Hantise"
+  },
+  {
+    "index": 567,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 568,
+    "flags": 0,
+    "text": "R\u00E2le M\u00E2le"
+  },
+  {
+    "index": 569,
+    "flags": 0,
+    "text": "D\u00E9luge Plasmique"
+  },
+  {
+    "index": 570,
+    "flags": 0,
+    "text": "Parabocharge"
+  },
+  {
+    "index": 571,
+    "flags": 0,
+    "text": "Mal\u00E9fice Sylvain"
+  },
+  {
+    "index": 572,
+    "flags": 0,
+    "text": "Temp\u00EAte Florale"
+  },
+  {
+    "index": 573,
+    "flags": 0,
+    "text": "Lyophilisation"
+  },
+  {
+    "index": 574,
+    "flags": 0,
+    "text": "Voix Enj\u00F4leuse"
+  },
+  {
+    "index": 575,
+    "flags": 0,
+    "text": "Dernier Mot"
+  },
+  {
+    "index": 576,
+    "flags": 0,
+    "text": "Renversement"
+  },
+  {
+    "index": 577,
+    "flags": 0,
+    "text": "Vampibaiser"
+  },
+  {
+    "index": 578,
+    "flags": 0,
+    "text": "Vigilance"
+  },
+  {
+    "index": 579,
+    "flags": 0,
+    "text": "Garde Florale"
+  },
+  {
+    "index": 580,
+    "flags": 0,
+    "text": "Champ Herbu"
+  },
+  {
+    "index": 581,
+    "flags": 0,
+    "text": "Champ Brumeux"
+  },
+  {
+    "index": 582,
+    "flags": 4,
+    "text": "\u00C9lectrisation"
+  },
+  {
+    "index": 583,
+    "flags": 0,
+    "text": "C\u00E2linerie"
+  },
+  {
+    "index": 584,
+    "flags": 0,
+    "text": "Vent F\u00E9\u00E9rique"
+  },
+  {
+    "index": 585,
+    "flags": 0,
+    "text": "Pouvoir Lunaire"
+  },
+  {
+    "index": 586,
+    "flags": 0,
+    "text": "Bang Sonique"
+  },
+  {
+    "index": 587,
+    "flags": 0,
+    "text": "Verrou Enchant\u00E9"
+  },
+  {
+    "index": 588,
+    "flags": 0,
+    "text": "Bouclier Royal"
+  },
+  {
+    "index": 589,
+    "flags": 0,
+    "text": "Camaraderie"
+  },
+  {
+    "index": 590,
+    "flags": 0,
+    "text": "Confidence"
+  },
+  {
+    "index": 591,
+    "flags": 4,
+    "text": "Orage Adamantin"
+  },
+  {
+    "index": 592,
+    "flags": 0,
+    "text": "Jet de Vapeur"
+  },
+  {
+    "index": 593,
+    "flags": 0,
+    "text": "TrouDimensionnel"
+  },
+  {
+    "index": 594,
+    "flags": 0,
+    "text": "Sheauriken"
+  },
+  {
+    "index": 595,
+    "flags": 0,
+    "text": "Feu Ensorcel\u00E9"
+  },
+  {
+    "index": 596,
+    "flags": 0,
+    "text": "Pico-D\u00E9fense"
+  },
+  {
+    "index": 597,
+    "flags": 0,
+    "text": "Brume Capiteuse"
+  },
+  {
+    "index": 598,
+    "flags": 4,
+    "text": "Ondes \u00C9tranges"
+  },
+  {
+    "index": 599,
+    "flags": 0,
+    "text": "Pi\u00E8ge de Venin"
+  },
+  {
+    "index": 600,
+    "flags": 0,
+    "text": "Nu\u00E9e de Poudre"
+  },
+  {
+    "index": 601,
+    "flags": 0,
+    "text": "G\u00E9o-Contr\u00F4le"
+  },
+  {
+    "index": 602,
+    "flags": 0,
+    "text": "Magn\u00E9-Contr\u00F4le"
+  },
+  {
+    "index": 603,
+    "flags": 4,
+    "text": "\u00C9trennes"
+  },
+  {
+    "index": 604,
+    "flags": 0,
+    "text": "Champ \u00C9lectrifi\u00E9"
+  },
+  {
+    "index": 605,
+    "flags": 4,
+    "text": "\u00C9clat Magique"
+  },
+  {
+    "index": 606,
+    "flags": 0,
+    "text": "C\u00E9l\u00E9bration"
+  },
+  {
+    "index": 607,
+    "flags": 0,
+    "text": "Mains Jointes"
+  },
+  {
+    "index": 608,
+    "flags": 0,
+    "text": "Regard Touchant"
+  },
+  {
+    "index": 609,
+    "flags": 0,
+    "text": "Frotte-Frimousse"
+  },
+  {
+    "index": 610,
+    "flags": 0,
+    "text": "Retenue"
+  },
+  {
+    "index": 611,
+    "flags": 0,
+    "text": "Harc\u00E8lement"
+  },
+  {
+    "index": 612,
+    "flags": 0,
+    "text": "Poing Boost"
+  },
+  {
+    "index": 613,
+    "flags": 0,
+    "text": "Mort\u2019Ailes"
+  },
+  {
+    "index": 614,
+    "flags": 0,
+    "text": "Myria-Fl\u00E8ches"
+  },
+  {
+    "index": 615,
+    "flags": 0,
+    "text": "Myria-Vagues"
+  },
+  {
+    "index": 616,
+    "flags": 0,
+    "text": "Force Chtonienne"
+  },
+  {
+    "index": 617,
+    "flags": 0,
+    "text": "Lumi\u00E8re du N\u00E9ant"
+  },
+  {
+    "index": 618,
+    "flags": 4,
+    "text": "Onde Originelle"
+  },
+  {
+    "index": 619,
+    "flags": 0,
+    "text": "Lame Pang\u00E9enne"
+  },
+  {
+    "index": 620,
+    "flags": 0,
+    "text": "Draco-Ascension"
+  },
+  {
+    "index": 621,
+    "flags": 0,
+    "text": "Furie Dimension"
+  },
+  {
+    "index": 622,
+    "flags": 0,
+    "text": "Turbo-Charge Bulldozer"
+  },
+  {
+    "index": 623,
+    "flags": 0,
+    "text": "Turbo-Charge Bulldozer"
+  },
+  {
+    "index": 624,
+    "flags": 0,
+    "text": "Combo Hyper-Furie"
+  },
+  {
+    "index": 625,
+    "flags": 0,
+    "text": "Combo Hyper-Furie"
+  },
+  {
+    "index": 626,
+    "flags": 0,
+    "text": "Piqu\u00E9 Supersonique"
+  },
+  {
+    "index": 627,
+    "flags": 0,
+    "text": "Piqu\u00E9 Supersonique"
+  },
+  {
+    "index": 628,
+    "flags": 0,
+    "text": "D\u00E9luge Causti-Toxique"
+  },
+  {
+    "index": 629,
+    "flags": 0,
+    "text": "D\u00E9luge Causti-Toxique"
+  },
+  {
+    "index": 630,
+    "flags": 4,
+    "text": "\u00C9ruption G\u00E9o-Sismique"
+  },
+  {
+    "index": 631,
+    "flags": 4,
+    "text": "\u00C9ruption G\u00E9o-Sismique"
+  },
+  {
+    "index": 632,
+    "flags": 4,
+    "text": "Apocalypse Gigalithique"
+  },
+  {
+    "index": 633,
+    "flags": 4,
+    "text": "Apocalypse Gigalithique"
+  },
+  {
+    "index": 634,
+    "flags": 0,
+    "text": "Cocon Fatal"
+  },
+  {
+    "index": 635,
+    "flags": 0,
+    "text": "Cocon Fatal"
+  },
+  {
+    "index": 636,
+    "flags": 4,
+    "text": "Appel des Ombres \u00C9ternelles"
+  },
+  {
+    "index": 637,
+    "flags": 4,
+    "text": "Appel des Ombres \u00C9ternelles"
+  },
+  {
+    "index": 638,
+    "flags": 0,
+    "text": "Vrille Maximum"
+  },
+  {
+    "index": 639,
+    "flags": 0,
+    "text": "Vrille Maximum"
+  },
+  {
+    "index": 640,
+    "flags": 0,
+    "text": "Pyro-Explosion Cataclysmique"
+  },
+  {
+    "index": 641,
+    "flags": 0,
+    "text": "Pyro-Explosion Cataclysmique"
+  },
+  {
+    "index": 642,
+    "flags": 0,
+    "text": "Super Tourbillon Abyssal"
+  },
+  {
+    "index": 643,
+    "flags": 0,
+    "text": "Super Tourbillon Abyssal"
+  },
+  {
+    "index": 644,
+    "flags": 0,
+    "text": "P\u00E9talexplosion \u00C9blouissante"
+  },
+  {
+    "index": 645,
+    "flags": 0,
+    "text": "P\u00E9talexplosion \u00C9blouissante"
+  },
+  {
+    "index": 646,
+    "flags": 0,
+    "text": "Fulguro-Lance Gigavolt"
+  },
+  {
+    "index": 647,
+    "flags": 0,
+    "text": "Fulguro-Lance Gigavolt"
+  },
+  {
+    "index": 648,
+    "flags": 0,
+    "text": "Psycho-Pulv\u00E9risation EX"
+  },
+  {
+    "index": 649,
+    "flags": 0,
+    "text": "Psycho-Pulv\u00E9risation EX"
+  },
+  {
+    "index": 650,
+    "flags": 0,
+    "text": "Laser Cryog\u00E9nique"
+  },
+  {
+    "index": 651,
+    "flags": 0,
+    "text": "Laser Cryog\u00E9nique"
+  },
+  {
+    "index": 652,
+    "flags": 0,
+    "text": "Chaos Draconique"
+  },
+  {
+    "index": 653,
+    "flags": 0,
+    "text": "Chaos Draconique"
+  },
+  {
+    "index": 654,
+    "flags": 0,
+    "text": "Trou Noir des Ombres"
+  },
+  {
+    "index": 655,
+    "flags": 0,
+    "text": "Trou Noir des Ombres"
+  },
+  {
+    "index": 656,
+    "flags": 4,
+    "text": "Impact Choupinova"
+  },
+  {
+    "index": 657,
+    "flags": 4,
+    "text": "Impact Choupinova"
+  },
+  {
+    "index": 658,
+    "flags": 0,
+    "text": "Pikachute Foudroyante"
+  },
+  {
+    "index": 659,
+    "flags": 4,
+    "text": "Amass\u2019Sable"
+  },
+  {
+    "index": 660,
+    "flags": 4,
+    "text": "Escarmouche"
+  },
+  {
+    "index": 661,
+    "flags": 0,
+    "text": "Blockhaus"
+  },
+  {
+    "index": 662,
+    "flags": 0,
+    "text": "Tisse Ombre"
+  },
+  {
+    "index": 663,
+    "flags": 0,
+    "text": "Dark Lariat"
+  },
+  {
+    "index": 664,
+    "flags": 4,
+    "text": "Aria de l\u2019\u00C9cume"
+  },
+  {
+    "index": 665,
+    "flags": 0,
+    "text": "Marteau de Glace"
+  },
+  {
+    "index": 666,
+    "flags": 0,
+    "text": "Soin Floral"
+  },
+  {
+    "index": 667,
+    "flags": 0,
+    "text": "Cavalerie Lourde"
+  },
+  {
+    "index": 668,
+    "flags": 0,
+    "text": "Vole-Force"
+  },
+  {
+    "index": 669,
+    "flags": 0,
+    "text": "Lame Solaire"
+  },
+  {
+    "index": 670,
+    "flags": 0,
+    "text": "Feuillage"
+  },
+  {
+    "index": 671,
+    "flags": 0,
+    "text": "Projecteur"
+  },
+  {
+    "index": 672,
+    "flags": 0,
+    "text": "Fil Toxique"
+  },
+  {
+    "index": 673,
+    "flags": 4,
+    "text": "Affilage"
+  },
+  {
+    "index": 674,
+    "flags": 4,
+    "text": "Engrenage"
+  },
+  {
+    "index": 675,
+    "flags": 4,
+    "text": "Ex\u00E9cu-Son"
+  },
+  {
+    "index": 676,
+    "flags": 0,
+    "text": "Boule Pollen"
+  },
+  {
+    "index": 677,
+    "flags": 4,
+    "text": "Ancrage"
+  },
+  {
+    "index": 678,
+    "flags": 0,
+    "text": "Champ Psychique"
+  },
+  {
+    "index": 679,
+    "flags": 0,
+    "text": "Furie-Bond"
+  },
+  {
+    "index": 680,
+    "flags": 0,
+    "text": "Fouet de Feu"
+  },
+  {
+    "index": 681,
+    "flags": 4,
+    "text": "Arrogance"
+  },
+  {
+    "index": 682,
+    "flags": 0,
+    "text": "Flamme Ultime"
+  },
+  {
+    "index": 683,
+    "flags": 0,
+    "text": "Permuvitesse"
+  },
+  {
+    "index": 684,
+    "flags": 4,
+    "text": "Estocorne"
+  },
+  {
+    "index": 685,
+    "flags": 0,
+    "text": "Purification"
+  },
+  {
+    "index": 686,
+    "flags": 0,
+    "text": "Danse \u00C9veil"
+  },
+  {
+    "index": 687,
+    "flags": 0,
+    "text": "Sanction Supr\u00EAme"
+  },
+  {
+    "index": 688,
+    "flags": 0,
+    "text": "Botte Sucrette"
+  },
+  {
+    "index": 689,
+    "flags": 0,
+    "text": "Sommation"
+  },
+  {
+    "index": 690,
+    "flags": 0,
+    "text": "Bec-Canon"
+  },
+  {
+    "index": 691,
+    "flags": 0,
+    "text": "Vibr\u00E9caille"
+  },
+  {
+    "index": 692,
+    "flags": 0,
+    "text": "Draco-Marteau"
+  },
+  {
+    "index": 693,
+    "flags": 0,
+    "text": "Centrifugifle"
+  },
+  {
+    "index": 694,
+    "flags": 0,
+    "text": "Voile Aurore"
+  },
+  {
+    "index": 695,
+    "flags": 0,
+    "text": "Fureur des Plumes Spectrales"
+  },
+  {
+    "index": 696,
+    "flags": 0,
+    "text": "Dark Body Press"
+  },
+  {
+    "index": 697,
+    "flags": 0,
+    "text": "Symphonie des Ondines"
+  },
+  {
+    "index": 698,
+    "flags": 0,
+    "text": "Col\u00E8re du Gardien d\u2019Alola"
+  },
+  {
+    "index": 699,
+    "flags": 0,
+    "text": "Fauche-\u00C2me des Sept \u00C9toiles"
+  },
+  {
+    "index": 700,
+    "flags": 4,
+    "text": "\u00C9lectro-Surf Survolt\u00E9"
+  },
+  {
+    "index": 701,
+    "flags": 0,
+    "text": "Gare au Ronflex"
+  },
+  {
+    "index": 702,
+    "flags": 0,
+    "text": "Neuf pour Un"
+  },
+  {
+    "index": 703,
+    "flags": 0,
+    "text": "Supernova Originelle"
+  },
+  {
+    "index": 704,
+    "flags": 0,
+    "text": "Carapi\u00E8ge"
+  },
+  {
+    "index": 705,
+    "flags": 0,
+    "text": "Canon Floral"
+  },
+  {
+    "index": 706,
+    "flags": 0,
+    "text": "Psycho-Croc"
+  },
+  {
+    "index": 707,
+    "flags": 0,
+    "text": "Tr\u00E9pignement"
+  },
+  {
+    "index": 708,
+    "flags": 4,
+    "text": "Os Ombre"
+  },
+  {
+    "index": 709,
+    "flags": 0,
+    "text": "Vif Roc"
+  },
+  {
+    "index": 710,
+    "flags": 4,
+    "text": "Aqua-Br\u00E8che"
+  },
+  {
+    "index": 711,
+    "flags": 0,
+    "text": "Laser Prisme"
+  },
+  {
+    "index": 712,
+    "flags": 0,
+    "text": "Clepto-M\u00E2nes"
+  },
+  {
+    "index": 713,
+    "flags": 0,
+    "text": "Choc M\u00E9t\u00E9ore"
+  },
+  {
+    "index": 714,
+    "flags": 0,
+    "text": "Rayon Spectral"
+  },
+  {
+    "index": 715,
+    "flags": 0,
+    "text": "Larme \u00E0 l\u2019\u0152il"
+  },
+  {
+    "index": 716,
+    "flags": 4,
+    "text": "\u00C9lectrikipik"
+  },
+  {
+    "index": 717,
+    "flags": 4,
+    "text": "Ire de la Nature"
+  },
+  {
+    "index": 718,
+    "flags": 0,
+    "text": "Coup Varia-Type"
+  },
+  {
+    "index": 719,
+    "flags": 0,
+    "text": "Giga-Tonnerre"
+  },
+  {
+    "index": 720,
+    "flags": 0,
+    "text": "Caboche-Kaboum"
+  },
+  {
+    "index": 721,
+    "flags": 0,
+    "text": "Plasma Punch"
+  },
+  {
+    "index": 722,
+    "flags": 0,
+    "text": "Photo-Geyser"
+  },
+  {
+    "index": 723,
+    "flags": 4,
+    "text": "Apocalypsis Luminis"
+  },
+  {
+    "index": 724,
+    "flags": 0,
+    "text": "H\u00E9lio-Choc D\u00E9vastateur"
+  },
+  {
+    "index": 725,
+    "flags": 0,
+    "text": "Rayons S\u00E9l\u00E9no-Explosifs"
+  },
+  {
+    "index": 726,
+    "flags": 0,
+    "text": "Patati-Patattrape"
+  },
+  {
+    "index": 727,
+    "flags": 0,
+    "text": "Hurlement des Roches-Lames"
+  },
+  {
+    "index": 728,
+    "flags": 0,
+    "text": "Dracacophonie Flamboyante"
+  },
+  {
+    "index": 729,
+    "flags": 0,
+    "text": "Pika-Sprint"
+  },
+  {
+    "index": 730,
+    "flags": 0,
+    "text": "Pika-Splash"
+  },
+  {
+    "index": 731,
+    "flags": 0,
+    "text": "Pika-Piqu\u00E9"
+  },
+  {
+    "index": 732,
+    "flags": 0,
+    "text": "Pika-Fracas"
+  },
+  {
+    "index": 733,
+    "flags": 4,
+    "text": "\u00C9vo-Thalasso"
+  },
+  {
+    "index": 734,
+    "flags": 4,
+    "text": "\u00C9vo-Dynamo"
+  },
+  {
+    "index": 735,
+    "flags": 4,
+    "text": "\u00C9vo-Flambo"
+  },
+  {
+    "index": 736,
+    "flags": 4,
+    "text": "\u00C9vo-Psycho"
+  },
+  {
+    "index": 737,
+    "flags": 4,
+    "text": "\u00C9vo-T\u00E9n\u00E9bro"
+  },
+  {
+    "index": 738,
+    "flags": 4,
+    "text": "\u00C9vo-\u00C9colo"
+  },
+  {
+    "index": 739,
+    "flags": 4,
+    "text": "\u00C9vo-Cong\u00E9lo"
+  },
+  {
+    "index": 740,
+    "flags": 4,
+    "text": "\u00C9vo-Fabulo"
+  },
+  {
+    "index": 741,
+    "flags": 4,
+    "text": "\u00C9vo-Chardasso"
+  },
+  {
+    "index": 742,
+    "flags": 4,
+    "text": "\u00C9crous d\u2019Poing"
+  },
+  {
+    "index": 743,
+    "flags": 0,
+    "text": "Gardomax"
+  },
+  {
+    "index": 744,
+    "flags": 0,
+    "text": "Canon Dynamax"
+  },
+  {
+    "index": 745,
+    "flags": 0,
+    "text": "Tir de Pr\u00E9cision"
+  },
+  {
+    "index": 746,
+    "flags": 0,
+    "text": "Croque Fort"
+  },
+  {
+    "index": 747,
+    "flags": 0,
+    "text": "Garde-\u00E0-Joues"
+  },
+  {
+    "index": 748,
+    "flags": 4,
+    "text": "Ultime Bastion"
+  },
+  {
+    "index": 749,
+    "flags": 0,
+    "text": "Goudronnage"
+  },
+  {
+    "index": 750,
+    "flags": 0,
+    "text": "Poudre Magique"
+  },
+  {
+    "index": 751,
+    "flags": 0,
+    "text": "Draco-Fl\u00E8ches"
+  },
+  {
+    "index": 752,
+    "flags": 0,
+    "text": "Th\u00E9r\u00E9monie"
+  },
+  {
+    "index": 753,
+    "flags": 4,
+    "text": "Octoprise"
+  },
+  {
+    "index": 754,
+    "flags": 0,
+    "text": "Prise de Bec"
+  },
+  {
+    "index": 755,
+    "flags": 0,
+    "text": "Branchicrok"
+  },
+  {
+    "index": 756,
+    "flags": 0,
+    "text": "Change-C\u00F4t\u00E9"
+  },
+  {
+    "index": 757,
+    "flags": 0,
+    "text": "Pyromax"
+  },
+  {
+    "index": 758,
+    "flags": 4,
+    "text": "Insectomax"
+  },
+  {
+    "index": 759,
+    "flags": 0,
+    "text": "Fulguromax"
+  },
+  {
+    "index": 760,
+    "flags": 0,
+    "text": "Normalomax"
+  },
+  {
+    "index": 761,
+    "flags": 0,
+    "text": "Pugilomax"
+  },
+  {
+    "index": 762,
+    "flags": 0,
+    "text": "Spectromax"
+  },
+  {
+    "index": 763,
+    "flags": 0,
+    "text": "Cryomax"
+  },
+  {
+    "index": 764,
+    "flags": 0,
+    "text": "Toxinomax"
+  },
+  {
+    "index": 765,
+    "flags": 0,
+    "text": "Hydromax"
+  },
+  {
+    "index": 766,
+    "flags": 4,
+    "text": "A\u00E9romax"
+  },
+  {
+    "index": 767,
+    "flags": 4,
+    "text": "Enchantomax"
+  },
+  {
+    "index": 768,
+    "flags": 0,
+    "text": "Dracomax"
+  },
+  {
+    "index": 769,
+    "flags": 0,
+    "text": "Psychomax"
+  },
+  {
+    "index": 770,
+    "flags": 0,
+    "text": "Lithomax"
+  },
+  {
+    "index": 771,
+    "flags": 0,
+    "text": "Sismomax"
+  },
+  {
+    "index": 772,
+    "flags": 0,
+    "text": "Sinistromax"
+  },
+  {
+    "index": 773,
+    "flags": 0,
+    "text": "Phytomax"
+  },
+  {
+    "index": 774,
+    "flags": 0,
+    "text": "M\u00E9tallomax"
+  },
+  {
+    "index": 775,
+    "flags": 0,
+    "text": "Dracacophonie"
+  },
+  {
+    "index": 776,
+    "flags": 0,
+    "text": "Big Splash"
+  },
+  {
+    "index": 777,
+    "flags": 0,
+    "text": "Nappage"
+  },
+  {
+    "index": 778,
+    "flags": 0,
+    "text": "Tambour Battant"
+  },
+  {
+    "index": 779,
+    "flags": 0,
+    "text": "Troquenard"
+  },
+  {
+    "index": 780,
+    "flags": 0,
+    "text": "Ballon Br\u00FBlant"
+  },
+  {
+    "index": 781,
+    "flags": 0,
+    "text": "Gladius Maximus"
+  },
+  {
+    "index": 782,
+    "flags": 4,
+    "text": "Aegis Maxima"
+  },
+  {
+    "index": 783,
+    "flags": 0,
+    "text": "Roue Libre"
+  },
+  {
+    "index": 784,
+    "flags": 4,
+    "text": "Abattage"
+  },
+  {
+    "index": 785,
+    "flags": 0,
+    "text": "Tapotige"
+  },
+  {
+    "index": 786,
+    "flags": 4,
+    "text": "Overdrive"
+  },
+  {
+    "index": 787,
+    "flags": 4,
+    "text": "Acide Malique"
+  },
+  {
+    "index": 788,
+    "flags": 0,
+    "text": "Force G"
+  },
+  {
+    "index": 789,
+    "flags": 0,
+    "text": "Choc \u00C9motionnel"
+  },
+  {
+    "index": 790,
+    "flags": 0,
+    "text": "Vapeur F\u00E9\u00E9rique"
+  },
+  {
+    "index": 791,
+    "flags": 0,
+    "text": "Fontaine de Vie"
+  },
+  {
+    "index": 792,
+    "flags": 0,
+    "text": "Blocage"
+  },
+  {
+    "index": 793,
+    "flags": 0,
+    "text": "Fourbette"
+  },
+  {
+    "index": 794,
+    "flags": 0,
+    "text": "Joute Astrale"
+  },
+  {
+    "index": 795,
+    "flags": 0,
+    "text": "Laser Infinimax"
+  },
+  {
+    "index": 796,
+    "flags": 0,
+    "text": "M\u00E9talaser"
+  },
+  {
+    "index": 797,
+    "flags": 0,
+    "text": "Vaste Pouvoir"
+  },
+  {
+    "index": 798,
+    "flags": 0,
+    "text": "M\u00E9talliroue"
+  },
+  {
+    "index": 799,
+    "flags": 0,
+    "text": "Rafale \u00C9cailles"
+  },
+  {
+    "index": 800,
+    "flags": 0,
+    "text": "Laser M\u00E9t\u00E9ore"
+  },
+  {
+    "index": 801,
+    "flags": 0,
+    "text": "Kokiyarme"
+  },
+  {
+    "index": 802,
+    "flags": 4,
+    "text": "Explo-Brume"
+  },
+  {
+    "index": 803,
+    "flags": 0,
+    "text": "Gliss\u2019Herbe"
+  },
+  {
+    "index": 804,
+    "flags": 0,
+    "text": "Monte-Tension"
+  },
+  {
+    "index": 805,
+    "flags": 0,
+    "text": "Champlification"
+  },
+  {
+    "index": 806,
+    "flags": 0,
+    "text": "Ravage Rampant"
+  },
+  {
+    "index": 807,
+    "flags": 0,
+    "text": "Feu Envieux"
+  },
+  {
+    "index": 808,
+    "flags": 0,
+    "text": "Cent Rancunes"
+  },
+  {
+    "index": 809,
+    "flags": 4,
+    "text": "Esprit Frappeur"
+  },
+  {
+    "index": 810,
+    "flags": 0,
+    "text": "Gaz Corrosif"
+  },
+  {
+    "index": 811,
+    "flags": 0,
+    "text": "Coaching"
+  },
+  {
+    "index": 812,
+    "flags": 4,
+    "text": "Eau Revoir"
+  },
+  {
+    "index": 813,
+    "flags": 0,
+    "text": "Triple Axel"
+  },
+  {
+    "index": 814,
+    "flags": 0,
+    "text": "Double Vol\u00E9e"
+  },
+  {
+    "index": 815,
+    "flags": 0,
+    "text": "Sable Ardent"
+  },
+  {
+    "index": 816,
+    "flags": 0,
+    "text": "Selve Salvatrice"
+  },
+  {
+    "index": 817,
+    "flags": 0,
+    "text": "Poing Obscur"
+  },
+  {
+    "index": 818,
+    "flags": 0,
+    "text": "Torrent de Coups"
+  },
+  {
+    "index": 819,
+    "flags": 0,
+    "text": "Voltage\u00F4le"
+  },
+  {
+    "index": 820,
+    "flags": 0,
+    "text": "Draco-\u00C9nergie"
+  },
+  {
+    "index": 821,
+    "flags": 0,
+    "text": "Regard Gla\u00E7ant"
+  },
+  {
+    "index": 822,
+    "flags": 0,
+    "text": "Fureur Ardente"
+  },
+  {
+    "index": 823,
+    "flags": 0,
+    "text": "Coup Fulgurant"
+  },
+  {
+    "index": 824,
+    "flags": 0,
+    "text": "Lance de Glace"
+  },
+  {
+    "index": 825,
+    "flags": 4,
+    "text": "\u00C9clat Spectral"
+  },
+  {
+    "index": 826,
+    "flags": 0,
+    "text": "Sort Sinistre"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Habilidad"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Objeto"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "ID de equipo"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Equipo"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Pr\u00E9stamo"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Gestionar Equipos de Pr\u00E9stamo"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Gestionar equipos p\u00FAblicos"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres hacer con este Equipo de\\nPr\u00E9stamo?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Tomar prestado"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vac\u00EDo"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Devolver"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres hacer con este Equipo de\\nCombate?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Publicar"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "No publicar"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Comprobar"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Selecciona un Equipo de Combate."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Selecciona un Equipo de Pr\u00E9stamo."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Pr\u00E9stamo 1"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Pr\u00E9stamo 2"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Pr\u00E9stamo 3"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Pr\u00E9stamo 4"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Pr\u00E9stamo 5"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "P\u00FAblico 1"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "P\u00FAblico 2"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "P\u00FAblico 3"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "P\u00FAblico 4"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "P\u00FAblico 5"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Pr\u00E9stamo [VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "P\u00FAblico [VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres devolver este equipo?"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Has devuelto el Equipo de Combate.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres publicar este equipo?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Has publicado el Equipo de Combate.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres que este equipo deje de ser\\np\u00FAblico?"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "El equipo ha dejado de ser p\u00FAblico.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Conectando... Por favor, espera."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres tomar prestado este\\nequipo?"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Has tomado prestado el Equipo de Combate.\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Ayuda"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "No se ha encontrado ning\u00FAn equipo.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Se ha detectado un problema con alguno de los\\nPok\u00E9mon de tu Equipo de Combate.\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Guardando...\\nNo apagues la consola."
+  }
+]
