@@ -1,0 +1,24 @@
+Nur bestimmte Pokémon können Kombi-Attacken\nerlernen. Möchtest du, dass ich einem deiner\r\nPokémon eine solche beibringe?
+Nun gut. Schau einfach wieder vorbei,\nwenn du es dir anders überlegt hast.
+Tut mir wirklich leid, aber keines der Pokémon,\ndie du dabeihast, kann meine Attacke erlernen...
+Welchem Pokémon soll ich meine Attacke\nbeibringen?
+[VAR 0102(0001)] kann meine Attacke offenbar\nnicht erlernen.
+Ein Ei...? Wie genau soll denn ein Ei bitte schön\nmeine Attacke erlernen?! Du hast Ideen...
+[VAR 0102(0001)] beherrscht diese Attacke\noffenbar bereits.
+Welche Attacke soll vergessen werden?
+[VAR 0102(0000)] erlernt\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0001)]\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]
+Der Schlüssel zum Erfolg mit Kombi-Attacken\nliegt darin, ihre verschiedenen Typen gekonnt\r\nmiteinander zu kombinieren.
+Hast du zufällig ein Pokémon dabei, das du von\neinem Inselkönig geschenkt bekommen hast?\c\nWenn du nämlich so ein Pokémon oder eine\nseiner Entwicklungsstufen im Team hast, das\r\ndem Typ Feuer, Wasser oder Pflanze angehört,\r\nund außerdem noch zutraulich ist, kann ich ihm\r\neine besondere Kombi-Attacke beibringen!
+Soll ich einem deiner Pokémon eine besondere\nKombi-Attacke beibringen?
+Tut mir leid, aber du hast kein Pokémon dabei,\ndem ich eine Attacke beibringen könnte...
+Da kann man nichts machen.\nDann eben ein anderes Mal!
+Welchem Pokémon soll ich eine Attacke\nbeibringen?
+Dieses Pokémon kann keine Kombi-Attacke\nerlernen!
+Was? Soll das ein schlechter Scherz sein?\nEin Ei kann keine Attacken erlernen!
+Lass es mich so ausdrücken: Dieses Pokémon\nist noch nicht zutraulich genug...
+Dieses Pokémon beherrscht doch bereits\neine meiner Attacken!
+Soll ich [VAR 0101(0000)] die Attacke\n[VAR 0107(0001)] beibringen?
+Am liebsten sind mir Pokémon, die man von\neinem Inselkönig oder von einem Professor\r\ngeschenkt bekommt!\c\nDiesen kann ich ganz besondere Attacken,\ndie man Kombi-Attacken nennt, beibringen.\c\nDas ist mein ganz spezieller Service für dich!
+Welche Attacke soll durch\n[VAR 0107(0000)] ersetzt werden?
+[VAR 0102(0000)] hat\n[VAR 0107(0001)] nicht erlernt.

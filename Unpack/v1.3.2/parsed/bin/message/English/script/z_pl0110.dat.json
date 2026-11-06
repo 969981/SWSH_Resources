@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Leon!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Let\u2019s go, [VAR 0100(0000)]!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Leon! Leon!\\nLeon\u2019s our Champion!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)]!\\n[VAR 1003][VAR 0100(0000)]!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Beat h[VAR 1100(00FF,0202)]imer, Champion!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Don\u2019t give up,\\n[VAR 0100(0000)]!"
+  }
+]

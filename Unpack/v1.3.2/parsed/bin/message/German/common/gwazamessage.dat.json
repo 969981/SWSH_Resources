@@ -1,0 +1,662 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Feuerflug ein!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Feuerflug ein!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Feuerflug ein!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Feuerflug ein!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Benebelung ein!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Benebelung ein!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Benebelung ein!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Benebelung ein!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Blitzhagel ein!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Blitzhagel ein!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Blitzhagel ein!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Blitzhagel ein!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-M\u00FCnzregen ein!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-M\u00FCnzregen ein!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-M\u00FCnzregen ein!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-M\u00FCnzregen ein!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Fokusschlag ein!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Fokusschlag ein!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Fokusschlag ein!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Fokusschlag ein!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Spuksperre ein!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Spuksperre ein!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Spuksperre ein!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Spuksperre ein!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Melodie ein!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Melodie ein!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Melodie ein!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Melodie ein!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Gekuschel ein!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Gekuschel ein!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Gekuschel ein!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Gekuschel ein!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Recycling ein!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Recycling ein!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Recycling ein!"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Recycling ein!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Gestank ein!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Gestank ein!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Gestank ein!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Gestank ein!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Ger\u00F6ll ein!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Ger\u00F6ll ein!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Ger\u00F6ll ein!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Ger\u00F6ll ein!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Sturmsto\u00DF ein!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Sturmsto\u00DF ein!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Sturmsto\u00DF ein!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Sturmsto\u00DF ein!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Voltschlag ein!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Voltschlag ein!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Voltschlag ein!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Voltschlag ein!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Lichtblick ein!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Lichtblick ein!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Lichtblick ein!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Lichtblick ein!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-D\u00E4mpfer ein!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-D\u00E4mpfer ein!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-D\u00E4mpfer ein!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-D\u00E4mpfer ein!"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Astrowellen ein!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Astrowellen ein!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Astrowellen ein!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Astrowellen ein!"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Schlacke ein!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Schlacke ein!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Schlacke ein!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Schlacke ein!"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Sandsto\u00DF ein!"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Sandsto\u00DF ein!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Sandsto\u00DF ein!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Sandsto\u00DF ein!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-G\u00E4hnzwang ein!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-G\u00E4hnzwang ein!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-G\u00E4hnzwang ein!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-G\u00E4hnzwang ein!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-S\u00E4ureguss ein!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-S\u00E4ureguss ein!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-S\u00E4ureguss ein!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-S\u00E4ureguss ein!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Nektarflut ein!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Nektarflut ein!"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Nektarflut ein!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Nektarflut ein!"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Sanktion ein!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Sanktion ein!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Sanktion ein!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Sanktion ein!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Stahlschlag ein!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Stahlschlag ein!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Stahlschlag ein!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Stahlschlag ein!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Schmelze ein!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Schmelze ein!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Schmelze ein!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Schmelze ein!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Schaumbad ein!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Schaumbad ein!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Schaumbad ein!"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Schaumbad ein!"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Feuerkessel ein!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Feuerkessel ein!"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Feuerkessel ein!"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Feuerkessel ein!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Gei\u00DFel ein!"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Gei\u00DFel ein!"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Gei\u00DFel ein!"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Gei\u00DFel ein!"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Beschuss ein!"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Beschuss ein!"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Beschuss ein!"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Beschuss ein!"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Getrommel ein!"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Getrommel ein!"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Getrommel ein!"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Getrommel ein!"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Brandball ein!"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Brandball ein!"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Brandball ein!"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Brandball ein!"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Sch\u00FCtze ein!"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Sch\u00FCtze ein!"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Sch\u00FCtze ein!"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Sch\u00FCtze ein!"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Einzelhieb ein!"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Einzelhieb ein!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Einzelhieb ein!"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Einzelhieb ein!"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] setzt\\nGiga-Multihieb ein!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (wild) setzt\\nGiga-Multihieb ein!"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Gegner) setzt\\nGiga-Multihieb ein!"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] von [VAR 0100(000A)] setzt\\nGiga-Multihieb ein!"
+  }
+]

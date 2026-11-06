@@ -1,0 +1,2922 @@
+[
+  {
+    "index": 0,
+    "hash": "BC3D87418A07CFF8",
+    "name": "msg_ui_box_top_00"
+  },
+  {
+    "index": 1,
+    "hash": "BC3D88418A07D1AB",
+    "name": "msg_ui_box_top_01"
+  },
+  {
+    "index": 2,
+    "hash": "6F10D37858AED32B",
+    "name": "msg_ui_box_popup_00"
+  },
+  {
+    "index": 3,
+    "hash": "6F10D27858AED178",
+    "name": "msg_ui_box_popup_01"
+  },
+  {
+    "index": 4,
+    "hash": "B4FCBD101D4D307A",
+    "name": "msg_ui_box_top_box_00"
+  },
+  {
+    "index": 5,
+    "hash": "B4FCBE101D4D322D",
+    "name": "msg_ui_box_top_box_01"
+  },
+  {
+    "index": 6,
+    "hash": "5D7C98C0CBDE88D3",
+    "name": "msg_ui_box_top_find"
+  },
+  {
+    "index": 7,
+    "hash": "0F3A3439AF010602",
+    "name": "msg_ui_box_pokename"
+  },
+  {
+    "index": 8,
+    "hash": "1EFF86069059CF59",
+    "name": "msg_ui_box_male"
+  },
+  {
+    "index": 9,
+    "hash": "88BC92F2F87498CC",
+    "name": "msg_ui_box_female"
+  },
+  {
+    "index": 10,
+    "hash": "C8F858D01388E617",
+    "name": "msg_ui_box_lv_00"
+  },
+  {
+    "index": 11,
+    "hash": "C8F857D01388E464",
+    "name": "msg_ui_box_lv_01"
+  },
+  {
+    "index": 12,
+    "hash": "79F5E800AFA0AE87",
+    "name": "msg_ui_box_pokedex_00"
+  },
+  {
+    "index": 13,
+    "hash": "79F5E700AFA0ACD4",
+    "name": "msg_ui_box_pokedex_01"
+  },
+  {
+    "index": 14,
+    "hash": "78B6AD00AE91A654",
+    "name": "msg_ui_box_pokedex_no"
+  },
+  {
+    "index": 15,
+    "hash": "807316192F77310B",
+    "name": "msg_ui_box_pokedex_question"
+  },
+  {
+    "index": 16,
+    "hash": "738145784FEACF19",
+    "name": "msg_ui_box_pokerace_00"
+  },
+  {
+    "index": 17,
+    "hash": "2CCA9468E1671A71",
+    "name": "msg_ui_box_hp_00"
+  },
+  {
+    "index": 18,
+    "hash": "2CCA9368E16718BE",
+    "name": "msg_ui_box_hp_01"
+  },
+  {
+    "index": 19,
+    "hash": "2CCA9268E167170B",
+    "name": "msg_ui_box_hp_02"
+  },
+  {
+    "index": 20,
+    "hash": "2CCA9168E1671558",
+    "name": "msg_ui_box_hp_03"
+  },
+  {
+    "index": 21,
+    "hash": "FF73F075A552B33E",
+    "name": "msg_ui_box_atk"
+  },
+  {
+    "index": 22,
+    "hash": "D40C30758CB590CB",
+    "name": "msg_ui_box_def"
+  },
+  {
+    "index": 23,
+    "hash": "21C9D3B8698B1703",
+    "name": "msg_ui_box_spatk"
+  },
+  {
+    "index": 24,
+    "hash": "050663B858766C2E",
+    "name": "msg_ui_box_spdef"
+  },
+  {
+    "index": 25,
+    "hash": "FF330E75A51B4F43",
+    "name": "msg_ui_box_agi"
+  },
+  {
+    "index": 26,
+    "hash": "006E318271E06FBE",
+    "name": "msg_ui_box_status"
+  },
+  {
+    "index": 27,
+    "hash": "F392734F300348B9",
+    "name": "msg_ui_box_tokusei_00"
+  },
+  {
+    "index": 28,
+    "hash": "F392724F30034706",
+    "name": "msg_ui_box_tokusei_01"
+  },
+  {
+    "index": 29,
+    "hash": "BA83191F4D00C53C",
+    "name": "msg_ui_box_item_00"
+  },
+  {
+    "index": 30,
+    "hash": "BA831A1F4D00C6EF",
+    "name": "msg_ui_box_item_01"
+  },
+  {
+    "index": 31,
+    "hash": "CC31E1A7A9772DD4",
+    "name": "msg_ui_box_noitem"
+  },
+  {
+    "index": 32,
+    "hash": "9B6466D279C134AE",
+    "name": "msg_ui_box_waza_00"
+  },
+  {
+    "index": 33,
+    "hash": "203AAD75B75B8EA2",
+    "name": "msg_ui_box_max"
+  },
+  {
+    "index": 34,
+    "hash": "96C1986E84B80CA7",
+    "name": "msg_ui_x_00"
+  },
+  {
+    "index": 35,
+    "hash": "96C1976E84B80AF4",
+    "name": "msg_ui_x_01"
+  },
+  {
+    "index": 36,
+    "hash": "96C19A6E84B8100D",
+    "name": "msg_ui_x_02"
+  },
+  {
+    "index": 37,
+    "hash": "4177C27893C41A56",
+    "name": "msg_ui_y_00"
+  },
+  {
+    "index": 38,
+    "hash": "4177C37893C41C09",
+    "name": "msg_ui_y_01"
+  },
+  {
+    "index": 39,
+    "hash": "4177C07893C416F0",
+    "name": "msg_ui_y_02"
+  },
+  {
+    "index": 40,
+    "hash": "D428013D2EC93639",
+    "name": "msg_ui_box_range"
+  },
+  {
+    "index": 41,
+    "hash": "C5575BC0BB6947BD",
+    "name": "msg_ui_box_info_00"
+  },
+  {
+    "index": 42,
+    "hash": "BC3D89418A07D35E",
+    "name": "msg_ui_box_top_02"
+  },
+  {
+    "index": 43,
+    "hash": "D670B269319411F8",
+    "name": "msg_ui_box_context_00"
+  },
+  {
+    "index": 44,
+    "hash": "D670B369319413AB",
+    "name": "msg_ui_box_context_01"
+  },
+  {
+    "index": 45,
+    "hash": "D670B4693194155E",
+    "name": "msg_ui_box_context_02"
+  },
+  {
+    "index": 46,
+    "hash": "D670B56931941711",
+    "name": "msg_ui_box_context_03"
+  },
+  {
+    "index": 47,
+    "hash": "D670B669319418C4",
+    "name": "msg_ui_box_context_04"
+  },
+  {
+    "index": 48,
+    "hash": "D670B76931941A77",
+    "name": "msg_ui_box_context_05"
+  },
+  {
+    "index": 49,
+    "hash": "D670B86931941C2A",
+    "name": "msg_ui_box_context_06"
+  },
+  {
+    "index": 50,
+    "hash": "D670B96931941DDD",
+    "name": "msg_ui_box_context_07"
+  },
+  {
+    "index": 51,
+    "hash": "11351994923D99B3",
+    "name": "msg_ui_box_marking"
+  },
+  {
+    "index": 52,
+    "hash": "9997FEF9C3317512",
+    "name": "msg_ui_box_esc_00"
+  },
+  {
+    "index": 53,
+    "hash": "9997FFF9C33176C5",
+    "name": "msg_ui_box_esc_01"
+  },
+  {
+    "index": 54,
+    "hash": "9997FCF9C33171AC",
+    "name": "msg_ui_box_esc_02"
+  },
+  {
+    "index": 55,
+    "hash": "9997FDF9C331735F",
+    "name": "msg_ui_box_esc_03"
+  },
+  {
+    "index": 56,
+    "hash": "9997FAF9C3316E46",
+    "name": "msg_ui_box_esc_04"
+  },
+  {
+    "index": 57,
+    "hash": "9997FBF9C3316FF9",
+    "name": "msg_ui_box_esc_05"
+  },
+  {
+    "index": 58,
+    "hash": "2EB0C466AD00A461",
+    "name": "msg_ui_box_esc_05b"
+  },
+  {
+    "index": 59,
+    "hash": "9997F8F9C3316AE0",
+    "name": "msg_ui_box_esc_06"
+  },
+  {
+    "index": 60,
+    "hash": "9997F9F9C3316C93",
+    "name": "msg_ui_box_esc_07"
+  },
+  {
+    "index": 61,
+    "hash": "999806F9C33182AA",
+    "name": "msg_ui_box_esc_08"
+  },
+  {
+    "index": 62,
+    "hash": "26E07746DDAE8A69",
+    "name": "msg_ui_box_change_00"
+  },
+  {
+    "index": 63,
+    "hash": "26E07646DDAE88B6",
+    "name": "msg_ui_box_change_01"
+  },
+  {
+    "index": 64,
+    "hash": "26E07546DDAE8703",
+    "name": "msg_ui_box_change_02"
+  },
+  {
+    "index": 65,
+    "hash": "26E07446DDAE8550",
+    "name": "msg_ui_box_change_03"
+  },
+  {
+    "index": 66,
+    "hash": "43CFE6561B54F83F",
+    "name": "msg_ui_box_wallpaper_00"
+  },
+  {
+    "index": 67,
+    "hash": "43CFE5561B54F68C",
+    "name": "msg_ui_box_wallpaper_01"
+  },
+  {
+    "index": 68,
+    "hash": "43CFE8561B54FBA5",
+    "name": "msg_ui_box_wallpaper_02"
+  },
+  {
+    "index": 69,
+    "hash": "43CFE7561B54F9F2",
+    "name": "msg_ui_box_wallpaper_03"
+  },
+  {
+    "index": 70,
+    "hash": "43CFE2561B54F173",
+    "name": "msg_ui_box_wallpaper_04"
+  },
+  {
+    "index": 71,
+    "hash": "43CFE1561B54EFC0",
+    "name": "msg_ui_box_wallpaper_05"
+  },
+  {
+    "index": 72,
+    "hash": "43CFE4561B54F4D9",
+    "name": "msg_ui_box_wallpaper_06"
+  },
+  {
+    "index": 73,
+    "hash": "43CFE3561B54F326",
+    "name": "msg_ui_box_wallpaper_07"
+  },
+  {
+    "index": 74,
+    "hash": "43CFEE561B5505D7",
+    "name": "msg_ui_box_wallpaper_08"
+  },
+  {
+    "index": 75,
+    "hash": "43CFED561B550424",
+    "name": "msg_ui_box_wallpaper_09"
+  },
+  {
+    "index": 76,
+    "hash": "43CCE0561B52B836",
+    "name": "msg_ui_box_wallpaper_10"
+  },
+  {
+    "index": 77,
+    "hash": "43CCE1561B52B9E9",
+    "name": "msg_ui_box_wallpaper_11"
+  },
+  {
+    "index": 78,
+    "hash": "43CCDE561B52B4D0",
+    "name": "msg_ui_box_wallpaper_12"
+  },
+  {
+    "index": 79,
+    "hash": "43CCDF561B52B683",
+    "name": "msg_ui_box_wallpaper_13"
+  },
+  {
+    "index": 80,
+    "hash": "43CCE4561B52BF02",
+    "name": "msg_ui_box_wallpaper_14"
+  },
+  {
+    "index": 81,
+    "hash": "43CCE5561B52C0B5",
+    "name": "msg_ui_box_wallpaper_15"
+  },
+  {
+    "index": 82,
+    "hash": "43CCE2561B52BB9C",
+    "name": "msg_ui_box_wallpaper_16"
+  },
+  {
+    "index": 83,
+    "hash": "43CCE3561B52BD4F",
+    "name": "msg_ui_box_wallpaper_17"
+  },
+  {
+    "index": 84,
+    "hash": "43CCE8561B52C5CE",
+    "name": "msg_ui_box_wallpaper_18"
+  },
+  {
+    "index": 85,
+    "hash": "43CCE9561B52C781",
+    "name": "msg_ui_box_wallpaper_19"
+  },
+  {
+    "index": 86,
+    "hash": "4DBEFE37820A8C2F",
+    "name": "msg_ui_box_item_bag_00"
+  },
+  {
+    "index": 87,
+    "hash": "FBB73B8CE323E7A9",
+    "name": "msg_ui_box_item_move"
+  },
+  {
+    "index": 88,
+    "hash": "4DBEFD37820A8A7C",
+    "name": "msg_ui_box_item_bag_01"
+  },
+  {
+    "index": 89,
+    "hash": "4DBF0037820A8F95",
+    "name": "msg_ui_box_item_bag_02"
+  },
+  {
+    "index": 90,
+    "hash": "4DBEFF37820A8DE2",
+    "name": "msg_ui_box_item_bag_03"
+  },
+  {
+    "index": 91,
+    "hash": "BA831C1F4D00CA55",
+    "name": "msg_ui_box_item_03"
+  },
+  {
+    "index": 92,
+    "hash": "BA83151F4D00BE70",
+    "name": "msg_ui_box_item_04"
+  },
+  {
+    "index": 93,
+    "hash": "BA83161F4D00C023",
+    "name": "msg_ui_box_item_05"
+  },
+  {
+    "index": 94,
+    "hash": "BA83171F4D00C1D6",
+    "name": "msg_ui_box_item_06"
+  },
+  {
+    "index": 95,
+    "hash": "597DEE7CAA4CAC5C",
+    "name": "msg_ui_box_btlteam_00"
+  },
+  {
+    "index": 96,
+    "hash": "597DEF7CAA4CAE0F",
+    "name": "msg_ui_box_btlteam_01"
+  },
+  {
+    "index": 97,
+    "hash": "597DF07CAA4CAFC2",
+    "name": "msg_ui_box_btlteam_02"
+  },
+  {
+    "index": 98,
+    "hash": "597DF17CAA4CB175",
+    "name": "msg_ui_box_btlteam_03"
+  },
+  {
+    "index": 99,
+    "hash": "597DEA7CAA4CA590",
+    "name": "msg_ui_box_btlteam_04"
+  },
+  {
+    "index": 100,
+    "hash": "597DEB7CAA4CA743",
+    "name": "msg_ui_box_btlteam_05"
+  },
+  {
+    "index": 101,
+    "hash": "597DEC7CAA4CA8F6",
+    "name": "msg_ui_box_btlteam_06"
+  },
+  {
+    "index": 102,
+    "hash": "597DED7CAA4CAAA9",
+    "name": "msg_ui_box_btlteam_07"
+  },
+  {
+    "index": 103,
+    "hash": "597DF67CAA4CB9F4",
+    "name": "msg_ui_box_btlteam_08"
+  },
+  {
+    "index": 104,
+    "hash": "597DF77CAA4CBBA7",
+    "name": "msg_ui_box_btlteam_09"
+  },
+  {
+    "index": 105,
+    "hash": "7C9B0CB1F86179BD",
+    "name": "msg_ui_box_search_00"
+  },
+  {
+    "index": 106,
+    "hash": "7C9B0BB1F861780A",
+    "name": "msg_ui_box_search_01"
+  },
+  {
+    "index": 107,
+    "hash": "7C9B0AB1F8617657",
+    "name": "msg_ui_box_search_02"
+  },
+  {
+    "index": 108,
+    "hash": "7C9B09B1F86174A4",
+    "name": "msg_ui_box_search_03"
+  },
+  {
+    "index": 109,
+    "hash": "7C9B08B1F86172F1",
+    "name": "msg_ui_box_search_04"
+  },
+  {
+    "index": 110,
+    "hash": "7C9B07B1F861713E",
+    "name": "msg_ui_box_search_05"
+  },
+  {
+    "index": 111,
+    "hash": "7C9B06B1F8616F8B",
+    "name": "msg_ui_box_search_06"
+  },
+  {
+    "index": 112,
+    "hash": "7C9B05B1F8616DD8",
+    "name": "msg_ui_box_search_07"
+  },
+  {
+    "index": 113,
+    "hash": "7C9B04B1F8616C25",
+    "name": "msg_ui_box_search_08"
+  },
+  {
+    "index": 114,
+    "hash": "7C9B03B1F8616A72",
+    "name": "msg_ui_box_search_09"
+  },
+  {
+    "index": 115,
+    "hash": "7C9806B1F85F39B4",
+    "name": "msg_ui_box_search_10"
+  },
+  {
+    "index": 116,
+    "hash": "7C9807B1F85F3B67",
+    "name": "msg_ui_box_search_11"
+  },
+  {
+    "index": 117,
+    "hash": "7C9808B1F85F3D1A",
+    "name": "msg_ui_box_search_12"
+  },
+  {
+    "index": 118,
+    "hash": "7C9809B1F85F3ECD",
+    "name": "msg_ui_box_search_13"
+  },
+  {
+    "index": 119,
+    "hash": "7C9802B1F85F32E8",
+    "name": "msg_ui_box_search_14"
+  },
+  {
+    "index": 120,
+    "hash": "7C9803B1F85F349B",
+    "name": "msg_ui_box_search_15"
+  },
+  {
+    "index": 121,
+    "hash": "7C9804B1F85F364E",
+    "name": "msg_ui_box_search_16"
+  },
+  {
+    "index": 122,
+    "hash": "7C9805B1F85F3801",
+    "name": "msg_ui_box_search_17"
+  },
+  {
+    "index": 123,
+    "hash": "7C97FEB1F85F2C1C",
+    "name": "msg_ui_box_search_18"
+  },
+  {
+    "index": 124,
+    "hash": "7C97FFB1F85F2DCF",
+    "name": "msg_ui_box_search_19"
+  },
+  {
+    "index": 125,
+    "hash": "7CA1F8B1F867766F",
+    "name": "msg_ui_box_search_20"
+  },
+  {
+    "index": 126,
+    "hash": "7CA1F7B1F86774BC",
+    "name": "msg_ui_box_search_21"
+  },
+  {
+    "index": 127,
+    "hash": "7CA1FAB1F86779D5",
+    "name": "msg_ui_box_search_22"
+  },
+  {
+    "index": 128,
+    "hash": "7CA1F9B1F8677822",
+    "name": "msg_ui_box_search_23"
+  },
+  {
+    "index": 129,
+    "hash": "7CA1F4B1F8676FA3",
+    "name": "msg_ui_box_search_24"
+  },
+  {
+    "index": 130,
+    "hash": "7CA1F3B1F8676DF0",
+    "name": "msg_ui_box_search_25"
+  },
+  {
+    "index": 131,
+    "hash": "7CA1F6B1F8677309",
+    "name": "msg_ui_box_search_26"
+  },
+  {
+    "index": 132,
+    "hash": "7CA1F5B1F8677156",
+    "name": "msg_ui_box_search_27"
+  },
+  {
+    "index": 133,
+    "hash": "7CA200B1F8678407",
+    "name": "msg_ui_box_search_28"
+  },
+  {
+    "index": 134,
+    "hash": "7CA1FFB1F8678254",
+    "name": "msg_ui_box_search_29"
+  },
+  {
+    "index": 135,
+    "hash": "7C9E72B1F8645CE6",
+    "name": "msg_ui_box_search_30"
+  },
+  {
+    "index": 136,
+    "hash": "7C9E73B1F8645E99",
+    "name": "msg_ui_box_search_31"
+  },
+  {
+    "index": 137,
+    "hash": "7C9E70B1F8645980",
+    "name": "msg_ui_box_search_32"
+  },
+  {
+    "index": 138,
+    "hash": "7C9E71B1F8645B33",
+    "name": "msg_ui_box_search_33"
+  },
+  {
+    "index": 139,
+    "hash": "7C9E76B1F86463B2",
+    "name": "msg_ui_box_search_34"
+  },
+  {
+    "index": 140,
+    "hash": "7C9E77B1F8646565",
+    "name": "msg_ui_box_search_35"
+  },
+  {
+    "index": 141,
+    "hash": "7C9E74B1F864604C",
+    "name": "msg_ui_box_search_36"
+  },
+  {
+    "index": 142,
+    "hash": "7C9E75B1F86461FF",
+    "name": "msg_ui_box_search_37"
+  },
+  {
+    "index": 143,
+    "hash": "7C9E7AB1F8646A7E",
+    "name": "msg_ui_box_search_38"
+  },
+  {
+    "index": 144,
+    "hash": "7C9E7BB1F8646C31",
+    "name": "msg_ui_box_search_39"
+  },
+  {
+    "index": 145,
+    "hash": "7C8D74B1F855ED19",
+    "name": "msg_ui_box_search_40"
+  },
+  {
+    "index": 146,
+    "hash": "7C8D73B1F855EB66",
+    "name": "msg_ui_box_search_41"
+  },
+  {
+    "index": 147,
+    "hash": "7C8D72B1F855E9B3",
+    "name": "msg_ui_box_search_42"
+  },
+  {
+    "index": 148,
+    "hash": "7C8D71B1F855E800",
+    "name": "msg_ui_box_search_43"
+  },
+  {
+    "index": 149,
+    "hash": "7C8D78B1F855F3E5",
+    "name": "msg_ui_box_search_44"
+  },
+  {
+    "index": 150,
+    "hash": "5FBE236E7670803D",
+    "name": "msg_box_seikaku_00"
+  },
+  {
+    "index": 151,
+    "hash": "5FBE226E76707E8A",
+    "name": "msg_box_seikaku_01"
+  },
+  {
+    "index": 152,
+    "hash": "5FBE216E76707CD7",
+    "name": "msg_box_seikaku_02"
+  },
+  {
+    "index": 153,
+    "hash": "5FBE206E76707B24",
+    "name": "msg_box_seikaku_03"
+  },
+  {
+    "index": 154,
+    "hash": "5FBE1F6E76707971",
+    "name": "msg_box_seikaku_04"
+  },
+  {
+    "index": 155,
+    "hash": "5FBE1E6E767077BE",
+    "name": "msg_box_seikaku_05"
+  },
+  {
+    "index": 156,
+    "hash": "5FBE1D6E7670760B",
+    "name": "msg_box_seikaku_06"
+  },
+  {
+    "index": 157,
+    "hash": "5FBE1C6E76707458",
+    "name": "msg_box_seikaku_07"
+  },
+  {
+    "index": 158,
+    "hash": "5FBE1B6E767072A5",
+    "name": "msg_box_seikaku_08"
+  },
+  {
+    "index": 159,
+    "hash": "5FBE1A6E767070F2",
+    "name": "msg_box_seikaku_09"
+  },
+  {
+    "index": 160,
+    "hash": "5FBB1D6E766E4034",
+    "name": "msg_box_seikaku_10"
+  },
+  {
+    "index": 161,
+    "hash": "5FBB1E6E766E41E7",
+    "name": "msg_box_seikaku_11"
+  },
+  {
+    "index": 162,
+    "hash": "5FBB1F6E766E439A",
+    "name": "msg_box_seikaku_12"
+  },
+  {
+    "index": 163,
+    "hash": "5FBB206E766E454D",
+    "name": "msg_box_seikaku_13"
+  },
+  {
+    "index": 164,
+    "hash": "5FBB196E766E3968",
+    "name": "msg_box_seikaku_14"
+  },
+  {
+    "index": 165,
+    "hash": "5FBB1A6E766E3B1B",
+    "name": "msg_box_seikaku_15"
+  },
+  {
+    "index": 166,
+    "hash": "5FBB1B6E766E3CCE",
+    "name": "msg_box_seikaku_16"
+  },
+  {
+    "index": 167,
+    "hash": "5FBB1C6E766E3E81",
+    "name": "msg_box_seikaku_17"
+  },
+  {
+    "index": 168,
+    "hash": "5FBB156E766E329C",
+    "name": "msg_box_seikaku_18"
+  },
+  {
+    "index": 169,
+    "hash": "5FBB166E766E344F",
+    "name": "msg_box_seikaku_19"
+  },
+  {
+    "index": 170,
+    "hash": "5FC50F6E76767CEF",
+    "name": "msg_box_seikaku_20"
+  },
+  {
+    "index": 171,
+    "hash": "5FC50E6E76767B3C",
+    "name": "msg_box_seikaku_21"
+  },
+  {
+    "index": 172,
+    "hash": "5FC5116E76768055",
+    "name": "msg_box_seikaku_22"
+  },
+  {
+    "index": 173,
+    "hash": "5FC5106E76767EA2",
+    "name": "msg_box_seikaku_23"
+  },
+  {
+    "index": 174,
+    "hash": "5FC50B6E76767623",
+    "name": "msg_box_seikaku_24"
+  },
+  {
+    "index": 175,
+    "hash": "69BB3BCD1460E220",
+    "name": "msg_ui_box_trdplayer_00"
+  },
+  {
+    "index": 176,
+    "hash": "69BB3CCD1460E3D3",
+    "name": "msg_ui_box_trdplayer_01"
+  },
+  {
+    "index": 177,
+    "hash": "CB07441A63EB66D5",
+    "name": "msg_ui_box_p2ptrd_00"
+  },
+  {
+    "index": 178,
+    "hash": "CB07431A63EB6522",
+    "name": "msg_ui_box_p2ptrd_01"
+  },
+  {
+    "index": 179,
+    "hash": "CB07421A63EB636F",
+    "name": "msg_ui_box_p2ptrd_02"
+  },
+  {
+    "index": 180,
+    "hash": "CB07411A63EB61BC",
+    "name": "msg_ui_box_p2ptrd_03"
+  },
+  {
+    "index": 181,
+    "hash": "CB07401A63EB6009",
+    "name": "msg_ui_box_p2ptrd_04"
+  },
+  {
+    "index": 182,
+    "hash": "CB073F1A63EB5E56",
+    "name": "msg_ui_box_p2ptrd_05"
+  },
+  {
+    "index": 183,
+    "hash": "CB073E1A63EB5CA3",
+    "name": "msg_ui_box_p2ptrd_06"
+  },
+  {
+    "index": 184,
+    "hash": "CB073D1A63EB5AF0",
+    "name": "msg_ui_box_p2ptrd_07"
+  },
+  {
+    "index": 185,
+    "hash": "CB074C1A63EB746D",
+    "name": "msg_ui_box_p2ptrd_08"
+  },
+  {
+    "index": 186,
+    "hash": "CB074B1A63EB72BA",
+    "name": "msg_ui_box_p2ptrd_09"
+  },
+  {
+    "index": 187,
+    "hash": "CB03BE1A63E84D4C",
+    "name": "msg_ui_box_p2ptrd_10"
+  },
+  {
+    "index": 188,
+    "hash": "CB03BF1A63E84EFF",
+    "name": "msg_ui_box_p2ptrd_11"
+  },
+  {
+    "index": 189,
+    "hash": "CB03C01A63E850B2",
+    "name": "msg_ui_box_p2ptrd_12"
+  },
+  {
+    "index": 190,
+    "hash": "213B150D15F1CF43",
+    "name": "msg_ui_box_trd_00"
+  },
+  {
+    "index": 191,
+    "hash": "403E8C608BC6836C",
+    "name": "msg_ui_box_select"
+  },
+  {
+    "index": 192,
+    "hash": "BBDABA59829CB8F1",
+    "name": "msg_ui_box_select_00"
+  },
+  {
+    "index": 193,
+    "hash": "0A8CA5795655E6C3",
+    "name": "msg_ui_box_list_pokename"
+  },
+  {
+    "index": 194,
+    "hash": "6643E969673AE06C",
+    "name": "msg_ui_box_npctrd_00"
+  },
+  {
+    "index": 195,
+    "hash": "6643EA69673AE21F",
+    "name": "msg_ui_box_npctrd_01"
+  },
+  {
+    "index": 196,
+    "hash": "6643EB69673AE3D2",
+    "name": "msg_ui_box_npctrd_02"
+  },
+  {
+    "index": 197,
+    "hash": "6643EC69673AE585",
+    "name": "msg_ui_box_npctrd_03"
+  },
+  {
+    "index": 198,
+    "hash": "6643E569673AD9A0",
+    "name": "msg_ui_box_npctrd_04"
+  },
+  {
+    "index": 199,
+    "hash": "86C11812CABE0047",
+    "name": "msg_ui_box_bl_00"
+  },
+  {
+    "index": 200,
+    "hash": "86C11712CABDFE94",
+    "name": "msg_ui_box_bl_01"
+  },
+  {
+    "index": 201,
+    "hash": "86C11A12CABE03AD",
+    "name": "msg_ui_box_bl_02"
+  },
+  {
+    "index": 202,
+    "hash": "86C11912CABE01FA",
+    "name": "msg_ui_box_bl_03"
+  },
+  {
+    "index": 203,
+    "hash": "86C11412CABDF97B",
+    "name": "msg_ui_box_bl_04"
+  },
+  {
+    "index": 204,
+    "hash": "AFC00306BA6EEB36",
+    "name": "msg_ui_box_option_00"
+  },
+  {
+    "index": 205,
+    "hash": "BB3F215A47310928",
+    "name": "msg_ui_box_live_comm_00"
+  },
+  {
+    "index": 206,
+    "hash": "BB3F225A47310ADB",
+    "name": "msg_ui_box_live_comm_01"
+  },
+  {
+    "index": 207,
+    "hash": "BB3F235A47310C8E",
+    "name": "msg_ui_box_live_comm_02"
+  },
+  {
+    "index": 208,
+    "hash": "BB3F245A47310E41",
+    "name": "msg_ui_box_live_comm_03"
+  },
+  {
+    "index": 209,
+    "hash": "BB3F255A47310FF4",
+    "name": "msg_ui_box_live_comm_04"
+  },
+  {
+    "index": 210,
+    "hash": "BB3F265A473111A7",
+    "name": "msg_ui_box_live_comm_05"
+  },
+  {
+    "index": 211,
+    "hash": "BB3F275A4731135A",
+    "name": "msg_ui_box_live_comm_06"
+  },
+  {
+    "index": 212,
+    "hash": "14900BDBD4603EA6",
+    "name": "msg_ui_box_select_error_00"
+  },
+  {
+    "index": 213,
+    "hash": "14900CDBD4604059",
+    "name": "msg_ui_box_select_error_01"
+  },
+  {
+    "index": 214,
+    "hash": "149009DBD4603B40",
+    "name": "msg_ui_box_select_error_02"
+  },
+  {
+    "index": 215,
+    "hash": "14900ADBD4603CF3",
+    "name": "msg_ui_box_select_error_03"
+  },
+  {
+    "index": 216,
+    "hash": "14900FDBD4604572",
+    "name": "msg_ui_box_select_error_04"
+  },
+  {
+    "index": 217,
+    "hash": "149010DBD4604725",
+    "name": "msg_ui_box_select_error_05"
+  },
+  {
+    "index": 218,
+    "hash": "14900DDBD460420C",
+    "name": "msg_ui_box_select_error_06"
+  },
+  {
+    "index": 219,
+    "hash": "14900EDBD46043BF",
+    "name": "msg_ui_box_select_error_07"
+  },
+  {
+    "index": 220,
+    "hash": "149013DBD4604C3E",
+    "name": "msg_ui_box_select_error_08"
+  },
+  {
+    "index": 221,
+    "hash": "AFC00406BA6EECE9",
+    "name": "msg_ui_box_option_01"
+  },
+  {
+    "index": 222,
+    "hash": "AFC00106BA6EE7D0",
+    "name": "msg_ui_box_option_02"
+  },
+  {
+    "index": 223,
+    "hash": "AFC00206BA6EE983",
+    "name": "msg_ui_box_option_03"
+  },
+  {
+    "index": 224,
+    "hash": "AFC00706BA6EF202",
+    "name": "msg_ui_box_option_04"
+  },
+  {
+    "index": 225,
+    "hash": "AFC00806BA6EF3B5",
+    "name": "msg_ui_box_option_05"
+  },
+  {
+    "index": 226,
+    "hash": "AFC00506BA6EEE9C",
+    "name": "msg_ui_box_option_06"
+  },
+  {
+    "index": 227,
+    "hash": "AFC00606BA6EF04F",
+    "name": "msg_ui_box_option_07"
+  },
+  {
+    "index": 228,
+    "hash": "AFC00B06BA6EF8CE",
+    "name": "msg_ui_box_option_08"
+  },
+  {
+    "index": 229,
+    "hash": "AFC00C06BA6EFA81",
+    "name": "msg_ui_box_option_09"
+  },
+  {
+    "index": 230,
+    "hash": "AFC30906BA712B3F",
+    "name": "msg_ui_box_option_10"
+  },
+  {
+    "index": 231,
+    "hash": "42B4B21C5985B254",
+    "name": "msg_ui_box_judge_00"
+  },
+  {
+    "index": 232,
+    "hash": "42B4B31C5985B407",
+    "name": "msg_ui_box_judge_01"
+  },
+  {
+    "index": 233,
+    "hash": "42B4B41C5985B5BA",
+    "name": "msg_ui_box_judge_02"
+  },
+  {
+    "index": 234,
+    "hash": "42B4B51C5985B76D",
+    "name": "msg_ui_box_judge_03"
+  },
+  {
+    "index": 235,
+    "hash": "42B4AE1C5985AB88",
+    "name": "msg_ui_box_judge_04"
+  },
+  {
+    "index": 236,
+    "hash": "42B4AF1C5985AD3B",
+    "name": "msg_ui_box_judge_05"
+  },
+  {
+    "index": 237,
+    "hash": "42B4B01C5985AEEE",
+    "name": "msg_ui_box_judge_06"
+  },
+  {
+    "index": 238,
+    "hash": "42B4B11C5985B0A1",
+    "name": "msg_ui_box_judge_07"
+  },
+  {
+    "index": 239,
+    "hash": "42B4AA1C5985A4BC",
+    "name": "msg_ui_box_judge_08"
+  },
+  {
+    "index": 240,
+    "hash": "42B4AB1C5985A66F",
+    "name": "msg_ui_box_judge_09"
+  },
+  {
+    "index": 241,
+    "hash": "C71922911BCD1BBF",
+    "name": "msg_box_search_02_51"
+  },
+  {
+    "index": 242,
+    "hash": "C71923911BCD1D72",
+    "name": "msg_box_search_02_52"
+  },
+  {
+    "index": 243,
+    "hash": "C71924911BCD1F25",
+    "name": "msg_box_search_02_53"
+  },
+  {
+    "index": 244,
+    "hash": "C7191D911BCD1340",
+    "name": "msg_box_search_02_54"
+  },
+  {
+    "index": 245,
+    "hash": "C7191E911BCD14F3",
+    "name": "msg_box_search_02_55"
+  },
+  {
+    "index": 246,
+    "hash": "C7191F911BCD16A6",
+    "name": "msg_box_search_02_56"
+  },
+  {
+    "index": 247,
+    "hash": "C71920911BCD1859",
+    "name": "msg_box_search_02_57"
+  },
+  {
+    "index": 248,
+    "hash": "1D07DB98B6D198E6",
+    "name": "msg_box_search_03_02"
+  },
+  {
+    "index": 249,
+    "hash": "EE9B6F80A9DA01B8",
+    "name": "msg_box_search_04_16"
+  },
+  {
+    "index": 250,
+    "hash": "EE9B7080A9DA036B",
+    "name": "msg_box_search_04_17"
+  },
+  {
+    "index": 251,
+    "hash": "EE9B6D80A9D9FE52",
+    "name": "msg_box_search_04_18"
+  },
+  {
+    "index": 252,
+    "hash": "EE9B6E80A9DA0005",
+    "name": "msg_box_search_04_19"
+  },
+  {
+    "index": 253,
+    "hash": "EE97EF80A9D6F261",
+    "name": "msg_box_search_04_20"
+  },
+  {
+    "index": 254,
+    "hash": "EE97EE80A9D6F0AE",
+    "name": "msg_box_search_04_21"
+  },
+  {
+    "index": 255,
+    "hash": "EE97ED80A9D6EEFB",
+    "name": "msg_box_search_04_22"
+  },
+  {
+    "index": 256,
+    "hash": "EE97EC80A9D6ED48",
+    "name": "msg_box_search_04_23"
+  },
+  {
+    "index": 257,
+    "hash": "EE97F380A9D6F92D",
+    "name": "msg_box_search_04_24"
+  },
+  {
+    "index": 258,
+    "hash": "EE97F280A9D6F77A",
+    "name": "msg_box_search_04_25"
+  },
+  {
+    "index": 259,
+    "hash": "EE97F180A9D6F5C7",
+    "name": "msg_box_search_04_26"
+  },
+  {
+    "index": 260,
+    "hash": "EE97F080A9D6F414",
+    "name": "msg_box_search_04_27"
+  },
+  {
+    "index": 261,
+    "hash": "EE97E780A9D6E4C9",
+    "name": "msg_box_search_04_28"
+  },
+  {
+    "index": 262,
+    "hash": "EE97E680A9D6E316",
+    "name": "msg_box_search_04_29"
+  },
+  {
+    "index": 263,
+    "hash": "EE946980A9D3D8D8",
+    "name": "msg_box_search_04_30"
+  },
+  {
+    "index": 264,
+    "hash": "EFDA1F85D0EA7DF0",
+    "name": "msg_box_search_05_06"
+  },
+  {
+    "index": 265,
+    "hash": "EFDA2085D0EA7FA3",
+    "name": "msg_box_search_05_07"
+  },
+  {
+    "index": 266,
+    "hash": "EFDA2D85D0EA95BA",
+    "name": "msg_box_search_05_08"
+  },
+  {
+    "index": 267,
+    "hash": "EFDA2E85D0EA976D",
+    "name": "msg_box_search_05_09"
+  },
+  {
+    "index": 268,
+    "hash": "EFDDAB85D0EDA1AB",
+    "name": "msg_box_search_05_10"
+  },
+  {
+    "index": 269,
+    "hash": "289FA1E48CBFD143",
+    "name": "msg_box_search_08_26"
+  },
+  {
+    "index": 270,
+    "hash": "289FA0E48CBFCF90",
+    "name": "msg_box_search_08_27"
+  },
+  {
+    "index": 271,
+    "hash": "289FAFE48CBFE90D",
+    "name": "msg_box_search_08_28"
+  },
+  {
+    "index": 272,
+    "hash": "289FAEE48CBFE75A",
+    "name": "msg_box_search_08_29"
+  },
+  {
+    "index": 273,
+    "hash": "289C21E48CBCC1EC",
+    "name": "msg_box_search_08_30"
+  },
+  {
+    "index": 274,
+    "hash": "289C22E48CBCC39F",
+    "name": "msg_box_search_08_31"
+  },
+  {
+    "index": 275,
+    "hash": "289C23E48CBCC552",
+    "name": "msg_box_search_08_32"
+  },
+  {
+    "index": 276,
+    "hash": "289C24E48CBCC705",
+    "name": "msg_box_search_08_33"
+  },
+  {
+    "index": 277,
+    "hash": "289C1DE48CBCBB20",
+    "name": "msg_box_search_08_34"
+  },
+  {
+    "index": 278,
+    "hash": "289C1EE48CBCBCD3",
+    "name": "msg_box_search_08_35"
+  },
+  {
+    "index": 279,
+    "hash": "289C1FE48CBCBE86",
+    "name": "msg_box_search_08_36"
+  },
+  {
+    "index": 280,
+    "hash": "289C20E48CBCC039",
+    "name": "msg_box_search_08_37"
+  },
+  {
+    "index": 281,
+    "hash": "289C29E48CBCCF84",
+    "name": "msg_box_search_08_38"
+  },
+  {
+    "index": 282,
+    "hash": "289C2AE48CBCD137",
+    "name": "msg_box_search_08_39"
+  },
+  {
+    "index": 283,
+    "hash": "28989BE48CB9A863",
+    "name": "msg_box_search_08_40"
+  },
+  {
+    "index": 284,
+    "hash": "28989AE48CB9A6B0",
+    "name": "msg_box_search_08_41"
+  },
+  {
+    "index": 285,
+    "hash": "28989DE48CB9ABC9",
+    "name": "msg_box_search_08_42"
+  },
+  {
+    "index": 286,
+    "hash": "28989CE48CB9AA16",
+    "name": "msg_box_search_08_43"
+  },
+  {
+    "index": 287,
+    "hash": "28989FE48CB9AF2F",
+    "name": "msg_box_search_08_44"
+  },
+  {
+    "index": 288,
+    "hash": "28989EE48CB9AD7C",
+    "name": "msg_box_search_08_45"
+  },
+  {
+    "index": 289,
+    "hash": "2898A1E48CB9B295",
+    "name": "msg_box_search_08_46"
+  },
+  {
+    "index": 290,
+    "hash": "2898A0E48CB9B0E2",
+    "name": "msg_box_search_08_47"
+  },
+  {
+    "index": 291,
+    "hash": "2898A3E48CB9B5FB",
+    "name": "msg_box_search_08_48"
+  },
+  {
+    "index": 292,
+    "hash": "2898A2E48CB9B448",
+    "name": "msg_box_search_08_49"
+  },
+  {
+    "index": 293,
+    "hash": "289535E48CB6C53A",
+    "name": "msg_box_search_08_50"
+  },
+  {
+    "index": 294,
+    "hash": "7035F7F60E589F96",
+    "name": "msg_box_chat_01_02"
+  },
+  {
+    "index": 295,
+    "hash": "92B460BE07D005FE",
+    "name": "msg_box_info_00_03"
+  },
+  {
+    "index": 296,
+    "hash": "92B463BE07D00B17",
+    "name": "msg_box_info_00_04"
+  },
+  {
+    "index": 297,
+    "hash": "BEBB64C4693A117B",
+    "name": "msg_box_info_01_07"
+  },
+  {
+    "index": 298,
+    "hash": "BEBB61C4693A0C62",
+    "name": "msg_box_info_01_08"
+  },
+  {
+    "index": 299,
+    "hash": "BEBB62C4693A0E15",
+    "name": "msg_box_info_01_09"
+  },
+  {
+    "index": 300,
+    "hash": "BEBECFC4693CFD23",
+    "name": "msg_box_info_01_10"
+  },
+  {
+    "index": 301,
+    "hash": "BEBECEC4693CFB70",
+    "name": "msg_box_info_01_11"
+  },
+  {
+    "index": 302,
+    "hash": "BEBED1C4693D0089",
+    "name": "msg_box_info_01_12"
+  },
+  {
+    "index": 303,
+    "hash": "9686C776DB30DF02",
+    "name": "msg_box_dummy_23_02"
+  },
+  {
+    "index": 304,
+    "hash": "6B3EF9F1EC5B51EB",
+    "name": "msg_chat_01_14"
+  },
+  {
+    "index": 305,
+    "hash": "6B3EF8F1EC5B5038",
+    "name": "msg_chat_01_15"
+  },
+  {
+    "index": 306,
+    "hash": "6B3EFBF1EC5B5551",
+    "name": "msg_chat_01_16"
+  },
+  {
+    "index": 307,
+    "hash": "6B3EFAF1EC5B539E",
+    "name": "msg_chat_01_17"
+  },
+  {
+    "index": 308,
+    "hash": "6B3EF5F1EC5B4B1F",
+    "name": "msg_chat_01_18"
+  },
+  {
+    "index": 309,
+    "hash": "6B3EF4F1EC5B496C",
+    "name": "msg_chat_01_19"
+  },
+  {
+    "index": 310,
+    "hash": "6B34EBF1EC52E59C",
+    "name": "msg_chat_01_20"
+  },
+  {
+    "index": 311,
+    "hash": "6B34ECF1EC52E74F",
+    "name": "msg_chat_01_21"
+  },
+  {
+    "index": 312,
+    "hash": "6B34EDF1EC52E902",
+    "name": "msg_chat_01_22"
+  },
+  {
+    "index": 313,
+    "hash": "6B34EEF1EC52EAB5",
+    "name": "msg_chat_01_23"
+  },
+  {
+    "index": 314,
+    "hash": "6B34E7F1EC52DED0",
+    "name": "msg_chat_01_24"
+  },
+  {
+    "index": 315,
+    "hash": "6B34E8F1EC52E083",
+    "name": "msg_chat_01_25"
+  },
+  {
+    "index": 316,
+    "hash": "6B34E9F1EC52E236",
+    "name": "msg_chat_01_26"
+  },
+  {
+    "index": 317,
+    "hash": "8FB618AC231B2C07",
+    "name": "msg_chat_list_04"
+  },
+  {
+    "index": 318,
+    "hash": "8FB617AC231B2A54",
+    "name": "msg_chat_list_05"
+  },
+  {
+    "index": 319,
+    "hash": "8FB61AAC231B2F6D",
+    "name": "msg_chat_list_06"
+  },
+  {
+    "index": 320,
+    "hash": "9C4180D95C742A1B",
+    "name": "msg_box_p2ptrade_10"
+  },
+  {
+    "index": 321,
+    "hash": "9C417FD95C742868",
+    "name": "msg_box_p2ptrade_11"
+  },
+  {
+    "index": 322,
+    "hash": "9C4182D95C742D81",
+    "name": "msg_box_p2ptrade_12"
+  },
+  {
+    "index": 323,
+    "hash": "9C4181D95C742BCE",
+    "name": "msg_box_p2ptrade_13"
+  },
+  {
+    "index": 324,
+    "hash": "9C4184D95C7430E7",
+    "name": "msg_box_p2ptrade_14"
+  },
+  {
+    "index": 325,
+    "hash": "9C4183D95C742F34",
+    "name": "msg_box_p2ptrade_15"
+  },
+  {
+    "index": 326,
+    "hash": "9C4186D95C74344D",
+    "name": "msg_box_p2ptrade_16"
+  },
+  {
+    "index": 327,
+    "hash": "9C4185D95C74329A",
+    "name": "msg_box_p2ptrade_17"
+  },
+  {
+    "index": 328,
+    "hash": "9C4178D95C741C83",
+    "name": "msg_box_p2ptrade_18"
+  },
+  {
+    "index": 329,
+    "hash": "7C493436C4BEDA55",
+    "name": "msg_judge_03_02"
+  },
+  {
+    "index": 330,
+    "hash": "EAB301A8C06D122F",
+    "name": "msg_box_02_52"
+  },
+  {
+    "index": 331,
+    "hash": "3CA5B98D0505C0EC",
+    "name": "msg_box_05_34"
+  },
+  {
+    "index": 332,
+    "hash": "A9C0D78AB25AA694",
+    "name": "PARAM_NAME"
+  },
+  {
+    "index": 333,
+    "hash": "FE3C02F8337CCF7D",
+    "name": "PARAM_POKENAME"
+  },
+  {
+    "index": 334,
+    "hash": "71766CEA17772583",
+    "name": "PARAM__VALUE_3"
+  },
+  {
+    "index": 335,
+    "hash": "F3088E3AB45EA165",
+    "name": "PARAM__VALUE_3_S"
+  },
+  {
+    "index": 336,
+    "hash": "71766BEA177723D0",
+    "name": "PARAM__VALUE_2"
+  },
+  {
+    "index": 337,
+    "hash": "AFC91395865DAC52",
+    "name": "PARAM_MALE"
+  },
+  {
+    "index": 338,
+    "hash": "1A49DAECC5CE4C07",
+    "name": "PARAM_FEMALE"
+  },
+  {
+    "index": 339,
+    "hash": "7418D58A937CCC89",
+    "name": "PARAM_NONE"
+  },
+  {
+    "index": 340,
+    "hash": "885B3592276D1F68",
+    "name": "PARAM_LEVEL_00"
+  },
+  {
+    "index": 341,
+    "hash": "177228F02C8FAF63",
+    "name": "PARAM_ZUKAN_NO_00"
+  },
+  {
+    "index": 342,
+    "hash": "17722AF02C8FB2C9",
+    "name": "PARAM_ZUKAN_NO_02"
+  },
+  {
+    "index": 343,
+    "hash": "641F2A02C0ACEA59",
+    "name": "PARAM_NAME_00"
+  },
+  {
+    "index": 344,
+    "hash": "6DB94AD546D9254F",
+    "name": "PARAM_TYPE"
+  },
+  {
+    "index": 345,
+    "hash": "D7629C32C0B5F95E",
+    "name": "PARAM_OYANAME_00"
+  },
+  {
+    "index": 346,
+    "hash": "D7629D32C0B5FB11",
+    "name": "PARAM_OYANAME_01"
+  },
+  {
+    "index": 347,
+    "hash": "54CEAA62EA381EE8",
+    "name": "PARAM_HP_00"
+  },
+  {
+    "index": 348,
+    "hash": "54CEAB62EA38209B",
+    "name": "PARAM_HP_01"
+  },
+  {
+    "index": 349,
+    "hash": "DA681A60CEDE8FFC",
+    "name": "PARAM_ATK_00"
+  },
+  {
+    "index": 350,
+    "hash": "23D679AADBEF47F3",
+    "name": "PARAM_DEF_00"
+  },
+  {
+    "index": 351,
+    "hash": "E452106A973BD78B",
+    "name": "PARAM_SPATK_00"
+  },
+  {
+    "index": 352,
+    "hash": "774C36F3BFC5DABC",
+    "name": "PARAM_SPDEF_00"
+  },
+  {
+    "index": 353,
+    "hash": "9F77CA0971E939DF",
+    "name": "PARAM_AGI_00"
+  },
+  {
+    "index": 354,
+    "hash": "220F5E1D85BC36F7",
+    "name": "PARAM_SEIKAKU_00"
+  },
+  {
+    "index": 355,
+    "hash": "220F5D1D85BC3544",
+    "name": "PARAM_SEIKAKU_01"
+  },
+  {
+    "index": 356,
+    "hash": "952238C733B5D162",
+    "name": "PARAM_TOKUSEI_00"
+  },
+  {
+    "index": 357,
+    "hash": "952239C733B5D315",
+    "name": "PARAM_TOKUSEI_01"
+  },
+  {
+    "index": 358,
+    "hash": "7E4693D160DF13E5",
+    "name": "PARAM_ITEM_00"
+  },
+  {
+    "index": 359,
+    "hash": "7E4692D160DF1232",
+    "name": "PARAM_ITEM_01"
+  },
+  {
+    "index": 360,
+    "hash": "A8DB4152CD46126B",
+    "name": "PARAM_WAZA_00"
+  },
+  {
+    "index": 361,
+    "hash": "A8DB4052CD4610B8",
+    "name": "PARAM_WAZA_01"
+  },
+  {
+    "index": 362,
+    "hash": "43C378E28D2C3546",
+    "name": "msg_box_name"
+  },
+  {
+    "index": 363,
+    "hash": "393A2ED182E73704",
+    "name": "msg_box_judge"
+  },
+  {
+    "index": 364,
+    "hash": "5CED551336FB59C5",
+    "name": "msg_team_name_00"
+  },
+  {
+    "index": 365,
+    "hash": "980FB4503153A3F3",
+    "name": "msg_team_name_dummy"
+  },
+  {
+    "index": 366,
+    "hash": "9D819A11AC79E917",
+    "name": "msg_group_name_02"
+  },
+  {
+    "index": 367,
+    "hash": "9D819911AC79E764",
+    "name": "msg_group_name_03"
+  },
+  {
+    "index": 368,
+    "hash": "9D819811AC79E5B1",
+    "name": "msg_group_name_04"
+  },
+  {
+    "index": 369,
+    "hash": "4107CEB05BC86484",
+    "name": "msg_box_01_01"
+  },
+  {
+    "index": 370,
+    "hash": "4107D1B05BC8699D",
+    "name": "msg_box_01_02"
+  },
+  {
+    "index": 371,
+    "hash": "4107D0B05BC867EA",
+    "name": "msg_box_01_03"
+  },
+  {
+    "index": 372,
+    "hash": "4107CBB05BC85F6B",
+    "name": "msg_box_01_04"
+  },
+  {
+    "index": 373,
+    "hash": "4107CAB05BC85DB8",
+    "name": "msg_box_01_05"
+  },
+  {
+    "index": 374,
+    "hash": "4107CDB05BC862D1",
+    "name": "msg_box_01_06"
+  },
+  {
+    "index": 375,
+    "hash": "4107CCB05BC8611E",
+    "name": "msg_box_01_07"
+  },
+  {
+    "index": 376,
+    "hash": "4107C7B05BC8589F",
+    "name": "msg_box_01_08"
+  },
+  {
+    "index": 377,
+    "hash": "4107C6B05BC856EC",
+    "name": "msg_box_01_09"
+  },
+  {
+    "index": 378,
+    "hash": "410449B05BC54CAE",
+    "name": "msg_box_01_10"
+  },
+  {
+    "index": 379,
+    "hash": "41044AB05BC54E61",
+    "name": "msg_box_01_11"
+  },
+  {
+    "index": 380,
+    "hash": "410447B05BC54948",
+    "name": "msg_box_01_12"
+  },
+  {
+    "index": 381,
+    "hash": "53EFF4B4656F6FCA",
+    "name": "msg_box_end"
+  },
+  {
+    "index": 382,
+    "hash": "4100C3B05BC23325",
+    "name": "msg_box_01_20"
+  },
+  {
+    "index": 383,
+    "hash": "4100C2B05BC23172",
+    "name": "msg_box_01_21"
+  },
+  {
+    "index": 384,
+    "hash": "4100C1B05BC22FBF",
+    "name": "msg_box_01_22"
+  },
+  {
+    "index": 385,
+    "hash": "4100C0B05BC22E0C",
+    "name": "msg_box_01_23"
+  },
+  {
+    "index": 386,
+    "hash": "4100BFB05BC22C59",
+    "name": "msg_box_01_24"
+  },
+  {
+    "index": 387,
+    "hash": "4100BEB05BC22AA6",
+    "name": "msg_box_01_25"
+  },
+  {
+    "index": 388,
+    "hash": "4100BDB05BC228F3",
+    "name": "msg_box_01_26"
+  },
+  {
+    "index": 389,
+    "hash": "4100BCB05BC22740",
+    "name": "msg_box_01_27"
+  },
+  {
+    "index": 390,
+    "hash": "4100CBB05BC240BD",
+    "name": "msg_box_01_28"
+  },
+  {
+    "index": 391,
+    "hash": "4100CAB05BC23F0A",
+    "name": "msg_box_01_29"
+  },
+  {
+    "index": 392,
+    "hash": "40FDBDB05BBFF31C",
+    "name": "msg_box_01_30"
+  },
+  {
+    "index": 393,
+    "hash": "40FDBEB05BBFF4CF",
+    "name": "msg_box_01_31"
+  },
+  {
+    "index": 394,
+    "hash": "40FDBFB05BBFF682",
+    "name": "msg_box_01_32"
+  },
+  {
+    "index": 395,
+    "hash": "40FDC0B05BBFF835",
+    "name": "msg_box_01_33"
+  },
+  {
+    "index": 396,
+    "hash": "40FDB9B05BBFEC50",
+    "name": "msg_box_01_34"
+  },
+  {
+    "index": 397,
+    "hash": "40FDBAB05BBFEE03",
+    "name": "msg_box_01_35"
+  },
+  {
+    "index": 398,
+    "hash": "40FDBBB05BBFEFB6",
+    "name": "msg_box_01_36"
+  },
+  {
+    "index": 399,
+    "hash": "40FDBCB05BBFF169",
+    "name": "msg_box_01_37"
+  },
+  {
+    "index": 400,
+    "hash": "40FDC5B05BC000B4",
+    "name": "msg_box_01_38"
+  },
+  {
+    "index": 401,
+    "hash": "40FDC6B05BC00267",
+    "name": "msg_box_01_39"
+  },
+  {
+    "index": 402,
+    "hash": "40FA37B05BBCD993",
+    "name": "msg_box_01_40"
+  },
+  {
+    "index": 403,
+    "hash": "40F6D1B05BB9F66A",
+    "name": "msg_box_01_50"
+  },
+  {
+    "index": 404,
+    "hash": "46406BB4EE9F8A50",
+    "name": "msg_box_yes"
+  },
+  {
+    "index": 405,
+    "hash": "CCB776DD1AD69CBA",
+    "name": "msg_box_no"
+  },
+  {
+    "index": 406,
+    "hash": "EAA206A8C05EA77B",
+    "name": "msg_box_02_01"
+  },
+  {
+    "index": 407,
+    "hash": "EAA207A8C05EA92E",
+    "name": "msg_box_02_02"
+  },
+  {
+    "index": 408,
+    "hash": "EAA208A8C05EAAE1",
+    "name": "msg_box_02_03"
+  },
+  {
+    "index": 409,
+    "hash": "EAA209A8C05EAC94",
+    "name": "msg_box_02_04"
+  },
+  {
+    "index": 410,
+    "hash": "EAA20AA8C05EAE47",
+    "name": "msg_box_02_05"
+  },
+  {
+    "index": 411,
+    "hash": "EAA20BA8C05EAFFA",
+    "name": "msg_box_02_06"
+  },
+  {
+    "index": 412,
+    "hash": "EAA20CA8C05EB1AD",
+    "name": "msg_box_02_07"
+  },
+  {
+    "index": 413,
+    "hash": "EAA1FDA8C05E9830",
+    "name": "msg_box_02_08"
+  },
+  {
+    "index": 414,
+    "hash": "EAA1FEA8C05E99E3",
+    "name": "msg_box_02_09"
+  },
+  {
+    "index": 415,
+    "hash": "EAA58BA8C061BF51",
+    "name": "msg_box_02_10"
+  },
+  {
+    "index": 416,
+    "hash": "EAA58AA8C061BD9E",
+    "name": "msg_box_02_11"
+  },
+  {
+    "index": 417,
+    "hash": "EAA589A8C061BBEB",
+    "name": "msg_box_02_12"
+  },
+  {
+    "index": 418,
+    "hash": "EAA588A8C061BA38",
+    "name": "msg_box_02_13"
+  },
+  {
+    "index": 419,
+    "hash": "EAA58FA8C061C61D",
+    "name": "msg_box_02_14"
+  },
+  {
+    "index": 420,
+    "hash": "EAA58EA8C061C46A",
+    "name": "msg_box_02_15"
+  },
+  {
+    "index": 421,
+    "hash": "EAA58DA8C061C2B7",
+    "name": "msg_box_02_16"
+  },
+  {
+    "index": 422,
+    "hash": "EAA58CA8C061C104",
+    "name": "msg_box_02_17"
+  },
+  {
+    "index": 423,
+    "hash": "EAA583A8C061B1B9",
+    "name": "msg_box_02_18"
+  },
+  {
+    "index": 424,
+    "hash": "EAA582A8C061B006",
+    "name": "msg_box_02_19"
+  },
+  {
+    "index": 425,
+    "hash": "EAA911A8C064D8DA",
+    "name": "msg_box_02_20"
+  },
+  {
+    "index": 426,
+    "hash": "EAA912A8C064DA8D",
+    "name": "msg_box_02_21"
+  },
+  {
+    "index": 427,
+    "hash": "EAA90FA8C064D574",
+    "name": "msg_box_02_22"
+  },
+  {
+    "index": 428,
+    "hash": "EAA910A8C064D727",
+    "name": "msg_box_02_23"
+  },
+  {
+    "index": 429,
+    "hash": "EAA90DA8C064D20E",
+    "name": "msg_box_02_24"
+  },
+  {
+    "index": 430,
+    "hash": "EAA90EA8C064D3C1",
+    "name": "msg_box_02_25"
+  },
+  {
+    "index": 431,
+    "hash": "136CFA9D75844EE6",
+    "name": "msg_box_03_01"
+  },
+  {
+    "index": 432,
+    "hash": "136CF99D75844D33",
+    "name": "msg_box_03_02"
+  },
+  {
+    "index": 433,
+    "hash": "136CF89D75844B80",
+    "name": "msg_box_03_03"
+  },
+  {
+    "index": 434,
+    "hash": "136CFF9D75845765",
+    "name": "msg_box_03_04"
+  },
+  {
+    "index": 435,
+    "hash": "4F91D7CE6BF48845",
+    "name": "msg_box_04_yes"
+  },
+  {
+    "index": 436,
+    "hash": "132D94984F4D1069",
+    "name": "msg_box_04_no"
+  },
+  {
+    "index": 437,
+    "hash": "1231D2984E76EF9D",
+    "name": "msg_box_04_01"
+  },
+  {
+    "index": 438,
+    "hash": "1231CF984E76EA84",
+    "name": "msg_box_04_02"
+  },
+  {
+    "index": 439,
+    "hash": "3CAFC68D050E2B88",
+    "name": "msg_box_05_01"
+  },
+  {
+    "index": 440,
+    "hash": "3CAFC98D050E30A1",
+    "name": "msg_box_05_02"
+  },
+  {
+    "index": 441,
+    "hash": "3CAFC88D050E2EEE",
+    "name": "msg_box_05_03"
+  },
+  {
+    "index": 442,
+    "hash": "3CAFCB8D050E3407",
+    "name": "msg_box_05_04"
+  },
+  {
+    "index": 443,
+    "hash": "3CAFCA8D050E3254",
+    "name": "msg_box_05_05"
+  },
+  {
+    "index": 444,
+    "hash": "3CAFCD8D050E376D",
+    "name": "msg_box_05_06"
+  },
+  {
+    "index": 445,
+    "hash": "3CAFCC8D050E35BA",
+    "name": "msg_box_05_07"
+  },
+  {
+    "index": 446,
+    "hash": "3CAFBF8D050E1FA3",
+    "name": "msg_box_05_08"
+  },
+  {
+    "index": 447,
+    "hash": "3CAFBE8D050E1DF0",
+    "name": "msg_box_05_09"
+  },
+  {
+    "index": 448,
+    "hash": "3CAC418D050B13B2",
+    "name": "msg_box_05_10"
+  },
+  {
+    "index": 449,
+    "hash": "3CAC428D050B1565",
+    "name": "msg_box_05_11"
+  },
+  {
+    "index": 450,
+    "hash": "3CAC3F8D050B104C",
+    "name": "msg_box_05_12"
+  },
+  {
+    "index": 451,
+    "hash": "3CAC408D050B11FF",
+    "name": "msg_box_05_13"
+  },
+  {
+    "index": 452,
+    "hash": "3CAC3D8D050B0CE6",
+    "name": "msg_box_05_14"
+  },
+  {
+    "index": 453,
+    "hash": "3CAC3E8D050B0E99",
+    "name": "msg_box_05_15"
+  },
+  {
+    "index": 454,
+    "hash": "3CAC3B8D050B0980",
+    "name": "msg_box_05_16"
+  },
+  {
+    "index": 455,
+    "hash": "12781AC3DE14E296",
+    "name": "msg_box_time_01"
+  },
+  {
+    "index": 456,
+    "hash": "127819C3DE14E0E3",
+    "name": "msg_box_time_02"
+  },
+  {
+    "index": 457,
+    "hash": "FDCE9A81D2342FF6",
+    "name": "msg_box_10_01"
+  },
+  {
+    "index": 458,
+    "hash": "50CE7D23E0495C5E",
+    "name": "msg_judge_01_01"
+  },
+  {
+    "index": 459,
+    "hash": "50CE7C23E0495AAB",
+    "name": "msg_judge_01_02"
+  },
+  {
+    "index": 460,
+    "hash": "50CE7B23E04958F8",
+    "name": "msg_judge_01_03"
+  },
+  {
+    "index": 461,
+    "hash": "50CE8223E04964DD",
+    "name": "msg_judge_01_04"
+  },
+  {
+    "index": 462,
+    "hash": "50CE8123E049632A",
+    "name": "msg_judge_01_05"
+  },
+  {
+    "index": 463,
+    "hash": "50CE8023E0496177",
+    "name": "msg_judge_01_06"
+  },
+  {
+    "index": 464,
+    "hash": "AA033D3D279A82D1",
+    "name": "msg_judge_02_01"
+  },
+  {
+    "index": 465,
+    "hash": "AA033A3D279A7DB8",
+    "name": "msg_judge_02_02"
+  },
+  {
+    "index": 466,
+    "hash": "AA033B3D279A7F6B",
+    "name": "msg_judge_02_03"
+  },
+  {
+    "index": 467,
+    "hash": "AA03403D279A87EA",
+    "name": "msg_judge_02_04"
+  },
+  {
+    "index": 468,
+    "hash": "2043EEAA63160211",
+    "name": "msg_box_search_01_01"
+  },
+  {
+    "index": 469,
+    "hash": "2043EBAA6315FCF8",
+    "name": "msg_box_search_01_02"
+  },
+  {
+    "index": 470,
+    "hash": "C70F2F911BC4DD51",
+    "name": "msg_box_search_02_00"
+  },
+  {
+    "index": 471,
+    "hash": "C70F2E911BC4DB9E",
+    "name": "msg_box_search_02_01"
+  },
+  {
+    "index": 472,
+    "hash": "C70F2D911BC4D9EB",
+    "name": "msg_box_search_02_02"
+  },
+  {
+    "index": 473,
+    "hash": "C70F2C911BC4D838",
+    "name": "msg_box_search_02_03"
+  },
+  {
+    "index": 474,
+    "hash": "C70F33911BC4E41D",
+    "name": "msg_box_search_02_04"
+  },
+  {
+    "index": 475,
+    "hash": "C70F32911BC4E26A",
+    "name": "msg_box_search_02_05"
+  },
+  {
+    "index": 476,
+    "hash": "C70F31911BC4E0B7",
+    "name": "msg_box_search_02_06"
+  },
+  {
+    "index": 477,
+    "hash": "C70F30911BC4DF04",
+    "name": "msg_box_search_02_07"
+  },
+  {
+    "index": 478,
+    "hash": "C70F27911BC4CFB9",
+    "name": "msg_box_search_02_08"
+  },
+  {
+    "index": 479,
+    "hash": "C70F26911BC4CE06",
+    "name": "msg_box_search_02_09"
+  },
+  {
+    "index": 480,
+    "hash": "C70BA9911BC1C3C8",
+    "name": "msg_box_search_02_10"
+  },
+  {
+    "index": 481,
+    "hash": "C70BAA911BC1C57B",
+    "name": "msg_box_search_02_11"
+  },
+  {
+    "index": 482,
+    "hash": "C70BAB911BC1C72E",
+    "name": "msg_box_search_02_12"
+  },
+  {
+    "index": 483,
+    "hash": "C70BAC911BC1C8E1",
+    "name": "msg_box_search_02_13"
+  },
+  {
+    "index": 484,
+    "hash": "C70BAD911BC1CA94",
+    "name": "msg_box_search_02_14"
+  },
+  {
+    "index": 485,
+    "hash": "C70BAE911BC1CC47",
+    "name": "msg_box_search_02_15"
+  },
+  {
+    "index": 486,
+    "hash": "C70BAF911BC1CDFA",
+    "name": "msg_box_search_02_16"
+  },
+  {
+    "index": 487,
+    "hash": "C70BB0911BC1CFAD",
+    "name": "msg_box_search_02_17"
+  },
+  {
+    "index": 488,
+    "hash": "C70BA1911BC1B630",
+    "name": "msg_box_search_02_18"
+  },
+  {
+    "index": 489,
+    "hash": "C70BA2911BC1B7E3",
+    "name": "msg_box_search_02_19"
+  },
+  {
+    "index": 490,
+    "hash": "C7161B911BCADA03",
+    "name": "msg_box_search_02_20"
+  },
+  {
+    "index": 491,
+    "hash": "C7161A911BCAD850",
+    "name": "msg_box_search_02_21"
+  },
+  {
+    "index": 492,
+    "hash": "C7161D911BCADD69",
+    "name": "msg_box_search_02_22"
+  },
+  {
+    "index": 493,
+    "hash": "C7161C911BCADBB6",
+    "name": "msg_box_search_02_23"
+  },
+  {
+    "index": 494,
+    "hash": "C7161F911BCAE0CF",
+    "name": "msg_box_search_02_24"
+  },
+  {
+    "index": 495,
+    "hash": "C7161E911BCADF1C",
+    "name": "msg_box_search_02_25"
+  },
+  {
+    "index": 496,
+    "hash": "C71621911BCAE435",
+    "name": "msg_box_search_02_26"
+  },
+  {
+    "index": 497,
+    "hash": "C71620911BCAE282",
+    "name": "msg_box_search_02_27"
+  },
+  {
+    "index": 498,
+    "hash": "C71623911BCAE79B",
+    "name": "msg_box_search_02_28"
+  },
+  {
+    "index": 499,
+    "hash": "1D07DA98B6D19733",
+    "name": "msg_box_search_03_01"
+  },
+  {
+    "index": 500,
+    "hash": "EE9EDA80A9DCED60",
+    "name": "msg_box_search_04_01"
+  },
+  {
+    "index": 501,
+    "hash": "EE9EDD80A9DCF279",
+    "name": "msg_box_search_04_02"
+  },
+  {
+    "index": 502,
+    "hash": "EE9EDC80A9DCF0C6",
+    "name": "msg_box_search_04_03"
+  },
+  {
+    "index": 503,
+    "hash": "EE9EDF80A9DCF5DF",
+    "name": "msg_box_search_04_04"
+  },
+  {
+    "index": 504,
+    "hash": "EE9EDE80A9DCF42C",
+    "name": "msg_box_search_04_05"
+  },
+  {
+    "index": 505,
+    "hash": "EE9EE180A9DCF945",
+    "name": "msg_box_search_04_06"
+  },
+  {
+    "index": 506,
+    "hash": "EE9EE080A9DCF792",
+    "name": "msg_box_search_04_07"
+  },
+  {
+    "index": 507,
+    "hash": "EE9EE380A9DCFCAB",
+    "name": "msg_box_search_04_08"
+  },
+  {
+    "index": 508,
+    "hash": "EE9EE280A9DCFAF8",
+    "name": "msg_box_search_04_09"
+  },
+  {
+    "index": 509,
+    "hash": "EE9B7580A9DA0BEA",
+    "name": "msg_box_search_04_10"
+  },
+  {
+    "index": 510,
+    "hash": "EE9B7680A9DA0D9D",
+    "name": "msg_box_search_04_11"
+  },
+  {
+    "index": 511,
+    "hash": "EE9B7380A9DA0884",
+    "name": "msg_box_search_04_12"
+  },
+  {
+    "index": 512,
+    "hash": "EE9B7480A9DA0A37",
+    "name": "msg_box_search_04_13"
+  },
+  {
+    "index": 513,
+    "hash": "EE9B7180A9DA051E",
+    "name": "msg_box_search_04_14"
+  },
+  {
+    "index": 514,
+    "hash": "EE9B7280A9DA06D1",
+    "name": "msg_box_search_04_15"
+  },
+  {
+    "index": 515,
+    "hash": "EFDA2685D0EA89D5",
+    "name": "msg_box_search_05_01"
+  },
+  {
+    "index": 516,
+    "hash": "EFDA2385D0EA84BC",
+    "name": "msg_box_search_05_02"
+  },
+  {
+    "index": 517,
+    "hash": "EFDA2485D0EA866F",
+    "name": "msg_box_search_05_03"
+  },
+  {
+    "index": 518,
+    "hash": "EFDA2185D0EA8156",
+    "name": "msg_box_search_05_04"
+  },
+  {
+    "index": 519,
+    "hash": "EFDA2285D0EA8309",
+    "name": "msg_box_search_05_05"
+  },
+  {
+    "index": 520,
+    "hash": "28A632E48CC53354",
+    "name": "msg_box_search_08_01"
+  },
+  {
+    "index": 521,
+    "hash": "28A635E48CC5386D",
+    "name": "msg_box_search_08_02"
+  },
+  {
+    "index": 522,
+    "hash": "28A634E48CC536BA",
+    "name": "msg_box_search_08_03"
+  },
+  {
+    "index": 523,
+    "hash": "28A62FE48CC52E3B",
+    "name": "msg_box_search_08_04"
+  },
+  {
+    "index": 524,
+    "hash": "28A62EE48CC52C88",
+    "name": "msg_box_search_08_05"
+  },
+  {
+    "index": 525,
+    "hash": "28A631E48CC531A1",
+    "name": "msg_box_search_08_06"
+  },
+  {
+    "index": 526,
+    "hash": "28A630E48CC52FEE",
+    "name": "msg_box_search_08_07"
+  },
+  {
+    "index": 527,
+    "hash": "28A62BE48CC5276F",
+    "name": "msg_box_search_08_08"
+  },
+  {
+    "index": 528,
+    "hash": "28A62AE48CC525BC",
+    "name": "msg_box_search_08_09"
+  },
+  {
+    "index": 529,
+    "hash": "28A2ADE48CC21B7E",
+    "name": "msg_box_search_08_10"
+  },
+  {
+    "index": 530,
+    "hash": "28A2AEE48CC21D31",
+    "name": "msg_box_search_08_11"
+  },
+  {
+    "index": 531,
+    "hash": "28A2ABE48CC21818",
+    "name": "msg_box_search_08_12"
+  },
+  {
+    "index": 532,
+    "hash": "28A2ACE48CC219CB",
+    "name": "msg_box_search_08_13"
+  },
+  {
+    "index": 533,
+    "hash": "28A2B1E48CC2224A",
+    "name": "msg_box_search_08_14"
+  },
+  {
+    "index": 534,
+    "hash": "28A2B2E48CC223FD",
+    "name": "msg_box_search_08_15"
+  },
+  {
+    "index": 535,
+    "hash": "28A2AFE48CC21EE4",
+    "name": "msg_box_search_08_16"
+  },
+  {
+    "index": 536,
+    "hash": "28A2B0E48CC22097",
+    "name": "msg_box_search_08_17"
+  },
+  {
+    "index": 537,
+    "hash": "28A2A5E48CC20DE6",
+    "name": "msg_box_search_08_18"
+  },
+  {
+    "index": 538,
+    "hash": "28A2A6E48CC20F99",
+    "name": "msg_box_search_08_19"
+  },
+  {
+    "index": 539,
+    "hash": "289FA7E48CBFDB75",
+    "name": "msg_box_search_08_20"
+  },
+  {
+    "index": 540,
+    "hash": "289FA6E48CBFD9C2",
+    "name": "msg_box_search_08_21"
+  },
+  {
+    "index": 541,
+    "hash": "289FA5E48CBFD80F",
+    "name": "msg_box_search_08_22"
+  },
+  {
+    "index": 542,
+    "hash": "289FA4E48CBFD65C",
+    "name": "msg_box_search_08_23"
+  },
+  {
+    "index": 543,
+    "hash": "289FA3E48CBFD4A9",
+    "name": "msg_box_search_08_24"
+  },
+  {
+    "index": 544,
+    "hash": "289FA2E48CBFD2F6",
+    "name": "msg_box_search_08_25"
+  },
+  {
+    "index": 545,
+    "hash": "7035F6F60E589DE3",
+    "name": "msg_box_chat_01_01"
+  },
+  {
+    "index": 546,
+    "hash": "92B45EBE07D00298",
+    "name": "msg_box_info_00_01"
+  },
+  {
+    "index": 547,
+    "hash": "92B461BE07D007B1",
+    "name": "msg_box_info_00_02"
+  },
+  {
+    "index": 548,
+    "hash": "BEBB6AC4693A1BAD",
+    "name": "msg_box_info_01_01"
+  },
+  {
+    "index": 549,
+    "hash": "BEBB67C4693A1694",
+    "name": "msg_box_info_01_02"
+  },
+  {
+    "index": 550,
+    "hash": "BEBB68C4693A1847",
+    "name": "msg_box_info_01_03"
+  },
+  {
+    "index": 551,
+    "hash": "BEBB65C4693A132E",
+    "name": "msg_box_info_01_04"
+  },
+  {
+    "index": 552,
+    "hash": "BEBB66C4693A14E1",
+    "name": "msg_box_info_01_05"
+  },
+  {
+    "index": 553,
+    "hash": "BEBB63C4693A0FC8",
+    "name": "msg_box_info_01_06"
+  },
+  {
+    "index": 554,
+    "hash": "9686C676DB30DD4F",
+    "name": "msg_box_dummy_23_01"
+  },
+  {
+    "index": 555,
+    "hash": "6B3B78F1EC5840E1",
+    "name": "msg_chat_01_01"
+  },
+  {
+    "index": 556,
+    "hash": "6B3B75F1EC583BC8",
+    "name": "msg_chat_01_02"
+  },
+  {
+    "index": 557,
+    "hash": "6B3B76F1EC583D7B",
+    "name": "msg_chat_01_03"
+  },
+  {
+    "index": 558,
+    "hash": "6B3B7BF1EC5845FA",
+    "name": "msg_chat_01_04"
+  },
+  {
+    "index": 559,
+    "hash": "6B3B7CF1EC5847AD",
+    "name": "msg_chat_01_05"
+  },
+  {
+    "index": 560,
+    "hash": "6B3B79F1EC584294",
+    "name": "msg_chat_01_06"
+  },
+  {
+    "index": 561,
+    "hash": "6B3B7AF1EC584447",
+    "name": "msg_chat_01_07"
+  },
+  {
+    "index": 562,
+    "hash": "6B3B6FF1EC583196",
+    "name": "msg_chat_01_08"
+  },
+  {
+    "index": 563,
+    "hash": "6B3B70F1EC583349",
+    "name": "msg_chat_01_09"
+  },
+  {
+    "index": 564,
+    "hash": "6B3EFDF1EC5B58B7",
+    "name": "msg_chat_01_10"
+  },
+  {
+    "index": 565,
+    "hash": "6B3EFCF1EC5B5704",
+    "name": "msg_chat_01_11"
+  },
+  {
+    "index": 566,
+    "hash": "6B3EFFF1EC5B5C1D",
+    "name": "msg_chat_01_12"
+  },
+  {
+    "index": 567,
+    "hash": "6B3EFEF1EC5B5A6A",
+    "name": "msg_chat_01_13"
+  },
+  {
+    "index": 568,
+    "hash": "8FB613AC231B2388",
+    "name": "msg_chat_list_01"
+  },
+  {
+    "index": 569,
+    "hash": "8FB616AC231B28A1",
+    "name": "msg_chat_list_02"
+  },
+  {
+    "index": 570,
+    "hash": "8FB615AC231B26EE",
+    "name": "msg_chat_list_03"
+  },
+  {
+    "index": 571,
+    "hash": "9C3DFBD95C711245",
+    "name": "msg_box_p2ptrade_01"
+  },
+  {
+    "index": 572,
+    "hash": "9C3DF8D95C710D2C",
+    "name": "msg_box_p2ptrade_02"
+  },
+  {
+    "index": 573,
+    "hash": "9C3DF9D95C710EDF",
+    "name": "msg_box_p2ptrade_03"
+  },
+  {
+    "index": 574,
+    "hash": "9C3DF6D95C7109C6",
+    "name": "msg_box_p2ptrade_04"
+  },
+  {
+    "index": 575,
+    "hash": "9C3DF7D95C710B79",
+    "name": "msg_box_p2ptrade_05"
+  },
+  {
+    "index": 576,
+    "hash": "9C3DF4D95C710660",
+    "name": "msg_box_p2ptrade_06"
+  },
+  {
+    "index": 577,
+    "hash": "9C3DF5D95C710813",
+    "name": "msg_box_p2ptrade_07"
+  },
+  {
+    "index": 578,
+    "hash": "9C3E02D95C711E2A",
+    "name": "msg_box_p2ptrade_08"
+  },
+  {
+    "index": 579,
+    "hash": "9C3E03D95C711FDD",
+    "name": "msg_box_p2ptrade_09"
+  },
+  {
+    "index": 580,
+    "hash": "7C493136C4BED53C",
+    "name": "msg_judge_03_01"
+  },
+  {
+    "index": 581,
+    "hash": "EAA90BA8C064CEA8",
+    "name": "msg_box_02_26"
+  },
+  {
+    "index": 582,
+    "hash": "3CAC3C8D050B0B33",
+    "name": "msg_box_05_17"
+  },
+  {
+    "index": 583,
+    "hash": "991042B48C8AF2B9",
+    "name": "msg_box_max"
+  }
+]

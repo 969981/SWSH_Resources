@@ -1,0 +1,497 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Lotta in Singolo"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Lotta in Doppio"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lotta Multipla"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 8,
+    "text": "Squadra A1"
+  },
+  {
+    "index": 5,
+    "flags": 8,
+    "text": "Squadra A2"
+  },
+  {
+    "index": 6,
+    "flags": 8,
+    "text": "Squadra B1"
+  },
+  {
+    "index": 7,
+    "flags": 8,
+    "text": "Squadra B2"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Comunicazione in corso.\\nAttendi..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Vuoi uscire dalle lotte?"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Un partecipante ha interrotto la comunicazione.\\nLotta terminata.\\c"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Interruzione del collegamento in corso."
+  },
+  {
+    "index": 12,
+    "flags": 8,
+    "text": "Stanno per iniziare i preparativi per la lotta.\\c"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Per la Lotta Multipla, si dovranno formare\\nle squadre.\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Sarai tu a scegliere le regole della lotta.\\nVuoi continuare?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Selezione del giocatore che decider\u00E0 le regole\\nin corso. Attendi..."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ha interrotto la scelta\\ndelle regole della lotta."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] sta scegliendo le regole\\ndella lotta."
+  },
+  {
+    "index": 18,
+    "flags": 8,
+    "text": "Scegli le regole della lotta.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vanno bene queste regole?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Vuoi che sia un altro giocatore a scegliere\\nle regole della lotta?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Comunicazione delle regole in corso.\\nAttendi..."
+  },
+  {
+    "index": 22,
+    "flags": 8,
+    "text": "Scegli una squadra e inizia la lotta."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Vuoi tornare indietro e scegliere delle regole\\ndiverse?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Invio dell\u2019informazione in corso."
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Almeno uno dei giocatori non pu\u00F2 partecipare.\\nVerranno scelte delle nuove regole della lotta.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Se le regole attuali non ti consentono di\\npartecipare, scegli \u201CCambia le regole\u201D.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Gli altri giocatori non sono ancora pronti.\\nAttendi..."
+  },
+  {
+    "index": 28,
+    "flags": 8,
+    "text": "Scegli i Pok\u00E9mon con cui partecipare."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Chi sar\u00E0 il [VAR 0200(0000)]\u00B0?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Formazione delle squadre in corso.\\nAttendi..."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi continuare a giocare?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "In attesa degli altri giocatori..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Lotta di nuovo con le stesse regole.\\c"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Lotta di nuovo con regole diverse.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Conferma"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Seleziona una squadra"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Non posso partecipare"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Via alla lotta!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Gioca con le stesse regole"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Gioca con regole diverse"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Tutti"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Nessuno"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 50,
+    "flags": 8,
+    "text": "Scelta automatica"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": " Esci"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": " Termina"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Conferma"
+  },
+  {
+    "index": 59,
+    "flags": 8,
+    "text": "Scambia"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Guarda le regole"
+  },
+  {
+    "index": 61,
+    "flags": 8,
+    "text": "Scelta in corso."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Tutto pronto!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Regole della Torre Lotta"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Senza restrizioni"
+  },
+  {
+    "index": 66,
+    "flags": 8,
+    "text": "Squadra selezionata"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]---[VAR FF00(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Musica"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 01C3(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 8,
+    "text": "Scegli la squadra con cui desideri lottare."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Si \u00E8 verificato un problema con i dati delle regole\\nricevuti. Attendi la ricezione di nuovi dati.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "I dati delle regole ricevuti sono danneggiati.\\nAttendi la ricezione di nuovi dati.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Vuoi che sia un altro giocatore a scegliere\\nle regole della lotta?"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Comunicazione delle regole in corso.\\nAttendi..."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Si \u00E8 verificato un problema con i dati delle regole\\ninviati. Scegli nuovamente le regole della lotta.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "I dati delle regole inviati sono danneggiati.\\nScegli nuovamente le regole della lotta.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Verranno scelte delle nuove regole della lotta.\\c"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con la Squadra Lotta."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con la Squadra Lotta\\ndi un altro giocatore."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "L\u2019album \u00E8 pieno.\\nImpossibile ricevere altre card.\\c"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Vuoi ricevere la Card della Lega Pok\u00E9mon\\ndi un avversario?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Quale Card della Lega Pok\u00E9mon vuoi ricevere?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Card ricevuta!\\c"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "L\u2019album \u00E8 pieno.\\nImpossibile ricevere altre card.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Vuoi ricevere la Card della Lega Pok\u00E9mon di altri\\ngiocatori?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Vuoi aggiungere [VAR 0100(0000)] alla lista\\ndegli utenti bloccati?"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Questa persona \u00E8 gi\u00E0 stata aggiunta\\nalla lista degli utenti bloccati.\\c"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Non potrai giocare tramite le funzioni di\\ncomunicazione con gli utenti bloccati.\\c\\nVuoi davvero bloccare questo utente?\\n(\u00C8 possibile sbloccarlo in seguito)"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Hai aggiunto [VAR 0100(0000)] alla lista degli\\nutenti bloccati.\\c"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Chi vuoi aggiungere alla lista degli utenti\\nbloccati?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Ci sono altri giocatori che vuoi aggiungere\\nalla lista degli utenti bloccati?"
+  },
+  {
+    "index": 93,
+    "flags": 8,
+    "text": "Scegli la squadra con cui desideri lottare."
+  },
+  {
+    "index": 94,
+    "flags": 8,
+    "text": "Scegli la formazione delle squadre."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Cambia le regole"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Durante questa lotta gli altri giocatori potranno\\nvedere il soprannome dei tuoi Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Esci"
+  }
+]

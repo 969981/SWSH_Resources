@@ -1,0 +1,547 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oi oi, Chief!\\nGot something legendary to show me?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Have a look!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Let\u2019s battle!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Aha, changed your mind?\\nFair enough![VAR 0114(0076)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "What\u2019ve you got for me?[VAR 0114(0076)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Hold the phone, Chief. You haven\u2019t got any\\nLegendary Pok\u00E9mon with you!\\r\\nGahaha! It happens![VAR 0114(0076)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0101(0001)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0002)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0101(0003)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0101(0004)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0101(0005)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0101(0006)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Oh? Don\u2019t feel like showing me anything\\nlegendary after all?\\r\\nGahaha! It happens![VAR 0114(0076)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Aha! That\u2019s Mewtwo, the ferocious Pok\u00E9mon\\ncreated through genetic manipulation, isn\u2019t it?\\c\\nIts face is a bit on the pale side...\\nSeems docile for the most part, though!\\c\\nIt might not have the friendliest-lookin\u2019 mug,\\nbut I\u2019ll bet you it\u2019s a decent sort on the inside![VAR 0114(0076)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Oho, here it is!\\nOur imposter Articuno!\\c\\nI always wonder what it\u2019s thinkin\u2019 in there behind\\nthat dodgy mask...\\c\\nD\u2019you get the feelin\u2019 it\u2019s lookin\u2019 down its beak at\\nus? Maybe it\u2019s my imagination.[VAR 0114(0076)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Whoa! It\u2019s our imposter Articuno, only without\\nthat dodgy mask!\\c\\nBet you it gets a lot more fans with those\\nsharp, bright eyes out in the open, eh?\\c\\nHang on, though\u2014has it gotten chilly in here?\\nDid a blizzard blow in or somethin\u2019?[VAR 0114(0076)]"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Oho, here it is!\\nOur imposter Zapdos!\\c\\nSeems like it\u2019s done its best to be jagged and\\nspiky and make its beak nice and sharp.\\c\\nIt really wants to be a proper Zapdos!\\nFull marks for effort![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Whoa! Looks like you\u2019d get a massive jolt if you\\nlaid a finger on this one!\\c\\nOur imposter Zapdos must\u2019ve gotten some static\\nelectricity in the old feathers!\\c\\nStatic builds up somethin\u2019 fierce when the air\\ngets cold and dry, doesn\u2019t it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Oho, here it is!\\nOur imposter Moltres!\\c\\nIt may look a bit like it\u2019s ablaze,\\nbut it\u2019s barely lukewarm!\\c\\nThat ultra-mega-feisty look in its eyes actually\\nmakes me feel like we\u2019d get on all right.[VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Whoa!\\nNow those are some serious flames!\\c\\nHey, imposter Moltres!\\nHave you got a fever or somethin\u2019?\\c\\nYou get some rest, hear me?\\nTake care of yourself![VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "So this is the Legendary Pok\u00E9mon Ho-Oh, eh?\\nThe one with rainbow-colored wings?\\c\\nThere\u2019s red for sure. Some white, some yellow...\\nA few hues short of a rainbow, though, isn\u2019t it?\\c\\nOh well. I\u2019d hate to crush all your dreams,\\nso I\u2019ll take your word on it, Chief![VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "So this is the Legendary Pok\u00E9mon Lugia, eh?\\nThe one they call the guardian of the seas?\\c\\nAnd yet it\u2019s a Flying type!\\nFancy that\u2014being able to swim and fly!\\r\\nWhat CAN\u2019T it do?\\c\\nI\u2019ve heard they\u2019ve got these sportin\u2019 events\\ncalled Pok\u00E9athlons in this one far-off region...\\r\\nBet you Lugia would be brilliant in those![VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "So this is Raikou, the Pok\u00E9mon they say\\ndescended with a bolt of lightnin\u2019?\\c\\nThat must\u2019ve been a pretty rough ride,\\neh, mate?\\c\\nNo wonder the mane on your back\u2019s gone\\nall curly.[VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "So this is Entei, the Pok\u00E9mon they say was born\\nfrom a volcanic eruption?\\c\\nBorn from a volcano? Yeah, sure!\\nPull the other one; it\u2019s got bells on!\\c\\nSo you\u2019re sayin\u2019 its old man\u2019s a volcano?\\nOr what\u2014is its mum a volcano?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Wow! That\u2019s a beautiful Pok\u00E9mon, that is!\\nIs that Suicune?\\c\\nIt\u2019s dead cool how that horn thing on its head\\nsort of makes a loop!\\c\\nI wonder, though... How\u2019s it supposed to roll over\\nwhen it wants to sleep on the other side?\\c\\nI bet it\u2019s got a rough time sleepin\u2019 in general.\\nYou all right, Suicune? Gettin\u2019 your eight hours?[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Whoa! Is that Groudon? The Pok\u00E9mon they call\\nthe personification of land?!\\c\\nIf the stories about how it sleeps in magma are\\ntrue...that\u2019s brilliant!\\c\\nI\u2019m a regular at the sauna, so I get where it\u2019s\\ncoming from!\\c\\nBet it gets a nice spring in its step after a kip\\nin that magma![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Whoa! Is that Kyogre? The Pok\u00E9mon they say\\ncreated the seas?!\\c\\nIf the ocean\u2019s the mother of all life...and Kyogre\u2019s\\nthe mother of the ocean...\\r\\nShould we all be callin\u2019 Kyogre our nan?!\\c\\nListen up, Chief... You better be nice and gentle\\nwith that Kyogre![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Huh? Rayquaza? Isn\u2019t it supposed to live way up\\nhigh in the ozone layer?\\c\\nSounds like some serious high-altitude trainin\u2019!\\nIt must be one dedicated athlete!\\c\\nWell, it\u2019s sure got a tough enough look on\\nits face!\\c\\nI dunno what your sport is, Rayquaza,\\nbut keep it up![VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "So this is Latias, a Pok\u00E9mon that can read\\npeople\u2019s minds usin\u2019 telepathy...\\c\\nIt\u2019s got a right cute little face for such a powerful\\nPok\u00E9mon, hasn\u2019t it?\\c\\nAll right, mate, let\u2019s see what you can do!\\nWhat am I thinkin\u2019 right now?\\c\\nWait, nope\u2014cancel that!\\nThat\u2019s a terrifyin\u2019 idea, now that I think about it![VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "So Latios is supposed to be so dead smart, it\\ncan understand human speech?\\c\\nThat\u2019s brilliant if it\u2019s true, but I dunno if I believe\\nit... It\u2019s a lot to swallow!\\c\\nHey, Latios, mate. You\u2019re sorta like a big brother\\nto Latias, right?\\c\\nWell, listen. You be a proper big brother and\\nbe good to Latias. Got it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Aha, here\u2019s our little rock giant! Gahaha!\\nSorry to tease, mate. Just having a laugh.\\c\\nDon\u2019t you worry, rock giant\u2014my respect for\\nyou\u2019s as thick as those broad shoulders!\\c\\nKeep up the good work, my fine rugged friend![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Aha, here\u2019s our little ice giant! Gahaha!\\nSorry to tease, mate. Just having a laugh.\\c\\nDon\u2019t you worry, ice giant\u2014I can see the might\\nof your massiveness as clear as my reflection\\r\\non you!\\c\\nKeep up the good work, my fine frozen friend![VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Aha, here\u2019s our little steel giant! Gahaha!\\nSorry to tease, mate. Just having a laugh.\\c\\nDon\u2019t you worry, steel giant\u2014your bowling-ball\\nbod gets full marks from me! A perfect strike!\\c\\nKeep up the good work, my fine smooth friend![VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "So this is Dialga?\\nThe Pok\u00E9mon that controls time?\\c\\nWell, if that\u2019s not just talk...think it could give\\nme a cheeky rewind whenever I make my\\r\\ndarlin\u2019 Nia mad?\\c\\nThat aside...has this thing got a bangin\u2019 cry\\nor what?![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "So this is Palkia?\\nThe Pok\u00E9mon that controls space?\\c\\nWell, if that\u2019s not just talk...I\u2019d sure love it if I\\ncould catch up to my dear Peonia instantly\\r\\nwhen she runs off! Just sayin\u2019!\\c\\nThat aside...has this thing got a bangin\u2019 cry\\nor what?![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "So this is Giratina? A Pok\u00E9mon that lives in a\\nworld on the reverse side of ours?\\c\\nIt must\u2019ve taken ages to get here from clear\\naround the planet!\\r\\nGo on\u2014plop down and have a rest, mate!\\c\\nThen again, looks like it\u2019d be a speedy flier.\\nMaybe a trip like that\u2019s a doddle for Giratina![VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Uxie, eh? The Pok\u00E9mon that governs\\nknowledge and intelligence?\\c\\nBrilliant! I might have a few tiny gaps in the\\nbrains department...\\r\\nMaybe it could front me some smarts!\\c\\nPlease and thank you kindly, O wise and\\ngenerous Uxie!\\c\\nHey, what do you know?\\nI feel brainier already! Gahaha![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Mesprit, eh?\\nThe Pok\u00E9mon that brought people emotions?\\c\\nI\u2019ll admit I can get a tad caught up in my own\\npassions now and then...\\c\\nMaybe Mesprit brought me a little too much?!\\nNah, just having a bit of fun!\\c\\nI may get happier or sadder than other folks...\\nbut that just means I\u2019m makin\u2019 the most of life![VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Azelf, eh? The Pok\u00E9mon that gives people the\\nwillpower to get through sticky situations?\\c\\nMaybe if I had one of these around, I\u2019d be\\nbetter at draggin\u2019 myself out of bed or cleanin\u2019\\r\\nup around the house!\\c\\nSounds like every home needs an Azelf!\\nI\u2019ve got to catch myself one![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Heatran, the Lava Dome Pok\u00E9mon?\\nHmm...\\c\\nThat stout, plump frame... That cheeky look on\\nits face...\\r\\nWhat an ultra-mega-lovable Pok\u00E9mon!\\c\\nWhere\u2019d you find this treasure?\\nForget legends\u2014I\u2019d like to have one just to\\r\\ncarry around![VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Whoa! Is that the boss of the legendary giants?!\\c\\nIt\u2019s gigantic enough\u2014that\u2019s for sure!\\nOne gianty giant!\\c\\nWith all these dots, though, I\u2019ve got no idea\\nwhich ones are actually eyes.\\c\\nWhere\u2019s a bloke supposed to look when he\u2019s\\ntalkin\u2019 to this one?[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Aha, it\u2019s Cresselia! The Pok\u00E9mon that represents\\nthe crescent moon! Pretty, isn\u2019t it?\\c\\nThose archy bits on its back look pretty\\nstiff though, don\u2019t they?\\c\\nHow\u2019s the poor thing supposed to sleep on its\\nside? Can it even turn over in bed?\\r\\nI worry about you, Cresselia...[VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Whoa! Is that Pok\u00E9mon\u2019s tail on fire?!\\c\\nWait\u2014come again? They say this Pok\u00E9mon could\\nscorch the world?\\c\\nWell, don\u2019t you look calm for someone carryin\u2019\\naround a potent Pok\u00E9mon like that, Chief?\\r\\nThat takes backbone, that does!\\c\\nJust watch out you don\u2019t get burned![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Whoa! That Pok\u00E9mon\u2019s cracklin\u2019 with electricity!\\c\\nWait\u2014come again? They say this Pok\u00E9mon could\\nblast the world with lightnin\u2019?\\c\\nWell, don\u2019t you look calm for someone carryin\u2019\\naround a mighty Pok\u00E9mon like that, Chief?\\r\\nThat takes backbone, that does!\\c\\nJust watch out you don\u2019t get zapped![VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Fwhoo! Brrr!\\nI was wonderin\u2019 why it got freezin\u2019 cold all of a\\r\\nsudden. Guess it\u2019s your work, Kyurem!\\c\\nAren\u2019t you the silly one, gettin\u2019 frozen by your\\nown cold air!\\c\\nThat\u2019s a bit of an odd bod though, innit?\\nLooks a little like there\u2019s places to stick bits on\\r\\nand take \u2019em off...\\c\\nWhoops, that was rude of me!\\nSorry about that, Kyurem![VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Wait, wait, wait! You\u2019re tellin\u2019 me that\u2019s a\\nLegendary Pok\u00E9mon?!\\c\\nThat mug\u2019s a dead ringer for my grumpy\\nold neighbor!\\c\\nSo that\u2019s Tornadus, the Cyclone Pok\u00E9mon, eh?\\nWell, I guess my neighbor doesn\u2019t stir up winds\\r\\nthat can blow houses away...[VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Wait, wait, wait! You\u2019re tellin\u2019 me that\u2019s a\\nLegendary Pok\u00E9mon?!\\c\\nThat mug\u2019s a dead ringer for my grumpy\\nold neighbor!\\c\\nSo that\u2019s Thundurus, the Bolt Strike Pok\u00E9mon?\\nWell, I guess my neighbor doesn\u2019t zoom through\\r\\nthe sky, droppin\u2019 lightning everywhere...[VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Wait, wait, wait! You\u2019re tellin\u2019 me that\u2019s a\\nLegendary Pok\u00E9mon?!\\c\\nThat mug\u2019s a dead ringer for my grumpy\\nold neighbor!\\c\\nSo that\u2019s Landorus, the Abundance Pok\u00E9mon?\\nThink it\u2019s tryin\u2019 to steal the King of Bountiful\\r\\nHarvests\u2019 thunder a bit?\\c\\nThey say this fella gives evildoers a thrashin\u2019,\\nright? That bit\u2019s just like my neighbor, too![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "That\u2019s the Life Pok\u00E9mon, Xerneas?\\nThe one that can share eternal life?!\\c\\nThat\u2019s brilliant and all, but what\u2019s REALLY\\nbrilliant is that set of antlers!\\c\\nThose things are ultra-mega-splendid...but they\\nseem like they\u2019d keep Xerneas from turnin\u2019 over\\r\\nin bed.\\c\\nIs livin\u2019 forever even worth it if you can\u2019t get a\\ngood kip in at night?[VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "That\u2019s the Destruction Pok\u00E9mon, Yveltal?\\nThe one that absorbs the life-force of\\r\\nlivin\u2019 things?!\\c\\nLooks a bit like the letter Y, doesn\u2019t it?\\nWell, I\u2019d sure like to know \u201Cwhy\u201D Yveltal goes\\r\\naround absorbin\u2019 life-force like that!\\c\\nYou can\u2019t go stealin\u2019 a bloke\u2019s life-force without\\nso much as a how-d\u2019you-do![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "So this is Zygarde, a Pok\u00E9mon made up of\\nlots of little cells gathered together...\\c\\nJust goes to show how little bits here and there\\nadd up! Makes you more than the sum of your\\r\\npants, or however that sayin\u2019 goes!\\c\\nTake me, for instance\u2014I get my daily workouts\\nin, and those add up to keep years off this old\\r\\nbloke\u2019s bod!\\c\\nZygarde\u2019s right clever to have that principle\\nworked out![VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "It\u2019s Solgaleo, the Sunne Pok\u00E9mon!\\nIt practically roars \u201Csun,\u201D doesn\u2019t it?\\c\\nCan it really make the darkest of nights light up\\nlike midday? That\u2019s pretty cheeky!\\c\\nSounds like it\u2019d be a great help on those nights\\nyou just don\u2019t want to head home yet, though!\\c\\nEh? It comes from another world, too?!\\nThat\u2019s one fired-up Pok\u00E9mon![VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "It\u2019s Lunala, the Moone Pok\u00E9mon!\\nIt practically howls \u201Cmoon,\u201D doesn\u2019t it?\\c\\nCan it really make it dark as night even in the\\nfull bright of day? That\u2019s pretty cheeky!\\c\\nSounds like it\u2019d be a great help on those\\nmornings you need a bit more kip, though!\\c\\nEh? It comes from another world, too?!\\nThat\u2019s one fired-up Pok\u00E9mon![VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "So this one\u2019s Necrozma, the Prism Pok\u00E9mon?\\nLooks pretty dark and...un-prism-y, eh?\\c\\nWhat?! It came from another world, lookin\u2019\\nfor light?\\c\\nSounds like you just need to get more time\\nout in the sun, Necrozma, mate!\\c\\nChin up\u2014you\u2019ll be sparklin\u2019 with energy in no\\ntime! The picture of prismatic health![VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Nihilego, eh? The Parasite Pok\u00E9mon?\\nWhoa! Looks soft and floaty as a dream!\\c\\nJust think how cozy you\u2019d be, havin\u2019 one to rest\\nyour head on like a pillow!\\c\\nY\u2019know, Chief, you did take that lovely pillow I\\nfound before...\\c\\nCome on\u2014let me have Nihilego wrap nice and\\ngentle around my noggin for a bit! It\u2019s only fair![VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Gahaha! Just look at the muscles on Buzzwole!\\nThat\u2019s one Swollen Pok\u00E9mon, all right!\\c\\nI don\u2019t mind sayin\u2019 I\u2019m stronger than most,\\nbut I\u2019ve got to bow down to your brawn, mate!\\c\\nYou and me, Buzzwole\u2014we ought to go get a\\nfew reps in sometime! I\u2019ll spot you![VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Pheromosa, eh? The Lissome Pok\u00E9mon?\\nSeems ultra-mega-refined! That\u2019s a Pok\u00E9mon\\r\\nwith class!\\c\\nPleasure to make your acquaintance, Pheromosa!\\nWhat do you say to a handshake?\\c\\n... ... ...\\n... ... ...\\c\\nThat...might\u2019ve been the coldest shoulder I\u2019ve\\never got. Did I do somethin\u2019 wrong, Chief?[VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "It\u2019s Xurkitree, the Glowing Pok\u00E9mon!\\nWhat\u2019s it playin\u2019 at, being so pointy?!\\c\\nLooks a bit like it\u2019s got plugs on its limbs...\\nDoes it light up if you plug it into a socket?\\r\\nI bet it\u2019d look smashin\u2019!\\c\\nActually...cancel that. Just the thought of the\\nelectric bill I\u2019d get gives me the shivers.[VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "What? Kartana, the Drawn Sword Pok\u00E9mon?\\c\\nSure, Chief\u2014pull the other one!\\nI know a piece of origami when I see one.\\c\\nWhoever made this has got an eye for detail,\\nthough. There\u2019s serious care in this foldin\u2019!\\c\\nKeep an eye on that\u2014it\u2019d be a right shame if it\\ngot blown away in the wind or put through\\r\\nthe wash![VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Gwaaah! That thing\u2019s MASSIVE!\\c\\nWhoops...sorry to shout.\\nGot a bit carried away from the shock!\\c\\nThat\u2019s Celesteela, the Launch Pok\u00E9mon, eh?\\nAnd it flies around superfast by firin\u2019\\r\\nflammable gas from those arms?\\c\\nI can\u2019t think of more to say about that than...\\nabsolutely wicked!\\c\\nGotta say though, Chief...the odd ones sure\\nseem to take a shine to you, don\u2019t they?[VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Guzzlord, the Junkivore Pok\u00E9mon?\\c\\nCouldn\u2019t have named it better. Look at it go,\\nchowin\u2019 down on that rubbish!\\c\\nGood for you, you great gourmand!\\nNo one could call you a fussy eater!\\c\\nChief, if you\u2019ve ever got some rubbish you can\u2019t\\nbe bothered to bin, toss that one a treat![VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "So this Poipole\u2019s a Poison Pin Pok\u00E9mon that came\\nfrom another world?\\c\\nGuess it\u2019s got a bit of an unusual face, but it\\ndoesn\u2019t look that different from the type of\\r\\nthing I could find in tall grass around here...\\c\\nGwaaah! Did those needles on its noggin just\\nspray out poison?!\\r\\nWhatever world it came from must be wild![VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "So this Naganadel\u2019s a Poison Pin Pok\u00E9mon that\\ncame from another world?\\c\\nThat massive pointy needle sure looks\\nultra-mega-strong, all right!\\c\\nBut, er...how\u2019s it meant to kip with those three\\nneedles pokin\u2019 out of its backside?\\c\\nYou all right, Naganadel, mate?\\nYou gettin\u2019 enough sleep there?[VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "The Rampart Pok\u00E9mon, Stakataka!\\nThat\u2019s one mysterious life-form, all right!\\c\\nLook how many little blocks make up this one\\nPok\u00E9mon. They\u2019re just the right size for a pillow\\r\\ntoo, eh? Wonder if it\u2019d let me have one...\\c\\nOops! Guess not!\\nFair enough\u2014losin\u2019 part of your body\u2019s no fun!\\c\\nCome to think of it... How many blocks would it\\nhave to lose to not be a Stakataka anymore?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "The Fireworks Pok\u00E9mon, Blacephalon!\\nThat\u2019s one mysterious life-form, all right!\\c\\nIt\u2019s a funny one to look at with all that\\nwigglin\u2019, isn\u2019t it?\\c\\nBit less funny to get so desperate you blow up\\nyour own noggin, though!\\c\\nGettin\u2019 the drop on someone\u2019s great and all,\\nbut don\u2019t lose your head over it, eh?[VAR 0114(0076)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Who\u2019s this rockin\u2019 the mohawk, Chief?\\nFriend of yours?\\c\\nWhat? It\u2019s Tapu Koko, a Land Spirit Pok\u00E9mon\\nthat\u2019s the guardian deity of some island?!\\c\\nHm! Sneakin\u2019 in a bit of undercover travel, is it?\\nWell, not far under cover with that\\r\\nultra-mega-flash hairdo stickin\u2019 out!\\c\\nMaybe I ought to try out a mohawk if I ever\\nget tired of the ol\u2019 buzz cut![VAR 0114(0076)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Who\u2019s this rockin\u2019 the perm, Chief?\\nFriend of yours?\\c\\nWhat? It\u2019s Tapu Lele, a Land Spirit Pok\u00E9mon\\nthat\u2019s the guardian deity of some island?!\\c\\nHm! Sneakin\u2019 in a bit of undercover travel, is it?\\nBit small for that, though. Bet its papa\u2019s worried!\\c\\nGuess its family believes in lettin\u2019 its little ones\\nfind their own way...[VAR 0114(0076)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Who\u2019s this rockin\u2019 the horns, Chief?\\nFriend of yours?\\c\\nOh, it\u2019s Tapu Bulu, a Land Spirit Pok\u00E9mon\\nthat\u2019s the guardian deity of some island?!\\c\\nHm! Sneakin\u2019 in a bit of undercover travel, is it?\\nSure looks pleased enough with itself...\\c\\nIt...has noticed its horns have poked right\\nthrough its hat, hasn\u2019t it?\\c\\nPart of me thinks I ought to let it know...\\nbut maybe that\u2019s my lack of tact talkin\u2019.[VAR 0114(0076)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Who\u2019s this rockin\u2019 the eyelashes, Chief?\\nFriend of yours?\\c\\nOh, it\u2019s Tapu Fini, a Land Spirit Pok\u00E9mon\\nthat\u2019s the guardian deity of some island?!\\c\\nHm! Sneakin\u2019 in a bit of undercover travel, is it?\\c\\nHang on... Is it me, or is there loads more\\nmoisture in the air all of a sudden?\\r\\nMy throat\u2019s feelin\u2019 great now!\\c\\nCheers, Tapu Fini! They ought to make you the\\nguardian deity of humidifyin\u2019 too![VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Aha, here\u2019s our little electric giant! Gahaha!\\nSorry to tease, mate. Just having a laugh.\\c\\nDon\u2019t you worry, electric giant\u2014when I say you\\nlook like a great, bright piece of candy, I mean\\r\\nit in the best way!\\c\\nKeep up the good work, my fine crackly friend![VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Aha, here\u2019s our little dragon giant! Gahaha!\\nSorry to tease, mate. Just having a laugh.\\c\\nDon\u2019t you worry, dragon giant\u2014I\u2019ve got great\\nrespect for clothespins, and you look like the\\r\\ngreatest of all!\\c\\nKeep up the good work, my fine pinchy friend![VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "So this is Glastrier? The King of Bountiful\\nHarvests\u2019 Wild Horse Pok\u00E9mon?\\c\\nSeems like it\u2019s quit bein\u2019 its old bullyin\u2019 self and\\nis actually bein\u2019 loyal to the king!\\c\\nIf I went for a ride on that thing, it might make\\nmy legs nice and cool, but I bet I\u2019d get a\\r\\nbit queasy!\\c\\nThe King of Bountiful Harvests must have some\\nleg-endary leg strength to stay astride this one![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "So this is Spectrier? The King of Bountiful\\nHarvests\u2019 Swift Horse Pok\u00E9mon?\\c\\nSeems like it\u2019s quit bein\u2019 its old bullyin\u2019 self and\\nis actually bein\u2019 loyal to the king!\\c\\nI get the feelin\u2019 if I went for a ride on that thing,\\nit\u2019d whisk me off to who-knows-where!\\r\\nBit scary, I don\u2019t mind sayin\u2019!\\c\\nThe king\u2019s got to have some legendary guts\\nto ride around on this one all the time![VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Oi oi! As grand a noggin as ever, eh?\\c\\nThat\u2019s our King of Bountiful Harvests, isn\u2019t it?\\nThe one callin\u2019 the shots around here!\\r\\nIt\u2019s a dead ringer for the statue in Freezington!\\c\\nHm... Y\u2019know, when I get a good look at it...that\\nhead of yours sure looks like my lovely pillow![VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Oho! Calyrex, the King of Bountiful Harvests!\\c\\nIt sure does look just like the legends say,\\nridin\u2019 majestically up on that loyal steed!\\c\\nI\u2019ve got an odd feelin\u2019...like I met it somewhere\\nbefore you caught it, Chief...\\c\\nBut no matter how hard I think about it, I\u2019m just\\ndrawin\u2019 a blank!\\c\\nHuh... Did you hear a little voice say \u201Cthank you\u201D\\njust now? Or am I hearin\u2019 things?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "All right! Let\u2019s go a round, then!\\nGet ultra-mega-ready, Chief![VAR 0114(0076)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Gahaha! That\u2019s why you\u2019re the chief, Chief!\\nMighty strong Pok\u00E9mon you\u2019ve got!\\c\\nCopperajah and the rest look ultra-mega-\\npleased that they got a chance to cut\\r\\nloose, too![VAR 0114(0076)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Ha! Chalk another one up for me!\\c\\nNothin\u2019 feels as ultra-mega-great as leadin\u2019 your\\nown Pok\u00E9mon in battle, does it?\\c\\nThat\u2019s why those Dynamax Adventures are so\\ntough by comparison![VAR 0114(0076)]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Come on now, Chief! We\u2019ve already had us a\\nbattle today!\\c\\nI\u2019ve got to let my Pok\u00E9mon rest up a bit!\\nTry me again tomorrow![VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Huh?![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "You actually caught a Pok\u00E9mon by usin\u2019 that\\nmysterious clue?![VAR 0114(0076)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Let me have a look, would you?[VAR 0114(0076)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "That\u2019s that, anyway...\\nChief, mind lettin\u2019 me see that Legendary Clue?[VAR 0114(0076)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Gaaahahaha!\\nI didn\u2019t write this clue, Chief...but let\u2019s not let\\r\\nthat stop the fun![VAR 0114(0076)]"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Erm...excuse me!\\nWhere did you find that paper, exactly?!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Chief Peony dropped it..."
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "It was at our base camp..."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "That\u2019s actually from my notes. I wonder how this\\ncould have happened..."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Gahahaaa!\\nHaven\u2019t got a single shred of an idea![VAR 0114(0076)]"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Indeed, sir. I imagine you haven\u2019t."
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Anyway, I\u2019m quite relieved that you found\\nthat paper."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Not to mention that you\u2019ve caught Necrozma\u2014\\nthe one responsible for that Ultra Wormhole."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Please accept this with my thanks as a reward for\\nyour cooperation in my research."
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Oh, and no need to worry about returning the\\npaper. I\u2019ve got another copy."
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "I\u2019ve got to hand it to you, Chief!\\nOnly you could track down and catch a thing\\r\\nlike that with just a single photo to go on![VAR 0114(0076)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Still, I\u2019ve got to say...\\nFeels like we\u2019ve come to the end of a chapter\\r\\nor somethin\u2019, doesn\u2019t it?[VAR 0114(0076)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "You look ready to keep on goin\u2019 for a while\\nyet, though![VAR 0114(0076)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Go on then, Chief!\\nCan\u2019t wait to hear about all the exploits and\\r\\nadventures you get up to from here on out![VAR 0114(0076)]"
+  },
+  {
+    "index": 104,
+    "flags": 4,
+    "text": "I don\u2019t think that\u2019s the Pok\u00E9mon from the\\nmysterious clue, Chief!\\r\\nKeep a sharp eye\u2014the game\u2019s still afoot![VAR 0114(0076)]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Hmm. This Pok\u00E9mon certainly looks like the one\\nfrom that mysterious clue. I\u2019ll give you that...\\c\\nBut somethin\u2019 tells me this Pok\u00E9mon didn\u2019t come\\nfrom this lair!\\c\\nI know it\u2019s got to be a pain, Chief, but keep\\nsearchin\u2019! Slow and steady and all that![VAR 0114(0076)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  }
+]

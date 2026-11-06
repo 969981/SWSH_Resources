@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Nur bestimmte Pok\u00E9mon k\u00F6nnen Kombi-Attacken\\nerlernen. M\u00F6chtest du, dass ich einem deiner\\r\\nPok\u00E9mon eine solche beibringe?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Nun gut. Schau einfach wieder vorbei,\\nwenn du es dir anders \u00FCberlegt hast."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Tut mir wirklich leid, aber keines der Pok\u00E9mon,\\ndie du dabeihast, kann meine Attacke erlernen..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Welchem Pok\u00E9mon soll ich meine Attacke\\nbeibringen?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] kann meine Attacke offenbar\\nnicht erlernen."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ein Ei...? Wie genau soll denn ein Ei bitte sch\u00F6n\\nmeine Attacke erlernen?! Du hast Ideen..."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] beherrscht diese Attacke\\noffenbar bereits."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Welche Attacke soll vergessen werden?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Der Schl\u00FCssel zum Erfolg mit Kombi-Attacken\\nliegt darin, ihre verschiedenen Typen gekonnt\\r\\nmiteinander zu kombinieren."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Hast du zuf\u00E4llig ein Pok\u00E9mon dabei, das du von\\neinem Inselk\u00F6nig geschenkt bekommen hast?\\c\\nWenn du n\u00E4mlich so ein Pok\u00E9mon oder eine\\nseiner Entwicklungsstufen im Team hast, das\\r\\ndem Typ Feuer, Wasser oder Pflanze angeh\u00F6rt,\\r\\nund au\u00DFerdem noch zutraulich ist, kann ich ihm\\r\\neine besondere Kombi-Attacke beibringen!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Soll ich einem deiner Pok\u00E9mon eine besondere\\nKombi-Attacke beibringen?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Tut mir leid, aber du hast kein Pok\u00E9mon dabei,\\ndem ich eine Attacke beibringen k\u00F6nnte..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Da kann man nichts machen.\\nDann eben ein anderes Mal!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Welchem Pok\u00E9mon soll ich eine Attacke\\nbeibringen?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon kann keine Kombi-Attacke\\nerlernen!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Was? Soll das ein schlechter Scherz sein?\\nEin Ei kann keine Attacken erlernen!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Lass es mich so ausdr\u00FCcken: Dieses Pok\u00E9mon\\nist noch nicht zutraulich genug..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon beherrscht doch bereits\\neine meiner Attacken!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Soll ich [VAR 0101(0000)] die Attacke\\n[VAR 0107(0001)] beibringen?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Am liebsten sind mir Pok\u00E9mon, die man von\\neinem Inselk\u00F6nig oder von einem Professor\\r\\ngeschenkt bekommt!\\c\\nDiesen kann ich ganz besondere Attacken,\\ndie man Kombi-Attacken nennt, beibringen.\\c\\nDas ist mein ganz spezieller Service f\u00FCr dich!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Welche Attacke soll durch\\n[VAR 0107(0000)] ersetzt werden?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt."
+  }
+]

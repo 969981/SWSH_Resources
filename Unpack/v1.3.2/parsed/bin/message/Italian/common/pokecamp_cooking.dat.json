@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] \u00E8 in visita al tuo campeggio!"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Inizia a cucinare"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Invita a cucinare"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Aiuta a cucinare"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Vorrei cucinare qualcosa!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Ingredienti"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Currydex"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Aiuta"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ricerca di altri giocatori in corso..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Potrai iniziare a cucinare a breve..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Vuoi iniziare a cucinare con i giocatori\\nche hanno risposto al tuo invito?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ti sta invitando a cucinare!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Cucina usando gli ingredienti e le bacche\\nin tuo possesso."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Invita altri giocatori a cucinare assieme a te."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Controlla gli ingredienti e le bacche\\nin tuo possesso."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Consulta la lista dei piatti cucinati\\nin precedenza."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Torna al menu principale del campeggio."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Aiuta [VAR 0100(0000)] a cucinare."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Comunica a tutti che hai voglia di cucinare."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Cosa vuoi fare?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Vuoi smettere di cucinare?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Iniziamo a cucinare!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Non hai bacche. Non puoi cucinare.\\c\\nPer raccogliere delle bacche, prova a scuotere\\nqualche albero!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Vuoi far sapere a tutti che hai voglia di cucinare?"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Hai comunicato a tutti che hai voglia di cucinare!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "L\u2019invito a cucinare \u00E8 stato cancellato."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] cerca aiuto per cucinare!"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Ha gi\u00E0 iniziato a cucinare..."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi cucinare con [VAR 0100(0000)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Vuoi interrompere la ricerca di giocatori\\ncon cui cucinare?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Invito in corso..."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon ha[VAR 1101(00FD,0300)]nno ottenuto [VAR 0206(0000,002E)] Punt[VAR 1101(0000,0101)]oi Esperienza!"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon recupera[VAR 1101(00FD,0200)]no met\u00E0 dei PS."
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon recupera[VAR 1101(00FD,0200)]no PS e guarisc[VAR 1101(00FD,0301)]eono dai problemi di stato."
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon recupera[VAR 1101(00FD,0200)]no tutti i PS e i PP e guarisc[VAR 1101(00FD,0301)]eono dai problemi di stato."
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1C1A)]l Pok\u00E9mon si \u00E8 affezionato Pok\u00E9mon si sono affezionati un po\u2019 a te!"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1C1A)]l Pok\u00E9mon si \u00E8 affezionato Pok\u00E9mon si sono affezionati abbastanza a te!"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1C1A)]l Pok\u00E9mon si \u00E8 affezionato Pok\u00E9mon si sono affezionati molto a te!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1310)]l tuo Pok\u00E9mon ha tuoi Pok\u00E9mon hanno ottenuto un po\u2019 di Punti Esperienza!"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1310)]l tuo Pok\u00E9mon ha tuoi Pok\u00E9mon hanno ottenuto dei Punti Esperienza!"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1310)]l tuo Pok\u00E9mon ha tuoi Pok\u00E9mon hanno ottenuto un sacco di Punti Esperienza!"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] si \u00E8 rafforzato un po\u2019!"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] e gli altri Pok\u00E9mon si \u00E8 rafforzato un po\u2019!"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] si \u00E8 rafforzato abbastanza!"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] e gli altri Pok\u00E9mon si \u00E8 rafforzato abbastanza!"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] si \u00E8 rafforzato molto!"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Il tuo legame con [VAR 0102(0001)] e gli altri Pok\u00E9mon si \u00E8 rafforzato molto!"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon recupera[VAR 1101(00FD,0200)]no un po\u2019 di PS."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "N\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Descrizione del curry"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)].\\n\\nHai cucinato questo piatto [VAR 0202(0006)] volt[VAR 1101(0006,0101)]ae."
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)].\\n\\nHai cucinato questo piatto [VAR 0202(0006)] volt[VAR 1101(0006,0101)]ae."
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)]."
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)] e altri Pok\u00E9mon."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)] e altri Pok\u00E9mon.\\n\\nHai cucinato questo piatto [VAR 0202(0006)] volt[VAR 1101(0006,0101)]ae."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Hai cucinato questo piatto per la prima volta [VAR 1106(0000,0302)]l\u2019il [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)] e l\u2019hai mangiato assieme\\na [VAR 0102(0004)] e altri Pok\u00E9mon.\\n\\nHai cucinato questo piatto [VAR 0202(0006)] volt[VAR 1101(0006,0101)]ae."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Valutazione"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "---"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Hai cucinato [VAR 0202(0000)] tip[VAR 1101(0000,0101)]oi di curry"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Ingredienti"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Ancora [VAR 0201(0000)] second[VAR 1101(0000,0101)]oi"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 8,
+    "text": "Scegli le bacche."
+  },
+  {
+    "index": 78,
+    "flags": 8,
+    "text": "Scegli un ingrediente."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Gli altri partecipanti stanno decidendo..."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Quante [VAR 0109(0000)] vuoi usare?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Vuoi usare [VAR 0201(0001)] [VAR 0109(0000)]?"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Vuoi usare [VAR 1502(0000,0000)][VAR 0109(0000)]?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Vuoi smettere di cucinare?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Vuoi rimettere in Borsa le bacche selezionate?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Vuoi iniziare a cucinare senza usare\\naltri ingredienti?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Vuoi iniziare a cucinare con le bacche\\nselezionate?"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Il collegamento si \u00E8 interrotto.\\nRitornerai al Pok\u00E9campeggio..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Seleziona"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Annulla"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": " Smetti di cucinare"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": " Metti via le bacche"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Annulla la selezione"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Ingredienti"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Tutto pronto"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Bacche"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Non usare"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": " Dettagli"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": " Cambia la porzione"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": " Ordina"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": " Preferiti"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Non usare"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Tutto pronto"
+  }
+]

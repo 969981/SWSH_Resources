@@ -1,0 +1,24 @@
+Esistono mosse che solo alcuni Pokémon possono\nimparare... Le mosse eccelse.\r\nVuoi che ne insegni una a un tuo Pokémon?
+Nessun problema, rispetto la tua scelta.\nMa se cambi idea, torna pure a trovarmi!
+Nessuno dei Pokémon che hai con te può\nimparare mosse eccelse... Peccato!
+A quale Pokémon vuoi che insegni la mossa?
+[VAR 0102(0001)] non può imparare mosse\neccelse.
+Un Uovo? Mi dispiace, ma in tutta la mia carriera\nnon sono mai riuscito a insegnarle a un Uovo.
+Pare che [VAR 0102(0001)] conosca già\nuna mossa eccelsa...
+Quale mossa vuoi che dimentichi?
+[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\c\nAl suo posto...\c\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]
+Le mosse eccelse sono potentissime... ma dopo\naverne usata una bisogna riprendere fiato.\r\nBisogna servirsene al momento giusto!
+Alla mia età, ho molto tempo libero e ho deciso\ndi aiutare i giovani Allenatori.\c\nVoglio trasmettere loro le mie conoscenze\nsulle mosse eccelse!\c\nVuoi che ne insegni una a un tuo Pokémon?
+Vuoi che insegni una mossa eccelsa\na un tuo Pokémon?
+Giovane Allenat[VAR 1100(00FF,0302)]orrice, nessuno dei Pokémon\nche hai con te può imparare questa mossa.\c\nControlla la lista dei Pokémon che possono\napprenderla.
+Torna a trovarmi, giovane Allenat[VAR 1100(00FF,0302)]orrice!
+A chi vuoi che la insegni?
+Giovane Allenat[VAR 1100(00FF,0302)]orrice, il tuo Pokémon non può\nimparare questa mossa.\c\nControlla la lista dei Pokémon che possono\napprenderla.
+Giovane Allenat[VAR 1100(00FF,0302)]orrice... Un po’ di buon senso!\nUn Uovo non può imparare delle mosse!
+Giovane Allenat[VAR 1100(00FF,0302)]orrice, l’Amicizia che ti unisce a\nquesto Pokémon non è abbastanza forte.\c\nTorna quando sarete più amici!
+Giovane Allenat[VAR 1100(00FF,0302)]orrice, il tuo Pokémon conosce già\nquesta mossa.
+Insegnerò [VAR 0107(0001)]\na [VAR 0101(0000)], d’accordo?
+Ecco tutti i Pokémon che possono imparare\nmosse eccelse.\nFra i divampanti Pokémon Fuoco:\nCharizard, Typhlosion, Blaziken, Infernape,\nEmboar, Delphox e Incineroar.\c\nFra gli irrequieti Pokémon Acqua:\nBlastoise, Feraligatr, Swampert, Empoleon,\nSamurott, Greninja e Primarina.\c\nFra i tranquilli Pokémon Erba:\nVenusaur, Meganium, Sceptile, Torterra,\nSerperior, Chesnaught e Decidueye.
+Scegli una mossa da sostituire\ncon [VAR 0107(0000)].
+[VAR 0102(0000)] non ha imparato\n[VAR 0107(0001)]!

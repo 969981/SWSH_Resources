@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Bien le bonjour, jeune [VAR 1100(00FF,0904)]hommdemoiselle\u202F! Jette donc\\nun \u0153il \u00E0 mes bonnes affaires, c\u2019est pas cher\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "La bonne affaire du jour"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "La bonne affaire d\u2019hier"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "La bonne affaire de demain"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pas int\u00E9ress\u00E9[VAR 1100(00FF,0100)]e"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "La bonne affaire du jour,\\nc\u2019est [VAR 1402(0001,0000)][VAR 010A(0001)]\u202F!\\r\\n\u00C7a t\u2019int\u00E9resse\u202F? C\u2019est pas cher, c\u2019est [VAR 0203(0002,202F)] \uE300\u202F!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "La bonne affaire d\u2019hier,\\nc\u2019\u00E9tait [VAR 1402(0001,0000)][VAR 010A(0001)]\u202F!\\r\\n\u00C7a t\u2019int\u00E9resse\u202F? C\u2019est pas cher, c\u2019est [VAR 0203(0002,202F)] \uE300\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "La bonne affaire de demain sera sans doute...\\n[VAR 1402(0001,0000)][VAR 010A(0001)]\u202F!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Merci infiniment\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Quelque chose d\u2019autre t\u2019int\u00E9resse\u202F?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Si tu changes d\u2019avis, reviens me voir\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Attends une minute, il a l\u2019air un peu vide,\\nton porte-monnaie, l\u00E0..."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Eh, pssst\u202F!\\n... Tu peux m\u2019rendre un service, petit[VAR 1100(00FF,0100)]e\u202F?\\c\\nJ\u2019ai besoin de matos, et si tu me l\u2019apportes\\naujourd\u2019hui, j\u2019te r\u00E9compenserai g\u00E9n\u00E9reusement."
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Aujourd\u2019hui, j\u2019veux [VAR 1402(0001,0000)][VAR 010A(0001)].\\nJe t\u2019en offre [VAR 0205(0002,202F)] \uE300\u202F!"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Oh, mais qu\u2019est-ce que j\u2019vois\u202F?\\nT\u2019as [VAR 1402(0001,0000)][VAR 010A(0001)]\u202F!\\c\\nVas-y, j\u2019t\u2019en donne [VAR 0205(0002,202F)] \uE300.\\nMarch\u00E9 conclu\u202F?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Merci\u202F! V\u2019l\u00E0 pour toi\u202F!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Vous donnez [VAR 1400(0001,0000)][VAR 010A(0001)]\\net recevez [VAR 0205(0002,202F)] \uE300 en retour."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Tant pis pour toi..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Si \u00E7a t\u2019int\u00E9resse toujours de faire affaire,\\nreviens demain\u202F!"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Alors comme \u00E7a, on est devenu Ma\u00EEtre\u202F?"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Alors comme \u00E7a, on est devenue Ma\u00EEtre\u202F?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Franchement, bravo.\\nTiens, j\u2019vais te donner un truc pour f\u00EAter \u00E7a\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "\u00C0 bient\u00F4t, j\u2019esp\u00E8re\u202F!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "J\u2019ai achet\u00E9 ce lot de trucs bizarres pour deux sous,\\nmais j\u2019sais pas comment m\u2019en servir et personne\\r\\nn\u2019en veut.\\c\\nJ\u2019pr\u00E9f\u00E8re t\u2019donner tout \u00E7a, du coup,\\nplut\u00F4t qu\u2019\u00E7a prenne la poussi\u00E8re ici\u202F!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "J\u2019ai achet\u00E9 ce lot de trucs bizarres pour deux sous,\\nmais j\u2019sais pas comment m\u2019en servir et personne\\r\\nn\u2019en veut.\\c\\nJ\u2019pr\u00E9f\u00E8re t\u2019donner tout \u00E7a, du coup,\\nplut\u00F4t qu\u2019\u00E7a prenne la poussi\u00E8re ici\u202F!"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Quit"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": " Close"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": " Hold"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": " Switch"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": " Call Pok\u00E9mon"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": " Speak"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Speak to Two Pok\u00E9mon"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Pick Up Ball"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": " Pok\u00E9 Toy"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Bouncy Balls"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": " Zoom In"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": " Block List"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": " View League Card"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": " Send"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": " Shake"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": " Throw"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": " Change Line of Sight"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Put Away Toy"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Let\u2019s chat!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Go play"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Would you like to quit camping?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Would you like to leave [VAR 0100(0000)]\u2019s camp?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] packed up camp and left!"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Oh...? [VAR 0101(0000)] has come to your camp."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] seems to want to be with you.\\nDo you want to add it to your team?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] joined your team!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] went into [VAR 1302(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] went back to the wild."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] enjoyed camping and earned\\n[VAR 0206(0001,002C)] Exp. Point[VAR 1101(0001,0100)]s!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]\u2019s level increased by [VAR 0201(0001)]!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Camping"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Left"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Cooks Wanted"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Cooking"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Good morning!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Good afternoon!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Good evening!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "cool"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "adorable"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "stunning"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "tough"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "looking smart"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "playful"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "full of energy"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "reliable"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "fantastic"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "in a good mood"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "lively"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "having a good time"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "sparkling"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "relaxed"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "refined"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "wild"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "cute"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "pretty"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "brilliant"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "gorgeous"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "lovely"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "beautiful"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "wonderful"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "elegant"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "glorious"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": " Take Out Toy"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": " Change Toys"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": " Receive Ball"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "View toy list"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "View curry menu"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Go back to field"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Stop Fight"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Chat with Trainer"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Would you like to add [VAR 0100(0000)] to your\\nblock list?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "You won\u2019t be able to connect again with any\\nplayer you add to your block list.\\c\\nAre you sure you want to block this player?\\n(It\u2019s possible to unblock the player again.)"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] has been added to your\\nblock list."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "You can\u2019t use communication features with\\nAirplane Mode.\\c\\nNobody will be able to join your camp while\\nAirplane Mode is activated."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Tell me more!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Later!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Let\u2019s do something else!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Toy"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Cooking"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Take down the tent"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Leave the tent"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "You\u2019ve already added this person to your\\nblock list."
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Waiting to connect..."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Endless Mode"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "The adventure ends when"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Pok\u00E9mon faint four times total or\\n10 turns elapse in a single battle"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Invite Others"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Don\u2019t Invite Others"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Start an adventure"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ready to Battle!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Start exploring!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Time Remaining"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Searching..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Link Code: [VAR 012D(0000)][VAR 012D(0001)][VAR 012D(0002)][VAR 012D(0003)] [VAR 012D(0004)][VAR 012D(0005)][VAR 012D(0006)][VAR 012D(0007)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "You don\u2019t have any Pok\u00E9 Balls.\\nIs that OK?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "You don\u2019t have four Trainers! We\u2019ll find some\\nothers to help you out. Is that OK?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Your Link Code is set as [VAR 0203(0000,0000)] [VAR 0203(0001,0000)].\\nIs that correct?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Would you like to stop looking for participants?"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Would you like to cancel your participation?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "The adventure has been called off due to a\\nlack of participants.\\c"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "The Link Code will be deleted. Is that OK?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Communication failed.\\nPlease try again.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "You\u2019ve stopped recruiting new teammates for\\nyour Dynamax Adventure.\\c"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "We\u2019ll find some other Trainers to act as your\\nteammates for this adventure.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "You\u2019ve got the maximum number of Pok\u00E9mon\\nthat you can have!\\c\\nIf you catch any Pok\u00E9mon, you won\u2019t be able\\nto keep them. Is that all right?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Communicating...\\nPlease stand by."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": " Link Code"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": " Delete Link Code"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": " Change View"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": " Quit"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Vote"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "You can borrow one Pok\u00E9mon to take with you\\non your adventure."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0189(0000)] is deciding..."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Let\u2019s set out on an adventure!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Selecting Pok\u00E9mon"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Scientist"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "HP"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Attack"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Defense"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Sp. Atk"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Sp. Def"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Speed"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Ability"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Cancel"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Check summary"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Select"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "There\u2019s a strong [VAR 0103(0000)]-type reaction\\ncoming from within the den!"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Which path would you like to take?"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Everyone talked it out, and the group decided to\\ntake this path!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Would you like to take the [VAR 0101(0000)] you\\ncaught along with you?"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "I want to swap Pok\u00E9mon!"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "I\u2019m good without it"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0189(0000)] decided to take the newly\\ncaught [VAR 0101(0001)] with them!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "You all decided to keep pressing forward with\\nyour current Pok\u00E9mon!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "You found some Berries lying on the ground!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon ate the Berries, and some of their\\nHP was restored!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon\u2019s HP is already full, though, so\\nthey don\u2019t need these Berries!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "You encountered a backpacker!"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "I can share my supplies with you if you\u2019re in\\nneed. What item would you like?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "That [VAR 010A(0000)], eh?\\nThen here you go!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "You decided to give your [VAR 0101(0001)] the\\n[VAR 010A(0002)] to hold!"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Oh, you don\u2019t need anything?\\nWell, good luck with what you\u2019ve got, then."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "You encountered a scientist!"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Is your Pok\u00E9mon feeling a bit worn out from\\nyour adventure?"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "I have a rental Pok\u00E9mon here that I could swap\\nwith someone. I only have one, though."
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Are you interested in swapping your current\\nPok\u00E9mon for another rental Pok\u00E9mon?"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "In that case... [VAR 0189(0000)]! I guess I\u2019ll let\\nyou borrow my [VAR 0101(0001)] this time!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Keep your chins up, and keep on adventuring!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "No one\u2019s interested?\\nThen carry on with what you\u2019ve got, I guess!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "The storm seems to have died down a bit..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Pok\u00E9mon Caught"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Choose the one Pok\u00E9mon you\u2019d like to keep!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[~ 90]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Reward"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Dynite Ore"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "So, you\u2019d like to take [VAR 0101(0000)] with you?"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "You\u2019re fine without taking a new Pok\u00E9mon home\\nwith you after your adventure?"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "You handed over the Pok\u00E9mon you\u2019d rented and\\nthe Pok\u00E9mon you didn\u2019t select to the scientist.\\c"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "You handed over the Pok\u00E9mon you\u2019d rented and\\nthe Pok\u00E9mon you didn\u2019t select to the scientist.\\c"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "You returned the Pok\u00E9mon you\u2019d rented to\\nthe scientist.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "You handed over the Pok\u00E9mon you\u2019d rented and\\nthe Pok\u00E9mon you caught to the scientist.\\c"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "You handed over the Pok\u00E9mon you\u2019d rented and\\nthe Pok\u00E9mon you caught to the scientist.\\c"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Next"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Investigated the den"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Reached the innermost area"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Caught a very special Pok\u00E9mon"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Completed the adventure safely"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Connected with others to play"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Played in Endless Mode"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Dynamax Adventures"
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Endless Mode Records"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Depth Reached"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "B[VAR 0202(0000)]F"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Pok\u00E9mon Defeated"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0203(0000,002C)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Everyone will take turns choosing which\\nPok\u00E9mon they\u2019d like to take with them."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "You can have your Pok\u00E9mon hold one item!"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "One Trainer can choose to put the Pok\u00E9mon\\nfrom the last battle on their team."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "You\u2019re still new to Dynamax Adventures, so\\nwe suggest trying them [VAR FF00(0006)]alone[VAR FF00(0000)] for now\u2014\\c\\njust to get a little familiar with the rules\\nbefore you invite some friends to join you!\\c"
+  }
+]

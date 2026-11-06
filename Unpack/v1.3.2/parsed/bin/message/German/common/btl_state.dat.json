@@ -1,0 +1,832 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Sonne"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Es herrscht sonniges Wetter. Die St\u00E4rke von\\nFeuer-Attacken ist gestiegen, w\u00E4hrend die\\nSt\u00E4rke von Wasser-Attacken gesunken ist."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Regen"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Es herrscht regnerisches Wetter. Die St\u00E4rke\\nvon Wasser-Attacken ist gestiegen, w\u00E4hrend\\ndie St\u00E4rke von Feuer-Attacken gesunken ist."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Sandsturm"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ein Sandsturm tobt. Bis auf Gesteins-, Boden-\\nund Stahl-Pok\u00E9mon nehmen alle Pok\u00E9mon in\\njeder Runde Schaden. Die Spezial-Verteidigung\\nvon Gesteins-Pok\u00E9mon ist gestiegen."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Hagelsturm"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ein Hagelsturm tobt. Bis auf Eis-Pok\u00E9mon nehmen\\nalle Pok\u00E9mon in jeder Runde Schaden."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Elektrofeld"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Verhindert f\u00FCnf Runden lang, dass Pok\u00E9mon,\\ndie sich am Boden befinden, einschlafen.\\nDie St\u00E4rke von Elektro-Attacken ist gestiegen."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Grasfeld"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Die KP von Pok\u00E9mon, die sich am Boden\\nbefinden, werden f\u00FCnf Runden lang leicht\\naufgef\u00FCllt. Die St\u00E4rke von Pflanzen-Attacken\\nist gestiegen."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Nebelfeld"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Verhindert f\u00FCnf Runden lang, dass Pok\u00E9mon,\\ndie sich am Boden befinden, Statusprobleme\\nerleiden. Der erlittene Schaden durch\\nDrachen-Attacken wird halbiert."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Bizarroraum"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Pok\u00E9mon mit niedriger Initiative kommen f\u00FCnf\\nRunden lang zuerst zum Zug."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Magieraum"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Die getragenen Items aller Pok\u00E9mon verlieren\\nf\u00FCnf Runden lang ihre Wirkung."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wunderraum"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Die Verteidigung aller Pok\u00E9mon wird f\u00FCnf Runden\\nlang mit ihrer Spezial-Verteidigung getauscht."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Mehr Volltreffer"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Die Wahrscheinlichkeit, dass das Pok\u00E9mon einen\\nVolltreffer landet, wurde erh\u00F6ht."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Verwirrung"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Es besteht bis zu vier Runden lang die Gefahr,\\ndass sich das Pok\u00E9mon selbst verletzt."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Anziehung"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Versucht das Pok\u00E9mon, ein Pok\u00E9mon vom\\nanderen Geschlecht anzugreifen, schl\u00E4gt\\nder Angriff eventuell fehl."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Nachtmahr"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Solange das Pok\u00E9mon schl\u00E4ft, verliert es in jeder\\nRunde KP."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Schlaf"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon schl\u00E4ft am Ende der Runde,\\nnachdem es von einer Attacke erfasst wurde, ein."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Zugabe"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann drei Runden lang nur die\\nAttacke [VAR 0107(0000)] einsetzen."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "F\u00E4higkeit geblockt"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Die F\u00E4higkeit des Pok\u00E9mon hat ihre Wirkung\\nverloren."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Folterknecht"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann dieselbe Attacke nicht\\nzweimal hintereinander einsetzen."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "R\u00FCckenwind"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Die Initiative aller Team-Pok\u00E9mon, die am Kampf\\nteilnehmen, wird vier Runden lang verdoppelt."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Beschw\u00F6rung"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist vor gegnerischen Volltreffern\\ngesch\u00FCtzt."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Nachspiel"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon durch eine gegnerische\\nAttacke besiegt, sinkt der AP-Wert dieser\\nAttacke auf 0."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Heilblockade"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon wird f\u00FCnf Runden lang daran\\ngehindert durch Attacken, F\u00E4higkeiten oder\\ngetragene Items KP zu regenerieren."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Scharfblick"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Attacken, die in bestimmten F\u00E4llen wirkungslos\\nwaren, treffen nun ihr Ziel. Au\u00DFerdem werden\\nerh\u00F6hte Ausweichwerte ignoriert."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Attacke geblockt"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann vier Runden lang nicht die\\nAttacke [VAR 0107(0000)] einsetzen."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Wechselsperre"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann nicht ausgewechselt werden\\noder fliehen."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Zielschuss"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon trifft in der Runde, nachdem es\\nZielschuss eingesetzt hat, mit seiner n\u00E4chsten\\nAttacke auf jeden Fall sein Ziel."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Itemsperre"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann f\u00FCnf Runden lang keine Items\\nverwenden. Das gilt auch f\u00FCr das von ihm\\ngetragene Item."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Ladevorgang"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Setzt das Pok\u00E9mon in der Runde, nachdem es\\nLadevorgang eingesetzt hat, eine Elektro-Attacke\\nein, wird ihre St\u00E4rke verdoppelt."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Erdanziehung"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Die Wahrscheinlichkeit, dass Attacken ihr Ziel\\ntreffen, wurde f\u00FCr f\u00FCnf Runden erh\u00F6ht. Pok\u00E9mon\\nvom Typ Flug und mit der F\u00E4higkeit Schwebe\\nk\u00F6nnen mit Boden-Attacken getroffen werden.\\nFlug-Attacken k\u00F6nnen nicht eingesetzt werden."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Wei\u00DFnebel"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Die Statuswerte des Pok\u00E9mon k\u00F6nnen f\u00FCnf\\nRunden lang nicht gesenkt werden."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Bodyguard"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist f\u00FCnf Runden lang vor\\nStatusproblemen gesch\u00FCtzt."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Tarnsteine"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die in den Kampf eingewechselt\\nwerden, nehmen Schaden."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Horter"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Jedes Mal, wenn das Pok\u00E9mon die Attacke\\nHorter einsetzt, steigen seine Verteidigung\\nund Spezial-Verteidigung."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Verh\u00F6hner"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann nur noch Attacken einsetzen,\\ndie dem Ziel Schaden zuf\u00FCgen."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Telekinese"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon wird drei Runden lang von allen\\nAttacken getroffen, es sei denn, es handelt sich\\ndabei um eine K.O.-Attacke. Daf\u00FCr kann das\\nPok\u00E9mon aber nicht mit Boden-Attacken\\ngetroffen werden."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Magnetflug"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon kann f\u00FCnf Runden lang nicht mit\\nBoden-Attacken getroffen werden."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Giftspitzen"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die in den Kampf eingewechselt\\nwerden, werden vergiftet. Pok\u00E9mon vom Typ\\nFlug und mit der F\u00E4higkeit Schwebe sind nicht\\ndavon betroffen."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Lehmsuhler"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Die St\u00E4rke von Elektro-Attacken wird f\u00FCnf Runden\\nlang halbiert."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Wunschtraum"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Die KP des Pok\u00E9mon werden in der Runde,\\nnachdem es Wunschtraum eingesetzt hat,\\naufgef\u00FCllt."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Klebenetz"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Die Initiative von Pok\u00E9mon, die in den Kampf\\neingewechselt werden, wird gesenkt."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Verwurzler"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Die KP des Pok\u00E9mon werden am Ende des\\nZugs aufgef\u00FCllt. Hat ein Pok\u00E9mon Verwurzler\\neingesetzt, kann es nicht mehr ausgewechselt\\nwerden."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Fluch"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verliert am Ende jedes Zugs KP."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon hat zus\u00E4tzlich den Typ Geist\\nangenommen."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Lichtschild"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Der erlittene Schaden durch Spezial-Attacken\\nwird f\u00FCnf Runden lang halbiert."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Reflektor"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Der erlittene Schaden durch physische Attacken\\nwird f\u00FCnf Runden lang halbiert."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Begrenzer"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Gegnerische Pok\u00E9mon k\u00F6nnen Attacken, die auch\\nvom Pok\u00E9mon beherrscht werden, das Begrenzer\\neingesetzt hat, nicht mehr ausf\u00FChren."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Countdown"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Alle Pok\u00E9mon, die von diesem Effekt betroffen\\nsind, werden nach drei Runden kampfunf\u00E4hig."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Stachler"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die in den Kampf eingewechselt\\nwerden, nehmen Schaden. Pok\u00E9mon vom Typ\\nFlug und mit der F\u00E4higkeit Schwebe sind nicht\\ndavon betroffen."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Nassmacher"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Die St\u00E4rke von Feuer-Attacken wird f\u00FCnf Runden\\nlang halbiert."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Abgangsbund"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Wird das Pok\u00E9mon, welches Abgangsbund\\neingesetzt hat, von einem anderen besiegt,\\nwird der Angreifer ebenfalls kampfunf\u00E4hig."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Waldesfluch"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon hat zus\u00E4tzlich den Typ Pflanze\\nangenommen."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Egelsamen"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verliert am Ende jeder Runde KP,\\nmit denen anschlie\u00DFend der Gegner geheilt wird."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Zielschuss"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Der n\u00E4chste Angriff auf das Pok\u00E9mon, auf das\\nZielschuss angewendet wurde, trifft garantiert."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Umschlingung"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon wurde umschlungen und nimmt in\\njeder Runde Schaden."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Geduld"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon erduldet zwei Runden lang\\ngegnerische Angriffe. Dann schl\u00E4gt es mit\\ndoppelt so viel Schaden zur\u00FCck, wie es selbst\\nerlitten hat."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Wutanfall"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon schl\u00E4gt zwei bis drei Runden lang\\nwild um sich. Danach ist es verwirrt."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Tobsucht"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon schl\u00E4gt zwei bis drei Runden lang\\nwild um sich. Danach ist es verwirrt."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Bl\u00E4ttertanz"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon schl\u00E4gt zwei bis drei Runden lang\\nwild um sich. Danach ist es verwirrt."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Schwere Vergiftung"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist schwer vergiftet. Es erleidet\\nam Ende jeder Runde etwas mehr Schaden."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Zukunftsattacke"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon nimmt zwei Z\u00FCge, nachdem der\\nGegner eine bestimmte Attacke eingesetzt hat,\\nSchaden."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Aufruhr"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon schl\u00E4gt drei Runden lang wild um\\nsich. In diesem Zeitraum k\u00F6nnen keine Pok\u00E9mon\\neinschlafen."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Wasserring"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon hat sich mit einem Schleier aus\\nWasser umgeben. Dies f\u00FChrt dazu, dass seine\\nKP in jeder Runde leicht aufgef\u00FCllt werden."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Autotomie"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon ist leichter geworden und seine\\nInitiative ist stark gestiegen."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Katapult"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon wurde getroffen und ist auf den\\nBoden herabgest\u00FCrzt."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Feenschloss"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Alle Pok\u00E9mon werden in dieser Runde an der\\nFlucht gehindert."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Regenbogen"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Zusatzeffekte werden \u00F6fter ausgel\u00F6st."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Sumpf"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Die Initiative des Pok\u00E9mon ist um 75 % gesunken."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Meer aus Feuer"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Bis auf Feuer-Pok\u00E9mon nehmen die Pok\u00E9mon auf\\nder betroffenen Seite in jeder Runde Schaden."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Glei\u00DFende Sonne"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Es herrscht sehr starkes Sonnenlicht. Die St\u00E4rke\\nvon Feuer-Attacken ist gestiegen und Attacken\\nvom Typ Wasser sind wirkungslos."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Str\u00F6mender Regen"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Es herrscht str\u00F6mender Regen. Die St\u00E4rke von\\nWasser-Attacken ist gestiegen und Attacken\\nvom Typ Feuer sind wirkungslos."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Luftstr\u00F6mungen"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Es herrschen r\u00E4tselhafte Luftstr\u00F6mungen.\\nDie St\u00E4rke von Attacken, die gegen\\nFlug-Pok\u00E9mon sehr effektiv sind, sinkt."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Psychofeld"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Erstschlag-Attacken verfehlen f\u00FCnf Runden lang\\nalle Pok\u00E9mon, die sich am Boden befinden.\\nAu\u00DFerdem ist die St\u00E4rke von Psycho-Attacken\\ngestiegen."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Neck Strike"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Es k\u00F6nnen zwei Runden lang keine Attacken\\neingesetzt werden, die Kl\u00E4nge erzeugen."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Auroraschleier"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Die St\u00E4rke von physischen Attacken sowie\\nSpezial-Attacken wird f\u00FCnf Runden lang halbiert."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Konzentration"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Die Attacke, die in der Runde nach dem Einsatz\\nvon Konzentration ausgef\u00FChrt wird, wird ein\\nVolltreffer."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Teerschuss"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Das Pok\u00E9mon verf\u00FCgt nun \u00FCber eine Schw\u00E4che\\ngegen\u00FCber Attacken vom Typ Feuer."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Octoklammer"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Mit jeder Runde werden Verteidigung und\\nSpezial-Verteidigung des Pok\u00E9mon gesenkt."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Giga-Feuerflug"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Bis auf Feuer-Pok\u00E9mon nehmen alle Pok\u00E9mon\\nvier Runden lang in jeder Runde Schaden."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Giga-Schlacke"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Bis auf Gesteins-Pok\u00E9mon nehmen alle Pok\u00E9mon\\nvier Runden lang in jeder Runde Schaden."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Giga-Stahlschlag"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Pok\u00E9mon, die in den Kampf eingewechselt\\nwerden, nehmen Schaden."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Giga-Gei\u00DFel"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Bis auf Pflanzen-Pok\u00E9mon nehmen alle Pok\u00E9mon\\nvier Runden lang in jeder Runde Schaden."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Giga-Beschuss"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Bis auf Wasser-Pok\u00E9mon nehmen alle Pok\u00E9mon\\nvier Runden lang in jeder Runde Schaden."
+  }
+]

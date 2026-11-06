@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Esistono mosse che solo alcuni Pok\u00E9mon possono\\nimparare... Le mosse eccelse.\\r\\nVuoi che ne insegni una a un tuo Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Nessun problema, rispetto la tua scelta.\\nMa se cambi idea, torna pure a trovarmi!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nessuno dei Pok\u00E9mon che hai con te pu\u00F2\\nimparare mosse eccelse... Peccato!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi che insegni la mossa?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] non pu\u00F2 imparare mosse\\neccelse."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un Uovo? Mi dispiace, ma in tutta la mia carriera\\nnon sono mai riuscito a insegnarle a un Uovo."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Pare che [VAR 0102(0001)] conosca gi\u00E0\\nuna mossa eccelsa..."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quale mossa vuoi che dimentichi?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Le mosse eccelse sono potentissime... ma dopo\\naverne usata una bisogna riprendere fiato.\\r\\nBisogna servirsene al momento giusto!"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Alla mia et\u00E0, ho molto tempo libero e ho deciso\\ndi aiutare i giovani Allenatori.\\c\\nVoglio trasmettere loro le mie conoscenze\\nsulle mosse eccelse!\\c\\nVuoi che ne insegni una a un tuo Pok\u00E9mon?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Vuoi che insegni una mossa eccelsa\\na un tuo Pok\u00E9mon?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Giovane Allenat[VAR 1100(00FF,0302)]orrice, nessuno dei Pok\u00E9mon\\nche hai con te pu\u00F2 imparare questa mossa.\\c\\nControlla la lista dei Pok\u00E9mon che possono\\napprenderla."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Torna a trovarmi, giovane Allenat[VAR 1100(00FF,0302)]orrice!"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "A chi vuoi che la insegni?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Giovane Allenat[VAR 1100(00FF,0302)]orrice, il tuo Pok\u00E9mon non pu\u00F2\\nimparare questa mossa.\\c\\nControlla la lista dei Pok\u00E9mon che possono\\napprenderla."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Giovane Allenat[VAR 1100(00FF,0302)]orrice... Un po\u2019 di buon senso!\\nUn Uovo non pu\u00F2 imparare delle mosse!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Giovane Allenat[VAR 1100(00FF,0302)]orrice, l\u2019Amicizia che ti unisce a\\nquesto Pok\u00E9mon non \u00E8 abbastanza forte.\\c\\nTorna quando sarete pi\u00F9 amici!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Giovane Allenat[VAR 1100(00FF,0302)]orrice, il tuo Pok\u00E9mon conosce gi\u00E0\\nquesta mossa."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Insegner\u00F2 [VAR 0107(0001)]\\na [VAR 0101(0000)], d\u2019accordo?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Ecco tutti i Pok\u00E9mon che possono imparare\\nmosse eccelse.\\nFra i divampanti Pok\u00E9mon Fuoco:\\nCharizard, Typhlosion, Blaziken, Infernape,\\nEmboar, Delphox e Incineroar.\\c\\nFra gli irrequieti Pok\u00E9mon Acqua:\\nBlastoise, Feraligatr, Swampert, Empoleon,\\nSamurott, Greninja e Primarina.\\c\\nFra i tranquilli Pok\u00E9mon Erba:\\nVenusaur, Meganium, Sceptile, Torterra,\\nSerperior, Chesnaught e Decidueye."
+  },
+  {
+    "index": 22,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire\\ncon [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  }
+]
