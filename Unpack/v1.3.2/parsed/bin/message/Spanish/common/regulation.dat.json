@@ -1,0 +1,512 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No se han encontrado datos.\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00BFQuieres seleccionar el reglamento\\n[VAR 01D5(0000)]?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00BFQuieres cancelar la selecci\u00F3n del reglamento?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00BFQuieres combatir con el reglamento\\n[VAR 01D5(0000)]?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00BFQuieres abrir el navegador de internet?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Comprobando datos...\\nNo apagues la consola."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "No se han distribuido datos nuevos.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Los datos se han actualizado.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "No se han encontrado datos.\\c"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Descargar"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Ver detalles"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Borrar"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Confirmar"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Ver detalles"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Sin restricciones"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[VAR 0202(0000)] o m\u00E1s"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "De [VAR 0200(0000)] a [VAR 0200(0001)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Todos al Nv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Nv. [VAR 0202(0000)] como m\u00E1ximo"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Permitidos"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "No permitidos"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Permitidos"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "No permitidos"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "N\u00FAmero de Pok\u00E9mon"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Nivel de los Pok\u00E9mon"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Pok\u00E9mon especiales"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Pok\u00E9mon id\u00E9nticos"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Objetos id\u00E9nticos"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Combate Individual"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Combate Doble"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Combate M\u00FAltiple"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Reglas normales"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Con restricciones"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Sin restricciones"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Hasta Nv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Nv. [VAR 0202(0000)] como m\u00EDnimo"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Reglas de la Torre Batalla"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] min"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] min"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Sin restricciones"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Tiempo de combate"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Tu tiempo"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": " Ver detalles"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": " Salir"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Con las reglas normales, todos los Pok\u00E9mon pasan a ser\\nde Nv. 50."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Con las reglas con restricciones, el nivel de los Pok\u00E9mon\\nse reduce a Nv. 50 en el caso de que lo sobrepasen."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Con las reglas sin restricciones, todos los Pok\u00E9mon\\ncombaten con el nivel que tienen."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[~ 91]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[~ 92]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[~ 93]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[~ 94]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[~ 95]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[~ 96]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[~ 97]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[~ 98]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "En la Torre Batalla, el nivel de los Pok\u00E9mon se reduce a\\nNv. 50 en el caso de que lo sobrepasen."
+  }
+]

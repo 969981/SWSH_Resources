@@ -1,0 +1,192 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 1502(0001,0000)][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 0200(0002)] [VAR 1001][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 1500(0001,0000)][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 1502(0001,0000)][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 1500(0001,0000)][VAR 0109(0001)]\\nche contiene [VAR FF00(0008)][VAR 0107(0002)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Hai trovato [VAR 1500(0001,0000)][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Hai trovato [VAR 1502(0001,0000)][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Hai trovato [VAR 0200(0002)] [VAR 1001][VAR FF00(0008)][VAR 010A(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Hai trovato [VAR 1500(0001,0000)][VAR 0109(0001)]\\nche contiene [VAR FF00(0008)][VAR 0107(0002)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Peccato! Non c\u2019\u00E8 pi\u00F9 spazio\\nper [VAR 1500(0000,0000)][VAR FF00(0008)][VAR 010A(0000)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Hai ottenuto [VAR 1502(0000,0000)][VAR FF00(0008)][VAR 0109(0000)][VAR FF00(0000)]!\\c\\nMa non c\u2019\u00E8 pi\u00F9 spazio nella Borsa... che peccato!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Hai messo [VAR 1500(0001,0000)][VAR 010A(0001)]\\nnella tasca [VAR FF00(0008)][VAR 0112(0002)][VAR FF00(0000)]."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Hai messo al tuo [VAR 0101(0002)]\\nil [VAR 0127(0001)]!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Non ha attirato nessun Pok\u00E9mon..."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Le Uova si schiuderanno pi\u00F9 velocemente!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Quando fai acquisti nei Pok\u00E9mon-Market avrai\\ndiritto a uno sconto!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Vincendo le lotte con altri Allenatori otterrai\\npi\u00F9 soldi!"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "I tuoi Pok\u00E9mon guadagneranno pi\u00F9 Punti\\nEsperienza!"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "I tuoi Pok\u00E9mon si affezionano pi\u00F9 facilmente!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Le probabilit\u00E0 di incontrare Pok\u00E9mon selvatici\\nsono aumentate!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Le probabilit\u00E0 di incontrare Pok\u00E9mon selvatici\\nsono diminuite!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Hai ricevuto la Card della Lega Pok\u00E9mon\\ndi [VAR 0100(0001)]!"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Hai messo la card nell\u2019album."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Hai ricevuto la Card della Lega Pok\u00E9mon rara\\ndi [VAR 0100(0001)]!"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Hai messo la card nell\u2019album."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Hai ottenuto\\n[VAR 1502(0001,0000)][VAR FF00(0008)][VAR 01C1(0001)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  }
+]

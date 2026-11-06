@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Seuls certains Pok\u00E9mon peuvent apprendre\\nles capacit\u00E9s fusion que j\u2019enseigne.\\r\\n\u00C7a t\u2019int\u00E9resse\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Pas de probl\u00E8me, c\u2019est ton choix\u202F!\\nSi tu changes d\u2019avis, reviens me voir."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "C\u2019est dommage, tu n\u2019as pas de Pok\u00E9mon\\npouvant apprendre ces capacit\u00E9s\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "\u00C0 qui veux-tu en enseigner une\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Visiblement, [VAR 0102(0001)] ne peut pas\\nles apprendre..."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un \u0152uf...\\nTu veux que j\u2019enseigne ma capacit\u00E9 \u00E0... un \u0152uf\u202F?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mais... [VAR 0102(0001)] a d\u00E9j\u00E0 appris\\nune capacit\u00E9 fusion\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quelle capacit\u00E9 doit \u00EAtre oubli\u00E9e\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "La cl\u00E9 pour tirer parti des capacit\u00E9s fusion,\\nc\u2019est d\u2019en combiner deux de types diff\u00E9rents\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Bonjour\u202F! J\u2019ai une question : voyages-tu\\nencore avec un Pok\u00E9mon Feu, Eau ou Plante\\r\\nque tu as re\u00E7u d\u2019un Doyen\u202F?\\c\\nCar je peux lui apprendre une capacit\u00E9\\ntr\u00E8s sp\u00E9ciale : la capacit\u00E9 fusion\u202F!\\c\\nJe ne peux toutefois l\u2019enseigner qu\u2019aux\\nPok\u00E9mon assez attach\u00E9s \u00E0 leur Dresseur..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Veux-tu que j\u2019enseigne une capacit\u00E9 fusion\\n\u00E0 l\u2019un de tes Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Je ne peux enseigner aucune capacit\u00E9\\n\u00E0 ton \u00E9quipe actuelle..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Je vois... \u00C0 bient\u00F4t, alors\u202F!"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "\u00C0 quel Pok\u00E9mon veux-tu que j\u2019enseigne\\nune capacit\u00E9\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Je ne peux pas enseigner ma capacit\u00E9 sp\u00E9ciale\\n\u00E0 ce Pok\u00E9mon..."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Quoi\u202F? Tu veux que j\u2019apprenne cette capacit\u00E9\\n\u00E0 un \u0152uf\u202F? C\u2019est une blague, j\u2019esp\u00E8re\u202F?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "J\u2019ai bien peur que ton lien avec ce Pok\u00E9mon\\nne soit pas assez fort."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Hmmm... Je peux me tromper, mais il me semble\\nque ce Pok\u00E9mon conna\u00EEt d\u00E9j\u00E0 cette capacit\u00E9\u202F!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Veux-tu que j\u2019enseigne la capacit\u00E9\\n[VAR 0107(0001)] \u00E0 [VAR 0101(0000)]\u202F?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Mes Pok\u00E9mon pr\u00E9f\u00E9r\u00E9s, ce sont tous ceux\\nqu\u2019on peut recevoir d\u2019un Professeur Pok\u00E9mon\\r\\nou d\u2019un Doyen, et toutes leurs \u00E9volutions\u202F!\\c\\nJe les aime tellement que j\u2019ai d\u00E9cid\u00E9\\nde leur enseigner des capacit\u00E9s sp\u00E9ciales :\\r\\nles capacit\u00E9s fusion\u202F!\\c\\nNe me remercie pas, \u00E7a me fait plaisir\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Choisissez une capacit\u00E9 \u00E0 oublier pour faire\\nplace \u00E0 [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)]."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Es una m\u00E1quina expendedora.\\n\u00BFQu\u00E9 quieres comprar?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "M\u00E1s PS"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Prote\u00EDna"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Hierro"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Calcio"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Zinc"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Carburante"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1nt[VAR 1100(0000,0101)]oas [VAR 1001][VAR 010A(0000)] quieres?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0201(0001)] [VAR BD03(0000)][VAR 0205(0002,202F)] \uE300"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Nada"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "No has comprado nada."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "No te caben m\u00E1s en la Bolsa."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "No tienes dinero suficiente."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Ha[VAR 1101(0001,0100)]n salido [VAR 0201(0001)] [VAR 010A(0000)]!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Comprar lo mismo"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Comprar otra cosa"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Partecipa a una Gara in Diretta"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ricevi il Certificato Partecipante"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Abbandona la gara"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Gara in Diretta"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Risultati di [VAR 0100(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Lotte affrontate:"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Vittorie:"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 8,
+    "text": "Sconfitte:"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]\u2642[VAR FF00(0000)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]\u2640[VAR FF00(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "L."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Per partecipare a una Gara in Diretta\\ndevi avere il Certificato Partecipante.\\c\\nCome vuoi riceverlo?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Ricezione del Certificato Partecipante in corso...\\nPremi il pulsante B per annullare l\u2019operazione."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "L\u2019operazione \u00E8 stata annullata.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Hai ricevuto il Certificato Partecipante.\\c"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Impossibile ricevere il Certificato Partecipante.\\nRiprova dall\u2019inizio.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Hai raggiunto il numero di lotte prefissato.\\nComplimenti, ora puoi riposare!\\c"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Vuoi interrompere la ricerca?"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Interruzione della comunicazione in corso..."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Vuoi iscrivere una Squadra Lotta con cui\\npartecipare alla gara?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Vuoi davvero abbandonare la gara\\n\u201C[VAR 01AF(0000)]\u201D?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Se annulli l\u2019iscrizione alla gara, non vi potrai\\npi\u00F9 partecipare.\\c\\nVuoi davvero abbandonare la gara\\n\u201C[VAR 01AF(0000)]\u201D?"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Hai abbandonato la gara\\n\u201C[VAR 01AF(0000)]\u201D.\\c\\nLa Squadra Lotta \u00E8 stata sbloccata.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "L\u2019iscrizione della Squadra Lotta \u00E8 stata\\nannullata.\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Non hai ancora affrontato nessuna lotta.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Ricerca di un avversario\\nin corso..."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Collegamento in corso.\\nAttendi..."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Quando verr\u00E0 dato il segnale d\u2019inizio,\\npremi il pulsante A."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Le regole di gara non coincidono.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "I dati sono stati inviati.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Vuoi annullare l\u2019iscrizione della Squadra Lotta?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Hai gi\u00E0 partecipato a questa gara.\\c"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Registra"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Hai abbandonato la gara\\n\u201C[VAR 01AF(0000)]\u201D.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Non puoi partecipare a questa gara.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Organizza una Gara in Diretta"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Ricevi tramite modalit\u00E0 LAN"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Partecipa alla tua gara"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Prepara la gara"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Controlla i dettagli della gara"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Guarda le lotte"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Ricezione tramite modalit\u00E0 LAN in corso...\\nPremi il pulsante B per annullare l\u2019operazione."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Aiuto"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Data d\u2019inizio"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[~ 87]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[~ 88]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Lotta"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Vuoi cancellare queste regole?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Le regole sono state cancellate.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Distribuisci"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Cancella"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Vuoi partecipare alla gara che hai organizzato?"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "La lotta sta per iniziare!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Lotta in modalit\u00E0 LAN"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Non hai ancora organizzato una gara.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Vuoi partecipare a una nuova gara?"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Partecipa a una nuova gara"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Vedi le gare precedenti"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Guarda le lotte in modalit\u00E0 LAN"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Se annulli l\u2019iscrizione alla gara, potresti non\\nriuscire a iscriverti nuovamente.\\c\\nPer altre informazioni, contatta l\u2019organizzatore\\ndella gara.\\c\\nVuoi davvero abbandonare la gara\\n\u201C[VAR 01AF(0000)]\u201D?"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Le regole sono state salvate.\\c"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Il gioco non \u00E8 aggiornato all\u2019ultima versione.\\c\\nPer poter partecipare alla gara, devi prima\\neffettuare l\u2019aggiornamento.\\c"
+  }
+]

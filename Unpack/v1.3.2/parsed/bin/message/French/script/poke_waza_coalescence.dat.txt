@@ -1,0 +1,24 @@
+Seuls certains Pokémon peuvent apprendre\nles capacités fusion que j’enseigne.\r\nÇa t’intéresse ?
+Pas de problème, c’est ton choix !\nSi tu changes d’avis, reviens me voir.
+C’est dommage, tu n’as pas de Pokémon\npouvant apprendre ces capacités !
+À qui veux-tu en enseigner une ?
+Visiblement, [VAR 0102(0001)] ne peut pas\nles apprendre...
+Un Œuf...\nTu veux que j’enseigne ma capacité à... un Œuf ?
+Mais... [VAR 0102(0001)] a déjà appris\nune capacité fusion !
+Quelle capacité doit être oubliée ?
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]
+La clé pour tirer parti des capacités fusion,\nc’est d’en combiner deux de types différents !
+Bonjour ! J’ai une question : voyages-tu\nencore avec un Pokémon Feu, Eau ou Plante\r\nque tu as reçu d’un Doyen ?\c\nCar je peux lui apprendre une capacité\ntrès spéciale : la capacité fusion !\c\nJe ne peux toutefois l’enseigner qu’aux\nPokémon assez attachés à leur Dresseur...
+Veux-tu que j’enseigne une capacité fusion\nà l’un de tes Pokémon ?
+Je ne peux enseigner aucune capacité\nà ton équipe actuelle...
+Je vois... À bientôt, alors !
+À quel Pokémon veux-tu que j’enseigne\nune capacité ?
+Je ne peux pas enseigner ma capacité spéciale\nà ce Pokémon...
+Quoi ? Tu veux que j’apprenne cette capacité\nà un Œuf ? C’est une blague, j’espère ?
+J’ai bien peur que ton lien avec ce Pokémon\nne soit pas assez fort.
+Hmmm... Je peux me tromper, mais il me semble\nque ce Pokémon connaît déjà cette capacité !
+Veux-tu que j’enseigne la capacité\n[VAR 0107(0001)] à [VAR 0101(0000)] ?
+Mes Pokémon préférés, ce sont tous ceux\nqu’on peut recevoir d’un Professeur Pokémon\r\nou d’un Doyen, et toutes leurs évolutions !\c\nJe les aime tellement que j’ai décidé\nde leur enseigner des capacités spéciales :\r\nles capacités fusion !\c\nNe me remercie pas, ça me fait plaisir !
+Choisissez une capacité à oublier pour faire\nplace à [VAR 0107(0000)].
+[VAR 0102(0000)] n’a pas appris\n[VAR 0107(0001)].

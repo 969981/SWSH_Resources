@@ -1,0 +1,177 @@
+[
+  {
+    "slot": 0,
+    "species": 303,
+    "form": 0,
+    "level": 72,
+    "heldItem": 0,
+    "nature": 3,
+    "ability": 2,
+    "gender": 2,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      442,
+      313,
+      242,
+      583
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 1,
+    "species": 282,
+    "form": 0,
+    "level": 72,
+    "heldItem": 0,
+    "nature": 10,
+    "ability": 1,
+    "gender": 2,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      247,
+      412,
+      94,
+      605
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 2,
+    "species": 78,
+    "form": 1,
+    "level": 73,
+    "heldItem": 0,
+    "nature": 3,
+    "ability": 2,
+    "gender": 1,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      428,
+      684,
+      605,
+      529
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 3,
+    "species": 700,
+    "form": 0,
+    "level": 73,
+    "heldItem": 0,
+    "nature": 10,
+    "ability": 1,
+    "gender": 2,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      585,
+      113,
+      247,
+      473
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 4,
+    "species": 858,
+    "form": 0,
+    "level": 74,
+    "heldItem": 0,
+    "nature": 15,
+    "ability": 2,
+    "gender": 2,
+    "dynamaxLevel": 5,
+    "canGigantamax": true,
+    "shiny": false,
+    "moves": [
+      94,
+      605,
+      399,
+      347
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

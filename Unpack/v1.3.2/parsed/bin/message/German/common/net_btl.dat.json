@@ -1,0 +1,497 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Einzelkampf"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Doppelkampf"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Multikampf"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Team A (1)"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Team A (2)"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Team B (1)"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Team B (2)"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "M\u00F6chtest du den Kampf verlassen?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Der Kampf wird beendet, da ein Spieler\\ndie Verbindung getrennt hat.\\c"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Die Verbindung wird getrennt..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Es wird ein Spieler gew\u00E4hlt, der die Kampfregeln\\nfestlegt.\\c"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Bei Multik\u00E4mpfen wird auch die Teamaufteilung\\nfestgelegt.\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Wer soll die Kampfregeln festlegen?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Es wird ein Spieler gew\u00E4hlt, der die Kampfregeln\\nfestlegt... Bitte warte einen Moment."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] hat das Festlegen der\\nKampfregeln abgebrochen."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] legt die Kampfregeln fest."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Bitte lege die Kampfregeln fest.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "M\u00F6chtest du diese Regeln verwenden?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "M\u00F6chtest du das Festlegen der Kampfregeln\\njemand anderem \u00FCberlassen?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Kampfregeln werden \u00FCbertragen...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "W\u00E4hle ein Team aus und beginne den Kampf."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "M\u00F6chtest du die Auswahl beenden und\\nandere Kampfregeln festlegen?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Deine Ablehnung der Kampfregeln\\nwird \u00FCbertragen..."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Mindestens ein Spieler kann aufgrund der\\nfestgelegten Kampfregeln nicht teilnehmen.\\c\\nDie Kampfregeln werden erneut ausgew\u00E4hlt.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Wenn du aufgrund der ausgew\u00E4hlten\\nKampfregeln nicht teilnehmen kannst,\\r\\nw\u00E4hle bitte \u201ERegeln \u00E4ndern\u201C.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Es wird auf Mitspieler gewartet...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle die Pok\u00E9mon, die teilnehmen sollen."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Wer soll Nr. [VAR 0200(0000)] werden?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Die Teamaufteilung wird festgelegt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "M\u00F6chtest du weiterspielen?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Es wird auf Mitspieler gewartet..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Noch ein Kampf mit denselben Kampfregeln.\\c"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Noch ein Kampf mit ge\u00E4nderten Kampfregeln.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Ich"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Mitspieler"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Best\u00E4tigen"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Kampfteam ausw\u00E4hlen"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Kann nicht teilnehmen"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Kampf beginnen"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Mit denselben Regeln spielen"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Mit anderen Regeln spielen"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Alle"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Keine"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Automatisch"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": " Beenden"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": " Details"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": " Fertig"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": " Pr\u00FCfen"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": " Tauschen"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": " Regeln pr\u00FCfen"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "w\u00E4hlt noch aus..."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Fertig!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Normale Regeln"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Kampfturm-Regeln"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Keine Einschr\u00E4nkungen"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Teilnehmendes Team:"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]Nicht ausgew\u00E4hlt[VAR FF00(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Kampfmusik"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 01C3(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle aus, mit welchem Team du\\nk\u00E4mpfen willst."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit den erhaltenen\\nRegeldaten.\\c\\nDie Kampfregeln werden erneut ausgew\u00E4hlt.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Die erhaltenen Regeldaten sind besch\u00E4digt.\\nDie Kampfregeln werden erneut ausgew\u00E4hlt.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "M\u00F6chtest du das Festlegen der Kampfregeln\\njemand anderem \u00FCberlassen?"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Kampfregeln werden \u00FCbertragen...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit den gesendeten\\nRegeldaten.\\c\\nBitte w\u00E4hle die Kampfregeln erneut aus.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Die gesendeten Regeldaten sind besch\u00E4digt.\\nBitte w\u00E4hle die Kampfregeln erneut aus.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Die Kampfregeln werden erneut ausgew\u00E4hlt.\\c"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit deinem Kampfteam."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit dem Kampfteam\\neines anderen Spielers."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Dein Album ist voll. Du kannst keine Ligakarte\\nvon deinem Gegner erhalten.\\c"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "M\u00F6chtest du die Ligakarte eines Gegners\\nerhalten?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Wessen Ligakarte m\u00F6chtest du erhalten?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Du hast die Ligakarte erhalten.\\c"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Dein Album ist nun voll. Du kannst keine\\nweiteren Ligakarten mehr erhalten.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "M\u00F6chtest du auch die Ligakarte eines anderen\\nTrainers erhalten?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 0100(0000)] auf deine\\nSperrliste setzen?"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Diese Person befindet sich bereits auf deiner\\nSperrliste.\\c"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Mit einem gesperrten Spieler kannst du nicht\\n\u00FCber die Kommunikationsfunktionen spielen.\\c\\nWillst du den Spieler wirklich sperren?\\n(Du kannst Spieler auch wieder entsperren.)"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Die Person wurde auf deine Sperrliste gesetzt.\\c"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Wen m\u00F6chtest du auf deine Sperrliste setzen?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "M\u00F6chtest du sonst noch jemanden auf deine\\nSperrliste setzen?"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle aus, mit welchem Team du k\u00E4mpfen willst."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Bitte lege die Teamaufteilung fest."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Regeln \u00E4ndern"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "In diesem Kampf sind die Spitznamen deiner\\nPok\u00E9mon f\u00FCr andere Spieler sichtbar.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Beenden"
+  }
+]

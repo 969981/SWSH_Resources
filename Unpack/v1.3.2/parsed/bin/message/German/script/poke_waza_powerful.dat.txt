@@ -1,0 +1,24 @@
+Nur bestimmte Pokémon können ultimative\nAttacken erlernen. Möchtest du, dass ich einem\r\ndeiner Pokémon eine solche beibringe?
+Nun gut. Schau einfach wieder vorbei,\nwenn du es dir anders überlegt hast.
+Tut mir wirklich leid, aber keines der Pokémon,\ndie du dabeihast, kann meine Attacke erlernen...
+Welchem Pokémon soll ich meine Attacke\nbeibringen?
+[VAR 0102(0001)] kann meine Attacke offenbar\nnicht erlernen.
+Ein Ei...? Wie genau soll denn ein Ei bitte schön\nmeine Attacke erlernen?! Du hast Ideen...
+[VAR 0102(0001)] beherrscht diese Attacke\noffenbar bereits.
+Welche Attacke soll vergessen werden?
+[VAR 0102(0000)] erlernt\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0001)]\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]
+Der Schlüssel zum Erfolg mit ultimativen Attacken\nliegt darin, wie du mit ihrer zerstörerischen Kraft\r\nund den Folgen eines Einsatzes umgehst!
+Den Rest meines Lebens möchte ich damit\nverbringen, jüngere Trainer zu unterstützen.\c\nMein Ziel ist es, so vielen wie möglich die\nultimative Attacke beizubringen.\c\nWenn es dir nichts ausmacht, würde ich gern\nauch deine[VAR 1101(00FD,0101)]mn Pokémon die ultimative Attacke\r\nbeibringen. Was sagst du?
+Darf ich [VAR 1101(00FD,0C06)]deinemeinem deiner Pokémon die ultimative\nAttacke beibringen?
+Du hast leider kein Pokémon dabei, das die\nultimative Attacke erlernen kann.\c\nSchau dir die Liste der Pokémon, die sie\nerlernen können, noch einmal gut an.
+Nur keine falsche Bescheidenheit.\nKomm jederzeit wieder.
+Alles klar. Dann verrate mir, welchem Pokémon\nich die ultimative Attacke beibringen soll.
+Dieses Pokémon kann die ultimative Attacke\nleider nicht erlernen.\c\nSchau dir die Liste der Pokémon, die sie\nerlernen können, noch einmal gut an.
+Einem Ei kann man doch keine Attacken\nbeibringen.
+Ich fürchte, dieses Pokémon hat sich noch nicht\nso richtig mit dir angefreundet. Daher kann es\r\ndie Attacke nicht erlernen.\c\nKomm wieder, wenn es zutraulicher ist.
+Aber dieses Pokémon kennt die ultimative\nAttacke doch schon!
+Darf ich deinem [VAR 0101(0000)] die Attacke\n[VAR 0107(0001)] beibringen?
+Die folgenden Pokémon können die\nultimative Attacke erlernen.\c\nKategorie „Loderndes Feuer“:\nGlurak, Tornupto, Lohgock, Panferno,\nFlambirex, Fennexis und Fuegro.\c\nKategorie „Plätscherndes Wasser“:\nTurtok, Impergator, Sumpex, Impoleon,\nAdmurai, Quajutsu und Primarene.\c\nKategorie „Grüne Pflanzen“:\nBisaflor, Meganie, Gewaldro, Chelterrar,\nSerpiroyal, Brigaron und Silvarro.
+Welche Attacke soll durch\n[VAR 0107(0000)] ersetzt werden?
+[VAR 0102(0000)] hat\n[VAR 0107(0001)] nicht erlernt.

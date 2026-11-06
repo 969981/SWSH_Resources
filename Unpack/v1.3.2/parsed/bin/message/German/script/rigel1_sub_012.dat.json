@@ -1,0 +1,227 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Du hast da aber ein cooles Fahrrad!\\c\\nWenn du willst, kann ich es extra f\u00FCr dich\\nein bisschen anpassen."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Nanu? Hm...\\c\\nSchau noch mal vorbei, wenn du mit deinem\\nFahrrad \u00FCbers Wasser fahren kannst."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Fahrr\u00E4der sind meine gro\u00DFe Leidenschaft! Wenn\\nes um ihre Wartung geht, bin ich ein wahrer Profi!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Soll ich deinem Rad eines meiner selbst kreierten\\nDesigns verpassen?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Glitzerndes Wei\u00DF!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Glei\u00DFendes Schwarz!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Das urspr\u00FCngliche Design!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Fahrrad anpassen"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Radleranzug anpassen"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Nichts davon, danke!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Welches Design h\u00E4ttest du denn gern?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Glitzerndes Wei\u00DF also? Dein Fahrrad wird so\\nstrahlen, dass man meinen k\u00F6nnte, es zu polieren\\r\\nw\u00E4re dein einziger Zeitvertreib!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Glei\u00DFendes Schwarz also? Um diesen besonderen\\nAnstrich wird dich jeder beneiden!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Verstehe, du bist also [VAR 1100(00FF,0806,0000)]PuristPuristin und willst das\\nOriginal-Design zur\u00FCck. Kein Problem!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Haha! Schon klar, dir gef\u00E4llt dein Fahrrad so,\\nwie es ist."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Wenn dir mal nach einem neuen Anstrich ist,\\nkomm einfach wieder vorbei!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Okay! Einen Moment, bitte..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "So, alles fertig! Viel Spa\u00DF damit!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Dein Rotom-Rad erstrahlt jetzt in\\nglitzerndem Wei\u00DF!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Dein Rotom-Rad leuchtet jetzt in\\nglei\u00DFendem Schwarz!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Das urspr\u00FCngliche Design deines Rotom-Rads\\nwurde wiederhergestellt!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Wenn ich dir wieder mit einem Design\\nbehilflich sein kann, komm vorbei!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Mit einem neuen Design f\u00FCrs Fahrrad f\u00FChlt man\\nsich auch gleich selbst wie ausgewechselt!\\c\\nWie w\u00E4r\u2019s, soll ich deinem Rotom-Rad einen\\nneuen Anstrich verpassen?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Ach ja, weil ich sowieso gerade dabei war,\\nan deinem Fahrrad rumzuschrauben, hab ich\\r\\ngleich noch seine Aufladegeschwindigkeit bis\\r\\naufs Maximum erh\u00F6ht. Das geht aufs Haus."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Du willst die Farbe deines Radleranzugs \u00E4ndern?\\c\\nIch k\u00F6nnte sie f\u00FCr dich an [VAR 0101(0006)]\\nanpassen!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Rotom-Farbton"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Farbton \u201E[VAR 0103(0004)]\u201C"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Farbton \u201E[VAR 0103(0005)]\u201C"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Beenden"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Wie w\u00E4re es mit dem Farbton \u201E[VAR 0103(0004)]\u201C,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Welcher Farbton passt deiner Meinung nach\\nam besten zu [VAR 0101(0006)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "M\u00F6chtest du einen dieser Farbt\u00F6ne verwenden,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "M\u00F6chtest du einen dieser Farbt\u00F6ne verwenden,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Gef\u00E4llt dir der Farbton \u201E[VAR 0103(0004)]\u201C?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Ich will doch nichts \u00E4ndern."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Wow, die Farbe gef\u00E4llt mir echt gut!\\nDu hast Geschmack."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Sorry, aber ich glaube nicht, dass es was bringt,\\ndieselbe Farbe zweimal zu verwenden."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  }
+]

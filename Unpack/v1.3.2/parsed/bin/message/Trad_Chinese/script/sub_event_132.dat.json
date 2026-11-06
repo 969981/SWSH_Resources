@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u6211\u53EF\u4EE5\u5F9E[VAR 1100(00FF,0101)]\u4F60\u59B3\u8EAB\u4E0A\u611F\u53D7\u5230\\n\u4F5C\u70BA\u8A13\u7DF4\u5BB6\u7684\u624D\u80FD\u2026\u2026\\c\\n\u4F46\u770B\u4F86\u73FE\u5728\u9084\u4E0D\u5230\u6642\u5019\u2026\u2026\\n\u7B49[VAR 1100(00FF,0101)]\u4F60\u59B3\u7576\u4E0A\u51A0\u8ECD\u4E4B\u5F8C\u518D\u4F86\u5427\uFF01"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u54C7\u5594\uFF01\u662F\u51A0\u8ECD\u554A\uFF01\\c\\n\u60F3\u8B93[VAR 1100(00FF,0101)]\u4F60\u59B3\u7684\u5BF6\u53EF\u5922\\n\u5B78\u6703\u7279\u5225\u62DB\u5F0F[VAR 0107(0001)]\u55CE\uFF1F"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u90A3\u9EBC\u518D\u6703\u5566\uFF01"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u54CE\u5440\u2026\u2026\u51A0\u8ECD[VAR 1100(00FF,0101)]\u4F60\u59B3\u5E36\u8457\u7684\\n\u5BF6\u53EF\u5922\u7121\u6CD5\u5B78\u7FD2\u9019\u500B\u62DB\u5F0F\u2026\u2026"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u90A3\u9EBC\u8ACB\u544A\u8A34\u6211[VAR 1100(00FF,0101)]\u4F60\u59B3\u60F3\u8B93\\n\u54EA\u4E00\u96BB\u5BF6\u53EF\u5922\u5B78\u7FD2\u62DB\u5F0F\u5427\uFF01\uFF01"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0001)]\u7121\u6CD5\\n\u5B78\u7FD2\u9019\u500B\u62DB\u5F0F\u3002"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u86CB\u662F\u7121\u6CD5\u5B78\u7FD2\u62DB\u5F0F\u7684\uFF01"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0001)]\u5DF2\u7D93\u5B78\u6703\\n\u540C\u6A23\u7684\u62DB\u5F0F\u4E86\uFF01"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u60F3\u8B93\u5BF6\u53EF\u5922\u5FD8\u8A18\u54EA\u4E00\u500B\u62DB\u5F0F\u5462\uFF1F"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]\u5B78\u6703\u4E86\\n[VAR 0107(0001)]\uFF01[VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\uFF11[WAIT 20]\u3001\uFF12[WAIT 20]\u2026[WAIT 20]\u2026[WAIT 20]\u7A7A\uFF01[VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)]\u628A[VAR 0107(0001)]\\n\u7684\u4F7F\u7528\u65B9\u6CD5\u5FD8\u5F97\u4E00\u4E7E\u4E8C\u6DE8\u4E86\uFF01\\c\\n\u65BC\u662F\u2026\u2026\uFF01\\c\\n[VAR 0102(0000)]\u5B78\u6703\u4E86\\n[VAR 0107(0002)]\uFF01[VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u96D6\u7136\u9435\u8E44\u5149\u7DDA\u7684\\n\u5A01\u529B\u975E\u6BD4\u5C0B\u5E38\uFF0C\\r\\n\u4F46\u4F7F\u7528\u9019\u500B\u62DB\u5F0F\u7684\u8A71\uFF0C\\r\\n\u5BF6\u53EF\u5922\u81EA\u5DF1\u4E5F\u6703\u53D7\u5230\u50B7\u5BB3\u3002"
+  }
+]

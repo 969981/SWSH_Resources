@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "You\u2019re here.[VAR 0114(0071)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "So, you\u2019ve come at last.[VAR 0114(0072)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "When I beat you, I\u2019ll get the secret armor...[VAR 0114(0071)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Defeating you will grant me the secret armor...[VAR 0114(0072)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "and then I\u2019ll become a Poison-type Gym Leader![VAR 0114(0071)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "then I will at last have what I need to become a\\nPsychic-type Gym Leader![VAR 0114(0072)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "I\u2019ve got to win, no matter what...[VAR 0114(0071)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "No matter what it takes, I refuse to accept\\nanything but a complete and utter victory...[VAR 0114(0072)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "I\u2019m gonna go all out and totally beat you.\\nYou ready?[VAR 0114(0071)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "I\u2019m coming at you with everything I have.\\nAre you prepared?[VAR 0114(0072)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Huh?! Aw, come on! You\u2019re gonna leave me\\nhanging after all that? Well, whatever...[VAR 0114(0071)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "You\u2019re going to tell me you\u2019re not ready?\\nAfter all that\u2019s been said?\\r\\nTruly, your Nature must be Bold.[VAR 0114(0072)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Ugh! Don\u2019t talk to me until you\u2019re ready to\\nbattle me![VAR 0114(0071)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "*sigh*...\\nPlease speak with me once you\u2019re\\r\\nactually ready for this.[VAR 0114(0072)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Looks like the two of you are ready.[VAR 0114(0073)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Good luck!"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "I\u2019m cheering for both of you![VAR 0114(0074)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "All right, you two, take your places![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "The Master Dojo\u2019s final trial...[VAR 0114(0073)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ready![VAR 0114(0073)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Aaaaaand go![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "The victor has been decided![VAR 0114(0073)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "The one to complete the third trial is...\\nyou, [VAR 0100(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Hooray! Hooray!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "That was amazing!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "What a fierce battle!"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Oh, well done! You both gave it your all![VAR 0114(0074)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Aw man... I totally lost...[VAR 0114(0071)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "It appears...I have lost.[VAR 0114(0072)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hah, well, this stinks. I do everything\u2014even\\ncheat a little\u2014and still lose.[VAR 0114(0071)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Heh, how pathetic. I lost even though I resorted\\nto such underhanded tactics.[VAR 0114(0072)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "I don\u2019t expect a young, talented kid like you\\nto really get it, but...[VAR 0114(0071)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "I don\u2019t think young, capable children like you\\ncan understand how I feel.[VAR 0114(0072)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "I...really was trying, you know?\\nAs hard as I could...[VAR 0114(0071)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "I am just an average man who gave everything he\\npossibly could...[VAR 0114(0072)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Maybe it\u2019s time for me to just give up on my\\ndream of being a Gym Leader...[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Perhaps it\u2019s time I stopped playing around and\\ngave up my dream of being a Gym Leader...[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Once they find out what I did, I\u2019ll be expelled\\nfrom the dojo anyway.[VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "After the less-than-reputable things I did,\\nI\u2019m likely to be expelled from the dojo.[VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)], you can tell the master\\nthat I cheated.[VAR 0114(0071)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)], you are free to tell the master\\nabout the awful things I did.[VAR 0114(0072)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "OK"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "I won\u2019t"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "I\u2019m sorry...[VAR 0114(0071)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Sorry for what I did...[VAR 0114(0072)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Huh? B-but why?\\c\\nIt was supposed to be a fair battle, and I\\ncheated just so I could win...[VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Wh-what are you saying? But I turned to the\\nshadows like a Dark type to try to win![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Oh, no need to tell me...\\nYou can\u2019t hide anything from little old me![VAR 0114(0073)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "That\u2019s your strength, [VAR 0100(0000)].\\c\\nKindness toward both your Pok\u00E9mon and\\nyour rivals![VAR 0114(0073)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "M-Master?![VAR 0114(0071)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "M-Master?![VAR 0114(0072)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "I should apologize on Klara\u2019s behalf, too, as\\nher master.[VAR 0114(0073)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "I should apologize on Avery\u2019s behalf, too, as\\nhis master.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "What she did was wrong, but...[VAR 0114(0073)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "What he did was wrong, but...[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "she just didn\u2019t want to be beaten by her rival\u2014\\nthat\u2019s all. She\u2019s a good, hardworking student.[VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "he just didn\u2019t want to be beaten by his rival\u2014\\nthat\u2019s all. He\u2019s a good, hardworking student.[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "*hic* *sniff*\\nMaster...thank you...\\r\\nI\u2019m sorry, [VAR 0100(0000)]...[VAR 0114(0071)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "*sniff*\\nMaster...I thank you...\\r\\nYou have my apologies, [VAR 0100(0000)].[VAR 0114(0072)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "As for your punishment, Klara, you\u2019re going to\\nlook after the Pok\u00E9mon in the dojo for\\r\\nsix months...by yourself![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "As for your punishment, Avery, you\u2019re going to\\nlook after the Pok\u00E9mon in the dojo for\\r\\nsix months...by yourself![VAR 0114(0073)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "What?! I mean, yeah, that\u2019s a lot of work, but...\\nis that all?![VAR 0114(0071)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "What?! Is that all I have to do? And you\u2019ll\\nforgive me?[VAR 0114(0072)]"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Of course! Let\u2019s work on strengthening\\nyour heart![VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "O-OK![VAR 0114(0071)]"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "O-OK![VAR 0114(0072)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "All right, everyone!\\nThings are settled here![VAR 0114(0073)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "I\u2019m so proud of you both!\\nYou mustered so much effort and tried so hard![VAR 0114(0074)]"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "I got so teared up that I couldn\u2019t even see half\\nthe battle, but what I saw was amazing![VAR 0114(0074)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "So moving!"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "I\u2019m tearing up!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "You gave it your best and triumphed, even\\nwhen faced with an unfair challenge.[VAR 0114(0073)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "To you, who has completed all the trials...[VAR 0114(0073)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "I grant the secret armor of the Master Dojo![VAR 0114(0073)]"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "It\u2019ll take some time to prepare, so I\u2019ll go ahead\\nand get things sorted.[VAR 0114(0073)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "And that\u2019s all, gang! As you were![VAR 0114(0073)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)]![VAR 0114(0071)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Pardon me. Um...[VAR 0114(0072)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Um! I... Well...[VAR 0114(0071)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)], I...[VAR 0114(0072)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "You\u2019re...really strong![VAR 0114(0071)]"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "I will admit to acknowledging your strength\\njust a little.[VAR 0114(0072)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "H-hey! Don\u2019t just ignore me![VAR 0114(0071)]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Ignoring me and leaving first...\\nIs your Nature Hasty?[VAR 0114(0072)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Wow! You\u2019re going to get the secret armor!\\nWhat kind of armor do you think it is?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "*sniff*\\nKlara... She did her best..."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "*sniff*\\nAvery... He did his best..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "You were really, really great!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "The last trial was just an ordinary\\nPok\u00E9mon battle...\\c\\nI guess the master wanted a pure show of skill\\nand strength?"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "What did the master tell you after\\nyour battle?"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "You\u2019re really strong! I bet you\u2019d really rake it in\\nif you opened your own dojo, huh?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "What an amazing battle! Klara did great, too!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "What an amazing battle! Avery did great, too!"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "I thought I saw the Battle Court light up at the\\nstart of the battle.\\c\\nMaybe it was just my imagination..."
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "I\u2019d be honored to meet you on the field\\nof battle someday."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Congrats! You were so cool!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "One day...I\u2019d like to be strong like you."
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "One day I hope to be as strong as...\\c\\nNo, never mind. Use Amnesia and forget\\nwhat I just said."
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Everyone\u2019s happy to win something, aren\u2019t they?\\nBut losing is also something to be valued.\\c\\nIt\u2019s the fuel that propels you to growth.\\nKnow what I mean, love?[VAR 0114(0074)]"
+  }
+]

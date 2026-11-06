@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Bon alors\u202F!\\nT\u2019es pr\u00EAt[VAR 1100(00FF,0100)]e pour le combat\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Oui\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Pas tout \u00E0 fait."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Oh\u202F? Le Ma\u00EEtre en personne aurait-il peur de moi\u202F?\\nAllez, grouille, j\u2019ai trop envie de faire un combat\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Allez, on y va\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ha ha ha, ouais, je me disais bien que j\u2019avais\\nz\u00E9ro chance, vu comment t\u2019as aplati le frangin,\\r\\nle Ma\u00EEtre Invaincu... Mais bon, j\u2019aurai essay\u00E9\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Pfff... Non, mais vous r\u00E9alisez le boucan que vous\\nfaites\u202F? Je savais que c\u2019\u00E9tait vous \u00E0 100 m\u00E8tres.[VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Oh\u202F! Salut, Sonya\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], bravo pour ton titre\\nde Ma\u00EEtre\u202F! On est tous bluff\u00E9s.[VAR 0114(000B)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Y\u2019a de quoi\u202F!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "J\u2019ai eu de la chance, c\u2019est tout."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "C\u2019est pas la modestie qui t\u2019\u00E9touffe, hein.[VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Allons, fais pas l[VAR 1100(00FF,0101)]ea modeste\u202F!\\nTu l\u2019as pas vol\u00E9e, cette victoire\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Sonya, qu\u2019est-ce que tu fais ici\u202F?\\nC\u2019est ta grand-m\u00E8re qui t\u2019envoie en mission\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Ah ouais, je t\u2019ai pas dit, Nabil.\\nJe ne suis plus l\u2019assistante de grand-m\u00E8re\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Maintenant, la Professeure, c\u2019est moi\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "S\u00E9rieux\u202F? Trop bien\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "C\u2019est un peu gr\u00E2ce \u00E0 vous, tout \u00E7a.[VAR 0114(000B)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "C\u2019est en vous accompagnant au cours\\nde vos aventures que j\u2019ai eu envie de me plonger\\r\\ndans l\u2019Histoire de Galar.[VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Et je dois dire que m\u00EAme les Pok\u00E9mon\\nme passionnent encore plus qu\u2019avant\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "D\u2019ailleurs, cadeau\u202F! J\u2019ai \u00E9crit un livre.\\nAttention, c\u2019est collector\u202F!\\r\\nJ\u2019ai fait une d\u00E9dicace et tout.[VAR 0114(000B)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Sonya vous donne un exemplaire de son livre."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Je l\u2019ai d\u00E9j\u00E0\u202F! J\u2019ai fait la queue pour l\u2019acheter\\nle jour de sa sortie et tout\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "T\u2019es trop gentil, Nabil...\\nJe te d\u00E9dicacerai ton exemplaire, \u00E0 l\u2019occasion\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bref. Grand-m\u00E8re m\u2019a donn\u00E9 sa b\u00E9n\u00E9diction,\\nj\u2019ai boucl\u00E9 mon doctorat et publi\u00E9 ma th\u00E8se...\\c\\nCroyez-moi, vous n\u2019avez pas fini d\u2019entendre\\nparler de Professeure Sonya\u202F![VAR 0114(000B)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Vous assurez trop, tou[VAR 1100(00FF,0200)]tes les deux\u202F!\\nJe vous admire grave.[VAR 0114(0005)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Bref\u202F! Qu\u2019est-ce que vous faites ici, les loulous\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Euh... Bah...[VAR 0114(0005)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Ah\u202F! Je sais\u202F! Vous \u00EAtes venus remettre l\u2019\u00C9p\u00E9e\\nRouill\u00E9e et le Bouclier Rouill\u00E9 \u00E0 leur place\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Vous n\u2019allez pas les garder 107 ans, si\u202F?[VAR 0114(000B)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Euh... Oui\u202F! Exactement\u202F! C\u2019est tout \u00E0 fait pour \u00E7a\\nqu\u2019on est l\u00E0, bien s\u00FBr\u202F! Ha ha...[VAR 0114(0005)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Mouais. Vous aviez compl\u00E8tement oubli\u00E9,\\navouez.\\c\\nJe crois pas que Zacian et Zamazenta appr\u00E9cient.[VAR 0114(000B)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]... En y r\u00E9fl\u00E9chissant...\\nc\u2019est peut-\u00EAtre \u00E7a, l\u2019impression que tu avais\\r\\nqu\u2019on t\u2019appelait ici. C\u2019est peut-\u00EAtre eux\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Remettons l\u2019\u00E9p\u00E9e et le bouclier \u00E0 leur place\u202F!\\nOn leur doit bien \u00E7a, vu comme ils nous ont aid\u00E9s\u202F!\\c\\nEt qui sait... On les reverra peut-\u00EAtre un jour\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Tu pourrais te d\u00E9p\u00EAcher de remettre la relique\\nde [VAR 0101(0001)] \u00E0 sa place, sur l\u2019autel\u202F?\\c\\nJe suis vraiment pas fan de cette for\u00EAt, j\u2019aimerais\\n\u00E9viter d\u2019y rester trop longtemps... Mais il me faut\\r\\nune photo de l\u2019autel pour mes recherches.[VAR 0114(000B)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[~ 45]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[~ 46]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  }
+]

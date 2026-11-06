@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "hash": "437D29A0FFD3A925",
+    "name": "msg_ui_netbtl_battletype_00"
+  },
+  {
+    "index": 1,
+    "hash": "437D28A0FFD3A772",
+    "name": "msg_ui_netbtl_battletype_01"
+  },
+  {
+    "index": 2,
+    "hash": "437D27A0FFD3A5BF",
+    "name": "msg_ui_netbtl_battletype_02"
+  },
+  {
+    "index": 3,
+    "hash": "CF177E9705AE4DE5",
+    "name": "msg_ui_netbtl_playername_00"
+  },
+  {
+    "index": 4,
+    "hash": "CF177D9705AE4C32",
+    "name": "msg_ui_netbtl_playername_01"
+  },
+  {
+    "index": 5,
+    "hash": "CF177C9705AE4A7F",
+    "name": "msg_ui_netbtl_playername_02"
+  },
+  {
+    "index": 6,
+    "hash": "CF177B9705AE48CC",
+    "name": "msg_ui_netbtl_playername_03"
+  },
+  {
+    "index": 7,
+    "hash": "CF177A9705AE4719",
+    "name": "msg_ui_netbtl_playername_04"
+  },
+  {
+    "index": 8,
+    "hash": "1FFC1758108B1EC2",
+    "name": "msg_ui_netbtl_message_00"
+  },
+  {
+    "index": 9,
+    "hash": "1FFC1858108B2075",
+    "name": "msg_ui_netbtl_message_01"
+  },
+  {
+    "index": 10,
+    "hash": "1FFC1558108B1B5C",
+    "name": "msg_ui_netbtl_message_02"
+  },
+  {
+    "index": 11,
+    "hash": "1FFC1658108B1D0F",
+    "name": "msg_ui_netbtl_message_03"
+  },
+  {
+    "index": 12,
+    "hash": "1FFC1358108B17F6",
+    "name": "msg_ui_netbtl_message_04"
+  },
+  {
+    "index": 13,
+    "hash": "1FFC1458108B19A9",
+    "name": "msg_ui_netbtl_message_05"
+  },
+  {
+    "index": 14,
+    "hash": "1FFC1158108B1490",
+    "name": "msg_ui_netbtl_message_06"
+  },
+  {
+    "index": 15,
+    "hash": "1FFC1258108B1643",
+    "name": "msg_ui_netbtl_message_07"
+  },
+  {
+    "index": 16,
+    "hash": "1FFC1F58108B2C5A",
+    "name": "msg_ui_netbtl_message_08"
+  },
+  {
+    "index": 17,
+    "hash": "1FFC2058108B2E0D",
+    "name": "msg_ui_netbtl_message_09"
+  },
+  {
+    "index": 18,
+    "hash": "1FFF1D58108D5ECB",
+    "name": "msg_ui_netbtl_message_10"
+  },
+  {
+    "index": 19,
+    "hash": "1FFF1C58108D5D18",
+    "name": "msg_ui_netbtl_message_11"
+  },
+  {
+    "index": 20,
+    "hash": "1FFF1F58108D6231",
+    "name": "msg_ui_netbtl_message_12"
+  },
+  {
+    "index": 21,
+    "hash": "1FFF1E58108D607E",
+    "name": "msg_ui_netbtl_message_13"
+  },
+  {
+    "index": 22,
+    "hash": "1FFF2158108D6597",
+    "name": "msg_ui_netbtl_message_14"
+  },
+  {
+    "index": 23,
+    "hash": "1FFF2058108D63E4",
+    "name": "msg_ui_netbtl_message_15"
+  },
+  {
+    "index": 24,
+    "hash": "1FFF2358108D68FD",
+    "name": "msg_ui_netbtl_message_16"
+  },
+  {
+    "index": 25,
+    "hash": "1FFF2258108D674A",
+    "name": "msg_ui_netbtl_message_17"
+  },
+  {
+    "index": 26,
+    "hash": "1FFF1558108D5133",
+    "name": "msg_ui_netbtl_message_18"
+  },
+  {
+    "index": 27,
+    "hash": "1FFF1458108D4F80",
+    "name": "msg_ui_netbtl_message_19"
+  },
+  {
+    "index": 28,
+    "hash": "1FF50B581084EBB0",
+    "name": "msg_ui_netbtl_message_20"
+  },
+  {
+    "index": 29,
+    "hash": "1FF50C581084ED63",
+    "name": "msg_ui_netbtl_message_21"
+  },
+  {
+    "index": 30,
+    "hash": "1FF50D581084EF16",
+    "name": "msg_ui_netbtl_message_22"
+  },
+  {
+    "index": 31,
+    "hash": "1FF50E581084F0C9",
+    "name": "msg_ui_netbtl_message_23"
+  },
+  {
+    "index": 32,
+    "hash": "1FF50F581084F27C",
+    "name": "msg_ui_netbtl_message_24"
+  },
+  {
+    "index": 33,
+    "hash": "1FF510581084F42F",
+    "name": "msg_ui_netbtl_message_25"
+  },
+  {
+    "index": 34,
+    "hash": "1FF511581084F5E2",
+    "name": "msg_ui_netbtl_message_26"
+  },
+  {
+    "index": 35,
+    "hash": "EA93AAA93AD9F7A7",
+    "name": "msg_ui_netbtl_select_00"
+  },
+  {
+    "index": 36,
+    "hash": "EA93A9A93AD9F5F4",
+    "name": "msg_ui_netbtl_select_01"
+  },
+  {
+    "index": 37,
+    "hash": "EA93ACA93AD9FB0D",
+    "name": "msg_ui_netbtl_select_02"
+  },
+  {
+    "index": 38,
+    "hash": "EA93ABA93AD9F95A",
+    "name": "msg_ui_netbtl_select_03"
+  },
+  {
+    "index": 39,
+    "hash": "EA93A6A93AD9F0DB",
+    "name": "msg_ui_netbtl_select_04"
+  },
+  {
+    "index": 40,
+    "hash": "EA93A5A93AD9EF28",
+    "name": "msg_ui_netbtl_select_05"
+  },
+  {
+    "index": 41,
+    "hash": "EA93A8A93AD9F441",
+    "name": "msg_ui_netbtl_select_06"
+  },
+  {
+    "index": 42,
+    "hash": "EA93A7A93AD9F28E",
+    "name": "msg_ui_netbtl_select_07"
+  },
+  {
+    "index": 43,
+    "hash": "EA93A2A93AD9EA0F",
+    "name": "msg_ui_netbtl_select_08"
+  },
+  {
+    "index": 44,
+    "hash": "EA93A1A93AD9E85C",
+    "name": "msg_ui_netbtl_select_09"
+  },
+  {
+    "index": 45,
+    "hash": "EA9024A93AD6DE1E",
+    "name": "msg_ui_netbtl_select_10"
+  },
+  {
+    "index": 46,
+    "hash": "EA9025A93AD6DFD1",
+    "name": "msg_ui_netbtl_select_11"
+  },
+  {
+    "index": 47,
+    "hash": "EA9022A93AD6DAB8",
+    "name": "msg_ui_netbtl_select_12"
+  },
+  {
+    "index": 48,
+    "hash": "EA9023A93AD6DC6B",
+    "name": "msg_ui_netbtl_select_13"
+  },
+  {
+    "index": 49,
+    "hash": "EA9028A93AD6E4EA",
+    "name": "msg_ui_netbtl_select_14"
+  },
+  {
+    "index": 50,
+    "hash": "91C16B8394B716F6",
+    "name": "msg_ui_netbtl_context_00"
+  },
+  {
+    "index": 51,
+    "hash": "91C16C8394B718A9",
+    "name": "msg_ui_netbtl_context_01"
+  },
+  {
+    "index": 52,
+    "hash": "91C1698394B71390",
+    "name": "msg_ui_netbtl_context_02"
+  },
+  {
+    "index": 53,
+    "hash": "4CD3AE07141D9BB7",
+    "name": "msg_ui_netbtl_button_00"
+  },
+  {
+    "index": 54,
+    "hash": "4CD3AD07141D9A04",
+    "name": "msg_ui_netbtl_button_01"
+  },
+  {
+    "index": 55,
+    "hash": "4CD3B007141D9F1D",
+    "name": "msg_ui_netbtl_button_02"
+  },
+  {
+    "index": 56,
+    "hash": "4CD3AF07141D9D6A",
+    "name": "msg_ui_netbtl_button_03"
+  },
+  {
+    "index": 57,
+    "hash": "4CD3AA07141D94EB",
+    "name": "msg_ui_netbtl_button_04"
+  },
+  {
+    "index": 58,
+    "hash": "4CD3A907141D9338",
+    "name": "msg_ui_netbtl_button_05"
+  },
+  {
+    "index": 59,
+    "hash": "4CD3AC07141D9851",
+    "name": "msg_ui_netbtl_button_06"
+  },
+  {
+    "index": 60,
+    "hash": "4CD3AB07141D969E",
+    "name": "msg_ui_netbtl_button_07"
+  },
+  {
+    "index": 61,
+    "hash": "459B2BE26B4615C2",
+    "name": "msg_ui_netbtl_ready_00"
+  },
+  {
+    "index": 62,
+    "hash": "459B2CE26B461775",
+    "name": "msg_ui_netbtl_ready_01"
+  },
+  {
+    "index": 63,
+    "hash": "9999263358DFF9D9",
+    "name": "msg_ui_netbtl_rule_00"
+  },
+  {
+    "index": 64,
+    "hash": "9999253358DFF826",
+    "name": "msg_ui_netbtl_rule_01"
+  },
+  {
+    "index": 65,
+    "hash": "9999243358DFF673",
+    "name": "msg_ui_netbtl_rule_02"
+  },
+  {
+    "index": 66,
+    "hash": "E7A08DF954BADD94",
+    "name": "msg_ui_netbtl_team_00"
+  },
+  {
+    "index": 67,
+    "hash": "E7A08EF954BADF47",
+    "name": "msg_ui_netbtl_team_01"
+  },
+  {
+    "index": 68,
+    "hash": "E7A08FF954BAE0FA",
+    "name": "msg_ui_netbtl_team_02"
+  },
+  {
+    "index": 69,
+    "hash": "108F33E7865413BD",
+    "name": "msg_ui_netbtl_bgm_00"
+  },
+  {
+    "index": 70,
+    "hash": "108F32E78654120A",
+    "name": "msg_ui_netbtl_bgm_01"
+  },
+  {
+    "index": 71,
+    "hash": "1FF512581084F795",
+    "name": "msg_ui_netbtl_message_27"
+  },
+  {
+    "index": 72,
+    "hash": "1FF513581084F948",
+    "name": "msg_ui_netbtl_message_28"
+  },
+  {
+    "index": 73,
+    "hash": "1FF514581084FAFB",
+    "name": "msg_ui_netbtl_message_29"
+  },
+  {
+    "index": 74,
+    "hash": "1FF8915810880539",
+    "name": "msg_ui_netbtl_message_30"
+  },
+  {
+    "index": 75,
+    "hash": "1FF8905810880386",
+    "name": "msg_ui_netbtl_message_31"
+  },
+  {
+    "index": 76,
+    "hash": "1FF88F58108801D3",
+    "name": "msg_ui_netbtl_message_32"
+  },
+  {
+    "index": 77,
+    "hash": "1FF88E5810880020",
+    "name": "msg_ui_netbtl_message_33"
+  },
+  {
+    "index": 78,
+    "hash": "1FF8955810880C05",
+    "name": "msg_ui_netbtl_message_34"
+  },
+  {
+    "index": 79,
+    "hash": "1FF8945810880A52",
+    "name": "msg_ui_netbtl_message_35"
+  },
+  {
+    "index": 80,
+    "hash": "1FF893581088089F",
+    "name": "msg_ui_netbtl_message_36"
+  },
+  {
+    "index": 81,
+    "hash": "1FF89258108806EC",
+    "name": "msg_ui_netbtl_message_37"
+  },
+  {
+    "index": 82,
+    "hash": "1FF89958108812D1",
+    "name": "msg_ui_netbtl_message_38"
+  },
+  {
+    "index": 83,
+    "hash": "1FF898581088111E",
+    "name": "msg_ui_netbtl_message_39"
+  },
+  {
+    "index": 84,
+    "hash": "20098F5810967506",
+    "name": "msg_ui_netbtl_message_40"
+  },
+  {
+    "index": 85,
+    "hash": "20099058109676B9",
+    "name": "msg_ui_netbtl_message_41"
+  },
+  {
+    "index": 86,
+    "hash": "20098D58109671A0",
+    "name": "msg_ui_netbtl_message_42"
+  },
+  {
+    "index": 87,
+    "hash": "20098E5810967353",
+    "name": "msg_ui_netbtl_message_43"
+  },
+  {
+    "index": 88,
+    "hash": "2009935810967BD2",
+    "name": "msg_ui_netbtl_message_44"
+  },
+  {
+    "index": 89,
+    "hash": "2009945810967D85",
+    "name": "msg_ui_netbtl_message_45"
+  },
+  {
+    "index": 90,
+    "hash": "200991581096786C",
+    "name": "msg_ui_netbtl_message_46"
+  },
+  {
+    "index": 91,
+    "hash": "2009925810967A1F",
+    "name": "msg_ui_netbtl_message_47"
+  },
+  {
+    "index": 92,
+    "hash": "200997581096829E",
+    "name": "msg_ui_netbtl_message_48"
+  },
+  {
+    "index": 93,
+    "hash": "4CD3A607141D8E1F",
+    "name": "msg_ui_netbtl_button_08"
+  },
+  {
+    "index": 94,
+    "hash": "4CD3A507141D8C6C",
+    "name": "msg_ui_netbtl_button_09"
+  },
+  {
+    "index": 95,
+    "hash": "9999233358DFF4C0",
+    "name": "msg_ui_netbtl_rule_03"
+  },
+  {
+    "index": 96,
+    "hash": "C6C6C74269CD5FF3",
+    "name": "msg_ui_netbtl_change_00"
+  },
+  {
+    "index": 97,
+    "hash": "D6EF08AA4947A913",
+    "name": "msg_ui_netbtl_nickname_00"
+  },
+  {
+    "index": 98,
+    "hash": "91C16A8394B71543",
+    "name": "msg_ui_netbtl_context_03"
+  },
+  {
+    "index": 99,
+    "hash": "B7748B32F1E8806E",
+    "name": "msg_net_btl_max"
+  }
+]

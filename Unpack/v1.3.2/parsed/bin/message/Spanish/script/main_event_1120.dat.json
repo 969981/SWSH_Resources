@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Bienvenid[VAR 1100(00FF,0101)]oa, Aspirante! \u00BFQuieres afrontar el reto\\nde nuestro gimnasio?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Por supuesto!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Quiz\u00E1 m\u00E1s tarde"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "En ese caso dir\u00EDgete al vestuario para ponerte el\\nuniforme, si eres tan amable.\\c\\nM\u00E1s que una misi\u00F3n, te espera un examen muy\\nconcienzudo que medir\u00E1 tus cualidades."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 bien te sienta el uniforme! Pues nada,\\n\u00A1t\u00FA tranquil[VAR 1100(00FF,0101)]oa y buena suerte!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Vaya, pues qu\u00E9 l\u00E1stima!"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Espero que est\u00E9s list[VAR 1100(00FF,0101)]oa para esta misi\u00F3n...\\n\u00BFo deber\u00EDa decir examen?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Has recibido una MT de Sally, \u00BFno?\\c\\nPues nada, te toca poner rumbo al siguiente\\ngimnasio, que est\u00E1 en Pueblo Auriga."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 bien te queda la Medalla Hada!\\n\u00A1Sigue as\u00ED, [VAR 0100(0000)]!"
+  }
+]

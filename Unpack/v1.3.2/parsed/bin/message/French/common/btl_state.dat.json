@@ -1,0 +1,832 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Soleil"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Le soleil est au z\u00E9nith. La puissance des attaques\\nde type Feu augmente alors que celle des attaques\\nde type Eau diminue."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pluie"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Il pleut. La puissance des attaques de type Eau\\naugmente alors que celle des attaques de type\\nFeu diminue."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Temp\u00EAte de sable"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "On ne voit plus rien. Tous les Pok\u00E9mon,\\n\u00E0 part ceux de type Roche, Sol ou Acier,\\nsubissent des d\u00E9g\u00E2ts \u00E0 la fin de chaque tour.\\nLes Pok\u00E9mon de type Roche voient\\nleur D\u00E9fense Sp\u00E9ciale augmenter."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Gr\u00EAle"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Il fait tr\u00E8s froid. Tous les Pok\u00E9mon, \u00E0 part ceux\\nde type Glace, subissent des d\u00E9g\u00E2ts \u00E0 la fin\\nde chaque tour."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Champ \u00C9lectrifi\u00E9"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Pendant cinq tours, les Pok\u00E9mon au sol\\nne peuvent plus dormir. La puissance\\ndes capacit\u00E9s de type \u00C9lectrik augmente."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Champ Herbu"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Pendant cinq tours, les Pok\u00E9mon au sol\\nregagnent des PV. La puissance des capacit\u00E9s\\nde type Plante augmente."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Champ Brumeux"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Pendant cinq tours, les Pok\u00E9mon au sol\\nne peuvent plus subir d\u2019alt\u00E9ration de statut.\\nLa puissance des capacit\u00E9s de type Dragon\\ndiminue de moiti\u00E9."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Distorsion"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Pendant cinq tours, la Vitesse des Pok\u00E9mon\\nest invers\u00E9e : les plus lents deviennent\\nles plus rapides, et vice-versa."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Zone Magique"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Pendant cinq tours, aucun objet tenu ne peut\\n\u00EAtre activ\u00E9."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Zone \u00C9trange"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Pendant cinq tours, la D\u00E9fense et la D\u00E9fense\\nSp\u00E9ciale de tous les Pok\u00E9mon sont interverties."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Chance Critique"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon a plus de chances d\u2019infliger\\ndes coups critiques."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Confusion"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Pendant un \u00E0 quatre tours, le Pok\u00E9mon\\nrisque de se blesser lui-m\u00EAme."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Attraction"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon risque de ne pas pouvoir\\nattaquer les Pok\u00E9mon de sexe oppos\u00E9."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Cauchemar"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon perd des PV \u00E0 chaque tour\\njusqu\u2019\u00E0 ce qu\u2019il se r\u00E9veille."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "B\u00E2illement"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon s\u2019endormira \u00E0 la fin du tour qui suit\\ncelui o\u00F9 il a \u00E9t\u00E9 pris pour cible par la capacit\u00E9."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Encore"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Pendant trois tours, le Pok\u00E9mon ne pourra plus\\nque r\u00E9p\u00E9ter [VAR 0107(0000)]."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Pas d\u2019effet"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Le talent du Pok\u00E9mon ne fait plus effet."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Tourmente"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ne peut plus utiliser\\nla m\u00EAme capacit\u00E9 deux fois de suite."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Vent Arri\u00E8re"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Pendant quatre tours, la Vitesse des Pok\u00E9mon\\nde l\u2019\u00E9quipe est doubl\u00E9e."
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Air Veinard"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ne peut pas subir de coup critique."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Rancune"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Si un Pok\u00E9mon met celui-ci K.O.,\\nles PP de la capacit\u00E9 qu\u2019il a utilis\u00E9e\\ntomberont \u00E0 z\u00E9ro."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Anti-Soin"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Pendant cinq tours, le Pok\u00E9mon ne peut\\nplus r\u00E9cup\u00E9rer de PV gr\u00E2ce \u00E0 ses capacit\u00E9s,\\nson talent ou l\u2019objet qu\u2019il tient."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Anti-Spectre"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Certaines capacit\u00E9s qui auraient d\u00FB n\u2019avoir\\naucun effet peuvent maintenant atteindre\\nleur cible, et touchent sans prendre en compte\\nles augmentations d\u2019Esquive."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Capacit\u00E9 bloqu\u00E9e"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ne peut plus utiliser la capacit\u00E9\\n[VAR 0107(0000)] pendant quatre tours."
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Anti-Fuite"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ne peut plus \u00EAtre chang\u00E9 pour\\nun autre membre de l\u2019\u00E9quipe et ne peut plus fuir."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Verrouillage"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "La capacit\u00E9 utilis\u00E9e au tour qui suit l\u2019utilisation\\nde Verrouillage touchera \u00E0 coup s\u00FBr."
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Embargo"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Pendant cinq tours, aucun objet ne peut\\n\u00EAtre utilis\u00E9."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Chargeur"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Si le Pok\u00E9mon utilise une capacit\u00E9 de type\\n\u00C9lectrik imm\u00E9diatement apr\u00E8s avoir utilis\u00E9\\nChargeur, la puissance de celle-ci sera doubl\u00E9e."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Gravit\u00E9"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Pendant cinq tours, il sera plus facile de toucher\\nle Pok\u00E9mon. Les capacit\u00E9s de type Sol pourront\\ntoucher les Pok\u00E9mon de type Vol ou dot\u00E9s\\ndu talent L\u00E9vitation. Le Pok\u00E9mon ne peut plus\\nutiliser de capacit\u00E9 lui permettant de s\u2019envoler."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Brume"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Pendant cinq tours, les stats ne peuvent\\nplus baisser."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Rune Protect"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Pendant cinq tours, le Pok\u00E9mon est prot\u00E9g\u00E9\\ncontre les alt\u00E9rations de statut."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Pi\u00E8ge de Roc"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Inflige des d\u00E9g\u00E2ts aux Pok\u00E9mon entrant\\nsur le terrain."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Stockage"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "La D\u00E9fense et la D\u00E9fense Sp\u00E9ciale du Pok\u00E9mon\\naugmentent tant que le Stockage continue."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Provocation"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ne peut plus utiliser que des capacit\u00E9s\\ninfligeant des d\u00E9g\u00E2ts."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "L\u00E9vikin\u00E9sie"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Pendant trois tours, le Pok\u00E9mon sera touch\u00E9\\n\u00E0 coup s\u00FBr par toutes les capacit\u00E9s \u00E0 l\u2019exception\\nde celles qui mettent K.O. en un coup.\\nPar contre, il ne pourra plus \u00EAtre touch\u00E9\\npar les capacit\u00E9s de type Sol."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Vol Magn\u00E9tik"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Pendant cinq tours, le Pok\u00E9mon ne pourra\\nplus \u00EAtre touch\u00E9 par les capacit\u00E9s de type Sol."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Pics Toxik"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Empoisonne les Pok\u00E9mon entrant sur le terrain,\\nsauf s\u2019ils sont de type Vol ou dot\u00E9s du talent\\nL\u00E9vitation."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Lance-Boue"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Pendant cinq tours, la puissance des capacit\u00E9s\\nde type \u00C9lectrik est divis\u00E9e par deux."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "V\u0153u"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Des PV seront restaur\u00E9s au tour qui suit\\nl\u2019utilisation de V\u0153u."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Toile Gluante"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Quand un Pok\u00E9mon laisse sa place\\n\u00E0 un co\u00E9quipier, la Vitesse de ce dernier\\nest baiss\u00E9e."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Racines"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Restaure quelques PV \u00E0 la fin de chaque tour.\\nLe Pok\u00E9mon affect\u00E9 ne peut plus laisser sa place\\n\u00E0 un autre Pok\u00E9mon."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Mal\u00E9diction"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Fait perdre des PV \u00E0 la fin de chaque tour."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Halloween"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Octroie le type Spectre en plus du ou des types\\nque le Pok\u00E9mon poss\u00E8de normalement."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Mur Lumi\u00E8re"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Pendant cinq tours, les d\u00E9g\u00E2ts caus\u00E9s\\npar les capacit\u00E9s sp\u00E9ciales subies seront divis\u00E9s\\npar deux."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Protection"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Pendant cinq tours, les d\u00E9g\u00E2ts caus\u00E9s\\npar les capacit\u00E9s physiques subies seront divis\u00E9s\\npar deux."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Possessif"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon ayant utilis\u00E9 Possessif emp\u00EAche\\nl\u2019ennemi de se servir des capacit\u00E9s qu\u2019ils ont\\nen commun."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Compte \u00E0 rebours"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Tous les Pok\u00E9mon affect\u00E9s par ce statut\\nseront K.O. apr\u00E8s trois tours."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Picots"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Inflige des d\u00E9g\u00E2ts aux Pok\u00E9mon qui entrent\\nsur le terrain, sauf s\u2019ils sont de type Vol\\nou dot\u00E9s du talent L\u00E9vitation."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Tourniquet"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Pendant cinq tours, la puissance des capacit\u00E9s\\nde type Feu est divis\u00E9e par deux."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Lien du Destin"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Si ce Pok\u00E9mon est mis K.O., le Pok\u00E9mon\\nresponsable sera \u00E9galement mis K.O."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Mal\u00E9fice Sylvain"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Octroie le type Plante en plus du ou des types\\nque le Pok\u00E9mon poss\u00E8de normalement."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Vampigraine"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "\u00C0 la fin du tour, la cible se fait voler des PV."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Verrouillage"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Les capacit\u00E9s toucheront le Pok\u00E9mon cible\\n\u00E0 coup s\u00FBr."
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "\u00C9treinte"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon subit des d\u00E9g\u00E2ts \u00E0 chaque tour."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Patience"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon encaisse les attaques pendant\\ndeux tours, puis renvoie le double des d\u00E9g\u00E2ts\\nqu\u2019il a subis \u00E0 sa cible."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Col\u00E8re"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Le lanceur enrage et attaque pendant\\ndeux ou trois tours avant de devenir confus."
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Enrag\u00E9"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Le lanceur enrage et attaque pendant\\ndeux ou trois tours avant de devenir confus."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Danse Fleurs"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Le lanceur enrage et attaque pendant\\ndeux ou trois tours avant de devenir confus."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Poison grave"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon est gravement empoisonn\u00E9,\\net perd de plus en plus de PV \u00E0 chaque tour."
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Attaque future"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon subira des d\u00E9g\u00E2ts apr\u00E8s deux tours."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Brouhaha"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Le lanceur enrage et attaque pendant\\ntrois tours. Aucun Pok\u00E9mon ne peut dormir\\npendant cette p\u00E9riode."
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Anneau Hydro"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Un voile d\u2019eau recouvre le lanceur\\net r\u00E9g\u00E9n\u00E8re ses PV \u00E0 chaque tour."
+  },
+  {
+    "index": 126,
+    "flags": 4,
+    "text": "All\u00E8gement"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Le lanceur s\u2019all\u00E8ge et augmente beaucoup\\nsa Vitesse."
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Anti-Air"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "La cible est touch\u00E9e en plein vol\\net s\u2019\u00E9crase au sol."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Verrou Enchant\u00E9"
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "Aucun Pok\u00E9mon ne peut quitter le terrain durant\\nle tour qui suit l\u2019utilisation de cette capacit\u00E9."
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "Arc-en-ciel"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Augmente les chances qu\u2019un effet additionnel\\nse produise."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Mar\u00E9cage"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Divise la Vitesse par quatre."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Mer de Feu"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Tous les Pok\u00E9mon, \u00E0 part ceux de type Feu,\\nsubissent des d\u00E9g\u00E2ts \u00E0 chaque tour."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Soleil intense"
+  },
+  {
+    "index": 139,
+    "flags": 4,
+    "text": "Un soleil intense brille dans le ciel. La puissance\\ndes capacit\u00E9s de type Feu augmente et les\\ncapacit\u00E9s de type Eau deviennent inefficaces."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Pluie battante"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "Une pluie battante s\u2019abat. La puissance\\ndes capacit\u00E9s de type Eau augmente et les\\ncapacit\u00E9s de type Feu deviennent inefficaces."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Vent myst\u00E9rieux"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Un vent myst\u00E9rieux s\u2019est lev\u00E9. Il affaiblit\\nles capacit\u00E9s super efficaces contre le type Vol."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Champ Psychique"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Pendant cinq tours, les Pok\u00E9mon au sol\\nsont immunis\u00E9s aux capacit\u00E9s prioritaires.\\nLa puissance des capacit\u00E9s de type Psy\\nest augment\u00E9e."
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Ex\u00E9cu-Son"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "La cible ne peut plus utiliser de capacit\u00E9s\\nsonores pendant deux tours."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Voile Aurore"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "La puissance des capacit\u00E9s physiques et sp\u00E9ciales\\nest divis\u00E9e par deux pendant cinq tours."
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Affilage"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "La capacit\u00E9 utilis\u00E9e au tour qui suit l\u2019activation\\nd\u2019Affilage inflige \u00E0 coup s\u00FBr un coup critique."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Goudronnage"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Le Pok\u00E9mon devient vuln\u00E9rable aux capacit\u00E9s\\nde type Feu."
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Octoprise"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "La D\u00E9fense et la D\u00E9fense Sp\u00E9ciale diminuent\\n\u00E0 chaque tour."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Fournaise G-Max"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Pendant quatre tours, tous les Pok\u00E9mon,\\n\u00E0 part ceux de type Feu, subissent des d\u00E9g\u00E2ts."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "T\u00E9phra G-Max"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Pendant quatre tours, tous les Pok\u00E9mon,\\n\u00E0 part ceux de type Roche, subissent des d\u00E9g\u00E2ts."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Perc\u00E9e G-Max"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "Inflige des d\u00E9g\u00E2ts aux Pok\u00E9mon entrant\\nsur le terrain."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Fouet G-Max"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Pendant quatre tours, tous les Pok\u00E9mon,\\n\u00E0 part ceux de type Plante, subissent des d\u00E9g\u00E2ts."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Canonnade G-Max"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Pendant quatre tours, tous les Pok\u00E9mon,\\n\u00E0 part ceux de type Eau, subissent des d\u00E9g\u00E2ts."
+  }
+]

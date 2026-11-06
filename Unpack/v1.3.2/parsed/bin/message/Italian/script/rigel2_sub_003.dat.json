@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Vuoi partire per un\u2019Avventura Dynamax?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Vorrei saperne di pi\u00F9"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Non ora"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Sembra che tu abbia registrato la posizione\\ndi alcuni Pok\u00E9mon.\\c\\nQuale Pok\u00E9mon vuoi raggiungere?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Credo che tu abbia gi\u00E0 catturato\\n[VAR 0101(0000)]...\\c\\nQuindi se lo incontri di nuovo\\n[VAR FF00(0001)]non potrai catturarlo[VAR FF00(0000)].\\c\\nVuoi partire comunque?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Durante l\u2019ultima esplorazione hai trovato\\n[VAR 0101(0000)]!\\c\\nHo salvato la sua posizione, quindi potrai\\naffrontarlo di nuovo. Vuoi provare?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Non ho preferenze"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "L\u2019Avventura Dynamax ti permetter\u00E0 di\\naddentrarti in questa dynatana max insieme\\r\\na dei Pok\u00E9mon che puoi prendere in prestito."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "L\u2019esplorazione si svolge a gruppi di quattro.\\c\\nSceglierete insieme che percorso fare e\\navanzerete in cerca del Pok\u00E9mon Dynamax\\r\\nleggendario che si nasconde nella parte pi\u00F9\\r\\nprofonda della tana."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Alla fine dell\u2019avventura ti dar\u00F2 delle Roccemax\\ncome ricompensa!\\c\\nI Pok\u00E9mon che catturi durante l\u2019avventura\\ndovranno rimanere qui per le nostre ricerche,\\r\\nma potrai tenerne uno!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "L\u2019ultima volta hai abbandonato l\u2019Avventura\\nDynamax prima della fine, vero?\\c\\nCerca di fare pi\u00F9 attenzione in futuro, per\\nnon mettere in difficolt\u00E0 gli altri partecipanti."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Continui ad abbandonare l\u2019Avventura\\nDynamax prima della fine... Non \u00E8 carino\\r\\nnei confronti degli altri partecipanti...\\c\\nPrima di lasciarti partire con un\u2019altra squadra,\\nposso chiederti di darmi [VAR 0201(0000)] Rocc[VAR 1101(0000,0102)]iaemax per\\r\\ndimostrarmi che prendi le cose seriamente?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Non potrai partire per un\u2019Avventura Dynamax\\nfinch\u00E9 non mi avrai dato le Roccemax."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Non hai abbastanza Roccemax..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ti consiglio di raccoglierne un po\u2019 affrontando\\ndei Raid Dynamax nella Landa Corona."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "La prossima volta cerca di completare\\nl\u2019Avventura Dynamax, ok?"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Ottimo lavoro! Torna presto, contiamo su di te!"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Hai fatto un buon lavoro! C\u2019eri quasi..."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Vuoi salvare l\u2019ubicazione di [VAR 0101(0000)]\\nper poterlo affrontare di nuovo in seguito?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Non puoi salvare altre ubicazioni di Pok\u00E9mon.\\nVuoi cancellarne una?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Allora stavolta l\u2019ubicazione di [VAR 0101(0000)]\\nnon verr\u00E0 salvata."
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Allora l\u2019ubicazione di [VAR 0101(0001)] verr\u00E0\\ncancellata e sostituita da quella\\r\\ndi [VAR 0101(0000)]."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Perfetto! L\u2019ubicazione \u00E8 stata salvata."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Torna ad aiutarci presto!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Che disdetta... Ma spero che tornerai!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bentornat[VAR 1100(00FF,0101)]oa! Vuoi conservare l\u2019ubicazione\\ndi [VAR 0101(0000)] tra quelle salvate?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Va bene! Allora la lascio."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Allora cancello l\u2019ubicazione di [VAR 0101(0000)]."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Eh? Ah, ma sei tu!\\c\\nTorna quando avrai preso un po\u2019 pi\u00F9 la mano\\ncon l\u2019Avventura Dynamax!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Di\u2019 un po\u2019... A te piace l\u2019Avventura Dynamax?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Lo sapevo! Sei un[VAR 1100(00FF,0C0B)] esplorator\u2019esploratrice nat[VAR 1100(00FF,0101)]oa, si vede!"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Ah no...?"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Adesso che sei un[VAR 1100(00FF,0808)] esperto\u2019esperta dell\u2019Avventura\\nDynamax...\\c\\nChe ne dici di provare ad affrontarne una\\nin modalit\u00E0 infinita? L\u2019ho ideata io!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Vuoi partire per un\u2019Avventura Dynamax\\nin modalit\u00E0 infinita?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Vorrei sapere qual \u00E8 il record"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "La modalit\u00E0 infinita, come dice il nome,\\nnon ha fine!\\c\\nPuoi continuare ad addentrarti nella tana\\nanche dopo aver sconfitto il Pok\u00E9mon che\\r\\nsi cela nelle sue profondit\u00E0 e scoprire\\r\\nfin dove riesci ad arrivare!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Purtroppo non potrai tenere i Pok\u00E9mon che\\ncatturerai perch\u00E9 serviranno per le ricerche...\\c\\nIn compenso, per\u00F2, riceverai molte pi\u00F9 Roccemax\\ndel solito!"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Il punto pi\u00F9 profondo che raggiungi verr\u00E0\\nregistrato tra i record, quindi cerca di spingerti\\r\\nsempre pi\u00F9 lontano insieme ai tuoi compagni!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Torna pure quando vuoi!"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Oh, ma \u00E8 fantastico! Hai fatto un nuovo record!\\nMolto bene, ho registrato anche questo!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Non ti preoccupare, ho registrato il punto\\nin cui sei arrivat[VAR 1100(00FF,0101)]oa.\\c\\nTorna pure quando avrai voglia di provare\\na battere il record!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Allora, il tuo record \u00E8..."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Metticela tutta e vedrai che riuscirai a\\nsuperare te stess[VAR 1100(00FF,0101)]oa!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ah, sei tu, [VAR 0100(0000)]!\\c\\nSai, nella dynatana max ho trovato\\n[VAR 0101(0001)]![VAR 0114(0078)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Se ti interessa sapere dove si trova\\n[VAR 0101(0001)], posso dirtelo per\\r\\n[VAR 0202(0002)] Rocc[VAR 1101(0002,0102)]iaemax... Che ne dici?[VAR 0114(0078)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Oh, ma non hai pi\u00F9 spazio per segnarti\\nla posizione di altri Pok\u00E9mon!\\r\\nMi sa che ne devi cancellare una...[VAR 0114(0078)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Ma... Aspetta un secondo!\\nHai gi\u00E0 catturato [VAR 0101(0001)]!\\c\\nPosso dirti dove si trova per [VAR 0202(0002)] Rocc[VAR 1101(0002,0102)]iaemax...\\nSolo che non potrai catturarlo di nuovo, ok?[VAR 0114(0078)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Nia ti ha indicato dove si trova\\n[VAR 0101(0001)]!"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Oh, ma non hai abbastanza Roccemax...[VAR 0114(0078)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Va bene, per questa volta te lo dico lo stesso!\\nGiusto perch\u00E9 mi fai un po\u2019 pena![VAR 0114(0078)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Eh? Ma sai gi\u00E0 dove si trova [VAR 0101(0001)]![VAR 0114(0078)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Sei proprio sicur[VAR 1100(00FF,0101)]oa? Se poi te ne penti,\\npeggio per te![VAR 0114(0078)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Parla con la Scienziata per iniziare l\u2019esplorazione!\\nBuona fortuna![VAR 0114(0078)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Ah, [VAR 0100(0000)]! Come sta andando?\\nIo non mi posso lamentare![VAR 0114(0078)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Ah, s\u00EC! Nella dynatana max ho raccolto questa\\nroba, tienila pure tu![VAR 0114(0078)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente articolo:\\n[VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\r\\n([VAR 01C2(0001)])!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Non farti problemi!\\nTanto non \u00E8 il mio stile, ahah![VAR 0114(0078)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Chiss\u00E0 perch\u00E9 nella dynatana max ci sono cos\u00EC\\ntanti Pok\u00E9mon leggendari...[VAR 0114(0078)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Sai cosa mi ha detto la Scienziata?\\c\\nChe il primo Pok\u00E9mon leggendario che hanno\\ntrovato qui \u00E8 stato [VAR 0101(0000)]![VAR 0114(0078)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "La Scienziata mi ha raccontato che prima di\\nvenire qui lavorava in un centro ricerche di Alola!\\c\\nTi immagini che bello poter mangiare Malasade\\ntutti i giorni?![VAR 0114(0078)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Mi \u00E8 venuta voglia di usare un Cerotto abilit\u00E0\\nsul mio adorato Tyrantrum.\\c\\nVisto che usa sempre Zuccata, potrebbe essergli\\nutile![VAR 0114(0078)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Vuoi una dritta per avere successo in\\nun\u2019Avventura Dynamax?\\c\\nProva a usare mosse come Schermoluce o\\nRiflesso per ridurre i danni subiti!![VAR 0114(0078)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Vuoi una dritta per avere successo in\\nun\u2019Avventura Dynamax?\\c\\nOsserva come se la cavano con i vari tipi\\ni Pok\u00E9mon che ti aspettano in fondo alla tana![VAR 0114(0078)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Vuoi una dritta per avere successo in\\nun\u2019Avventura Dynamax?\\c\\nUsando mosse come Dynapugno che aumentano\\nl\u2019Attacco dei tuoi alleati, potrai rendere le lotte\\r\\nancora pi\u00F9 entusiasmanti![VAR 0114(0078)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "A proposito, hai sentito cosa si dice di\\nquell\u2019albero enorme chiamato Dynalbero?\\c\\nSembra che se lo scuoti succedono cose\\ninteressanti!\\c\\nPer me \u00E8 impossibile, non sono abbastanza forte,\\nma tu ce la potresti fare! Perch\u00E9 non provi?[VAR 0114(0078)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Che roba: tutti i Pok\u00E9mon della dynatana max\\nsono dynamaxizzati!\\c\\nMagari c\u2019\u00E8 una Desiostella enorme nascosta\\nsottoterra![VAR 0114(0078)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Come sta andando il tour leggendario con mio\\npadre?\\c\\nNon prenderlo troppo sul serio, mi raccomando,\\n\u00E8 un tipo un po\u2019 eccentrico![VAR 0114(0078)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Quel tipo laggi\u00F9 ha l\u2019aria un po\u2019 strana, vero?\\nCerto, si potrebbe dire lo stesso di mio padre...[VAR 0114(0078)]"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "A proposito, hai sentito cosa si dice del cimitero\\ndella landa?\\c\\nPare che ogni notte una donna dai capelli\\nluuunghi luuunghi vi si aggiri in cerca\\r\\ndi qualcosa...[VAR 0114(0078)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "In una delle mie Avventure Dynamax passate,\\nl\u2019Oranguru di un alleato \u00E8 riuscito a controllare\\r\\ni Pok\u00E9mon intorno con la mossa Imposizione!\\c\\nCi ha dato una grossa mano!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Sablim!"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Anche i Pok\u00E9mon mi stanno aiutando nelle mie\\nricerche!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Dot dot!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Do do dot!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Dooot!"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "I dati dei grafici cambiano in continuazione...\\nSembrano delle misurazioni..."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Meglio evitare di addentrarsi da soli..."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Decidi di tornare verso l\u2019ingresso e di cercare\\nla ragazza che Peony voleva raggiungere..."
+  }
+]

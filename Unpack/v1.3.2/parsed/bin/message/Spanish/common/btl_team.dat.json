@@ -1,0 +1,227 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 1701(0000,0000)][VAR 0102(0000)] ha sido seleccionado."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Pr\u00E9stamo [VAR 0200(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Equipo"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Nv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u2642"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u2640"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Selecciona un Equipo de Combate."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Selecciona un Equipo de Combate."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Registrar equipo"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Equipo seleccionado: [VAR 01BF(0000)]\\n\u00BFCorrecto?"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Al inscribir un Equipo de Combate en un torneo,\\neste quedar\u00E1 bloqueado y no podr\u00E1s cambiar\\r\\nobjetos ni mover ni intercambiar Pok\u00E9mon, entre\\r\\notras cosas.\\c\\n\u00BFSeguro que deseas inscribir a [VAR 01BF(0000)]\\nen este torneo?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Se ha detectado un problema con alguno de los\\nPok\u00E9mon de tu Equipo de Combate.\\c"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Alguno de tus Pok\u00E9mon conoce un movimiento\\nno permitido.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "No hay suficientes Pok\u00E9mon participantes.\\c"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Los Huevos no pueden participar.\\c"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Hay demasiados Pok\u00E9mon participantes.\\c"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Falta alguno de los Pok\u00E9mon requeridos para\\nparticipar.\\c"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Alguno de tus Pok\u00E9mon conoce un movimiento\\nno permitido.\\c"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Alguno de tus Pok\u00E9mon no puede participar.\\c"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Alguno de tus Pok\u00E9mon lleva un objeto no\\npermitido.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "El nivel de alguno de tus Pok\u00E9mon no se ci\u00F1e al\\nreglamento.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Algunos Pok\u00E9mon son de la misma especie.\\c"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Algunos Pok\u00E9mon llevan el mismo objeto.\\c"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Has elegido m\u00E1s Pok\u00E9mon especiales de los\\npermitidos.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "No cumples los requisitos para participar.\\c"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "No se ha detectado ning\u00FAn problema con este\\nEquipo de Combate.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Puedes tomar un equipo\\nprestado."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Conectando...\\nPor favor, espera."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Aqu\u00ED no se pueden usar Equipos de Pr\u00E9stamo.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Alguno de tus Pok\u00E9mon no presenta el s\u00EDmbolo\\nde autorizaci\u00F3n de combate.\\c"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Comprobar"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "No tienes ning\u00FAn Equipo de Combate.\\nTendr\u00E1s que crear uno.\\c"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "No tienes ning\u00FAn Equipo de Combate.\\c\\nPara crear un Equipo de Combate, registra un\\nequipo en alguna de tus cajas.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Ver cajas"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Este Equipo de Combate est\u00E1 inscrito en un\\nTorneo en Directo.\\c\\nAl estar bloqueado, no puedes utilizarlo.\\c"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Este Equipo de Combate est\u00E1 inscrito en un\\ntorneo oficial.\\c\\nAl estar bloqueado, no puedes utilizarlo.\\c"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Este Equipo de Combate est\u00E1 inscrito en un\\ntorneo amistoso.\\c\\nAl estar bloqueado, no puedes utilizarlo.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00BFDeseas inscribir el equipo [VAR 01BF(0000)] en\\neste torneo?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Vac\u00EDo"
+  }
+]

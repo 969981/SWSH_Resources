@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Welcome... Have a look at our bargains."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Today\u2019s bargain"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Yesterday\u2019s bargain"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Next bargain"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Today\u2019s bargain is [VAR 1302(0001,0000)][VAR 0109(0001)]...\\nIt\u2019s \uE300[VAR 0203(0002,002C)]. You still want it?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Yesterday\u2019s bargain is [VAR 1302(0001,0000)][VAR 0109(0001)]...\\nIt\u2019s \uE300[VAR 0203(0002,002C)]. You still want it?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I\u2019m going to get [VAR 1302(0001,0000)][VAR 0109(0001)]..."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Thanks for coming, I guess..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Need anything else?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Come back if you change your mind, I guess..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Hey, hey... You don\u2019t have enough money, OK?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Hey... How about doing an errand for me? If you\\ncan bring what I need today, I\u2019ll give you\\r\\na good reward."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Today I\u2019m buying [VAR 1302(0001,0000)][VAR 010A(0001)]\\nfor \uE300[VAR 0205(0002,002C)]."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Oh, looks like you\u2019ve brought what I need there.\\nI\u2019ll buy that [VAR 010A(0001)] for\\r\\n\uE300[VAR 0205(0002,002C)]."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Thanks. Here\u2019s your reward."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "You handed over the [VAR 0109(0001)]\\nand received \uE300[VAR 0205(0002,002C)]."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Oh, too bad..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Come back tomorrow, and I might have more for\\nyou to do, if you\u2019re interested."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Oh, looks like you\u2019ve become the Champion,\\nhuh, kid?"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Oh, looks like you\u2019ve become the Champion,\\nhuh, kid?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "It\u2019s hardly worthy of such an achievement, but\\nhere. Take this."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Come back again soon."
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "I dug up some mysterious items, but I\u2019ve got no\\nclue how they work. Maybe you could find some\\r\\nuse for them, kid. Why don\u2019t you take them?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "I dug up some mysterious items, but I\u2019ve got no\\nclue how they work. Maybe you could find some\\r\\nuse for them, kid. Why don\u2019t you take them?"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Bien le bonjour, [VAR 0100(0000)]\u202F!\\c\\nToi aussi, tu profites du grand air d\u2019Isolarmure\u202F?[VAR 0114(000E)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Pour ma part, je viens de temps en temps.\\nC\u2019est l\u2019endroit id\u00E9al pour se d\u00E9tendre\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Quelle \u00EEle magnifique\u202F! On peut vraiment profiter\\nde la nature, ici. Sucreine est aux anges\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Rien de tel qu\u2019une promenade en for\u00EAt pour\\nretrouver la p\u00EAche\u202F! Cela aurait \u00E9t\u00E9 encore\\r\\nmieux si j\u2019avais pris de quoi pique-niquer...[VAR 0114(000E)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Le pelage de Moumouton est si \u00E9pais\\nqu\u2019il serait prot\u00E9g\u00E9 m\u00EAme s\u2019il tombait\\r\\nd\u2019une falaise comme celle-ci\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "\u00C9CHO\u202F! \u00C9cho\u202F! \u00C9cho... \u00E9cho... cho...\\c\\n\u00C7a r\u00E9sonne, dans cette grotte.\\nC\u2019est trop tentant de crier \u00E0 tue-t\u00EAte\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Ah, la mer, cette magnifique \u00E9tendue bleue\u202F!\\nUne chose est s\u00FBre : si Donna \u00E9tait l\u00E0,\\r\\nelle serait comme un poisson dans l\u2019eau\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Les milieux arides sont plut\u00F4t inhospitaliers\\npour les Pok\u00E9mon de type Plante, mais il existe\\r\\ndes v\u00E9g\u00E9taux qui s\u2019\u00E9panouissent uniquement\\r\\ndans des endroits comme celui-ci\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Quand le soleil brille, certains Pok\u00E9mon Plante\\nsont en pleine forme\u202F!\\c\\nToutefois, cela a le m\u00EAme effet sur les Pok\u00E9mon\\nFeu, contre lesquels ils sont vuln\u00E9rables...[VAR 0114(000E)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Le temps est changeant, sur cette \u00EEle\u202F!\\n\u00C7a me rappelle mon combat contre Roy... Brrr\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Merveilleux\u202F! Il pleut\u202F! Voil\u00E0 qui va faire\\nle plus grand bien aux plantes de l\u2019\u00EEle\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Mon bon vieux chapeau de fermier n\u2019est pas\\nvraiment fait pour \u00E7a, mais il me prot\u00E8ge bien\\r\\nen combat ou pendant les temp\u00EAtes de sable\\r\\ncomme celle-ci\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "H\u00E9, [VAR 0100(0000)]\u202F! Ne cours pas dans cette\\npur\u00E9e de pois, tu risquerais de me rentrer dedans.\\r\\nEt on sait tr\u00E8s bien qui de nous deux s\u2019envolerait\\r\\nen cas de collision\u202F![VAR 0114(000E)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Reeeine\u202F!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Tiens, le Ma\u00EEtre de Galar en personne\u202F!\\nTu es venu[VAR 1100(00FF,0100)]e me voir, car je te manquais trop\u202F?[VAR 0114(000F)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Oh, mais je te taquine, bien entendu\u202F!\\c\\nJ\u2019ai laiss\u00E9 de c\u00F4t\u00E9 l\u2019Ar\u00E8ne et le mannequinat\\npour venir m\u2019entra\u00EEner ici quelque temps.[VAR 0114(000F)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "De la nature \u00E0 perte de vue...\\nPercy pourrait prendre racine ici\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Quelle douce m\u00E9lodie que le bruit de la pluie\\nqui tombe dans cette for\u00EAt...\u202F!\\c\\nCela ne manque jamais de me remonter le moral\\napr\u00E8s une d\u00E9faite.[VAR 0114(000F)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Cette brise est tr\u00E8s agr\u00E9able, n\u2019est-ce pas\u202F?\\c\\nOn a l\u2019impression qu\u2019un Go\u00E9lise pourrait\\nvenir nous livrer du courrier \u00E0 tout moment\\r\\npar les journ\u00E9es comme celle-ci.[VAR 0114(000F)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Cette grotte d\u00E9bouche sur une plage\\nd\u2019o\u00F9 on peut voir une petite \u00EEle.\\r\\nC\u2019est un de mes coins pr\u00E9f\u00E9r\u00E9s\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Qu\u2019il doit \u00EAtre agr\u00E9able de se baigner ici\u202F!\\nJe me demande combien de secondes\\r\\nil me faudrait pour nager jusqu\u2019\u00E0 l\u2019\u00EEle, l\u00E0-bas...[VAR 0114(000F)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Je m\u2019entra\u00EEne avec Torgamord.\\nLe d\u00E9sert est un endroit id\u00E9al pour d\u00E9cha\u00EEner\\r\\nla puissance de ses capacit\u00E9s de type Eau\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Avec un temps pareil, on n\u2019a qu\u2019une envie :\\naller se baigner\u202F!\\c\\nHeureusement que l\u2019uniforme du Stade\\nde Skifford fait aussi office de maillot de bain\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Tu ne trouves pas que tous ces nuages au-dessus\\nde nous ressemblent \u00E0 une mer c\u00E9leste\u202F?[VAR 0114(000F)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "La pluie peut para\u00EEtre ennuyeuse pour certains,\\nmais les Pok\u00E9mon Eau ne sont pas de cet avis.\\c\\nEh oui, les humains et les Pok\u00E9mon n\u2019ont pas\\nforc\u00E9ment la m\u00EAme notion du beau temps\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Comme Torgamord est aussi de type Roche,\\nil devient plus r\u00E9sistant aux attaques sp\u00E9ciales\\r\\npendant les temp\u00EAtes de sable comme celle-ci.[VAR 0114(000F)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Les phares percent l\u2019obscurit\u00E9 afin de guider\\nles navires \u00E0 travers les brouillards comme celui-ci.\\r\\nIl y en a un \u00E0 Skifford, aussi\u202F![VAR 0114(000F)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Torgaaa\u202F!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Ma\u00EEtre [VAR 0100(0000)]\u202F!\\c\\nTu es venu[VAR 1100(00FF,0100)]e jusqu\u2019\u00E0 Isolarmure pour t\u2019entra\u00EEner\u202F?\\nJ\u2019admire ton ardente passion pour le combat\u202F![VAR 0114(0010)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Moi aussi, je vais continuer \u00E0 m\u2019entra\u00EEner\\npour rester \u00E0 ton niveau\u202F![VAR 0114(0010)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Parfois, les buissons s\u2019enflamment au contact\\ndu corps incandescent de Scolocendre.\\c\\nQuand cela arrive, je les asperge d\u2019eau\\navec la gourde que j\u2019ai toujours sur moi.[VAR 0114(0010)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Les for\u00EAts abritent essentiellement\\ndes Pok\u00E9mon Plante et Insecte.\\c\\nC\u2019est pourquoi je me sens en s\u00E9curit\u00E9 ici avec\\nun Pok\u00E9mon de type Feu comme Scolocendre.[VAR 0114(0010)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Monter et descendre des escaliers pour la forme,\\nil n\u2019y a que \u00E7a de vrai\u202F!\\c\\nJe viens de finir mon centi\u00E8me aller-retour,\\ndonc je prends une pause bien m\u00E9rit\u00E9e.[VAR 0114(0010)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Cette grotte regorge de Pok\u00E9mon Eau,\\ncomme la Mine de Galar n\u00BA 2.\\r\\nVoil\u00E0 qui est parfait pour s\u2019entra\u00EEner\u202F![VAR 0114(0010)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "S\u2019entra\u00EEner dans la mer est un peu trop intense\\npour mes Pok\u00E9mon, alors je nage \u00E0 la place\\r\\nde Scolocendre\u202F![VAR 0114(0010)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "J\u2019ai rencontr\u00E9 mon Chartor aux Sables de Kudsac.\\c\\nSon talent lui permet de modifier la m\u00E9t\u00E9o\u202F!\\nJe me suis empress\u00E9 de le dire \u00E0 Roy\\r\\net maintenant, il en a un, lui aussi.[VAR 0114(0010)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Qu\u2019il est agr\u00E9able de s\u2019entra\u00EEner par un temps\\nmagnifique comme celui-ci\u202F!\\r\\nUne, deux, une, deux\u202F![VAR 0114(0010)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Le ciel est couvert, mais nous sommes\\ntout de m\u00EAme expos\u00E9s aux rayons ultraviolets.\\c\\nPensons \u00E0 nous prot\u00E9ger du soleil avec\\nun chapeau ou de la cr\u00E8me solaire.[VAR 0114(0010)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Les attaques de type Feu sont moins efficaces\\nquand il pleut comme aujourd\u2019hui...\\c\\nHeureusement, les nuages peuvent \u00EAtre dissip\u00E9s\\ngr\u00E2ce \u00E0 des capacit\u00E9s comme Z\u00E9nith ou Pyromax.[VAR 0114(0010)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Comment triompher de Roy si on se laisse\\nd\u00E9stabiliser par une temp\u00EAte de sable\u202F?\\c\\nCe temps va me permettre de pr\u00E9parer\\nune riposte efficace.[VAR 0114(0010)]"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "On rencontre diff\u00E9rents Pok\u00E9mon selon la m\u00E9t\u00E9o.\\nQue peut bien nous r\u00E9server ce brouillard\u202F?[VAR 0114(0010)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Scololo\u202F!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "... [VAR 0100(0000)]\u202F?\\c\\nTu es venu[VAR 1100(00FF,0100)]e t\u2019entra\u00EEner en secret\u202F?[VAR 0114(0011)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "C\u2019est admirable que tu continues de te donner\\n\u00E0 fond alors que tu es d\u00E9j\u00E0 Ma\u00EEtre.\\c\\nMackogneur et moi allons prendre exemple\\nsur toi et pers\u00E9v\u00E9rer.[VAR 0114(0011)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "\u00C0 Isolarmure, il y a un ancien Champion du type\\nCombat dont la puissance \u00E9tait l\u00E9gendaire.\\c\\nJe n\u2019ose pas aller lui rendre visite,\\ntant je suis insignifiante \u00E0 c\u00F4t\u00E9...[VAR 0114(0011)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "J\u2019attends qu\u2019un Emolga daigne se montrer.\\nIls sont si impr\u00E9visibles qu\u2019il est difficile\\r\\nde les capturer...[VAR 0114(0011)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Ce cadre me rappelle Old Chister...\\nD\u2019ailleurs, les Dresseurs de l\u2019Ar\u00E8ne doivent \u00EAtre\\r\\nen plein entra\u00EEnement. Il faut que je m\u2019y mette\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "\u00CAtre pieds nus aide \u00E0 rester en position\\nau moment d\u00E9cisif.\\c\\nIl n\u2019y a qu\u2019\u00E0 le voir avec Mackogneur\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "La natation est id\u00E9ale pour d\u00E9velopper\\nla musculature.\\c\\nDonna doit avoir une forme physique incroyable\\navec toutes les longueurs qu\u2019elle fait\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Tu ne trouves pas que cet endroit ressemble\\n\u00E0 un Terrain de Combat entour\u00E9 de gradins\u202F?\\c\\nJ\u2019en profite pour m\u2019entra\u00EEner en imaginant\\nque je suis en pleine comp\u00E9tition.[VAR 0114(0011)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "J\u2019ai l\u2019impression que s\u2019entra\u00EEner par\\nmauvais temps est bien plus efficace.\\c\\nMais au moins, quand il fait beau,\\non a les pieds propres en fin de journ\u00E9e...[VAR 0114(0011)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Quand le ciel s\u2019assombrit comme aujourd\u2019hui,\\nje me sens toujours un peu morose...\\c\\nMais heureusement, m\u2019entra\u00EEner avec\\nMackogneur illumine toujours ma journ\u00E9e\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Qu\u2019il pleuve ou qu\u2019il vente, je continuerai\\n\u00E0 m\u2019entra\u00EEner\u202F!\\c\\nC\u2019est la seule mani\u00E8re de me rapprocher\\nde la victoire.[VAR 0114(0011)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Cette temp\u00EAte de sable ne me fait pas plus\\nd\u2019effet qu\u2019une attaque Trempette\u202F!\\c\\nSans vouloir manquer de respect \u00E0 Donna,\\nbien s\u00FBr...[VAR 0114(0011)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Lorsque l\u2019on ne peut voir son adversaire,\\non peut tout de m\u00EAme sentir sa pr\u00E9sence.\\c\\nCe brouillard est parfait pour s\u2019entra\u00EEner\\n\u00E0 d\u00E9velopper ce type de comp\u00E9tence\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Cogne\u202F! Gneur\u202F!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]...\u202F?\\nQu... qu\u2019est-ce que tu fais... ici\u202F?[VAR 0114(0012)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Je vois... Tu t\u2019entra\u00EEnes...\\c\\nC\u2019est tranquille, ici... On ne risque pas...\\nd\u2019\u00EAtre d\u00E9rang\u00E9...[VAR 0114(0012)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "P-parfois... j\u2019aper\u00E7ois un Pok\u00E9mon gigantesque...\\ndans la mer... Tu crois que c\u2019est...\\r\\nun Pok\u00E9mon Dynamax\u202F?[VAR 0114(0012)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "C\u2019est... c\u2019est tr\u00E8s diff\u00E9rent...\\nde la For\u00EAt de Lumirinth...\\c\\nSi... si ce n\u2019est qu\u2019on peut... s\u2019y perdre\\naussi facilement...[VAR 0114(0012)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Ces... ces montagnes me rappellent...\\nOld Chister...\\c\\nLa pente est raide... Attention...\\n\u00E0 ne pas tomber...[VAR 0114(0012)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]... D-derri\u00E8re toi...\\c\\nAh non... Ne t\u2019inqui\u00E8te pas... Il ne te fera\\npas de mal... Enfin, j-je ne crois pas...[VAR 0114(0012)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Il y a plein de voix... qui viennent de la mer...\\nPeut-\u00EAtre... qu\u2019elles se sentent seules...[VAR 0114(0012)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "J-je fais un ch\u00E2teau de sable...\\c\\nPeut-\u00EAtre que si... une \u00E2me pleine de ranc\u0153ur...\\ns\u2019y glisse... il deviendra un Pok\u00E9mon...[VAR 0114(0012)]"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Il... il fait chaud aujourd\u2019hui...\\nMon masque... n\u2019arr\u00EAte pas de glisser...\\r\\n\u00E0 cause de la chaleur...[VAR 0114(0012)]"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Il fait sombre... Des nuages noirs...\\nont envahi le ciel...\\r\\nC\u2019est \u00E9trangement... apaisant...[VAR 0114(0012)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Alors... Euh... Ah oui...\\c\\nTu veux que je te raconte... une histoire\\nd\u2019horreur... qui se passe sous la pluie\u202F?[VAR 0114(0012)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "A-avec mon masque... je ne crains pas vraiment...\\nles temp\u00EAtes de sable... Peut-\u00EAtre qu\u2019Ectoplasma\\r\\net les autres aussi... devraient en mettre...[VAR 0114(0012)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "J-j\u2019ai fait... une d\u00E9couverte\u202F!\\c\\nDans le brouillard... on ne voit pas\\nses adversaires...\u202F! C\u2019est tr\u00E8s rassurant...\u202F![VAR 0114(0012)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Ectohoho..."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Qu\u2019est-ce que tu fais l\u00E0\u202F?\\nC\u2019est la vieille qui t\u2019envoie\u202F?\\c\\nElle va continuer de me bassiner\\navec la f\u00E9\u00E9rie jusqu\u2019\u00E0 Isolarmure\u202F?[VAR 0114(000C)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "... Oublie ce que j\u2019ai dit.\\n\u00C7a ne t\u2019\u00E9tait pas destin\u00E9.[VAR 0114(000C)]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Il para\u00EEt qu\u2019il y a un dojo dans les parages,\\nmais pour moi, il n\u2019y a rien de plus stressant\\r\\nque la vie en communaut\u00E9.[VAR 0114(000C)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Mon Sorcilence est un cadeau du pr\u00E9sident\\nShehroz. Il me rappelle bien des souvenirs...[VAR 0114(000C)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Ce paysage me rappelle la ville de la fresque...\\net ce jour funeste o\u00F9 j\u2019ai \u00E9t\u00E9 pris de folie...[VAR 0114(000C)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "C\u2019est curieux, j\u2019ai l\u2019impression de souvent te\\ncroiser dans des grottes... Comme si nous \u00E9tions\\r\\nli\u00E9s par la destin\u00E9e, \u00E0 mon grand regret...[VAR 0114(000C)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Il n\u2019y a pas grand-chose \u00E0 faire, ici,\\n\u00E0 part l\u00E9zarder. C\u2019est d\u2019un ennui...\\c\\nJe doute que cette \u00EEle ait quelque chose\\n\u00E0 m\u2019apporter.[VAR 0114(000C)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Sorcilence ne se sent bien que dans les endroits\\nd\u00E9serts comme celui-ci, o\u00F9 les \u00E9motions\\r\\ndes autres ne peuvent pas l\u2019affecter.[VAR 0114(000C)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Je suis devenu plus fort gr\u00E2ce \u00E0 mon entra\u00EEnement\\nsur cette \u00EEle. J\u2019ai h\u00E2te de te le montrer.[VAR 0114(000C)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Argh\u202F! Mes cheveux, \u00E7a ne va pas du tout\u202F!\\nMerci, l\u2019humidit\u00E9...\\c\\nJe ne suis que Champion d\u2019Ar\u00E8ne et je dois\\nd\u00E9j\u00E0 faire attention \u00E0 mon apparence...\\r\\nAlors, qu\u2019est-ce que \u00E7a doit \u00EAtre pour toi\u202F?[VAR 0114(000C)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Tu te prom\u00E8nes avec insouciance par un temps\\npareil\u202F? Il y a vraiment des gens fantasques...[VAR 0114(000C)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "C\u2019est pas vrai, j\u2019ai du sable plein les cheveux\u202F!\\nJ\u2019ai int\u00E9r\u00EAt \u00E0 bien les laver si je ne veux pas\\r\\nen avoir pour plusieurs jours...[VAR 0114(000C)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Le brouillard est insaisissable et plein\\nde myst\u00E8re, ce qui est assez d\u00E9plaisant.\\r\\nComme toi, en somme.[VAR 0114(000C)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Cilence\u202F?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Je ne pensais pas croiser le Ma\u00EEtre de Galar\\ndans un endroit pareil.[VAR 0114(0014)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Je travaille sur une capacit\u00E9 ing\u00E9nieuse qui\\nexploitera toute la puissance de Monthracite\u202F!\\r\\nTu m\u2019en diras des nouvelles.[VAR 0114(0014)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Une connaissance m\u2019a donn\u00E9 le Pass Isolarmure.\\c\\nC\u2019est sympa de ne pas toujours s\u2019entra\u00EEner\\nau m\u00EAme endroit.[VAR 0114(0014)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Quelle chaleur \u00E9touffante\u202F! Et il fait humide,\\nen plus...\\c\\nSi ma m\u00E8re \u00E9tait l\u00E0, elle se plaindrait sans arr\u00EAt.[VAR 0114(0014)]"
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "On voit super loin, d\u2019ici, c\u2019est g\u00E9nial\u202F!\\c\\nImpossible de voir Ludester, mais bon...[VAR 0114(0014)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Monthracite adore les grottes.\\c\\n\u00C7a doit lui rappeler la Mine de Galar,\\nd\u2019o\u00F9 il est originaire.[VAR 0114(0014)]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "L\u2019Eau est super efficace contre mon Monthracite,\\nmais elle augmente aussi sa Vitesse.\\r\\nC\u2019est gr\u00E2ce \u00E0 son talent, bien entendu.[VAR 0114(0014)]"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Attention \u00E0 toi, Monthracite pourrait tr\u00E9bucher.\\c\\nEt il fait trois fois mon poids,\\nce qui n\u2019est pas rien.[VAR 0114(0014)]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Les journ\u00E9es sont tr\u00E8s chaudes \u00E0 Isolarmure,\\non transpire beaucoup.\\c\\nJe suis bien content d\u2019avoir Monthracite avec\\nmoi quand je suis \u00E0 Ludester, car il d\u00E9gage\\r\\nde la chaleur, mais l\u00E0...[VAR 0114(0014)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Vu l\u2019\u00E9paisseur de la couche de nuages,\\nil ne devrait pas tarder \u00E0 pleuvoir \u00E0 verse.\\c\\nNe me regarde pas comme \u00E7a, ce n\u2019est pas\\nla fum\u00E9e que d\u00E9gage Monthracite\u202F![VAR 0114(0014)]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Le terrain est glissant, j\u2019ai failli tomber\u202F!\\c\\nMais j\u2019ai r\u00E9ussi \u00E0 me rattraper en faisant\\nun flip-flap.[VAR 0114(0014)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "L\u2019avantage des lunettes de soleil, c\u2019est que\\nles temp\u00EAtes de sable comme celles-ci\\r\\nme laissent de marbre.[VAR 0114(0014)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "J\u2019ai beau essuyer mes lunettes encore et encore,\\nelles restent couvertes de bu\u00E9e et je n\u2019y vois rien\u202F!\\c\\nJe vais attendre que le brouillard se dissipe pour\\nrecommencer \u00E0 entra\u00EEner mes Pok\u00E9mon.[VAR 0114(0014)]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Monthra\u202F!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00C7a alors, je ne m\u2019attendais pas \u00E0 te croiser ici\u202F!\\c\\nSerais-tu l\u00E0 pour observer la fa\u00E7on dont j\u2019entra\u00EEne\\nmes Pok\u00E9mon\u202F?[VAR 0114(0015)]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Navr\u00E9e, mais c\u2019est un secret bien gard\u00E9\\nque je n\u2019ai pas l\u2019intention de divulguer\u202F![VAR 0114(0015)]"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Une connaissance m\u2019a remis le Pass Isolarmure.\\c\\nJe dois dire que \u00E7a change du cadre habituel\\ndans lequel j\u2019entra\u00EEne mes Pok\u00E9mon\u202F![VAR 0114(0015)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Toute cette humidit\u00E9... On \u00E9touffe, ici\u202F!\\c\\nJ\u2019aurais peut-\u00EAtre d\u00FB choisir une tenue\\nplus adapt\u00E9e \u00E0 la r\u00E9gion...[VAR 0114(0015)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Cette vue est superbe, on voit \u00E0 des kilom\u00E8tres\u202F!\\c\\nDommage qu\u2019on ne puisse pas voir Ludester...[VAR 0114(0015)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Tout \u00E0 l\u2019heure, j\u2019ai gliss\u00E9 et je me suis retrouv\u00E9e\\nsur les fesses... Heureusement que je suis bien\\r\\nemmitoufl\u00E9e, car j\u2019aurais pu me blesser\u202F![VAR 0114(0015)]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Je ne suis pas s\u00FBre que ce soit le meilleur endroit\\npour s\u2019entra\u00EEner, car Lokhlass va s\u00FBrement vouloir\\r\\naller faire trempette...[VAR 0114(0015)]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Ce d\u00E9sert porte bien son nom :\\nil a tout d\u2019un cul-de-sac.\\c\\nUn milieu aussi hostile devrait m\u2019aider\\n\u00E0 rester de glace.[VAR 0114(0015)]"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Il fait vraiment un soleil de plomb, ici.\\nImpossible de ne pas transpirer\u202F!\\c\\nCela donne envie de se blottir contre Lokhlass\\npour profiter de sa fra\u00EEcheur.[VAR 0114(0015)]"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "Il fait gris, on n\u2019y voit pas grand-chose.\\nAttention \u00E0 ne pas tr\u00E9bucher sur une pierre\\r\\nou sur un Ramoloss\u202F![VAR 0114(0015)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Cette pluie rafra\u00EEchit, cela fait vraiment du bien\u202F!\\nJe crois que Lokhlass appr\u00E9cie, lui aussi.[VAR 0114(0015)]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Tu as vu tout ce sable\u202F? Heureusement que\\nmes v\u00EAtements me prot\u00E8gent bien.[VAR 0114(0015)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "Une Lona sauvage surgit du brouillard\u202F!\\c\\nL\u2019ambiance est au myst\u00E8re aujourd\u2019hui. Tu crois\\nqu\u2019on va pouvoir capturer des Pok\u00E9mon rares\u202F?[VAR 0114(0015)]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Khlaaass\u202F!"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Que... Qu\u2019est-ce que tu fais l\u00E0\u202F?!\\c\\nJ\u2019ai l\u2019impression qu\u2019\u00E0 chaque fois que je te vois,\\nil arrive des bricoles...[VAR 0114(0016)]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "J\u2019ai mes propres trucs \u00E0 faire, alors tu m\u2019en veux\\npas, mais cette fois-ci, je vais faire bande \u00E0 part.[VAR 0114(0016)]"
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Il y a plein de Pok\u00E9mon, ici.\\nUn peu comme dans les Terres Sauvages.[VAR 0114(0016)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Petite pens\u00E9e pour Tarak, parce que c\u2019est gal\u00E8re\\nde retrouver son chemin dans cette for\u00EAt.\\c\\nAu pire, y\u2019a toujours moyen d\u2019appeler\\nun taxi volant.[VAR 0114(0016)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Cette tour rouge a la classe\u202F!\\c\\nMais je sais pas pourquoi, je ressens comme\\nune atmosph\u00E8re de type Combat...\\r\\nJe pr\u00E9f\u00E8re pas trop m\u2019approcher.[VAR 0114(0016)]"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Il fait bien frais, ici, j\u2019appr\u00E9cie.\\c\\nEn revanche, c\u2019est pas le meilleur endroit pour\\nun concert, parce que l\u2019acoustique est pas ouf.[VAR 0114(0016)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "La mer, oppressant abysse...\\c\\nSi Rosemary \u00E9tait l\u00E0, elle ferait tout un cirque\\npour aller se baigner. Mais, perso, la plage,\\r\\nc\u2019est pas mon truc. Et bronzer, encore moins\u202F![VAR 0114(0016)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Ixon, le sable, et moi dans le silence du d\u00E9sert...\\c\\nJe sens que \u00E7a va m\u2019inspirer une chanson.[VAR 0114(0016)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Il fait beaucoup trop beau \u00E0 mon go\u00FBt...\\c\\nL\u2019humidit\u00E9 me d\u00E9range pas, mais la chaleur,\\nj\u2019ai du mal...[VAR 0114(0016)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "On pourrait penser qu\u2019un temps maussade\\ncomme celui-ci augmente la puissance\\r\\ndes capacit\u00E9s de type T\u00E9n\u00E8bres, mais non.[VAR 0114(0016)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "\u00C7a te d\u00E9range pas d\u2019\u00EAtre tremp\u00E9[VAR 1100(00FF,0100)]e jusqu\u2019aux os\u202F?\\c\\nJ\u2019esp\u00E8re que Rosemary a pas oubli\u00E9\\nde prendre son parapluie avant de sortir...[VAR 0114(0016)]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Les temp\u00EAtes de sable me font penser\\n\u00E0 mon combat contre Roy pendant\\r\\nle Tournoi des Champions.[VAR 0114(0016)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Le brouillard est parfait pour attaquer\\nson adversaire par surprise...\\c\\nJ\u2019essaie de mettre au point une strat\u00E9gie\\npour gagner sans utiliser le Dynamax.[VAR 0114(0016)]"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Ixon\u202F!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\u202F?! Qu\u2019est-ce que tu fais l\u00E0\u202F?[VAR 0114(000D)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "... En fait, j\u2019pense qu\u2019on est l\u00E0 pour la m\u00EAme\\nchose. T\u2019es pas m[VAR 1100(00FF,0808)]on rivala rivale pour rien, apr\u00E8s tout.[VAR 0114(000D)]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Morpeko, une fois qu\u2019on l\u2019a l\u00E2ch\u00E9 dans les hautes\\nherbes, on l\u2019voit plus. Faut rester vigilant.[VAR 0114(000D)]"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Ce Pok\u00E9mon qui saute d\u2019arbre en arbre,\\nEmolga, l\u00E0... Tu trouves pas qu\u2019il ressemble\\r\\nun peu \u00E0 Morpeko\u202F?[VAR 0114(000D)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "J\u2019me demande bien \u00E0 quoi sert cette tour, l\u00E0-bas.\\c\\nEn tout cas, la couleur est styl\u00E9e. \u00C7a m\u2019rappelle\\nun peu l\u2019uniforme de l\u2019Ar\u00E8ne de Smashings.[VAR 0114(000D)]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "J\u2019me sens bien dans les espaces un peu sombres\\net exigus : \u00E7a m\u2019rappelle Smashings.[VAR 0114(000D)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Waouh, la mer\u202F! \u00C7a s\u2019rait trop bien si on allait\\nse baigner tous ensemble\u202F!\\c\\nPar contre, \u00E7a s\u2019rait gal\u00E8re de faire s\u00E9cher\\nAngoliath, apr\u00E8s...[VAR 0114(000D)]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "J\u2019essaie de m\u2019entra\u00EEner \u00E0 marcher bien droit,\\nm\u00EAme dans l\u2019sable. Tu veux tester, toi aussi\u202F?[VAR 0114(000D)]"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "T\u2019as vu, [VAR 0100(0000)], c\u2019est super agr\u00E9able,\\ncette p\u2019tite brise\u202F!\\c\\nMon fr\u00E8re sortirait jamais par un temps pareil,\\npar contre\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Il fait gris, on dirait qu\u2019il va pleuvoir.\\c\\nC\u2019est l\u2019genre de temps qui plairait \u00E0 mon fr\u00E8re\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "J\u2019vois que c\u2019est pas la pluie qui t\u2019arr\u00EAte\u202F!\\c\\nMon Coatox est tranquille avec sa Peau S\u00E8che,\\nmais fais gaffe \u00E0 pas attraper froid, toi\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Dis donc, elle pique les yeux,\\nc\u2019te temp\u00EAte de sable\u202F!\\c\\nJe sais que c\u2019est pour les Pok\u00E9mon, mais tu crois\\nqu\u2019\u00E7a marcherait sur moi, les Lunettes Filtre\u202F?[VAR 0114(000D)]"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Haaa\u202F! [VAR 0100(0000)], c\u2019\u00E9tait toi\u202F?!\\nTu m\u2019as fait peur\u202F!\\c\\nOn voit rien dans c\u2019brouillard, j\u2019ai cru que\\nt\u2019\u00E9tais un fant\u00F4me ou j\u2019sais pas quoi\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Peko peko peko\u202F! \u266A"
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Oh, [VAR 0100(0000)]\u202F!\\nMon charisme te manquait trop\u202F?\\r\\nAllez, baston\u202F!!![VAR 0114(0017)]"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "... Enfin, \u00E7a serait cool, mais je suis l\u00E0\\npour suivre un entra\u00EEnement secret.\\c\\nComme \u00E7a, je pourrai vous battre, Tarak et toi\u202F!\\nAlors, faites gaffe\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Quand j\u2019entra\u00EEne mes Pok\u00E9mon Dragon, je fais\\npas trop attention aux types de leurs adversaires.\\c\\nEn tout cas, je suis s\u00FBr qu\u2019il doit y avoir plein de\\nsuper Pok\u00E9mon pour s\u2019entra\u00EEner, ici.[VAR 0114(0017)]"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Il fait \u00E0 la fois chaud et humide dans les for\u00EAts\\nd\u2019Isolarmure, c\u2019est g\u00E9nial\u202F!\\c\\nM\u2019entra\u00EEner dans de telles conditions\\nva s\u00FBrement me servir\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Waouh, y\u2019a de quoi faire de super photos, l\u00E0\u202F!\\c\\nJe me demande si c\u2019est plus haut que le toit\\ndu Stade de Kickenham...[VAR 0114(0017)]"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "T\u2019as remarqu\u00E9, toi aussi, que le plafond\\ndes grottes est parfois super bas\u202F?\\c\\nFaudrait pas que mes fans me voient\\nen train de me cogner la t\u00EAte...[VAR 0114(0017)]"
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Imagine un peu le tableau : un combat sur\\nle sable blanc, la mer turquoise en fond,\\r\\net mon sourire victorieux au premier plan...\\c\\nLe nombre de likes que je pourrais gagner,\\navec un selfie comme \u00E7a\u202F!!![VAR 0114(0017)]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Je sais pas si c\u2019est \u00E0 cause de la chaleur du sable\\nou quoi, mais touche surtout pas Duralugon...\\r\\nSon corps est aussi br\u00FBlant qu\u2019un curry sur le feu\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "Ah ouais, le soleil \u00E0 Isolarmure, \u00E7a rigole pas\u202F!\\n\u00C7a tape s\u00E9v\u00E8re\u202F!\\c\\nFaut pas s\u2019exposer trop longtemps,\\nou on risque d\u2019attraper une insolation\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "C\u2019est pas la m\u00EAme ambiance avec ces nuages\\nsombres, l\u2019\u00EEle a l\u2019air sinistre, tout \u00E0 coup...\\c\\nMais tu sais quoi\u202F? \u00C7a me rappelle quand\\nt\u2019as mis fin \u00E0 la Nuit Noire\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "La pluie\u202F! C\u2019est le cauchemar des Pok\u00E9mon\\nau corps de braise\u202F!\\c\\nIl pleuvait aussi le jour o\u00F9 mon Colimucus\\na \u00E9volu\u00E9 en Muplodocus.[VAR 0114(0017)]"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Hurle, bourrasque\u202F!\\nSouffle, temp\u00EAte de sable\u202F!\\r\\n... H\u00E9, je rigole\u202F![VAR 0114(0017)]"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Super, du brouillard... Les capacit\u00E9s de type\\nDragon sont moins efficaces si Champ Brumeux\\r\\nest actif. Alors, tr\u00E8s peu pour moi.[VAR 0114(0017)]"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Duralu\u202F!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Bah, [VAR 0100(0000)]\u202F?\\nJe pensais pas te croiser ici\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Je suis l\u00E0 pour mes recherches sur le Dynamax,\\nc\u2019est du s\u00E9rieux\u202F! J\u2019ai pas vraiment le temps\\r\\nde m\u2019amuser...[VAR 0114(0005)]"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "C\u2019est fou, les Pok\u00E9mon de cette plaine et ceux\\ndes Terres Sauvages ont pas du tout le m\u00EAme\\r\\nmode de vie.[VAR 0114(0005)]"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "On s\u2019\u00E9gare en deux secondes dans cette for\u00EAt\u202F!\\c\\nPas \u00E9tonnant que Fragilady ait perdu\\nChlorobule de vue.[VAR 0114(0005)]"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Dis donc, c\u2019est du sport de monter jusqu\u2019ici\u202F!\\nPar contre, \u00E7a vaut le coup, parce que la vue\\r\\nest magnifique\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Cette grotte a des reliefs un peu \u00E9tranges...\\nTu crois que c\u2019est une rivi\u00E8re qui l\u2019a creus\u00E9e\u202F?\\r\\nEn tout cas, la nature fait bien les choses.[VAR 0114(0005)]"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Waouh, la mer d\u2019Isolarmure est super belle\u202F!\\nJ\u2019aurais d\u00FB apporter mon maillot de bain...\\r\\neuh... pour mes recherches, hein\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], regarde-moi tout ce sable\u202F!\\nJ\u2019en ai plein les chaussures...[VAR 0114(0005)]"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "C\u2019est pas le tout, de crapahuter\u202F!\\nFaut aussi prendre le temps de se reposer,\\r\\ncomme Moumouflon et moi\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "On dirait qu\u2019il va pleuvoir avec tous ces nuages...\\c\\nIls ont l\u2019air aussi douillets que des Moumouflon\u202F!\\nS\u2019ils \u00E9taient blancs, on pourrait les confondre\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "La pluie, \u00E7a doit plaire aux Pok\u00E9mon Eau\u202F!\\c\\nPar contre, fais attention \u00E0 toi,\\nparce que \u00E7a glisse\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "J\u2019ai du sable plein les yeux... \u00C7a pique...\\n\u00C7a me rappelle le Stade de Kickenham, tout \u00E7a.[VAR 0114(0005)]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], cette brume, \u00E7a te rappelle\\npas trop la For\u00EAt de Sleepwood\u202F? Tu crois qu\u2019on\\r\\nva croiser un Pok\u00E9mon l\u00E9gendaire\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Moumouuu\u202F!"
+  }
+]

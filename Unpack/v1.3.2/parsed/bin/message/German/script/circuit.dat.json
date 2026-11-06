@@ -1,0 +1,292 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Oh, wie ich sehe, hast du ein Fahrrad!\\c\\nHier kann man sich an einem gro\u00DFartigen\\nZeitvertreib namens Rotom-Rallye erfreuen.\\r\\nDas solltest du unbedingt mal ausprobieren!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Oh, wie ich sehe, hast du ein Fahrrad!\\c\\nIch bereite hier gerade etwas vor. Komm doch\\nsp\u00E4ter wieder vorbei, wenn ich fertig bin."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Wie kann ich dir helfen?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Rotom-Rallye"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Farbe \u00E4ndern"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Nichts"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "W-Laden"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Rotom-Rad verbessern"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Komm bald wieder!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Du willst die Farbe deines Radleranzugs \u00E4ndern?\\c\\nIch k\u00F6nnte sie f\u00FCr dich an [VAR 0101(0006)]\\nanpassen!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Rotom-Farbton"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Farbton \u201E[VAR 0103(0004)]\u201C"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Farbton \u201E[VAR 0103(0005)]\u201C"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Beenden"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Wie w\u00E4re es mit dem Farbton \u201E[VAR 0103(0004)]\u201C,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Welcher Farbton passt deiner Meinung nach\\nam besten zu [VAR 0101(0006)]?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "M\u00F6chtest du einen dieser Farbt\u00F6ne verwenden,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "M\u00F6chtest du einen dieser Farbt\u00F6ne verwenden,\\ndamit dein Outfit zu [VAR 0101(0006)] passt?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Gef\u00E4llt dir der Farbton \u201E[VAR 0103(0004)]\u201C?"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ich will doch nichts \u00E4ndern."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Da hast du dir eine wirklich sch\u00F6ne Farbe\\nausgesucht!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Huch? Aber diese Farbe hat es doch bereits!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Wohin m\u00F6chtest du fahren?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Treffpunkt: [VAR 0202(0001)] Sekunden"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Milza-See (Osten): [VAR 0202(0002)] Sekunden"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Wipfelscheinwald: [VAR 0202(0003)] Sekunden"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Sitz des Giganten: [VAR 0202(0004)] Sekunden"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Br\u00FCckental: [VAR 0202(0005)] Sekunden"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Claw-Plateau: [VAR 0202(0006)] Sekunden"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hut des Giganten: [VAR 0202(0007)] Sekunden"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Alles klar! Die Rotom-Rallye wartet hier auf dich.\\nKomm jederzeit wieder!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Fahre zum Ziel und sammle unterwegs die gro\u00DFen\\nLuftballons ein!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Geschafft, du bist im Ziel! Gl\u00FCckwunsch!\\nDu kannst es jederzeit aufs Neue versuchen!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\\nPunktestand von [VAR 0100(0000)]: [VAR 0204(0001,202F)]\\n\\nStart: [VAR 0105(0002)]\\nZiel: [VAR 0105(0003)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Wow, du hast einen neuen Rekord aufgestellt!\\nGl\u00FCckwunsch!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Du erh\u00E4ltst [VAR FF00(0008)][VAR 1606(0002,0000)][VAR 0110(0002)][VAR FF00(0000)]!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Du erh\u00E4ltst [VAR 0206(0003,202F)] Watt!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "M\u00F6chtest du aufgeben?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Oh, du m\u00F6chtest also aufgeben? Kein Problem!\\nDu kannst dich immer wieder daran versuchen."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Ah, wie schade, die Zeit ist abgelaufen.\\nBeim n\u00E4chsten Mal klappt es ganz bestimmt!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Toll! Du hast deine erste Rotom-Rallye\\nabgeschlossen! Hier, als kleine Anerkennung!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Wow! Du hast \u00FCber [VAR 0204(0001,202F)] Punkte erzielt!\\nHier, als kleine Anerkennung!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Vielen Dank f\u00FCr deine Teilnahme an der\\nRotom-Rallye! Hier, als kleine Anerkennung!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Wenn ich dein Fahrrad aufmotze, l\u00E4dt sich dein\\nRotom-Turbo schneller auf! Daf\u00FCr br\u00E4uchte ich\\r\\naber [VAR 0205(0000,202F)] Watt. Soll ich loslegen?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Wenn ich dein Fahrrad aufmotze, l\u00E4dt sich dein\\nRotom-Turbo noch schneller auf! Daf\u00FCr br\u00E4uchte\\r\\nich aber [VAR 0205(0000,202F)] Watt. Soll ich loslegen?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Wenn ich dein Fahrrad aufmotze, l\u00E4dt sich dein\\nRotom-Turbo so schnell auf wie nur m\u00F6glich!\\r\\nDaf\u00FCr br\u00E4uchte ich aber [VAR 0205(0000,202F)] Watt.\\r\\nSoll ich loslegen?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "So, das w\u00E4re geschafft! Jetzt, wo dein Fahrrad\\nschneller ist, nimmst du bestimmt bald wieder\\r\\nan einer Rallye teil, oder?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "So, das w\u00E4re geschafft! Jetzt, wo dein Fahrrad\\nnoch schneller ist, nimmst du bestimmt bald\\r\\nwieder an einer Rallye teil, oder?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "So, jetzt kannst du die maximale Geschwindigkeit\\naus deinem Fahrrad herausholen! Probier es doch\\r\\ngleich mal in einer Rallye aus!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Oh, du hast leider nicht genug Watt..."
+  }
+]

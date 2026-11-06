@@ -1,0 +1,311 @@
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+[~ 31]
+[~ 32]
+[~ 33]
+[~ 34]
+[~ 35]
+[~ 36]
+[~ 37]
+[~ 38]
+[~ 39]
+[~ 40]
+[~ 41]
+[~ 42]
+[~ 43]
+[~ 44]
+[~ 45]
+[~ 46]
+[~ 47]
+[~ 48]
+[~ 49]
+[~ 50]
+[~ 51]
+[~ 52]
+[~ 53]
+[~ 54]
+[~ 55]
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+[~ 74]
+[~ 75]
+[~ 76]
+[~ 77]
+[~ 78]
+[~ 79]
+[~ 80]
+[~ 81]
+[~ 82]
+[~ 83]
+[~ 84]
+[~ 85]
+[~ 86]
+[~ 87]
+[~ 88]
+[~ 89]
+[~ 90]
+[~ 91]
+[~ 92]
+[~ 93]
+[~ 94]
+[~ 95]
+[~ 96]
+[~ 97]
+Senti che profumo intenso! Che ne dici di\ndeliziarti con qualche fragranza esotica?
+Spero di rivederti presto.
+Desideri altro?
+[VAR 1501(0000,0000)][VAR 0109(0000)]?\n[VAR 1001]Quant[VAR 1102(0000,0101,0101)]oaie ne vuoi?
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] .
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] .
+Eccoti servit[VAR 1100(00FF,0101)]oa.\nTorna pure a trovarmi quando vuoi.\c
+Accidenti... Sembra che siano un po’ troppi.\nNon hai più spazio...\c
+Mi spiace ma non hai abbastanza soldi...!\c
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+Ehi, ciao! Vendo rimedi naturali! Sto ancora\nimparando, ma ciò che offro è di ottima qualità!
+Grazie! Sempre al tuo servizio!
+Che te ne pare, eh?!\nMagari vuoi pure qualcos’altro?
+Quante [VAR 1001][VAR 010A(0000)] vuoi?
+Allora, [VAR 0202(0001)] [VAR 010A(0000)], giusto?\nFanno [VAR 0206(0002,002E)] . Bene così?
+[VAR 0202(0001)] [VAR 010A(0000)], giusto?\nIn tutto fanno [VAR 0206(0002,002E)] . Bene così?
+Ecco qua, prendi!\nI miei sono rimedi efficacissimi! Vedrai che roba!\c
+Ehi, dove la metti tutta questa roba?\nNon hai abbastanza spazio!\c
+Ma... Guarda che questi soldi non bastano.\nTi toccherà metterne da parte di più...\c
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+Bacche! Bacche fresche appena raccolte!\nTi interessa?
+Grazie per la visita! Alla prossima!
+Vuoi comprare altre bacche?
+Quante [VAR 0109(0000)] vuoi?
+Allora... [VAR 0202(0001)] [VAR 010A(0000)], eh?\nFanno [VAR 0206(0002,002E)] !
+Allora... [VAR 0202(0001)] [VAR 010A(0000)], eh?\nFanno [VAR 0206(0002,002E)] !
+Ecco a te! Vedrai come si leccheranno i baffi\ni tuoi Pokémon!\c
+Perbacco! Non hai spazio per tutte queste\nbacche!\c
+Perbacco! Non hai soldi per le mie bacche!\nSpiacente ma non possiamo fare affari...\c
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[~ 131]
+[~ 132]
+[~ 133]
+[~ 134]
+[~ 135]
+[~ 136]
+[~ 137]
+[~ 138]
+[~ 139]
+[~ 140]
+[~ 141]
+[~ 142]
+[~ 143]
+[~ 144]
+[~ 145]
+[~ 146]
+[~ 147]
+[~ 148]
+Benvenut[VAR 1100(00FF,0101)]oa nel nostro Negozio di vestiti!\nPosso esserti d’aiuto?
+Torna a trovarci presto!\c\nE usa pure i nostri camerini ogni volta\nche desideri cambiarti.
+Benvenut[VAR 1100(00FF,0101)]oa nel Negozio di divise!\nPosso esserti d’aiuto?
+Torna a trovarci presto!
+N-Non può essere! Quella che hai con te...\nè una Tessera chic?!
+È un oggetto leggendario che solo le più grandi\nicone di stile di Galar possiedono!
+Per i clienti come te con una vocazione innata\nper la moda abbiamo in serbo articoli speciali!
+Intanto, lascia che ti offra un omaggio.
+Detto questo...
+Vedo che hai superato la missione\ndello Stadio di Turffield!
+Vedo che hai superato la missione\ndello Stadio di Keelford!
+Vedo che hai superato la missione\ndello Stadio di Steamington!
+Vedo che hai superato la missione\ndello Stadio di Latermore!
+Vedo che hai superato la missione\ndello Stadio di Piquedilly!
+Vedo che hai superato la missione\ndello Stadio di Circhester!
+Vedo che hai superato la missione di Spikeville!
+Vedo che hai superato la missione\ndello Stadio di Knuckleburgh!
+Complimenti! Ora avrai accesso a nuovi articoli\nnei nostri negozi!
+Ma... sei [VAR 1100(00FF,1411)]il nuovo Campionela nuova Campionessa! La tua lotta\ncontro l’invincibile Dandel è stata leggendaria!\c\nComplimenti per il tuo meritato successo.\nSiamo onorati di averti nel nostro negozio!
+Benvenut[VAR 1100(00FF,0101)]oa, Campione[VAR 1100(00FF,0300)]ssa! Cosa desideri?
+Buon compleanno! Ti ringraziamo di essere\nun[VAR 1100(00FF,0C0C)] affezionato’affezionata cliente!
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+[~ 191]
+[~ 192]
+[~ 193]
+[~ 194]
+[~ 195]
+[~ 196]
+[~ 197]
+[~ 198]
+[~ 199]
+[~ 200]
+[~ 201]
+Compra
+Vendi
+Esci
+Benvenut[VAR 1100(00FF,0101)]oa al Pokémon-Market!\nCosa desideri?
+Posso fare altro per te?
+Torna a trovarci presto!
+Qui vendiamo Macchine Tecniche!\nCosa desideri?
+Soldi
+Punti Lotta
+[VAR 0206(0000,002E)] 
+[~ 212]
+[~ 213]
+[~ 214]
+Esci
+[VAR 0206(0000,002E)] PL
+[VAR 0109(0000)]
+[VAR 0109(0000)]
+[VAR 0107(0000)]
+[~ 220]
+[VAR 0206(0000,002E)] 
+[VAR 0202(0000)]
+x
+Quant[VAR 1001][VAR 1102(0000,0101,0101)]oaie [VAR 010A(0000)] vuoi?
+Allora, [VAR 0202(0001)] [VAR 010A(0000)]...\nFanno [VAR 0206(0002,002E)] . Va bene?
+Ecco a te! Grazie!\c
+Non hai abbastanza soldi!\c
+Mi dispiace, hai raggiunto il limite per questo\nstrumento!\c
+Trovi tutto nella tasca [VAR 0112(0001)]!\c
+Non hai più spazio!\c
+Ricevi in omaggio anche [VAR 0201(0000)] Premier Ball!\c
+Allora, vuoi la [VAR 0109(0000)] [VAR 0107(0001)]?\nFanno [VAR 0206(0002,002E)] . Va bene?
+Hai già questa MT!\c
+Benvenut[VAR 1100(00FF,0101)]oa al Negozio PL!\nCosa desideri?
+Allora, [VAR 0202(0001)] [VAR 010A(0000)]...\nFanno [VAR 0206(0002,002E)] . Va bene?
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[VAR 0202(0001)] [VAR 010A(0000)]?\nFanno [VAR 0206(0002,002E)] PL.
+[~ 238]
+Torna a trovarci presto!
+Desideri altro?
+Quant[VAR 1102(0000,0101,0101)]oaie [VAR 1001][VAR 010A(0000)] vuoi?
+Ecco a te!\c
+Hai raggiunto il limite per questo strumento!\c
+Non hai abbastanza PL...\c
+Vedo che hai provato le Lotte in link, eh?\c\nSpero che ti piacciano anche quelle competitive,\nperché ho qui per te una divisa che si adatta\r\nperfettamente!
+x
+[VAR 0206(0000,002E)] 
+Sì
+No
+ Esci
+ Ok
+[VAR 0202(0000)]
+Potenza
+Precisione
+PP
+[VAR 0201(0000)]
+[VAR 0107(0000)]
+MT[VAR 0201(0000)]
+[VAR 0202(0000)]
+-
+[~ 261]
+---
+Benvenut[VAR 1100(00FF,0101)]oa! Cosa desideri?\nAnche oggi abbiamo ingredienti di prima scelta!
+Torna domani, se ti va!
+Abbiamo tanti altri ingredienti!\nPerché non dai un’occhiata?\c
+Molto bene, ti servo subito!\nDimmi la quantità!
+[VAR 0202(0001)] [VAR 010A(0000)], giusto?\nQuindi... fanno [VAR 0206(0002,002E)] !
+[VAR 0202(0001)] [VAR 010A(0000)], giusto?\nQuindi... fanno [VAR 0206(0002,002E)] !
+Eccoti servit[VAR 1100(00FF,0101)]oa! Sono certo che preparerai\ndegli ottimi manicaretti!\c
+Uhm... Mi sa che non puoi prenderne più di così.\c
+Non hai abbastanza soldi.\nTorna quando ne avrai messi un po’ da parte.\c
+Watt
+[VAR 0206(0000,002E)] W
+Benvenut[VAR 1100(00FF,0101)]oa al Negozio Watt!\nCosa desideri?
+Torna a trovarci presto!
+Desideri altro?
+Quant[VAR 1102(0000,0101,0101)]oaie [VAR 1001][VAR 010A(0000)] vuoi?
+Quant[VAR 1102(0000,0101,0101)]oaie [VAR 1001][VAR 0109(0000)] [VAR 0107(0001)] vuoi?
+[VAR 0202(0001)] [VAR 010A(0000)], eh?\nVediamo... Fanno [VAR 0206(0002,002E)] Watt!
+[VAR 0202(0001)] [VAR 010A(0000)], eh?\nVediamo... Fanno [VAR 0206(0002,002E)] Watt!
+[VAR 0202(0002)] [VAR 0109(0000)] [VAR 0107(0001)], eh?\nVediamo... Fanno [VAR 0206(0003,002E)] Watt!
+[VAR 0202(0002)] [VAR 0109(0000)] [VAR 0107(0001)], eh?\nVediamo... Fanno [VAR 0206(0003,002E)] Watt!
+Ecco a te!\c
+Mi dispiace, hai raggiunto il limite per questo\nstrumento!\c
+Non hai abbastanza Watt!\c
+Benvenut[VAR 1100(00FF,0101)]oa al Negozio Watt!\nCosa desideri?
+Torna presto!
+×
+Se hai delle Roccemax, ti posso dare degli\nstrumenti eccezionali!
+Torna presto!
+In cambio di [VAR 0202(0002)] Rocc[VAR 1101(0002,0102)]iaemax posso darti\n[VAR 0202(0001)] [VAR 010A(0000)].
+In cambio di [VAR 0202(0002)] Rocc[VAR 1101(0002,0102)]iaemax posso darti\n[VAR 0202(0001)] [VAR 010A(0000)].
+Che peccato, non hai abbastanza Roccemax...\c
+Mi dispiace, hai raggiunto il limite per questo\nstrumento!\c
+Ecco a te!\c
+Quant[VAR 1102(0000,0101,0101)]oaie [VAR 1001][VAR 010A(0000)] vuoi?
+Ehilà, salve! Mi sono arrivati degli ottimi articoli!
+Benvenut[VAR 1100(00FF,0101)]oa al Negozio Watt!\c\nOltre alla solita mercanzia, ogni giorno metto\nin vendita un articolo speciale tra quelli che\r\nmi arrivano per vie inconsuete!\c\nTi consiglio di venire a dare un’occhiata tutti\ni giorni!\c\nQuindi... cosa ti interessa?
+Benvenut[VAR 1100(00FF,0101)]oa al Negozio Watt!\nC’è qualcosa che t’interessa?
+Articoli normali
+Articolo speciale
+L’articolo speciale del giorno è...
+[VAR 1503(0000,0000)][VAR 010A(0000)]!\nPensa, costa solo [VAR 0206(0001,002E)] Watt!
+Un set di [VAR 0202(0002)] [VAR 010A(0000)]!\c\nAl prezzo eccezionale di [VAR 0206(0001,002E)] Watt,\nfino a esaurimento scorte!
+Compra
+Esci
+Si vede che te ne intendi! Grazie per l’acquisto!
+Purtroppo l’articolo speciale di oggi è esaurito...\nTorna domani!
+Torna presto!
+C’è qualcos’altro che t’interessa?
