@@ -1,0 +1,197 @@
+name: SWSH v1.3.2 real parallel secondary unpack
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - plan/swsh-132-full-parallel-unpack
+      - master
+    paths:
+      - ".github/workflows/swsh-full-unpack.yml"
+      - "scripts/swsh_unpack_worker.py"
+      - "tools/pkNX/pkNX.SWSHDump/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: swsh-full-unpack-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /tests/
+            /docs/sword-v1.3.2-archive-manifest.csv
+            /sword_1.3.2_file_inventory_full.csv
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build and verify complete source inventory plan
+        id: plan
+        run: |
+          python -m unittest discover -s tests -p 'test_swsh_unpack_plan.py' -v
+          python scripts/swsh_unpack_plan.py --shards 16 --expected-count 50494 --out-dir artifacts/swsh-unpack-plan
+          echo "matrix=$(cat artifacts/swsh-unpack-plan/matrix.json)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: swsh-132-shard-plan
+          path: artifacts/swsh-unpack-plan/
+          retention-days: 14
+          if-no-files-found: error
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            tools/pkNX
+            scripts
+            tests
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      - name: Build SWSH-specific headless pkNX (Linux x64)
+        run: |
+          dotnet publish tools/pkNX/pkNX.SWSHDump/pkNX.SWSHDump.csproj \
+            -c Release --self-contained false -o artifacts/decoder
+          test -s artifacts/decoder/pkNX.SWSHDump.dll
+          python tests/smoke_swsh_dump.py artifacts/decoder/pkNX.SWSHDump.dll
+      - uses: actions/upload-artifact@v4
+        with:
+          name: swsh-headless-decoder
+          path: artifacts/decoder/
+          retention-days: 14
+          if-no-files-found: error
+
+  unpack:
+    needs: [plan, build]
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_unpack_worker.py
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-132-shard-plan
+          path: artifacts/swsh-unpack-plan
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-headless-decoder
+          path: artifacts/decoder
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install 7z for split-volume reassembly
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq p7zip-full
+      - name: Sparse checkout only the shard's source files and archive volumes
+        env:
+          SHARD: ${{ matrix.shard }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          printf -v label 'shard-%03d' "$SHARD"
+          { echo '/scripts/swsh_unpack_worker.py'; cat "artifacts/swsh-unpack-plan/$label.sparse"; } \
+            | git sparse-checkout set --no-cone --stdin
+          test -f "artifacts/swsh-unpack-plan/$label.jsonl"
+          echo "Selected $label"
+      - name: Execute real-source restoration, SHA checks and multi-process decode
+        id: worker
+        shell: bash
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          set -o pipefail
+          printf -v label 'shard-%03d' "$SHARD"
+          mkdir -p "artifacts/swsh/$label" "artifacts/swsh-work/$label"
+          python scripts/swsh_unpack_worker.py run \
+            --shard-file "artifacts/swsh-unpack-plan/$label.jsonl" \
+            --repo-root . \
+            --work-dir "artifacts/swsh-work/$label" \
+            --output-root "artifacts/swsh/$label" \
+            --decoder artifacts/decoder/pkNX.SWSHDump.dll \
+            --io-workers 4 --cpu-processes 2 --decoder-threads 2
+          echo "worker=success" >> "$GITHUB_OUTPUT"
+      - name: Stage audit reports with stable shard-relative paths
+        if: always()
+        shell: bash
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          printf -v label 'shard-%03d' "$SHARD"
+          mkdir -p "artifacts/reports/$label"
+          if test -f "artifacts/swsh/$label/per-file.jsonl"; then
+            cp "artifacts/swsh/$label/per-file.jsonl" "artifacts/reports/$label/"
+            cp "artifacts/swsh/$label/summary.json" "artifacts/reports/$label/" || true
+          else
+            printf '{"error":"worker did not produce report"}\n' > "artifacts/reports/$label/failure.json"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-report-${{ matrix.shard }}
+          path: artifacts/reports/
+          retention-days: 14
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-derived-${{ matrix.shard }}
+          path: artifacts/swsh/shard-*/
+          retention-days: 1
+          compression-level: 0
+          if-no-files-found: warn
+
+  reconcile:
+    if: always() && needs.plan.result == 'success'
+    needs: [plan, build, unpack]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-132-shard-plan
+          path: artifacts/plan
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: swsh-report-*
+          merge-multiple: true
+          path: artifacts/reports
+      - name: Account for every original file (PARTIAL is not success)
+        run: |
+          python scripts/swsh_unpack_worker.py reconcile \
+            --plan-dir artifacts/plan --reports-dir artifacts/reports \
+            --expected-count 50494 --out artifacts/final/summary.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-132-final-reconciliation
+          path: artifacts/final/
+          retention-days: 14
+          if-no-files-found: warn
