@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": " Menu"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Chiudi"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Tieni"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Cambia"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": " Chiama"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": " Parla"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Parla con due Pok\u00E9mon"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Prendi la palla"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Pok\u00E9gingillo"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Pok\u00E9 Ball"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": " Zoom"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Utenti bloccati"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vedi Card Lega Pok\u00E9mon"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Invia"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": " Scuoti"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": " Lancia"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Cambia visuale"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Metti via il gioco"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Chiacchieriamo!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Su, a giocare adesso!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "No, niente"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Vuoi lasciare il campeggio?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi lasciare il campeggio di [VAR 0100(0000)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ha smontato la tenda\\ne ha terminato il campeggio."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Oh...? [VAR 0101(0000)] \u00E8 venuto a visitare\\nil tuo campeggio!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Sembra che [VAR 0101(0000)] voglia unirsi\\nalla tua squadra. Vuoi diventare su[VAR 1100(00FF,0101)]oa amic[VAR 1100(00FF,0101)]oa?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] si \u00E8 unito alla tua squadra!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u00E8 entrato [VAR 150A(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] torna nel suo habitat naturale."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se l\u2019\u00E8 davvero spassata durante\\nil campeggio e riceve [VAR 0206(0001,0000)] Punti Esperienza!"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Il livello di [VAR 0102(0000)] sale di [VAR 0201(0001)]!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "In campeggio"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Non in campeggio"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Amici cercasi"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Qui si cucina!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Buond\u00EC!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Ciao!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u2019Sera!"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "un mito"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "un amore"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "affascinante"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "aitante"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "vivace"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "in vena di giocare"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "esuberante"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "affidabile"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "una forza"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "di buon umore"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "in forma"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "entusiasta"
+  },
+  {
+    "index": 61,
+    "flags": 8,
+    "text": "sfavillante"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "in vena di relax"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "elegante"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "irruente"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "adorabile"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "un bijou"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "uno spettacolo"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "uno splendore"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "incantevole"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "uno schianto"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "una meraviglia"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "fine"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "un portento"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": " Usa un gioco"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": " Cambia gioco"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": " Prendi la palla"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Lista dei giochi"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Cucina"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Riprendi l\u2019esplorazione"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Ferma il litigio"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Parla"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Vuoi aggiungere [VAR 0100(0000)] alla lista\\ndegli utenti bloccati?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Non potrai giocare tramite le funzioni di\\ncomunicazione con gli utenti bloccati.\\c\\nVuoi bloccare l\u2019utente?\\n(\u00C8 possibile sbloccarlo in seguito)"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Hai aggiunto [VAR 0100(0000)] alla lista degli\\nutenti bloccati."
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Impossibile ricevere visite da altri giocatori nel\\ncampeggio o usare le funzioni di comunicazione\\r\\nin modalit\u00E0 aereo."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Dimmi di pi\u00F9!"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Alla prossima!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Dai, giochiamo!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Giochi"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Cucina"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Questa persona \u00E8 gi\u00E0 stata aggiunta\\nalla lista degli utenti bloccati."
+  }
+]

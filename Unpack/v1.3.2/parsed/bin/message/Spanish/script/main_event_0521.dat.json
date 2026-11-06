@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "El presidente me ha pedido que te entregue este\\nregalo, [VAR 0100(0000)]."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Un regalo maravilloso de un presidente igual de\\nmaravilloso..."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Ejem, perdona.\\c\\nEl regalo consiste en el permiso para poder usar\\nlos taxis voladores de Aerotaxis Galar."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Con ellos podr\u00E1s plantarte al [VAR FF00(0001)]vuelo[VAR FF00(0000)] en uno de\\nlos lugares que hayas visitado hasta el momento.\\r\\n\u00A1Es muy pr\u00E1ctico!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo funciona? Pues es muy sencillo, basta con\\nseguir estas breves instrucciones...\\c\\nVe a la opci\u00F3n \u0022Mapa\u0022 del men\u00FA principal y elige\\nel sitio al que quieras desplazarte."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Si no me equivoco, tu siguiente destino deber\u00EDa\\nde ser Pueblo Hoyuelo, \u00BFverdad?\\c\\nMe temo que, para visitar nuevos lugares, te\\ntoca seguir yendo a pie. \u00A1Disfruta del paisaje!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  }
+]

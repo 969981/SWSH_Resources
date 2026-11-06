@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "What?\\n[VAR 0102(0000)] is evolving!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Huh?\\n[VAR 0102(0000)] stopped evolving!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Congratulations! Your [VAR 0102(0000)] evolved\\ninto [VAR 0101(0001)]!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wants to learn\\nthe move [VAR 0107(0001)].\\c\\nShould an old move be forgotten and\\nreplaced with [VAR 0107(0001)]?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Forget an old move"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Keep old moves"
+  }
+]

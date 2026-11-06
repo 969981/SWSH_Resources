@@ -1,0 +1,622 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Tu Gu\u00EDa de Aventura no contiene a\u00FAn ninguna\\nentrada.\\c"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Cerrar"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Siguiente"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Gu\u00EDa de Aventura"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Abre el men\u00FA con el [VAR FF00(0006)]bot\u00F3n X[VAR FF00(0000)].\\n\\nDesde el men\u00FA puedes [VAR FF00(0006)]guardar [VAR FF00(0000)]la partida o consultar\\nel [VAR FF00(0006)]mapa [VAR FF00(0000)]de la regi\u00F3n para comprobar tu ubicaci\u00F3n y\\nla de tu pr\u00F3ximo destino.\\n\\nLa Gu\u00EDa de Aventura se encuentra en el bolsillo\\nObjetos clave de tu Bolsa y puedes consultarla en\\ncualquier momento."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Abre el men\u00FA con el [VAR FF00(0006)]bot\u00F3n X[VAR FF00(0000)].\\n\\nDesde el men\u00FA puedes [VAR FF00(0006)]guardar [VAR FF00(0000)]la partida.\\n\\nLa Gu\u00EDa de Aventura se encuentra en el bolsillo\\nObjetos clave de tu Bolsa y puedes consultarla en\\ncualquier momento."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Conexi\u00F3n Y"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Mediante la Conexi\u00F3n Y podr\u00E1s intercambiar\\nPok\u00E9mon y disfrutar de combates contra otros\\njugadores.\\n\u00A1Disfruta de esta funci\u00F3n como a ti m\u00E1s te apetezca!"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Esto es un sticker.\\nLos stickers se env\u00EDan a otros jugadores cuando abres\\nel men\u00FA Conexi\u00F3n Y y seleccionas una de las opciones\\nde comunicaci\u00F3n. Siempre van acompa\u00F1ados de un\\nmensaje para que todos puedan entender lo que te\\napetece hacer."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Generalmente, la Conexi\u00F3n Y te permite conectar\\ncon jugadores cercanos. No obstante, si pulsas\\nel bot\u00F3n \u002B para establecer la conexi\u00F3n a internet,\\n\u00A1podr\u00E1s conectarte con jugadores de todo el mundo!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Recibir un sticker durante tu aventura es se\u00F1al de\\nque hay otros Entrenadores que juegan y buscan a\\nalguien con quien conectarse!\\nPulsa el bot\u00F3n Y para ver qui\u00E9n est\u00E1 disponible."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Si seleccionas un sticker con la silueta de un Pok\u00E9mon,\\npodr\u00E1s unirte a otros Entrenadores y combatir juntos\\ncontra Pok\u00E9mon."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Tarjetas de la Liga Pok\u00E9mon"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00A1Haz que tu Tarjeta de Liga sea \u00FAnica!\\nPuedes dise\u00F1arla usando el Tarjetomat\u00F3n que hay en\\ncada Centro Pok\u00E9mon de la regi\u00F3n e ir actualizando\\nla informaci\u00F3n siempre que lo necesites."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Cada Entrenador tiene su propia Tarjeta de Liga,\\nque puede intercambiarse mediante la conexi\u00F3n\\ninal\u00E1mbrica.\\nAccede al \u00E1lbum desde el men\u00FA para admirar tu\\ncolecci\u00F3n."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Accede al \u00E1lbum desde el men\u00FA para admirar tu\\ncolecci\u00F3n de tarjetas.\\n\\nTambi\u00E9n aparecer\u00E1n las tarjetas que hayas obtenido\\na trav\u00E9s de la conexi\u00F3n inal\u00E1mbrica."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Estadio de Combate"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "En el Estadio de Combate podr\u00E1s librar combates\\nen conexi\u00F3n contra jugadores de todo el mundo y\\napuntarte a una infinidad de torneos."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Ap\u00FAntate a un Combate Amistoso para disfrutar de\\ncombates relajados contra otros jugadores.\\nQui\u00E9n sabe, \u00A1puede que encuentres combinaciones\\nde Pok\u00E9mon y movimientos de lo m\u00E1s inesperadas!"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Ap\u00FAntate a un Combate Clasificatorio para medir\\ntus fuerzas contra otros jugadores y competir por\\nmejorar tu rango.\\nTu rango subir\u00E1 o bajar\u00E1 en funci\u00F3n del resultado de\\nlos encuentros que disputes."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "En los Torneos en L\u00EDnea, la fuerza de los participantes\\nse representa mediante una clasificaci\u00F3n num\u00E9rica.\\nDurante un per\u00EDodo de tiempo determinado, los\\nparticipantes podr\u00E1n enfrentarse entre s\u00ED para ascender\\nen la clasificaci\u00F3n.\\nA diferencia de otras modalidades, para participar\\nen un Torneo en L\u00EDnea deber\u00E1s inscribirte primero."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Fen\u00F3meno Dinamax"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "En ciertos lugares de la regi\u00F3n de Galar, los Pok\u00E9mon\\npueden alcanzar proporciones colosales. Esto es lo\\nque se conoce como \u0022dinamaxizarse\u0022.\\nPulsa el [VAR FF00(0006)]bot\u00F3n Dinamax [VAR FF00(0000)]que aparece cuando la\\nMu\u00F1equera Dinamax brilla para hacer que tu Pok\u00E9mon\\nalcance este estado."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1El efecto del fen\u00F3meno Dinamax solo dura [VAR FF00(0006)]tres turnos[VAR FF00(0000)]!\\n\\nDurante este tiempo, el Pok\u00E9mon puede usar unos\\nataques devastadores denominados [VAR FF00(0006)]movimientos\\nDinamax[VAR FF00(0000)]. Estos no solo poseen una gran fuerza, sino\\nque, adem\u00E1s, causan diversos efectos secundarios que\\nvar\u00EDan seg\u00FAn el tipo del movimiento.\\n\\n\u00A1Elige con cabeza el momento justo para hacer que tu\\nPok\u00E9mon se dinamaxice y ll\u00E9vate la victoria a casa!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pok\u00E9 Campamento"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "En el Pok\u00E9 Campamento podr\u00E1s pasarlo en grande\\njunto a tus Pok\u00E9mon, compartir suculentas comidas\\ncon ellos y reforzar los lazos que os unen.\\n\u00A1Seguro que as\u00ED salen a combatir con m\u00E1s ganas y\\nacaban rindiendo mejor!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1Juega con los mandos Joy-Con!\\nDesacopla un mando Joy-Con de tu consola y \u00FAsalo\\npara jugar con tus Pok\u00E9mon. Agita el mando para\\nlanzar una pelota o para sacudir el Pok\u00E9se\u00F1uelo.\\nSi lo mueves con gracia, \u00A1quiz\u00E1s consigas llamar la\\natenci\u00F3n de tus Pok\u00E9mon!"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "En las acampadas del \u00C1rea Silvestre pueden jugar\\njuntos hasta un m\u00E1ximo de cuatro Entrenadores.\\n\u00A1Puede que te visiten Entrenadores y Pok\u00E9mon que no\\nconoces de nada, as\u00ED que cuida tus modales y pasadlo\\nen grande juntos!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Cocinar"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00A1El secreto para preparar un buen plato de curri es\\nelegir los ingredientes y las bayas que m\u00E1s te gusten!\\n\\nUtiliza ingredientes de calidad y echa un buen\\npu\u00F1ado de bayas para conseguir resultados a\u00FAn m\u00E1s\\ndeliciosos."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Una vez que lo tengas todo listo para cocinar, aviva\\nel fuego con el abanico y remueve bien todos los\\ningredientes con el cuchar\u00F3n, con cuidado de no\\nderramar nada. Por \u00FAltimo, a\u00F1ade un buen pellizco\\nde amor a la mezcla en el momento preciso para\\nconseguir el plato perfecto para tus Pok\u00E9mon."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Cuando la comida est\u00E9 lista, solo queda lo mejor:\\n\u00A1disfrutar juntos del banquete! Todos los Pok\u00E9mon\\nque se encuentren en tu campamento se beneficiar\u00E1n\\nde los efectos de un rico curri: no solo se sentir\u00E1n\\nplet\u00F3ricos tras la comilona, sino que adem\u00E1s los lazos\\nque os unen se estrechar\u00E1n mucho m\u00E1s."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Nidos Pok\u00E9mon"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Los haces de luz que se ven por toda el \u00C1rea Silvestre\\nindican la ubicaci\u00F3n de nidos Pok\u00E9mon.\\nEn ellos se esconden Pok\u00E9mon Dinamax contra los\\nque podr\u00E1s combatir en solitario o en grupos de hasta\\ncuatro jugadores."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Si encuentras un nido sin un haz de luz, arroja un\\nTrocito Deseo a su interior para que aparezca un\\nPok\u00E9mon Dinamax.\\n\\n\u00A1No dudes en lanzar uno si encuentras un nido que te\\nllame la atenci\u00F3n!"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Inspecciona los nidos Pok\u00E9mon rodeados de un halo\\nde luz para agenciarte unos cuantos vatios.\\n\\nAlgunos Entrenadores del \u00C1rea Silvestre estar\u00E1n\\ndispuestos a canjearlos por diversos objetos."
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Incursiones Dinamax"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Tendr\u00E1s la oportunidad de capturar al Pok\u00E9mon\\nDinamax tras vencerlo, as\u00ED como de conseguir objetos\\nraros que no pueden obtenerse de ninguna otra\\nforma."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Cuando los Pok\u00E9mon salvajes se dinamaxizan, se\\nvuelven incre\u00EDblemente fuertes. Pueden usar varios\\nmovimientos en un mismo turno y realizar acciones\\nespeciales, de modo que es importante que t\u00FA y\\notros tres Entrenadores aun\u00E9is fuerzas si quer\u00E9is salir\\nvictoriosos contra uno de estos Pok\u00E9mon."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Taxis voladores"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Usa el servicio de taxis voladores para que un\\nCorviknight te lleve en volandas a cualquier rinc\u00F3n\\nde Galar en un periquete.\\n\\n\u00A1Es tan f\u00E1cil como abrir el mapa desde el men\u00FA y\\nseleccionar el destino al que desees ir!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Cajas del PC"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Puedes almacenar Pok\u00E9mon en las Cajas del PC\\nde los Centros Pok\u00E9mon.\\n\\nPodr\u00E1s sacar Pok\u00E9mon de las cajas desde cualquier\\nRotomi."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Para gestionar m\u00E1s f\u00E1cilmente tus cajas, pulsa el bot\u00F3n X\\npara alternar entre las distintas vistas.\\n\\nPuedes intercambiar los Pok\u00E9mon de tu equipo por los\\nde las cajas y viceversa, o bien ordenarlos como te\\nparezca conveniente."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Pulsa el bot\u00F3n Y para alternar entre los distintos\\nmodos de selecci\u00F3n.\\n\\nCursor rojo: controles por defecto.\\nCursor azul: mover Pok\u00E9mon de uno en uno.\\nCursor verde: selecci\u00F3n m\u00FAltiple de Pok\u00E9mon."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Pok\u00E9 Encargos"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "En la regi\u00F3n de Galar siempre viene bien algo de\\nmano de obra. \u00A1Manda a tus Pok\u00E9mon para que echen\\nuna mano en distintos encargos!\\n\\nLos Pok\u00E9mon que env\u00EDes acumular\u00E1n experiencia y\\nse har\u00E1n m\u00E1s fuertes."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "La lista de encargos se actualiza una vez al d\u00EDa.\\nCuantos m\u00E1s Pok\u00E9mon env\u00EDes, mejor, \u00A1as\u00ED que no\\ndejes que se aburran y mantenlos ocupados!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "La lista de encargos se actualiza una vez al d\u00EDa. El\\nn\u00FAmero de encargos aumentar\u00E1 conforme mejore tu\\nreputaci\u00F3n.\\n\\nPara ello, lo mejor es enviar a Pok\u00E9mon que se ajusten\\na los requisitos de los encargos, \u00A1as\u00ED que el\u00EDgelos\\ncuidadosamente antes de enviarlos!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Desaf\u00EDo de los gimnasios"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Los Aspirantes que participen en el desaf\u00EDo de los\\ngimnasios deber\u00E1n visitar los ocho gimnasios de\\nGalar. Tras afrontar la misi\u00F3n correspondiente, les\\naguardar\u00E1 el l\u00EDder, al que deber\u00E1n derrotar para\\nobtener una medalla."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Torneos en Directo"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Mediante el modo Torneo en Directo puedes participar\\nen torneos con otros jugadores.\\n\\nEstos pueden ser torneos amistosos organizados entre\\namigos o torneos oficiales.\\n\\nPara obtener informaci\u00F3n sobre los torneos oficiales\\nen curso o los que se celebrar\u00E1n en un futuro, visita el\\nsitio web oficial de Pok\u00E9mon."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Organizar un torneo"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Puedes organizar tus propios Torneos en Directo.\\n\\nCrea un reglamento para tu competici\u00F3n y comp\u00E1rtelo\\ncon los participantes a trav\u00E9s de las funciones de\\ncomunicaci\u00F3n de la consola.\\n\\nPara obtener m\u00E1s informaci\u00F3n, visita el sitio web oficial\\nde Pok\u00E9mon."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Combates Amistosos"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Deber\u00E1s tener en cuenta las siguientes reglas antes de\\nparticipar en un Combate Amistoso:\\n\\n\u2022 Tu equipo debe estar conformado por [VAR FF00(0006)]seis Pok\u00E9mon[VAR FF00(0000)]\\n[VAR FF00(0006)]diferentes[VAR FF00(0000)].\\n\\n\u2022 Los miembros de tu equipo deben[VAR FF00(0006)] llevar objetos[VAR FF00(0000)]\\n[VAR FF00(0006)]distintos[VAR FF00(0000)]."
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "En los Combates Amistosos pueden participar Pok\u00E9mon\\nespeciales, \u00A1de modo que podr\u00E1s utilizar tus Pok\u00E9mon\\nfavoritos sin restricciones!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Combates Clasificatorios"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Deber\u00E1s tener en cuenta las siguientes reglas antes de\\nparticipar en un Combate Clasificatorio:\\n\\n\u2022 Tu equipo debe estar conformado por [VAR FF00(0006)]seis Pok\u00E9mon[VAR FF00(0000)]\\n[VAR FF00(0006)]diferentes[VAR FF00(0000)].\\n\\n\u2022 Los miembros de tu equipo deben [VAR FF00(0006)]llevar objetos[VAR FF00(0000)]\\n[VAR FF00(0006)]distintos[VAR FF00(0000)].\\n\\n\u2022 [VAR FF00(0006)]Los Pok\u00E9mon especiales no pueden participar[VAR FF00(0000)]."
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "En los Combates Clasificatorios ganar\u00E1s o perder\u00E1s\\npuntos dependiendo del resultado del combate.\\n\\nSi consigues suficientes puntos, pasar\u00E1s al rango\\nsuperior; del mismo modo, pasar\u00E1s al inferior si pierdes\\ndemasiados puntos."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Tu nivel no bajar\u00E1 aunque pierdas Combates\\nClasificatorios.\\n\\nPor ejemplo, si has alcanzado el Nivel Avanzado, no\\nbajar\u00E1s al Nivel Alto por muchos combates que pierdas."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Los Combates Clasificatorios se disputan durante un\\nper\u00EDodo concreto que se conoce como temporada.\\n\\nAl t\u00E9rmino de una temporada, da comienzo la siguiente\\ny tanto el rango como el nivel de todos los participantes\\nbajar\u00E1n."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Los jugadores que alcancen el rango m\u00E1ximo competir\u00E1n\\npor conseguir posicionarse mejor que los dem\u00E1s\\njugadores del mismo rango.\\n\\nSu posici\u00F3n se determinar\u00E1 en funci\u00F3n de los resultados\\nen los combates."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Torneos en L\u00EDnea"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Hay dos modalidades de Torneos en L\u00EDnea:\\n\\n\u2022 Torneos oficiales.\\n\\n\u2022 Torneos amistosos."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Los torneos oficiales son competiciones especiales en\\nlas que los participantes disputan combates regidos por\\ndiversos reglamentos para obtener el mejor puesto\\nposible.\\n\\nPara obtener informaci\u00F3n exhaustiva sobre los torneos\\nprogramados o los Pok\u00E9mon que pueden participar,\\npuedes visitar el sitio web oficial de Pok\u00E9mon."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Los torneos amistosos son competiciones organizadas\\npor los jugadores para librar combates desenfadados\\ncon otros Entrenadores.\\n\\n\u00A1An\u00EDmate a participar en diferentes torneos amistosos!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Si encuentras un torneo oficial o un torneo amistoso que\\nte interese, inscr\u00EDbete para poder participar en \u00E9l.\\n\\nTen en cuenta qu\u00E9 Pok\u00E9mon quieres usar y el reglamento\\nque m\u00E1s te gusta para encontrar un torneo a tu medida."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Caja de Pok\u00E9mon"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Si dispones de una Caja de Pok\u00E9mon, podr\u00E1s acceder\\na las Cajas del PC en cualquier momento y mover o\\ncambiar Pok\u00E9mon sobre la marcha.\\n\\nPulsa el bot\u00F3n R en la pantalla de Pok\u00E9mon del men\u00FA\\npara acceder a las cajas."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Combates Clasificatorios (2)"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Para participar en un Combate Clasificatorio, abre el\\nmen\u00FA, selecciona \u0022VS\u0022 y, posteriormente, \u0022Estadio de\\nCombate\u0022.\\n\u00A1Perfecciona tu t\u00E9cnica en la Torre Batalla y pon a\\nprueba tu pericia contra otros Entrenadores!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Pesca"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00A1Cuando veas una sombra en la superficie del agua,\\nac\u00E9rcate y pulsa el bot\u00F3n A para sacar tu Ca\u00F1a!\\nVuelve a pulsar A cuando se zarandee para recoger el\\nsedal y hacerte con tu presa.\\n\u00A1Hay infinidad de sitios en los que pescar, as\u00ED que\\npresta atenci\u00F3n a las sombras!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Equipos de Pr\u00E9stamo"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Esta funci\u00F3n te permite tomar prestados Equipos de\\nCombate que otros jugadores hayan compartido a\\ntrav\u00E9s de internet, as\u00ED como poner el tuyo a disposici\u00F3n\\nde los dem\u00E1s.\\n\\nCada Equipo de Combate compartido tiene un\\nID de equipo que otros jugadores podr\u00E1n utilizar para\\ntomarlo prestado."
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Isla de la Armadura"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u00A1Has conseguido un Pase Armadura!\\nEns\u00E9\u00F1aselo al empleado de la Estaci\u00F3n de Par y\\npodr\u00E1s viajar hasta la Isla de la Armadura.\\n\u00A1Crece junto a tu equipo y atrapa Pok\u00E9mon poco\\ncomunes en una nueva aventura!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Nieves de la Corona"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u00A1Has conseguido un Pase Corona!\\nEns\u00E9\u00F1aselo al empleado de la Estaci\u00F3n de Par y\\npodr\u00E1s viajar hasta las Nieves de la Corona.\\n\u00A1Emb\u00E1rcate en una nueva aventura en una tierra\\ncubierta de nieve y envuelta en misterio en la que\\npodr\u00E1s buscar Pok\u00E9mon legendarios!"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Aventuras Dinamax"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Forma un equipo de cuatro miembros y lanzaos a\\nexplorar el misterioso Supernido Dinamax.\\n\u00A1En sus profundidades os aguarda nada menos que un\\nPok\u00E9mon legendario!"
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "En las Aventuras Dinamax avanzar\u00E9is junto a Pok\u00E9mon\\nde pr\u00E9stamo.\\nAntes de comenzar, cada miembro del equipo deber\u00E1\\nelegir un Pok\u00E9mon para que lo acompa\u00F1e."
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Existen varias rutas posibles para avanzar por el nido\\ny entre todos decidir\u00E9is cu\u00E1l tomar. Si os top\u00E1is con\\nun Pok\u00E9mon, se dinamaxizar\u00E1 y tendr\u00E9is que colaborar\\npara derrotarlo en combate. Tras atrapar un Pok\u00E9mon,\\nuno de los participantes podr\u00E1 intercambiarlo por el\\nPok\u00E9mon que lleve antes de seguir avanzando."
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "El Rey de las Cosechas"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "En Villa Helada se cuenta la f\u00E1bula del Rey de las\\nCosechas, un Pok\u00E9mon legendario. Seg\u00FAn la leyenda,\\neste Pok\u00E9mon portaba una enorme corona sobre la\\ncabeza, pero la estatua de madera del centro del\\npueblo no parece tener ninguna..."
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Al devolverle la corona a la estatua, apareci\u00F3 Calyrex\\ny posey\u00F3 el cuerpo del capit\u00E1n Peony, lo que le\\npermiti\u00F3 hablar la lengua humana.\\nAhora toca investigar en el pueblo en busca de m\u00E1s\\ninformaci\u00F3n acerca del Rey de las Cosechas."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Para encontrar el corcel del Rey de las Cosechas,\\nhay que buscar las zanahorias que tanto le gustaban.\\nEs posible que los habitantes de Villa Helada sepan\\nalgo al respecto..."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Despu\u00E9s de conseguir las Semillas de Zanahoria y\\ncont\u00E1rselo a Calyrex, me habl\u00F3 de dos huertos aptos\\npara su cultivo: uno nevado y otro junto a unas\\ntumbas. Solo falta escoger uno de los dos y\\nsembrarlas."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Gracias al poder de Calyrex, ha crecido una\\nZanahoria N\u00EDvea en el huerto nevado donde sembr\u00E9\\nlas semillas.\\nEl olor de la zanahoria atrajo a Glastrier, pero\\nenseguida sali\u00F3 corriendo hacia Villa Helada."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Gracias al poder de Calyrex, ha crecido una\\nZanahoria Oscura en el huerto junto a las tumbas\\nen el que sembr\u00E9 las semillas.\\nEl olor de la zanahoria atrajo a Spectrier, pero\\nenseguida sali\u00F3 corriendo hacia Villa Helada."
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "A partir del P\u00E9talo Fulgor que me entreg\u00F3 Calyrex\\ny la crin que obtuve al vencer al Pok\u00E9mon que hab\u00EDa\\nsido su montura, hemos logrado trenzar las Riendas\\nUni\u00F3n. Calyrex me est\u00E1 esperando en el Templo\\nCorona, donde se encuentra la guarida del corcel."
+  },
+  {
+    "index": 102,
+    "flags": 4,
+    "text": "El Rey de las Cosechas fue capaz de unirse de nuevo\\ncon su amado corcel gracias al poder de las Riendas\\nUni\u00F3n y consigui\u00F3 resolver el malentendido con los\\nhumanos. Como agradecimiento por haberle ayudado\\na recuperar su poder, decidi\u00F3 acompa\u00F1arme en mi\\naventura."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Los gigantes legendarios"
+  },
+  {
+    "index": 104,
+    "flags": 4,
+    "text": "El gigante de roca descansa en unas ruinas situadas\\nen lo m\u00E1s profundo del Lecho del Gigante. La puerta\\nest\u00E1 cerrada a cal y canto, pero en ella se puede\\nmedio leer el siguiente mensaje:\\n\u0022Entr... al pri.... ...\u00E9mon en tu ...er\\nla ...ra que el cam... ...ra ...ner\u0022."
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "El gigante de roca descansa en unas ruinas situadas\\nen lo m\u00E1s profundo del Lecho del Gigante.\\n[VAR FF00(0006)]\u0022Entrega al primer Pok\u00E9mon en tu poder\\nla piedra que el cambio logra detener\u0022.\\nTras darle una Piedra Eterna a mi Pok\u00E9mon,\\nla puerta se abri\u00F3 y encontr\u00E9 a Regirock.[VAR FF00(0000)]"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "El gigante de hielo descansa en unas ruinas situadas\\nen el coraz\u00F3n del Desfiladero Nevado. La puerta est\u00E1\\ncerrada a cal y canto, pero en ella se puede medio\\nleer el siguiente mensaje:\\n\u0022En... al ...er de ...al hel...\\ny per... que ...ne a tu ...do\u0022."
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "El gigante de hielo descansa en unas ruinas situadas\\nen el coraz\u00F3n del Desfiladero Nevado.\\n[VAR FF00(0006)]\u0022Encuentra al ser de cristal helado\\ny permite que camine a tu lado\u0022.\\nTras dejar que Cryogonal saliese de su Pok\u00E9 Ball,\\nla puerta se abri\u00F3 y encontr\u00E9 a Regice.[VAR FF00(0000)]"
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "El gigante de acero descansa en unas ruinas situadas\\ndonde se encuentran el blanco y el verde en el Lecho\\ndel Gigante. La puerta est\u00E1 cerrada a cal y canto,\\npero en ella se puede medio leer lo siguiente:\\n\u0022Haz ...nar el agu... ...amo\\nque al ...ero desp... de su let...\u0022."
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "El gigante de acero descansa en unas ruinas situadas\\ndonde se encuentran el blanco y el verde en el Lecho\\ndel Gigante.\\n[VAR FF00(0006)]\u0022Haz sonar el agudo reclamo\\nque al acero despierte de su letargo\u0022.\\nTras silbar, la puerta se abri\u00F3 y encontr\u00E9 a Registeel.[VAR FF00(0000)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "El d\u00FAo de gigantes descansa en unas ruinas situadas en\\nla remota Encrucijada Tresv\u00EDas. La puerta est\u00E1 cerrada\\na cal y canto, pero en ella se puede medio leer el\\nsiguiente mensaje:\\n\u0022...ndo los ...es gig... ...yas ...ido\\nres... el ...lema y dec... tu ...tino\u0022."
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "El d\u00FAo de gigantes descansa en unas ruinas situadas en\\nla remota Encrucijada Tresv\u00EDas.\\n[VAR FF00(0006)]\u0022Cuando los tres gigantes hayas reunido,\\nresuelve el dilema y decide tu destino\u0022.\\nTras reunir a los gigantes de roca, hielo y acero,\\nla puerta se abri\u00F3 y eleg\u00ED a uno de ellos.[VAR FF00(0000)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Las aves legendarias"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias."
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]El Pok\u00E9mon de color naranja huy\u00F3 al \u00C1rea Silvestre.\\nEl Pok\u00E9mon negro huy\u00F3 a la Isla de la Armadura.\\nEl Pok\u00E9mon morado huy\u00F3 a las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]Atrap\u00E9 a Zapdos en el \u00C1rea Silvestre.\\nEl Pok\u00E9mon negro huy\u00F3 a la Isla de la Armadura.\\nEl Pok\u00E9mon morado huy\u00F3 a las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]El Pok\u00E9mon de color naranja huy\u00F3 al \u00C1rea Silvestre.\\nAtrap\u00E9 a Moltres en la Isla de la Armadura.\\nEl Pok\u00E9mon morado huy\u00F3 a las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]El Pok\u00E9mon de color naranja huy\u00F3 al \u00C1rea Silvestre.\\nEl Pok\u00E9mon negro huy\u00F3 a la Isla de la Armadura.\\nAtrap\u00E9 a Articuno en las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]Atrap\u00E9 a Zapdos en el \u00C1rea Silvestre.\\nAtrap\u00E9 a Moltres en la Isla de la Armadura.\\nEl Pok\u00E9mon morado huy\u00F3 a las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]Atrap\u00E9 a Zapdos en el \u00C1rea Silvestre.\\nEl Pok\u00E9mon negro huy\u00F3 a la Isla de la Armadura.\\nAtrap\u00E9 a Articuno en las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]El Pok\u00E9mon de color naranja huy\u00F3 al \u00C1rea Silvestre.\\nAtrap\u00E9 a Moltres en la Isla de la Armadura.\\nAtrap\u00E9 a Articuno en las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "En la tierra que ba\u00F1an los rayos del sol en su cenit,\\nse yergue un gran \u00E1rbol en cuyas ramas del color del\\nfuego se re\u00FAnen las aves legendarias.\\n[VAR FF00(0006)]Atrap\u00E9 a Zapdos en el \u00C1rea Silvestre.\\nAtrap\u00E9 a Moltres en la Isla de la Armadura.\\nAtrap\u00E9 a Articuno en las Nieves de la Corona.[VAR FF00(0000)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Un extr... y gig... ...jero desc... por el ...sor Pol... con...\\neste ...ndo con ...ro, don... ...tan los Ult..., unos ...es\\ndif... a los ...\u00E9mon que cono..."
+  }
+]

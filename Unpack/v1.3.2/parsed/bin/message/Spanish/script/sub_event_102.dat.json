@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Es una m\u00E1quina expendedora.\\n\u00BFQu\u00E9 quieres tomar?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] [VAR BD03(0000)][VAR 0202(0001)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nada"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "No has comprado nada."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No te caben m\u00E1s en la Bolsa."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "No tienes dinero suficiente."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Ha salido [VAR 1702(0000,0000)][VAR 010A(0000)]!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQuieres comprar alguna otra cosa?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 suerte!\\n\u00A1[VAR 1703(0000,0000)][VAR 010A(0000)] de regalo!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Es una m\u00E1quina expendedora.\\c\\nNo parece que queden ninguna de tus bebidas\\nfavoritas."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Comprar lo mismo"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Comprar otra cosa"
+  }
+]

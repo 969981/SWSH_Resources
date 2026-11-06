@@ -1,0 +1,157 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ronne crown.[VAR 0114(0079)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oui\u202F? J\u2019ai cru que quelqu\u2019un m\u2019appelait...\\nC\u2019\u00E9tait toi, chef\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Qu\u2019est-ce que...[VAR 0114(0076)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Aaaaargh\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Humain[VAR 1100(00FF,0100)]e, en as-tu appris davantage\\nsur mon fid\u00E8le destrier\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Fort bien... Reviens me voir lorsque\\ntu en sauras plus \u00E0 son sujet.[VAR 0114(0079)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Oh, tu sais donc de quoi raffole\\nmon ancien compagnon\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "\u00C0 une \u00E9poque, je le savais, moi aussi. Mais c\u2019\u00E9tait\\nil y a si longtemps que je ne m\u2019en souviens plus.[VAR 0114(0079)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Dis-moi, humain[VAR 1100(00FF,0100)]e. Quelle est donc cette chose\\nqui va peut-\u00EAtre nous permettre de l\u2019app\u00E2ter\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Les R\u00EAnes de l\u2019Unit\u00E9\u202F!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Les carottes\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Les danses folkloriques du Hameau Gel\u00E9\u202F!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Le pull \u00E0 l\u2019effigie du Seigneur des r\u00E9coltes\u202F!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En fait, je ne suis pas s\u00FBr[VAR 1100(00FF,0100)]e..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Hum...\\nLes R\u00EAnes de l\u2019Unit\u00E9, dis-tu\u202F?\\c\\nIl est vrai qu\u2019elles me seraient bien utiles\\npour diriger mon fid\u00E8le destrier.\\c\\nSeulement, il y a bien longtemps que\\nles humains ne m\u2019en offrent plus.\\c\\nJe doute donc fort que je puisse\\nm\u2019en procurer \u00E0 l\u2019heure actuelle...[VAR 0114(0079)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Hum...\\nLes danses folkloriques du Hameau Gel\u00E9, dis-tu\u202F?\\c\\nJe me souviens avoir assist\u00E9 \u00E0 ces curieuses\\ngesticulations, autrefois.\\c\\nElles ne brisaient pas trois pattes \u00E0 un Canarticho,\\nsi je puis me permettre...\\r\\nJe doute qu\u2019elles attirent le moindre Pok\u00E9mon.[VAR 0114(0079)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Hum...\\nUn pull \u00E0 mon effigie, dis-tu\u202F?\\c\\nCette reproduction a beau \u00EAtre une p\u00E2le copie\\nde l\u2019original, cela n\u2019emp\u00EAchera pas mon destrier\\r\\nde me reconna\u00EEtre... et de s\u2019enfuir sur-le-champ.[VAR 0114(0079)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Oh\u202F! Les carottes, dis-tu\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Mon fid\u00E8le destrier \u00E9tait bien difficile \u00E0 calmer,\\nlorsque nous passions devant certains champs...[VAR 0114(0079)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Des carottes devaient y \u00EAtre plant\u00E9es\u202F!\\nMaintenant que tu le dis, cela ne fait\\r\\naucun doute\u202F! Merci, humain[VAR 1100(00FF,0100)]e\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Avec cette denr\u00E9e, nous pourrions app\u00E2ter\\nmon fid\u00E8le destrier, o\u00F9 qu\u2019il soit\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Peut-\u00EAtre les villageois cultivent-ils encore\\ndes carottes, de nos jours\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Si nous avions ne serait-ce qu\u2019une seule\\ngraine, je pourrais la faire germer...[VAR 0114(0079)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Peut-\u00EAtre les villageois cultivent-ils encore\\ndes carottes, de nos jours\u202F?\\c\\nSi nous avions ne serait-ce qu\u2019une seule\\ngraine, je pourrais la faire germer...[VAR 0114(0079)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Des carottes, tu dis\u202F? \u00C7a fait bien longtemps\\nque nous n\u2019en cultivons plus dans ce patelin..."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "J\u2019ai des pommes de terre \u00E0 foison,\\nmais pas de carottes...\\c\\nCela dit, il doit bien rester des graines\\n\u00E0 quelqu\u2019un..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Tu t\u2019int\u00E9resses aux carottes de Couronneige\u202F?\\c\\nAutrefois, c\u2019\u00E9tait la sp\u00E9cialit\u00E9 de la r\u00E9gion,\\net il en existait deux vari\u00E9t\u00E9s.\\r\\nH\u00E9las, plus personne n\u2019en cultive aujourd\u2019hui..."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Qui se d\u00E9lectait de Carottes Gel\u00E9es\u202F?\\nLa brute d\u2019un blanc immacul\u00E9\u202F! \u266A\\c\\nBlanc comme la [VAR FF00(0006)]glace[VAR FF00(0000)], il croquait\\nles l\u00E9gumes gel\u00E9s d\u2019une passion vivace\u202F!\u266A\\c\\nQui se d\u00E9lectait de Carottes Sombres\u202F?\\nLa brute de la couleur de l\u2019ombre\u202F! \u266A\\c\\nD\u2019un noir [VAR FF00(0006)]spectral[VAR FF00(0000)], il croquait les l\u00E9gumes\\nsombres d\u2019une passion visc\u00E9rale\u202F!\u266A"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Eh ben, moi, j\u2019adore les chansons de ma mamie\u202F!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Tu n\u2019as pas d\u2019autres id\u00E9es de ce qui\\npourrait app\u00E2ter mon fid\u00E8le destrier\u202F?[VAR 0114(0079)]"
+  }
+]

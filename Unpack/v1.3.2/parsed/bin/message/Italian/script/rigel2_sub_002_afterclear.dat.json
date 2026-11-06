@@ -1,0 +1,547 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Ehi, caposquadra!\\nVuoi mostrarmi qualcosa di leggendario?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "S\u00EC!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "No, voglio lottare!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Veramente no..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Preferisci di no...?\\nOk, nessun problema![VAR 0114(0076)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Quale vuoi mostrarmi?[VAR 0114(0076)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mh? Ma non hai nessun Pok\u00E9mon leggendario\\nin squadra!\\c\\nGahahah, non ti preoccupare, capita anche\\nai migliori![VAR 0114(0076)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0101(0001)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0002)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0101(0003)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0101(0004)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0101(0005)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0101(0006)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Ho cambiato idea..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Ma come? Hai cambiato idea?\\nGahahah! Nessun problema, capita![VAR 0114(0076)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Oh! Questo sarebbe Mewtwo, il ferocissimo\\nPok\u00E9mon creato attraverso esperimenti genetici?\\c\\n\u00C8 un po\u2019 pallidino, ma sembra un tipo tranquillo!\\c\\nInsomma, ha l\u2019aria un po\u2019 scontrosa, ma sono\\nsicuro che in fondo \u00E8 un Pok\u00E9mon di buon cuore![VAR 0114(0076)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Oh, guarda chi abbiamo qui...!\\nQuello che si spaccia per Articuno!\\c\\nVedo che ha ancora quella strana maschera.\\nChiss\u00E0 a cosa sta pensando...\\c\\nSono io o ci sta guardando dall\u2019alto in basso...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Oh! Vedo che lo pseudo Articuno si \u00E8 tolto\\nquella strana maschera!\\c\\nSta molto meglio cos\u00EC. Adesso pu\u00F2 affascinare\\ntutti con il suo sguardo deciso!\\c\\nCerto che si \u00E8 fatto freddo, non trovi...?\\nPer caso \u00E8 iniziato a nevicare?[VAR 0114(0076)]"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Oh, guarda chi abbiamo qui...!\\nQuello che si spaccia per Zapdos!\\c\\nVedo che si sta sforzando di apparire appuntito\\ne di rendere il becco affilato!\\c\\nBisogna riconoscere che ce la sta mettendo\\ntutta per dimostrare di essere uno Zapdos\\r\\nin piena regola![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Uooh! Mi sa che questo pseudo Zapdos\\n\u00E8 pieno di elettricit\u00E0 statica!\\c\\nSe lo tocchi rischi di prenderti una bella scossa!\\c\\nCon questo freddo e l\u2019aria secca deve fare\\nproprio male...[VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Oh, guarda chi abbiamo qui...!\\nQuello che si spaccia per Moltres!\\c\\nSembra che emani delle timide fiammate,\\nma non riscalda per niente!\\c\\nPer\u00F2 con quello sguardo stra-minaccioso mi sta\\ntroppo simpatico![VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Uoooh! Ma questo Pok\u00E9mon \u00E8 proprio\\nstra-infuocato!\\c\\nEhi, pseudo Moltres!\\nNon \u00E8 che per caso hai la febbre?\\c\\nMi raccomando, stai al caldo e riposati,\\ncos\u00EC ti rimetti in sesto![VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Quindi questo sarebbe Ho-Oh, Pok\u00E9mon\\nleggendario dalle ali arcobaleno...!\\c\\nVediamo... Rosso, bianco, giallo...\\nMi pare che manchi qualche colore...\\c\\nVabb\u00E8, non voglio disilluderti! Ti credo,\\ncaposquadra![VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Oh! Questo sarebbe Lugia, il Pok\u00E9mon\\nleggendario detto il \u201Cguardiano dei mari\u201D...\\c\\nPensa che \u00E8 anche un Pok\u00E9mon di tipo Volante,\\nquindi pu\u00F2 sia nuotare che volare! Pazzesco, no?!\\c\\nSai, in una regione lontana fanno il Pok\u00E9athlon.\\nSecondo me lui vincerebbe di sicuro![VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Oh! Questo sarebbe Raikou? Si dice che questo\\nPok\u00E9mon sia caduto assieme a un fulmine...\\c\\nDev\u2019essere stata proprio un\u2019esperienza terribile,\\npoverino!\\c\\nNon c\u2019\u00E8 da stupirsi che il pelo sulla sua schiena\\nsi sia tutto arricciato![VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Oh! Questo sarebbe Entei? Si dice che questo\\nPok\u00E9mon sia nato dall\u2019eruzione di un vulcano...\\c\\nNo, questa \u00E8 troppo grossa per crederci!\\nNon sta n\u00E9 in cielo n\u00E9 in terra!\\c\\nAnche perch\u00E9, se fosse cos\u00EC...\\nchi sarebbe il vulcano? Il padre? La madre?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Oooh! Ma che bel Pok\u00E9mon!\\nE cos\u00EC questo sarebbe Suicune!\\c\\nIl suo corno ha come la forma di un anello...\\nMitico! Anzi, stra-mitico!\\c\\nPer\u00F2... con una roba cos\u00EC sulla testa... come fa\\na girarsi mentre dorme?\\c\\nEhi, Suicune! Riesci a dormire senza problemi?[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Groudon, un Pok\u00E9mon che\\nha un profondo legame con le terre emerse...\\c\\nSi dice che dorma in mezzo al magma...\\nSe fosse vero sarebbe stra-fantastico!\\c\\nE lo capirei benissimo, anch\u2019io vado spesso\\na farmi la sauna!\\c\\nScommetto che si sente una meraviglia\\nquando esce dal magma![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Kyogre! Si dice che questo\\nPok\u00E9mon sia il creatore del mare...\\c\\nIl mare \u00E8 l\u2019origine della vita...\\nE Kyogre \u00E8 l\u2019origine del mare...\\c\\nQuindi... Kyogre \u00E8 nostro nonno?!\\c\\nSenti, caposquadra, mi sa che \u00E8 meglio\\nse gli mostriamo un po\u2019 di rispetto![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Rayquaza! Il Pok\u00E9mon che\\nvive nello strato di ozono oltre le nuvole!\\c\\nMa chi glielo fa fare di vivere in un posto\\ncon l\u2019aria cos\u00EC rarefatta? Cos\u2019\u00E8, un atleta?\\r\\nMah, lo sguardo determinato ce l\u2019ha!\\c\\nRayquaza, non so che sport fai, per\u00F2\\nfaccio il tifo per te![VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Oh! E cos\u00EC questo \u00E8 Latias, il Pok\u00E9mon che sa\\ncomunicare telepaticamente con gli umani!\\c\\nPer essere un tipo cos\u00EC straordinario ha proprio\\nun musetto carino!\\c\\nBene! Perch\u00E9 non provi a indovinare a cosa sto\\npensando?\\c\\nAnzi... Meglio di no, fa finta che non ti abbia\\ndetto niente![VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Oh! E cos\u00EC questo \u00E8 Latios, un Pok\u00E9mon cos\u00EC\\nintelligente da capire il linguaggio umano!\\c\\nSe fosse vero sarebbe una cosa stratosferica,\\nma faccio fatica a crederci...\\c\\nComunque, mi risulta che anche tu hai\\nun fratello, vero? Latias.\\r\\nTrattalo bene il tuo fratellino, mi raccomando![VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Oh! Eccolo qua, il nostro piccolo gigante\\ndi Roccia!\\c\\nGahahah, scherzo! In realt\u00E0, delle spalle\\nlarghe come le tue posso solo sognarmele!\\c\\nMi raccomando, continua cos\u00EC![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Oh! Eccolo qua, il nostro piccolo gigante\\ndi Ghiaccio!\\c\\nGahahah, scherzo! Massimo rispetto per\\ndelle braccia massicce come le tue!\\c\\nMi raccomando, continua cos\u00EC![VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Oh! Eccolo qua, il nostro piccolo gigante\\nd\u2019Acciaio!\\c\\nGahahah, scherzo! Con quella forma simile\\na una palla da bowling sei uno schianto!\\c\\nMi raccomando, continua cos\u00EC![VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Dialga, il Pok\u00E9mon capace di\\ncontrollare il tempo!\\c\\nSenti, ma se sei davvero capace di farlo, non \u00E8\\nche potresti farmi tornare indietro a prima che\\r\\nla mia Nia si arrabbiasse con me...?\\c\\nA parte questo, devo dire che hai un ruggito\\nstra-particolare![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Palkia, il Pok\u00E9mon capace\\ndi controllare lo spazio!\\c\\nSe ne fossi davvero capace, mi saresti molto utile\\nper raggiungere la mia Nia in un attimo quando\\r\\nscappa via!\\c\\nA parte questo, devo dire che hai un ruggito\\nstra-particolare![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Giratina, il Pok\u00E9mon che\\nvive in un mondo opposto al nostro!\\c\\nNon ho ben capito... Vuol dire che viene dal lato\\nopposto del pianeta?\\c\\nSe \u00E8 cos\u00EC, devi aver fatto un viaggio bello\\nlungo... Spero che tu non ti sia stancato troppo!\\c\\nPer\u00F2 secondo me non hai problemi a volare\\ncome un razzo... vuuuuuuum!\\r\\nMagari \u00E8 stato facile arrivare fin qua![VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Uxie, il Pok\u00E9mon\\nche detiene la conoscenza...\\c\\nOttimo! Magari gli posso chiedere qualche\\nfavore, visto che non sono proprio una cima!\\c\\nUxie, ti prego, concedimi un po\u2019 della tua\\nsaggezza...\\c\\nOh! Mi pare gi\u00E0 di sentirmi un pochino pi\u00F9\\nintelligente! Gahahah![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Mesprit, il Pok\u00E9mon che\\nha donato le emozioni agli esseri umani!\\c\\nAh, ma quindi \u00E8 colpa sua se mi scaldo sempre\\ncos\u00EC tanto, mi ha dato troppe emozioni!\\c\\nGahahah, sto scherzando!\\c\\nS\u00EC, le mie emozioni sono pi\u00F9 intense del normale,\\nma significa che sto vivendo appieno la mia vita![VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Azelf, il Pok\u00E9mon che\\nd\u00E0 agli esseri umani la forza di volont\u00E0 per\\r\\naffrontare le avversit\u00E0!\\c\\nOh! Ma allora se ci fosse lui con me riuscirei ad\\nalzarmi la mattina quando ho sonno o a sbrigare\\r\\nle faccende di casa quando sono stanco!\\c\\nOgni famiglia dovrebbe avere un Azelf!\\nQuasi quasi provo a catturarne uno anch\u2019io![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Heatran, il Pok\u00E9mon Cratere...\\c\\nGuarda che corpo vigoroso!\\nE che espressione ribelle!\\c\\nNon \u00E8 un Pok\u00E9mon stra-adorabile?!\\c\\nDov\u2019\u00E8 che l\u2019hai catturato?\\nLeggendario o no, ne voglio uno anch\u2019io![VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 per caso... il capo dei giganti\\nleggendari?!\\c\\n\u00C8 cos\u00EC enorme che \u00E8 praticamente il gigante\\nper definizione!\\c\\nSolo che... ha cos\u00EC tanti puntini che non si\\ncapisce quali siano gli occhi!\\c\\nDov\u2019\u00E8 che dovrei guardare quando gli parlo??[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Ma questo \u00E8 Cresselia, l\u2019incarnazione di uno\\nspicchio di luna! Che bel Pok\u00E9mon...\\c\\nPer\u00F2... quell\u2019anello che ha sulla schiena sembra\\ncos\u00EC duro...\\c\\nCome fa a stendersi per dormire? E se deve\\ngirarsi nel sonno? Cos\u00EC mi fa preoccupare...[VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Oh! Ma la coda di questo Pok\u00E9mon \u00E8 in fiamme!!!\\c\\nCome? Come sarebbe a dire che pu\u00F2 rendere\\nil mondo un inferno di fiamme?!\\c\\nCome fai a rimanere cos\u00EC calm[VAR 1100(00FF,0101)]oa portandoti\\ndietro un Pok\u00E9mon talmente pericoloso?!\\r\\nNe hai di coraggio, eh...! Pure troppo!\\c\\nMi raccomando, per\u00F2, attent[VAR 1100(00FF,0101)]oa a non scottarti![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Oh! Ma questo Pok\u00E9mon ha elettricit\u00E0 da\\nvendere... Sprizza scintille da tutti i pori!!!\\c\\nCome? Come sarebbe a dire che pu\u00F2 riempire\\nil mondo di fulmini e saette?!\\c\\nE come fai a rimanere cos\u00EC calm[VAR 1100(00FF,0101)]oa portandoti\\ndietro un Pok\u00E9mon talmente pericoloso?!\\r\\nNe hai di coraggio, eh...! Pure troppo!\\c\\nMi raccomando, sta\u2019 attent[VAR 1100(00FF,0101)]oa a non prendere\\nla scossa![VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Brrrr! Che freddo!\\c\\nAh ecco, mi sembrava che si gelasse!\\nSenza dubbio \u00E8 opera di questo Kyurem!\\c\\nMa guardati! A forza di produrre aria fredda\\nti sei tutto congelato! Che birichino!\\c\\nCerto che il tuo corpo \u00E8 proprio strano... come\\nfosse fatto per attaccarsi a qualcos\u2019altro...\\c\\nAh, scusa! Non volevo offenderti![VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Ehi, fermi tutti! Anche questo sarebbe un\\nPok\u00E9mon leggendario?\\r\\nDi faccia \u00E8 uguale identico al mio vicino di casa!\\c\\nQuindi questo sarebbe Tornadus, il Pok\u00E9mon\\nTurbinio?\\c\\nPu\u00F2 scatenare tempeste che spazzano via le\\ncase... Non credo che il mio vicino riesca a farlo.[VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Ehi, fermi tutti! Anche questo sarebbe un\\nPok\u00E9mon leggendario?\\r\\nDi faccia \u00E8 uguale identico al mio vicino di casa!\\c\\nQuindi... questo sarebbe Thundurus, il Pok\u00E9mon\\nFulminante?\\c\\nNon credo che il mio vicino voli per il cielo\\nscagliando fulmini come lui...[VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ehi, fermi tutti! Anche questo sarebbe un\\nPok\u00E9mon leggendario?\\r\\nDi faccia \u00E8 uguale identico al mio vicino di casa!\\c\\nQuindi... questo sarebbe Landorus, il Pok\u00E9mon\\nFertilit\u00E0?\\c\\nMa \u00E8 un collega del Re dell\u2019abbondanza?\\nDicono che punisca quelli che si comportano\\r\\nmale... Proprio come il mio vicino, insomma![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Xerneas, il Pok\u00E9mon Creazione\\nche pu\u00F2 fare dono dell\u2019immortalit\u00E0!\\c\\nSe fosse vero sarebbe incredibile... per\u00F2 lo sono\\nancora di pi\u00F9 quelle corna!\\c\\nSono stra-portentose! Di sicuro avr\u00E0 problemi\\na girarsi quando dorme...\\c\\nNon so... Varr\u00E0 la pena vivere per sempre se non\\nsi riesce a dormire come si deve?![VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Oh! Ma questo \u00E8 Yveltal, il Pok\u00E9mon Distruzione\\nche pu\u00F2 assorbire l\u2019energia degli esseri viventi!\\c\\nMa non ti vergogni ad andare in giro cos\u00EC, tutto\\nbaldanzoso?!\\c\\nProva a pensare un po\u2019 anche a quei poveretti\\na cui rubi l\u2019energia![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "E cos\u00EC questo sarebbe Zygarde, il Pok\u00E9mon\\ncomposto da tante piccole cellule...\\c\\nCome si dice... Con un mattoncino alla volta\\nsi costruiscono le citt\u00E0... O qualcosa del genere!\\c\\nIo ad esempio sono cos\u00EC in forma alla mia et\u00E0\\nperch\u00E9 mi alleno un po\u2019 ogni giorno!\\c\\nInsomma, io e te ci intendiamo, eh Zygarde?[VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Oh, Solgaleo, il Pok\u00E9mon Solare!\\nSembra proprio un sole!\\c\\nTi immagini che forza, illuminare a giorno anche\\nla notte pi\u00F9 buia?\\c\\nSarebbe stra-utile quando sei in giro e vorresti\\nche non fosse ancora l\u2019ora di tornare a casa!\\c\\nMh? E per giunta viene da un altro mondo?\\nMa \u00E8 pieno di sorprese![VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Oh, Lunala, il Pok\u00E9mon Lunare!\\nSembra proprio una luna!\\c\\nTi immagini che forza, far calare le tenebre\\nanche sulle giornate pi\u00F9 luminose?\\c\\nSarebbe stra-utile quando la mattina vuoi\\ncontinuare a dormire!\\c\\nMh? E per giunta viene da un altro mondo?\\nMa \u00E8 pieno di sorprese![VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Cos\u00EC questo \u00E8 Necrozma, il Pok\u00E9mon Prisma!\\c\\nE perch\u00E9 si chiama cos\u00EC? \u00C8 tutto nero, non ha\\nproprio l\u2019aria di un prisma!\\c\\nCosa?! \u00C8 venuto fin qui da un altro mondo\\nin cerca di luce?\\c\\nMa allora facciamolo uscire subito a prendere\\nun po\u2019 di sole!\\c\\nDi sicuro l\u2019aria aperta gli dar\u00E0 un bel colorito\\nluminoso e sano![VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Oh bene, Nihilego, il Pok\u00E9mon Parassita!\\nWow, sembra cos\u00EC morbido...\\c\\nGi\u00E0 mi immagino che belle dormite mi farei se\\nmi facesse da cuscino!\\c\\nCaposquadra, visto che ti sei pres[VAR 1100(00FF,0101)]oa il mio cuscino\\nstra-comodo, perch\u00E9 non mi presti Nihilego? Eh?[VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Oh bene, Buzzwole, il Pok\u00E9mon Gonfiacorpo!\\nGahahah! Guarda che muscoli strepitosi!\\c\\nPensavo di essere messo abbastanza bene,\\nma con quei muscoli mi batti su tutta la linea!\\c\\nBene! La prossima volta alleniamoci insieme, ok?\\n[VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Oh bene, Pheromosa, il Pok\u00E9mon Leggiadria!\\n\u00C8 proprio stra-elegante!\\c\\nLieto di fare la tua conoscenza...\\nPosso stringerti la mano?\\c\\n...\\c\\nEhi... Perch\u00E9 mi ignora cos\u00EC?\\nHo detto qualcosa che non va?[VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Oh! Xurkitree, il Pok\u00E9mon Luminaria!\\nGuarda l\u00EC che pettinatura punk!\\c\\nLe braccia e le gambe sembrano spine\\nelettriche...\\c\\nMagari se lo inserisco in una presa si illumina!\\nSarei proprio curioso di vedere che effetto fa...\\c\\nPer\u00F2 evito, non vorrei mai che mi arrivasse una\\nbolletta della luce da paura![VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "E questo sarebbe Kartana, il Pok\u00E9mon\\nSpadatratta?\\c\\nCaposquadra, non prendermi in giro!\\nBasta guardarlo per capire che \u00E8 un origami!\\c\\nPer\u00F2... \u00C8 fatto proprio con cura, guarda che\\nattenzione per i dettagli!\\c\\nMi raccomando, sta\u2019 attent[VAR 1100(00FF,0101)]oa che non voli via\\no che non finisca in mezzo alla roba da lavare![VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Ma... MA \u00C8 ENORME!!!\\c\\nOps, scusami! Ho gridato per lo stupore!\\c\\nE cos\u00EC questo \u00E8 Celesteela, il Pok\u00E9mon Decollo!\\c\\nSolca il cielo ad altissima velocit\u00E0 e incenerisce\\ni dintorni emettendo gas dalle braccia?!\\c\\nChe dire... Veramente un Pok\u00E9mon da paura!\\nPer\u00F2 sembra che si sia gi\u00E0 affezionato a te...\\r\\nPiaci ai tipi strani, che ci vuoi fare![VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Ecco qui Guzzlord, il Pok\u00E9mon Divoratutto!\\c\\n... Neanche il tempo di presentarsi ed \u00E8 gi\u00E0\\npartito a divorare quella spazzatura laggi\u00F9!\\c\\nPer\u00F2 che bravo, mangia tutto senza fare storie!\\nUn vero pozzo senza fondo!\\c\\nMagari puoi prestarmelo se devo sbarazzarmi\\ndi roba ingombrante.[VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Oh! Questo \u00E8 Poipole, il Pok\u00E9mon Velenago che\\nviene da un altro mondo?\\c\\nUhm... S\u00EC, ha un viso particolare, ma per il resto\\nsembra uno di quei Pok\u00E9mon che trovi di solito\\r\\nin mezzo all\u2019erba alta...\\c\\nAh!! Ma ha spruzzato del liquido dal pungiglione\\nche ha in cima alla testa!\\r\\nCose dell\u2019altro mondo![VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Oh! Questo \u00E8 Naganadel, il Pok\u00E9mon Velenago\\nche viene da un altro mondo?\\c\\nSembra davvero stra-fortissimo con quel\\npungiglione enorme e appuntito!\\c\\nAspetta, ne ha altri due che gli spuntano ai lati...\\nCome far\u00E0 a dormire?\\r\\nEhi Naganadel, riesci a dormire senza problemi?[VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "Abbiamo qua una creatura misteriosa...\\nIl Pok\u00E9mon Bastione Stakataka!\\c\\n\u00C8 formato da tanti piccoli blocchi messi insieme...\\c\\nSenti... Quei blocchetti sono proprio perfetti per\\nfarne un cuscino, non \u00E8 che me ne daresti uno?\\c\\nNo, eh? Peccato! Per\u00F2 capisco, non dev\u2019essere\\nil massimo rimanere senza un pezzo.\\c\\nUna curiosit\u00E0: quanti blocchi deve perdere\\nper non essere pi\u00F9 uno Stakataka?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Abbiamo qua una creatura misteriosa...\\nIl Pok\u00E9mon Pirotecnico Blacephalon!\\c\\nIl suo modo di ondeggiare \u00E8 davvero buffo!\\nPer\u00F2 non va bene disperarsi cos\u00EC tanto da farsi\\r\\nscoppiare la testa!\\c\\nMagari funziona benissimo per sorprendere la\\ngente, ma dovresti avere pi\u00F9 cura della tua testa![VAR 0114(0076)]"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Oh! Ma questo tipino dalla cresta fenomenale\\n\u00E8 un tuo amico, caposquadra?\\c\\nAh, \u00E8 il Pok\u00E9mon Nume Locale Tapu Koko,\\nprotettore di non so bene quale isola...?\\c\\nUhm... Anche lui sta viaggiando in incognito,\\nallora!\\c\\nMa guarda che con quella pettinatura\\nstra-appariscente ti si riconosce subito!\\c\\nPer\u00F2 potrei farmi la cresta anch\u2019io, quando mi\\nsar\u00F2 stancato di rasarmi i capelli...[VAR 0114(0076)]"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Oh! Ma questo tipino dai riccioli fenomenali\\n\u00E8 un tuo amico, caposquadra?\\c\\nAh, \u00E8 il Pok\u00E9mon Nume Locale Tapu Lele,\\nprotettore di non so bene quale isola...?\\c\\nUhm... Anche lui sta viaggiando in incognito,\\nallora!\\c\\nMa tuo padre non si preoccupa a mandarti\\nin giro da solo, piccolino come sei?\\c\\nMah, suppongo che sia uno di quelli che non\\nvogliono tenere i figli sotto una campana\\r\\ndi vetro.[VAR 0114(0076)]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Oh! Ma questo tipino dalle corna fenomenali\\n\u00E8 un tuo amico, caposquadra?\\c\\nAh, \u00E8 il Pok\u00E9mon Nume Locale Tapu Bulu,\\nprotettore di non so bene quale isola...?\\c\\nUhm... Anche lui sta viaggiando in incognito,\\nallora!\\c\\nGuarda che espressione soddisfatta...\\nNon credo mica che si sia accorto che le corna\\r\\ngli spuntano dal cappello...\\c\\nSarebbe meglio dirglielo, ma ho paura di\\nmancare di tatto.[VAR 0114(0076)]"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Oh! Ma questo tipino dalle ciglia fenomenali\\n\u00E8 un tuo amico, caposquadra?\\c\\nAh, \u00E8 il Pok\u00E9mon Nume Locale Tapu Fini,\\nprotettore di non so bene quale isola...?\\c\\nUhm... Anche lui sta viaggiando in incognito,\\nallora!\\c\\nOh? L\u2019aria si \u00E8 fatta improvvisamente umida...\\nE anche la mia gola sta finalmente meglio!\\c\\nGrazie Tapu Fini! Saresti perfetto anche come\\nprotettore delle gole secche![VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Oh! Eccolo qua, il nostro piccolo gigante\\nElettro!\\c\\nGahahah, scherzo! Sei come una caramellona\\nsfolgorante! Un vero schianto!\\c\\nMi raccomando, continua cos\u00EC![VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Oh! Eccolo qua, il nostro piccolo gigante\\nDrago!\\c\\nGahahah, scherzo! Quella specie di mollettona\\nper il bucato deve avere una presa incredibile!\\c\\nMi raccomando, continua cos\u00EC![VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "Oh! Ecco qui Glastrier, il Pok\u00E9mon Furiequino\\nche fa da destriero al Re dell\u2019abbondanza!\\c\\nNe hai fatta di strada dai tuoi giorni turbolenti,\\neh? Ora sei il fido compagno del re!\\c\\nPer\u00F2... Mi vengono i brividi al solo pensiero\\ndi cavalcarti!\\c\\nLa resistenza al freddo del Re dell\u2019abbondanza\\ndev\u2019essere anch\u2019essa leggendaria![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Oh! Ecco qui Spectrier, il Pok\u00E9mon Sveltequino\\nche fa da destriero al Re dell\u2019abbondanza!\\c\\nNe hai fatta di strada dai tuoi giorni turbolenti,\\neh? Ora sei il fido compagno del re!\\c\\nPer\u00F2... Chiss\u00E0 in che posti terribili mi porteresti\\nse ti cavalcassi!\\c\\nIl coraggio del Re dell\u2019abbondanza\\ndev\u2019essere anch\u2019esso leggendario![VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Oh! Vedo che la testa \u00E8 sempre di proporzioni\\nleggendarie! Gahahah!\\c\\nQuesto \u00E8 il Re dell\u2019abbondanza che governa\\nquesta zona, giusto?\\c\\nCerto che \u00E8 davvero uguale alla statua che\\nc\u2019\u00E8 a Freezedale!\\c\\nAspetta... Ora che la guardo bene, la sua testa\\nha proprio la forma del cuscino dei miei sogni![VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Oh! Ecco Calyrex, il Re dell\u2019abbondanza!\\c\\nIn groppa al suo fido destriero, proprio come\\nlo descrivono le leggende!\\c\\nHo come l\u2019impressione di averlo gi\u00E0 visto,\\nanche prima che lo catturassi...\\r\\nMa non riesco a ricordarmi dove...\\c\\nMh...? Non ti \u00E8 sembrato di sentire qualcuno dire\\n\u201Cgrazie\u201D...? O sono io che sento le voci...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Oh! Vuoi lottare?\\nAllora diamoci dentro, caposquadra![VAR 0114(0076)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Gahahah! Come al solito ci sai fare con i\\nPok\u00E9mon, eh?!\\c\\nNonostante l\u2019esito, Copperajah e gli altri\\nsono stra-contenti di essersi sgranchiti un po\u2019![VAR 0114(0076)]"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Evvai! Ho vinto io!\\c\\nNon c\u2019\u00E8 soddisfazione pi\u00F9 grande che lottare\\ncon i propri Pok\u00E9mon!\\c\\nAnche le avventure sono emozionanti, ma sono\\nuna tale faticaccia...![VAR 0114(0076)]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Andiamo, caposquadra!\\nGuarda che per oggi abbiamo gi\u00E0 dato!\\c\\nFacciamo riposare i nostri Pok\u00E9mon e\\nlottiamo di nuovo domani![VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Mh...?![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Vorresti dirmi che hai catturato il Pok\u00E9mon\\nindicato in questi appunti misteriosi?![VAR 0114(0076)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Fammi vedere un attimo![VAR 0114(0076)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Quindi, insomma... Dammi un po\u2019 quegli\\nappunti![VAR 0114(0076)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Gahahahah! Questi appunti non li ho scritti io,\\nma un simile risultato va festeggiato![VAR 0114(0076)]"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Ehm... Dove hai trovato quegli appunti?!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Dovrebbe chiederlo a Peony..."
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Alla base della squadra di esplorazione..."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Sarebbero miei... come mai li avete voi?"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Gahahah! E chi se lo ricorda![VAR 0114(0076)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Chiss\u00E0..."
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Ad ogni modo, ti ringrazio per averli recuperati!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "E per di pi\u00F9 hai anche catturato Necrozma,\\na causa del quale \u00E8 comparso l\u2019Ultravarco."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Mi farebbe piacere se accettassi questa\\nricompensa per il tuo aiuto."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Gli appunti li puoi tenere, io ne ho una copia."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Solo un[VAR 1100(00FF,0100)]a caposquadra come te avrebbe potuto\\ncatturare un Pok\u00E9mon con l\u2019aiuto di un\u2019unica\\r\\nillustrazione![VAR 0114(0076)]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "E sai cosa? Mi sa che con questo\\nabbiamo proprio finito![VAR 0114(0076)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Ma lo so che scalpiti per vivere nuove avventure\\ne non ti ferma nessuno![VAR 0114(0076)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Non vedo l\u2019ora di scoprire cosa combinerai\\nd\u2019ora in poi, caposquadra![VAR 0114(0076)]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Mmh... Non mi sembra il Pok\u00E9mon di cui parlano\\ngli appunti misteriosi.\\r\\nNon ci resta che continuare a darci da fare![VAR 0114(0076)]"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Assomiglia al Pok\u00E9mon di cui parlano gli appunti\\nmisteriosi, ma ho la vaga sensazione che non sia\\r\\nquello che si trova in questa tana!\\c\\n\u00C8 una faticaccia, lo so! Ma non demordere![VAR 0114(0076)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  }
+]

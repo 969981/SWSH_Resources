@@ -1,0 +1,227 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] wurde ausgew\u00E4hlt.\\nWas nun?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Leihteam [VAR 0200(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Im Team"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u2642"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u2640"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle ein Kampfteam aus."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle ein Kampfteam vom\\npassenden Typ aus."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Team registrieren"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "M\u00F6chtest du das Kampfteam \u201E[VAR 01BF(0000)]\u201C\\nausw\u00E4hlen?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Meldest du ein Kampfteam zu einem Turnier an,\\nist es nicht mehr anderweitig einsetzbar.\\c\\nAuf diese Weise gesperrte Pok\u00E9mon kannst du\\nnicht bewegen oder tauschen. Auch ihre\\r\\ngetragenen Items sind nicht auswechselbar.\\c\\nM\u00F6chtest du [VAR 01BF(0000)] wirklich zu diesem\\nTurnier anmelden?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit mindestens einem\\nPok\u00E9mon in diesem Kampfteam.\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Mindestens eines deiner Pok\u00E9mon beherrscht\\neine oder mehrere unzul\u00E4ssige Attacken.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Die zur Teilnahme erforderliche Anzahl an\\nPok\u00E9mon wurde nicht erreicht.\\c"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Eier sind von der Teilnahme ausgeschlossen.\\c"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Die zur Teilnahme zul\u00E4ssige Anzahl an Pok\u00E9mon\\nwurde \u00FCberschritten.\\c"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Dir fehlt mindestens ein zur Teilnahme\\nerforderliches Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Mindestens eines deiner Pok\u00E9mon beherrscht\\neine oder mehrere unzul\u00E4ssige Attacken.\\c"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Mindestens eines deiner Pok\u00E9mon ist\\nnicht teilnahmeberechtigt.\\c"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Mindestens eines deiner Pok\u00E9mon tr\u00E4gt ein\\nunzul\u00E4ssiges Item.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Mindestens eines deiner Pok\u00E9mon erf\u00FCllt\\ndie Levelanforderungen nicht.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Es darf nur ein Pok\u00E9mon je Art teilnehmen.\\c"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Mindestens zwei deiner Pok\u00E9mon tragen\\ndas gleiche Item.\\c"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Es befinden sich zu viele besondere Pok\u00E9mon\\nin deiner Auswahl.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Die Teilnahmebedingungen wurden nicht erf\u00FCllt.\\c"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Mit diesem Kampfteam gibt es kein Problem.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Du kannst dir ein Team\\nausleihen."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Es kann kein Leihteam eingesetzt werden.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Mindestens eines der Pok\u00E9mon verf\u00FCgt nicht\\n\u00FCber ein Kampfregel-Symbol.\\c"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00DCberpr\u00FCfen"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Es ist kein Kampfteam verf\u00FCgbar.\\nBitte stelle ein Kampfteam zusammen.\\c"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Es ist kein Kampfteam verf\u00FCgbar.\\c\\nBitte registriere Pok\u00E9mon in deinen Boxen,\\num ein Kampfteam erstellen zu k\u00F6nnen.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "PC-Boxen"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Dieses Kampfteam nimmt an einem\\nLokalen Turnier teil.\\c\\nSolange dies der Fall ist, kann es nicht\\nanderweitig eingesetzt werden.\\c"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Dieses Kampfteam nimmt an einem\\noffiziellen Turnier teil.\\c\\nSolange dies der Fall ist, kann es nicht\\nanderweitig eingesetzt werden.\\c"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Dieses Kampfteam nimmt an einem\\nFreundesturnier teil.\\c\\nSolange dies der Fall ist, kann es nicht\\nanderweitig eingesetzt werden.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "M\u00F6chtest du das Kampfteam \u201E[VAR 01BF(0000)]\u201C\\nregistrieren?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Kein Team vorhanden"
+  }
+]

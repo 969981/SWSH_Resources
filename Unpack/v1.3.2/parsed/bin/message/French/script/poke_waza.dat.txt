@@ -1,0 +1,30 @@
+Euh... Mais qu’est-ce que je fais là, moi ?\n...\c\n... Ah, mais bien sûr !\nJe suis l’Effaceur de Capacités !\c\nJe suis capable de faire oublier des capacités\naux Pokémon, figure-toi.
+Tu viens me voir pour que j’aide tes Pokémon\nà oublier des capacités ?
+À quel Pokémon veux-tu que je fasse oublier\nune capacité ?
+Souviens-toi de moi si tu as quelques capacités\nà faire oublier.
+Ton Pokémon ne connaît qu’une capacité,\nil ne peut pas l’oublier...
+Oh ! Mais c’est un Œuf ! Les Œufs ne connaissent\naucune capacité.
+D’accord, très bien.\nQuelle capacité doit être oubliée ?
+Hu hu hu ! Ça a parfaitement fonctionné !\c\nTon Pokémon a totalement oublié la capacité\n[VAR 0107(0000)].
+On m’appelle Anamnésia !\c\nJe connais toutes les capacités que les Pokémon\napprennent en grandissant.\c\nS’ils en ont oublié une, je peux la leur rappeler\nen échange d’une Écaille Cœur.
+Veux-tu qu’un de tes Pokémon se souvienne\nd’une capacité ?
+Si tu veux qu’un de tes Pokémon se souvienne\nd’une capacité, reviens avec une [VAR 0109(0000)] !
+Quel Pokémon ?
+Hum. C’est un Œuf, ça, tu sais ?
+Désolée, mais il n’y a aucune capacité\ndont il puisse se souvenir...
+De quelle capacité veux-tu qu’il se souvienne ?
+Vous avez donné une [VAR 0109(0000)]\nà Anamnésia pour la remercier.
+Il s’est souvenu de cette capacité !\nReviens me voir si tu as besoin de moi.
+OK, ne dites rien, j’ai tout compris ! Vous avez\nenvie que j’enseigne Électacle à Pikachu ?
+Si vous venez me voir avec un Pikachu, je lui\nenseignerai Électacle sans aucun problème !
+C’est votre choix, mais sachez que la Pikazélite\npermet de changer Électacle en capacité Z !
+À quel Pikachu dois-je enseigner cette capacité ?
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+Un Pikachu qui utilise la Force Z est un Pikachu\nheureux !
+Choisissez une capacité à oublier pour faire\nplace à [VAR 0107(0000)].
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]
+[VAR 0102(0000)] n’a pas appris\n[VAR 0107(0001)].

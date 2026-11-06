@@ -1,0 +1,107 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Souhaitez-vous \u00E9couter les consignes de s\u00E9curit\u00E9\\nrelatives aux exp\u00E9ditions Dynamax\u202F?"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Oh, allez\u202F! Fais pas t[VAR 1100(00FF,0102)]ona rabat-joie\u202F!\\nJe compte sur toi, moi\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Ne faites pas attention \u00E0 lui...\\nRevenez me voir lorsque vous serez pr\u00EAt[VAR 1100(00FF,0100)]e\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Voil\u00E0 ce que je voulais entendre\u202F!\\nT\u2019inqui\u00E8te, je te revaudrai \u00E7a\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "... Tr\u00E8s bien.\\nDans ce cas, je vais vous expliquer."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Le Grand Antre Dynamax est un labyrinthe\\nsouterrain qui abrite des Pok\u00E9mon rares,\\r\\nnormalement impossibles \u00E0 croiser \u00E0 Galar."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "L\u2019exposition aux Galarions risque de faire\\nperdre tout contr\u00F4le \u00E0 vos Pok\u00E9mon."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "C\u2019est pourquoi nous demandons \u00E0 tout le monde\\nd\u2019emprunter un de nos Pok\u00E9mon avant d\u2019entrer.\\c\\nCeux-ci ont re\u00E7u un entra\u00EEnement sp\u00E9cial qui leur\\npermet de r\u00E9sister aux effets des Galarions."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Hum... Ah, d\u2019accord\u202F! Donc si je perds tout\\ncontr\u00F4le, je serai fort comme quatre personnes,\\r\\net donc on pourra emprunter des Pok\u00E9mon rares\\r\\nsans avoir besoin de r\u00E9sister aux Galarions\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Vous n\u2019y \u00EAtes pas du tout..."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "\u00C9coutez, cet endroit n\u2019est pas sans risques.\\nVous devez m\u00E9moriser les consignes de s\u00E9curit\u00E9."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Pfff, j\u2019y comprends rien \u00E0 vos histoires...\\nFaut \u00EAtre un intello pour rentrer, ou quoi\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Bon, vous savez quoi\u202F? Je m\u2019en fiche, j\u2019y vais\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "J\u2019arriiive, ma petite Pivoniaaa\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Non, attendez\u202F! N\u2019y allez pas, c\u2019est dangereux\u202F!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Quel \u00E9nergum\u00E8ne, celui-l\u00E0...\\c\\nIl a beau ressembler au pr\u00E9sident Shehroz,\\nau niveau du caract\u00E8re, c\u2019est le jour et la nuit..."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Si vous avez le courage d\u2019aller le chercher...\\c\\nOu si l\u2019exp\u00E9dition Dynamax vous int\u00E9resse,\\ntout simplement, faites-moi signe."
+  }
+]

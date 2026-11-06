@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00BFQuieres devolver [VAR 1700(0001,0000)][VAR 0109(0001)]?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Zacian, Zamazenta!\\n\u00A1Muchas gracias por vuestra ayuda![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Hemos tardado un poco m\u00E1s de la cuenta, pero\\naqu\u00ED ten\u00E9is vuestras preciadas reliquias.[VAR 0114(0005)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Paul y t\u00FA hab\u00E9is devuelto la Espada Oxidada y\\nel Escudo Oxidado a su sitio."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "En fin, \u00BFnos volvemos a casa, [VAR 0100(0000)]?[VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 vas a hacer t\u00FA, Sonia?[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Creo que voy a quedarme un rato m\u00E1s en el\\nbosque, a\u00FAn quiero investigar un par de cos...[VAR 0114(000B)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFEh? El buscanodos est\u00E1 reaccionando...[VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Vaya, vaya... Al fin damos con la fuente de esos\\ninfames berridos...[VAR 0114(0042)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1Vaya, vaya, vaya!\\c\\n\u00BFPuede ser que tengamos ante nosotros a la\\nmism\u00EDsima Profesora Sonia, autora de \u0022Historia\\r\\nde Galar\u0022?[VAR 0114(0042)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Eh... la misma, s\u00ED. \u00BFAcaso hab\u00E9is comprado mi\\nlibro?[VAR 0114(000B)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00A1En efecto! Nos lo hemos le\u00EDdo de principio a fin.[VAR 0114(0042)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Pues s\u00ED! Y hasta hemos publicado una extensa\\ncr\u00EDtica en internet.[VAR 0114(0042)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Ese espantoso libro colmado de falacias\\ninventadas no merec\u00EDa m\u00E1s que una estrella.[VAR 0114(006A)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00A1\u00BFPerd\u00F3n?! \u00A1Yo jam\u00E1s escribir\u00EDa mentiras![VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00BFPero de qu\u00E9 vais? Hay que ser maleducados...[VAR 0114(0005)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1Me llamo Tizonio![VAR 0114(0068)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1Y yo, Dargo![VAR 0114(0069)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Por nuestras venas corre la sangre de la familia\\nreal de Galar.[VAR 0114(0068)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1Somos famosos en toda la regi\u00F3n![VAR 0114(0069)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFFamilia real? A vosotros se os ha ido la pinza.[VAR 0114(0005)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00BFDe d\u00F3nde hab\u00E9is salido, exactamente?[VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Vaya, vaya... \u00A1Pero qu\u00E9 ven mis ojos! \u00BFNo son\\nestos la espada y el escudo de la leyenda?[VAR 0114(0068)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1Pero est\u00E1n sucios y mugrientos! No pueden ser\\nlos aut\u00E9nticos. Me da repel\u00FAs solo de imaginar\\r\\ntocarlos con mis bellas manos.[VAR 0114(0069)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1Tizonio ha cogido la Espada Oxidada!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1Dargo ha cogido el Escudo Oxidado!"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Eh, \u00A1soltad eso ahora mismo! \u00A1Acabamos de\\ndevolverlos a su sitio![VAR 0114(0005)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Chit\u00F3n, ni\u00F1o. Tan solo hemos recogido chatarra\\nque estaba tirada en medio del bosque.[VAR 0114(0068)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Efectivamente. Si tienes alguna queja, ser\u00E1 mejor\\nque tengas alguna prueba irrefutable de que esta\\r\\nbasura no nos pertenece.[VAR 0114(0069)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Pero eso... \u00A1eso es imposible!\\c\\nSon muy importantes para Zacian y Zamazenta,\\n\u00A1devolvedlos ahora mismo![VAR 0114(0005)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Oy, oy, oy... Qu\u00E9 impertinente es la plebe...\\c\\nVamos a tener que ense\u00F1aros a respetar a la\\nrealeza mediante un combatito.[VAR 0114(0068)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Os vamos a dar tal lecci\u00F3n que el examen ser\u00E1\\ndoble.[VAR 0114(0069)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u00BFY eso significa...?[VAR 0114(000B)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u00A1Yo, el gran Tizonio, te conceder\u00E9 el honor de\\nser tu oponente![VAR 0114(0068)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u00A1Yo, el gran Dargo, te conceder\u00E9 el honor de\\nser tu oponente![VAR 0114(0069)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00A1Has recuperado [VAR 1700(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00A1Menudo desprop\u00F3sito! \u00A1Debilitar a mis adorables\\ncompa\u00F1eros de paseo!\\c\\nEres bastante fuerte, eso no te lo negar\u00E9.[VAR 0114(0068)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00A1Menudo desprop\u00F3sito! \u00A1Debilitar a mis adorables\\ncompa\u00F1eros de paseo!\\c\\nEres bastante fuerte, eso no te lo negar\u00E9.[VAR 0114(0069)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Pero parece que tu amiguito no ha tenido tanta\\nsuerte.[VAR 0114(0068)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Pero parece que tu amiguito no ha tenido tanta\\nsuerte.[VAR 0114(0069)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Perdona, [VAR 0100(0000)], te he fallado...[VAR 0114(0005)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "\u00A1Mua, ja, ja! \u00BFQu\u00E9 te carcome por dentro, joven?\\c\\nMe ha parecido que ten\u00EDas la mente en otro sitio\\ndurante nuestro encuentro.[VAR 0114(0069)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1Mua, ja, ja! \u00BFQu\u00E9 te carcome por dentro, joven?\\c\\nMe ha parecido que ten\u00EDas la mente en otro sitio\\ndurante nuestro encuentro.[VAR 0114(0068)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "...[VAR 0114(0005)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u00A1Un momento, hermano! \u00BFNo es est[VAR 1100(00FF,0101)]ea [VAR 1100(00FF,0808)]el chicola chica que\\ndetuvo a Eternatus?[VAR 0114(0069)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00A1Un momento, hermano! \u00BFNo es est[VAR 1100(00FF,0101)]ea [VAR 1100(00FF,0808)]el chicola chica que\\ndetuvo a Eternatus?[VAR 0114(0068)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Vaya, vaya... Ahora que lo dices, tienes raz\u00F3n...\\c\\n\u00A1Est[VAR 1100(00FF,0101)]ea de aqu\u00ED no es m\u00E1s que un[VAR 1100(00FF,0100)]a usurpador[VAR 1100(00FF,0100)]a de\\nla que deber\u00EDa haber sido nuestra gloria![VAR 0114(0068)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Vaya, vaya... Ahora que lo dices, tienes raz\u00F3n...\\c\\n\u00A1Est[VAR 1100(00FF,0101)]ea de aqu\u00ED no es m\u00E1s que un[VAR 1100(00FF,0100)]a usurpador[VAR 1100(00FF,0100)]a de\\nla que deber\u00EDa haber sido nuestra gloria![VAR 0114(0069)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Y seg\u00FAn tengo entendido...\\c\\nTambi\u00E9n se hallaba presente cuando el hermoso\\nmural que nuestros antepasados pintaron con sus\\r\\npropias manos se vino abajo.[VAR 0114(0069)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Y seg\u00FAn tengo entendido...\\c\\nTambi\u00E9n se hallaba presente cuando el hermoso\\nmural que nuestros antepasados pintaron con sus\\r\\npropias manos se vino abajo.[VAR 0114(0068)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00A1Menud[VAR 1100(00FF,0101)]oa canalla! \u00A1C\u00F3mo osas destruir el valioso\\nlegado del que nuestra cuna se ha vanagloriado\\r\\ndurante generaciones![VAR 0114(0068)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1Menud[VAR 1100(00FF,0101)]oa canalla! \u00A1C\u00F3mo osas destruir el valioso\\nlegado del que nuestra cuna se ha vanagloriado\\r\\ndurante generaciones![VAR 0114(0069)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00BFMural? \u00BFTe refieres a esos garabatos que\\nescond\u00EDan las estatuas de Zacian y Zamazenta?\\c\\n\u00A1Adem\u00E1s! \u00A1Su derrumbamiento no fue cosa de\\n[VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Minucias, minucias... Ha llegado la hora de\\nnuestra retirada.\\c\\nLa pr\u00F3xima vez que nos veamos tendremos\\nPok\u00E9mon m\u00E1s fuertes y sufrir\u00E9is una derrota\\r\\napote\u00F3sica. \u00A1Perdedores![VAR 0114(0069)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Minucias, minucias... Ha llegado la hora de\\nnuestra retirada.\\c\\nLa pr\u00F3xima vez que nos veamos tendremos\\nPok\u00E9mon m\u00E1s fuertes y sufrir\u00E9is una derrota\\r\\napote\u00F3sica. \u00A1Perdedores![VAR 0114(0068)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1No podr\u00EDa haberlo dicho mejor![VAR 0114(0068)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "\u00A1Muy bien dicho![VAR 0114(0069)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "A m\u00E1s ver, querida audiencia.\\n\u00A1Hasta que os honremos con nuestra presencia![VAR 0114(006A)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u00A1No, esperad!\\n\u00A1\u00A1Devolvednos [VAR 1700(0001,0000)][VAR 0109(0001)]!![VAR 0114(0005)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u00A1Paul! \u00A1Espera![VAR 0114(000B)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u00A1Este muchacho no tiene remedio! Mira que salir\\ndetr\u00E1s de ellos de esa forma...[VAR 0114(000B)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Menos mal que t\u00FA sabes mantener la\\ncompostura, [VAR 0100(0000)].[VAR 0114(000B)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "A\u00FAn no me creo que Paul haya perdido contra\\nese tipo...\\c\\nParec\u00EDa estar algo distra\u00EDdo... \u00BFQuiz\u00E1s ha sido\\npor eso?[VAR 0114(000B)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Me pregunto si estar\u00E1 un poco de baj\u00F3n por\\nhaberse quedado sin una meta, ahora que t\u00FA\\r\\nte has convertido en [VAR 1100(00FF,1110)]el nuevo Campe\u00F3nla nueva Campeona...[VAR 0114(000B)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1En fin! Creo que me hago una idea sobre d\u00F3nde\\nhan podido meterse esos tipos tan extra\u00F1os...\\r\\n\u00BFTizonio y Dargo, era?[VAR 0114(000B)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "\u00BFTe parece bien que vayamos al Laboratorio\\nPok\u00E9mon de Pueblo Par para hablarlo tranquil[VAR 1100(00FF,0101)]oas?[VAR 0114(000B)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00A1Claro!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00BFY qu\u00E9 hay de Paul?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Ni hac\u00EDa falta que te lo dijese, \u00BFverdad?\\nGracias.[VAR 0114(000B)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Te entiendo... Te sientes responsable de \u00E9l, \u00BFno?\\nIntenta encontrarlo y luego ven a verme, \u00BFvale?[VAR 0114(000B)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Me vuelvo ya al laboratorio, \u00A1hasta luego![VAR 0114(000B)]"
+  }
+]

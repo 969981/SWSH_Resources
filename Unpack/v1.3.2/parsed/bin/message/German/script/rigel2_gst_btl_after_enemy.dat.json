@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Verflixt! Gleich in der ersten Runde abserviert...\\nHabt ihr etwa Hypnose eingesetzt...?[VAR 0114(0072)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hmpf. Ein Finale ohne mich ist so fad wie ein\\nCurry ohne Gew\u00FCrze![VAR 0114(0072)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Auf dem Weg zur Spitze wurden wir eiskalt\\nabgesch\u00FCttelt... Ich ziehe meinen Hut vor euch.[VAR 0114(0072)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Das lief ja mal so gar nicht nach Plan...\\nWie \u00E4tzend.[VAR 0114(0071)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Finale... Hach, ich bin so neidisch.\\nDas Wort allein klingt schon so toll!\\c\\nSagt mal, was haltet ihr davon, euer Duo mit mir\\nzum Trio zu machen? Nichts? Och, menno...[VAR 0114(0071)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Na ja, Platz 2 ist besser als gar nichts.\\nIch f\u00FCr meinen Teil bin zufrieden![VAR 0114(0071)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "F\u00FCr jemanden, der sich Meister nennt,\\nist das ein erb\u00E4rmliches Ergebnis...[VAR 0114(0073)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Puh, vor eurer St\u00E4rke muss ich den Hut ziehen!\\nViel Erfolg im Finale![VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Das war ein famoser Kampf! Ihr seid wirklich\\neinsame Spitzenklasse. Meinen Gl\u00FCckwunsch![VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Es war halt echt Riesenpech, gleich in Runde 1\\ngegen dich ranzum\u00FCssen, [VAR 1100(00FF,1311,0000)]ExpeditionsleiterExpeditionsleiterin![VAR 0114(0076)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Nice! Das war ein krasser Kampf, tahahaha!\\nZeigt den Gegnern im Finale, was \u2019ne Harke ist![VAR 0114(0076)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Mensch, ging mir in dem Finale vielleicht\\ndie Pumpe! Herzlichen Gl\u00FCckwunsch![VAR 0114(0076)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Gleich in Runde 1 rauszufliegen, ist nat\u00FCrlich\\nsehr bitter...\\c\\nAber wenigstens kommen die Zuschauer bei\\nsolch aufregenden K\u00E4mpfen auf ihre Kosten![VAR 0114(0004)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Wir waren mit Herz und Seele am K\u00E4mpfen, doch\\nan euch haben wir uns die Z\u00E4hne ausgebissen...\\c\\nStellt euer K\u00F6nnen im Finale noch einmal\\nso eindrucksvoll unter Beweis![VAR 0114(0004)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Was f\u00FCr ein fabelhafter Kampf! Der h\u00E4tte auch\\ndem Champ-Cup alle Ehre gemacht.\\c\\nIch bin echt froh, das Galar-Star-Turnier\\norganisiert zu haben! Danke f\u00FCrs Teilnehmen![VAR 0114(0004)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Ich h\u00E4tte nie gedacht, dass wir schon in Runde 1\\nbesiegt werden w\u00FCrden...\\c\\nDas Publikum reibt sich bestimmt auch\\nganz ungl\u00E4ubig die Augen.[VAR 0114(000C)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Ihr habt uns mit links aus dem Weg ger\u00E4umt,\\nalso gewinnt jetzt gef\u00E4lligst auch das Finale![VAR 0114(000C)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Hmpf. Das Team des Champs durfte einfach nicht\\nbaden gehen, deshalb lag es auf der Hand,\\r\\ndass ich euch den Sieg \u00FCberlassen w\u00FCrde.[VAR 0114(000C)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Menno, ich h\u00E4tte gerne noch weitergek\u00E4mpft,\\naber diesmal wart ihr besser, [VAR 0100(0000)].\\r\\nNur dieses eine Mal![VAR 0114(000D)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Seht zu, dass ihr auch den letzten Sieg einholt.\\nNicht nur f\u00FCr euch, sondern auch f\u00FCr uns![VAR 0114(000D)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wir haben unser Bestes gegeben! Da f\u00FChlt sich\\neine Niederlage nur halb so schlimm an.\\r\\nGl\u00FCckwunsch zum Sieg![VAR 0114(000D)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Gegen euch war kein Kraut gewachsen...\\nGebt auch in der n\u00E4chsten Runde alles![VAR 0114(000E)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Wir werden euch von den Zuschauerr\u00E4ngen\\naus zujubeln, [VAR 0100(0000)]![VAR 0114(000E)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Wir hatten nicht den Hauch einer Chance...\\nTja, da kann man nur gratulieren![VAR 0114(000E)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Da wurde uns das Wasser abgedreht, ehe wir\\neuch fluten konnten... Hut ab, Champ![VAR 0114(000F)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Euer Teamwork war einsame Spitze!\\nDa kann man glatt neidisch werden...[VAR 0114(000F)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Das war ein Finale wie aus dem Bilderbuch!\\c\\nLos jetzt, gebt dem Publikum, was es verlangt![VAR 0114(000F)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Der Kummer \u00FCber die Niederlage wird uns dazu\\nantreiben, in Zukunft noch mehr zu geben!\\c\\nIch hoffe, es gibt recht bald eine Neuauflage\\nunseres Kr\u00E4ftemessens![VAR 0114(0010)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Wir geben euch unsere W\u00FCnsche und\\nHoffnungen mit auf den Weg ins Finale![VAR 0114(0010)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Das war ein hei\u00DFer Kampf, wie er sich\\nf\u00FCr so ein Finale geh\u00F6rt!\\c\\nMeinen Gl\u00FCckwunsch, ihr zwei![VAR 0114(0010)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Und so endet f\u00FCr mich das Turnier,\\nehe es richtig begonnen hat...\\c\\nDaf\u00FCr muss ich mir nachher bestimmt einiges\\nvon Mary anh\u00F6ren...[VAR 0114(0016)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Keine Sorge, ich werde nicht behaupten,\\ndass ihr nur dank Dynamax gewonnen habt.\\r\\nIhr wart schlicht und einfach besser, Punkt![VAR 0114(0016)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Ja, so und nicht anders muss ein echter Champ\\nauftreten.\\c\\nAlso los, die Zuschauer warten schon auf euch![VAR 0114(0016)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Selbst nach einer Niederlage l\u00E4chele ich immer\\nwie ein Weltmeister, aber gleich in Runde 1\\r\\nrauszufliegen, ist schon ziemlich uncool...\\c\\nEgal, ein Selfie hebt die Stimmung! Auch wenn\\nmir langsam der Speicherplatz ausgeht...[VAR 0114(0017)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Ihr habt den gro\u00DFartigen Roy besiegt! Jetzt m\u00FCsst\\nihr aber auch das Turnier gewinnen, klar?![VAR 0114(0017)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Das war ein genialer Kampf!\\c\\nDieses eine Mal \u00FCberlasse ich euch den Platz\\nim Rampenlicht![VAR 0114(0017)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Ich bin schon ziemlich entt\u00E4uscht, werde jetzt\\naber nicht Tr\u00FCbsal blasen.\\c\\nViel Gl\u00FCck f\u00FCr euren n\u00E4chsten Kampf![VAR 0114(0011)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Wir dr\u00FCcken euch die Daumen f\u00FCr das\\ngro\u00DFe Finale![VAR 0114(0011)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Euer Teamwork war fantastisch.\\nHerzlichen Gl\u00FCckwunsch![VAR 0114(0011)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Dieses neue Turnier hat es echt in sich!\\nMan wei\u00DF nie, was als N\u00E4chstes kommt![VAR 0114(0014)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Dabei war doch das Finale unser Mindestziel...\\c\\nAber mit euch konnten wir einfach nicht\\nSchritt halten.[VAR 0114(0014)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Dabei sah es schon so aus, als h\u00E4tten wir\\nden Sieg in trockenen T\u00FCchern...\\c\\nIhr k\u00F6nnt m\u00E4chtig stolz darauf sein,\\ngegen uns gewonnen zu haben![VAR 0114(0014)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "I-Ihr wart zu stark...\\nDen n\u00E4chsten Kampf gewinnt ihr sicher auch...![VAR 0114(0012)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Das Finale wird ein Klacks f\u00FCr euch,\\n[VAR 0100(0000)]...[VAR 0114(0012)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Ich bin froh, dass wir gegen euch\\nk\u00E4mpfen durften...\\c\\nD-Das war ein beeindruckender Sieg...[VAR 0114(0012)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Meine G\u00FCte, ihr habt\u2019s echt drauf!\\nDas nenne ich mal ein perfektes Gespann![VAR 0114(0015)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Euer Teamwork ist einfach fabelhaft!\\nNur weiter so, dann gewinnt ihr auch das Finale![VAR 0114(0015)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Wenn ich ehrlich bin, h\u00E4tte ich meinem Sohn ja\\ngerne ein Foto von mir in Siegespose gezeigt...\\c\\nAber euch beiden g\u00F6nne ich den Erfolg von\\nganzem Herzen![VAR 0114(0015)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Oha! Oha? Nicht weniger habe ich von dir und\\ndeiner Begleitung erwartet, [VAR 0100(0000)].\\c\\nEine wahrhaft k\u00F6nigliche Vorstellung! Nur weiter\\nso, erklimmt den Gipfel mit royalem Prunk![VAR 0114(0068)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Welch erquickliche St\u00E4rke!\\c\\nIch kann euch f\u00FCr den hochverdienten Sieg nur\\nmeinen allertiefsten Respekt zollen!\\c\\nKeine Sekunde zweifle ich daran, dass ihr auch\\ndie letzte H\u00FCrde meistern werdet![VAR 0114(0068)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Der abschlie\u00DFende Sieg geb\u00FChrt dem Gespann,\\ndas sich als w\u00FCrdig erwiesen hat.\\c\\nUnd das waren nicht wir, sondern ihr!\\nDa sind sich alle hier im Stadion einig![VAR 0114(0068)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Oha! Oha? Da habt ihr einen vortrefflichen\\nStart hingelegt, mein Kompliment!\\c\\nSeid so gut und setzt eure Siegesserie in \u00E4hnlich\\nnobler Weise fort, wie es mein Bruder tun w\u00FCrde![VAR 0114(0069)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Nun m\u00FCsst ihr an unserer Stelle dem Finale\\nden n\u00F6tigen VIP-Glanz verleihen.\\c\\nZeigt den B\u00FCrgern von Galar, wozu ihr f\u00E4hig seid![VAR 0114(0069)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Auf dieser ruhmreichen B\u00FChne in Glanz und\\nGloria gegen euch die Segel zu streichen,\\r\\nerf\u00FCllt mein Herz mit berechtigtem Stolz.\\c\\nWohlan, marschiert mit stolzgeschwellter\\nBrust eurem Triumph entgegen![VAR 0114(0069)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Du bist der Hammer, [VAR 0100(0000)]!\\c\\nDu entlockst nicht nur deinen Pok\u00E9mon ihre\\nbesondere St\u00E4rke, sondern auch deinem Partner![VAR 0114(0005)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Na ja, eine Niederlage im Finale w\u00E4r mir\\nirgendwie schon lieber gewesen...\\r\\nAber was soll\u2019s.\\c\\nN\u00E4chstes Mal werden die Karten neu gemischt!\\nGewinn deinen letzten Kampf auch f\u00FCr mich![VAR 0114(0005)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Gl\u00FCckwunsch zum Sieg, [VAR 0100(0000)]!\\c\\nMomentan \u00FCberwiegt bei mir zwar noch etwas\\ndie Entt\u00E4uschung, aber ich freue mich f\u00FCr dich![VAR 0114(0005)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Da habt ihr mich und mein Team ziemlich\\nalt aussehen lassen...\\c\\nWehe, wenn ihr jetzt im n\u00E4chsten Kampf\\nden K\u00FCrzeren zieht![VAR 0114(0013)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Offenbar waren wir kein allzu gro\u00DFes Hindernis\\nf\u00FCr euch... Na, sei\u2019s drum!\\c\\nIch werde es mir mit einem T\u00E4sschen Tee auf den\\nZuschauerr\u00E4ngen bequem machen und euch\\r\\nvon dort anfeuern.[VAR 0114(0013)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Gl\u00FCckwunsch! Es gibt kaum eine bessere B\u00FChne\\nf\u00FCr junge Talente wie dich, um ihr K\u00F6nnen zum\\r\\nBesten zu geben.[VAR 0114(0013)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Ihr seid echt ein tolles Duo, [VAR 0100(0000)]!\\c\\nIch glaube fest daran, dass ihr alles erreichen\\nk\u00F6nnt, was ihr euch vorgenommen habt![VAR 0114(0074)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Hach, Scheibenkleister!\\c\\nVergiss nicht, die Werbetrommel f\u00FCr das Dojo zu\\nr\u00FChren, wenn ihr gewinnt, [VAR 0100(0000)], ja?[VAR 0114(0074)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Herzlichen Gl\u00FCckwunsch, [VAR 0100(0000)]!\\c\\nHoffentlich war der Kampf gut genug, um etwas\\nWerbung f\u00FCr unser Dojo zu machen![VAR 0114(0074)]"
+  }
+]

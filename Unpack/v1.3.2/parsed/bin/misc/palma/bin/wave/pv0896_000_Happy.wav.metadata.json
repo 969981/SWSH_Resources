@@ -1,0 +1,17 @@
+{
+  "riff": "RIFF",
+  "wave": "WAVE",
+  "fileBytes": 22606,
+  "chunks": [
+    {
+      "name": "fmt ",
+      "bytes": 50,
+      "offset": 20
+    },
+    {
+      "name": "data",
+      "bytes": 22528,
+      "offset": 78
+    }
+  ]
+}

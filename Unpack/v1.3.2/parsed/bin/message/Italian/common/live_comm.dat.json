@@ -1,0 +1,1732 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 2,
+    "flags": 8,
+    "text": "Scambio completato!"
+  },
+  {
+    "index": 3,
+    "flags": 8,
+    "text": "Scambi in link"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Lotte in link"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Profilo"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Aggiorna sticker"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0105(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Richieste"
+  },
+  {
+    "index": 15,
+    "flags": 8,
+    "text": "Scambi"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Lotte"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Raid Dynamax"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Varie"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": " Esci"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": " Cuore"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": " Internet"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": " Blocca utente"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 8,
+    "text": "Stai gi\u00E0 cercando un giocatore!\\c\\nNon \u00E8 possibile avviare nuove ricerche\\nse ce n\u2019\u00E8 gi\u00E0 una in corso.\\c"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Vuoi interrompere la ricerca in corso?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Verr\u00E0 stabilito il collegamento a Internet.\\nIl gioco verr\u00E0 salvato. Vuoi continuare?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Connessione in corso.\\nAttendi..."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Collegamento a Internet riuscito.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Salvataggio dei dati in corso.\\nAttendi..."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Collegamento a Internet stabilito.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Il collegamento a Internet verr\u00E0 interrotto.\\nVuoi continuare?"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Comunicazione locale attivata.\\c"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Interruzione del collegamento in corso.\\nAttendi..."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Partecipa"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Inizia lo scambio"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Inizia la lotta"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Dai un cuore"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Guarda la card"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Non hai ancora ricevuto sticker.\\nVedrai una notifica quando ne arriver\u00E0 uno!"
+  },
+  {
+    "index": 52,
+    "flags": 8,
+    "text": "Scegli il tipo di sticker che ti interessa."
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Amici"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Richieste"
+  },
+  {
+    "index": 55,
+    "flags": 8,
+    "text": "Scambi"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Lotte"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Raid Dynamax"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Varie"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Togli filtro"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Non sono stati trovati sticker che corrispondono\\nalla tua ricerca.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Per partecipare a questo Raid Dynamax\\n\u00E8 necessaria una password.\\c\\nVuoi continuare?"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[~ 82]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": " Password"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": " Inizia"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": " Resetta"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[~ 90]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[~ 91]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[~ 92]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[~ 93]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[~ 94]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[~ 95]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[~ 96]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[~ 97]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[~ 98]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Vuoi salvare il gioco e avviare uno scambio\\nmagico?"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Lotta in link"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Regole della lotta"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Lotta in Singolo"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Lotta in Doppio"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Lotta Multipla"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Password"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[VAR 0203(0000,0000)] [VAR 0203(0001,0000)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Resetta"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Inizia la lotta"
+  },
+  {
+    "index": 126,
+    "flags": 8,
+    "text": "Scegli con quali regole lottare."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": " Password"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": " Inizia"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": " Resetta"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Lotta in Singolo"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Lotta in Doppio"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Lotta Multipla"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 136,
+    "flags": 4,
+    "text": "In questo tipo di lotta due Allenatori si sfidano\\nmandando in campo un Pok\u00E9mon ciascuno."
+  },
+  {
+    "index": 137,
+    "flags": 4,
+    "text": "In questo tipo di lotta due Allenatori si sfidano\\nmandando in campo due Pok\u00E9mon ciascuno."
+  },
+  {
+    "index": 138,
+    "flags": 4,
+    "text": "In questo tipo di lotta quattro Allenatori si\\ndividono in due squadre da due e si sfidano\\nmandando in campo un Pok\u00E9mon ciascuno."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Continua senza impostare le regole della lotta."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Se imposti una password, potrai usare le\\nfunzioni di comunicazione solo con i giocatori\\r\\nche usano la stessa password.\\c"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "[~ 141]"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "[~ 142]"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[~ 143]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Password"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "[VAR 0203(0000,0000)] [VAR 0203(0001,0000)]"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "[~ 146]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "[~ 147]"
+  },
+  {
+    "index": 148,
+    "flags": 8,
+    "text": "Scegli un\u2019immagine per il tuo profilo."
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": " Seleziona"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Evviva! Sto facendo uno scambio con\\n[VAR 0100(0000)]!"
+  },
+  {
+    "index": 153,
+    "flags": 8,
+    "text": "Sto facendo uno scambio magico...\\nChiss\u00E0 che Pok\u00E9mon ricever\u00F2!"
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Ho fatto uno scambio in link... e il Pok\u00E9mon\\nche ho ricevuto si \u00E8 evoluto!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "C[VAR 1101(0000,0602)]\u2019\u00E8i sono [VAR 0202(0000)] Allenator[VAR 1101(0000,0101)]ei che sta[VAR 1101(0000,0300)]nno scambiando\\nPok\u00E9mon da queste parti! Fantastico!!"
+  },
+  {
+    "index": 156,
+    "flags": 8,
+    "text": "Sto facendo una Lotta in Singolo!\\nNon mi lascer\u00F2 sconfiggere!"
+  },
+  {
+    "index": 157,
+    "flags": 8,
+    "text": "Sto facendo una Lotta in Doppio!\\nNon mi lascer\u00F2 sconfiggere!"
+  },
+  {
+    "index": 158,
+    "flags": 8,
+    "text": "Sto facendo una Lotta Multipla!\\nNon mi lascer\u00F2 sconfiggere!"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "C[VAR 1101(0000,0602)]\u2019\u00E8i sono [VAR 0202(0000)] Allenator[VAR 1101(0000,0101)]ei impegnat[VAR 1101(0000,0101)]oi in una lotta\\nda queste parti! Fantastico!!"
+  },
+  {
+    "index": 160,
+    "flags": 4,
+    "text": "Evviva! Ho battuto [VAR 0100(0000)]\\nin una Lotta in Singolo!!"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "Evviva! Ho battuto [VAR 0100(0000)]\\nin una Lotta in Doppio!!"
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Evviva! Ho battuto [VAR 0100(0000)]\\nin una Lotta Multipla!!"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "Ho sconfitto [VAR 1002][VAR 1502(0000,0001)][VAR 0101(0000)] assieme\\nai miei amici!"
+  },
+  {
+    "index": 164,
+    "flags": 4,
+    "text": "Ho catturato [VAR 1002][VAR 1502(0000,0001)][VAR 0101(0000)] assieme\\nai miei amici!"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Sono in campeggio con i miei Pok\u00E9mon\\ne ci divertiamo all\u2019aria aperta!"
+  },
+  {
+    "index": 166,
+    "flags": 4,
+    "text": "Ho cucinato assieme ai miei Pok\u00E9mon!"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Forza, amici! Lanciamoci in un Raid Dynamax!"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Fare scambi in link allarga gli orizzonti!\\nTi va di fare uno scambio con me?"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Le Lotte in Singolo infiammano gli animi!\\nProva anche tu!"
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "Il bello delle Lotte in Doppio sta nella strategia!\\nProva anche tu!"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Le Lotte Multiple sono uno spasso in compagnia!\\nProva anche tu!"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Pok\u00E9mon avvistato!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Pok\u00E9mon avvistato!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 176,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon molto forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon molto forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 178,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon fortissimo!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon fortissimo!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 180,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon incredibilmente forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 181,
+    "flags": 4,
+    "text": "Avvistato un Pok\u00E9mon incredibilmente forte!\\n\u00C8 ora di un bel Raid Dynamax!"
+  },
+  {
+    "index": 182,
+    "flags": 4,
+    "text": "Ho catturato [VAR 1002][VAR 1502(0000,0001)][VAR 0101(0000)]!"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] si \u00E8 evoluto e ha assunto\\nun nuovo aspetto!"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Pikachu"
+  },
+  {
+    "index": 185,
+    "flags": 4,
+    "text": "Eevee"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Grookey"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Sobble"
+  },
+  {
+    "index": 188,
+    "flags": 8,
+    "text": "Scorbunny"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Recluta del Team Yell (\u2642)"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Recluta del Team Yell (\u2640)"
+  },
+  {
+    "index": 191,
+    "flags": 8,
+    "text": "Staff della Lega Pok\u00E9mon (\u2642)"
+  },
+  {
+    "index": 192,
+    "flags": 8,
+    "text": "Staff della Lega Pok\u00E9mon (\u2640)"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Pok\u00E9 Bimbo"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Pok\u00E9 Bimba"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Marmocchio"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Teenager"
+  },
+  {
+    "index": 197,
+    "flags": 8,
+    "text": "Studente"
+  },
+  {
+    "index": 198,
+    "flags": 8,
+    "text": "Studentessa"
+  },
+  {
+    "index": 199,
+    "flags": 4,
+    "text": "Affarista"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Donna in carriera"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Cuoco"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Barista"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Medico (\u2642)"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Medico (\u2640)"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Guardia"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "Lavoratore"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Lavoratrice"
+  },
+  {
+    "index": 208,
+    "flags": 4,
+    "text": "Allevapok\u00E9mon (\u2642)"
+  },
+  {
+    "index": 209,
+    "flags": 4,
+    "text": "Allevapok\u00E9mon (\u2640)"
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "Artista"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Giramondo"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Gentiluomo"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Madame"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Pescatrice"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Montanaro"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Cinturanera"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Bellezza"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Modella"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Nuotatore"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Nuotatrice"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Musicista"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Ballerina"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Postino"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Tassista"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Ferroviere"
+  },
+  {
+    "index": 226,
+    "flags": 4,
+    "text": "Inviata"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Cameraman"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "[~ 228]"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "[~ 229]"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "[~ 230]"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "[~ 231]"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "[~ 232]"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "[~ 233]"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "[~ 234]"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "[~ 235]"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "[~ 236]"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "[~ 237]"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "[~ 238]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Lega Pok\u00E9mon"
+  },
+  {
+    "index": 240,
+    "flags": 8,
+    "text": "Sfida delle Palestre"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Coppa Campione di Galar"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Palestra di tipo Erba"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Palestra di tipo Acqua"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Palestra di tipo Fuoco"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Palestra di tipo Lotta"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Palestra di tipo Spettro"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Palestra di tipo Folletto"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Palestra di tipo Roccia"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Palestra di tipo Ghiaccio"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Palestra di tipo Buio"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Palestra di tipo Drago"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Palestra di tipo Normale"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Palestra di tipo Elettro"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Palestra di tipo Coleottero"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Palestra di tipo Psico"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Palestra di tipo Volante"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Palestra di tipo Terra"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Palestra di tipo Acciaio"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "Palestra di tipo Veleno"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Team Yell"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "[~ 261]"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "[~ 262]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[~ 263]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "[~ 264]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "[~ 265]"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[~ 267]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[~ 268]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[~ 269]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[~ 270]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "[~ 271]"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "[~ 273]"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "[~ 274]"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[~ 275]"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "[~ 276]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "[~ 277]"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "[~ 278]"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "[~ 279]"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "[~ 280]"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "[~ 281]"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "[~ 283]"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "[~ 284]"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "[~ 285]"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "[~ 286]"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "[~ 287]"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "[~ 288]"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "[~ 289]"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "[~ 290]"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "[~ 291]"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "[~ 292]"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "[~ 293]"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "[~ 294]"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "[~ 295]"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "[~ 296]"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "[~ 297]"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "[~ 298]"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Ricerca in corso..."
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[~ 300]"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "[~ 301]"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "[~ 302]"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[~ 303]"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Verr\u00E0 cercato un giocatore.\\c\\nPuoi interrompere la ricerca selezionando\\nun\u2019altra opzione nel menu Y-Comm.\\c"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Verr\u00E0 cercato un giocatore.\\c\\nPuoi interrompere la ricerca selezionando\\nl\u2019opzione nel menu Y-Comm.\\c"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": " Utenti bloccati"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "La ricerca \u00E8 stata interrotta.\\c"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Filtra sticker"
+  },
+  {
+    "index": 309,
+    "flags": 8,
+    "text": "Scambia card"
+  },
+  {
+    "index": 310,
+    "flags": 8,
+    "text": "Scambio magico"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Non puoi connetterti con altri utenti perch\u00E9\\nla console ha la modalit\u00E0 aereo attiva.\\n\\nRiprova quando sar\u00E0 possibile disattivare\\nla modalit\u00E0 aereo."
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "La versione del gioco non \u00E8 aggiornata.\\nPer connetterti con altri giocatori devi prima\\naggiornare il gioco.\\nPer ulteriori informazioni, visita il sito Pok\u00E9mon\\nufficiale.\\c"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Come dice il nome stesso, lo scambio magico\\n\u00E8 uno scambio in link che ha dell\u2019incredibile!\\c\\nNon devi far altro che scegliere quale Pok\u00E9mon\\nvuoi scambiare...\\c\\n... quindi tornare alla tua avventura e, quando\\nverr\u00E0 individuato l\u2019Allenatore giusto, lo scambio\\r\\navverr\u00E0 come per magia!\\c\\nProva a scegliere un Pok\u00E9mon da scambiare!\\c"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Sar\u00E0 avviato lo scambio di Card della Lega\\nPok\u00E9mon.\\c\\nPuoi interrompere lo scambio selezionando\\nun\u2019altra opzione nel menu Y-Comm.\\c"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Vuoi iniziare lo scambio?"
+  },
+  {
+    "index": 316,
+    "flags": 4,
+    "text": "Imposta password"
+  },
+  {
+    "index": 317,
+    "flags": 4,
+    "text": "Inizia"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "La password \u00E8:\\n[VAR 0203(0000,0000)] [VAR 0203(0001,0000)]\\c\\nVuoi continuare?"
+  },
+  {
+    "index": 319,
+    "flags": 4,
+    "text": "Hai scelto di non usare una password.\\c\\nQuesto significa che potrebbe connettersi\\ncon te una persona diversa da quella con cui\\r\\nvolevi giocare.\\c\\nVuoi continuare?"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Vuoi aggiungere [VAR 0100(0000)] alla lista\\ndegli utenti bloccati?"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Non potrai giocare tramite le funzioni di\\ncomunicazione con gli utenti bloccati.\\c\\nVuoi davvero bloccare questo utente?\\n(\u00C8 possibile sbloccarlo in seguito)"
+  },
+  {
+    "index": 322,
+    "flags": 4,
+    "text": "Hai aggiunto [VAR 0100(0000)] alla lista\\ndegli utenti bloccati.\\c\\nPer vedere la lista, accedi alle Funzioni Y-Comm\\ne seleziona \u201CProfilo\u201D.\\c"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": " Comunicazione locale"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Questo giocatore non sta pi\u00F9 cercando Allenatori\\nper il suo Raid Dynamax.\\c\\nI vecchi sticker saranno rimossi e riceverai quelli\\nattivi.\\c"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Chi vuole scambiare Card della Lega Pok\u00E9mon?"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "[~ 328]"
+  },
+  {
+    "index": 329,
+    "flags": 4,
+    "text": "Al momento non \u00E8 possibile scambiare card.\\c"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "L\u2019album \u00E8 pieno.\\c\\nPer scambiare Card della Lega Pok\u00E9mon,\\nfai spazio nell\u2019album.\\c"
+  },
+  {
+    "index": 331,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Questa persona \u00E8 gi\u00E0 stata aggiunta\\nalla lista degli utenti bloccati.\\c"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Non puoi aggiungerti alla tua lista degli utenti\\nbloccati!\\c"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Se imposti una password, potrai usare le\\nfunzioni di comunicazione solo con i giocatori\\r\\nche usano la stessa password.\\c"
+  },
+  {
+    "index": 335,
+    "flags": 4,
+    "text": "Al momento non puoi fare scambi in link perch\u00E9\\nil tuo ultimo scambio \u00E8 stato interrotto prima\\r\\ndi essere completato, a causa di un errore di\\r\\ncomunicazione o dello spegnimento della console.\\c\\nRiprova pi\u00F9 tardi, assicurandoti di non modificare\\nl\u2019orologio della console Nintendo Switch.\\c"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "Non puoi iniziare uno scambio perch\u00E9 non hai\\nPok\u00E9mon nei Box.\\c\\nCattura altri Pok\u00E9mon e riprova.\\c"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Non puoi iniziare uno scambio perch\u00E9 hai\\nsolo due Pok\u00E9mon.\\c\\nCattura altri Pok\u00E9mon e riprova.\\c"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Non puoi affrontare una Lotta in Doppio se non\\nhai almeno due Pok\u00E9mon.\\c\\nRiprova quando avrai abbastanza Pok\u00E9mon\\nin squadra.\\c"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Collegamento in corso.\\nAttendi..."
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con il Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 341,
+    "flags": 4,
+    "text": "Impossibile stabilire la comunicazione.\\c"
+  },
+  {
+    "index": 342,
+    "flags": 4,
+    "text": "Internet"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Comunicazione locale"
+  },
+  {
+    "index": 344,
+    "flags": 4,
+    "text": "Ho sconfitto [VAR 1002][VAR 1502(0000,0001)][VAR 0101(0000)]\\nin un\u2019Avventura Dynamax!"
+  },
+  {
+    "index": 345,
+    "flags": 4,
+    "text": "Ho sconfitto [VAR 1002][VAR 1502(0000,0001)][VAR 0101(0000)]\\nin un\u2019Avventura Dynamax!"
+  }
+]

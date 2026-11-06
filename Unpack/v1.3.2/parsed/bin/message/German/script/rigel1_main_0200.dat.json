@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Hallo, [VAR 0100(0000)]!\\nDer Meister hat mir schon Bescheid gegeben."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hallo, [VAR 0100(0000)]!\\nDer Meister hat mir schon Bescheid gegeben."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Dies ist der Turm des Wassers."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Dies ist der Turm des Unlichts."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "An diesem Ort kann Dakuma die geheimen\\nK\u00FCnste des Wassers erlernen."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "An diesem Ort kann Dakuma die geheimen\\nK\u00FCnste des Unlichts erlernen."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Hat Dakuma mindestens Level [VAR 0201(0001)] erreicht, sollte\\nes das Training problemlos abschlie\u00DFen k\u00F6nnen."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Hat Dakuma mindestens Level [VAR 0201(0001)] erreicht, sollte\\nes das Training problemlos abschlie\u00DFen k\u00F6nnen."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Wenn du den Turm betrittst, kannst du ihn erst\\nwieder verlassen, sobald du die f\u00FCnf Trainer\\r\\nbezwungen hast, die darin auf dich warten...\\c\\nOder nachdem du selbst besiegt wurdest."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Wenn du den Turm betrittst, kannst du ihn erst\\nwieder verlassen, sobald du die f\u00FCnf Trainer\\r\\nbezwungen hast, die darin auf dich warten...\\c\\nOder nachdem du selbst besiegt wurdest."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Zudem bleibt dir durch das Betreten eines Turmes\\nder Zugang zum anderen auf ewig verwehrt."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Zudem bleibt dir durch das Betreten eines Turmes\\nder Zugang zum anderen auf ewig verwehrt."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Also... Willst du den Turm des Wassers betreten,\\num die K\u00FCnste des Wassers zu erlernen und\\r\\ndenen des Unlichts zu entsagen?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Also... Willst du den Turm des Unlichts betreten,\\num die K\u00FCnste des Unlichts zu erlernen und\\r\\ndenen des Wassers zu entsagen?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Deine Entscheidung f\u00E4llt also wirklich auf den\\nTurm des Wassers?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Deine Entscheidung f\u00E4llt also wirklich auf den\\nTurm des Unlichts?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Jawollja!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Jawollja!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ich denk noch mal dr\u00FCber nach..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Du wirkst sehr entschlossen.\\nDann mal viel Erfolg!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Du wirkst sehr entschlossen.\\nDann mal viel Erfolg!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Wasser oder Unlicht?\\c\\nKomm zur\u00FCck, wenn du dich entschieden hast,\\nwelchen Pfad du beschreiten m\u00F6chtest."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Unlicht oder Wasser?\\c\\nKomm zur\u00FCck, wenn du dich entschieden hast,\\nwelchen Pfad du beschreiten m\u00F6chtest."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Dies ist der Turm des Wassers...\\c\\nEr dient allein dem Training deines Dakumas.\\nSolange es nicht das einzige Pok\u00E9mon in deinem\\r\\nTeam ist, kann ich dir keinen Zutritt gew\u00E4hren."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Dies ist der Turm des Unlichts...\\c\\nEr dient allein dem Training deines Dakumas.\\nSolange es nicht das einzige Pok\u00E9mon in deinem\\r\\nTeam ist, kann ich dir keinen Zutritt gew\u00E4hren."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Dies ist der Turm des Wassers...\\c\\nDa deine Wahl bereits auf den Turm des Unlichts\\ngefallen ist, kann ich dir keinen Zutritt gew\u00E4hren."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Dies ist der Turm des Unlichts...\\c\\nDa deine Wahl bereits auf den Turm des Wassers\\ngefallen ist, kann ich dir keinen Zutritt gew\u00E4hren."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Dies ist der Turm des Wassers...\\c\\nLeider bist du noch nicht w\u00FCrdig, dich seinen\\nHerausforderungen zu stellen.\\c\\nIch muss dich daher bitten zu gehen."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Dies ist der Turm des Unlichts...\\c\\nLeider bist du noch nicht w\u00FCrdig, dich seinen\\nHerausforderungen zu stellen.\\c\\nIch muss dich daher bitten zu gehen."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Dakuma scheint sich weder in deinem Team noch\\nin deinen Boxen zu befinden, [VAR 0100(0000)]."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Dakuma scheint sich weder in deinem Team noch\\nin deinen Boxen zu befinden, [VAR 0100(0000)]."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Eigentlich dient der Turm des Wassers dem\\nTraining von Dakuma. M\u00F6chtest du dich dennoch\\r\\nseinen Herausforderungen stellen?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Eigentlich dient der Turm des Unlichts dem\\nTraining von Dakuma. M\u00F6chtest du dich dennoch\\r\\nseinen Herausforderungen stellen?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Sobald du deine Wahl getroffen hast,\\ngibt es kein Zur\u00FCck mehr.\\c\\nBist du dir ganz sicher, dass du den Turm\\nohne Dakuma betreten willst?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Sobald du deine Wahl getroffen hast,\\ngibt es kein Zur\u00FCck mehr.\\c\\nBist du dir ganz sicher, dass du den Turm\\nohne Dakuma betreten willst?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Wenn du darauf bestehst..."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Wenn du darauf bestehst..."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Noch kannst du deine Entscheidung \u00FCberdenken."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Noch kannst du deine Entscheidung \u00FCberdenken."
+  }
+]

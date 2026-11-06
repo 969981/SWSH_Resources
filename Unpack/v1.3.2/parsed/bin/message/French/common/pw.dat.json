@@ -1,0 +1,2262 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Pok\u00E9 Service"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Une nouvelle mission est disponible\u202F!\\c"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "De nouvelles missions sont disponibles\u202F!\\c"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "NOUVEAU\u202F!"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "On recrute\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Mission en cours"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mission r\u00E9guli\u00E8re"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "On recrute\u202F!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Mission en cours"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Mission r\u00E9guli\u00E8re"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Mission accomplie"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Mission accomplie"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "ANNONCE"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Description de la mission"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Main-d\u2019\u0153uvre recherch\u00E9e"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] Pok\u00E9mon max"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Dur\u00E9e"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] h"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Points d\u2019Exp\u00E9rience"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Stat de base r\u00E9duite"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "S\u00E9lectionnez la stat de base \u00E0 r\u00E9duire."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Stat de base augment\u00E9e"
+  },
+  {
+    "index": 28,
+    "flags": 64,
+    "text": "PV"
+  },
+  {
+    "index": 29,
+    "flags": 5,
+    "text": "Attaque"
+  },
+  {
+    "index": 30,
+    "flags": 1,
+    "text": "D\u00E9fense"
+  },
+  {
+    "index": 31,
+    "flags": 5,
+    "text": "Attaque Sp\u00E9ciale"
+  },
+  {
+    "index": 32,
+    "flags": 1,
+    "text": "D\u00E9fense Sp\u00E9ciale"
+  },
+  {
+    "index": 33,
+    "flags": 1,
+    "text": "Vitesse"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Veuillez s\u00E9lectionner une mission."
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Il n\u2019y a aucune mission de disponible\\npour le moment. Revenez demain\u202F!\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Voulez-vous accepter cette mission\u202F?"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Cette mission est en cours.\\nVoulez-vous l\u2019annuler\u202F?"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Si vous annulez cette mission, vos Pok\u00E9mon\\nreviendront sans avoir gagn\u00E9 d\u2019exp\u00E9rience.\\r\\nVoulez-vous continuer\u202F?"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Votre Pok\u00E9mon est revenu de mission\u202F!\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont revenus de mission\u202F!\\c"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Votre Pok\u00E9mon va \u00EAtre envoy\u00E9 en mission.\\nVoulez-vous continuer\u202F?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon vont \u00EAtre envoy\u00E9s en mission.\\nVoulez-vous continuer\u202F?"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Envoyer"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "V\u00E9rifier"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Vous n\u2019avez pas s\u00E9lectionn\u00E9 assez de Pok\u00E9mon\\npour cette mission.\\c\\nVoulez-vous continuer malgr\u00E9 tout\u202F?"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Votre Pok\u00E9mon est parti en mission\u202F!\\nBon courage \u00E0 lui\u202F!\\c"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont partis en mission\u202F!\\nBon courage \u00E0 eux\u202F!\\c"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Maintenant que vous avez r\u00E9uni assez de Badges,\\nvos Pok\u00E9mon peuvent participer \u00E0 davantage\\r\\nde missions\u202F!\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] a une mission pour vous\u202F!\\c"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Encore [VAR 0201(0000)] h"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 01D2(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "F\u00E9licitations\u202F!\\c\\nVos clients ont \u00E9t\u00E9 tr\u00E8s impressionn\u00E9s\\npar le travail de vos Pok\u00E9mon et ont parl\u00E9\\r\\nde vous \u00E0 tout le monde\u202F!\\c\\nLe nombre de missions disponibles\\na maintenant augment\u00E9\u202F!\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "S\u00E9lectionnez la stat de base \u00E0 augmenter."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Changer la s\u00E9lection"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Points d\u2019Exp\u00E9rience"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Vos Bo\u00EEtes sont pleines\u202F!\\nVeuillez lib\u00E9rer de l\u2019espace.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Choisissez un ou plusieurs Pok\u00E9mon\\ndans vos Bo\u00EEtes.\\c"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Impossible d\u2019envoyer davantage de Pok\u00E9mon.\\c\\nVeuillez annuler une mission ou attendre\\nque l\u2019une d\u2019elles se termine.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Cette mission a d\u00E9j\u00E0 \u00E9t\u00E9 accomplie.\\c"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Veuillez choisir combien de temps allouer\\n\u00E0 cette mission."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon ont bien travaill\u00E9\u202F!\\c\\nGr\u00E2ce \u00E0 eux, de nouvelles missions\\nsont maintenant disponibles\u202F!\\c"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Vous ne pouvez pas envoyer de Pok\u00E9mon\\nen mission, car vos Bo\u00EEtes PC sont vides.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "N."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Tr\u00E8s longue dur\u00E9e"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Longue dur\u00E9e"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Assez longue dur\u00E9e"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Dur\u00E9e moyenne"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Assez courte dur\u00E9e"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Courte dur\u00E9e"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Tr\u00E8s courte dur\u00E9e"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Votre Pok\u00E9mon est revenu de la mission.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont revenus de la mission.\\c"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Stat"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u002B [VAR 0202(0000)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Pok\u00E9mon s\u00E9lectionn\u00E9"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Pok\u00E9mon s\u00E9lectionn\u00E9s"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": " Passer"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Confirmer"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "Excellent travail\u202F!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Bon travail\u202F!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Mission accomplie\u202F!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait du travail de chef\u202F!\\c"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait du travail de chef\u202F!\\c"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait de l\u2019excellent travail\u202F!\\nIl a re\u00E7u \u00E9norm\u00E9ment de Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait de l\u2019excellent travail\u202F!\\nIls ont re\u00E7u \u00E9norm\u00E9ment de Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait du bon travail\u202F!\\nIl a re\u00E7u plein de Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait du bon travail\u202F!\\nIls ont re\u00E7u plein de Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "La mission est accomplie\u202F!\\nIl a re\u00E7u des Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "La mission est accomplie\u202F!\\nIls ont re\u00E7u des Points d\u2019Exp\u00E9rience\u202F!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait un travail magistral\u202F!\\nLe client est absolument ravi de sa performance\u202F!\\c"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "C\u2019\u00E9tait un travail magistral\u202F!\\nLe client est absolument ravi de leur performance\u202F!\\c"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Le client est ravi du travail fourni\u202F!\\c\\nContinuez vos efforts pour r\u00E9pondre\\naux attentes de chaque client\u202F!\\c"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "La mission a \u00E9t\u00E9 accomplie, mais non sans peine.\\c\\nEssayez d\u2019envoyer plus de Pok\u00E9mon dot\u00E9s\\ndu type adapt\u00E9, la prochaine fois\u202F!\\c"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0007)]En r\u00E9compense de l\u2019excellent travail fourni, vous\\nrecevez [VAR 0201(0002)] [VAR 010A(0001)]\u202F!\\c"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0007)]En r\u00E9compense du bon travail fourni, vous\\nrecevez [VAR 0201(0002)] [VAR 010A(0001)]\u202F!\\c"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0007)]En r\u00E9compense pour avoir accompli la mission,\\nvous recevez [VAR 0201(0002)] [VAR 010A(0001)]\u202F!\\c"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u002B [VAR 0206(0000,202F)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0006)]En r\u00E9compense de l\u2019excellent travail fourni,\\nvous recevez [VAR 0206(0001,202F)] \uE300\u202F!\\c"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0006)]En r\u00E9compense du bon travail fourni,\\nvous recevez [VAR 0206(0001,202F)] \uE300\u202F!\\c"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] semble avoir quelque chose\\n\u00E0 vous donner\u202F!\\c\\n[VAR BE05(0006)]En r\u00E9compense pour avoir accompli la mission,\\nvous recevez [VAR 0206(0001,202F)] \uE300\u202F!\\c"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[VAR 1401(0000,0000)][VAR 010D(0000)] de base du Pok\u00E9mon\\nque vous avez envoy\u00E9 [VAR 1101(0000,0301)]aont augment\u00E9\u202F!\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 1401(0000,0000)][VAR 010D(0000)] de base des Pok\u00E9mon\\nque vous avez envoy\u00E9s [VAR 1101(0000,0301)]aont augment\u00E9\u202F!\\c"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[~ 130]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[~ 131]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[~ 132]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Que voulez-vous faire avec [VAR 0102(0000)]\u202F?"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Voir son r\u00E9sum\u00E9"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "La s\u00E9curit\u00E9 a\u00E9rienne avant tout\u202F!"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon aiment l\u2019altitude\u202F?\\nAlors ce poste de maintenance est fait pour eux\u202F!\\n\u00C0 pourvoir imm\u00E9diatement."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Personnel d\u2019avion de ligne"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon descendant\\nde cr\u00E9atures mythologiques pour assurer\\nle bon d\u00E9roulement de nos vols internes."
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Agents de s\u00FBret\u00E9 a\u00E9roportuaire"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon dou\u00E9s en arts\\nmartiaux pour nous aider \u00E0 assurer la s\u00E9curit\u00E9\\nde l\u2019a\u00E9roport."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "R\u00E9paration de c\u00E2bles \u00E9lectriques"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Nous recrutons du personnel pour installer\\ndes c\u00E2bles \u00E0 haute tension.\\nQualit\u00E9 requise : immunit\u00E9 \u00E0 l\u2019\u00E9lectricit\u00E9."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "De l\u2019\u00E9lectricit\u00E9 pour illuminer la ville\u202F!"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Nous recrutons du personnel pour installer\\ndes c\u00E2bles \u00E0 haute tension.\\nQualit\u00E9 requise : bon producteur d\u2019\u00E9lectricit\u00E9."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Maintenance des wagons"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon qui s\u2019y connaissent\\nen m\u00E9taux pour nous assister dans la maintenance\\nde nos trains."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Cherche Pok\u00E9mon \u00E0 r\u00E9sistance physique"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Poste \u00E0 pourvoir. Profil recherch\u00E9 :\\nPok\u00E9mon solides et robustes comme la roche.\\nAttention : risque de coups de jus\u202F!"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Maintenance de sous-stations \u00E9lectriques"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Nous avons besoin de Pok\u00E9mon qui s\u2019y connaissent\\nen \u00E9lectricit\u00E9 pour assurer la maintenance\\nde nos transformateurs."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Manipulation de produits chimiques"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon pouvant \u00EAtre\\nexpos\u00E9s \u00E0 des substances toxiques pour nous\\nassister dans nos recherches et nos exp\u00E9riences."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Montrez-nous vos super-pouvoirs\u202F!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Nous souhaitons \u00E9tudier les pouvoirs myst\u00E9rieux\\nde certains Pok\u00E9mon dou\u00E9s de psychokin\u00E9sie.\\nNous comptons sur vous\u202F!"
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "\u00C9tude de ph\u00E9nom\u00E8nes paranormaux"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Notre \u00E9quipe \u00E9tudie les ph\u00E9nom\u00E8nes inexpliqu\u00E9s\\nde notre monde, et nous recherchons des\\nPok\u00E9mon venus de l\u2019au-del\u00E0 pour nous assister."
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Un programme qui donne des frissons\u202F!"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Nous avons comme projet de tourner un t\u00E9l\u00E9film\\nd\u2019horreur, et nous recrutons des Pok\u00E9mon\\nparticuli\u00E8rement terrifiants pour nous aider."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "L\u2019importance de rester en forme"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Nous avons besoin de Pok\u00E9mon aux muscles\\nfermes pour illustrer notre campagne d\u2019information\\nsur l\u2019importance de la remise en forme."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Production d\u2019une \u00E9mission de cuisine"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon qui ont\\nune passion ardente pour la cuisine afin\\nde nous aider \u00E0 \u00E9laborer notre nouvelle \u00E9mission\u202F!"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Qui dit Pok\u00E9mon bien b\u00E2tis, dit b\u00E2timent\u202F!"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon dynamiques,\\nmotiv\u00E9s et bien muscl\u00E9s pour venir nous aider\\nsur les chantiers\u202F!"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Gardes du corps t\u00E9n\u00E9breux"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Je dois me rendre dans un quartier \u00E0 risques,\\net j\u2019aurais besoin de Pok\u00E9mon intimidants\\npour me tenir compagnie et assurer ma s\u00E9curit\u00E9."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "L\u2019inspection du terrain, c\u2019est la base\u202F!"
+  },
+  {
+    "index": 169,
+    "flags": 4,
+    "text": "Avant de commencer les travaux, nous avons\\nbesoin d\u2019inspecter le sol. Contactez-nous\\nsi vous avez des Pok\u00E9mon qui s\u2019y connaissent\u202F!"
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "Une mission ordinaire"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Nous voudrions recueillir l\u2019avis de plusieurs\\nPok\u00E9mon ordinaires sur nos derniers\\nplats con\u00E7us pour tous les go\u00FBts\u202F!"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Transport de produits r\u00E9frig\u00E9r\u00E9s"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Mission : transport de produits frais.\\nProfil recherch\u00E9 : Pok\u00E9mon r\u00E9frig\u00E9rant.\\nPoste \u00E0 pourvoir imm\u00E9diatement."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Des plats qui donnent l\u2019eau \u00E0 la bouche"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Afin d\u2019utiliser une eau de qualit\u00E9 dans\\nla confection de nos produits, nous recherchons\\ndes experts en la mati\u00E8re pour nous guider."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Pour mieux promouvoir nos assurances..."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Dans le cadre de tests destin\u00E9s \u00E0 d\u00E9montrer\\nles dangers du poison, nous recherchons\\ndes candidats \u00E0 m\u00EAme de nous montrer ses effets."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Recherche Pok\u00E9mon habitu\u00E9s au danger"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Mission : transport de billets de banque.\\nProfil recherch\u00E9 : Pok\u00E9mon intimidants et rus\u00E9s.\\nExp\u00E9rience en travail de nuit appr\u00E9ci\u00E9e."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Prot\u00E9gez nos tr\u00E9sors\u202F!"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon assez puissants\\npour prot\u00E9ger nos coffres co\u00FBte que co\u00FBte.\\nEnvoyez-nous vos Pok\u00E9mon de type Dragon\u202F!"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Mission a\u00E9rienne"
+  },
+  {
+    "index": 183,
+    "flags": 4,
+    "text": "Avis aux passionn\u00E9s d\u2019aviation\u202F! Nous recherchons\\nde nouveaux partenaires amoureux du ciel\\nqui souhaiteraient arpenter les cieux avec nous\u202F!"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Livraison en tout temps"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Si vous avez des Pok\u00E9mon de type Dragon\\ncapables de braver vents et temp\u00EAtes,\\npr\u00E9sentez-les-nous : ils nous int\u00E9ressent\u202F!"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Transport de grosses marchandises"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon \u00E0 l\u2019aise\\navec les d\u00E9placements souterrains pour\\nnous aider \u00E0 transporter nos marchandises."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Maintenance de chemins de fer"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Mission : maintenance de chemins de fer.\\nProfil recherch\u00E9 : Pok\u00E9mon de type Acier.\\nPoste \u00E0 pourvoir imm\u00E9diatement."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Recherche Pok\u00E9mon qui r\u00E9sistent au froid"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Glace\\npour assurer nos livraisons par temps de neige.\\nPok\u00E9mon frileux s\u2019abstenir\u202F!"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Pour l\u2019amour de la propret\u00E9\u202F!"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Nous recrutons des techniciens de surface\u202F!\\nVos Pok\u00E9mon sont de vraies f\u00E9es du logis\u202F?\\nAlors cette mission est faite pour eux\u202F!"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "La diplomatie avant tout\u202F!"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Normal\\npour nous assister au service client\u00E8le."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Le secret qui anime nos cuisines"
+  },
+  {
+    "index": 199,
+    "flags": 4,
+    "text": "Il n\u2019y a pas de cuisine sans feu\u202F!\\nSi vos Pok\u00E9mon Feu sont en qu\u00EAte de sensations\\nfortes, on les accueille \u00E0 bras ouverts en cuisine\u202F!"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Recherche f\u00E9es du logis"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Nous recrutons du personnel pour nettoyer\\nnos chambres. Vos Pok\u00E9mon sont dynamiques,\\nmotiv\u00E9s et mignons \u00E0 croquer\u202F? On est int\u00E9ress\u00E9s\u202F!"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Recherche r\u00E9ceptionnistes qualifi\u00E9s"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Normal\\npour s\u2019occuper de la r\u00E9ception de l\u2019h\u00F4tel."
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Bon feu, bonne ch\u00E8re\u202F!"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Feu pour\\nnous assister en cuisine. Exp\u00E9rience en gestion\\nde temp\u00E9rature appr\u00E9ci\u00E9e."
+  },
+  {
+    "index": 206,
+    "flags": 4,
+    "text": "Une mission pour Pok\u00E9mon effrayants"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Recherche : figurants pour photos paranormales.\\nProfil id\u00E9al : Pok\u00E9mon au corps ectoplasmique.\\nExp\u00E9rience en manoir hant\u00E9 appr\u00E9ci\u00E9e."
+  },
+  {
+    "index": 208,
+    "flags": 4,
+    "text": "Effets sp\u00E9ciaux pour une s\u00E9rie sp\u00E9ciale\u202F!"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Nous voulons tourner une sc\u00E8ne dynamique avec\\nun max d\u2019effets pour une \u00E9mission. Des Pok\u00E9mon\\nDragon seraient parfaits pour le r\u00F4le\u202F!"
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "Un reportage qui en bouche un coin\u202F!"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "Pour tourner un reportage sur les \u00E9gouts,\\nnous recherchons des Pok\u00E9mon de type Poison\\n\u00E0 m\u00EAme de supporter les odeurs de canalisations."
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Tout pour nos clients\u202F!"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Pour r\u00E9pondre aux demandes exactes de leurs\\nclients, nos ing\u00E9nieurs syst\u00E8me recherchent\\ndes Pok\u00E9mon pouvant lire dans leurs pens\u00E9es."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Gestion de r\u00E9seau"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "La mission est simple : s\u2019assurer que nos r\u00E9seaux\\nsoient bien connect\u00E9s. Des Pok\u00E9mon experts\\nen \u00E9lectronique seraient parfaits pour le job."
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "D\u00E9bug par pouvoirs psychiques"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Nous sommes \u00E0 la recherche de Pok\u00E9mon\\ndou\u00E9s d\u2019une perception hors-norme pour\\nqu\u2019ils d\u00E9tectent les bugs dans notre syst\u00E8me."
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Le service apr\u00E8s-vente recrute\u202F!"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon habitu\u00E9s\\naux mal\u00E9dictions et aux mauvais sorts pour\\ng\u00E9rer nos clients les plus virulents..."
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Panique en cuisine\u202F!"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Recherche commis de cuisine\u202F!\\nDoit \u00EAtre \u00E0 l\u2019aise avec le feu\u202F!"
+  },
+  {
+    "index": 222,
+    "flags": 4,
+    "text": "On veut des sols qui brillent\u202F!"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Pour garder nos sols toujours plus reluisants,\\nnous cherchons des Pok\u00E9mon f\u00E9rus de cirage.\\nIl faut que \u00E7a glisse comme sur la banquise\u202F!"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Vente d\u2019assurances"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Nous recueillons les t\u00E9moignages de Pok\u00E9mon\\nayant vu l\u2019au-del\u00E0 pour vendre nos contrats\\nd\u2019assurance vie. Int\u00E9ress\u00E9\u202F? Contactez-nous\u202F!"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Sans vouloir effrayer personne..."
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon \u00E0 la mine\\nsombre pour vendre nos assurances\\nau porte-\u00E0-porte."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "R\u00E9ceptionnistes qualifi\u00E9s"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Recherche : r\u00E9ceptionniste.\\nProfil id\u00E9al : Pok\u00E9mon avenant, mignon\\net aux jolis doigts de f\u00E9e\u202F!"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "Pour un s\u00E9jour idyllique \u00E0 l\u2019H\u00F4tel Ionia\u202F!"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Normal\\npolyvalents et capables de r\u00E9pondre aux besoins\\nde tous nos clients."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "Probl\u00E8me \u00E9vit\u00E9, client satisfait\u202F!"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Psy\\ncapables de ressentir les \u00E9motions de nos clients\\npour nous aider \u00E0 r\u00E9pondre \u00E0 leurs demandes."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Pour garder nos clients bien au chaud\u202F!"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon \u00E0 la temp\u00E9rature\\ncorporelle \u00E9lev\u00E9e pour chauffer les chambres\\nde nos clients les plus frileux."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Pr\u00E9parateurs en pharmacie"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Poison et rem\u00E8de sont deux revers de la m\u00EAme\\nm\u00E9daille, c\u2019est pourquoi nous recrutons des\\nPok\u00E9mon Poison pour nous assister en pharmacie."
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Recherche Pok\u00E9mon immunis\u00E9s au poison"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Pour manier les diff\u00E9rentes substances toxiques\\nde nos laboratoires, nous avons besoin\\nde l\u2019immunit\u00E9 au poison des Pok\u00E9mon Acier."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Poste de mascotte publicitaire"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon tout droit sortis\\nd\u2019un conte de f\u00E9es pour devenir nos mascottes\\nde vente et attirer de nouveaux clients\u202F!"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Mission Buisson\u202F!"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Mission : livraison en zone herbeuse.\\nProfil recherch\u00E9 : Pok\u00E9mon de type Plante.\\nOn recrute d\u00E8s maintenant\u202F!"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Passion Libraire"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Vous avez un Pok\u00E9mon Psy passionn\u00E9 de livres\u202F?\\nUn profil comme le sien nous aiderait \u00E0 retrouver\\nnos diff\u00E9rents ouvrages en stock\u202F! Aidez-nous\u202F!"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Manutention de livres"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Nous avons besoin de Pok\u00E9mon bien muscl\u00E9s\\npour transporter et ranger nos encyclop\u00E9dies.\\nContactez-nous si vous \u00EAtes int\u00E9ress\u00E9\u202F!"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Promotion surnaturelle"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Spectre pour\\nnous aider \u00E0 faire la promotion de notre nouvelle\\nsection de livres sur les forces occultes\u202F!"
+  },
+  {
+    "index": 250,
+    "flags": 4,
+    "text": "Enregistrement de cris de Pok\u00E9mon"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "La tendance musicale est aux Pok\u00E9mon Insecte\u202F!\\nNous recherchons des candidats de ce type\\npour enregistrer leurs cris m\u00E9lodieux\u202F!"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "Pour l\u2019amour de la musique\u202F!"
+  },
+  {
+    "index": 253,
+    "flags": 4,
+    "text": "On recherche des Pok\u00E9mon experts en c\u00E2bles\\net autres mat\u00E9riels \u00E9lectriques pour nous aider\\n\u00E0 installer notre syst\u00E8me audio."
+  },
+  {
+    "index": 254,
+    "flags": 4,
+    "text": "Entreposage de l\u00E9gumes frais"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Eau pour\\ns\u2019assurer que nos l\u00E9gumes restent bien frais\\net arros\u00E9s durant leur entreposage."
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Des livraisons \u00E0 toute vitesse\u202F!"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon capables\\nde se d\u00E9placer rapidement dans les airs\\npour assurer nos livraisons."
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Mission Grillade"
+  },
+  {
+    "index": 259,
+    "flags": 4,
+    "text": "On recrute des Pok\u00E9mon Feu qui partagent\\nnotre passion du grill pour nous aider \u00E0 garder\\nles commandes bien chaudes."
+  },
+  {
+    "index": 260,
+    "flags": 4,
+    "text": "Aux petits soins de nos clients"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Chez nous, le client est roi\u202F! Nous recherchons\\ndes Pok\u00E9mon de type Normal au comportement\\nirr\u00E9prochable pour assister notre client\u00E8le."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Livraison surprise"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Dans le cadre d\u2019une soir\u00E9e o\u00F9 l\u2019horreur est\\n\u00E0 l\u2019honneur, nous cherchons des Pok\u00E9mon donnant\\nla chair de Poussifeu pour assurer nos livraisons."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Pour avoir de belles pousses\u202F!"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Nous avons besoin de l\u2019expertise de Pok\u00E9mon\\nSol afin de cr\u00E9er un engrais de qualit\u00E9 pour nos\\nplantes. Contactez-nous si vous \u00EAtes int\u00E9ress\u00E9\u202F!"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Faites-nous une fleur\u202F!"
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "Il n\u2019y a pas de jardinage sans arrosage\u202F!\\nNous recrutons des Pok\u00E9mon de type Eau\\n\u00E0 la main verte pour nous aider dans les jardins."
+  },
+  {
+    "index": 268,
+    "flags": 4,
+    "text": "Aidez nos plantes\u202F!"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Roche\\npour tenir compagnie \u00E0 nos plantes\\nqui ne poussent que sur terrains rocheux."
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Cueillette de fleurs en for\u00EAt"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Cueillir des fleurs en for\u00EAt est p\u00E9rilleux,\\nc\u2019est pourquoi nous recrutons des Pok\u00E9mon\\nPoison r\u00E9sistant au type Plante pour nous aider."
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "Pour une grillade mythique\u202F!"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Dragon pour\\nnous aider \u00E0 pr\u00E9parer nos plats avant la cuisson.\\nLa raison\u202F? C\u2019est un secret\u202F!"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "Pour une r\u00E9frig\u00E9ration au point\u202F!"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon Glace pour bien\\nconserver nos stocks de nourriture. Impossible\\nde g\u00E9rer un business sans entreposage r\u00E9frig\u00E9r\u00E9\u202F!"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Pour un assaisonnement parfait\u202F!"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Nous organisons une collecte de sel gemme,\\net nos exp\u00E9diteurs ont besoin de l\u2019assistance\\nde Pok\u00E9mon qui s\u2019y connaissent en min\u00E9raux."
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Livraison \u00E0 domicile\u202F!"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Vol\\npour livrer nos plats tant qu\u2019ils sont bien chauds\u202F!"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "De l\u2019eau pour nos g\u00E2teaux"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Eau\\npour nous aider \u00E0 confectionner des desserts\\nbien moelleux."
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Pour des desserts bien frais"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Glace\\npour nous aider \u00E0 confectionner des desserts\\ngel\u00E9s."
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "L\u2019importance d\u2019\u00EAtre croquant"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "La temp\u00E9rature de cuisson est d\u2019une importance\\ncapitale, en cuisine. Nous avons donc besoin\\nde l\u2019aide de Pok\u00E9mon sp\u00E9cialis\u00E9s en chaleur."
+  },
+  {
+    "index": 286,
+    "flags": 4,
+    "text": "Une petite touche de nature\u202F!"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "Pour rendre nos \u00E9talages plus attrayants,\\nnous souhaitons les d\u00E9corer avec de jolies fleurs.\\nAvez-vous des Pok\u00E9mon Plante pour nous aider\u202F?"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Torr\u00E9faction de grains de caf\u00E9"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Yoshida pr\u00E9pare un tr\u00E8s bon caf\u00E9, mais seulement\\nsi des Pok\u00E9mon Feu l\u2019aident \u00E0 torr\u00E9fier les grains.\\nCela vous parle\u202F? Alors, contactez-nous\u202F!"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "De l\u2019eau, mais pas n\u2019importe laquelle\u202F!"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Yoshida pr\u00E9pare un tr\u00E8s bon caf\u00E9 uniquement\\nparce que nous recrutons les meilleurs sp\u00E9cialistes\\npour s\u00E9lectionner notre eau. Contactez-nous\u202F!"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Des livraisons rapides en toute s\u00E9curit\u00E9\u202F!"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Notre mission : livrer des colis avec toute\\nla gr\u00E2ce du Bekipan\u202F! Nous recrutons des Pok\u00E9mon\\nVol pour rejoindre nos \u00E9quipes de livraison\u202F!"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "Tri de colis"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Vous \u00EAtes dynamique et vous vous y connaissez\\nen m\u00E9taux\u202F? Alors, venez nous aider \u00E0 trier\\nnos colis d\u2019appareils \u00E9lectrom\u00E9nagers\u202F!"
+  },
+  {
+    "index": 296,
+    "flags": 4,
+    "text": "Une ferme de r\u00EAve"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon Plante\\npour effectuer un contr\u00F4le de qualit\u00E9\\ndes champs qui entourent la ferme."
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Des mauvaises herbes partout..."
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Nous offrons aux Pok\u00E9mon Insecte un buffet\\nde mauvaises herbes \u00E0 volont\u00E9\u202F!\\nN\u2019h\u00E9sitez pas, c\u2019est gratuit (et \u00E7a nous aide bien)\u202F!"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Laboureurs de champs"
+  },
+  {
+    "index": 301,
+    "flags": 4,
+    "text": "On a besoin de gros bras pour nous aider \u00E0\\nlabourer les champs. Vos Pok\u00E9mon ont des muscles\\n\u00E0 revendre\u202F? On les accueille \u00E0 bras ouverts\u202F!"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Labourons les champs gaiement\u202F!"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Plante\\npour nous aider \u00E0 cultiver nos champs.\\nCe sont des sp\u00E9cialistes, apr\u00E8s tout\u202F!"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "C\u2019est l\u2019heure de la r\u00E9colte\u202F!"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Nous avons besoin de main-d\u2019\u0153uvre\\nsuppl\u00E9mentaire pour g\u00E9rer la saison des r\u00E9coltes.\\nProfil id\u00E9al : Pok\u00E9mon Insecte."
+  },
+  {
+    "index": 306,
+    "flags": 4,
+    "text": "Assistance a\u00E9rienne"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Vol\\npour arroser nos plantes depuis les airs.\\nContactez-nous si vous \u00EAtes int\u00E9ress\u00E9\u202F!"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Gros biscoteaux recherch\u00E9s\u202F!"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "La construction, c\u2019est un travail intense\u202F!\\nVous avez un Pok\u00E9mon de type Combat en qu\u00EAte\\nde nouveaux d\u00E9fis\u202F? Cette mission est pour lui\u202F!"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Pour b\u00E2tir sur des bases saines\u202F!"
+  },
+  {
+    "index": 311,
+    "flags": 4,
+    "text": "On recrute des Pok\u00E9mon de type Sol\\npour nous aider \u00E0 d\u00E9blayer le terrain\\navant de commencer le chantier."
+  },
+  {
+    "index": 312,
+    "flags": 4,
+    "text": "Un caillou sur la t\u00EAte, \u00E7a fait mal\u202F!"
+  },
+  {
+    "index": 313,
+    "flags": 4,
+    "text": "On recherche des Pok\u00E9mon solides comme\\nla roche pour prot\u00E9ger nos chantiers des\\n\u00E9boulements intempestifs. On compte sur vous\u202F!"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "M\u00E9tro, boulot, pas dodo\u202F!"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Rien de tel qu\u2019un regard en biais pour emp\u00EAcher\\nun employ\u00E9 de s\u2019endormir \u00E0 son bureau\u202F!\\nOn recrute des Pok\u00E9mon \u00E0 la mine patibulaire\u202F!"
+  },
+  {
+    "index": 316,
+    "flags": 4,
+    "text": "Assemblage de rames (Sol)"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon de type Sol\\npour aider nos \u00E9quipes \u00E0 assembler nos rames\\nde train."
+  },
+  {
+    "index": 318,
+    "flags": 4,
+    "text": "Assemblage de rames (Acier)"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Nous recherchons des experts en machinerie\\npour assister nos \u00E9quipes d\u2019assemblage.\\nProfil id\u00E9al : Pok\u00E9mon de type Acier."
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Pour les amateurs de rail"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon capables\\nd\u2019alimenter nos machines d\u2019assemblage.\\nRejoignez-nous si vous \u00EAtes int\u00E9ress\u00E9\u202F!"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Construction navale"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Nous recherchons des experts en m\u00E9tallurgie\\npour nous assister sur nos chantiers navals.\\nProfil id\u00E9al : Pok\u00E9mon de type Acier."
+  },
+  {
+    "index": 324,
+    "flags": 4,
+    "text": "Inspection navale"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Nous avons besoin de l\u2019aide de Pok\u00E9mon Eau\\npour s\u2019assurer de l\u2019\u00E9tanch\u00E9it\u00E9 de nos coques\\nde bateaux."
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Grande construction navale"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Nous effectuons le soudage de nos bateaux\\n\u00E0 l\u2019\u00E9lectricit\u00E9. Nous recherchons des Pok\u00E9mon\\nexperts en la mati\u00E8re pour nous venir en aide."
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Pour des voitures toujours plus solides\u202F!"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Chez Supersonic Motors, nous concevons des\\nvoitures adapt\u00E9es \u00E0 tous types de terrains. Nous\\nrecherchons donc l\u2019expertise de Pok\u00E9mon Sol\u202F!"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "Pour des voitures toujours plus durables\u202F!"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon de type Acier\\npour rejoindre nos \u00E9quipes de construction.\\nNous attendons vos candidatures\u202F!"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Pour l\u2019amour des automobiles\u202F!"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon br\u00FBlent de travailler dans l\u2019industrie\\nautomobile\u202F? Aidez-nous\u202F! Tout ce qu\u2019il nous\\nmanque, c\u2019est la flamme qui les anime\u202F!"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "\u0152il pour \u0153il, Poison pour poison"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Nous avons besoin de l\u2019aide de Pok\u00E9mon\\nde type Poison pour manipuler diff\u00E9rentes\\nsubstances toxiques."
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "Recherche en plantes m\u00E9dicinales"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon ayant\\ndes connaissances en botanique pour\\nnous aider \u00E0 trier nos plantes m\u00E9dicinales."
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Pas de filet, pas de p\u00EAche"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Nous avons besoin de soie de Pok\u00E9mon Insecte\\npour cr\u00E9er des filets de p\u00EAche bien solides.\\nNous comptons sur votre aide\u202F!"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "La cr\u00E8me de la cr\u00E8me glac\u00E9e\u202F!"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Glace\\npour nous aider \u00E0 confectionner de d\u00E9licieuses\\ncr\u00E8mes glac\u00E9es\u202F!"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Des go\u00FBteurs pour nos glaces\u202F!"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Dans le cadre de notre campagne de promotion,\\nnous recherchons des Pok\u00E9mon de type Normal\\npour go\u00FBter nos desserts en public."
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Des desserts qui donnent envie\u202F!"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "Dans le cadre de notre campagne de promotion,\\nnous recherchons des Pok\u00E9mon F\u00E9e pour donner\\naux passants l\u2019envie de go\u00FBter nos desserts."
+  },
+  {
+    "index": 346,
+    "flags": 4,
+    "text": "Excavation dans les mines"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon qui ont\\nune expertise en minerais pour nous aider\\n\u00E0 la mine. Pok\u00E9mon Sol, nous vous attendons\u202F!"
+  },
+  {
+    "index": 348,
+    "flags": 4,
+    "text": "\u00C9puration de min\u00E9raux (Feu)"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Pour \u00E9purer nos minerais, nous avons besoin\\nde Pok\u00E9mon r\u00E9sistant \u00E0 la chaleur.\\nNous accueillons vos Pok\u00E9mon Feu \u00E0 bras ouverts\u202F!"
+  },
+  {
+    "index": 350,
+    "flags": 4,
+    "text": "\u00C9puration de min\u00E9raux (\u00C9lectrik)"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "Pour \u00E9purer nos minerais, nous avons besoin\\nde Pok\u00E9mon r\u00E9sistant \u00E0 l\u2019\u00E9lectricit\u00E9. Nous\\naccueillons vos Pok\u00E9mon \u00C9lectrik \u00E0 bras ouverts\u202F!"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Les rochers nous g\u00EAnent..."
+  },
+  {
+    "index": 353,
+    "flags": 4,
+    "text": "Impossible de travailler avec tous ces rochers en\\ntravers de la route\u202F! Nous avons besoin de l\u2019aide\\nde Pok\u00E9mon Roche pour nous en d\u00E9barrasser."
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Fabrication de textile durable"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "Nous souhaitons d\u00E9velopper une gamme\\nde v\u00EAtements indestructibles, et nous avons\\nbesoin de Pok\u00E9mon Insecte pour cr\u00E9er les \u00E9toffes."
+  },
+  {
+    "index": 356,
+    "flags": 4,
+    "text": "Essayage de textiles"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon T\u00E9n\u00E8bres\\npour tester la r\u00E9sistance de nos \u00E9toffes\\n\u00E0 tous types de maltraitance."
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "Contr\u00F4le qualit\u00E9 de haut vol"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Notre slogan : \u00EAtre tendance en toutes\\ncirconstances\u202F! C\u2019est pourquoi nous recrutons des\\nPok\u00E9mon Vol pour tester nos \u00E9toffes en altitude."
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Recherche top models"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "Nous recherchons de jolis Pok\u00E9mon F\u00E9e pour\\nfaire les essayages de notre nouvelle collection\\nde pr\u00EAt-\u00E0-porter."
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "De la soie solide pour nos tissus"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Nous avons besoin de l\u2019aide de Pok\u00E9mon Insecte\\npour cr\u00E9er des \u00E9toffes solides."
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Pour une \u00E9toffe extraordinaire"
+  },
+  {
+    "index": 365,
+    "flags": 4,
+    "text": "Afin de cr\u00E9er le textile le plus ordinaire\\ndu monde, nous recrutons des Pok\u00E9mon\\nde type Normal pour recueillir leur avis\u202F!"
+  },
+  {
+    "index": 366,
+    "flags": 4,
+    "text": "Une \u00E9toffe mythique"
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "Afin d\u2019\u00E9laborer une \u00E9toffe digne des l\u00E9gendes,\\nnous recrutons des Pok\u00E9mon de type Dragon\\npour recueillir leur avis\u202F!"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Des motifs mignons\u202F!"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Nous avons besoin de l\u2019aide de Pok\u00E9mon F\u00E9e\\npour r\u00E9fl\u00E9chir au design de v\u00EAtements \u00E0 la fois\\nmignons et f\u00E9\u00E9riques\u202F!"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "D\u00E9veloppement de chaussures de sport"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Insecte\\ndot\u00E9s d\u2019un maximum de pattes pour tester\\nnos nouvelles chaussures de sport."
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "D\u00E9veloppement de chaussures de lutte"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Combat\\ndot\u00E9s d\u2019un maximum de muscles pour tester\\nnos nouvelles chaussures de lutte."
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "D\u00E9veloppement de chaussures de course"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type \u00C9lectrik\\ndot\u00E9s d\u2019un maximum d\u2019endurance pour tester\\nnos nouvelles chaussures de course."
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "Courez, pauvres fous\u202F!"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "Pour tester nos chaussures avant leur mise en\\nvente, nous recherchons des Pok\u00E9mon T\u00E9n\u00E8bres\\nqui aiment litt\u00E9ralement battre le pav\u00E9\u202F!"
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "Bon fil, bon textile\u202F!"
+  },
+  {
+    "index": 379,
+    "flags": 4,
+    "text": "Avis aux Dresseurs de Pok\u00E9mon Insecte\u202F!\\nNous avons besoin de leur assistance\\npour cr\u00E9er des \u00E9toffes bien solides\u202F!"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "Des \u00E9toffes magiques\u202F!"
+  },
+  {
+    "index": 381,
+    "flags": 4,
+    "text": "Avis aux Dresseurs de Pok\u00E9mon F\u00E9e\u202F!\\nNous avons besoin de leur assistance\\npour cr\u00E9er des \u00E9toffes douces et soyeuses\u202F!"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Des \u00E9toffes qui \u00E9l\u00E8vent l\u2019esprit\u202F!"
+  },
+  {
+    "index": 383,
+    "flags": 4,
+    "text": "Avis aux Dresseurs de Pok\u00E9mon Psy\u202F!\\nNous avons besoin de leur assistance pour cr\u00E9er\\ndes v\u00EAtements adapt\u00E9s \u00E0 la m\u00E9ditation\u202F!"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Cr\u00E9ation de textile de qualit\u00E9"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "Chez Jet-Setter, nous utilisons une soie de la plus\\nhaute qualit\u00E9 pour nos \u00E9toffes. Nous recrutons\\ndes Pok\u00E9mon Insecte \u00E0 la hauteur de nos attentes."
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Recherche Pok\u00E9mon adroits"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "Derri\u00E8re tout v\u00EAtement de qualit\u00E9 se trouve\\nune main-d\u2019\u0153uvre m\u00E9ticuleuse. Nous recherchons\\ndes Pok\u00E9mon de type Normal pour nous aider."
+  },
+  {
+    "index": 388,
+    "flags": 4,
+    "text": "Un textile qui met le mental en avant"
+  },
+  {
+    "index": 389,
+    "flags": 4,
+    "text": "Afin d\u2019innover dans l\u2019industrie du luxe, nous avons\\nbesoin de l\u2019intelligence de Pok\u00E9mon Psy pour\\ntrouver un je-ne-sais-quoi \u00E0 ajouter \u00E0 nos articles."
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Textiles de qualit\u00E9 in\u00E9gal\u00E9e"
+  },
+  {
+    "index": 391,
+    "flags": 4,
+    "text": "Avis aux Dresseurs de Pok\u00E9mon de type Insecte\u202F!\\nNous avons besoin de vous pour cr\u00E9er\\nla plus douce des \u00E9toffes. Contactez-nous\u202F!"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "Cr\u00E9ation de textiles polyvalents"
+  },
+  {
+    "index": 393,
+    "flags": 4,
+    "text": "Avis aux Dresseurs de Pok\u00E9mon de type Normal\u202F!\\nNous avons besoin de vous pour cr\u00E9er\\nune \u00E9toffe appr\u00E9ci\u00E9e de tous. Contactez-nous\u202F!"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "Fabrication de verres de lunettes"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type Roche\\npour rejoindre notre \u00E9quipe de polissage\\nde verres de lunettes."
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "Cr\u00E9ation de nouvelles chaussures"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "Notre prochaine ligne de chaussures contiendra\\nde la soie. Nous recrutons des Pok\u00E9mon Insecte\\nd\u00E9sireux de nous donner un coup de patte\u202F!"
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Promotion de chaussures indestructibles"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Dans notre prochaine campagne publicitaire,\\nnous voudrions mettre en avant la solidit\u00E9 de nos\\nchaussures. Profil recherch\u00E9 : Pok\u00E9mon Combat."
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Pour un style sauvage"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon T\u00E9n\u00E8bres\\npour mettre en avant le c\u00F4t\u00E9 \u00AB\u202Fwild\u202F\u00BB\\nde notre derni\u00E8re collection de chaussures\u202F!"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "V\u00EAtements de tr\u00E8s bonne qualit\u00E9"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon Insecte\\npour nous aider \u00E0 cr\u00E9er des tissus solides\u202F!"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "V\u00EAtements style punk"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Nous voulons utiliser des substances chimiques\\npropres aux Pok\u00E9mon Poison pour teindre\\nnos tissus. Int\u00E9ress\u00E9\u202F? Contactez-nous\u202F!"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Transport maritime"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Mission : transport maritime de marchandises.\\nProfil recherch\u00E9 : Pok\u00E9mon de type Eau."
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Transport sur glace"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Mission : transport de marchandises sur banquise.\\nProfil recherch\u00E9 : Pok\u00E9mon de type Glace."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "Ressources humaines (F\u00E9e)"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de type F\u00E9e\\npour \u00E9couter et comprendre les probl\u00E8mes\\nde nos employ\u00E9s."
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "Ressources humaines (T\u00E9n\u00E8bres)"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Nous recrutons des Pok\u00E9mon de type T\u00E9n\u00E8bres\\npour r\u00E9v\u00E9ler la v\u00E9ritable nature des candidats\\nqui postulent chez nous."
+  },
+  {
+    "index": 414,
+    "flags": 4,
+    "text": "Inspection sous haute tension"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "Nous avons besoin d\u2019experts en \u00E9lectricit\u00E9 pour\\ninspecter le monorail. Vous avez des Pok\u00E9mon\\n\u00C9lectrik\u202F? Aidez-nous dans notre travail\u202F!"
+  },
+  {
+    "index": 416,
+    "flags": 4,
+    "text": "Un monorail \u00E0 nettoyer\u202F!"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "Notre monorail a besoin d\u2019un bon coup\\nde serpill\u00E8re. Nous recherchons des Pok\u00E9mon\\nEau pour nous aider \u00E0 nettoyer tout \u00E7a\u202F!"
+  },
+  {
+    "index": 418,
+    "flags": 4,
+    "text": "Une inspection muscl\u00E9e"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "Nous avons besoin de la force et du doigt\u00E9\\ndes Pok\u00E9mon Combat pour nous assister\\nlors de la maintenance du monorail."
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "S\u00E9minaire sur les PV"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nles PV de base des Pok\u00E9mon. Nous recherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "S\u00E9minaire sur l\u2019Attaque"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nl\u2019Attaque de base des Pok\u00E9mon. Nous cherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "S\u00E9minaire sur la D\u00E9fense"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nla D\u00E9fense de base des Pok\u00E9mon. Nous cherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "S\u00E9minaire sur l\u2019Attaque Sp\u00E9ciale"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nl\u2019Atq. Sp\u00E9. de base des Pok\u00E9mon. Nous cherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "S\u00E9minaire sur la D\u00E9fense Sp\u00E9ciale"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nla D\u00E9f. Sp\u00E9. de base des Pok\u00E9mon. Nous cherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "S\u00E9minaire sur la Vitesse"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "Nous proposons un s\u00E9minaire pour am\u00E9liorer\\nla Vitesse de base des Pok\u00E9mon. Nous cherchons\\ndes participants pour tester son efficacit\u00E9\u202F!"
+  },
+  {
+    "index": 432,
+    "flags": 4,
+    "text": "Agents polyvalents"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon r\u00E9sistant\\naux types Feu, Eau, Plante et \u00C9lectrik pour\\nnous assister sur tout type de terrain."
+  },
+  {
+    "index": 434,
+    "flags": 4,
+    "text": "Enqu\u00EAtes myst\u00E9rieuses"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon r\u00E9sistant\\naux types Psy, Vol et F\u00E9e pour nous aider\\n\u00E0 enqu\u00EAter sur nos affaires les plus d\u00E9licates."
+  },
+  {
+    "index": 436,
+    "flags": 4,
+    "text": "Aventures en nature"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon r\u00E9sistant\\naux types Plante, Insecte et F\u00E9e pour\\nnous assister lors de nos patrouilles en for\u00EAt."
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "\u00C7a demande du courage\u202F! \u266A"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon capables\\nde braver \u00E0 la fois les incendies et les inondations\\npour rejoindre nos \u00E9quipes. On compte sur vous\u202F!"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Remplissage de citerne"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon capables\\nde fournir un \u00E9l\u00E9ment essentiel \u00E0 l\u2019extinction\\ndes incendies. On compte sur vous\u202F!"
+  },
+  {
+    "index": 442,
+    "flags": 4,
+    "text": "Aromath\u00E9rapie"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon de go\u00FBt\\npour d\u00E9corer nos bureaux avec de jolies\\nplantes vertes. On compte sur vous\u202F!"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Nous livrons absolument partout\u202F!"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon robustes,\\ncapables de braver les torrents, les flammes\\net les orages pour livrer notre courrier\u202F!"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Nettoyage de camions de livraison"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "Nous recherchons des Pok\u00E9mon qui n\u2019ont pas\\npeur de se mouiller pour nettoyer nos camions\\nde livraison."
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Livraison de fleurs"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "Nous souhaitons ouvrir prochainement un service\\nde livraison de fleurs, et nous recherchons\\ndes experts en la mati\u00E8re pour nous aider\u202F!"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "miSSiOn TOp sEcr\u00E8TE"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "NoUS recHeRcHOnS QuelQu\u2019UN pOuR NOUs\\naiDER. GRoSSE r\u00E9cOmpeNSe \u00E0 LA cL\u00E9.\\nCOntacteZ-nOUs PoUR plUS dE D\u00E9Tails."
+  }
+]

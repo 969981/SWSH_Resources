@@ -1,0 +1,532 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Dig..."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Dig?!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dig... Dig..."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Digdaaa!!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Oh, Digda! Hier steckst du also!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Hahaha, du kleiner Ausrei\u00DFer! Ich hab mir schon\\nSorgen um dich gemacht!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Dig!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Danke, dass du mein Digda gefunden hast."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Das ist aber ein komisches Digda..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ist das ein Alola-Digda?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Sein Aussehen unterscheidet sich von anderen\\nDigda, weil es aus Alola kommt!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Je nach Region kann sich das Aussehen von\\nPok\u00E9mon n\u00E4mlich unterscheiden, wei\u00DFt du?\\c\\nDas nennt man \u201ERegionalform\u201C."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Oh! Wer h\u00E4tte gedacht, dass ich hier jemanden\\ntreffe, der sich mit Regionalformen auskennt?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Du liegst goldrichtig. Dieses Digda stammt\\naus der Alola-Region."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "W\u00E4hrend meiner Reise durch Alola hat es mich\\nmit seinen drei goldigen H\u00E4rchen einfach\\r\\nv\u00F6llig verzaubert."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Deswegen hab ich vor meiner Abreise so viele\\nvon ihnen gefangen, wie ich nur konnte...\\c\\nAber als ich nur einen kleinen Moment lang\\nunachtsam war, haben sie sich in alle\\r\\nHimmelsrichtungen vergraben!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Dig, dig!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ich hab so meine Probleme damit, sie zu finden,\\nwenn sie sich unter der Erde verstecken..."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Aber du scheinst daf\u00FCr eine Sp\u00FCrnase zu haben!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "W\u00FCrdest du mir einen Gefallen tun und auch\\nnach den anderen Digda suchen?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Das ist unheimlich nett von dir! Mir fehlen\\nregelrecht die Worte."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Keine Sorge, ich verlange wirklich nicht viel von\\ndir! Falls du auf deinem Abenteuer drei Haare\\r\\naus dem Boden ragen siehst, musst du sie einfach\\r\\nnur kurz untersuchen. Das war\u2019s schon!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Du hast bisher [VAR 0202(0001)] meiner Digda gefunden.\\nDas bedeutet, es fehl[VAR 1101(0002,0201)]ten noch [VAR 0202(0002)]!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Falls du eins von ihnen findest, schick es bitte\\nzu mir zur\u00FCck!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Falls du es findest, schick es bitte zu mir zur\u00FCck!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Hall\u00F6chen!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[VAR 0202(0001)] weitere[VAR 1101(0001,0001)]s Digda [VAR 1101(0001,0403)]istsind dank deiner Hilfe zu mir\\nzur\u00FCckgekehrt!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Darunter sogar eins, das sich zwischenzeitlich\\nin ein Digdri entwickelt hat..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Du wei\u00DFt, was du zu tun hast, wenn du wieder\\ndrei Haare aus dem Boden ragen siehst!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ich bin wirklich erleichtert, dass so viele Digda\\nzu mir zur\u00FCckgefunden haben!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Hier, mit diesem Pok\u00E9mon m\u00F6chte ich mich\\nf\u00FCr deine Hilfe bedanken."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon hab ich auch in Alola getroffen,\\nso wie meine Digda!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Hier, mit diesem Item m\u00F6chte ich mich\\nf\u00FCr deine Hilfe bedanken."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Mal sehen, wie viele Digda macht das...?"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Was? Alle 151 Digda sind wirklich wieder\\nversammelt?!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Ich wei\u00DF gar nicht, wie ich dir danken soll!\\nEndlich sind alle meine kleinen Freunde zur\u00FCck!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Digda, diiig!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Ich sch\u00E4tze, das sollte so was hei\u00DFen wie...\\c\\n\u201EIch bedanke mich recht herzlich daf\u00FCr,\\ndass du uns alle heil nach Hause gebracht hast!\u201C"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Da, da, da!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Jetzt aber mal langsam! Wenn ich\u2019s nicht besser\\nw\u00FCsste, w\u00FCrde ich denken, dass du dich\\r\\n[VAR 1100(00FF,0303,0000)]ihmihr am liebsten anschlie\u00DFen w\u00FCrdest...!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Daaa!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Wirklich? Irgendwie finde ich das schon schade..."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Aber wenn du dich so entschieden hast...\\c\\nReisende Digda soll man bekanntlich nicht\\naufhalten."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "K\u00FCmmer dich gut um meinen kleinen Freund,\\nh\u00F6rst du?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Digda hat sich dir angeschlossen!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Na, wie geht es Digda so?\\c\\nBei seinen Kumpels und mir ist zumindest immer\\neiniges los! Kein Wunder, bei 150 Digda..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "D-Diiig..."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Digda! Daaa!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Dig, dig!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Digdaaa!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Da, dig!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Dig, dig, diiig!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "*Flupp!* Daaa!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Digdaaa!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Dig, dig, dig, diiig!!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Diiigdaaa!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Daaa! Diiig!!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Da?"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Dig, dig, daaa!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Diiig!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Dadaaa!!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Da, da, daaa!"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Dig... Dig!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Dig, dig, diiig!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "*Buddel...* Diiig!!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Da? Da!"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Dig, da! Digda!"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Dig, dig! Dig dig dig... Diiig!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Digda!!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Dig, diiig!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Dadaaa!!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Digda! Digda! Digda!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Dig! Da, da!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Diiig... da?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "*Plopp!* Dig!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Da, daaa!!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Das Digda kehrt zu seinem Trainer zur\u00FCck..."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Das Digdri kehrt zu seinem Trainer zur\u00FCck..."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Es versteck[VAR 1101(0002,0201)]ten sich noch [VAR 0201(0002)] Digda\\n[VAR 0105(0001)]!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Du hast alle Digda gefunden, die sich\\n[VAR 0105(0001)] versteckt hatten!"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "im Gru\u00DFgefilde"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "im Balsamsumpf"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "im Fokusforst"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "am Strand der Pr\u00FCfung"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "in der K\u00E4mpfergrotte"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "auf dem Pfad der Pr\u00FCfung"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "in der Tapferkeitsh\u00F6hle"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "bei der Ringbucht"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "auf der Flei\u00DFebene"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "im Aufw\u00E4rmtunnel"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "in der W\u00FCstensenke"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "am Fitnessmeer"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "am Inselkettenmeer"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "beim Fernarchipel"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "am Wabenmeer"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "auf der Wabeninsel"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "-- \u00DCbersicht der noch fehlenden Digda --\\nGru\u00DFgefilde: [VAR 0201(0001)]\\nBalsamsumpf: [VAR 0201(0002)]\\nFokusforst: [VAR 0201(0003)]\\nStrand der Pr\u00FCfung: [VAR 0201(0004)]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "-- \u00DCbersicht der noch fehlenden Digda --\\nK\u00E4mpfergrotte: [VAR 0201(0001)]\\nPfad der Pr\u00FCfung: [VAR 0201(0002)]\\nTapferkeitsh\u00F6hle: [VAR 0201(0003)]\\nRingbucht: [VAR 0201(0004)]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "-- \u00DCbersicht der noch fehlenden Digda --\\nFlei\u00DFebene: [VAR 0201(0001)]\\nAufw\u00E4rmtunnel: [VAR 0201(0002)]\\nW\u00FCstensenke: [VAR 0201(0003)]\\nFitnessmeer: [VAR 0201(0004)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "-- \u00DCbersicht der noch fehlenden Digda --\\nInselkettenmeer: [VAR 0201(0001)]\\nFernarchipel: [VAR 0201(0002)]\\nWabenmeer: [VAR 0201(0003)]\\nWabeninsel: [VAR 0201(0004)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "-- \u00DCbersicht der noch fehlenden Digda --\\nSie sind alle heil wieder zur\u00FCckgekehrt.\\nVielen Dank daf\u00FCr! Man kann nie genug\\nDigda in seinem Leben haben."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Ah, damit w\u00E4ren wir bei mindestens [VAR 0202(0001)] Digda...\\nMit anderen Worten: Zeit f\u00FCr eine Belohnung!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Ich m\u00F6chte mich ordentlich bei dir bedanken,\\nsobald [VAR 0202(0001)] Digda wieder bei mir sind!"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Digda, daaa!"
+  }
+]

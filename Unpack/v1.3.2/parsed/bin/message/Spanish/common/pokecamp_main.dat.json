@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Salir"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": " Men\u00FA"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": " Cerrar"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": " Coger"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": " Cambiar"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": " Llamar"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": " Hablar"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Hablar con los dos"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Recoger la pelota"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": " Pok\u00E9se\u00F1uelo"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Pok\u00E9pelota"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": " Acercar"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": " A\u00F1adir a bloqueados"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Ver Tarjeta de Liga"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": " Enviar"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": " Agitar"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": " Lanzar"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": " Cambiar vista"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Guardar juguete"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00A1Hablemos!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00A1A jugar por ah\u00ED!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Nada"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u00BFQuieres dar por finalizada la acampada?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00BFQuieres salir del campamento de\\n[VAR 0100(0000)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ha dado por finalizada la\\nacampada."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u00A1Anda! [VAR 0101(0000)] ha venido al\\ncampamento."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Parece que [VAR 0101(0000)] quiere quedarse\\ncontigo. \u00BFTe gustar\u00EDa a\u00F1adirlo al equipo?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00A1[VAR 0101(0000)] se ha unido al equipo!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00A1[VAR 0101(0000)] ha entrado en [VAR 1700(0001,0000)]\\n[VAR 0109(0001)]!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] ha vuelto a la naturaleza."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se lo ha pasado pipa en el\\ncampamento y ha recibido [VAR 0206(0001,202F)] Punto[VAR 1101(0001,0100)]s de\\r\\nExperiencia."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha subido [VAR 0201(0001)] nivel[VAR 1101(0001,0200)]es!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "De acampada"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Se ha ido"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Buscando amigos"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Cocinando"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00A1Buenos d\u00EDas!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00A1Buenas!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00A1Buenas noches!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "guay"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "ideal"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "espectacular"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "fuerte"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "inteligente"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "bromista"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "vivaz"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "responsable"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "genial"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "alegre"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "incansable"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "feliz"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "resplandeciente"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "imperturbable"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "cort\u00E9s"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "salvaje"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "adorable"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "radiante"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "brillante"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "sublime"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "fascinante"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "exuberante"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "deslumbrante"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "elegante"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "noble"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": " Sacar un juguete"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": " Cambiar de juguete"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": " Coger la pelota"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Ver juguetes"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Cocinar"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Parar combate"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Hablar"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u00BFQuieres a\u00F1adir a [VAR 0100(0000)] a la lista de\\njugadores bloqueados?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "No podr\u00E1s volver a comunicarte con quienes\\na\u00F1adas a la lista de jugadores bloqueados.\\c\\n\u00BFQuieres a\u00F1adir a esta persona a la lista?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Has a\u00F1adido a [VAR 0100(0000)] a la lista de\\njugadores bloqueados."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "No puedes usar las funciones de comunicaci\u00F3n\\nen modo avi\u00F3n.\\c\\nNo podr\u00E1s recibir visitas en tu campamento\\nmientras est\u00E9 activado."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1Cu\u00E9ntame m\u00E1s!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u00A1Hasta luego!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "\u00A1Vamos a jugar!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Juguetes"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Cocinar"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Ya has a\u00F1adido a esta persona a la lista de\\njugadores bloqueados."
+  }
+]

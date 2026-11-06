@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Es ist meine Berufung, Mysteri\u00F6sen Pok\u00E9mon\\nAttacken beizubringen.\\c\\nIch mache zwar gerade Urlaub, aber es w\u00E4re\\nmir dennoch ein Vergn\u00FCgen, dein Pok\u00E9mon\\r\\neine Attacke zu lehren.\\c\\nNa, was sagst du?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Sieh einer an! Dein Pok\u00E9mon scheint diese\\nAttacke bereits zu beherrschen!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Wenn du Keldeo oder Meloetta im Team h\u00E4ttest,\\nk\u00F6nnte ich ihnen eine Attacke beibringen..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Soll ich einem deiner Pok\u00E9mon eine Attacke\\nbeibringen?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Gib mir einfach Bescheid, falls du es dir anders\\n\u00FCberlegen solltest."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Tja, einem Ei kann selbst jemand von meinem\\nFormat keine Attacken beibringen!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon kann beim besten Willen keine\\nAttacke von mir erlernen."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Nanu? Dein Pok\u00E9mon scheint diese Attacke\\nbereits zu beherrschen!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Oje! Dieses Pok\u00E9mon ist ja v\u00F6llig ausgelaugt!\\nEs hat absolut keine Kraft mehr zu k\u00E4mpfen..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Nanu? Dein [VAR 0102(0000)]..."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist entschlossen zu k\u00E4mpfen\\nund hat die Resolutform angenommen!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Welche Attacke soll durch\\n[VAR 0107(0000)] ersetzt werden?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Welchem Pok\u00E9mon soll ich eine Attacke\\nbeibringen?"
+  }
+]

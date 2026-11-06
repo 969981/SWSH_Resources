@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u563F\uFF01[VAR 0100(0000)]\uFF01[VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u5C0D\u4E86\uFF01[VAR 0100(0000)]\uFF0C\\n\u8AAA\u5230\u6349\u5BF6\u53EF\u5922\u7684\u65B9\u6CD5\u2026\u2026[VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u6211\u73FE\u5728\u5C31\u4F86\u6559[VAR 1100(00FF,0101)]\u4F60\u59B3\u5427\uFF01\\c\\n\u7562\u7ADF\uFF0C\u60F3\u5B8C\u6210\u5BF6\u53EF\u5922\u5716\u9451\u7684\u8A71\uFF0C\\n\u5FC5\u9808\u5F97\u5148\u6349\u5230\u5BF6\u53EF\u5922\u554A\uFF01[VAR 0114(0004)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u5927\u54E5\uFF01\uFF1F[VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u5DF2\u7D93\u6349\u5230\u5BF6\u53EF\u5922\u4E86\u554A\uFF01\\n\u592A\u68D2\u4E86\uFF0C[VAR 0100(0000)]\uFF01\uFF01\\c\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u7528\u7684\u662F\u5ABD\u5ABD\u9001\u7684\u7CBE\u9748\u7403\u5427\u3002[VAR 0114(0004)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u6240\u6709\u7684\u5BF6\u53EF\u5922\u90FD\u5177\u6709\u5C6C\u6027\uFF0C\\n\u800C\u4E14\u4F9D\u7167\u5C6C\u6027\u5206\u5225\u6709\u76F8\u524B\u7684\u5C0D\u8C61\uFF01\\c\\n\u6240\u4EE5\uFF0C\u6211\u5EFA\u8B70[VAR 1100(00FF,0101)]\u4F60\u59B3\u76E1\u91CF\u6355\u6349\\n\u53EF\u4EE5\u5F7C\u6B64\u4E92\u88DC\u7684\u5BF6\u53EF\u5922\uFF01\\c\\n\u6211\u4F86\u793A\u7BC4\u4E00\u4E0B\u5427\uFF01\\n\u51A0\u8ECD\u6642\u523B\uFF01\uFF01[VAR 0114(0004)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u5927\u54E5\u679C\u7136\u53B2\u5BB3\uFF01[VAR 0114(0005)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u4F86\uFF0C\u6211\u9001[VAR 1100(00FF,0101)]\u4F60\u59B3\u9019\u4E9B\u7CBE\u9748\u7403\u3002\\n\u597D\u597D\u5E6B\u81EA\u5DF1\u589E\u52A0\u5925\u4F34\u5427\uFF01\\c\\n\u5C24\u5176\u9019\u4E00\u5E36\u7684\u5BF6\u53EF\u5922\\n\u4F3C\u4E4E\u662F\u5F88\u60F3\u8207\u4EBA\u70BA\u4F34\uFF0C\\r\\n\u6349\u8D77\u4F86\u7279\u5225\u5BB9\u6613\u5594\uFF01[VAR 0114(0004)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u6355\u6349\u5BF6\u53EF\u5922\u4E5F\u53EF\u4EE5\u7372\u5F97\u7D93\u9A57\u503C\u5462\uFF01[VAR 0114(0005)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u76E1\u91CF\u548C\u8DEF\u4E0A\u7684\u5BF6\u53EF\u5922\u8A13\u7DF4\u5BB6\u5C0D\u6230\uFF0C\\n\u935B\u934A\u81EA\u5DF1\u7684\u5BF6\u53EF\u5922\u5427\uFF01\\c\\n\u4F60\u5011\u6703\u548C\u4EC0\u9EBC\u6A23\u7684\u5BF6\u53EF\u5922\\n\u4E00\u540C\u6210\u9577\u5462\u2026\u2026\uFF1F\\r\\n\u6211\u9019\u51A0\u8ECD\u4E39\u5E1D\u4E5F\u76F8\u7576\u671F\u5F85\u5594\uFF01[VAR 0114(0004)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u8D70\uFF01\u6211\u5011\u53BB\u6349\u4E9B\u5BF6\u53EF\u5922\uFF0C\\n\u8B93\u5BF6\u53EF\u5922\u535A\u58EB\u5687\u4E00\u8DF3\uFF01[VAR 0114(0005)]"
+  }
+]

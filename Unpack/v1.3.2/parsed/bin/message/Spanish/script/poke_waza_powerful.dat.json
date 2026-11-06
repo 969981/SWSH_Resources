@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Solo unos pocos elegidos pueden aprender un\\nmovimiento definitivo. \u00BFQuieres que se lo ense\u00F1e\\r\\na alguno de tus Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Claro, \u00BFqui\u00E9n soy yo para cuestionar tu criterio?\\nVuelve si cambias de parecer."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lamento tener que decir que no llevas ning\u00FAn\\nPok\u00E9mon capaz de aprenderlo."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo aprenda?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dir\u00EDa que [VAR 0102(0001)] no puede aprender\\nel movimiento."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "He visto muchas cosas raras, pero nunca un\\nHuevo atacando."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dir\u00EDa que [VAR 0102(0001)] ya conoce el\\nmovimiento."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento quieres que olvide?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "La clave de estos movimientos reside en saber\\nmanejar su tremenda fuerza destructiva."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Aqu\u00ED donde me ves, dedico lo que me queda de\\nexistencia a ayudar a aquellos Entrenadores con\\r\\nmenos experiencia.\\c\\nY, no en vano, son muchos los que acuden a m\u00ED\\npara que les ense\u00F1e movimientos definitivos a\\r\\nsus preciados Pok\u00E9mon.\\c\\n\u00BFAcaso eres t\u00FA uno de ellos?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00BFMe permitir\u00EDas ense\u00F1arle a alg\u00FAn Pok\u00E9mon de\\ntu equipo un movimiento definitivo?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, no llevas\\ncontigo ning\u00FAn Pok\u00E9mon que pueda aprender\\r\\neste tipo de movimientos.\\c\\nTe recomendar\u00EDa encarecidamente que te\\naprendieras la lista de los que s\u00ED pueden."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, no dudes en\\nacudir a m\u00ED de nuevo siempre que as\u00ED lo quieras."
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Entendido. Dime entonces a qu\u00E9 Pok\u00E9mon\\nquieres que le ense\u00F1e este movimiento."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, ese Pok\u00E9mon\\nno puede aprender un movimiento definitivo.\\c\\nTe recomendar\u00EDa encarecidamente que te\\naprendieras la lista de los que s\u00ED pueden."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, por desgracia,\\nlos Huevos no pueden aprender movimientos."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, tu Pok\u00E9mon\\npodr\u00EDa aprender este movimiento, pero todav\u00EDa\\r\\nno est\u00E1 lo bastante ligado a ti.\\c\\nVuelve de nuevo cuando el v\u00EDnculo que os une\\nsea m\u00E1s fuerte."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Mi preciad[VAR 1100(00FF,0101)]oa y joven Entrenador[VAR 1100(00FF,0100)]a, ese Pok\u00E9mon\\nya conoce un movimiento definitivo."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFMe permitir\u00EDas ense\u00F1arle a [VAR 0101(0000)] el\\nmovimiento [VAR 0107(0001)]?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "He aqu\u00ED la lista de Pok\u00E9mon capaces de\\naprender movimientos definitivos.\\c\\nPok\u00E9mon de coraz\u00F3n ardiente como Charizard,\\nTyphlosion, Blaziken, Infernape, Emboar,\\nDelphox e Incineroar.\\c\\nDel mismo modo, Pok\u00E9mon de \u00E1nimo acu\u00E1tico,\\ncomo Blastoise, Feraligatr, Swampert, Empoleon,\\nSamurott, Greninja y Primarina.\\c\\nPor \u00FAltimo, Pok\u00E9mon de esp\u00EDritu vegetal, como\\nVenusaur, Meganium, Sceptile, Torterra,\\nSerperior, Chesnaught y Decidueye."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Selecciona el movimiento que quieres sustituir\\npor [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no ha aprendido\\n[VAR 0107(0001)]."
+  }
+]
