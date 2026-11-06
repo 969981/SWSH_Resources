@@ -29,6 +29,22 @@ Hook 用法：[underworld.hpp](https://github.com/lincoln-lm/swsh-mods-exl/blob/
 
 全部地址检查：BuildID 对应性、原 NSO SHA-256、TEXT SHA-256、RVA 在 TEXT 中、ARM64 4 字节对齐、32 字节指令快照，随后将 `GenerateMainSpec` 的 pkNX 32 字节独立锚点进行交叉校验。其他函数名称来自上游 Hook 线索，**源代码给出的函数语义仍须动态追踪或交叉引用确认**。
 
+
+## 自动布防四个已知原生入口
+
+`scripts/swsh_weather_gdb_capture.py` 现在提供一键命令。**请先连接目标 GDB、从模块映射中确定当前 main 基址、确认剑盾游戏版本与 BuildID**；`case_id` 直接取自 `weather_bleed_268_cases.csv`：
+
+```gdb
+target remote <GDB_HOST:PORT>
+source scripts/swsh_weather_gdb_capture.py
+swsh-weather-arm-known . <case_id> <MAIN_BASE_HEX> <output.jsonl>
+continue
+```
+
+此命令读取经过 NSO 校验的 `nso_native_encounter_anchors.csv`，根据本次案例的 Sword/Shield BuildID 自动布防 `FetchZoneHash`、`FetchSymbolEncountTable`、`GenerateSymbolEncountParam` 和 `GenerateBasicSpec` 四个入口，保存 PC、32 位 ARM64 指令切片（16 字节）、寄存器与时间戳。每次断点命中会暂停，需由用户继续或单步。**日志里的 `branch_outcome` 固定 `UNDETERMINED`，它不是已证实的天气函数分支。**
+
+要人工对已经分析过的天气判断内部指令布断点，继续使用 `swsh-weather-capture <repo_root> <case_id> <main_base_hex> <verified_branch_rva_hex> <output.jsonl>`。这里所说的“已分析”必须具备 Ghidra/IDA 交叉引用和同 BuildID 的真实指令证据，不应直接使用闪光重掷 RVA。
+
 ## GDB 最小诊断
 
 **下面 `main_base` 必须从当前进程的模块映射中获取，不能直接套用其他项目的地址。** 在 GDB 里使用当前剑/盾对应的函数 RVA。先核对 NSO BuildID，然后用实际运行场景核对 ZoneHash：
