@@ -1,0 +1,87 @@
+{
+  "scope": "Sword/Shield v1.3.2; pkNX static weather rule disagreement",
+  "test_status": "NOT_TESTED_ON_REAL_GAME_OR_EMULATOR",
+  "source_sha256": {
+    "Unpack/v1.3.2/catalog/wild_weather_candidates.csv": "4f5fa094b3df7c9aae53a41ad94f8725ab890527ca3127578de79dcbf2b22603",
+    "Unpack/v1.3.2/catalog/wild_weather_locale_summary.json": "9057b5788803b846be8202412c02173d7da4e6750cb662f5e5085a0462be577f",
+    "Unpack/v1.3.2/catalog/nso_shiny_probe.json": "e770b6c66d7a8048b17226ad5f7ff8e4b18e916747610017ae148fae0bbfe564"
+  },
+  "case_count": 268,
+  "scenario_count": 48,
+  "control_count": 48,
+  "distinct_location_ids": 9,
+  "member_counts": {
+    "3": 26,
+    "2": 108,
+    "0": 26,
+    "1": 108
+  },
+  "direction_counts": {
+    "PKNX_ACCEPTS_BIT_REJECTS": 268
+  },
+  "location_counts": [
+    {
+      "location_id": 166,
+      "zone_zh": "清凉湿原",
+      "slots": 56
+    },
+    {
+      "location_id": 170,
+      "zone_zh": "挑战海滩",
+      "slots": 56
+    },
+    {
+      "location_id": 182,
+      "zone_zh": "热身洞穴",
+      "slots": 32
+    },
+    {
+      "location_id": 192,
+      "zone_zh": "蜂巢海",
+      "slots": 36
+    },
+    {
+      "location_id": 208,
+      "zone_zh": "冰点雪原",
+      "slots": 4
+    },
+    {
+      "location_id": 216,
+      "zone_zh": "登顶隧道",
+      "slots": 36
+    },
+    {
+      "location_id": 224,
+      "zone_zh": "海鸣洞窟",
+      "slots": 12
+    },
+    {
+      "location_id": 230,
+      "zone_zh": "球湖湖畔",
+      "slots": 4
+    },
+    {
+      "location_id": 232,
+      "zone_zh": "湖畔洞窟",
+      "slots": 32
+    }
+  ],
+  "build_id_by_game": {
+    "Sword": "A3B75BCD3311385AEED67FBEEB79CBB7BF02F471000000000000000000000000",
+    "Shield": "A16802625E7826BF83B6F9708E475B912A9AB7DF000000000000000000000000"
+  },
+  "case_schema": "member+ZoneID+subtable+table_index+slot_index; verify real zone/weather before replay",
+  "limitations": [
+    "pkNX is an offline dump/legality filter, not proof of in-game encounter behavior.",
+    "Scenario counts aggregate individual source slots; do not assume independent events.",
+    "A 0-hit encounter test cannot prove an encounter is blocked: rarity and event triggers matter.",
+    "GDB must identify the real game weather/encounter branch before branch_result can be trusted.",
+    "No runtime traces or real-game observations are included."
+  ],
+  "outputs": {
+    "weather_bleed_268_cases.csv": 268,
+    "weather_bleed_scenarios.csv": 48,
+    "weather_bleed_control_cases.csv": 48,
+    "weather_bleed_runtime_observations_TEMPLATE.csv": 0
+  }
+}
