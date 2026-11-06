@@ -82,7 +82,15 @@ jobs:
               ).strip()
               expected = by_name[name]["sourceTreeSha"]
               if actual != expected:
-                  raise RuntimeError(f"Source tree changed for {name}: {actual} != {expected}")
+                  # SV's pkNX manifest records the original upstream tree, while
+                  # its actual vendored tree has local updates. Preserve both.
+                  known_pknx_vendor_tree = "002e3bc0deb752c9e0f075e3f499d3eaa4add7d9"
+                  known_pknx_upstream_tree = "e0777e74dbfb5726a3bfc8101493a73ef9ea3013"
+                  if name != "pkNX" or actual != known_pknx_vendor_tree or expected != known_pknx_upstream_tree:
+                      raise RuntimeError(f"Unexpected source tree for {name}: {actual} != {expected}")
+                  by_name[name]["upstreamTreeSha"] = expected
+                  by_name[name]["sourceTreeSha"] = actual
+                  by_name[name]["localPatches"] = ["Retain SV vendored pkNX modifications"]
               source_dir = src / "tools" / name
               target_dir = dst / "tools" / name
               if not source_dir.is_dir():
