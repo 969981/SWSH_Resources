@@ -1,0 +1,50 @@
+name: SWSH v1.3.2 unpack shard planning
+
+on:
+  workflow_dispatch:
+    inputs:
+      shards:
+        description: "Number of balanced source shards (planning only)"
+        type: choice
+        options:
+          - "8"
+          - "16"
+          - "24"
+          - "32"
+        default: "16"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  plan:
+    name: Validate source inventory and produce archive-aware shard plan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /tests/
+            /docs/sword-v1.3.2-archive-manifest.csv
+            /sword_1.3.2_file_inventory_full.csv
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run synthetic planner tests
+        run: python -m unittest discover -s tests -p 'test_swsh_unpack_plan.py' -v
+      - name: Check 50,494 Sword RomFS paths and create weighted shards
+        env:
+          SHARDS: ${{ inputs.shards }}
+        run: |
+          python scripts/swsh_unpack_plan.py --shards "$SHARDS" --expected-count 50494 --out-dir artifacts/swsh-unpack-plan
+      - name: Upload plan and source coverage summary
+        uses: actions/upload-artifact@v4
+        with:
+          name: swsh-132-unpack-shard-plan
+          path: artifacts/swsh-unpack-plan/
+          if-no-files-found: error
+          retention-days: 14
