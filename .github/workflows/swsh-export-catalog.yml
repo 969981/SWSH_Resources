@@ -1,0 +1,69 @@
+name: SWSH 1.3.2 parsed JSON to CSV catalog
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/export_swsh_catalog.py'
+      - '.github/workflows/swsh-export-catalog.yml'
+      - 'docs/obsidian/SWSH-v1.3.2/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swsh-catalog-export-master
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            scripts/export_swsh_catalog.py
+            Unpack/v1.3.2/parsed/bin/pml/personal
+            Unpack/v1.3.2/parsed/bin/pml/evolution
+            Unpack/v1.3.2/parsed/bin/pml/waza
+            Unpack/v1.3.2/parsed/bin/pml/tamagowaza
+            Unpack/v1.3.2/parsed/bin/trainer/trainer_poke
+            Unpack/v1.3.2/catalog
+      - name: Validate and run exporter
+        run: |
+          python3 -m py_compile scripts/export_swsh_catalog.py
+          python3 scripts/export_swsh_catalog.py --root Unpack/v1.3.2/parsed --out Unpack/v1.3.2/catalog
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, json
+          root = Path('Unpack/v1.3.2/catalog')
+          summary = json.loads((root / 'summary.json').read_text(encoding='utf-8'))
+          rows = summary['rows']
+          assert rows.get('species_personal', 0) == 1192, rows
+          assert rows.get('moves', 0) == 827, rows
+          assert rows.get('evolution', 0) >= 1192, rows
+          assert rows.get('trainer_party', 0) >= 437, rows
+          assert rows.get('egg_moves', 0) >= 1, rows
+          for name, count in rows.items():
+              if count:
+                  with (root / (name + '.csv')).open(encoding='utf-8-sig', newline='') as f:
+                      actual = sum(1 for _ in csv.DictReader(f))
+                  assert actual == count, (name, actual, count)
+          print('Catalog validated:', rows)
+          PY
+      - name: Commit verified generated CSV
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/
+          if git diff --cached --quiet; then
+            echo 'CSV catalog unchanged'
+          else
+            git commit -m 'data(swsh): export verified parsed JSON catalogs [skip ci]'
+            git push origin HEAD:master
+          fi
