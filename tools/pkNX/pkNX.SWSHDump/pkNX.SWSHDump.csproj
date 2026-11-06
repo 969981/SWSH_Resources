@@ -8,5 +8,6 @@
   <ItemGroup>
     <ProjectReference Include="../pkNX.Containers/pkNX.Containers.csproj" />
     <ProjectReference Include="../pkNX.Structures/pkNX.Structures.csproj" />
+    <ProjectReference Include="../FlatBuffers/SWSH/pkNX.Structures.FlatBuffers.SWSH.csproj" />
   </ItemGroup>
 </Project>
