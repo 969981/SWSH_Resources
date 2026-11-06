@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Bienvenid[VAR 1100(00FF,0101)]oa! \u00BFTe interesa alguno de nuestros\\nchollos?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "El chollo de hoy"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "El chollo de ayer"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "El chollo de ma\u00F1ana"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No, gracias"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Hoy tenemos [VAR 1702(0001,0000)][VAR 010A(0001)]\\npor el m\u00F3dico precio de [VAR 0203(0002,0000)] \uE300. \u00BFTe interesa?"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Ayer ten\u00EDamos [VAR 1702(0001,0000)][VAR 010A(0001)]\\nal precio especial de [VAR 0203(0002,0000)] \uE300. \u00BFTe interesa?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ma\u00F1ana tendr\u00E1s la oportunidad de comprar\\n[VAR 1702(0001,0000)][VAR 010A(0001)]."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Gracias por la compra, maj[VAR 1100(00FF,0101)]oa."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00BFTe interesa algo m\u00E1s?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Vuelve si cambias de opini\u00F3n."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Oye, no es por no vender... pero es que no te\\nllega el dinero."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Oye, \u00BFte puedo encargar un recado?\\c\\nSi me traes el art\u00EDculo que busco antes de que\\nacabe el d\u00EDa, te lo pago con creces."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Hoy compro [VAR 1001][VAR 010A(0001)] por\\n[VAR 0205(0002,202F)] \uE300."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Oh, veo que traes lo que necesito.\\c\\nHazme el favor de venderme es[VAR 1102(0001,0101,0202)]eaosas\\n[VAR 010A(0001)] por [VAR 0205(0002,202F)] \uE300."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Cu\u00E1nto te lo agradezco. Aqu\u00ED tienes lo que te\\nhab\u00EDa prometido."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1Por la venta [VAR 1704(0001,0001)][VAR 010A(0001)]\\nrecibes [VAR 0205(0002,202F)] \uE300!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Menudo chasco..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vuelve ma\u00F1ana si te da por ah\u00ED."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1Ah\u00ED va! \u00A1Te has ganado el t\u00EDtulo de Campe\u00F3n!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1Ah\u00ED va! \u00A1Te has ganado el t\u00EDtulo de Campeona!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "No s\u00E9 qu\u00E9 se regala para felicitar eso...\\n\u00BFQu\u00E9 tal este chisme?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Vuelve para encontrar los mejores chollos."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "He desenterrado unos objetos extra\u00F1os y no\\ntengo ni la m\u00E1s remota idea de qu\u00E9 son ni para\\r\\nqu\u00E9 sirven.\\c\\n\u00BFTe quieres quedar alguno, majete?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "He desenterrado unos objetos extra\u00F1os y no\\ntengo ni la m\u00E1s remota idea de qu\u00E9 son ni para\\r\\nqu\u00E9 sirven.\\c\\n\u00BFTe quieres quedar alguno, majeta?"
+  }
+]

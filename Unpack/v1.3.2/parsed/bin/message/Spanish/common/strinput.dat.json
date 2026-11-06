@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo te llamas?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00BFTe llamas [VAR 0189(0000)]?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Ese nombre no est\u00E1 permitido."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "No est\u00E1 permitido usar\\n\u0022[VAR 012E(0000)]\u0022."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Introduce un nombre."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 mote le quieres poner a [VAR 0101(0000)]?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 mote le quieres poner a [VAR 0101(0000)] (\u2642)?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 mote le quieres poner a [VAR 0101(0000)] (\u2640)?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres ponerle [VAR 0101(0000)]?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 nombre le quieres poner a la caja?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01C0(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 nombre le quieres poner a tu Equipo de Combate?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres llamarlo [VAR 01BF(0000)]?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Introduce el c\u00F3digo o la contrase\u00F1a."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "El c\u00F3digo introducido no existe."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Introduce una contrase\u00F1a."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Introduce el n\u00FAmero de tu dorsal."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres el dorsal n\u00FAmero [VAR 01C4(0000)]?"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Ese n\u00FAmero no est\u00E1 permitido."
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Introduce tu mes de nacimiento."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Introduce tu d\u00EDa de nacimiento."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Por ejemplo, si naciste el 2 de enero, introduce 02 y 01."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00BFNaciste el [VAR 01C6(0001)] del [VAR 01C5(0000)]?"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Introduce la fecha correcta."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Puedes crear un c\u00F3digo de ocho d\u00EDgitos."
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Introduce un c\u00F3digo de ocho d\u00EDgitos."
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Introduce un ID de torneo."
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Introduce un n\u00FAmero de grupo."
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Introduce el ID del equipo que quieres tomar prestado."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Introduce un c\u00F3digo."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Introduce un nombre para el torneo."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Introduce un subt\u00EDtulo para el torneo."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Puedes dejarlo en blanco."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Puedes introducir un m\u00E1ximo de cinco d\u00EDgitos."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Introduce un n\u00FAmero del 1 al 12."
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Introduce un n\u00FAmero del 1 al 31."
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Introduce un n\u00FAmero del 1 al 30."
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Introduce un n\u00FAmero del 1 al 29."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "La informaci\u00F3n introducida no es v\u00E1lida."
+  }
+]

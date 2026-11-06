@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oh, si eres t\u00FA...[VAR 0114(0042)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00BFTambi\u00E9n has venido a vivir una Aventura\\nDinamax?\\c\\n\u00A1Guay! \u00A1Algo me dice que nos vamos a llevar\\nbien![VAR 0114(0042)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Yo me llamo Ariette. \u00A1Encantada![VAR 0114(0078)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFY t\u00FA c\u00F3mo te llamas?[VAR 0114(0078)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Yo soy [VAR 0100(0000)]!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], para servirte"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Te pega, la verdad! Tus padres sab\u00EDan lo que\\nhac\u00EDan.[VAR 0114(0078)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00A1Pffft! \u00BFQui\u00E9n dice \u0022para servirte\u0022? Qu\u00E9 gracia,\\n\u00A1me has ca\u00EDdo bien![VAR 0114(0078)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00BFEh? \u00BFQue mi padre tambi\u00E9n est\u00E1 aqu\u00ED?\\nPues no lo he visto por ninguna parte...\\c\\nSeguro que se ha perdido.[VAR 0114(0078)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Ah, s\u00ED, \u00A1perd\u00F3n por usarte antes para distraerlo![VAR 0114(0078)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Es bastante pesado, como habr\u00E1s podido ver...\\nEspero que se portara bien despu\u00E9s de que me\\r\\nfuera.[VAR 0114(0078)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo? \u00BFQue le ganaste a mi padre? \u00A1Venga ya![VAR 0114(0078)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00BFAs\u00ED que lo pasasteis bien combatiendo? \u00A1Guay![VAR 0114(0078)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Es fuerte, \u00BFverdad? Antes era L\u00EDder de Gimnasio\\ny, aunque estemos de vacaciones, siempre se\\r\\ntoma los combates muy en serio.[VAR 0114(0078)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Est\u00E1 emocionad\u00EDsimo con este viaje.[VAR 0114(0078)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Tiene planeada una expedici\u00F3n para aprender\\nm\u00E1s acerca de las leyendas del lugar...\\r\\n\u0022Tour aventuroso\u0022, creo que lo llama.[VAR 0114(0078)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Pero venga, no me dir\u00E1s que a ti no te dar\u00EDa\\nuna verg\u00FCenza suprema ir por ah\u00ED con tu padre\\r\\nhaciendo estas cosas.[VAR 0114(0078)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00A1Yo lo que quiero es enfrentarme a uno de esos\\nPok\u00E9mon Dinamax tan raros![VAR 0114(0078)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00BFTe lo imaginas? \u00A1Combatir contra un Pok\u00E9mon\\nas\u00ED de gigantesco tiene que ser una pasada![VAR 0114(0078)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1Espera, se me ha ocurrido un ide\u00F3n! Tienes pinta\\nde apa\u00F1\u00E1rtelas bien en combate, as\u00ED que...[VAR 0114(0078)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00BFPor qu\u00E9 no acompa\u00F1as t\u00FA a mi padre en su\\nexpedici\u00F3n?[VAR 0114(0078)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u00A1Suena divertido!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "No s\u00E9 si es buena idea..."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u00BFVerdaaad? \u00A1Si es que soy un genio![VAR 0114(0078)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "No pasa naaada, [VAR 1100(00FF,0506)]hombremujer. Aunque no lo\\nparezca, mi padre es de fiar.[VAR 0114(0078)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u00A1Le hace tanta ilusi\u00F3n que me da pena dejarlo\\nsolo![VAR 0114(0078)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00A1Y, qui\u00E9n sabe, igual os encontr\u00E1is a un Pok\u00E9mon\\nlegendario y todo![VAR 0114(0078)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Ir\u00E9 a buscaros cuando me haya hartado de\\nexplorar el Supernido Dinamax. \u00BFVale?[VAR 0114(0078)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00A1Vosotros id investigando las leyendas del lugar\\nmientras tanto![VAR 0114(0078)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Ea, \u00A1pues cu\u00E9ntale a mi padre el cambio de\\nplanes y a pasarlo bien![VAR 0114(0078)]"
+  }
+]

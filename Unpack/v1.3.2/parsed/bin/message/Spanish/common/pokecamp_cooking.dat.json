@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] ha venido al campamento!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Cocinar"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Invitar a cocinar"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Ayudar a cocinar"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Quiero cocinar!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ver bayas e ingredientes"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ver CurriDex"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Cancelar"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Ayudar"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Invitando a otros jugadores..."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Esperando a que est\u00E9 todo listo..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00BFQuieres cocinar con estos jugadores?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] te est\u00E1 invitando a cocinar!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Cocina con los ingredientes y bayas que tienes."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Invita a otros jugadores a cocinar contigo."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Comprueba los ingredientes y las bayas que\\ntienes a tu disposici\u00F3n."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Consulta las recetas que has preparado hasta\\nahora."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Regresa a la pantalla principal del campamento."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Ayuda a [VAR 0100(0000)] a cocinar."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Comunica a los dem\u00E1s que tienes ganas de\\ncocinar."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres hacer?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00BFQuieres dejar de cocinar?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1A cocinar!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Necesitas bayas para cocinar...\\nCons\u00EDguelas sacudiendo \u00E1rboles de bayas."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00BFQuieres que todos sepan que tienes ganas de\\ncocinar?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1Ahora todos saben que tienes ganas de cocinar!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Se ha cancelado la invitaci\u00F3n."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] est\u00E1 buscando jugadores con\\nlos que cocinar!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Ya se ha empezado a cocinar."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00BFQuieres cocinar con [VAR 0100(0000)]?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u00BFQuieres dejar de buscar jugadores con los que\\ncocinar?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Invitando..."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recibido [VAR 0206(0000,202F)] Puntos de Experiencia!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recuperado la mitad de los PS."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recuperado PS y sus problemas de estado se han curado."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recuperado PS y PP y sus problemas de estado se han curado."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas un poco mejor con tu[VAR 1101(00FD,0100)]s Pok\u00E9mon!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas bastante mejor con tu[VAR 1101(00FD,0100)]s Pok\u00E9mon!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas mucho mejor con tu[VAR 1101(00FD,0100)]s Pok\u00E9mon!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recibido algunos Puntos de Experiencia!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recibido Puntos de Experiencia!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00A1Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recibido muchos Puntos de Experiencia!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas mejor con [VAR 0102(0001)]!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas mejor con [VAR 0102(0001)] y compa\u00F1\u00EDa!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas bastante mejor con [VAR 0102(0001)]!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas bastante mejor con [VAR 0102(0001)] y compa\u00F1\u00EDa!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas mucho mejor con [VAR 0102(0001)]!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u00A1Ahora te llevas mucho mejor con [VAR 0102(0001)] y compa\u00F1\u00EDa!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Tu[VAR 1101(00FD,0100)]s Pok\u00E9mon ha[VAR 1101(00FD,0100)]n recuperado algunos PS."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "N.\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Descripci\u00F3n"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)].\\nEn total, lo has preparado [VAR 0202(0006)] ve[VAR 1101(0006,0301)]zces."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)].\\nEn total, lo has preparado [VAR 0202(0006)] ve[VAR 1101(0006,0301)]zces."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)]."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)] y\\ncompa\u00F1\u00EDa."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)] y\\ncompa\u00F1\u00EDa. En total, lo has preparado [VAR 0202(0006)] ve[VAR 1101(0006,0301)]zces."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Preparaste este curri por primera vez el [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] en\\n[VAR 1700(0003,0000)][VAR FF00(0002)][VAR 0105(0003)][VAR FF00(0000)] con [VAR 0102(0004)] y\\ncompa\u00F1\u00EDa. En total, lo has preparado [VAR 0202(0006)] ve[VAR 1101(0006,0301)]zces."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Valoraci\u00F3n"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Vac\u00EDo"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Has preparado [VAR 0202(0000)] variedad[VAR 1101(0000,0200)]es de curri."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Ingredientes"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Queda[VAR 1101(0000,0100)]n [VAR 0201(0000)] segundo[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 bayas quieres usar?"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres usar como ingrediente principal?"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Esperando a que los dem\u00E1s jugadores decidan..."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1ntas [VAR 1001][VAR 0109(0000)] quieres usar?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "\u00BFQuieres usar [VAR 0201(0001)] [VAR 010A(0000)]?"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00BFQuieres usar [VAR 1702(0000,0000)][VAR 0109(0000)]?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFQuieres dejar de cocinar?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u00BFQuieres volver a meter las bayas en la Bolsa?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00BFQuieres empezar a cocinar sin elegir ning\u00FAn\\ningrediente principal?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00BFQuieres cocinar con las bayas que has elegido?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Se ha producido un error de conexi\u00F3n.\\nVolver\u00E1s al campamento."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Seleccionar"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": " Dejar de cocinar"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": " Guardar bayas"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": " Cancelar selecci\u00F3n"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": " Ingredientes"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": " Todo listo"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": " Bayas"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": " No usar"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": " Cambiar vista"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": " Cambiar tama\u00F1o"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": " Ordenar"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": " Favoritos"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "No utilizar"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Todo listo"
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Dinero"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0206(0000,202F)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Vatios"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0206(0001,202F)] W"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "PB"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0206(0001,202F)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Combate"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Fecha de impresi\u00F3n"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Todos los Pok\u00E9mon de hasta Nv. [VAR 0201(0000)] obedecen\\nsin rechistar."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Todos los Pok\u00E9mon obedecen sin rechistar."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Captura"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Es posible capturar Pok\u00E9mon de hasta Nv. [VAR 0201(0000)]."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Es posible capturar cualquier Pok\u00E9mon\\nindependientemente de su nivel."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u202FSalir"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Ver reverso"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Ordenar"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": " Seleccionar y descartar"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": " Favorita"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": " Cerrar"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": " Seleccionar"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Descartar"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Ver anverso"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u00BFQuieres recibir la Tarjeta de Liga de\\n[VAR 0100(0000)]?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Recibir"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Cancelar"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Descartar"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres descartar esta selecci\u00F3n?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres descartar esta selecci\u00F3n?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Tu tarjeta"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "\u00C1lbum"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "No tienes ninguna tarjeta."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "C\u00F3digo"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Tarjeta de Liga de [VAR 0100(0000)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Recibir tarjeta"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Compartir tarjeta"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Cambiar tarjeta"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Puedes recibir la Tarjeta de Liga de otro jugador\\nintroduciendo su c\u00F3digo."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Recibir"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Puedes compartir el c\u00F3digo de tu tarjeta con otros\\njugadores para que puedan recibirla."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "C\u00F3digo de [VAR 0100(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": " No compartir tarjeta"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "\u00BFSeguro que quieres continuar?\\nOtros jugadores no podr\u00E1n recibir tu tarjeta."
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Ahora mismo nadie puede recibir tu tarjeta\\nporque no la est\u00E1s compartiendo."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Compartir tarjeta"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "\u00A1Ahora otros jugadores podr\u00E1n recibir tu tarjeta!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Fecha recepci\u00F3n"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "Ocasi\u00F3n"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Conexi\u00F3n"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Campamento"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Conexi\u00F3n Y"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Combate en conexi\u00F3n"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Intercambio Pok\u00E9mon"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Incursi\u00F3n Dinamax"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "C\u00F3digo"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Comunicaci\u00F3n local"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Internet"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Intercambiar tarjetas"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Se enviar\u00E1 la tarjeta actual.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Nuevas"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Antiguas"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Favoritas"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Ocasi\u00F3n"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Especiales"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Combate en conexi\u00F3n"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Campamento"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Incursi\u00F3n Dinamax"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Conexi\u00F3n Y"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Intercambio Pok\u00E9mon"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "C\u00F3digo"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo quieres ordenar tus tarjetas?"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Introducir c\u00F3digo"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "No es posible recibir la tarjeta porque tu\\n\u00E1lbum est\u00E1 lleno."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Ya tienes esa tarjeta."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Puedes generar un c\u00F3digo para tu Tarjeta de Liga."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Puedes introducir el c\u00F3digo de una Tarjeta de Liga para\\nrecibirla."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "\u00A1Has recibido la tarjeta de [VAR 0100(0000)]!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "No se ha podido enviar la tarjeta."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "No se ha podido recibir la tarjeta."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "No se ha podido descartar la tarjeta."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "No se ha encontrado ninguna tarjeta con ese\\nc\u00F3digo."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Se va a establecer la conexi\u00F3n a internet.\\nTu partida se guardar\u00E1.\\c\\n\u00BFQuieres seguir adelante?"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": " Continuar"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Conexi\u00F3n en curso...\\nEspera unos instantes."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Se ha establecido la conexi\u00F3n a internet.\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Guardando...\\nEspera unos instantes."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Se ha activado la conexi\u00F3n a internet.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Tu \u00E1lbum est\u00E1 completo.\\nHaz hueco para recibir m\u00E1s tarjetas."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Recibiendo tarjeta..."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "\u00A1Tarjeta recibida!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Se interrumpir\u00E1 la conexi\u00F3n a internet.\\n\u00BFQuieres continuar?"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Comunicaci\u00F3n local activada.\\c"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Desconectar"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Cancelar"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Interrumpiendo la conexi\u00F3n...\\nEspera un momento."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Compartiendo tarjeta..."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "\u00A1Tarjeta compartida!"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Ya tienes esa tarjeta."
+  }
+]

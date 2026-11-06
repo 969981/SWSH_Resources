@@ -1,0 +1,172 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Saludos, [VAR 0100(0000)]!\\n\u00BFQuieres disputar una Prueba Ce\u00F1ida?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1les son las reglas?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "En otro momento"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Abandonar"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Selecciona el tipo de Pok\u00E9mon con el que\\nquieres participar."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "No te preocupes. Si ahora no te ves preparad[VAR 1100(00FF,0101)]oa,\\nen otra ocasi\u00F3n ser\u00E1."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "La Prueba Ce\u00F1ida es un entrenamiento donde se\\ncombate con Pok\u00E9mon de un tipo concreto.\\c\\nPrimero debes decidir dicho tipo y luego elegir\\nhasta tres Pok\u00E9mon de ese tipo.\\c\\nSi logras cinco victorias consecutivas superar\u00E1s la\\nprueba, pero una sola derrota basta para darla\\r\\npor finalizada antes de tiempo.\\c\\nPor otra parte, en tu selecci\u00F3n no puede haber ni\\ndos objetos ni dos Pok\u00E9mon id\u00E9nticos.\\c\\nDispones de dos oportunidades entre combates\\npara curar a tu equipo, \u00A1\u00FAsalas sabiamente!\\c\\nBueno, eso es todo lo que deber\u00EDas saber.\\n\u00BFTe animas entonces?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00BFHas cambiado de opini\u00F3n? Vale, pues lo\\ndejamos para otro momento."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Empezamos con el primer combate!\\nListos..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00A1Pasamos al combate n\u00FAmero [VAR 0203(0001,0000)]!\\nListos..."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1En guardia!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1Excelente!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u00BFQuieres curar a tus Pok\u00E9mon?\\nA\u00FAn puedes curar a tu equipo [VAR 0200(0001)] ve[VAR 1101(0001,0301)]zces."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Has perdido, pero no te vengas abajo.\\c\\n\u00A1Entr\u00E9nate duro con tu equipo y vuelve a\\nintentarlo cuando quieras!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "La Prueba Ce\u00F1ida ha terminado.\\c\\nHas conseguido [VAR 0203(0001,0000)] victoria[VAR 1105(0001,0100,0001)]ss con tus Pok\u00E9mon\\nde tipo [VAR 0103(0002)]."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00A1Se ve que dominas el tipo [VAR 0103(0002)]!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Tus denodados esfuerzos merecen una buena\\nrecompensa."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1Intenta repetir la proeza con un tipo distinto!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1N-no puede ser!\\c\\n\u00BFDe verdad has superado ya la Prueba Ce\u00F1ida\\ncon todos los tipos de Pok\u00E9mon?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Me parece verdaderamente incre\u00EDble...\\n\u00A1Es una gesta al alcance de muy pocos!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Tu estilo de lucha entrar\u00E1 en los anales de la\\nhistoria del dojo.\\c\\nTe has ganado por m\u00E9ritos propios el derecho a\\nvestir esta ropa."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1No dejes nunca de superarte a ti mism[VAR 1100(00FF,0101)]oa!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00BFQuieres continuar la Prueba Ce\u00F1ida?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Curar a mi equipo y continuar"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Continuar"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00BFQuieres curar a tus Pok\u00E9mon?\\nA\u00FAn puedes curar a tu equipo [VAR 0200(0001)] ve[VAR 1101(0001,0301)]zces."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u00A1Has recibido [VAR 0201(0003)] Punto[VAR 1101(0003,0100)]s de Batalla!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u00A1Has recibido [VAR 1702(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\ncon motivo [VAR 01C2(0001)]!"
+  }
+]

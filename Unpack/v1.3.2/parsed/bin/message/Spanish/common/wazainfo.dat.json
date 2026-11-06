@@ -1,0 +1,4137 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Golpea con las patas o la cola."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un pu\u00F1etazo de gran potencia."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Arroja monedas al objetivo y las recupera al final del\\ncombate."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Pu\u00F1etazo ardiente que puede causar quemaduras."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Pu\u00F1etazo helado que puede llegar a congelar."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Pu\u00F1etazo el\u00E9ctrico que puede paralizar al adversario."
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Ara\u00F1a con afiladas garras."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Atrapa y atenaza al objetivo."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Ataque cortante que debilita al oponente de un golpe\\nsi acierta."
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Baile fren\u00E9tico que aumenta mucho el Ataque."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Corta al adversario con garras, guada\u00F1as, etc."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Crea un tornado con las alas y lo lanza contra el\\nobjetivo."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Golpea al objetivo con unas grandes alas."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Se lleva al objetivo, que es cambiado por otro\\nPok\u00E9mon. Si es un Pok\u00E9mon salvaje, acaba el\\ncombate."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "El usuario vuela en el primer turno y ataca en el\\nsegundo."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Ata y oprime de cuatro a cinco turnos."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Golpea con la cola o con lianas, por ejemplo, para\\ncausar da\u00F1o al objetivo."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Azota al objetivo con ramas finas."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Tremendo pisot\u00F3n que puede hacer que el objetivo se\\namedrente."
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Una patada doble. Golpea dos veces."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Patada de extrema fuerza."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Arroja arena a la cara y baja la Precisi\u00F3n."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Potente cabezazo que puede amedrentar al objetivo."
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Ataca al objetivo con una cornada."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Cornea al objetivo de dos a cinco veces."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Ataque con un cuerno giratorio que fulmina de un solo\\ngolpe al objetivo si lo alcanza."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Embestida con todo el cuerpo."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Salta sobre el objetivo con todo su peso y puede llegar\\na paralizarlo."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Oprime al objetivo de cuatro a cinco turnos con ramas\\no con su cuerpo."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Carga desmedida que tambi\u00E9n hiere al agresor."
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Ataque de dos a tres turnos que acaba confundiendo\\nal agresor."
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Ataque arriesgado que tambi\u00E9n hiere al agresor."
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Agita la cola para bajar la Defensa del equipo rival. "
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Lanza un aguij\u00F3n t\u00F3xico que puede envenenar al \\nobjetivo."
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Lanza finas p\u00FAas que hieren de dos a cinco veces. "
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Intimida a los rivales para bajar su Defensa."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Un voraz bocado que puede amedrentar al objetivo."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Dulce gru\u00F1ido que reduce el Ataque del equipo rival."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Se lleva al objetivo, que es cambiado por otro \\nPok\u00E9mon. Si es un Pok\u00E9mon salvaje, acaba el \\ncombate."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Cancioncilla que hace dormir profundamente al \\nobjetivo."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Raras ondas s\u00F3nicas que confunden al objetivo. "
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Desactiva el \u00FAltimo movimiento del objetivo durante \\ncuatro turnos."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Roc\u00EDa a los enemigos con un \u00E1cido corrosivo. \\nPuede bajar la Defensa Especial."
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ataca con llamas peque\u00F1as que pueden causar \\nquemaduras."
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ataca con una gran r\u00E1faga de fuego que puede causar\\nquemaduras."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Rodea de fina niebla al usuario y protege las \\ncaracter\u00EDsticas de su equipo durante cinco turnos. "
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Ataca disparando agua con gran potencia."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Lanza una gran masa de agua a presi\u00F3n para atacar. "
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Inunda el terreno de combate con una ola gigante."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Rayo de hielo que puede llegar a congelar."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Tormenta de hielo que puede llegar a congelar. "
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Extra\u00F1o rayo que puede causar confusi\u00F3n."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Diluvio de burbujas que puede bajar la Velocidad. "
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Rayo multicolor que puede reducir el Ataque."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Es eficaz, pero el atacante deber\u00E1 descansar en el \\nsiguiente turno."
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Ensarta al objetivo con un cuerno o pico punzante. "
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Picotazo giratorio y perforador muy potente."
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "El usuario se lanza al suelo con el oponente en brazos y\\ntambi\u00E9n se hace un poco de da\u00F1o."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Patada baja que derriba al oponente. Cuanto m\u00E1s pesa\\nel objetivo, m\u00E1s da\u00F1o le causa."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Devuelve un golpe f\u00EDsico por duplicado."
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Aprovecha la gravedad para derribar al objetivo.\\nLe resta tantos PS como nivel tenga el usuario."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Propina un potente pu\u00F1etazo con todas sus fuerzas."
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Un ataque que absorbe nutrientes. Quien lo usa\\nrecupera la mitad de los PS del da\u00F1o que produce."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Un ataque que absorbe nutrientes. Quien lo usa\\nrecupera la mitad de los PS del da\u00F1o que produce."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Planta semillas que absorben PS del objetivo en cada\\nturno y que le sirven para recuperarse."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Hace que su cuerpo crezca a marchas forzadas con lo\\nque aumenta su Ataque y Ataque Especial."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Corta con hojas afiladas. Un ataque que suele ser\\ncr\u00EDtico."
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "El usuario absorbe luz en el primer turno y en el\\nsegundo lanza un potente rayo de energ\u00EDa."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Polvo t\u00F3xico que envenena al objetivo."
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Esparce polvo que paraliza al objetivo."
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Esparce polvo que duerme al objetivo."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Lanza p\u00E9talos de dos a tres turnos y acaba \\nconfundiendo al atacante."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Lanza seda a los rivales y reduce mucho su Velocidad."
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Un aro de fuego que atrapa al objetivo de cuatro a \\ncinco turnos."
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Ataque el\u00E9ctrico que puede paralizar al objetivo. "
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Potente ataque el\u00E9ctrico que puede paralizar al \\nobjetivo."
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Una ligera descarga que paraliza al objetivo si lo \\nalcanza."
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Un poderoso rayo que da\u00F1a al objetivo y puede \\nparalizarlo."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Tira una peque\u00F1a roca al objetivo."
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Un terremoto que afecta a todos los Pok\u00E9mon que\\nest\u00E9n a su alrededor."
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Abre una grieta en el suelo y mete al objetivo en ella. \\nFulmina en un golpe."
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "El usuario cava durante el primer turno y ataca en el\\nsegundo."
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Envenena gravemente al objetivo y causa un da\u00F1o \\nmayor en cada turno."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "D\u00E9bil ataque telequin\u00E9tico que puede causar confusi\u00F3n."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Fuerte ataque telequin\u00E9tico que puede bajar la\\nDefensa Especial del objetivo."
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Ataque hipn\u00F3tico que hace dormir profundamente al\\nobjetivo."
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Relaja el cuerpo para ganar mucha Velocidad. "
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Ataca al objetivo a gran velocidad. Este movimiento\\ntiene prioridad alta. "
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Permite al usuario cambiarse por otro Pok\u00E9mon del\\nequipo, si es posible. Si un Pok\u00E9mon salvaje usa este\\nmovimiento, huye del combate."
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Produce un espejismo ante el objetivo, que pierde\\ntantos PS como nivel tenga el usuario."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Copia el \u00FAltimo movimiento usado por el objetivo, y \\npuede utilizarlo mientras est\u00E9 en el combate."
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Alarido agudo que reduce mucho la Defensa del \\nobjetivo."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Crea copias de s\u00ED mismo para mejorar la Evasi\u00F3n. "
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Restaura hasta la mitad de los PS m\u00E1ximos."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Tensa la musculatura del usuario para aumentar la \\nDefensa."
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "El usuario mengua para aumentar mucho la Evasi\u00F3n. "
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Baja la Precisi\u00F3n del objetivo con una nube de humo \\no tinta."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Rayo siniestro que confunde al objetivo."
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "El usuario se resguarda en su coraza, por lo que le sube\\nla Defensa."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Se enrosca para ocultar sus puntos d\u00E9biles y aumentar\\nla Defensa."
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Pared de luz que reduce durante cinco turnos el da\u00F1o\\nproducido por los ataques especiales."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Neblina que elimina los cambios de caracter\u00EDsticas\\nde todos los Pok\u00E9mon en combate."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Pared de luz que reduce durante cinco turnos el da\u00F1o\\nproducido por los ataques f\u00EDsicos."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Concentra energ\u00EDa para aumentar las posibilidades de\\nasestar un golpe cr\u00EDtico."
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Mueve un dedo y estimula su cerebro para usar al azar\\ncasi cualquier movimiento."
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "El atacante explota y hiere a todos a su alrededor. \\nEl usuario se debilita de inmediato."
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "Una lengua ataca al objetivo. Puede causar par\u00E1lisis. "
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Lanza un ataque con gases t\u00F3xicos que pueden llegar a\\nenvenenar."
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Arroja residuos al objetivo. Puede llegar a envenenar."
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Llama intensa que chamusca y puede causar \\nquemaduras."
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Embiste con un gran impulso que puede llegar a\\namedrentar."
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Lanza rayos en forma de estrella que no fallan nunca."
+  },
+  {
+    "index": 130,
+    "flags": 4,
+    "text": "El usuario se prepara y sube su Defensa en el primer\\nturno y en el segundo arremete con un cabezazo."
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "El usuario olvida sus preocupaciones y aumenta mucho\\nla Defensa Especial."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Dobla una cuchara para distraer al objetivo y bajar su\\nnivel de Precisi\u00F3n."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Restaura la mitad de los PS m\u00E1ximos del usuario."
+  },
+  {
+    "index": 136,
+    "flags": 4,
+    "text": "El usuario salta muy alto y da un rodillazo. Si falla, se\\nhar\u00E1 da\u00F1o."
+  },
+  {
+    "index": 137,
+    "flags": 4,
+    "text": "Intimida y asusta al objetivo con la mirada para dejarlo\\nparalizado."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Restaura al usuario la mitad del da\u00F1o causado a un \\nobjetivo dormido."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Lanza una nube de gas t\u00F3xico al objetivo. Produce\\nenvenenamiento."
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Restaura al usuario la mitad del da\u00F1o causado al \\nobjetivo."
+  },
+  {
+    "index": 142,
+    "flags": 4,
+    "text": "Intimida al objetivo con una cara que asusta y le da\\nun beso que lo deja dormido."
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Ataca durante dos turnos y suele asestar un golpe\\ncr\u00EDtico. Tambi\u00E9n puede amedrentar al objetivo."
+  },
+  {
+    "index": 144,
+    "flags": 4,
+    "text": "El usuario se transforma en una copia del objetivo, con\\nlos mismos movimientos."
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "Esparce esporas que inducen al sue\u00F1o."
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 149,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "No tiene ning\u00FAn efecto. Solo salpica."
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Transforma la estructura celular para hacerse l\u00EDquido y\\naumenta mucho la Defensa."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Golpea con fuerza con una pinza enorme. Suele asestar\\nun golpe cr\u00EDtico."
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "El atacante causa una grand\u00EDsima explosi\u00F3n y hiere \\na todos a su alrededor. El usuario se debilita de \\ninmediato."
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Ara\u00F1a r\u00E1pidamente de dos a cinco veces."
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Lanza un hueso a modo de bumer\u00E1n que golpea dos \\nveces."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Restaura todos los PS y cura todos los problemas de\\nestado del usuario, que se duerme los dos turnos\\nsiguientes."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Lanza grandes pedruscos. Puede amedrentar al objetivo."
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Ataca con agudos colmillos. Puede amedrentar al\\nobjetivo."
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Cambia el tipo del usuario por el del primero de sus \\nmovimientos."
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "Ataque triple que puede paralizar, quemar o congelar\\nal objetivo."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Finos colmillos que reducen a la mitad los PS del\\nobjetivo."
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "Ataca con cuchillas o con pinzas. Suele asestar un\\ngolpe cr\u00EDtico."
+  },
+  {
+    "index": 164,
+    "flags": 4,
+    "text": "Utiliza parte de los PS propios para crear un sustituto\\nque act\u00FAa como se\u00F1uelo."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Solo se usa como \u00FAltimo recurso al acabarse los PP. \\nHiere un poco al agresor."
+  },
+  {
+    "index": 166,
+    "flags": 4,
+    "text": "Aprende de forma permanente el \u00FAltimo movimiento \\nutilizado por el objetivo. Es de un solo uso."
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Patea hasta tres veces seguidas y cada vez m\u00E1s fuerte."
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "El agresor ataca y le quita el objeto al objetivo siempre\\ny cuando no lleve ninguno."
+  },
+  {
+    "index": 169,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "El usuario adivina los movimientos del objetivo para \\nhacer que su siguiente ataque no falle."
+  },
+  {
+    "index": 171,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 172,
+    "flags": 4,
+    "text": "Ataca envuelto en fuego. Puede causar quemaduras. "
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Fuerte ronquido que solo puede usarse dormido.\\nPuede amedrentar al objetivo."
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "Un movimiento que tiene efectos distintos si el usuario\\nes de tipo Fantasma o no."
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Ataque fren\u00E9tico. Cuantos menos PS tenga el usuario,\\nm\u00E1s da\u00F1o producir\u00E1."
+  },
+  {
+    "index": 176,
+    "flags": 4,
+    "text": "El usuario cambia de tipo para hacerse resistente al\\n\u00FAltimo tipo de movimiento usado por el objetivo. "
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Lanza un chorro de aire que suele asestar un golpe\\ncr\u00EDtico."
+  },
+  {
+    "index": 178,
+    "flags": 4,
+    "text": "Adhiere esporas a los rivales para reducir mucho su \\nVelocidad."
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "Ataque desesperado que causa m\u00E1s da\u00F1o cuantos\\nmenos PS tenga el usuario."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Da rienda suelta a su rencor para reducir cuatro PP \\ndel \u00FAltimo movimiento usado por el objetivo. "
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Lanza nieve que puede llegar a congelar."
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Frena todos los ataques, pero puede fallar si se usa \\nrepetidamente."
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Pu\u00F1etazo de velocidad fulminante. Este movimiento\\ntiene prioridad alta."
+  },
+  {
+    "index": 184,
+    "flags": 4,
+    "text": "Asusta al objetivo para reducir mucho su Velocidad. "
+  },
+  {
+    "index": 185,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Da un beso con tal dulzura que causa confusi\u00F3n. "
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Reduce la mitad de los PS m\u00E1ximos para mejorar al\\nm\u00E1ximo el Ataque."
+  },
+  {
+    "index": 188,
+    "flags": 4,
+    "text": "Arroja residuos al objetivo. Puede llegar a envenenar."
+  },
+  {
+    "index": 189,
+    "flags": 4,
+    "text": "Echa lodo en la cara para bajar la Precisi\u00F3n."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Dispara tinta a la cara. Puede bajar la Precisi\u00F3n."
+  },
+  {
+    "index": 191,
+    "flags": 4,
+    "text": "Esparce p\u00FAas alrededor del equipo rival que hieren \\na los Pok\u00E9mon rivales que entran en combate. "
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Dispara una descarga el\u00E9ctrica que causa da\u00F1o y \\npar\u00E1lisis."
+  },
+  {
+    "index": 193,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Si el usuario se debilita por un ataque rival antes de\\nusar otro movimiento, el Pok\u00E9mon rival se debilitar\u00E1\\ntambi\u00E9n. Puede fallar si se usa repetidamente."
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Si un Pok\u00E9mon escucha este canto y no es cambiado\\npor otro en tres turnos, acaba debilit\u00E1ndose. "
+  },
+  {
+    "index": 196,
+    "flags": 4,
+    "text": "Ataque con aire helado que baja la Velocidad de los \\nrivales."
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Frena todos los ataques, pero puede fallar si se usa \\nrepetidamente."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "Hueso en ristre, aporrea al objetivo de dos a cinco \\nveces."
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "Fija el blanco para que el siguiente ataque no falle. "
+  },
+  {
+    "index": 200,
+    "flags": 4,
+    "text": "Ataca de dos a tres turnos y acaba confundiendo al \\nagresor."
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Tormenta de arena que dura cinco turnos y hiere a \\ntodos, excepto a los de tipo Roca, Tierra y Acero,\\ny aumenta la Defensa Especial de los de tipo Roca."
+  },
+  {
+    "index": 202,
+    "flags": 4,
+    "text": "Un ataque que absorbe nutrientes. Quien lo usa \\nrecupera la mitad de los PS del da\u00F1o que produce. "
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Resiste cualquier ataque y deja al menos 1 PS. \\nPuede fallar si se usa repetidamente."
+  },
+  {
+    "index": 204,
+    "flags": 4,
+    "text": "Engatusa al objetivo y reduce mucho su Ataque."
+  },
+  {
+    "index": 205,
+    "flags": 4,
+    "text": "El atacante rueda contra el objetivo durante cinco \\nturnos, cada vez con mayor fuerza."
+  },
+  {
+    "index": 206,
+    "flags": 4,
+    "text": "Ataque moderado que no debilita al objetivo y le deja\\nal menos 1 PS."
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Provoca confusi\u00F3n en el objetivo, pero tambi\u00E9n sube \\nmucho su Ataque."
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "Restaura la mitad de los PS m\u00E1ximos del usuario."
+  },
+  {
+    "index": 209,
+    "flags": 4,
+    "text": "Ataque el\u00E9ctrico que puede llegar a paralizar."
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "Ataque con garras o guada\u00F1a que crece en intensidad\\nsi se usa repetidas veces."
+  },
+  {
+    "index": 211,
+    "flags": 4,
+    "text": "Alas macizas que golpean al objetivo y pueden subir \\nla Defensa del usuario."
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Mal de ojo que impide al objetivo huir del combate."
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Si el objetivo es del sexo opuesto, se enamorar\u00E1 y \\nbajar\u00E1 la posibilidad de que ataque."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Mientras duerme, usa uno de sus movimientos elegido\\nal azar."
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Ta\u00F1ido que cura los problemas de estado de todos los\\nPok\u00E9mon del equipo."
+  },
+  {
+    "index": 216,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Quien lo usa ataca al objetivo d\u00E1ndole un regalo con\\nuna bomba trampa. Sin embargo, a veces restaura sus\\nPS. "
+  },
+  {
+    "index": 218,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 219,
+    "flags": 4,
+    "text": "Un escudo que protege de problemas de estado, como\\nel sue\u00F1o o la par\u00E1lisis, durante cinco turnos. "
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Suma los PS del usuario a los del objetivo y los reparte\\na partes iguales."
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Fuego m\u00EDstico de gran intensidad que puede causar \\nquemaduras."
+  },
+  {
+    "index": 222,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Pu\u00F1etazo con toda la fuerza concentrada. Causa \\nconfusi\u00F3n si atina."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Violenta embestida con cuernos imponentes."
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Poderosa r\u00E1faga de aliento que golpea al objetivo y \\npuede paralizarlo."
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Cambia el puesto con otro miembro del equipo y le\\npasa los cambios de caracter\u00EDsticas."
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "El objetivo repite su \u00FAltimo movimiento durante tres \\nturnos."
+  },
+  {
+    "index": 228,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 229,
+    "flags": 4,
+    "text": "Ataque giratorio que puede eliminar movimientos como\\nAtadura, Constricci\u00F3n y Drenadoras. Tambi\u00E9n aumenta\\nla Velocidad del usuario."
+  },
+  {
+    "index": 230,
+    "flags": 4,
+    "text": "Un dulce aroma engatusa al objetivo, por lo que se\\nreduce mucho su Evasi\u00F3n."
+  },
+  {
+    "index": 231,
+    "flags": 4,
+    "text": "Ataca con una cola f\u00E9rrea y puede bajar la Defensa \\ndel objetivo."
+  },
+  {
+    "index": 232,
+    "flags": 4,
+    "text": "Ataque con garras de acero que puede aumentar el \\nAtaque del usuario."
+  },
+  {
+    "index": 233,
+    "flags": 4,
+    "text": "El usuario ataca el \u00FAltimo, pero no falla."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "Restaura PS del usuario. La cantidad var\u00EDa seg\u00FAn \\nel tiempo que haga."
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Restaura PS del usuario. La cantidad var\u00EDa seg\u00FAn \\nel tiempo que haga."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Restaura PS del usuario. La cantidad var\u00EDa seg\u00FAn \\nel tiempo que haga."
+  },
+  {
+    "index": 237,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Corte doble que suele propinar un golpe cr\u00EDtico. "
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Crea un violento tornado para hacer trizas al objetivo.\\nPuede amedrentarlo."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Genera una fuerte lluvia que refuerza los movimientos\\nde tipo Agua durante cinco turnos y debilita los de tipo\\nFuego."
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Hace que se intensifique el efecto del sol durante\\ncinco turnos, lo que potencia los movimientos de tipo\\nFuego y debilita los de tipo Agua."
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Tritura con afilados colmillos y puede bajar la Defensa\\ndel objetivo."
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Responde a un ataque especial ocasionando el doble \\ndel da\u00F1o recibido."
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Quien lo usa se sume en un trance y copia cualquier\\ncambio que haya en las caracter\u00EDsticas de su objetivo."
+  },
+  {
+    "index": 245,
+    "flags": 4,
+    "text": "Ataque de una velocidad extrema. Este movimiento\\ntiene prioridad alta."
+  },
+  {
+    "index": 246,
+    "flags": 4,
+    "text": "Ataque prehist\u00F3rico que puede subir todas las \\ncaracter\u00EDsticas."
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Lanza una bola oscura que puede bajar la Defensa \\nEspecial del objetivo."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Concentra energ\u00EDa ps\u00EDquica para golpear al objetivo dos\\nturnos despu\u00E9s."
+  },
+  {
+    "index": 249,
+    "flags": 4,
+    "text": "Ataque con los pu\u00F1os. Puede bajar la Defensa del\\nobjetivo."
+  },
+  {
+    "index": 250,
+    "flags": 4,
+    "text": "Una tromba de agua atrapa al objetivo durante cuatro o\\ncinco turnos."
+  },
+  {
+    "index": 251,
+    "flags": 4,
+    "text": "Ataque de todo el equipo Pok\u00E9mon. Cuantos m\u00E1s haya,\\nm\u00E1s veces se atacar\u00E1."
+  },
+  {
+    "index": 252,
+    "flags": 4,
+    "text": "Amedrenta al objetivo con este movimiento de\\nprioridad alta. Solo sirve en el primer turno."
+  },
+  {
+    "index": 253,
+    "flags": 4,
+    "text": "Ataca de forma alborotada durante tres turnos. \\nMantiene despiertos a todos."
+  },
+  {
+    "index": 254,
+    "flags": 4,
+    "text": "Acumula energ\u00EDa y sube la Defensa y la Defensa \\nEspecial. Puede utilizarse hasta tres veces."
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Libera de una vez la energ\u00EDa acumulada con Reserva.\\nLa potencia del ataque ser\u00E1 proporcional a la cantidad\\nde energ\u00EDa acumulada."
+  },
+  {
+    "index": 256,
+    "flags": 4,
+    "text": "Absorbe la energ\u00EDa acumulada con Reserva para\\nrecobrar salud. Cuanta m\u00E1s se haya acumulado,\\nmayor ser\u00E1 el n\u00FAmero de PS que se recuperen."
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Provoca un viento abrasador que puede quemar al \\nobjetivo."
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Tormenta de granizo que dura cinco turnos. Hiere a\\ntodos los Pok\u00E9mon excepto a los de tipo Hielo."
+  },
+  {
+    "index": 259,
+    "flags": 4,
+    "text": "Atormenta y enfurece al objetivo, que no puede usar\\ndos veces seguidas el mismo movimiento. "
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Halaga al objetivo y lo confunde, pero tambi\u00E9n sube\\nsu Ataque Especial."
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Siniestra llama morada que produce quemaduras. "
+  },
+  {
+    "index": 262,
+    "flags": 4,
+    "text": "El usuario se debilita, pero baja mucho tanto el \\nAtaque como el Ataque Especial del objetivo. "
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Si el usuario est\u00E1 quemado, paralizado o envenenado,\\nataca con el doble de potencia."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Se concentra para dar un pu\u00F1etazo. Falla si se sufre un\\ngolpe antes de su uso."
+  },
+  {
+    "index": 265,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Llama la atenci\u00F3n para concentrar todos los ataques de\\ntodos los del equipo rival hacia s\u00ED mismo."
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "Usa el poder de la naturaleza para atacar. Su efecto\\nvar\u00EDa seg\u00FAn el entorno de combate."
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Recarga energ\u00EDa para potenciar el siguiente movimiento\\nde tipo El\u00E9ctrico. Tambi\u00E9n sube la Defensa Especial."
+  },
+  {
+    "index": 269,
+    "flags": 4,
+    "text": "Enfurece al objetivo para que solo use movimientos de\\nataque durante tres turnos."
+  },
+  {
+    "index": 270,
+    "flags": 4,
+    "text": "El usuario ayuda a un aliado reforzando la potencia de\\nsu ataque."
+  },
+  {
+    "index": 271,
+    "flags": 4,
+    "text": "Enga\u00F1a al objetivo desprevenido e intercambia objetos."
+  },
+  {
+    "index": 272,
+    "flags": 4,
+    "text": "Imita al objetivo por completo y copia su habilidad. "
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Restaura en el siguiente turno la mitad de los PS\\nm\u00E1ximos del usuario o se los pasa al Pok\u00E9mon que lo\\nsustituye."
+  },
+  {
+    "index": 274,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 275,
+    "flags": 4,
+    "text": "Echa ra\u00EDces para recuperar PS en cada turno, pero \\nimpide el relevo."
+  },
+  {
+    "index": 276,
+    "flags": 4,
+    "text": "Ataque de gran potencia, pero que reduce el Ataque y\\nla Defensa del agresor."
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Barrera capaz de devolver al agresor movimientos \\ncomo Drenadoras y otros que alteran el estado o \\nlas caracter\u00EDsticas."
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Recicla y as\u00ED recupera un objeto equipado de un solo\\nuso que ya haya sido empleado durante el combate."
+  },
+  {
+    "index": 279,
+    "flags": 4,
+    "text": "Ataque que produce el doble de da\u00F1o si el usuario\\nresulta herido en el mismo turno."
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Potente ataque que tambi\u00E9n es capaz de destruir \\nbarreras como Pantalla de Luz y Reflejo."
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "Gran bostezo que induce al sue\u00F1o al objetivo en el\\nsiguiente turno."
+  },
+  {
+    "index": 282,
+    "flags": 4,
+    "text": "Impide al objetivo usar el objeto que lleva durante el\\ncombate. La potencia del movimiento se multiplica si\\nel objetivo lleva un objeto."
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "Reduce los PS del objetivo para que igualen a los del\\natacante."
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "Furia explosiva. Cuanto menor sea el n\u00FAmero de PS del\\nusuario, menos da\u00F1o har\u00E1 el ataque. "
+  },
+  {
+    "index": 285,
+    "flags": 4,
+    "text": "Usa el poder ps\u00EDquico para intercambiar habilidades\\ncon el objetivo."
+  },
+  {
+    "index": 286,
+    "flags": 4,
+    "text": "Impide a los contrincantes usar ataques conocidos por\\nel usuario durante el combate."
+  },
+  {
+    "index": 287,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Si el usuario se debilita al recibir un ataque, todos los\\nPP de este \u00FAltimo ataque ser\u00E1n eliminados."
+  },
+  {
+    "index": 289,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 290,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 291,
+    "flags": 4,
+    "text": "El usuario se sumerge en el primer turno y ataca en el\\nsegundo."
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Fuertes empujones que golpean de dos a cinco veces\\nseguidas."
+  },
+  {
+    "index": 293,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 294,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "Fogonazo de luz que puede bajar la Defensa Especial\\ndel objetivo."
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Banco de niebla que puede bajar el Ataque Especial del\\nobjetivo."
+  },
+  {
+    "index": 297,
+    "flags": 4,
+    "text": "Envuelve al objetivo con un manto de plumas para \\nreducir mucho su Ataque."
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Danza hist\u00E9rica que confunde a los Pok\u00E9mon que est\u00E1n\\nalrededor del usuario."
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Patada que suele ser un golpe cr\u00EDtico y puede causar\\nquemaduras."
+  },
+  {
+    "index": 300,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 301,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 302,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 303,
+    "flags": 4,
+    "text": "El usuario se relaja y restaura la mitad de sus PS \\nm\u00E1ximos."
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Grito desgarrador que inflige da\u00F1o al objetivo. "
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Colmillos t\u00F3xicos que pueden envenenar gravemente al\\nobjetivo."
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "Hace trizas al objetivo con garras afiladas y puede bajar\\nsu Defensa."
+  },
+  {
+    "index": 307,
+    "flags": 4,
+    "text": "Explosi\u00F3n de fuego. El atacante debe descansar el \\nsiguiente turno."
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Disparo de agua. El atacante debe descansar el \\nsiguiente turno."
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Pu\u00F1etazo que impacta como un meteorito y puede subir\\nel Ataque del agresor."
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Lanza un grito tan tremendo que impresiona y puede\\namedrentar al objetivo."
+  },
+  {
+    "index": 311,
+    "flags": 4,
+    "text": "El tipo y fuerza del ataque var\u00EDan seg\u00FAn el tiempo que\\nhaga."
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "Cura todos los problemas de estado del equipo con un\\nsuave aroma."
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "L\u00E1grimas de cocodrilo que bajan mucho la Defensa\\nEspecial del objetivo."
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Viento cortante que azota. Suele ser un golpe cr\u00EDtico."
+  },
+  {
+    "index": 315,
+    "flags": 4,
+    "text": "Ataque en toda regla que baja mucho el Ataque \\nEspecial de quien lo usa."
+  },
+  {
+    "index": 316,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Tira rocas que detienen al objetivo y bajan su\\nVelocidad."
+  },
+  {
+    "index": 318,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Horrible chirrido met\u00E1lico que baja mucho la Defensa\\nEspecial del objetivo."
+  },
+  {
+    "index": 320,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Hace re\u00EDr al objetivo para bajar su Ataque y Defensa."
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Sube la Defensa y la Defensa Especial propias con \\nenerg\u00EDa m\u00EDstica."
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Chorro de agua. Cuantos menos PS tenga el usuario,\\nmenos da\u00F1ino ser\u00E1."
+  },
+  {
+    "index": 324,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "Pu\u00F1etazo ineludible procedente de las sombras. "
+  },
+  {
+    "index": 326,
+    "flags": 4,
+    "text": "Emite una energ\u00EDa muy extra\u00F1a que puede amedrentar\\nal objetivo."
+  },
+  {
+    "index": 327,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 328,
+    "flags": 4,
+    "text": "Enreda al objetivo en un remolino de arena de cuatro a\\ncinco turnos."
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Debilita al objetivo de un solo golpe. Si lo usa un\\nPok\u00E9mon que no sea de tipo Hielo, es dif\u00EDcil que\\nacierte."
+  },
+  {
+    "index": 330,
+    "flags": 4,
+    "text": "Ataque con agua lodosa que puede bajar la Precisi\u00F3n\\ndel equipo rival."
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Dispara r\u00E1pido de dos a cinco r\u00E1fagas de semillas de\\nmanera consecutiva."
+  },
+  {
+    "index": 332,
+    "flags": 4,
+    "text": "El usuario lanza un ataque muy r\u00E1pido e ineludible. "
+  },
+  {
+    "index": 333,
+    "flags": 4,
+    "text": "Ataca lanzando de dos a cinco r\u00E1fagas consecutivas de\\ncar\u00E1mbanos."
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Fortalece el cuerpo como si fuera de hierro y sube \\nmucho la Defensa."
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Le corta el paso al objetivo para que no pueda escapar."
+  },
+  {
+    "index": 336,
+    "flags": 4,
+    "text": "Aullido que sube el \u00E1nimo y aumenta el Ataque del\\nequipo. "
+  },
+  {
+    "index": 337,
+    "flags": 4,
+    "text": "Ara\u00F1a al objetivo con garras afiladas."
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Golpea con una enorme planta. Quien lo usa no puede\\nmoverse en el siguiente turno."
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Robustece el cuerpo para subir el Ataque y la Defensa."
+  },
+  {
+    "index": 340,
+    "flags": 4,
+    "text": "El usuario bota en el primer turno y golpea al objetivo\\nen el segundo y puede llegar a paralizarlo."
+  },
+  {
+    "index": 341,
+    "flags": 4,
+    "text": "El usuario lanza lodo al objetivo y reduce su Velocidad."
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Puede envenenar y dar un golpe cr\u00EDtico."
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Se acerca con ternura al objetivo, pero le ataca y le\\nroba el objeto que lleve."
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Quien lo usa electrifica su cuerpo para luego atacar. \\nSe hiere mucho a s\u00ED mismo, pero puede paralizar al \\nobjetivo."
+  },
+  {
+    "index": 345,
+    "flags": 4,
+    "text": "Esparce extra\u00F1as hojas que persiguen al objetivo. \\nNo se puede esquivar."
+  },
+  {
+    "index": 346,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 347,
+    "flags": 4,
+    "text": "Aumenta la concentraci\u00F3n y calma el esp\u00EDritu para \\nsubir el Ataque Especial y la Defensa Especial. "
+  },
+  {
+    "index": 348,
+    "flags": 4,
+    "text": "Acuchilla con una hoja fina. Suele dar un golpe cr\u00EDtico."
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Danza m\u00EDstica que sube el Ataque y la Velocidad. "
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "Lanza pedruscos al objetivo de dos a cinco veces \\nconsecutivas."
+  },
+  {
+    "index": 351,
+    "flags": 4,
+    "text": "Ataque el\u00E9ctrico muy r\u00E1pido e ineludible."
+  },
+  {
+    "index": 352,
+    "flags": 4,
+    "text": "Ataca con un potente chorro de agua. Puede confundir\\nal objetivo."
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "Concentra un haz de luz y ataca dos turnos despu\u00E9s."
+  },
+  {
+    "index": 354,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 355,
+    "flags": 4,
+    "text": "Aterriza sobre la superficie para descansar.\\nRecupera hasta la mitad del total de sus PS."
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Durante cinco turnos, se anulan los movimientos que\\nalzan el vuelo y los Pok\u00E9mon de tipo Volador o que\\nlevitan son vulnerables a movimientos de tipo Tierra."
+  },
+  {
+    "index": 357,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 358,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Gira con fuerza el pu\u00F1o y da un gran golpe. No\\nobstante, baja la Velocidad."
+  },
+  {
+    "index": 360,
+    "flags": 4,
+    "text": "Embiste al objetivo con un potente ataque giratorio. \\nCuanto m\u00E1s lento es el usuario, m\u00E1s da\u00F1o causa. "
+  },
+  {
+    "index": 361,
+    "flags": 4,
+    "text": "El Pok\u00E9mon cae debilitado, pero su sustituto recupera\\nsu estado y los PS."
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Si al objetivo le queda la mitad o menos de sus PS, el\\nataque ser\u00E1 el doble de fuerte."
+  },
+  {
+    "index": 363,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Permite golpear a objetivos que han utilizado\\nmovimientos como Protecci\u00F3n o Detecci\u00F3n y anula\\nsus efectos."
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Picotea al objetivo. Si este sostiene una baya, la picotea\\ntambi\u00E9n y obtiene sus efectos."
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "Crea un fuerte remolino que aumenta la Velocidad de\\nlos Pok\u00E9mon de tu equipo durante cuatro turnos."
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "Aplica presi\u00F3n en puntos clave del cuerpo para\\npotenciar mucho una de sus caracter\u00EDsticas."
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Devuelve al rival el \u00FAltimo ataque recibido, pero con \\nmucha m\u00E1s fuerza."
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Tras atacar, el usuario vuelve a toda prisa para dar paso\\na otro Pok\u00E9mon del equipo."
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Lucha abiertamente contra el objetivo sin protegerse.\\nTambi\u00E9n reduce la Defensa y la Defensa Especial del\\nusuario."
+  },
+  {
+    "index": 371,
+    "flags": 4,
+    "text": "El usuario contraataca con el doble de fuerza si el \\nobjetivo usa un movimiento antes."
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Si el objetivo ya ha sufrido da\u00F1o en ese turno, la fuerza\\ndel ataque se duplica."
+  },
+  {
+    "index": 373,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 374,
+    "flags": 4,
+    "text": "El usuario lanza contra el objetivo el objeto que lleva.\\nLa fuerza del ataque y su efecto var\u00EDan seg\u00FAn el objeto."
+  },
+  {
+    "index": 375,
+    "flags": 4,
+    "text": "Usa su poder mental para transferir al objetivo sus \\nproblemas de estado."
+  },
+  {
+    "index": 376,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 377,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 378,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 379,
+    "flags": 4,
+    "text": "Usa sus poderes mentales para intercambiar sus \\ncaracter\u00EDsticas de Ataque y Defensa."
+  },
+  {
+    "index": 380,
+    "flags": 4,
+    "text": "El usuario arroja sus jugos biliares al objetivo, lo que\\nanula el efecto de la habilidad en uso."
+  },
+  {
+    "index": 381,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 382,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 383,
+    "flags": 4,
+    "text": "Imita el movimiento usado justo antes. El movimiento\\nfalla si no se ha usado a\u00FAn ninguno."
+  },
+  {
+    "index": 384,
+    "flags": 4,
+    "text": "El usuario emplea su poder mental para intercambiar los\\ncambios en el Ataque y Ataque Especial con el objetivo."
+  },
+  {
+    "index": 385,
+    "flags": 4,
+    "text": "El usuario emplea su poder mental para intercambiar\\nlos cambios en la Defensa y Defensa Especial con el\\nobjetivo."
+  },
+  {
+    "index": 386,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 387,
+    "flags": 4,
+    "text": "Este movimiento solo puede utilizarse tras haber usado\\nal menos una vez todos los dem\u00E1s conocidos por el\\nPok\u00E9mon."
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "Planta una semilla en el objetivo que le causa pesar.\\nSustituye la habilidad del objetivo por Insomnio y le\\nimpide dormirse."
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Permite atacar con prioridad. Falla si el objetivo no est\u00E1\\npreparando ning\u00FAn ataque."
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Lanza una trampa de p\u00FAas t\u00F3xicas a los pies del\\nobjetivo. El veneno afecta a los Pok\u00E9mon oponentes\\nque entran en combate."
+  },
+  {
+    "index": 391,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 392,
+    "flags": 4,
+    "text": "Un manto de agua cubre al Pok\u00E9mon que lo usa. \\nRecupera algunos PS en cada turno."
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Levita gracias a un campo magn\u00E9tico generado por \\nelectricidad durante cinco turnos."
+  },
+  {
+    "index": 394,
+    "flags": 4,
+    "text": "El Pok\u00E9mon se cubre de llamas y carga contra el\\nobjetivo, aunque \u00E9l tambi\u00E9n recibe da\u00F1o. Puede\\nquemar."
+  },
+  {
+    "index": 395,
+    "flags": 4,
+    "text": "Ataca al objetivo con una onda de choque y puede \\nllegar a paralizarlo."
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "Libera, desde su interior, una inmensa descarga de aura.\\nEs infalible."
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "Reduce la resistencia puliendo su cuerpo. Aumenta\\nmucho la Velocidad."
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Pincha al objetivo con un tent\u00E1culo o brazo\\nenvenenado. Puede llegar a envenenar al objetivo. "
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Libera una horrible aura llena de malos pensamientos\\nque puede amedrentar al objetivo."
+  },
+  {
+    "index": 400,
+    "flags": 4,
+    "text": "Ataca al objetivo a la primera oportunidad. Suele ser\\ncr\u00EDtico."
+  },
+  {
+    "index": 401,
+    "flags": 4,
+    "text": "Ataca agitando la cola como si fuera una ola rabiosa en\\nuna tormenta devastadora."
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Lanza al objetivo una descarga de semillas explosivas\\ndesde arriba."
+  },
+  {
+    "index": 403,
+    "flags": 4,
+    "text": "Ataca con un viento afilado que incluso corta el aire.\\nTambi\u00E9n puede amedrentar al objetivo."
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "Cruza las guada\u00F1as o las garras para atacar al objetivo\\ncomo si fueran unas tijeras."
+  },
+  {
+    "index": 405,
+    "flags": 4,
+    "text": "El usuario crea una onda s\u00F3nica da\u00F1ina moviendo\\nsu cuerpo que tambi\u00E9n puede disminuir la Defensa\\nEspecial del objetivo."
+  },
+  {
+    "index": 406,
+    "flags": 4,
+    "text": "Abre mucho la boca y libera una onda de choque que\\nataca al objetivo."
+  },
+  {
+    "index": 407,
+    "flags": 4,
+    "text": "Ataca de forma brutal mientras intimida al objetivo.\\nTambi\u00E9n puede amedrentarlo."
+  },
+  {
+    "index": 408,
+    "flags": 4,
+    "text": "Ataca con un rayo de luz que centellea como si lo \\nformaran miles de joyas."
+  },
+  {
+    "index": 409,
+    "flags": 4,
+    "text": "Un golpe que drena energ\u00EDa. El Pok\u00E9mon recupera la\\nmitad de los PS arrebatados al objetivo."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "Gira los pu\u00F1os y libera una onda de vac\u00EDo contra el\\nobjetivo. Este movimiento tiene prioridad alta."
+  },
+  {
+    "index": 411,
+    "flags": 4,
+    "text": "Agudiza la concentraci\u00F3n mental y libera su poder. \\nPuede disminuir la Defensa Especial del objetivo."
+  },
+  {
+    "index": 412,
+    "flags": 4,
+    "text": "A\u00FAna fuerzas de la naturaleza y libera su ataque. \\nPuede disminuir la Defensa Especial del objetivo."
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Pliega sus alas y ataca con un vuelo rasante. El \\nPok\u00E9mon que lo usa tambi\u00E9n resulta seriamente \\nda\u00F1ado."
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "La tierra a los pies del objetivo erupciona\\nviolentamente. Puede disminuir la Defensa Especial \\ndel objetivo."
+  },
+  {
+    "index": 415,
+    "flags": 4,
+    "text": "Intercambia con el objetivo los objetos que llevan tan\\nr\u00E1pido que es imposible verlo a simple vista."
+  },
+  {
+    "index": 416,
+    "flags": 4,
+    "text": "El usuario carga contra el objetivo con toda la fuerza\\nque tiene y descansa durante el siguiente turno."
+  },
+  {
+    "index": 417,
+    "flags": 4,
+    "text": "Estimula su cerebro pensando en cosas malas.\\nAumenta mucho el Ataque Especial."
+  },
+  {
+    "index": 418,
+    "flags": 4,
+    "text": "Ataca con fuertes pu\u00F1etazos tan r\u00E1pidos como\\nproyectiles. Este movimiento tiene prioridad alta. "
+  },
+  {
+    "index": 419,
+    "flags": 4,
+    "text": "Este ataque inflige el doble de da\u00F1o a un objetivo que\\nhaya golpeado al usuario en ese mismo turno."
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "Crea bolas de hielo y las lanza a gran velocidad. \\nEste movimiento tiene prioridad alta."
+  },
+  {
+    "index": 421,
+    "flags": 4,
+    "text": "Ataca con una garra afilada hecha de sombras. Suele\\nser cr\u00EDtico."
+  },
+  {
+    "index": 422,
+    "flags": 4,
+    "text": "El usuario muerde al objetivo con colmillos\\nelectrificados y puede hacer que se amedrente\\no se paralice."
+  },
+  {
+    "index": 423,
+    "flags": 4,
+    "text": "El usuario muerde al objetivo con colmillos helados y\\npuede hacer que se amedrente o se congele."
+  },
+  {
+    "index": 424,
+    "flags": 4,
+    "text": "El usuario muerde al objetivo con colmillos en llamas y\\npuede hacer que se amedrente o sufra quemaduras."
+  },
+  {
+    "index": 425,
+    "flags": 4,
+    "text": "Extiende su sombra y ataca al objetivo por la espalda.\\nEste movimiento tiene prioridad alta. "
+  },
+  {
+    "index": 426,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 427,
+    "flags": 4,
+    "text": "Ataca al objetivo con cuchillas formadas por energ\u00EDa\\nps\u00EDquica. Suele ser cr\u00EDtico."
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Concentra su energ\u00EDa ps\u00EDquica en la cabeza para\\ngolpear. Puede hacer que el objetivo se amedrente."
+  },
+  {
+    "index": 429,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 430,
+    "flags": 4,
+    "text": "El usuario concentra toda la luz del cuerpo y la libera.\\nPuede bajar la Defensa Especial del objetivo."
+  },
+  {
+    "index": 431,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "Potente viento que barre el reflejo o la pantalla de luz\\ncreada por el objetivo. Tambi\u00E9n puede reducir su\\nEvasi\u00F3n."
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Crea un espacio extra\u00F1o en el que los Pok\u00E9mon lentos\\nse mueven primero durante cinco turnos."
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Hace que grandes cometas caigan del cielo sobre el\\nobjetivo. Baja mucho el Ataque Especial del que lo usa."
+  },
+  {
+    "index": 435,
+    "flags": 4,
+    "text": "Una deslumbradora onda el\u00E9ctrica afecta a los Pok\u00E9mon\\nque hay combatiendo alrededor. Puede paralizar."
+  },
+  {
+    "index": 436,
+    "flags": 4,
+    "text": "Un infierno de llamas da\u00F1a a los Pok\u00E9mon adyacentes\\nen combate. Puede quemar."
+  },
+  {
+    "index": 437,
+    "flags": 4,
+    "text": "Envuelve al objetivo con una lluvia de hojas afiladas,\\npero reduce mucho su Ataque Especial."
+  },
+  {
+    "index": 438,
+    "flags": 4,
+    "text": "El usuario agita violentamente sus lianas o tent\u00E1culos \\npara golpear al objetivo."
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Lanza una piedra enorme contra el objetivo, pero tiene\\nque descansar el siguiente turno."
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "Tajo que puede envenenar al objetivo. Suele ser cr\u00EDtico."
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "Lanza contra el objetivo basura asquerosa y puede\\nenvenenarlo."
+  },
+  {
+    "index": 442,
+    "flags": 4,
+    "text": "Ataca con su dura cabeza de hierro. Puede hacer que\\nel objetivo se amedrente."
+  },
+  {
+    "index": 443,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Clava piedras muy afiladas al objetivo. Suele ser cr\u00EDtico."
+  },
+  {
+    "index": 445,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 446,
+    "flags": 4,
+    "text": "Una trampa de rocas que flota en el aire y da\u00F1a a los\\nobjetivos que entran en combate."
+  },
+  {
+    "index": 447,
+    "flags": 4,
+    "text": "Enreda al objetivo con hierba y lo derriba. Cuanto m\u00E1s\\npesado es el objetivo, m\u00E1s da\u00F1o inflige. "
+  },
+  {
+    "index": 448,
+    "flags": 4,
+    "text": "Ataca con una onda de sonido muy ruidosa compuesta\\npor palabras y confunde al objetivo. "
+  },
+  {
+    "index": 449,
+    "flags": 4,
+    "text": "Emite incontables haces de luz. El tipo del movimiento \\nvar\u00EDa seg\u00FAn la tabla que lleve el usuario."
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "Pica al objetivo. Si el objetivo lleva una baya, el usuario\\nse la come y se beneficia de su efecto."
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "Lanza un rayo el\u00E9ctrico contra el objetivo. Puede subir\\nel Ataque Especial de quien lo usa."
+  },
+  {
+    "index": 452,
+    "flags": 4,
+    "text": "Arremete contra el objetivo con su robusto cuerpo. \\nEl agresor tambi\u00E9n sufre bastante da\u00F1o."
+  },
+  {
+    "index": 453,
+    "flags": 4,
+    "text": "Ataque de una rapidez espeluznante. Este movimiento\\ntiene prioridad alta. "
+  },
+  {
+    "index": 454,
+    "flags": 4,
+    "text": "El usuario llama a sus s\u00FAbditos para que ataquen al\\nobjetivo. Suele ser cr\u00EDtico."
+  },
+  {
+    "index": 455,
+    "flags": 4,
+    "text": "El usuario llama a sus s\u00FAbditos para que formen un\\nescudo viviente. Sube la Defensa y la Defensa Especial."
+  },
+  {
+    "index": 456,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 457,
+    "flags": 4,
+    "text": "El usuario arriesga su vida y lanza un cabezazo con toda\\nsu fuerza. El agresor resulta seriamente da\u00F1ado."
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "Golpea al objetivo dos veces seguidas con la cola u\\notras partes de su cuerpo."
+  },
+  {
+    "index": 459,
+    "flags": 4,
+    "text": "Ataca al objetivo usando tal energ\u00EDa que el tiempo se\\ndistorsiona. El usuario descansa el siguiente turno."
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "Desgarra al objetivo y el espacio a su alrededor. \\nSuele ser cr\u00EDtico."
+  },
+  {
+    "index": 461,
+    "flags": 4,
+    "text": "El usuario se debilita, pero el Pok\u00E9mon que lo sustituye\\nrecupera su estado, los PS y los PP."
+  },
+  {
+    "index": 462,
+    "flags": 4,
+    "text": "Estruja al objetivo con gran fuerza. Cuantos m\u00E1s PS le\\nqueden al objetivo, m\u00E1s fuerte ser\u00E1 el ataque."
+  },
+  {
+    "index": 463,
+    "flags": 4,
+    "text": "El objetivo queda atrapado en una tormenta de fuego\\nque dura de cuatro a cinco turnos."
+  },
+  {
+    "index": 464,
+    "flags": 4,
+    "text": "El objetivo es enviado a un mundo de tinieblas que lo\\nhace dormir."
+  },
+  {
+    "index": 465,
+    "flags": 4,
+    "text": "Una onda de choque se libera del cuerpo. Puede bajar\\nmucho la Defensa Especial del objetivo."
+  },
+  {
+    "index": 466,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 467,
+    "flags": 4,
+    "text": "En el primer turno, desaparece. En el segundo, golpea\\nal objetivo aunque se est\u00E9 protegiendo."
+  },
+  {
+    "index": 468,
+    "flags": 4,
+    "text": "El usuario se afila las garras para aumentar su Ataque y\\nPrecisi\u00F3n."
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "Bloquea los ataques de objetivo m\u00FAltiple lanzados \\ncontra tu equipo durante un turno."
+  },
+  {
+    "index": 470,
+    "flags": 4,
+    "text": "El usuario emplea sus poderes para hacer la media de\\nsu Defensa y Defensa Especial con las de su objetivo y\\ncompartirlas."
+  },
+  {
+    "index": 471,
+    "flags": 4,
+    "text": "El usuario emplea sus poderes para hacer la media de\\nsu Ataque y Ataque Especial con los de su objetivo y\\ncompartirlos."
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "Crea una zona misteriosa donde se intercambian la\\nDefensa y la Defensa Especial de todos los Pok\u00E9mon\\ndurante cinco turnos."
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "Crea una onda ps\u00EDquica que causa da\u00F1o f\u00EDsico al \\nobjetivo."
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "Cubre al objetivo con un l\u00EDquido venenoso. El da\u00F1o ser\u00E1\\ndoble si este ya est\u00E1 envenenado."
+  },
+  {
+    "index": 475,
+    "flags": 4,
+    "text": "El usuario se desprende de partes prescindibles de\\nsu cuerpo para hacerse m\u00E1s ligero y aumentar mucho\\nsu Velocidad."
+  },
+  {
+    "index": 476,
+    "flags": 4,
+    "text": "Usa un polvo que irrita y centra en el usuario la \\natenci\u00F3n y los ataques de los rivales."
+  },
+  {
+    "index": 477,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "Crea un espacio misterioso que inutiliza todos los \\nobjetos de los Pok\u00E9mon durante cinco turnos."
+  },
+  {
+    "index": 479,
+    "flags": 4,
+    "text": "Ataca lanzando una piedra o un proyectil. Si el objetivo\\nest\u00E1 en el aire, lo estrella contra el suelo."
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "Lanza un golpe devastador. Siempre asesta un golpe\\ncr\u00EDtico."
+  },
+  {
+    "index": 481,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 482,
+    "flags": 4,
+    "text": "Una onda t\u00F3xica que da\u00F1a a los Pok\u00E9mon de alrededor.\\nPuede envenenar."
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "Danza m\u00EDstica que sube el Ataque Especial, la Defensa\\nEspecial y la Velocidad."
+  },
+  {
+    "index": 484,
+    "flags": 4,
+    "text": "El usuario golpea con todo su cuerpo. Cuanto mayor\\nsea su peso comparado con el del objetivo, m\u00E1s da\u00F1o\\ncausar\u00E1."
+  },
+  {
+    "index": 485,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "Lanza una bola el\u00E9ctrica. Cuanto mayor sea la\\nVelocidad del usuario en comparaci\u00F3n con la del \\nobjetivo, mayor ser\u00E1 el da\u00F1o causado."
+  },
+  {
+    "index": 487,
+    "flags": 0,
+    "text": "Potente lluvia que transforma al objetivo en un \\nPok\u00E9mon de tipo Agua."
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "Llamas que golpean al objetivo y aumentan la \\nVelocidad del atacante."
+  },
+  {
+    "index": 489,
+    "flags": 4,
+    "text": "El usuario se concentra, lo que le permite aumentar \\nsu Ataque, Defensa y Precisi\u00F3n."
+  },
+  {
+    "index": 490,
+    "flags": 4,
+    "text": "Ataque r\u00E1pido dirigido a los pies del objetivo que le\\nhace perder Velocidad."
+  },
+  {
+    "index": 491,
+    "flags": 4,
+    "text": "Ataca con un l\u00EDquido corrosivo que reduce mucho la\\nDefensa Especial del objetivo."
+  },
+  {
+    "index": 492,
+    "flags": 4,
+    "text": "El usuario emplea la fuerza del objetivo para atacarlo.\\nCuanto mayor es el Ataque del objetivo, m\u00E1s da\u00F1o\\nprovoca."
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "Lanza una onda ps\u00EDquica que hace que la habilidad del\\nobjetivo pase a ser Simple."
+  },
+  {
+    "index": 494,
+    "flags": 4,
+    "text": "Una extra\u00F1a danza que hace que el usuario y el objetivo\\ntengan la misma habilidad."
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "Si el usuario es el m\u00E1s r\u00E1pido, permite al objetivo usar\\nun movimiento justo tras \u00E9l, adelant\u00E1ndose a Pok\u00E9mon\\nm\u00E1s r\u00E1pidos."
+  },
+  {
+    "index": 496,
+    "flags": 4,
+    "text": "Un canto que ataca al objetivo. Cuantos m\u00E1s Pok\u00E9mon\\nlo usan, m\u00E1s aumenta de potencia."
+  },
+  {
+    "index": 497,
+    "flags": 4,
+    "text": "Un susurro que aumenta de potencia conforme el \\nusuario y otros Pok\u00E9mon lo van utilizando."
+  },
+  {
+    "index": 498,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 499,
+    "flags": 4,
+    "text": "Ataca al objetivo con una singular bola de lodo que\\nelimina cualquier cambio en sus caracter\u00EDsticas."
+  },
+  {
+    "index": 500,
+    "flags": 4,
+    "text": "Acumula poder para golpear. Cuanto m\u00E1s suban las\\ncaracter\u00EDsticas del usuario, mayor ser\u00E1 el da\u00F1o."
+  },
+  {
+    "index": 501,
+    "flags": 0,
+    "text": "Se protege a s\u00ED mismo y a sus aliados de movimientos\\ncon prioridad."
+  },
+  {
+    "index": 502,
+    "flags": 4,
+    "text": "Extra\u00F1o poder que intercambia la posici\u00F3n del usuario\\ncon la de un aliado sobre el terreno de combate."
+  },
+  {
+    "index": 503,
+    "flags": 4,
+    "text": "Ataca arrojando agua hirviendo al objetivo. Puede\\ncausar quemaduras."
+  },
+  {
+    "index": 504,
+    "flags": 4,
+    "text": "El usuario rompe su coraza y baja su Defensa y\\nDefensa Especial, pero aumenta mucho su Ataque, \\nAtaque Especial y Velocidad."
+  },
+  {
+    "index": 505,
+    "flags": 4,
+    "text": "Una onda curativa restaura la mitad de los PS m\u00E1ximos\\ndel objetivo."
+  },
+  {
+    "index": 506,
+    "flags": 4,
+    "text": "Ataque que causa un gran da\u00F1o a los objetivos que\\nsufren problemas de estado."
+  },
+  {
+    "index": 507,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 508,
+    "flags": 4,
+    "text": "Al hacer girar los engranajes, el usuario mejora su\\nAtaque y aumenta mucho su Velocidad."
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "Lanza por los aires al objetivo y hace que salga otro \\nPok\u00E9mon. Si es uno salvaje, acaba el combate."
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "Llamas que golpean a los objetivos adyacentes. Si estos\\nllevan bayas o ciertos objetos, se quemar\u00E1n y ya no se\\npodr\u00E1n usar."
+  },
+  {
+    "index": 511,
+    "flags": 0,
+    "text": "Consigue que el objetivo sea el \u00FAltimo en moverse. "
+  },
+  {
+    "index": 512,
+    "flags": 0,
+    "text": "Golpea \u00E1gilmente. Si el usuario no porta ning\u00FAn objeto,\\nel objetivo resulta seriamente da\u00F1ado."
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "Cambia el tipo del Pok\u00E9mon al mismo tipo que el del\\nobjetivo."
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "Venga a los amigos ca\u00EDdos. Si en el turno anterior han\\nderrotado a alguno, la potencia del ataque aumentar\u00E1."
+  },
+  {
+    "index": 515,
+    "flags": 4,
+    "text": "El usuario se sacrifica caus\u00E1ndole un da\u00F1o al objetivo\\nequivalente a sus propios PS perdidos."
+  },
+  {
+    "index": 516,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 517,
+    "flags": 4,
+    "text": "Ataca con una gran r\u00E1faga de fuego que causa \\nquemaduras."
+  },
+  {
+    "index": 518,
+    "flags": 4,
+    "text": "Ataca con columnas de agua. Combinado con\\nVoto Fuego, crea un arco\u00EDris y aumenta su potencia."
+  },
+  {
+    "index": 519,
+    "flags": 4,
+    "text": "Ataca con columnas de fuego. Combinado con\\nVoto Planta, crea un mar de llamas y aumenta su \\npotencia."
+  },
+  {
+    "index": 520,
+    "flags": 4,
+    "text": "Ataca con columnas de hojas. Combinado con\\nVoto Agua, crea un pantano y aumenta su potencia."
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "Tras atacar, el usuario vuelve a toda prisa para dar paso\\na otro Pok\u00E9mon del equipo."
+  },
+  {
+    "index": 522,
+    "flags": 4,
+    "text": "El usuario opone resistencia y ataca a los oponentes. \\nTambi\u00E9n reduce su Ataque Especial."
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "Sacudida s\u00EDsmica que afecta a los dem\u00E1s Pok\u00E9mon \\nadyacentes y tambi\u00E9n reduce su Velocidad."
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "Quien lo usa ataca lanzando un aliento g\u00E9lido. Siempre\\nasesta un golpe cr\u00EDtico."
+  },
+  {
+    "index": 525,
+    "flags": 4,
+    "text": "Ataca al objetivo y lo obliga a cambiarse por otro \\nPok\u00E9mon. Si es uno salvaje, acaba el combate."
+  },
+  {
+    "index": 526,
+    "flags": 0,
+    "text": "Quien lo usa se concentra y potencia su Ataque y \\nsu Ataque Especial."
+  },
+  {
+    "index": 527,
+    "flags": 4,
+    "text": "Atrapa y ataca a los objetivos con una telara\u00F1a \\nel\u00E9ctrica. Tambi\u00E9n reduce su Velocidad."
+  },
+  {
+    "index": 528,
+    "flags": 0,
+    "text": "Carga el\u00E9ctrica muy potente que tambi\u00E9n hiere \\nligeramente a quien la usa."
+  },
+  {
+    "index": 529,
+    "flags": 4,
+    "text": "El usuario golpea usando su cuerpo como un taladro. \\nSuele ser cr\u00EDtico."
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "Golpea dos veces seguidas con las partes m\u00E1s recias de\\nsu cuerpo."
+  },
+  {
+    "index": 531,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 532,
+    "flags": 4,
+    "text": "Un golpe que drena energ\u00EDa. El Pok\u00E9mon recupera la\\nmitad de los PS arrebatados al objetivo."
+  },
+  {
+    "index": 533,
+    "flags": 4,
+    "text": "El usuario ataca con una espada, ignorando cualquier \\ncambio en las caracter\u00EDsticas del objetivo."
+  },
+  {
+    "index": 534,
+    "flags": 4,
+    "text": "Una afilada vieira ataca al objetivo. Tambi\u00E9n puede \\nhacer disminuir su Defensa."
+  },
+  {
+    "index": 535,
+    "flags": 4,
+    "text": "El usuario ataca con su cuerpo ardiente. Cuanto mayor\\nsea su peso comparado con el del objetivo, m\u00E1s da\u00F1o\\ncausar\u00E1."
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "Tritura con afiladas hojas y puede bajar la Precisi\u00F3n del\\nobjetivo."
+  },
+  {
+    "index": 537,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "Cubre al Pok\u00E9mon con una madeja protectora.\\nAumenta much\u00EDsimo la Defensa."
+  },
+  {
+    "index": 539,
+    "flags": 4,
+    "text": "Ataca al objetivo con una onda siniestra. Puede bajar\\nsu Precisi\u00F3n."
+  },
+  {
+    "index": 540,
+    "flags": 0,
+    "text": "Crea una onda ps\u00EDquica que causa da\u00F1o f\u00EDsico al \\nobjetivo."
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "Golpea con la cola de dos a cinco veces seguidas."
+  },
+  {
+    "index": 542,
+    "flags": 0,
+    "text": "Golpea al objetivo con un fuerte torbellino que\\nenvuelve al rival y puede confundirlo."
+  },
+  {
+    "index": 543,
+    "flags": 0,
+    "text": "Propina un tremendo cabezazo. Tambi\u00E9n da\u00F1a al \\nusuario un poco."
+  },
+  {
+    "index": 544,
+    "flags": 0,
+    "text": "Rota dos engranajes de hierro sobre el objetivo. Golpea\\ndos veces."
+  },
+  {
+    "index": 545,
+    "flags": 4,
+    "text": "Un infierno de llamas da\u00F1a a los Pok\u00E9mon adyacentes\\nen combate. Puede quemar."
+  },
+  {
+    "index": 546,
+    "flags": 4,
+    "text": "Ataca al objetivo con un gran l\u00E1ser. El tipo del ataque\\nlo determina el cartucho que porta el usuario."
+  },
+  {
+    "index": 547,
+    "flags": 4,
+    "text": "Ataca conmoviendo a los rivales de alrededor con un\\nantiguo canto. Puede dormirlos."
+  },
+  {
+    "index": 548,
+    "flags": 4,
+    "text": "Ensarta al objetivo con un largo cuerno dotado de un\\npoder m\u00EDstico que provoca da\u00F1o f\u00EDsico."
+  },
+  {
+    "index": 549,
+    "flags": 4,
+    "text": "Ataque con aire helado que baja la Velocidad del \\nobjetivo."
+  },
+  {
+    "index": 550,
+    "flags": 4,
+    "text": "Ataca envolvi\u00E9ndose de una gran carga el\u00E9ctrica y \\nembistiendo al objetivo con ella. Puede paralizar."
+  },
+  {
+    "index": 551,
+    "flags": 4,
+    "text": "Ataca con una bella pero potente llama azul que rodea\\nal objetivo. Puede quemarlo."
+  },
+  {
+    "index": 552,
+    "flags": 4,
+    "text": "Envuelve en llamas y da\u00F1a al objetivo. Puede aumentar\\nel Ataque Especial de quien lo usa."
+  },
+  {
+    "index": 553,
+    "flags": 4,
+    "text": "El usuario carga un bloque de hielo con electricidad en\\nel primer turno y ataca con \u00E9l en el segundo. Puede\\nparalizar."
+  },
+  {
+    "index": 554,
+    "flags": 4,
+    "text": "Ataca al objetivo en el segundo turno rode\u00E1ndolo de\\nun aire g\u00E9lido. Puede causar quemaduras."
+  },
+  {
+    "index": 555,
+    "flags": 0,
+    "text": "Chillido desagradable que baja el Ataque Especial del\\nrival."
+  },
+  {
+    "index": 556,
+    "flags": 0,
+    "text": "Lanza grandes car\u00E1mbanos. Puede amedrentar al\\nobjetivo."
+  },
+  {
+    "index": 557,
+    "flags": 0,
+    "text": "Golpea con una V de llamas al objetivo. Baja la \\nDefensa, la Defensa Especial y la Velocidad de \\nquien lo usa."
+  },
+  {
+    "index": 558,
+    "flags": 4,
+    "text": "Ataca con una llamarada gigantesca. Aumenta su \\npotencia si es influenciada por una gran energ\u00EDa\\nel\u00E9ctrica."
+  },
+  {
+    "index": 559,
+    "flags": 4,
+    "text": "Ataca con una enorme descarga el\u00E9ctrica. Aumenta \\nsu potencia si es influenciada por una gigantesca \\nllamarada."
+  },
+  {
+    "index": 560,
+    "flags": 4,
+    "text": "El Pok\u00E9mon que lo usa se lanza sobre su oponente. \\nEste movimiento es de tipo Lucha y tipo Volador al \\nmismo tiempo."
+  },
+  {
+    "index": 561,
+    "flags": 4,
+    "text": "El usuario usa un tatami para escudarse de los ataques\\nenemigos. Protege tambi\u00E9n a los aliados. No funciona\\ncontra movimientos de estado. "
+  },
+  {
+    "index": 562,
+    "flags": 4,
+    "text": "El Pok\u00E9mon causa da\u00F1o a su oponente lanz\u00E1ndole \\nun eructo. Para poder utilizar este movimiento tiene \\nque llevar una baya y com\u00E9rsela."
+  },
+  {
+    "index": 563,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 564,
+    "flags": 0,
+    "text": "Coloca una red pegajosa alrededor del equipo rival que\\nbaja la Velocidad de cualquier adversario que entre a\\ncombatir."
+  },
+  {
+    "index": 565,
+    "flags": 0,
+    "text": "Si se derrota al objetivo utilizando este movimiento,\\naumenta much\u00EDsimo el Ataque del usuario."
+  },
+  {
+    "index": 566,
+    "flags": 4,
+    "text": "El usuario desaparece en el primer turno y ataca a su\\nobjetivo en el segundo. Permite acertar aunque el\\nobjetivo est\u00E9 protegi\u00E9ndose."
+  },
+  {
+    "index": 567,
+    "flags": 4,
+    "text": "Invita al objetivo a celebrar Halloween, lo que a\u00F1ade \\nel tipo Fantasma a los tipos de este."
+  },
+  {
+    "index": 568,
+    "flags": 4,
+    "text": "Intimida a su oponente con un rugido de guerra, lo que\\nhace que disminuyan tanto su Ataque como su Ataque\\nEspecial."
+  },
+  {
+    "index": 569,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 570,
+    "flags": 4,
+    "text": "Inflige da\u00F1o a todos los Pok\u00E9mon a su alrededor.\\nEl usuario absorbe la mitad del da\u00F1o producido para\\nrestaurar sus propios PS."
+  },
+  {
+    "index": 571,
+    "flags": 4,
+    "text": "El objetivo es presa de la maldici\u00F3n del bosque, por lo\\nque pasa a ser un Pok\u00E9mon de tipo Planta, adem\u00E1s de\\nconservar sus tipos habituales."
+  },
+  {
+    "index": 572,
+    "flags": 4,
+    "text": "El usuario desata un intenso vendaval de p\u00E9talos que\\nda\u00F1a a los Pok\u00E9mon a su alrededor."
+  },
+  {
+    "index": 573,
+    "flags": 4,
+    "text": "Enfr\u00EDa s\u00FAbitamente al objetivo e incluso puede\\ncongelarlo. Es supereficaz contra Pok\u00E9mon de tipo\\nAgua."
+  },
+  {
+    "index": 574,
+    "flags": 4,
+    "text": "Obnubila a los oponentes con su fascinante voz y les\\nprovoca da\u00F1os emocionales. Siempre acierta al objetivo."
+  },
+  {
+    "index": 575,
+    "flags": 4,
+    "text": "El usuario se cambia por otro Pok\u00E9mon de su equipo,\\npero antes amedrenta a su oponente y hace que\\ndisminuyan su Ataque y Ataque Especial."
+  },
+  {
+    "index": 576,
+    "flags": 4,
+    "text": "Invierte por completo los cambios en las caracter\u00EDsticas\\ndel objetivo."
+  },
+  {
+    "index": 577,
+    "flags": 4,
+    "text": "El usuario absorbe PS del objetivo con un beso y\\nrestaura su propia energ\u00EDa en una cantidad igual o\\nsuperior a la mitad del da\u00F1o infligido."
+  },
+  {
+    "index": 578,
+    "flags": 4,
+    "text": "Usa unos misteriosos poderes para protegerse a s\u00ED \\nmismo y a sus aliados de movimientos de estado, pero\\nno de otro tipo de ataques."
+  },
+  {
+    "index": 579,
+    "flags": 4,
+    "text": "Aumenta la Defensa de todos los Pok\u00E9mon de tipo\\nPlanta que hay en el combate usando unos misteriosos\\npoderes."
+  },
+  {
+    "index": 580,
+    "flags": 0,
+    "text": "Durante cinco turnos, se potencian los movimientos de\\ntipo Planta y los Pok\u00E9mon que est\u00E1n en contacto con el\\nsuelo recuperan PS en cada turno."
+  },
+  {
+    "index": 581,
+    "flags": 0,
+    "text": "Durante cinco turnos, los Pok\u00E9mon que est\u00E1n en el\\nsuelo no sufren problemas de estado y se reduce a la\\nmitad el da\u00F1o de los movimientos de tipo Drag\u00F3n."
+  },
+  {
+    "index": 582,
+    "flags": 0,
+    "text": "Si el objetivo queda electrificado antes de usar un\\nmovimiento, este ser\u00E1 de tipo El\u00E9ctrico."
+  },
+  {
+    "index": 583,
+    "flags": 4,
+    "text": "El Pok\u00E9mon que lo usa le hace cucamonas al objetivo y\\nlo ataca. Puede disminuir el Ataque del objetivo."
+  },
+  {
+    "index": 584,
+    "flags": 4,
+    "text": "El Pok\u00E9mon que lo usa desata un vendaval fe\u00E9rico que\\narremete contra el objetivo."
+  },
+  {
+    "index": 585,
+    "flags": 4,
+    "text": "Invoca el poder de la luna para atacar al objetivo. \\nPuede disminuir el Ataque Especial del objetivo."
+  },
+  {
+    "index": 586,
+    "flags": 4,
+    "text": "Ataca a todos los Pok\u00E9mon a su alrededor con una \\npotent\u00EDsima onda sonora."
+  },
+  {
+    "index": 587,
+    "flags": 0,
+    "text": "Consigue que ning\u00FAn Pok\u00E9mon pueda huir en el \\nsiguiente turno echando un cerrojo."
+  },
+  {
+    "index": 588,
+    "flags": 4,
+    "text": "El usuario adopta una postura defensiva y se protege de\\ncualquier da\u00F1o. Reduce el Ataque de cualquier\\nPok\u00E9mon con el que entre en contacto."
+  },
+  {
+    "index": 589,
+    "flags": 0,
+    "text": "Se hace amigo de su oponente y consigue que a este\\nse le quiten las ganas de combatir. Adem\u00E1s, reduce su\\nAtaque."
+  },
+  {
+    "index": 590,
+    "flags": 0,
+    "text": "Hace que el objetivo pierda la concentraci\u00F3n \\ncont\u00E1ndole un secreto. Disminuye el Ataque\\nEspecial del oponente."
+  },
+  {
+    "index": 591,
+    "flags": 0,
+    "text": "Desata un devastador vendaval de diamantes para \\nda\u00F1ar a los oponentes. Puede aumentar mucho la\\nDefensa del usuario."
+  },
+  {
+    "index": 592,
+    "flags": 4,
+    "text": "Envuelve al Pok\u00E9mon oponente con vapor\\nextremadamente caliente que puede llegar a\\nquemarlo."
+  },
+  {
+    "index": 593,
+    "flags": 4,
+    "text": "El usuario aparece junto al rival usando un agujero\\ndimensional y le asesta un golpe que movimientos\\ncomo Protecci\u00F3n o Detecci\u00F3n no pueden evitar."
+  },
+  {
+    "index": 594,
+    "flags": 0,
+    "text": "Golpea al oponente de dos a cinco veces con estrellas\\narrojadizas hechas de mucosidad. Este movimiento tiene\\nprioridad alta."
+  },
+  {
+    "index": 595,
+    "flags": 4,
+    "text": "El usuario lanza por la boca una singular llama a gran\\ntemperatura con la que ataca a su oponente y baja su\\nAtaque Especial."
+  },
+  {
+    "index": 596,
+    "flags": 0,
+    "text": "Protege al usuario de ataques, e inflige da\u00F1o a quien se\\nlos lance si entra en contacto con \u00E9l. "
+  },
+  {
+    "index": 597,
+    "flags": 0,
+    "text": "Consigue aumentar la Defensa Especial de un Pok\u00E9mon\\nde su equipo con una fragancia misteriosa. "
+  },
+  {
+    "index": 598,
+    "flags": 4,
+    "text": "El usuario irradia unas raras ondas que, al alcanzar a un\\noponente, hacen que disminuya mucho su Ataque\\nEspecial."
+  },
+  {
+    "index": 599,
+    "flags": 4,
+    "text": "Impregna a su objetivo con un l\u00EDquido venenoso que\\ndisminuye el Ataque, el Ataque Especial y la Velocidad.\\nSolo afecta a Pok\u00E9mon ya envenenados."
+  },
+  {
+    "index": 600,
+    "flags": 4,
+    "text": "Esparce un polvo sobre el objetivo. Si este usa un\\nmovimiento de tipo Fuego en el mismo turno, el polvo\\nexplota y le inflige da\u00F1o."
+  },
+  {
+    "index": 601,
+    "flags": 0,
+    "text": "Concentra energ\u00EDa durante el primer turno, de forma\\nque su Velocidad, Ataque Especial y Defensa Especial\\naumenten mucho en el segundo."
+  },
+  {
+    "index": 602,
+    "flags": 0,
+    "text": "Manipula el campo magn\u00E9tico y logra aumentar la\\nDefensa y la Defensa Especial de los Pok\u00E9mon aliados\\nque cuenten con las habilidades M\u00E1s y Menos."
+  },
+  {
+    "index": 603,
+    "flags": 4,
+    "text": "Al usar este movimiento se consigue duplicar la \\nrecompensa recibida tras el combate."
+  },
+  {
+    "index": 604,
+    "flags": 0,
+    "text": "Durante cinco turnos, se potencian los movimientos de\\ntipo El\u00E9ctrico y los Pok\u00E9mon que est\u00E1n en contacto con\\nel suelo no pueden quedarse dormidos."
+  },
+  {
+    "index": 605,
+    "flags": 4,
+    "text": "Inflige da\u00F1o a los oponentes con una potente luz."
+  },
+  {
+    "index": 606,
+    "flags": 4,
+    "text": "El Pok\u00E9mon te felicita en un d\u00EDa muy especial para ti. "
+  },
+  {
+    "index": 607,
+    "flags": 4,
+    "text": "El Pok\u00E9mon le da la mano a un aliado y ambos se \\nsienten muy felices."
+  },
+  {
+    "index": 608,
+    "flags": 0,
+    "text": "Lanza una mirada al objetivo con ojos acaramelados,\\ncon lo que logra que su Ataque se reduzca. Este\\nmovimiento tiene prioridad alta."
+  },
+  {
+    "index": 609,
+    "flags": 0,
+    "text": "Quien lo usa frota sus mofletes cargados de electricidad\\ncontra el objetivo y consigue paralizarlo."
+  },
+  {
+    "index": 610,
+    "flags": 4,
+    "text": "El usuario se contiene a la hora de atacar y deja al\\nobjetivo con al menos 1 PS."
+  },
+  {
+    "index": 611,
+    "flags": 0,
+    "text": "Hostiga al objetivo durante cuatro o cinco turnos e\\nimpide que pueda huir mientras tanto."
+  },
+  {
+    "index": 612,
+    "flags": 0,
+    "text": "Cada vez que golpea a un oponente se endurecen sus\\npu\u00F1os. Si acierta al objetivo, el Ataque del usuario\\naumenta."
+  },
+  {
+    "index": 613,
+    "flags": 4,
+    "text": "El usuario absorbe energ\u00EDa del objetivo y aumenta sus\\nPS en una cantidad igual o superior a la mitad del da\u00F1o\\ninfligido."
+  },
+  {
+    "index": 614,
+    "flags": 4,
+    "text": "Acierta incluso a Pok\u00E9mon que est\u00E9n en el aire y los\\nhace caer al suelo."
+  },
+  {
+    "index": 615,
+    "flags": 4,
+    "text": "El usuario genera ondas s\u00EDsmicas que se propagan por\\nel suelo y sacuden a los oponentes. Los Pok\u00E9mon\\nalcanzados no podr\u00E1n huir del combate."
+  },
+  {
+    "index": 616,
+    "flags": 4,
+    "text": "Acumula energ\u00EDa de la corteza terrestre y la concentra\\ncontra los oponentes, da\u00F1\u00E1ndolos."
+  },
+  {
+    "index": 617,
+    "flags": 4,
+    "text": "El usuario emplea el poder de la Flor Eterna para lanzar\\nun potente rayo de luz, pero sufre bastante da\u00F1o al\\nhacerlo."
+  },
+  {
+    "index": 618,
+    "flags": 4,
+    "text": "Ataca al objetivo con una infinidad de rayos de luz \\nazulada."
+  },
+  {
+    "index": 619,
+    "flags": 0,
+    "text": "Hace que el poder latente de la tierra se manifieste en\\nforma de hojas afiladas y ataca al objetivo con ellas."
+  },
+  {
+    "index": 620,
+    "flags": 4,
+    "text": "El usuario se precipita desde el cielo a una velocidad\\nde v\u00E9rtigo para atacar al objetivo, pero hace que bajen\\nla Defensa y la Defensa Especial del usuario."
+  },
+  {
+    "index": 621,
+    "flags": 4,
+    "text": "Ataca al objetivo con una r\u00E1faga de golpes que pasan\\npor alto los efectos de movimientos como Protecci\u00F3n o\\nDetecci\u00F3n. Baja la Defensa del usuario."
+  },
+  {
+    "index": 622,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 623,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 624,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 625,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 626,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 627,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 628,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 629,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 630,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 631,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 632,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 633,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 634,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 635,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 636,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 637,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 638,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 639,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 640,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 641,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 642,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 643,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 644,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 645,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 646,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 647,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 648,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 649,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 650,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 651,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 652,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 653,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 654,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 655,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 656,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 657,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 658,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 659,
+    "flags": 0,
+    "text": "Restaura la mitad de los PS m\u00E1ximos del usuario.\\nDurante las tormentas de arena, restaura a\u00FAn m\u00E1s PS."
+  },
+  {
+    "index": 660,
+    "flags": 0,
+    "text": "Movimiento de gran potencia que solo puede usarse en\\nel turno en que el usuario sale al combate."
+  },
+  {
+    "index": 661,
+    "flags": 0,
+    "text": "Protege de los ataques y, al mismo tiempo, envenena\\nal Pok\u00E9mon que use un movimiento de contacto contra\\nel usuario."
+  },
+  {
+    "index": 662,
+    "flags": 4,
+    "text": "Ataca al oponente y, al mismo tiempo, fija su sombra\\nal terreno para impedir su huida."
+  },
+  {
+    "index": 663,
+    "flags": 0,
+    "text": "Gira sobre s\u00ED mismo y golpea al oponente con ambos\\nbrazos. Ignora los cambios en las caracter\u00EDsticas del\\nobjetivo."
+  },
+  {
+    "index": 664,
+    "flags": 0,
+    "text": "Libera burbujas al cantar. Este movimiento cura las\\nquemaduras de los Pok\u00E9mon que reciban da\u00F1o."
+  },
+  {
+    "index": 665,
+    "flags": 4,
+    "text": "Un terrible pu\u00F1o golpea al contrincante, pero la\\nVelocidad del usuario se ve reducida."
+  },
+  {
+    "index": 666,
+    "flags": 0,
+    "text": "Restaura la mitad de los PS m\u00E1ximos del objetivo.\\nEs m\u00E1s efectivo cuando se usa en conjunci\u00F3n con\\nCampo de Hierba."
+  },
+  {
+    "index": 667,
+    "flags": 4,
+    "text": "Asesta un golpe devastador usando todo su cuerpo."
+  },
+  {
+    "index": 668,
+    "flags": 0,
+    "text": "Restaura una cantidad de PS equivalente al valor de\\nAtaque del rival, que adem\u00E1s ver\u00E1 reducida esta\\ncaracter\u00EDstica."
+  },
+  {
+    "index": 669,
+    "flags": 4,
+    "text": "El usuario dedica un turno a absorber energ\u00EDa lum\u00EDnica\\ny concentrarla en forma de cuchilla con la que ataca al\\nrival en el siguiente turno."
+  },
+  {
+    "index": 670,
+    "flags": 4,
+    "text": "Ataca al oponente lanzando hojas."
+  },
+  {
+    "index": 671,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 672,
+    "flags": 4,
+    "text": "Ataca al oponente con hilillos venenosos que reducen\\nsu Velocidad y lo envenenan."
+  },
+  {
+    "index": 673,
+    "flags": 4,
+    "text": "El usuario se concentra para que el siguiente ataque\\npropine un golpe cr\u00EDtico."
+  },
+  {
+    "index": 674,
+    "flags": 0,
+    "text": "Cambia de marcha y logra aumentar el Ataque y el\\nAtaque Especial de los Pok\u00E9mon aliados que cuenten\\ncon las habilidades M\u00E1s y Menos."
+  },
+  {
+    "index": 675,
+    "flags": 4,
+    "text": "Inflige al rival un dolor tan abrumador que le impide\\nutilizar durante dos turnos ataques que se sirven del\\nsonido."
+  },
+  {
+    "index": 676,
+    "flags": 4,
+    "text": "Ataca al oponente con una bola explosiva. Si esta\\nalcanza a un aliado, le har\u00E1 recuperar PS."
+  },
+  {
+    "index": 677,
+    "flags": 4,
+    "text": "Ataca lanzando un ancla al oponente, que queda\\natrapado y no puede huir."
+  },
+  {
+    "index": 678,
+    "flags": 0,
+    "text": "Durante cinco turnos, se potencian los movimientos\\nde tipo Ps\u00EDquico y los Pok\u00E9mon que est\u00E1n en el suelo\\nquedan protegidos contra movimientos con prioridad."
+  },
+  {
+    "index": 679,
+    "flags": 4,
+    "text": "Ataca al oponente abalanz\u00E1ndose sobre \u00E9l con todas\\nsus fuerzas y reduce su Ataque."
+  },
+  {
+    "index": 680,
+    "flags": 0,
+    "text": "Golpea al oponente con un l\u00E1tigo incandescente y\\nreduce su Defensa."
+  },
+  {
+    "index": 681,
+    "flags": 4,
+    "text": "Ataca al oponente presumiendo de su fuerza. Cuanto\\nm\u00E1s hayan subido las caracter\u00EDsticas del usuario,\\nmayor ser\u00E1 el da\u00F1o."
+  },
+  {
+    "index": 682,
+    "flags": 4,
+    "text": "Utiliza hasta el \u00FAltimo resquicio de llamas de su cuerpo\\npara infligir un grave da\u00F1o al oponente. Tras el ataque,\\nel usuario deja de ser de tipo Fuego."
+  },
+  {
+    "index": 683,
+    "flags": 4,
+    "text": "Intercambia su Velocidad por la del oponente."
+  },
+  {
+    "index": 684,
+    "flags": 4,
+    "text": "El usuario ensarta al adversario con su afilada\\ncornamenta. Este movimiento acierta siempre."
+  },
+  {
+    "index": 685,
+    "flags": 0,
+    "text": "Cura los problemas de estado del Pok\u00E9mon rival y\\na cambio recupera PS propios."
+  },
+  {
+    "index": 686,
+    "flags": 4,
+    "text": "Ataque que consiste en un baile muy en\u00E9rgico. El tipo\\nde este ataque se corresponde con el del Pok\u00E9mon que\\nlo ejecuta."
+  },
+  {
+    "index": 687,
+    "flags": 4,
+    "text": "Inflige da\u00F1o al rival, y si este ya ha hecho uso de alg\u00FAn\\nmovimiento, pierde su habilidad."
+  },
+  {
+    "index": 688,
+    "flags": 0,
+    "text": "Lanza una patada con la fuerza del tr\u00F3pico que golpea\\nal rival y reduce su Ataque."
+  },
+  {
+    "index": 689,
+    "flags": 0,
+    "text": "Fuerza al objetivo a repetir inmediatamente su \u00FAltimo\\nmovimiento."
+  },
+  {
+    "index": 690,
+    "flags": 0,
+    "text": "Primero aumenta la temperatura de su pico y luego\\nejecuta un ataque. Quema al rival si este le propina\\nun ataque f\u00EDsico mientras est\u00E1 calentando el pico."
+  },
+  {
+    "index": 691,
+    "flags": 0,
+    "text": "Frota todas las escamas de su cuerpo para crear un\\nfuerte sonido con el que ataca. Cuando el ataque\\ntermina, su Defensa se ve reducida."
+  },
+  {
+    "index": 692,
+    "flags": 4,
+    "text": "Usa el cuerpo como un martillo para abalanzarse sobre\\nsu rival y causarle da\u00F1o."
+  },
+  {
+    "index": 693,
+    "flags": 0,
+    "text": "Hace pivotar su cuerpo para causar da\u00F1o a su alrededor."
+  },
+  {
+    "index": 694,
+    "flags": 0,
+    "text": "Reduce el da\u00F1o de los ataques f\u00EDsicos y especiales que\\nejecuta el rival durante cinco turnos. Solo puede usarse\\ncuando est\u00E1 granizando."
+  },
+  {
+    "index": 695,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 696,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 697,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 698,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 699,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 700,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 701,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 702,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 703,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 704,
+    "flags": 4,
+    "text": "El caparaz\u00F3n del Pok\u00E9mon se convierte en una trampa.\\nSi le alcanza un ataque f\u00EDsico, la trampa estalla y los\\noponentes sufren da\u00F1o."
+  },
+  {
+    "index": 705,
+    "flags": 4,
+    "text": "El usuario emite un potente rayo, pero su Ataque\\nEspecial se reduce mucho."
+  },
+  {
+    "index": 706,
+    "flags": 4,
+    "text": "Ataca a sus rivales con poderes ps\u00EDquicos que adem\u00E1s\\ndestruyen barreras como Pantalla de Luz y Reflejo."
+  },
+  {
+    "index": 707,
+    "flags": 4,
+    "text": "Usa la frustraci\u00F3n como revulsivo para atacar.\\nLa potencia de Pataleta se duplica si el usuario\\nha fallado el \u00FAltimo movimiento usado."
+  },
+  {
+    "index": 708,
+    "flags": 4,
+    "text": "Ataca al oponente golpe\u00E1ndole con un hueso pose\u00EDdo\\npor un esp\u00EDritu. Puede reducir la Defensa del objetivo."
+  },
+  {
+    "index": 709,
+    "flags": 4,
+    "text": "El usuario se lanza contra el objetivo a gran\\nvelocidad. Este movimiento tiene prioridad alta."
+  },
+  {
+    "index": 710,
+    "flags": 4,
+    "text": "Ataca golpeando gracias a la fuerza del agua.\\nTambi\u00E9n puede reducir la Defensa del objetivo."
+  },
+  {
+    "index": 711,
+    "flags": 4,
+    "text": "El usuario utiliza un prisma para emitir un rayo de\\ngran potencia, pero no puede moverse en el turno\\nsiguiente."
+  },
+  {
+    "index": 712,
+    "flags": 4,
+    "text": "El usuario se esconde en la sombra del objetivo y lo\\nataca tras robarle las mejoras en sus caracter\u00EDsticas."
+  },
+  {
+    "index": 713,
+    "flags": 4,
+    "text": "Ataca al objetivo con la potencia de un meteoro,\\nignorando su habilidad."
+  },
+  {
+    "index": 714,
+    "flags": 4,
+    "text": "Ataca con un rayo misterioso que ignora la habilidad\\ndel objetivo."
+  },
+  {
+    "index": 715,
+    "flags": 0,
+    "text": "Mira al objetivo con ojos llorosos para hacerle perder\\nsu esp\u00EDritu combativo y reduce su Ataque y Ataque\\nEspecial."
+  },
+  {
+    "index": 716,
+    "flags": 0,
+    "text": "Se lanza contra el objetivo y le suelta una potente\\ndescarga el\u00E9ctrica que puede hacer que se amedrente."
+  },
+  {
+    "index": 717,
+    "flags": 0,
+    "text": "Golpea al objetivo con la furia de la naturaleza y\\nreduce sus PS a la mitad."
+  },
+  {
+    "index": 718,
+    "flags": 4,
+    "text": "El Pok\u00E9mon se rodea de una potente energ\u00EDa con la\\nque golpea al rival. El tipo del movimiento depende\\ndel disco que lleva el usuario."
+  },
+  {
+    "index": 719,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 720,
+    "flags": 4,
+    "text": "El usuario hace explotar su cabeza para atacar a todos\\nlos Pok\u00E9mon que se hallan a su alrededor, aunque\\ntambi\u00E9n se hiere a s\u00ED mismo."
+  },
+  {
+    "index": 721,
+    "flags": 4,
+    "text": "El usuario ataca con pu\u00F1os cargados de electricidad.\\nConvierte los movimientos de tipo Normal en\\nmovimientos de tipo El\u00E9ctrico."
+  },
+  {
+    "index": 722,
+    "flags": 4,
+    "text": "El usuario ataca con una gran columna de luz. Compara\\nsus valores de Ataque y Ataque Especial para infligir\\nda\u00F1o con el m\u00E1s alto de los dos."
+  },
+  {
+    "index": 723,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 724,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 725,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 726,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 727,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 728,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 729,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 730,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 731,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 732,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 733,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 734,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 735,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 736,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 737,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 738,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 739,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 740,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 741,
+    "flags": 4,
+    "text": "Este movimiento no se puede usar, por lo que ser\u00EDa\\nmejor olvidarlo, aunque eso implique que no se pueda\\nrecordar posteriormente."
+  },
+  {
+    "index": 742,
+    "flags": 4,
+    "text": "Usando la tuerca del pecho como eje, gira sobre s\u00ED\\nmismo y golpea con los brazos dos veces seguidas.\\nPuede amedrentar al rival."
+  },
+  {
+    "index": 743,
+    "flags": 0,
+    "text": "Frena todos los ataques, pero puede fallar si se usa\\nrepetidamente."
+  },
+  {
+    "index": 744,
+    "flags": 4,
+    "text": "El usuario ataca emitiendo un rayo desde su n\u00FAcleo.\\nEl da\u00F1o infligido se duplica si el objetivo ha alcanzado\\nel estado Dinamax."
+  },
+  {
+    "index": 745,
+    "flags": 0,
+    "text": "Permite atacar al objetivo seleccionado ignorando las\\nhabilidades o movimientos que permiten a un rival\\ncentrar la atenci\u00F3n sobre s\u00ED."
+  },
+  {
+    "index": 746,
+    "flags": 4,
+    "text": "Impide que tanto el atacante como el defensor puedan\\nser intercambiados hasta que uno de ellos se debilite o\\nabandone el terreno de combate."
+  },
+  {
+    "index": 747,
+    "flags": 4,
+    "text": "El usuario ingiere la baya que lleva equipada para\\naumentar mucho su Defensa."
+  },
+  {
+    "index": 748,
+    "flags": 4,
+    "text": "El usuario aumenta todas sus caracter\u00EDsticas, pero ya no\\npuede huir ni ser cambiado por otro."
+  },
+  {
+    "index": 749,
+    "flags": 0,
+    "text": "Cubre al objetivo de un alquitr\u00E1n pegajoso que reduce\\nsu Velocidad y lo vuelve d\u00E9bil contra el fuego."
+  },
+  {
+    "index": 750,
+    "flags": 0,
+    "text": "Cubre al objetivo con unos polvos m\u00E1gicos que le\\nhacen adquirir el tipo Ps\u00EDquico."
+  },
+  {
+    "index": 751,
+    "flags": 4,
+    "text": "El usuario ataca propulsando a ambos Dreepy. En caso\\nde haber dos adversarios, cada Dreepy golpea a su\\npropio objetivo por separado."
+  },
+  {
+    "index": 752,
+    "flags": 4,
+    "text": "El usuario invita a tomar el t\u00E9 a todos los presentes en\\nel terreno de combate, lo que hace que ingieran las\\nbayas que lleven equipadas."
+  },
+  {
+    "index": 753,
+    "flags": 0,
+    "text": "Retiene al objetivo para impedir su huida, a la vez que\\nreduce su Defensa y Defensa Especial cada turno."
+  },
+  {
+    "index": 754,
+    "flags": 4,
+    "text": "El usuario ensarta al objetivo con su pico cargado de\\nelectricidad. Si ataca en primer lugar, la potencia del\\nmovimiento se duplica."
+  },
+  {
+    "index": 755,
+    "flags": 4,
+    "text": "El usuario agarra al objetivo con sus duras branquias.\\nEn caso de atacar antes que este \u00FAltimo, la potencia del\\nmovimiento se duplica."
+  },
+  {
+    "index": 756,
+    "flags": 4,
+    "text": "Extra\u00F1o poder que intercambia los efectos en el terreno\\nde combate de ambos bandos."
+  },
+  {
+    "index": 757,
+    "flags": 4,
+    "text": "Ataque de tipo Fuego ejecutado por un Pok\u00E9mon\\nDinamax. Hace que se intensifique el efecto del sol\\ndurante cinco turnos."
+  },
+  {
+    "index": 758,
+    "flags": 4,
+    "text": "Ataque de tipo Bicho ejecutado por un Pok\u00E9mon\\nDinamax. Reduce el Ataque Especial del objetivo."
+  },
+  {
+    "index": 759,
+    "flags": 4,
+    "text": "Ataque de tipo El\u00E9ctrico ejecutado por un Pok\u00E9mon\\nDinamax. Crea un campo el\u00E9ctrico durante cinco turnos."
+  },
+  {
+    "index": 760,
+    "flags": 4,
+    "text": "Ataque de tipo Normal ejecutado por un Pok\u00E9mon\\nDinamax. Reduce la Velocidad del objetivo."
+  },
+  {
+    "index": 761,
+    "flags": 4,
+    "text": "Ataque de tipo Lucha ejecutado por un Pok\u00E9mon\\nDinamax. Aumenta el Ataque de tu bando."
+  },
+  {
+    "index": 762,
+    "flags": 4,
+    "text": "Ataque de tipo Fantasma ejecutado por un Pok\u00E9mon\\nDinamax. Reduce la Defensa de los rivales."
+  },
+  {
+    "index": 763,
+    "flags": 4,
+    "text": "Ataque de tipo Hielo ejecutado por un Pok\u00E9mon\\nDinamax. Crea una tormenta de granizo que dura cinco\\nturnos."
+  },
+  {
+    "index": 764,
+    "flags": 4,
+    "text": "Ataque de tipo Veneno ejecutado por un Pok\u00E9mon\\nDinamax. Aumenta el Ataque Especial de tu bando."
+  },
+  {
+    "index": 765,
+    "flags": 4,
+    "text": "Ataque de tipo Agua ejecutado por un Pok\u00E9mon\\nDinamax. Desata un aguacero que dura cinco turnos."
+  },
+  {
+    "index": 766,
+    "flags": 4,
+    "text": "Ataque de tipo Volador ejecutado por un Pok\u00E9mon\\nDinamax. Aumenta la Velocidad de tu bando."
+  },
+  {
+    "index": 767,
+    "flags": 4,
+    "text": "Ataque de tipo Hada ejecutado por un Pok\u00E9mon\\nDinamax. Crea un campo de niebla durante cinco\\nturnos."
+  },
+  {
+    "index": 768,
+    "flags": 4,
+    "text": "Ataque de tipo Drag\u00F3n ejecutado por un Pok\u00E9mon\\nDinamax. Reduce el Ataque del objetivo."
+  },
+  {
+    "index": 769,
+    "flags": 4,
+    "text": "Ataque de tipo Ps\u00EDquico ejecutado por un Pok\u00E9mon\\nDinamax. Crea un campo ps\u00EDquico durante cinco turnos."
+  },
+  {
+    "index": 770,
+    "flags": 4,
+    "text": "Ataque de tipo Roca ejecutado por un Pok\u00E9mon\\nDinamax. Levanta una tormenta de arena que dura\\ncinco turnos."
+  },
+  {
+    "index": 771,
+    "flags": 4,
+    "text": "Ataque de tipo Tierra ejecutado por un Pok\u00E9mon\\nDinamax. Aumenta la Defensa Especial de tu bando."
+  },
+  {
+    "index": 772,
+    "flags": 4,
+    "text": "Ataque de tipo Siniestro ejecutado por un Pok\u00E9mon\\nDinamax. Reduce la Defensa Especial del objetivo."
+  },
+  {
+    "index": 773,
+    "flags": 4,
+    "text": "Ataque de tipo Planta ejecutado por un Pok\u00E9mon\\nDinamax. Crea un campo de hierba durante cinco\\nturnos."
+  },
+  {
+    "index": 774,
+    "flags": 4,
+    "text": "Ataque de tipo Acero ejecutado por un Pok\u00E9mon\\nDinamax. Aumenta la Defensa de tu bando."
+  },
+  {
+    "index": 775,
+    "flags": 4,
+    "text": "Utiliza parte de los PS propios para subir sus\\ncaracter\u00EDsticas."
+  },
+  {
+    "index": 776,
+    "flags": 4,
+    "text": "El usuario usa el cuerpo para lanzar su ataque e infligir\\nun da\u00F1o directamente proporcional a su Defensa."
+  },
+  {
+    "index": 777,
+    "flags": 4,
+    "text": "Aumenta mucho el Ataque y el Ataque Especial del\\nobjetivo al decorarlo."
+  },
+  {
+    "index": 778,
+    "flags": 4,
+    "text": "El usuario controla un toc\u00F3n mediante la percusi\u00F3n y al\\natacar reduce la Velocidad del objetivo."
+  },
+  {
+    "index": 779,
+    "flags": 0,
+    "text": "Cepo que atrapa al objetivo durante cuatro o cinco\\nturnos y le causa da\u00F1o mientras se encuentra preso."
+  },
+  {
+    "index": 780,
+    "flags": 4,
+    "text": "El usuario prende una peque\u00F1a piedra para crear una\\nbola de fuego con la que ataca al rival. Puede causar\\nquemaduras."
+  },
+  {
+    "index": 781,
+    "flags": 4,
+    "text": "El usuario se convierte en una espada gigante para\\nrebanar al objetivo. Si este ha alcanzado el estado\\nDinamax, se duplica el da\u00F1o infligido."
+  },
+  {
+    "index": 782,
+    "flags": 4,
+    "text": "El usuario se convierte en un escudo gigante para\\ngolpear al objetivo. Si este ha alcanzado el estado\\nDinamax, se duplica el da\u00F1o infligido."
+  },
+  {
+    "index": 783,
+    "flags": 0,
+    "text": "La energ\u00EDa que acumula en las mejillas le sirve para\\natacar y aumentar su Velocidad. Este movimiento\\ncambia de tipo seg\u00FAn la forma que adopte Morpeko."
+  },
+  {
+    "index": 784,
+    "flags": 4,
+    "text": "El usuario sacude violentamente su enorme cola para\\ngolpear a todos los rivales y reducir su Ataque a la par."
+  },
+  {
+    "index": 785,
+    "flags": 4,
+    "text": "Ataca pinchando al objetivo con una rama afilada."
+  },
+  {
+    "index": 786,
+    "flags": 4,
+    "text": "El usuario rasguea la guitarra o el bajo para generar\\nenormes vibraciones de intensa reverberaci\u00F3n con las\\nque ataca al objetivo."
+  },
+  {
+    "index": 787,
+    "flags": 4,
+    "text": "Ataca al objetivo con el fluido corrosivo que desprende\\nuna manzana \u00E1cida, lo que tambi\u00E9n disminuye la\\nDefensa Especial de este."
+  },
+  {
+    "index": 788,
+    "flags": 4,
+    "text": "El usuario ataca haciendo caer una manzana desde gran\\naltura. Disminuye la Defensa del objetivo."
+  },
+  {
+    "index": 789,
+    "flags": 4,
+    "text": "El usuario ataca al objetivo con tal \u00EDmpetu que acaba\\nminando su moral y, en consecuencia, reduce su Ataque\\nEspecial."
+  },
+  {
+    "index": 790,
+    "flags": 0,
+    "text": "Desprende un humo con el que ataca al objetivo, que\\npuede acabar confundido."
+  },
+  {
+    "index": 791,
+    "flags": 0,
+    "text": "Vierte un agua misteriosa y bals\u00E1mica que restaura\\ntanto sus propios PS como los de aquellos aliados\\npresentes en el terreno de combate."
+  },
+  {
+    "index": 792,
+    "flags": 0,
+    "text": "Frena todos los ataques, pero puede fallar si se usa\\nrepetidamente. Reduce mucho la Defensa de quien\\nejecute un movimiento de contacto contra el usuario."
+  },
+  {
+    "index": 793,
+    "flags": 4,
+    "text": "El usuario finge hacer una reverencia y aprovecha la\\nocasi\u00F3n para ensartar al objetivo con su cabello\\nalborotado. Siempre acierta."
+  },
+  {
+    "index": 794,
+    "flags": 4,
+    "text": "El usuario agita violentamente su grueso puerro para\\natacar, pero el mareo que le provocan las sacudidas le\\nimpide moverse en el turno siguiente."
+  },
+  {
+    "index": 795,
+    "flags": 4,
+    "text": "Este es el mayor ataque de Eternatus una vez adquirida\\nsu forma original. No puede moverse en el turno\\nsiguiente."
+  },
+  {
+    "index": 796,
+    "flags": 4,
+    "text": "Utiliza el acero de su cuerpo para disparar un potente\\nrayo. Tambi\u00E9n hiere al agresor."
+  },
+  {
+    "index": 797,
+    "flags": 4,
+    "text": "El usuario ataca al objetivo con sus poderes ps\u00EDquicos.\\nCuando se usa en conjunci\u00F3n con un campo ps\u00EDquico,\\naumenta su potencia e inflige da\u00F1o a todos los rivales."
+  },
+  {
+    "index": 798,
+    "flags": 4,
+    "text": "El usuario lanza su ataque y destruye el campo activo\\nen el terreno de combate, y falla si no hay ninguno en\\nese momento."
+  },
+  {
+    "index": 799,
+    "flags": 0,
+    "text": "Lanza escamas al objetivo de dos a cinco veces\\nseguidas. Aumenta la Velocidad del usuario, pero\\nreduce su Defensa."
+  },
+  {
+    "index": 800,
+    "flags": 4,
+    "text": "El usuario dedica el primer turno a aumentar su\\nAtaque Especial acumulando energ\u00EDa c\u00F3smica y lanza\\nsu ofensiva contra el objetivo en el segundo."
+  },
+  {
+    "index": 801,
+    "flags": 4,
+    "text": "El usuario lanza un ataque f\u00EDsico o especial en funci\u00F3n\\nde cu\u00E1l inflija m\u00E1s da\u00F1o. Puede envenenar al objetivo."
+  },
+  {
+    "index": 802,
+    "flags": 4,
+    "text": "El usuario ataca a todos a su alrededor, pero se debilita\\nde inmediato. La potencia del movimiento aumenta si el\\nterreno est\u00E1 cubierto por un campo de niebla."
+  },
+  {
+    "index": 803,
+    "flags": 4,
+    "text": "Ataca al objetivo desliz\u00E1ndose sobre el terreno de\\ncombate. Este movimiento tiene prioridad alta cuando\\nel terreno est\u00E1 cubierto por un campo de hierba."
+  },
+  {
+    "index": 804,
+    "flags": 4,
+    "text": "Ataca con una descarga el\u00E9ctrica que surge del terreno\\nde combate. La potencia del movimiento se duplica si\\nel rival se ve afectado por un campo el\u00E9ctrico."
+  },
+  {
+    "index": 805,
+    "flags": 4,
+    "text": "El usuario ataca aprovechando la energ\u00EDa del campo\\nactivo, que determina tanto el tipo como la potencia\\ndel movimiento."
+  },
+  {
+    "index": 806,
+    "flags": 4,
+    "text": "Ataca al objetivo por la espalda de forma subrepticia\\ny adem\u00E1s reduce su Ataque Especial."
+  },
+  {
+    "index": 807,
+    "flags": 4,
+    "text": "Ataca al objetivo con la energ\u00EDa generada por la envidia\\ny causa quemaduras a los Pok\u00E9mon cuyas caracter\u00EDsticas\\nhayan aumentado en ese turno."
+  },
+  {
+    "index": 808,
+    "flags": 4,
+    "text": "Ataca al rival presa de la rabia. Si el usuario ha sufrido\\nuna reducci\u00F3n de caracter\u00EDsticas en ese turno, la\\npotencia del movimiento se duplica."
+  },
+  {
+    "index": 809,
+    "flags": 4,
+    "text": "El usuario ataca utilizando el objeto que lleva el rival.\\nSi no tiene ninguno equipado, el movimiento falla."
+  },
+  {
+    "index": 810,
+    "flags": 4,
+    "text": "El usuario libera un gas c\u00E1ustico que envuelve a todos\\nlos que se encuentren alrededor y derrite por completo\\nlos objetos que lleven equipados."
+  },
+  {
+    "index": 811,
+    "flags": 4,
+    "text": "El usuario imparte indicaciones precisas a sus aliados,\\nque ven aumentados su Ataque y su Defensa."
+  },
+  {
+    "index": 812,
+    "flags": 0,
+    "text": "Tras atacar, el usuario da paso a toda prisa a otro\\nPok\u00E9mon del equipo."
+  },
+  {
+    "index": 813,
+    "flags": 0,
+    "text": "Patea hasta tres veces seguidas y cada vez m\u00E1s fuerte."
+  },
+  {
+    "index": 814,
+    "flags": 4,
+    "text": "Ataca al adversario golpe\u00E1ndolo dos veces con las alas."
+  },
+  {
+    "index": 815,
+    "flags": 4,
+    "text": "Ataca al objetivo arroj\u00E1ndole arena a temperaturas muy\\nelevadas. Puede causar quemaduras."
+  },
+  {
+    "index": 816,
+    "flags": 4,
+    "text": "Al entrar en plena armon\u00EDa con la selva, el usuario cura\\nproblemas de estado y restaura PS no solo de s\u00ED mismo,\\nsino tambi\u00E9n de los aliados presentes en el terreno."
+  },
+  {
+    "index": 817,
+    "flags": 0,
+    "text": "Golpe devastador que requiere un absoluto dominio de\\nlas artes siniestras. Siempre asesta un golpe cr\u00EDtico."
+  },
+  {
+    "index": 818,
+    "flags": 4,
+    "text": "El usuario, dominador absoluto del l\u00EDquido elemento,\\ngolpea hasta tres veces con movimientos fluidos.\\nSiempre asesta un golpe cr\u00EDtico."
+  },
+  {
+    "index": 819,
+    "flags": 4,
+    "text": "El objetivo queda atrapado en una jaula electrificada\\nque permanece en el terreno de cuatro a cinco turnos."
+  },
+  {
+    "index": 820,
+    "flags": 4,
+    "text": "El usuario convierte su fuerza vital en una energ\u00EDa con\\nla que ataca al objetivo. Cuantos menos PS tenga el\\nusuario, menor ser\u00E1 la potencia del movimiento."
+  },
+  {
+    "index": 821,
+    "flags": 4,
+    "text": "A trav\u00E9s de sus ojos emite poderes ps\u00EDquicos con los\\nque ataca al objetivo, al que puede llegar a congelar."
+  },
+  {
+    "index": 822,
+    "flags": 4,
+    "text": "El usuario convierte su ira en un aura flam\u00EDgera para\\nlanzar su ataque. Puede amedrentar al objetivo."
+  },
+  {
+    "index": 823,
+    "flags": 4,
+    "text": "El usuario desconcierta al rival con movimientos\\ncentelleantes y le propina una patada. Baja la Defensa\\ndel objetivo."
+  },
+  {
+    "index": 824,
+    "flags": 4,
+    "text": "El usuario ataca al objetivo lanz\u00E1ndole un car\u00E1mbano de\\nhielo envuelto en una ventisca."
+  },
+  {
+    "index": 825,
+    "flags": 4,
+    "text": "El usuario ataca al objetivo lanz\u00E1ndole una ingente\\ncantidad de peque\u00F1os fantasmas."
+  },
+  {
+    "index": 826,
+    "flags": 4,
+    "text": "El usuario ataca con un poder ps\u00EDquico de inmensa\\npotencia y elimina 3 PP del \u00FAltimo movimiento que\\nhaya usado el objetivo."
+  }
+]

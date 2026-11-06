@@ -1,0 +1,107 @@
+[
+  {
+    "slot": 0,
+    "species": 38,
+    "form": 0,
+    "level": 25,
+    "heldItem": 0,
+    "nature": 5,
+    "ability": 1,
+    "gender": 2,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      261,
+      83,
+      98,
+      52
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 1,
+    "species": 59,
+    "form": 0,
+    "level": 25,
+    "heldItem": 0,
+    "nature": 10,
+    "ability": 1,
+    "gender": 1,
+    "dynamaxLevel": 0,
+    "canGigantamax": false,
+    "shiny": false,
+    "moves": [
+      261,
+      172,
+      44,
+      97
+    ],
+    "ivs": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "slot": 2,
+    "species": 851,
+    "form": 0,
+    "level": 27,
+    "heldItem": 0,
+    "nature": 8,
+    "ability": 1,
+    "gender": 1,
+    "dynamaxLevel": 2,
+    "canGigantamax": true,
+    "shiny": false,
+    "moves": [
+      172,
+      489,
+      450,
+      108
+    ],
+    "ivs": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "evs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

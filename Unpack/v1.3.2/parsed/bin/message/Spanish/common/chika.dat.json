@@ -1,0 +1,617 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Conectando..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Modo infinito"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Fin de la aventura"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Cuando los Pok\u00E9mon se hayan debilitado 4 veces en\\ntotal o si un combate se alarga m\u00E1s de 10 turnos."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Invitar a otros jugadores"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Ir en solitario"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Participar"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00A1Todo listo!"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Iniciar una aventura"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Tiempo restante:"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Buscando..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "C\u00F3digo: [VAR 012D(0000)][VAR 012D(0001)][VAR 012D(0002)][VAR 012D(0003)] [VAR 012D(0004)][VAR 012D(0005)][VAR 012D(0006)][VAR 012D(0007)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "No tienes Pok\u00E9 Balls. \u00BFQuieres continuar?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "No hay suficientes participantes, por lo que se\\nproceder\u00E1 a buscar Entrenadores de apoyo.\\c\\n\u00BFQuieres continuar?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00BFEl c\u00F3digo es [VAR 0203(0000,0000)] [VAR 0203(0001,0000)]?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00BFQuieres cancelar la b\u00FAsqueda de participantes?"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00BFQuieres dejar de participar?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Se ha cancelado la aventura por falta de\\nparticipantes.\\c"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "El c\u00F3digo se eliminar\u00E1. \u00BFQuieres continuar?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Se ha producido un error de conexi\u00F3n.\\nVuelve a intentarlo m\u00E1s tarde.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Se ha cancelado la b\u00FAsqueda de participantes\\npara la Aventura Dinamax.\\c"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "La aventura se iniciar\u00E1 en compa\u00F1\u00EDa de\\nEntrenadores de apoyo.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "No podr\u00E1s traer de vuelta contigo ninguno de\\nlos Pok\u00E9mon que atrapes porque no te queda\\r\\nespacio en el equipo ni en las cajas.\\c\\n\u00BFQuieres continuar?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Conectando...\\nPor favor, espera."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": " C\u00F3digo"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": " Borrar c\u00F3digo"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": " Cambiar vista"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Seleccionar"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": " Salir"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Votar"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Puedes tomar prestado un Pok\u00E9mon para que\\nte acompa\u00F1e en la aventura."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0189(0000)] est\u00E1 decidiendo..."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00A1Comienza la aventura!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Decidiendo..."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Cient\u00EDfica"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "PS"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ataque"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Defensa"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "At. Esp."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Def. Esp."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Velocidad"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Habilidad"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Datos"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Seleccionar"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1Se ha detectado una fuerte actividad energ\u00E9tica\\nde tipo [VAR 0103(0000)] en el fondo del nido!"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 camino quieres seguir?"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Entre todos hab\u00E9is decidido seguir por este\\ncamino."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00BFQuieres continuar la aventura con el\\n[VAR 0101(0000)] que has atrapado?"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 0189(0000)] ha decidido llevar consigo a\\n[VAR 0101(0001)]."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "\u00A1Segu\u00EDs adelante con los Pok\u00E9mon que ten\u00EDais!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00A1Anda, unas bayas!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Vuestros Pok\u00E9mon se han comido las bayas y han\\nrecuperado la salud."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u00A1Vuestros Pok\u00E9mon ya est\u00E1n en plena forma!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00A1Os hab\u00E9is encontrado con una Mochilera!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Si quer\u00E9is, puedo compartir mis objetos con\\nvosotros. \u00BFQu\u00E9 necesit\u00E1is?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00BF[VAR 1703(0000,0000)][VAR 010A(0000)]?\\n\u00A1Muy bien, toma!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Le has dado [VAR 1700(0002,0000)][VAR 010A(0002)]\\na [VAR 0101(0001)]."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00BFNo necesitas nada? \u00A1Vale! Buena suerte."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00A1Os hab\u00E9is encontrado con una Cient\u00EDfica!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 tal se encuentran vuestros Pok\u00E9mon?"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Os ofrezco cambiar uno de vuestros Pok\u00E9mon\\npor otro Pok\u00E9mon de pr\u00E9stamo. \u00BFQu\u00E9 os parece?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFQuieres intercambiar tu Pok\u00E9mon por otro de\\npr\u00E9stamo?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Muy bien, le prestar\u00E9 este [VAR 0101(0001)] a\\n[VAR 0189(0000)]."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00A1Mucho \u00E1nimo! \u00A1Seguid as\u00ED!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00BFNadie quiere que le preste un Pok\u00E9mon nuevo?\\n\u00A1Pues solo me queda desearos mucha suerte!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "La tormenta parece haber amainado un poco."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Pok\u00E9mon atrapados"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Elige qu\u00E9 Pok\u00E9mon te llevas."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[~ 90]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00A1Has recibido un premio!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Fragmentos de Maxinium"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "\u00BFQuieres llevarte a [VAR 0101(0000)]?"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "\u00BFSeguro que no quieres llevarte ning\u00FAn\\nPok\u00E9mon?"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "\u00A1Le has entregado a la Cient\u00EDfica el Pok\u00E9mon que\\ntomaste prestado y el que no elegiste llevarte!\\c"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "\u00A1Le has entregado a la Cient\u00EDfica el Pok\u00E9mon que\\ntomaste prestado y los que no elegiste llevarte!\\c"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "\u00A1Le has entregado a la Cient\u00EDfica el Pok\u00E9mon que\\ntomaste prestado!\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00A1Le has entregado a la Cient\u00EDfica el Pok\u00E9mon que\\ntomaste prestado y el que atrapaste!\\c"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "\u00A1Le has entregado a la Cient\u00EDfica el Pok\u00E9mon que\\ntomaste prestado y los que atrapaste!\\c"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Siguiente"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Exploraste el nido"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Llegaste hasta el fondo del nido"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "Atrapaste un Pok\u00E9mon incre\u00EDble"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Terminaste a salvo la aventura"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Jugaste en l\u00EDnea"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Recompensa del modo infinito"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Aventura Dinamax"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "R\u00E9cord en el modo infinito"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Planta alcanzada:"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "P-[VAR 0202(0000)]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Pok\u00E9mon derrotados:"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Los participantes se turnar\u00E1n para elegir qu\u00E9\\nPok\u00E9mon llevar\u00E1n consigo en la aventura."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Puedes darle un objeto a tu Pok\u00E9mon."
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Uno de los participantes puede cambiar su\\nPok\u00E9mon por el Pok\u00E9mon reci\u00E9n atrapado."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Como es tu primera vez, pues...\\c\\nTe recomendamos que elijas [VAR FF00(0006)]Ir en solitario[VAR FF00(0000)]\\npara familiarizarte con las reglas.\\c"
+  }
+]
