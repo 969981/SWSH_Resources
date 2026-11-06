@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Tana di [VAR 0101(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Tana di ???"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Regole speciali"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Si pu\u00F2 catturare solo con una Dynamax Ball."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Solo chi ha scoperto la tana pu\u00F2 catturarlo."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Non si pu\u00F2 catturare!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Il raid termina dopo..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "4 KO, oppure 10 turni."
+  },
+  {
+    "index": 11,
+    "flags": 8,
+    "text": "Sfida in compagnia"
+  },
+  {
+    "index": 12,
+    "flags": 8,
+    "text": "Sfida in solitaria"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Inizia la lotta"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Cambia Pok\u00E9mon"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tutto pronto!"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Inizia la lotta"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Tempo rimasto"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Ricerca in corso..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Password: [VAR 012D(0000)][VAR 012D(0001)][VAR 012D(0002)][VAR 012D(0003)] [VAR 012D(0004)][VAR 012D(0005)][VAR 012D(0006)][VAR 012D(0007)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Non hai Pok\u00E9 Ball! Vuoi continuare?"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Il numero dei partecipanti \u00E8 insufficiente.\\c\\nVerranno chiamati degli Allenatori di supporto.\\nVuoi continuare?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Password inserita: [VAR 0203(0000,0000)] [VAR 0203(0001,0000)]. Confermi?"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Vuoi interrompere la ricerca?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "La ricerca \u00E8 stata interrotta.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Vuoi annullare la tua partecipazione?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con il Pok\u00E9mon selezionato.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "La lotta \u00E8 stata annullata per mancanza\\ndi partecipanti.\\c"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "La password verr\u00E0 cancellata.\\nVuoi continuare?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con un Pok\u00E9mon della tua\\nsquadra. Non puoi partecipare alla lotta.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Password errata.\\c"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Impossibile stabilire la comunicazione.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Impossibile stabilire la comunicazione.\\nRiprova.\\c"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "L\u2019invito a partecipare al Raid Dynamax\\n\u00E8 stato cancellato.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "L\u2019invito a partecipare al Raid Dynamax\\n\u00E8 stato cancellato.\\c"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Degli Allenatori di supporto lotteranno al\\ntuo fianco.\\c"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Non hai spazio per catturare altri Pok\u00E9mon.\\nVuoi continuare?"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Non potrai catturare questo Pok\u00E9mon.\\nVuoi continuare?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Comunicazione in corso.\\nAttendi..."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Password"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Cancella la password"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "No"
+  }
+]

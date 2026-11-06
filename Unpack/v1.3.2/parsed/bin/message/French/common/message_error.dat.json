@@ -1,0 +1,412 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification du code.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Impossible d\u2019acc\u00E9der au serveur d\u2019authentification\\ndu code pour cause de maintenance.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Impossible d\u2019acc\u00E9der au serveur d\u2019authentification\\npour cause de maintenance.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Ce service n\u2019est plus support\u00E9."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ce service n\u2019est plus support\u00E9."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification du code.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification du code.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Une erreur est survenue sur le serveur\\nd\u2019authentification.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Le serveur d\u2019authentification du code\\nest surcharg\u00E9.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Le serveur d\u2019authentification est surcharg\u00E9.\\nVeuillez patienter quelques instants\\navant de r\u00E9essayer."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "La connexion avec le serveur a \u00E9t\u00E9 interrompue."
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Un probl\u00E8me de connexion est survenu\\net celle-ci a \u00E9t\u00E9 interrompue."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "La connexion avec le serveur a \u00E9t\u00E9 interrompue."
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "\u00C9chec de la communication avec l\u2019autre joueur.\\nVeuillez recommencer depuis le d\u00E9but."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "La communication avec l\u2019autre joueur\\na \u00E9t\u00E9 interrompue."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Le syst\u00E8me a rencontr\u00E9 une erreur."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Une erreur s\u2019est produite.\\nL\u2019\u00E9change de Pok\u00E9mon n\u2019a pas pu \u00EAtre effectu\u00E9.\\n\\nVeuillez appuyer sur le bouton HOME et fermer\\nle jeu."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "L\u2019identification des donn\u00E9es de sauvegarde\\nde la console Nintendo Switch a \u00E9chou\u00E9.\\n\\nVeuillez \u00E9teindre votre console, la rallumer,\\npuis r\u00E9essayer."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "La sauvegarde des donn\u00E9es sur la Pok\u00E9 Ball Plus\\na \u00E9chou\u00E9."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "La lecture des donn\u00E9es de la Pok\u00E9 Ball Plus\\na \u00E9chou\u00E9."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "La connexion \u00E0 la Pok\u00E9 Ball Plus a \u00E9chou\u00E9."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "La connexion \u00E0 la Pok\u00E9 Ball Plus a \u00E9chou\u00E9.\\n\\nSi votre Pok\u00E9 Ball Plus contient un Pok\u00E9mon,\\nveuillez r\u00E9essayer en s\u00E9lectionnant\\n\u00AB\u202FPromener un Pok\u00E9mon avec la Pok\u00E9 Ball Plus\u202F\u00BB."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "La connexion \u00E0 la Pok\u00E9 Ball Plus a \u00E9chou\u00E9.\\n\\nVeuillez recommencer depuis le d\u00E9but."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Mot de passe incorrect.\\n\\nVeuillez r\u00E9essayer."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Participation impossible.\\nLe d\u00E9lai a expir\u00E9."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Participation impossible.\\nLe d\u00E9lai a expir\u00E9."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Participation impossible.\\nLe nombre maximal de participants est atteint."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Aucun partenaire n\u2019a \u00E9t\u00E9 trouv\u00E9."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[~ 45]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[~ 46]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Erreur du serveur.\\nVeuillez r\u00E9essayer."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Le serveur est en maintenance.\\nVeuillez r\u00E9essayer ult\u00E9rieurement."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[~ 54]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[~ 55]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[~ 57]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Vous participez d\u00E9j\u00E0 \u00E0 cette comp\u00E9tition\\navec d\u2019autres donn\u00E9es de sauvegarde."
+  }
+]

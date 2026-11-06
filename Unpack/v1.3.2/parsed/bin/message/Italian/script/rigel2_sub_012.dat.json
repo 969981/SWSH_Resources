@@ -1,0 +1,522 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "A-ha! Finalmente![VAR 0114(000B)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Eccolo! Lo sapevo! Le mie ipotesi erano giuste![VAR 0114(000B)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Ah! [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Che ci fai in un posto come questo?[VAR 0114(000B)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Sono in vena di esplorazioni!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Potrei farti la stessa domanda!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Cosa? Scherzi? Con questo freddo!\\nDa non credere![VAR 0114(000B)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Beh, non hai tutti i torti... Comincio anch\u2019io a\\nchiedermi che ci faccio qui con questo freddo.[VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Io ho delle ricerche da fare su certi Pok\u00E9mon\\nche si trovano qui nella Landa Corona.[VAR 0114(000B)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Sai, alcuni Pok\u00E9mon preferiscono vivere\\nin luoghi isolati, lontano dagli esseri umani.[VAR 0114(000B)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "E la Landa Corona sembra essere l\u2019habitat ideale\\nper questi Pok\u00E9mon.[VAR 0114(000B)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Se il mio ragionamento \u00E8 giusto...[VAR 0114(000B)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "... in queste terre si nascondono tre Pok\u00E9mon\\nleggendari![VAR 0114(000B)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Sono convinta che quelle [VAR FF00(0006)]impronte[VAR FF00(0000)] supportino\\nla mia tesi. Prova a esaminarle![VAR 0114(000B)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Sospetto che i leggendari Pok\u00E9mon Metalcuore,\\nPok\u00E9mon Caverna e Pok\u00E9mon Prateria\\r\\nsi trovino qui, nella Landa Corona![VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR FF00(0006)]Indizi[VAR FF00(0000)] come quello sono disseminati ovunque\\nin questa zona.[VAR 0114(000B)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Una volta che li avr\u00F2 ottenuti tutti, potr\u00F2 usare\\nil mio rilevatore di Pok\u00E9mon per scoprire dove\\r\\nsi nascondono quei tre Pok\u00E9mon leggendari![VAR 0114(000B)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ma fa talmente freddo qui che al momento sono\\nin modalit\u00E0 resa totale...[VAR 0114(000B)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Senti, [VAR 0100(0000)]... Tu ti tratterrai\\nnella Landa Corona per un po\u2019, vero?[VAR 0114(000B)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Pensavo, forse potresti andare tu a caccia\\ndi indizi per me e portarmeli qui se ne trovi...\\r\\nNaturalmente ti ricompenserei per il tuo aiuto![VAR 0114(000B)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Io ti aspetto al calduccio in quella casetta\\naccogliente...[VAR 0114(000B)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Cio\u00E8, volevo dire... Aspetto i risultati delle tue\\nricerche, riscaldandomi al fuoco della scienza![VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], come va con gli indizi?[VAR 0114(000B)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Ti mostro cosa ho scoperto finora"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Ricordami dove devo cercare"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Identifica l\u2019habitat dei Pok\u00E9mon"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Torno pi\u00F9 tardi..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Dunque, vediamo gli indizi che hai raccolto...[VAR 0114(000B)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Ottimo lavoro! Hai gi\u00E0 trovato tutti gli indizi!\\c\\nOra che l\u2019habitat \u00E8 stato identificato, non ti resta\\nche andare e dimostrare che la leggenda \u00E8 vera![VAR 0114(000B)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Al momento, la percentuale di indizi raccolti\\nsul [VAR 0104(0001)] \u00E8... [VAR 0202(0002)]%![VAR 0114(000B)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Mi raccomando! Conto su di te![VAR 0114(000B)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Fantastico! Hai raccolto il 100% degli indizi\\nsul [VAR 0104(0001)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Con tutto questo materiale potremo identificare\\ncon certezza l\u2019habitat del Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Con tutto questo materiale potremo identificare\\ncon certezza l\u2019habitat dei Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Inseriamo le informazioni che abbiamo ottenuto\\nnel rilevatore di Pok\u00E9mon e il gioco \u00E8 fatto![VAR 0114(000B)]"
+  },
+  {
+    "index": 36,
+    "flags": 8,
+    "text": "Sta facendo la scansione dei segni vitali...\\n...[VAR 0114(000B)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Habitat del Pok\u00E9mon identificato![VAR 0114(000B)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Habitat dei Pok\u00E9mon identificato![VAR 0114(000B)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Il [VAR 0104(0001)] si trova\\nnel[VAR 0105(0002)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Presto ti troverai faccia a faccia con un Pok\u00E9mon\\nleggendario...!\\c\\nGood luck, [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Presto ti troverai faccia a faccia con un Pok\u00E9mon\\nleggendario...!\\c\\nGood luck, [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Temo che per scoprire l\u2019habitat del Pok\u00E9mon\\nabbiamo bisogno di pi\u00F9 indizi.\\c\\nSu! Setaccia la Landa Corona in lungo e in largo!\\nSono certa che la tua ricerca dar\u00E0 i suoi frutti![VAR 0114(000B)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Temo che per scoprire l\u2019habitat dei Pok\u00E9mon\\nabbiamo bisogno di pi\u00F9 indizi.\\c\\nSu! Setaccia la Landa Corona in lungo e in largo!\\nSono certa che la tua ricerca dar\u00E0 i suoi frutti![VAR 0114(000B)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Mi affido a te, [VAR 0100(0000)]!\\nDopotutto sei [VAR 1100(00FF,0E0B)]il Campionela Campionessa![VAR 0114(000B)]"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Oooh! Non riesco a crederci!\\nQuesto \u00E8 [VAR 0101(0002)], il [VAR 0104(0001)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Lo sapevo! La mia ipotesi era giusta!\\nEro certa di aver colto nel segno![VAR 0114(000B)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ah... Ops! Scusa, mi sono lasciata prendere\\ndall\u2019entusiasmo.\\c\\nTi meriti un premio per avermi mostrato\\nun Pok\u00E9mon leggendario![VAR 0114(000B)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Questo vuol dire che anche gli altri due\\nsi trovano qui![VAR 0114(000B)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Mi fido ciecamente del tuo talento,\\n[VAR 0100(0000)]! Buona ricerca![VAR 0114(000B)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Oooh! Non riesco a crederci!\\nQuesto \u00E8 [VAR 0101(0002)], il [VAR 0104(0001)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ero sicura che non mi avresti delusa,\\n[VAR 0100(0000)]!\\r\\nHo fatto bene ad affidarmi a te![VAR 0114(000B)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ops! Scusa di nuovo... Non riesco proprio\\na contenere le emozioni.\\c\\nTi meriti un premio per avermi mostrato\\nun Pok\u00E9mon leggendario![VAR 0114(000B)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Ora ne resta da trovare solo uno!\\nMi affido al tuo fiuto![VAR 0114(000B)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Oooh! Non riesco a crederci!\\nQuesto \u00E8 [VAR 0101(0002)], il [VAR 0104(0001)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Grandioso! Sono un genio! Ti\u00E8! Hai visto, nonna?![VAR 0114(000B)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Ah! Ahem... Magari non dire a mia nonna quello\\nche ho appena detto. Eh eh!\\c\\nTieni! \u00C8 una ricompensa per avermi resa\\ncos\u00EC felice![VAR 0114(000B)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Grazie alla tua collaborazione, ho potuto\\nconfermare tutte le mie ipotesi!\\c\\nTe ne sono immensamente grata![VAR 0114(000B)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Se non fossi [VAR 1100(00FF,0E0B)]il Campionela Campionessa, ti assumerei\\ncome mi[VAR 1100(00FF,0101)]oa assistente![VAR 0114(000B)]"
+  },
+  {
+    "index": 60,
+    "flags": 8,
+    "text": "Stando alle leggende, pare che in tempi remoti\\nCobalion, Terrakion e Virizion...[VAR 0114(000B)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "... abbiano lottato strenuamente per proteggere\\ni propri compagni da individui malvagi.[VAR 0114(000B)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Da allora si tengono lontani dagli esseri umani.[VAR 0114(000B)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Tuttavia, il fatto che si siano lasciati catturare\\nda te potrebbe indicare...\\c\\n... che si stiano pian piano riavvicinando\\nagli esseri umani...[VAR 0114(000B)]"
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Aaaah... Se cos\u00EC fosse, non sarebbe fantastico?[VAR 0114(000B)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Bene! \u00C8 ora di tornare al laboratorio per mettere\\ninsieme i risultati delle mie ultime ricerche![VAR 0114(000B)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Ci vediamo, [VAR 0100(0000)]!\\nBuona esplorazione!\\c\\nE mi raccomando, attent[VAR 1100(00FF,0101)]oa a non prenderti\\nun raffreddore, eh![VAR 0114(000B)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Vieni Yamper, andiamo![VAR 0114(000B)]"
+  },
+  {
+    "index": 68,
+    "flags": 8,
+    "text": "Yam yam...?"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[~ 82]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[~ 84]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "[~ 85]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Hai trovato un indizio sul [VAR 0104(0001)]!\\nIndizi trovati: [VAR 0202(0003)]%!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Torna a Freezedale e fai rapporto alla\\nProfessoressa Sonia!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Guooooooh!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Grwooo!"
+  },
+  {
+    "index": 91,
+    "flags": 8,
+    "text": "Zioooon!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Keeeeeel!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Pok\u00E9mon Metalcuore"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Pok\u00E9mon Caverna"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Pok\u00E9mon Prateria"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[~ 96]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": " Mar Gelido"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "la Grotta Rivalago"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": " Letto del Gigante"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Oh! C\u2019\u00E8 un indizio un po\u2019 insolito..."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 8,
+    "text": "Yam yam!"
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "index": 0,
+    "hash": "E811AD189895050B",
+    "name": "msg_pokecamp_optionbar_decide"
+  },
+  {
+    "index": 1,
+    "hash": "039BC0B8B4D933FC",
+    "name": "msg_pokecamp_optionbar_quit"
+  },
+  {
+    "index": 2,
+    "hash": "E948AC357CAD6D7C",
+    "name": "msg_pokecamp_optionbar_back"
+  },
+  {
+    "index": 3,
+    "hash": "3E90F2A1FC2FFA44",
+    "name": "msg_pokecamp_optionbar_menu"
+  },
+  {
+    "index": 4,
+    "hash": "952ED5513B4315C9",
+    "name": "msg_pokecamp_optionbar_close"
+  },
+  {
+    "index": 5,
+    "hash": "2A3CC25F6DBA5540",
+    "name": "msg_pokecamp_optionbar_hold_item"
+  },
+  {
+    "index": 6,
+    "hash": "459EF3E304D9726B",
+    "name": "msg_pokecamp_optionbar_switch_item"
+  },
+  {
+    "index": 7,
+    "hash": "7372D086692F8729",
+    "name": "msg_pokecamp_optionbar_come_on"
+  },
+  {
+    "index": 8,
+    "hash": "5DC7C0BF683F8AED",
+    "name": "msg_pokecamp_optionbar_talk_01"
+  },
+  {
+    "index": 9,
+    "hash": "5DC7BDBF683F85D4",
+    "name": "msg_pokecamp_optionbar_talk_02"
+  },
+  {
+    "index": 10,
+    "hash": "106BD543F68247AE",
+    "name": "msg_pokecamp_optionbar_pick_up"
+  },
+  {
+    "index": 11,
+    "hash": "1275EF2C5286EF27",
+    "name": "msg_pokecamp_optionbar_jarashi"
+  },
+  {
+    "index": 12,
+    "hash": "E959A9357CBBDB96",
+    "name": "msg_pokecamp_optionbar_ball"
+  },
+  {
+    "index": 13,
+    "hash": "E1713FF3E8EA2DDC",
+    "name": "msg_pokecamp_optionbar_zoom"
+  },
+  {
+    "index": 14,
+    "hash": "0474E4CAA9DE5A16",
+    "name": "msg_pokecamp_optionbar_blacklist"
+  },
+  {
+    "index": 15,
+    "hash": "99A47141539212FB",
+    "name": "msg_pokecamp_license"
+  },
+  {
+    "index": 16,
+    "hash": "71F0459AAE9358AA",
+    "name": "msg_pokecamp_optionbar_next"
+  },
+  {
+    "index": 17,
+    "hash": "3FE1329EB7DC53AF",
+    "name": "msg_pokecamp_optionbar_shake"
+  },
+  {
+    "index": 18,
+    "hash": "233F1B885A302645",
+    "name": "msg_pokecamp_optionbar_throw"
+  },
+  {
+    "index": 19,
+    "hash": "DBB3D64E8A1AB726",
+    "name": "msg_pokecamp_optionbar_gaze"
+  },
+  {
+    "index": 20,
+    "hash": "4DCBA5C73060CF83",
+    "name": "msg_pokecamp_optionbar_put_away"
+  },
+  {
+    "index": 21,
+    "hash": "61379159FD0DF2CC",
+    "name": "msg_pokecamp_talk_select_00"
+  },
+  {
+    "index": 22,
+    "hash": "61379259FD0DF47F",
+    "name": "msg_pokecamp_talk_select_01"
+  },
+  {
+    "index": 23,
+    "hash": "61379359FD0DF632",
+    "name": "msg_pokecamp_talk_select_02"
+  },
+  {
+    "index": 24,
+    "hash": "61378D59FD0DEC00",
+    "name": "msg_pokecamp_talk_select_04"
+  },
+  {
+    "index": 25,
+    "hash": "61378E59FD0DEDB3",
+    "name": "msg_pokecamp_talk_select_05"
+  },
+  {
+    "index": 26,
+    "hash": "7C51F7CAC1472429",
+    "name": "msg_pokecamp_notice_00"
+  },
+  {
+    "index": 27,
+    "hash": "7C51F6CAC1472276",
+    "name": "msg_pokecamp_notice_01"
+  },
+  {
+    "index": 28,
+    "hash": "7C51F5CAC14720C3",
+    "name": "msg_pokecamp_notice_02"
+  },
+  {
+    "index": 29,
+    "hash": "375ABC72C5767A95",
+    "name": "msg_pokecamp_trainer_name"
+  },
+  {
+    "index": 30,
+    "hash": "53E812500F80C416",
+    "name": "msg_pokecamp_end_00"
+  },
+  {
+    "index": 31,
+    "hash": "53E813500F80C5C9",
+    "name": "msg_pokecamp_end_01"
+  },
+  {
+    "index": 32,
+    "hash": "53E810500F80C0B0",
+    "name": "msg_pokecamp_end_02"
+  },
+  {
+    "index": 33,
+    "hash": "B177C5A6798EF7C4",
+    "name": "msg_pokecamp_visit_00"
+  },
+  {
+    "index": 34,
+    "hash": "B177C6A6798EF977",
+    "name": "msg_pokecamp_visit_01"
+  },
+  {
+    "index": 35,
+    "hash": "B177C7A6798EFB2A",
+    "name": "msg_pokecamp_visit_02"
+  },
+  {
+    "index": 36,
+    "hash": "B177C8A6798EFCDD",
+    "name": "msg_pokecamp_visit_03"
+  },
+  {
+    "index": 37,
+    "hash": "B177C1A6798EF0F8",
+    "name": "msg_pokecamp_visit_04"
+  },
+  {
+    "index": 38,
+    "hash": "B5E9FE5FD628FC8A",
+    "name": "msg_pokecamp_result_00"
+  },
+  {
+    "index": 39,
+    "hash": "B5E9FF5FD628FE3D",
+    "name": "msg_pokecamp_result_01"
+  },
+  {
+    "index": 40,
+    "hash": "7C51F4CAC1471F10",
+    "name": "msg_pokecamp_notice_03"
+  },
+  {
+    "index": 41,
+    "hash": "7C4E71CAC1440AA0",
+    "name": "msg_pokecamp_notice_10"
+  },
+  {
+    "index": 42,
+    "hash": "7C4E72CAC1440C53",
+    "name": "msg_pokecamp_notice_11"
+  },
+  {
+    "index": 43,
+    "hash": "7C4E73CAC1440E06",
+    "name": "msg_pokecamp_notice_12"
+  },
+  {
+    "index": 44,
+    "hash": "7C4E74CAC1440FB9",
+    "name": "msg_pokecamp_notice_13"
+  },
+  {
+    "index": 45,
+    "hash": "7C4E75CAC144116C",
+    "name": "msg_pokecamp_notice_14"
+  },
+  {
+    "index": 46,
+    "hash": "4AD3B30DC88FAC98",
+    "name": "msg_pokecamp_greeting_00"
+  },
+  {
+    "index": 47,
+    "hash": "4AD3B40DC88FAE4B",
+    "name": "msg_pokecamp_greeting_01"
+  },
+  {
+    "index": 48,
+    "hash": "4AD3B50DC88FAFFE",
+    "name": "msg_pokecamp_greeting_02"
+  },
+  {
+    "index": 49,
+    "hash": "071A5CF2915D05AB",
+    "name": "msg_pokecamp_impressions_00"
+  },
+  {
+    "index": 50,
+    "hash": "071A5BF2915D03F8",
+    "name": "msg_pokecamp_impressions_01"
+  },
+  {
+    "index": 51,
+    "hash": "071A5EF2915D0911",
+    "name": "msg_pokecamp_impressions_02"
+  },
+  {
+    "index": 52,
+    "hash": "071A5DF2915D075E",
+    "name": "msg_pokecamp_impressions_03"
+  },
+  {
+    "index": 53,
+    "hash": "071A60F2915D0C77",
+    "name": "msg_pokecamp_impressions_04"
+  },
+  {
+    "index": 54,
+    "hash": "071A5FF2915D0AC4",
+    "name": "msg_pokecamp_impressions_05"
+  },
+  {
+    "index": 55,
+    "hash": "071A62F2915D0FDD",
+    "name": "msg_pokecamp_impressions_06"
+  },
+  {
+    "index": 56,
+    "hash": "071A61F2915D0E2A",
+    "name": "msg_pokecamp_impressions_07"
+  },
+  {
+    "index": 57,
+    "hash": "071A54F2915CF813",
+    "name": "msg_pokecamp_impressions_08"
+  },
+  {
+    "index": 58,
+    "hash": "071A53F2915CF660",
+    "name": "msg_pokecamp_impressions_09"
+  },
+  {
+    "index": 59,
+    "hash": "0716D6F29159EC22",
+    "name": "msg_pokecamp_impressions_10"
+  },
+  {
+    "index": 60,
+    "hash": "0716D7F29159EDD5",
+    "name": "msg_pokecamp_impressions_11"
+  },
+  {
+    "index": 61,
+    "hash": "0716D4F29159E8BC",
+    "name": "msg_pokecamp_impressions_12"
+  },
+  {
+    "index": 62,
+    "hash": "0716D5F29159EA6F",
+    "name": "msg_pokecamp_impressions_13"
+  },
+  {
+    "index": 63,
+    "hash": "0716D2F29159E556",
+    "name": "msg_pokecamp_impressions_14"
+  },
+  {
+    "index": 64,
+    "hash": "0716D3F29159E709",
+    "name": "msg_pokecamp_impressions_15"
+  },
+  {
+    "index": 65,
+    "hash": "0716D0F29159E1F0",
+    "name": "msg_pokecamp_impressions_16"
+  },
+  {
+    "index": 66,
+    "hash": "0716D1F29159E3A3",
+    "name": "msg_pokecamp_impressions_17"
+  },
+  {
+    "index": 67,
+    "hash": "0716DEF29159F9BA",
+    "name": "msg_pokecamp_impressions_18"
+  },
+  {
+    "index": 68,
+    "hash": "0716DFF29159FB6D",
+    "name": "msg_pokecamp_impressions_19"
+  },
+  {
+    "index": 69,
+    "hash": "071350F29156D299",
+    "name": "msg_pokecamp_impressions_20"
+  },
+  {
+    "index": 70,
+    "hash": "07134FF29156D0E6",
+    "name": "msg_pokecamp_impressions_21"
+  },
+  {
+    "index": 71,
+    "hash": "07134EF29156CF33",
+    "name": "msg_pokecamp_impressions_22"
+  },
+  {
+    "index": 72,
+    "hash": "07134DF29156CD80",
+    "name": "msg_pokecamp_impressions_23"
+  },
+  {
+    "index": 73,
+    "hash": "071354F29156D965",
+    "name": "msg_pokecamp_impressions_24"
+  },
+  {
+    "index": 74,
+    "hash": "BBAC11435B1726D7",
+    "name": "msg_pokecamp_optionbar_put_out"
+  },
+  {
+    "index": 75,
+    "hash": "DABE31552878F177",
+    "name": "msg_pokecamp_optionbar_change"
+  },
+  {
+    "index": 76,
+    "hash": "3151E4F15CD7DA40",
+    "name": "msg_pokecamp_optionbar_receive"
+  },
+  {
+    "index": 77,
+    "hash": "E5B0E5511166B270",
+    "name": "msg_pokecamp_menu_toy"
+  },
+  {
+    "index": 78,
+    "hash": "D4F62563DE4F49B9",
+    "name": "msg_pokecamp_menu_cook_00"
+  },
+  {
+    "index": 79,
+    "hash": "D4F62463DE4F4806",
+    "name": "msg_pokecamp_menu_cook_01"
+  },
+  {
+    "index": 80,
+    "hash": "0CD2370B3F5134C5",
+    "name": "msg_pokecamp_menu_exit_00"
+  },
+  {
+    "index": 81,
+    "hash": "0CD2360B3F513312",
+    "name": "msg_pokecamp_menu_exit_01"
+  },
+  {
+    "index": 82,
+    "hash": "811801ABDA363F7B",
+    "name": "msg_pokecamp_optionbar_stop"
+  },
+  {
+    "index": 83,
+    "hash": "E44D66004034F3C4",
+    "name": "msg_pokecamp_optionbar_talk_traner"
+  },
+  {
+    "index": 84,
+    "hash": "57D89BDFE7C7A1F3",
+    "name": "msg_pokecamp_bl_00"
+  },
+  {
+    "index": 85,
+    "hash": "57D89ADFE7C7A040",
+    "name": "msg_pokecamp_bl_01"
+  },
+  {
+    "index": 86,
+    "hash": "57D89DDFE7C7A559",
+    "name": "msg_pokecamp_bl_02"
+  },
+  {
+    "index": 87,
+    "hash": "B54128403D3BD62E",
+    "name": "msg_pokecamp_airplanemode_00"
+  },
+  {
+    "index": 88,
+    "hash": "61378F59FD0DEF66",
+    "name": "msg_pokecamp_talk_select_06"
+  },
+  {
+    "index": 89,
+    "hash": "61379059FD0DF119",
+    "name": "msg_pokecamp_talk_select_07"
+  },
+  {
+    "index": 90,
+    "hash": "61379959FD0E0064",
+    "name": "msg_pokecamp_talk_select_08"
+  },
+  {
+    "index": 91,
+    "hash": "C8580FCE2A808BD3",
+    "name": "msg_pokecamp_menu_01"
+  },
+  {
+    "index": 92,
+    "hash": "C85810CE2A808D86",
+    "name": "msg_pokecamp_menu_02"
+  },
+  {
+    "index": 93,
+    "hash": "C85811CE2A808F39",
+    "name": "msg_pokecamp_menu_03"
+  },
+  {
+    "index": 94,
+    "hash": "C85812CE2A8090EC",
+    "name": "msg_pokecamp_menu_04"
+  },
+  {
+    "index": 95,
+    "hash": "57D89CDFE7C7A3A6",
+    "name": "msg_pokecamp_bl_03"
+  },
+  {
+    "index": 96,
+    "hash": "BA12DD5520E561E0",
+    "name": "msg_pokecamp_main_max"
+  }
+]

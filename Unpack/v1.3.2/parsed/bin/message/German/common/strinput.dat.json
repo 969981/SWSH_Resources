@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Wie hei\u00DFt du?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Dein Name lautet also [VAR 0189(0000)]?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Diesen Namen kannst du nicht verwenden."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u201E[VAR 012E(0000)]\u201C\\nist nicht zul\u00E4ssig."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bitte gib einen Namen ein."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Wie soll [VAR 0101(0000)] hei\u00DFen?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Wie soll [VAR 0101(0000)] (\u2642) hei\u00DFen?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Wie soll [VAR 0101(0000)] (\u2640) hei\u00DFen?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Sein Name soll also [VAR 0101(0000)] lauten?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Wie soll die Box hei\u00DFen?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01C0(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Wie soll dein Kampfteam hei\u00DFen?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Der Name des Teams soll also [VAR 01BF(0000)] lauten?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Bitte gib einen Seriencode oder ein Passwort ein."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Der Seriencode, den du eingegeben hast, existiert nicht."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Bitte gib ein Passwort ein."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Bitte gib deine gew\u00FCnschte Trikotnummer ein."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Es soll also die Nummer [VAR 01C4(0000)] sein?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Diese Nummer kannst du nicht verwenden."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "In welchem Monat liegt dein Geburtstag?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "An welchem Tag hast du Geburtstag?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "F\u00FCr den 02. Januar gibst du zum Beispiel \u201E01\u201C und \u201E02\u201C ein."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Du hast also am [VAR 01C6(0001)].[VAR 01C5(0000)]. Geburtstag?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Bitte gib ein g\u00FCltiges Datum ein."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Du kannst ein achtstelliges Passwort eingeben."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Bitte gib ein achtstelliges Passwort ein."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Bitte gib eine Turnier-ID ein."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bitte gib die Kampfgruppen-Nummer ein."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Bitte gib die Team-ID des gew\u00FCnschten Leihteams ein."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Bitte gib einen Kartencode ein."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Bitte gib den Namen des Turniers ein."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Bitte gib einen Untertitel f\u00FCr das Turnier ein."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Eine Turnierteilnahme ist auch ohne diese Eingabe m\u00F6glich."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Du kannst maximal f\u00FCnf Ziffern eingeben."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Bitte gib eine Zahl zwischen 1 und 12 ein."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Bitte gib eine Zahl zwischen 1 und 31 ein."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Bitte gib eine Zahl zwischen 1 und 30 ein."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Bitte gib eine Zahl zwischen 1 und 29 ein."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Diese Eingabe ist ung\u00FCltig."
+  }
+]

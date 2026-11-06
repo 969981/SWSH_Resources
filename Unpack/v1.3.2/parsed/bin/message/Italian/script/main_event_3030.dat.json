@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Vuoi restituire [VAR 1500(0001,0000)][VAR 0109(0001)]?"
+  },
+  {
+    "index": 1,
+    "flags": 8,
+    "text": "Zacian, Zamazenta! Grazie per tutto quello\\nche avete fatto![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Eccovi finalmente i vostri due tesori. Scusate\\nse ci abbiamo messo cos\u00EC tanto a restituirveli.[VAR 0114(0005)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Tu e Hop restituite la Spada rovinata\\ne lo Scudo rovinato!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bene, ora \u00E8 tutto sistemato! Direi che possiamo\\ntornarcene insieme a casa, no?[VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Sonia, tu che fai?[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Io mi trattengo qui un momento.\\nHo delle ricerche da fare nel bosco.[VAR 0114(000B)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Oh! Il rilevatore di punti energetici \u00E8 entrato\\nin funzione! Sta reagendo a qualcosa![VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Oh oh oh! Oib\u00F2! Mi sembrava di aver udito\\ndegli schiamazzi![VAR 0114(0042)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Oh oh oh! La signorina qui presente...\\c\\nNon sar\u00E0 mica la Professoressa Sonia,\\nautrice del famoso libro \u201CStoria di Galar\u201D?[VAR 0114(0042)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Ah! Ehm... Eh eh... Sono lusingata.\\nImmagino che siate miei lettori...[VAR 0114(000B)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Assolutamente! Assolutissimamente!\\nConosciamo il suo libro a menadito![VAR 0114(0042)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Assolutamente! Assolutissimamente! Abbiamo\\nfinanco scritto una recensione sulla grande rete![VAR 0114(0042)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Una tale caterva di menzogne... non pu\u00F2 che\\nmeritarsi una recensione da una stella![VAR 0114(006A)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Menzogne?! Ma di che parlate?\\nCi\u00F2 che ho scritto si basa sui fatti![VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Che maleducazione! Ma come vi permettete?!\\nChiedete subito scusa a Sonia![VAR 0114(0005)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Lasciate che mi presenti...\\nIl mio nome \u00E8 Brandobaldo![VAR 0114(0068)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "E il mio \u00E8 Scudobaldo![VAR 0114(0069)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Nelle nostre vene scorre puro sangue blu\\ndi Galar![VAR 0114(0068)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Siamo delle celebrit\u00E0![VAR 0114(0069)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Puro sangue blu? Ma si pu\u00F2 sapere\\nche state blaterando?[VAR 0114(0005)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Chi diamine siete voi due?[VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Oh oh oh! Cosa vedono i miei occhi!\\nLa spada e lo scudo di cui si fa un gran parlare![VAR 0114(0068)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Oh oh oh... E in che stato pietoso sono ridotti!\\c\\nD\u2019altronde, come stupirsi? Si tratta di falsi! Qual\\nribrezzo mi assale al sol pensiero di sfiorarli con\\r\\nle mie mani... ma non mi sottrarr\u00F2 al mio destino![VAR 0114(0069)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Brandobaldo prende la Spada rovinata!"
+  },
+  {
+    "index": 25,
+    "flags": 8,
+    "text": "Scudobaldo prende lo Scudo rovinato!"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Ehi!! Che fate?! Rimetteteli dov\u2019erano!\\nLi abbiamo appena restituiti!![VAR 0114(0005)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Taci! Abbiamo solo raccolto degli oggetti\\nsmarriti![VAR 0114(0068)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Se la cosa ti indispone, dacci ors\u00F9 la prova che\\nquesti oggetti ti appartengono![VAR 0114(0069)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Ugh... Quello che dite non ha alcun senso!\\c\\nLo scudo e la spada appartengono a Zacian\\ne a Zamazenta! Sono preziosi per loro![VAR 0114(0005)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Accibaldoli! Cos\u00EC plebeo e cos\u00EC impertinente!\\c\\nSe insisti sulle tue posizioni non rimane che\\ndirimere la questione con una sfida![VAR 0114(0068)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "In quanto celebrit\u00E0, saremo generosi con voi\\ne vi restituiremo il doppio degli attacchi\\r\\nche sferrerete![VAR 0114(0069)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Che faccia tosta! Da non credere...[VAR 0114(000B)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Preparati ad affrontare me, il valente\\nBrandobaldo![VAR 0114(0068)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Preparati ad affrontare me, il valente\\nScudobaldo![VAR 0114(0069)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Hai recuperato [VAR 1500(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "What? Chi l\u2019avrebbe detto che nascondevi tutta\\nquella forza!\\c\\nSei stat[VAR 1100(00FF,0101)]oa capace di battere i miei adorabili\\nPok\u00E9mon da passeggio![VAR 0114(0068)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "What? Chi l\u2019avrebbe detto che nascondevi tutta\\nquella forza!\\c\\nSei stat[VAR 1100(00FF,0101)]oa capace di battere i miei adorabili\\nPok\u00E9mon da passeggio![VAR 0114(0069)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Pare invece che il mio fratellino abbia\\nriportato una vittoria.[VAR 0114(0068)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Pare invece che il mio fratellone\\nabbia riportato una vittoria.[VAR 0114(0069)]"
+  },
+  {
+    "index": 40,
+    "flags": 8,
+    "text": "Scusami, [VAR 0100(0000)]...\\nPurtroppo... ho perso...[VAR 0114(0005)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Oh oh oh! Ragazzino, ma di cosa ti lamenti?\\c\\nDurante la lotta eri in un altro mondo!\\nMancavi totalmente di concentrazione![VAR 0114(0069)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Oh oh oh! Ragazzino, ma di cosa ti lamenti?\\c\\nDurante la lotta eri in un altro mondo!\\nMancavi totalmente di concentrazione![VAR 0114(0068)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "...[VAR 0114(0005)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Ad ogni modo, fratellone...\\c\\nForse ho un abbaglio, ma non \u00E8 quest[VAR 1100(00FF,0101)]oa\\n[VAR 1100(00FF,0202)]illa ragazzin[VAR 1100(00FF,0101)]oa che ha placato Eternatus?[VAR 0114(0069)]"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Ad ogni modo, fratellino...\\c\\nForse ho un abbaglio, ma non \u00E8 quest[VAR 1100(00FF,0101)]oa\\n[VAR 1100(00FF,0202)]illa ragazzin[VAR 1100(00FF,0101)]oa che ha placato Eternatus?[VAR 0114(0068)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "...! Ora che mi soffermo a guardare meglio...\\c\\n\u00C8 proprio [VAR 1100(00FF,0B0B)]il mocciosola mocciosa che ha osato infrangere\\ni nostri sogni di gloria!![VAR 0114(0068)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "...! Ora che mi soffermo a guardare meglio...\\c\\n\u00C8 proprio [VAR 1100(00FF,0B0B)]il mocciosola mocciosa che ha osato infrangere\\ni nostri sogni di gloria!![VAR 0114(0069)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Se non ricordo male, quest[VAR 1100(00FF,0101)]oa ragazzin[VAR 1100(00FF,0101)]oa era\\npresente anche quando il murale dei nostri\\r\\nillustrissimi antenati \u00E8 andato distrutto![VAR 0114(0069)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Se non ricordo male, quest[VAR 1100(00FF,0101)]oa ragazzin[VAR 1100(00FF,0101)]oa era\\npresente anche quando il murale dei nostri\\r\\nillustrissimi antenati \u00E8 andato distrutto![VAR 0114(0068)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Co-Co-Co-Cosa?! Che oltraggio!\\nCome ha potuto rovinare un\u2019opera di siffatta\\r\\nimportanza artistica e culturale?![VAR 0114(0068)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Co-Co-Co-Cosa?! Che oltraggio!\\nCome ha potuto rovinare un\u2019opera di siffatta\\r\\nimportanza artistica e culturale?![VAR 0114(0069)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Parlate di quel murale che nascondeva le statue\\ndei due Pok\u00E9mon leggendari? Ma non \u00E8 stat[VAR 1100(00FF,0101)]oa\\r\\nmica [VAR 0100(0000)] a distruggerlo![VAR 0114(000B)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ad ogni modo, per il momento ci congediamo.\\c\\nMa la prossima volta avrai il dispiacere\\ndi vedertela con i nostri Pok\u00E9mon pi\u00F9 temibili![VAR 0114(0069)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Ad ogni modo, per il momento ci congediamo.\\c\\nMa la prossima volta avrai il dispiacere\\ndi vedertela con i nostri Pok\u00E9mon pi\u00F9 temibili![VAR 0114(0068)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Ben detto![VAR 0114(0068)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Eccellente strategia![VAR 0114(0069)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Goodbye![VAR 0114(006A)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Ah! Fermi! Ridateci [VAR 1500(0001,0000)][VAR 0109(0001)]![VAR 0114(0005)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Hop! Dove vai?[VAR 0114(000B)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Uff...! \u00C8 proprio una testa calda, quel ragazzo![VAR 0114(000B)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Dovrebbe prendere esempio da te,\\n[VAR 0100(0000)]. Gli farebbe bene essere\\r\\nun po\u2019 pi\u00F9 riflessivo.[VAR 0114(000B)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Devo dirlo, non mi aspettavo che perdesse\\ncontro quel tipo bizzarro.\\c\\nMi \u00E8 sembrato nervoso. Forse la tensione gli ha\\ngiocato un brutto scherzo...[VAR 0114(000B)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Credo che ultimamente abbia un bel po\u2019 di cose\\nche gli frullano per la testa.\\c\\n[VAR 1100(00FF,0606)]Il suoLa sua rivale \u00E8 diventat[VAR 1100(00FF,0101)]oa Campione[VAR 1100(00FF,0300)]ssa...\\nHa perso l\u2019obiettivo a cui puntava...\\r\\nNon dev\u2019essere facile per lui.[VAR 0114(000B)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Tornando a quei due tipacci...\\nBrandobaldo e Scudobaldo, giusto?\\c\\nCredo di sapere dove sono andati.[VAR 0114(000B)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Facciamo un salto al Laboratorio Pok\u00E9mon\\ne parliamone con calma, ok?[VAR 0114(000B)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Va bene!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Sono preoccupat[VAR 1100(00FF,0101)]oa per Hop..."
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "Ah ah ah! Non c\u2019era nemmeno bisogno che te\\nlo chiedessi, vero? Grazie...[VAR 0114(000B)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Capisco... Ti senti responsabile per lui e vuoi\\nstargli vicino...[VAR 0114(000B)]"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Io intanto torno al laboratorio...\\nAllora ci vediamo l\u00EC! A dopo![VAR 0114(000B)]"
+  }
+]

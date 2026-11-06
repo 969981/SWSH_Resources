@@ -1,0 +1,172 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Hi-yah! [VAR 1003][VAR 0100(0000)]!\\nDo you want to try Restricted Sparring?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Tell me how it works"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "No thanks"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "No, I\u2019ll quit"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Select the type you want to use for sparring."
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "I won\u2019t force you to do anything you don\u2019t want\\nto do. Some other time, then."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Restricted Sparring is a training course that\\nrestricts the type of Pok\u00E9mon you can use.\\c\\nSelect a type first, and then battle using up to\\nthree Pok\u00E9mon of that type.\\c\\nNo duplicate Pok\u00E9mon or items are allowed.\\c\\nIf you can win five times in a row, you\u2019ll\\ncomplete the training.\\c\\nHowever, if you lose even once, the sparring\\nwill end there!\\c\\nYou can restore your Pok\u00E9mon between battles,\\nbut only twice in total, so use the opportunities\\r\\nvery wisely.\\c\\nThat\u2019s all!\\nDo you want to try Restricted Sparring?"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Oh, you changed your mind?\\nSome other time, then."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Let the battles begin!\\nBattle No. 1!\\r\\nReady..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Next. Battle No. [VAR 0203(0001,0000)]!\\nReady..."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Go!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Well done!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Do you want to restore your Pok\u00E9mon?\\n(You can restore them [VAR 0200(0001)] more time[VAR 1101(0001,0100)]s.)"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "You lost...but train yourself and your Pok\u00E9mon,\\nand try again!\\r\\nI\u2019m looking forward to your next challenge."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Your result for this Restricted Sparring set is...\\c\\nYou had [VAR 0203(0001,002C)] victor[VAR 1101(0001,0301)]yies with the\\n[VAR 0103(0002)]-type Pok\u00E9mon restriction!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "The way you handle [VAR 0103(0002)]-type Pok\u00E9mon\\nis flawless!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "To recognize your untiring efforts, I\u2019ll give this\\nto you."
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "I hope you\u2019ll try to complete the training with\\nother types, too!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "What?! You completed Restricted Sparring with\\nall types?!"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "I can\u2019t believe it...\\nYour achievement is just phenomenal!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "This accomplishment is sure to go down in\\ndojo history!\\c\\nTo commemorate this monumental achievement,\\nI\u2019ll grant you the right to wear this outfit!"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "I hope you\u2019ll keep exceeding your own limits!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Do you want to continue sparring?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Yes, I\u2019ll have my Pok\u00E9mon restored and continue"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Yes, I\u2019ll continue"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Do you want to continue sparring?\\n(You can restore your Pok\u00E9mon [VAR 0200(0001)] more time[VAR 1101(0001,0100)]s.)"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "You earned [VAR 0201(0003)] BP!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "You got [VAR 1302(0001,0000)][VAR 01C2(0001)] [VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]!"
+  }
+]

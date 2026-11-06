@@ -1,0 +1,647 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Bonjour et bienvenue \u00E0 la Garderie Pok\u00E9mon\u202F!\\nQue puis-je faire pour toi\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Enchant\u00E9e\u202F! Bienvenue \u00E0 la Garderie Pok\u00E9mon\u202F!\\c\\nIci, nous nous occupons des Pok\u00E9mon\\nque les gens nous confient\u202F!\\c\\nEt si tu nous en laisses deux, il se peut\\nque nous trouvions un \u0152uf\u202F!\\c\\nSi tu veux en savoir davantage sur ce sujet,\\ndemande \u00E0 la dame \u00E0 l\u2019int\u00E9rieur\u202F!\\c\\nAlors, souhaites-tu utiliser nos services\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "N\u2019h\u00E9site pas \u00E0 revenir\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ton Pok\u00E9mon tenait un \u0152uf\u202F!\\nEst-ce que tu souhaites le r\u00E9cup\u00E9rer\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Vraiment\u202F? Dans ce cas, nous nous ferons\\nun plaisir de le garder\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Vous obtenez un \u0152uf\u202F!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Prends bien soin de lui\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "On dirait que tes Bo\u00EEtes sont pleines.\\nReviens me voir quand tu auras fait le tri\u202F!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] est en forme\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nEt en plus, ils ont l\u2019air de tr\u00E8s bien s\u2019entendre."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nIls s\u2019entendent plut\u00F4t bien."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont l\u2019air de ne pas trop s\u2019appr\u00E9cier."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont tendance \u00E0 jouer avec d\u2019autres\\nPok\u00E9mon plut\u00F4t qu\u2019entre eux."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Tu n\u2019auras pas assez de Pok\u00E9mon pour continuer\\nton voyage, si tu nous en confies\u202F!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Nous ne pouvons pas accepter plus de deux\\nPok\u00E9mon \u00E0 la fois\u202F! Qui veux-tu nous confier\u202F?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "On garde actuellement [VAR 0102(0000)]\u202F!\\nVeux-tu nous laisser un autre Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tu souhaites donc que nous nous occupions\\nde deux Pok\u00E9mon... Cela fera 1000 \uE300\u202F!"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Un seul Pok\u00E9mon, donc... Cela fera 500 \uE300\u202F!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Si tu veux nous confier un autre Pok\u00E9mon,\\ncela fera 500 \uE300 de plus\u202F!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ne t\u2019en fais pas, avec nous, [VAR 0102(0000)]\\net [VAR 0102(0001)] sont entre de bonnes mains\u202F!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Ne t\u2019en fais pas, avec nous, [VAR 0102(0000)]\\nest entre de bonnes mains\u202F!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Reviens nous voir quand tu voudras r\u00E9cup\u00E9rer\\nun de tes compagnons\u202F!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Malheureusement, le compte est loin d\u2019\u00EAtre bon..."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Tous nos Pok\u00E9mon sont en pleine forme\u202F!\\nVeux-tu r\u00E9cup\u00E9rer un des tiens\u202F?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Je vais te chercher [VAR 0102(0000)]\\ntout de suite\u202F!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Veux-tu aussi r\u00E9cup\u00E9rer [VAR 0102(0000)]\u202F?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Comme tu n\u2019as pas beaucoup de Pok\u00E9mon,\\nje n\u2019en prends qu\u2019un seul."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Bienvenue \u00E0 la Garderie Pok\u00E9mon\u202F!\\nEst-ce que je peux faire quelque chose pour toi\u202F?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bonjour\u202F! Bienvenue \u00E0 la Garderie\\ndes Terres Sauvages\u202F!\\c\\nIci, on fait tout pour offrir un service qui n\u2019a\\nrien \u00E0 envier \u00E0 la Garderie de la Route 5\u202F!\\c\\nEst-ce que tu veux nous confier un Pok\u00E9mon,\\naujourd\u2019hui\u202F?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Reviens quand tu veux\u202F!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ton Pok\u00E9mon tenait un \u0152uf\u202F!\\nTu veux le r\u00E9cup\u00E9rer\u202F?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Pas de souci, on s\u2019en occupe\u202F!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Prends bien soin de lui\u202F!"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "On dirait que tes Bo\u00EEtes sont pleines.\\nReviens me voir quand tu auras fait le tri\u202F!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] a la forme\u202F!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nEt en plus, ils ont l\u2019air de tr\u00E8s bien s\u2019entendre."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nIls s\u2019entendent plut\u00F4t bien."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont l\u2019air de ne pas trop s\u2019appr\u00E9cier."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] et [VAR 0102(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont tendance \u00E0 jouer avec d\u2019autres\\nPok\u00E9mon plut\u00F4t qu\u2019entre eux."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Tu n\u2019auras pas assez de Pok\u00E9mon pour continuer\\nton voyage, si tu nous en confies\u202F!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Nous ne pouvons pas accepter plus de deux\\nPok\u00E9mon \u00E0 la fois\u202F! Qui veux-tu nous confier\u202F?"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "On garde d\u00E9j\u00E0 [VAR 0102(0000)]\u202F!\\nTu veux nous confier un autre Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Tu veux qu\u2019on garde deux Pok\u00E9mon, donc...\\n\u00C7a fera 1\u202F000 \uE300\u202F!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Un seul Pok\u00E9mon, donc... \u00C7a fera 500 \uE300\u202F!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Si tu veux nous confier un autre Pok\u00E9mon,\\n\u00E7a fera 500 \uE300 de plus\u202F!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Ne t\u2019en fais pas, on sera aux petits soins\\navec [VAR 0102(0000)] et [VAR 0102(0001)]\u202F!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Ne t\u2019en fais pas, on sera au petits soins\\navec [VAR 0102(0000)]\u202F!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Reviens nous voir quand tu voudras r\u00E9cup\u00E9rer\\nun de tes compagnons\u202F!"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Ah...\\nMalheureusement, le compte est loin d\u2019\u00EAtre bon..."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Ton Pok\u00E9mon a la forme\u202F!\\nTu veux le r\u00E9cup\u00E9rer\u202F?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Je vais te chercher [VAR 0102(0000)]\\ntout de suite\u202F!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Tu veux aussi r\u00E9cup\u00E9rer [VAR 0102(0000)]\u202F?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Comme tu n\u2019as pas beaucoup de Pok\u00E9mon,\\nje n\u2019en prends qu\u2019un seul."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Bienvenue \u00E0 la Garderie Pok\u00E9mon\u202F!\\c\\nIci, nous bichonnons les Pok\u00E9mon\\nque les Dresseurs nous laissent en garde.\\c\\nCes derniers temps, on retrouve parfois m\u00EAme\\nun \u0152uf avec les Pok\u00E9mon qui nous sont confi\u00E9s\u202F!\\r\\nC\u2019est marrant, non\u202F?\\c\\nBref, si tu veux nous laisser des Pok\u00E9mon,\\nva voir ma s\u0153ur, \u00E0 l\u2019int\u00E9rieur. Elle peut t\u2019aider."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Bonjour\u202F!\\c\\n[VAR 0101(0000)] a la forme\u202F!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Bonjour, Ma\u00EEtre\u202F!\\c\\n[VAR 0101(0000)] a la forme\u202F!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Bonjour\u202F!\\c\\n[VAR 0101(0000)] et [VAR 0101(0001)]\\nsont en pleine forme\u202F!\\c\\nEt en plus, ils ont l\u2019air de tr\u00E8s bien s\u2019entendre."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Bonjour\u202F!\\c\\n[VAR 0101(0000)] et [VAR 0101(0001)]\\nsont en pleine forme\u202F!\\c\\nIls ont l\u2019air de bien s\u2019entendre."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Bonjour\u202F!\\c\\n[VAR 0101(0000)] et [VAR 0101(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont l\u2019air de ne pas trop s\u2019appr\u00E9cier."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Bonjour\u202F!\\c\\n[VAR 0101(0000)] et [VAR 0101(0001)]\\nsont en pleine forme\u202F!\\c\\nMais ils ont tendance \u00E0 jouer avec d\u2019autres\\nPok\u00E9mon plut\u00F4t qu\u2019entre eux."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Ah\u202F! Je me souviens de toi.\\c\\nOn a eu une dr\u00F4le de surprise en s\u2019occupant\\nde tes Pok\u00E9mon, dis donc\u202F!\\c\\nTout d\u2019un coup, voil\u00E0 que l\u2019un d\u2019entre eux\\nest arriv\u00E9 avec un \u0152uf\u202F!\\c\\nOn ne sait pas o\u00F9 il l\u2019a trouv\u00E9, mais aucun doute,\\nc\u2019est le sien.\\c\\nTu vas l\u2019emporter, n\u2019est-ce pas\u202F?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Vous avez re\u00E7u un \u0152uf\u202F!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Prends-en bien soin\u202F!"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Ah, malheureusement tu n\u2019as pas assez de\\nplace dans ton \u00E9quipe ou dans tes Bo\u00EEtes PC.\\c\\nPas de souci, repasse plus tard\u202F!\\nOn va le garder bien au chaud pour toi."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Si tu n\u2019en veux vraiment pas, on peut le garder...\\nMais au fond de toi, tu le veux\u202F! Pas vrai\u202F?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Bon, bon. Si tu insistes.\\nMerci."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Bonjour\u202F! \u266A\\nJe suis l\u2019H\u00F4tesse de la Garderie.\\c\\nTu peux nous confier jusqu\u2019\u00E0 deux Pok\u00E9mon,\\ntu sais\u202F!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Bonjour\u202F! \u266A\\nJe suis l\u2019H\u00F4tesse de la Garderie.\\c\\nDis-moi, que veux-tu faire\u202F?"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Ma\u00EEtre, c\u2019est un honneur\u202F! \u266A\\nJe suis l\u2019H\u00F4tesse de la Garderie.\\c\\nDis-moi, que veux-tu faire\u202F?"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Reviens quand tu veux\u202F!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Tiens\u202F! Justement, ma petite s\u0153ur te cherchait."
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Attention\u202F! Si tu nous confies ce Pok\u00E9mon,\\ntu n\u2019en auras plus pour combattre.\\c\\nReviens nous voir une autre fois\u202F!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Quel Pok\u00E9mon voudrais-tu nous confier\u202F?"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Oh\u202F! Quel petit[VAR 1100(00FF,0100)]e blagueu[VAR 1100(00FF,0201)]rse\u202F!\\nMais c\u2019est un \u0152uf, enfin."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Parfait, nous allons nous occuper\\n[VAR 1408(0000,0001)][VAR 0101(0000)]\u202F!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Repasse nous voir quand tu veux\u202F!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Nous pouvons nous occuper de deux Pok\u00E9mon\\npour toi. Veux-tu nous confier un autre Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Tous tes Pok\u00E9mon sont en pleine forme.\\nLequel souhaites-tu r\u00E9cup\u00E9rer\u202F?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Le montant de la pension [VAR 1408(0000,0001)][VAR 0101(0000)]\\ns\u2019\u00E9l\u00E8ve \u00E0 [VAR 0204(0001,202F)] \uE300. \u00C7a te va\u202F?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Je suis d\u00E9sol\u00E9e, mais tu n\u2019as pas assez d\u2019argent."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "L\u2019h\u00F4tesse de la Garderie Pok\u00E9mon a rendu\\n[VAR 0101(0000)] \u00E0 [VAR 0100(0001)]."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Veux-tu r\u00E9cup\u00E9rer l\u2019autre Pok\u00E9mon\\nque tu nous as confi\u00E9\u202F?"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Oh... Mais si tu nous confies ce Pok\u00E9mon,\\nil ne t\u2019en restera plus qu\u2019un en forme\u202F!\\c\\nReviens nous voir quand tu en auras\\nattrap\u00E9 d\u2019autres."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Ton \u00E9quipe est au complet...\\c\\nReviens nous voir quand tu auras fait un peu\\nde place\u202F!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Confier un Pok\u00E9mon"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "R\u00E9cup\u00E9rer un Pok\u00E9mon"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Demander des nouvelles"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "N. [VAR 0202(0001)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2642 N. [VAR 0202(0001)]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2640 N. [VAR 0202(0001)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] N. [VAR 0202(0001)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Hein\u202F?!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Un [VAR 0101(0000)] vient de sortir de l\u2019\u0152uf\u202F!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Voulez-vous donner un surnom\\n[VAR 1002][VAR 1404(0000,0001)][VAR 0101(0000)] nouveau-n\u00E9\u202F?"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[~ 121]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[~ 122]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[~ 123]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[~ 124]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[~ 126]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[~ 128]"
+  }
+]

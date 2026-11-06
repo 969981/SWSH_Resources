@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Fammi indovinare! Vuoi che insegni la mossa\\nAscesa del Drago a un tuo Pok\u00E9mon, vero?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Mi spiace, ma solo Rayquaza pu\u00F2 imparare\\nAscesa del Drago e non lo vedo in squadra!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Se avrai bisogno di me, mi troverai qui!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi che insegni la mossa?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Quel Pok\u00E9mon non pu\u00F2 imparare\\nAscesa del Drago.\\c\\nSolo Rayquaza \u00E8 in grado di apprenderla!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Vuoi che insegni Ascesa del Drago a un Uovo?!\\nQuesta non l\u2019avevo ancora sentita!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Quel Rayquaza conosce gi\u00E0 Ascesa del Drago!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Vuoi che [VAR 0101(0000)] impari\\nAscesa del Drago?"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Ascesa del Drago \u00E8 una mossa potentissima,\\nesclusiva di Rayquaza.\\c\\nSi dice che possa ridurre in briciole\\nun enorme meteorite!"
+  },
+  {
+    "index": 9,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire\\ncon [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  }
+]

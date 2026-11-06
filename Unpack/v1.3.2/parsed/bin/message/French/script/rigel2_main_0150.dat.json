@@ -1,0 +1,257 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Tiens\u202F? Quel honneur de recevoir la visite\\nd[VAR 1100(00FF,0E0A)]u Dresseure la Dresseuse qui a sauv\u00E9 le village\u202F!\\r\\nTu es revenu[VAR 1100(00FF,0100)]e consulter mes livres\u202F?[VAR 0114(007A)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "\u00C0 vrai dire, je ne suis pas l\u00E0 pour \u00E7a."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "En fait, j\u2019ai quelque chose \u00E0 vous demander."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Comment\u202F? Tu veux que je fabrique\\ndes R\u00EAnes de l\u2019Unit\u00E9\u202F?[VAR 0114(007A)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Cela me para\u00EEt compromis...[VAR 0114(007A)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Du temps de mon arri\u00E8re-grand-p\u00E8re, cela\\nn\u2019aurait s\u00FBrement pas \u00E9t\u00E9 un probl\u00E8me.[VAR 0114(007A)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mais aujourd\u2019hui, plus personne ne sait vraiment\\ncomment en confectionner...[VAR 0114(007A)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Et puis, de toute fa\u00E7on, tu aurais aussi besoin\\nde la fleur dont je t\u2019ai parl\u00E9.[VAR 0114(007A)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Justement, je l\u2019ai trouv\u00E9e\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "J\u2019ai apport\u00E9 un p\u00E9tale. \u00C7a suffira\u202F?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "M-mais c\u2019est... le p\u00E9tale d\u2019une fleur brillante\u202F?[VAR 0114(007A)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Alors, \u00E7a voudrait dire que le Seigneur\\ndes r\u00E9coltes existe vraim...\u202F?\\r\\nNon, c\u2019est impossible\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Mes anc\u00EAtres s\u2019inspiraient des l\u00E9gendes\\npour fabriquer des R\u00EAnes de l\u2019Unit\u00E9 \u00E0 partir\\r\\nde poils de Pok\u00E9mon et de p\u00E9tales de fleur.[VAR 0114(007A)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Mais ce n\u2019\u00E9tait qu\u2019une simple tradition\u202F!\\nTomb\u00E9e en d\u00E9su\u00E9tude, qui plus est\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Cela dit, tu nous as bien aid\u00E9s...\\net je me dois de te rendre la pareille.\\r\\nBon. Donne-moi ce que tu as\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vous donnez le P\u00E9tale Brillant et\\nles Crins Blancs au chef du village."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vous donnez le P\u00E9tale Brillant et\\nles Crins Sombres au chef du village."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Bien. \u00C0 pr\u00E9sent, tentons de faire\\ncomme mon arri\u00E8re-grand-p\u00E8re...[VAR 0114(007A)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Et faisons revivre les traditions de ce village\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Vous entendez le chef du village s\u2019activer."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Il semble travailler intens\u00E9ment."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Bon...[VAR 0114(007A)]"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Eh bien, c\u2019est compl\u00E8tement rat\u00E9\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "J\u2019ai beau \u00EAtre manuel, je suis loin d\u2019\u00EAtre un pro.\\nOr, c\u2019est justement ce dont nous aurions besoin...[VAR 0114(007A)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Ne fais pas cette t\u00EAte... Je suis d\u00E9sol\u00E9.\\nJ\u2019ai vraiment fait tout ce que j\u2019ai pu.[VAR 0114(007A)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Monsieur le chef du village\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "J\u2019ai plus d\u2019eau chaude dans ma chambre\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Veuillez m\u2019en excuser, je vais voir\\nce que je peux faire.[VAR 0114(007A)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Oh, chef\u202F! T\u2019es l\u00E0, toi aussi\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Pssst\u202F! Il s\u2019est pass\u00E9 quelque chose\u202F?\\nY\u2019a de la tension dans l\u2019air...[VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Eh bien, en fait..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Le chef du village a voulu m\u2019aider, mais..."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Ha ha ha\u202F! D\u2019accord, je vois\u202F!\\n\u00C7a m\u2019a pas l\u2019air si compliqu\u00E9.[VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Donne-moi ce que t\u2019as, je vais m\u2019en occuper\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Du coup, je dois faire quoi avec\\nces poils et ce p\u00E9tale\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "*S\u2019\u00E9claircit la gorge*\\nEh bien, les l\u00E9gendes pr\u00E9conisaient ceci...[VAR 0114(007A)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Tresse les crins et le p\u00E9tale\u202F! \u266A\\nTisse, tisse les r\u00EAnes royales\u202F! \u266A[VAR 0114(007A)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Euh... Je m\u2019attendais pas \u00E0 ce que vous chantiez,\\nmais pourquoi pas, hein\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Bon\u202F! C\u2019est parti, mon Kicklee\u202F!!![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Eh bah voil\u00E0, tu les as, tes r\u00EAnes\u202F!\\n\u00C7a ira comme \u00E7a\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00C7a alors, je ne m\u2019attendais pas \u00E0\\nune telle dext\u00E9rit\u00E9 de votre part\u202F!\\c\\nCes R\u00EAnes de l\u2019Unit\u00E9 sont exactement\\ncomme celles des l\u00E9gendes\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Ha ha ha\u202F! Comme quoi, \u00E7a sert que je couse\\ndes v\u00EAtements pour ma fille\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "D\u2019ailleurs, chef, c\u2019est moi qui ai cousu\\nton uniforme d\u2019exploration\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "C\u2019est tr\u00E8s int\u00E9ressant, mais...\\nrevenons \u00E0 nos Moumouton\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Tu as r\u00E9ussi \u00E0 obtenir des R\u00EAnes de l\u2019Unit\u00E9.[VAR 0114(007A)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "C\u2019est vraiment formidable\u202F!\\nQuelle \u00E9motion\u202F![VAR 0114(007A)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Chef\u202F! J\u2019esp\u00E8re que mes talents de couturier\\nont pu te sauver la mise\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Mais, j\u2019y pense... Si vous avez fabriqu\u00E9 des R\u00EAnes\\nde l\u2019Unit\u00E9, cela veut dire que le Seigneur\\r\\ndes r\u00E9coltes a fait \u00E9clore cette fleur, et que\\r\\nces Crins Blancs \u00E9taient ceux de son destrier...\u202F?\\c\\n... Non, je divague... Cela est impossible...[VAR 0114(007A)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Mais, j\u2019y pense... Si vous avez fabriqu\u00E9 des R\u00EAnes\\nde l\u2019Unit\u00E9, cela veut dire que le Seigneur\\r\\ndes r\u00E9coltes a fait \u00E9clore cette fleur, et que\\r\\nces Crins Sombres \u00E9taient ceux de son destrier...\u202F?\\c\\n... Non, je divague... Cela est impossible...[VAR 0114(007A)]"
+  }
+]

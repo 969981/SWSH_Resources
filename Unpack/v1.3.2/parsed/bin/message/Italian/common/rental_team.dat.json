@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "L. [VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Abilit\u00E0"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 8,
+    "text": "Strumento"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "ID squadra"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Nome squadra"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "A nolo"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Organizza le Squadre a nolo"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Organizza le squadre condivise"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Cosa vuoi fare con questa Squadra a nolo?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Prendi in prestito"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vuota"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Restituisci"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Cosa vuoi fare con questa Squadra Lotta?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Condividi"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Non condividere pi\u00F9"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Verifica"
+  },
+  {
+    "index": 25,
+    "flags": 8,
+    "text": "Scegli una Squadra Lotta."
+  },
+  {
+    "index": 26,
+    "flags": 8,
+    "text": "Scegli una Squadra a nolo."
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "A nolo 1"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "A nolo 2"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "A nolo 3"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "A nolo 4"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "A nolo 5"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Condiv. 1"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Condiv. 2"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Condiv. 3"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Condiv. 4"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Condiv. 5"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "A nolo [VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Condiv. [VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "La squadra verr\u00E0 restituita. Vuoi continuare?"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "La Squadra Lotta \u00E8 stata restituita.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Vuoi condividere questa squadra?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "La Squadra Lotta \u00E8 stata condivisa.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "La squadra non sar\u00E0 pi\u00F9 condivisa.\\nVuoi continuare?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "La squadra non \u00E8 pi\u00F9 condivisa.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Comunicazione in corso. Attendi..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Vuoi prendere in prestito questa squadra?"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Hai preso in prestito la Squadra Lotta.\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Guida"
+  },
+  {
+    "index": 53,
+    "flags": 8,
+    "text": "Squadra non trovata.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un problema con almeno un Pok\u00E9mon\\ndella tua Squadra Lotta.\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nNon spegnere la console."
+  }
+]

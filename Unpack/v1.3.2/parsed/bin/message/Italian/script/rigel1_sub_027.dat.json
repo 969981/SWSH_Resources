@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oh! Cosa vedo! Un[VAR 1100(00FF,0B0A)] Allenator\u2019Allenatrice!\\c\\nPiacere! Il mio compito \u00E8 fare in modo che\\ni Pok\u00E9mon provenienti da altre regioni possano\\r\\npartecipare alle Lotte Competitive!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Ma solo a una condizione!\\c\\nDovranno dimenticare tutte le mosse che\\nconoscono per imparare quelle ammesse\\r\\nnelle Lotte Competitive."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Hai per caso Pok\u00E9mon di altre regioni che\\ndesideri far partecipare alle Lotte Competitive?"
+  },
+  {
+    "index": 3,
+    "flags": 8,
+    "text": "Scegli un Pok\u00E9mon."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dunque, vuoi far dimenticare a [VAR 0102(0001)]\\ntutte le mosse che conosce per fargli imparare\\r\\nquelle ammesse nelle Lotte Competitive?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Pensaci bene, perch\u00E9 se dimentica delle mosse\\nrare, poi non potrai pi\u00F9 fargliele ricordare.\\c\\nVuoi continuare?"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Oooh! Ho buone notizie per te!\\c\\n[VAR 0102(0001)] ha gi\u00E0 le carte in regola\\nper partecipare alle Lotte Competitive!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Allora... iniziamo la lezione!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Ora [VAR 0102(0001)] pu\u00F2 partecipare alle Lotte\\nCompetitive!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Alla prossima!"
+  }
+]

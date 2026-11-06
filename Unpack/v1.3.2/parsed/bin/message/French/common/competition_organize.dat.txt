@@ -1,0 +1,71 @@
+Veuillez choisir les détails du tournoi.
+ Sélectionner
+ Retour
+Choisissez la date du tournoi.
+Choisissez l’heure de début du tournoi.
+Choisissez l’heure de fin du tournoi.
+Choisissez le nombre de combats possibles.
+Choisissez le temps imparti.
+Oui
+Non
+Tous les joueurs
+Seuls les possesseurs de mon identifiant
+Oui
+Non
+Retour
+Voulez-vous télécharger les règles de combat\nsupplémentaires ?
+Veuillez choisir qui peut participer au tournoi.
+Voulez-vous ajouter un sous-titre\nau nom du tournoi ?
+Organisation du tournoi
+Nom du tournoi
+[VAR 01AF(0000)]
+[VAR 01AF(0000)]
+Règles
+Combat Solo
+Combat Duo
+Règles normales
+Règles de la Tour de Combat
+Sans restrictions
+[~ 28]
+[VAR 01D5(0000)]
+Durée du tournoi
+Du [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] à [VAR 0201(0003)]:[VAR 0201(0004)]
+au
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] à [VAR 0201(0003)]:[VAR 0201(0004)]
+Participants possibles
+Tous les joueurs
+Seuls les possesseurs de mon identifiant
+Organiser
+Attention !
+Vous ne pouvez pas annuler le tournoi.
+Nombre de combats
+[VAR 0201(0000)] maximum
+Temps imparti
+Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s
+Temps total : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s
+À déterminer
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] à [VAR 0201(0003)]:00
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] à [VAR 0201(0003)]:59
+Durée du tournoi
+Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de --:-- à --:--
+Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] à --:--
+Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] à [VAR 0201(0005)]:[VAR 0201(0006)]
+[VAR 0201(0000)] maximum
+Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s / Temps total : [VAR 0201(0001)] minute[VAR 1101(0001,0100)]s
+Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s / Temps total : sans limite
+Temps individuel : sans limite / Temps total : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s
+Envoi des règles en cours...\nNe pas débrancher le câble réseau.
+Les règles ont été envoyées.\c
+L’envoi des règles a échoué.\c
+Envoyer les règles
+Commencer l’envoi
+Envoyez les règles à plusieurs personnes en même\ntemps via communication sans fil locale.
+Envoyez les règles à quelqu’un via réseau local.
+ Annuler l’envoi
+Envoi des règles en cours...\nPour annuler, appuyez sur le bouton B.
+L’envoi a été interrompu.\c
+En attente de la connexion...
+Connectez-vous à l’autre joueur\navec le câble réseau.
+Commencer l’envoi
+Appuyez sur le bouton pour commencer l’envoi.

@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "It\u2019s one of the fields Calyrex told you about!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Do you want to plant the Carrot Seeds in\\nthis field?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "I see you have reached one of the fields.[VAR 0114(0079)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Are you truly ready to plant the Carrot Seeds?[VAR 0114(0079)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "If you plant the seeds in this field,\\n[VAR FF00(0006)]Iceroot Carrots[VAR FF00(0000)] will grow.\\c\\nIt has been so long that my memory is hazy,\\nbut I believe that my loyal steed would often\\r\\npartake of this sort of vegetable.\\c\\nIf Iceroot Carrots were what my steed preferred,\\nit must have been [VAR FF00(0006)]Ice type[VAR FF00(0000)], mustn\u2019t it?\\c\\nIt\u2019s most vexing that I can\u2019t recall. I suppose\\nwe will see.[VAR 0114(0079)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "If you plant the seeds in this field,\\n[VAR FF00(0006)]Shaderoot Carrots[VAR FF00(0000)] will grow.\\c\\nIt has been so long that my memory is hazy,\\nbut I believe that my loyal steed would often\\r\\npartake of this sort of vegetable.\\c\\nIf Shaderoot Carrots were what my steed\\npreferred, it must have been [VAR FF00(0006)]Ghost type[VAR FF00(0000)],\\r\\nmustn\u2019t it?\\c\\nIt\u2019s most vexing that I can\u2019t recall. I suppose\\nwe will see.[VAR 0114(0079)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "I will ask but once more...\\nAre you sure this is the field in which you want\\r\\nto plant the seeds?[VAR 0114(0079)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "So you wish to reconsider?\\c\\nVery well... I shall return once you have made\\nyour choice.[VAR 0114(0079)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Very well. Then I ask that you plant the seeds.[VAR 0114(0079)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "*dig dig dig*"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "You planted the Carrot Seeds in the field!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "*pat pat*"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Kah hah hah! Very good, very good.\\nYou have an able hand for working with soil![VAR 0114(0079)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Now then, it\u2019s time I did my part.\\nLet me show you my powers![VAR 0114(0079)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Crownow![VAR 0114(0079)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Rownwo![VAR 0114(0079)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Crowrown![VAR 0114(0079)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "*rumble rumble rumble*"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "*doink*"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "*gasp gasp*[VAR 0114(0079)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "You planted so many seeds, and yet my powers\\ncould only get one to grow...[VAR 0114(0079)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "To think that I have fallen so low!\\nIt truly breaks my heart...[VAR 0114(0079)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "But soon it will be time to bid my\\nsorrow farewell![VAR 0114(0079)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Now, human child. I must ask that you pull that\\nIceroot Carrot free with all your might![VAR 0114(0079)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Now, human child. I must ask that you pull that\\nShaderoot Carrot free with all your might![VAR 0114(0079)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Chief Peony is floating in the air and glowing!"
+  }
+]

@@ -1,0 +1,897 @@
+[
+  {
+    "index": 0,
+    "hash": "1D68CC5B07165742",
+    "name": "WK_EV_REAL_DAYS"
+  },
+  {
+    "index": 1,
+    "hash": "9C60C3E5624C7B30",
+    "name": "WK_EV_DBG_JUMP"
+  },
+  {
+    "index": 2,
+    "hash": "4CB5C5A4127D6F1B",
+    "name": "WK_EV_R1002_CHANGE_BGM"
+  },
+  {
+    "index": 3,
+    "hash": "C22594EBF06213E4",
+    "name": "WK_EV_T08_CHANGE_BGM"
+  },
+  {
+    "index": 4,
+    "hash": "6D4344C90A0204EB",
+    "name": "WK_EV_05"
+  },
+  {
+    "index": 5,
+    "hash": "6D4345C90A02069E",
+    "name": "WK_EV_06"
+  },
+  {
+    "index": 6,
+    "hash": "6D4346C90A020851",
+    "name": "WK_EV_07"
+  },
+  {
+    "index": 7,
+    "hash": "6D433FC90A01FC6C",
+    "name": "WK_EV_08"
+  },
+  {
+    "index": 8,
+    "hash": "6D4340C90A01FE1F",
+    "name": "WK_EV_09"
+  },
+  {
+    "index": 9,
+    "hash": "6D46CDC90A05238D",
+    "name": "WK_EV_10"
+  },
+  {
+    "index": 10,
+    "hash": "6D46CCC90A0521DA",
+    "name": "WK_EV_11"
+  },
+  {
+    "index": 11,
+    "hash": "6D46CBC90A052027",
+    "name": "WK_EV_12"
+  },
+  {
+    "index": 12,
+    "hash": "6D46CAC90A051E74",
+    "name": "WK_EV_13"
+  },
+  {
+    "index": 13,
+    "hash": "6D46C9C90A051CC1",
+    "name": "WK_EV_14"
+  },
+  {
+    "index": 14,
+    "hash": "6D46C8C90A051B0E",
+    "name": "WK_EV_15"
+  },
+  {
+    "index": 15,
+    "hash": "6D46C7C90A05195B",
+    "name": "WK_EV_16"
+  },
+  {
+    "index": 16,
+    "hash": "6D46C6C90A0517A8",
+    "name": "WK_EV_17"
+  },
+  {
+    "index": 17,
+    "hash": "6D46C5C90A0515F5",
+    "name": "WK_EV_18"
+  },
+  {
+    "index": 18,
+    "hash": "67BA81AF02B647B4",
+    "name": "WK_EV_G_KUSA_FENCE"
+  },
+  {
+    "index": 19,
+    "hash": "7B59B5EDBE3BD183",
+    "name": "WK_EV_G_IWA_KORI_CLEARPOINT"
+  },
+  {
+    "index": 20,
+    "hash": "C529C31524280E24",
+    "name": "WK_EV_G_IWA_KORI_CHECKPOINT"
+  },
+  {
+    "index": 21,
+    "hash": "117914C8CA5FA1A3",
+    "name": "WK_EV_G_HONO_BUTTLE_TURN"
+  },
+  {
+    "index": 22,
+    "hash": "04AAC79A375A5D09",
+    "name": "WK_EV_G_HONO_REMAINING_POKE"
+  },
+  {
+    "index": 23,
+    "hash": "6D7DF14D32C4F443",
+    "name": "WK_EV_G_HONO_POINT_PLAYER"
+  },
+  {
+    "index": 24,
+    "hash": "435A66E99ACC0AEC",
+    "name": "WK_EV_G_HONO_POINT_TR_A"
+  },
+  {
+    "index": 25,
+    "hash": "435A69E99ACC1005",
+    "name": "WK_EV_G_HONO_POINT_TR_B"
+  },
+  {
+    "index": 26,
+    "hash": "435A68E99ACC0E52",
+    "name": "WK_EV_G_HONO_POINT_TR_C"
+  },
+  {
+    "index": 27,
+    "hash": "9E64BE40E250A142",
+    "name": "WK_EV_G_HONO_GAIN_PLAYER"
+  },
+  {
+    "index": 28,
+    "hash": "19832A3C48043955",
+    "name": "WK_EV_G_HONO_GAIN_TR"
+  },
+  {
+    "index": 29,
+    "hash": "BBAFE7C8F8E07F9B",
+    "name": "WK_EV_SUB_127_TODAY_ITEM"
+  },
+  {
+    "index": 30,
+    "hash": "A0882D8AA4D5B8C0",
+    "name": "WK_EV_SUB_127_YESTERDAY_ITEM"
+  },
+  {
+    "index": 31,
+    "hash": "99B816F9FE2E9869",
+    "name": "WK_EV_SUB_127_TOMORROW_ITEM"
+  },
+  {
+    "index": 32,
+    "hash": "B4BBB9216C3B5E62",
+    "name": "WK_EV_SUB_127_QUEST_ITEM"
+  },
+  {
+    "index": 33,
+    "hash": "6D331B200E11ED8C",
+    "name": "WK_EV_ROTOKO"
+  },
+  {
+    "index": 34,
+    "hash": "EC8EF6B1996BEEAA",
+    "name": "WK_EV_ROTOKO_FTE"
+  },
+  {
+    "index": 35,
+    "hash": "F1DCB818AF37666F",
+    "name": "WK_EV_G_HONO_TR_A"
+  },
+  {
+    "index": 36,
+    "hash": "F1DCB918AF376822",
+    "name": "WK_EV_G_HONO_TR_B"
+  },
+  {
+    "index": 37,
+    "hash": "F1DCBA18AF3769D5",
+    "name": "WK_EV_G_HONO_TR_C"
+  },
+  {
+    "index": 38,
+    "hash": "4A053A780D987D50",
+    "name": "WK_EV_BIRTH_MONTH"
+  },
+  {
+    "index": 39,
+    "hash": "8E8A2466355C8314",
+    "name": "WK_EV_BIRTH_DAY"
+  },
+  {
+    "index": 40,
+    "hash": "C6F7C8C3A8067616",
+    "name": "WK_EV_MAIN_3100_3130_CLEAR_COUNT"
+  },
+  {
+    "index": 41,
+    "hash": "90482B7F38548020",
+    "name": "WK_EV_ROTOM_CIRCUIT_HIGHSCORE"
+  },
+  {
+    "index": 42,
+    "hash": "C0C37215A4E3B2CF",
+    "name": "WK_EV_G_HONO_TR_NAME"
+  },
+  {
+    "index": 43,
+    "hash": "B116B63984B301C2",
+    "name": "WK_EV_AZUKARIYA_STAFF_R05"
+  },
+  {
+    "index": 44,
+    "hash": "3379F4F57EF9C424",
+    "name": "WK_EV_AZUKARIYA_STAFF_WIDEROAD"
+  },
+  {
+    "index": 45,
+    "hash": "2B0DCB5ACC45DA54",
+    "name": "WK_EV_SUB_034_PROGRESS"
+  },
+  {
+    "index": 46,
+    "hash": "A6C7B100697D1E29",
+    "name": "WK_EV_SUB_040_PROGRESS"
+  },
+  {
+    "index": 47,
+    "hash": "094E73F20E85795E",
+    "name": "WK_EV_SUB_003_PROGRESS"
+  },
+  {
+    "index": 48,
+    "hash": "C904963A4584784A",
+    "name": "WK_EV_SUB_025_PROGRESS"
+  },
+  {
+    "index": 49,
+    "hash": "04DE255B67A659C4",
+    "name": "WK_EV_SUB_001_PROGRESS"
+  },
+  {
+    "index": 50,
+    "hash": "C08A55150CF6D916",
+    "name": "WK_EV_SUB_018_PROGRESS"
+  },
+  {
+    "index": 51,
+    "hash": "AFEBF2446701AF09",
+    "name": "WK_EV_SUB_026_PROGRESS"
+  },
+  {
+    "index": 52,
+    "hash": "9F1D25C799F197E9",
+    "name": "WK_EV_ROTOM_CIRCUIT_GOALPOINT"
+  },
+  {
+    "index": 53,
+    "hash": "0AC7C68924F1FCA2",
+    "name": "WK_EV_SUB_011_ITEM_C01"
+  },
+  {
+    "index": 54,
+    "hash": "0AC7C58924F1FAEF",
+    "name": "WK_EV_SUB_011_ITEM_C02"
+  },
+  {
+    "index": 55,
+    "hash": "0AC7C48924F1F93C",
+    "name": "WK_EV_SUB_011_ITEM_C03"
+  },
+  {
+    "index": 56,
+    "hash": "C13CAC0E0C7C3E38",
+    "name": "WK_SHOP_GYM_COUNT"
+  },
+  {
+    "index": 57,
+    "hash": "1C057896C10889B1",
+    "name": "WK_EV_SUB_031_PROGRESS"
+  },
+  {
+    "index": 58,
+    "hash": "008F891AF8A1B32F",
+    "name": "WK_EV_SUB_002_PROGRESS"
+  },
+  {
+    "index": 59,
+    "hash": "BC3BF4A7AA86248B",
+    "name": "WK_EV_SUB_042_PROGRESS"
+  },
+  {
+    "index": 60,
+    "hash": "7D928A654B8B80F6",
+    "name": "WK_EV_G_IWA_KORI_POPUP_01"
+  },
+  {
+    "index": 61,
+    "hash": "D7623D0D051A8415",
+    "name": "WK_EV_T0101_I0101_POKE_POPUP"
+  },
+  {
+    "index": 62,
+    "hash": "56C87EDD2B103B06",
+    "name": "WK_EV_D0401_INPU_PROGRESS"
+  },
+  {
+    "index": 63,
+    "hash": "105393C5AF0E8346",
+    "name": "WK_EV_SUB_021_PROGRESS"
+  },
+  {
+    "index": 64,
+    "hash": "CD5B97FD495E3674",
+    "name": "WK_EV_MEETFACE_CHAMPION"
+  },
+  {
+    "index": 65,
+    "hash": "75902F1A3FE99FE1",
+    "name": "WK_EV_MEETFACE_RIVAL"
+  },
+  {
+    "index": 66,
+    "hash": "093032F27964A5A9",
+    "name": "WK_EV_MEETFACE_BAD_RIVAL"
+  },
+  {
+    "index": 67,
+    "hash": "D6EDF0324C67BA2E",
+    "name": "WK_EV_MEETFACE_GIRL_RIVAL"
+  },
+  {
+    "index": 68,
+    "hash": "2F1DF2466F884079",
+    "name": "WK_EV_MEETFACE_HISYO"
+  },
+  {
+    "index": 69,
+    "hash": "663D9E0DB9E1DE0C",
+    "name": "WK_EV_MEETFACE_LEAGUE_CHIEF"
+  },
+  {
+    "index": 70,
+    "hash": "F3B134AC2DFA8C4E",
+    "name": "WK_EV_MEETFACE_LEAGUE_STAFF_EVIL"
+  },
+  {
+    "index": 71,
+    "hash": "90871688FAA7378A",
+    "name": "WK_EV_MEETFACE_GM_TR_AKU"
+  },
+  {
+    "index": 72,
+    "hash": "B5545255177786BA",
+    "name": "WK_EV_MEETFACE_LEADER_AKU"
+  },
+  {
+    "index": 73,
+    "hash": "7EF2CA5EDFAAEECD",
+    "name": "WK_EV_MEETFACE_YELL"
+  },
+  {
+    "index": 74,
+    "hash": "0BA2A6C50123EA7A",
+    "name": "WK_EV_HORIDASHI_OYAJI"
+  },
+  {
+    "index": 75,
+    "hash": "F12CB4C2721AE36F",
+    "name": "WK_EV_G_FAIRY_QUIZ_RESULT"
+  },
+  {
+    "index": 76,
+    "hash": "874A7FA0437E8C7C",
+    "name": "WK_EV_FIRST_TRAINER"
+  },
+  {
+    "index": 77,
+    "hash": "14CEF8D3697141AC",
+    "name": "WK_EV_SUB_009_PROGRESS"
+  },
+  {
+    "index": 78,
+    "hash": "735B51C54C54B0CF",
+    "name": "WK_EV_SUB_028_PROGRESS"
+  },
+  {
+    "index": 79,
+    "hash": "B0E6F7AC77BD26F2",
+    "name": "WK_EV_WIDEROAD_SYMBOLE_MEMO_PROGRESS"
+  },
+  {
+    "index": 80,
+    "hash": "995F74EC17C4CBAC",
+    "name": "WK_EV_WIDEROAD_CAMP_MEMO_PROGRESS"
+  },
+  {
+    "index": 81,
+    "hash": "70F4FC4E86F9272C",
+    "name": "WK_EV_ROTOM_CIRCUIT_STARTPOINT"
+  },
+  {
+    "index": 82,
+    "hash": "9F6D4044175573FB",
+    "name": "WK_EV_PL0102_DOOR_POS"
+  },
+  {
+    "index": 83,
+    "hash": "DDEDD90241DAB84F",
+    "name": "WK_EV_TOURNAMENT_AWARD_ID"
+  },
+  {
+    "index": 84,
+    "hash": "05104B1B066F38F5",
+    "name": "WK_EV_HORIDASHI_HIGH_RANKING"
+  },
+  {
+    "index": 85,
+    "hash": "9D612AFDA0F49CFB",
+    "name": "WK_EV_HORIDASHI_LOW_RANKING"
+  },
+  {
+    "index": 86,
+    "hash": "FB84DD3630080BB6",
+    "name": "WK_EV_WIDEROAD_CAMERA_MEMO_PROGRESS"
+  },
+  {
+    "index": 87,
+    "hash": "BC68CA473DBE736D",
+    "name": "WK_EV_WIDEROAD_WATT_MEMO_PROGRESS"
+  },
+  {
+    "index": 88,
+    "hash": "7D1EAD0791AC63B3",
+    "name": "WK_EV_SUB_127_2_DAYS_LATER_ITEM"
+  },
+  {
+    "index": 89,
+    "hash": "E86AA4D492B2F3F3",
+    "name": "WK_EV_ANAOYAJI_BEFORE_WATT"
+  },
+  {
+    "index": 90,
+    "hash": "50599DBE68BBA8B1",
+    "name": "WK_EV_ANAOYAJI_SCORE"
+  },
+  {
+    "index": 91,
+    "hash": "C31D477CC6102A59",
+    "name": "WK_EV_GOUSEI_TYPE"
+  },
+  {
+    "index": 92,
+    "hash": "FE4BAE98B125CDDC",
+    "name": "WK_EV_WIFE_RATE"
+  },
+  {
+    "index": 93,
+    "hash": "9D15BE618B93CB0E",
+    "name": "WK_EV_R1_SUB_012_PROGRESS"
+  },
+  {
+    "index": 94,
+    "hash": "8F501BE6D14C95F9",
+    "name": "WK_EV_R1_MAIN0060_YADON"
+  },
+  {
+    "index": 95,
+    "hash": "7786D4DED81C8A46",
+    "name": "WK_EV_R1_MAIN0090_KINOKO"
+  },
+  {
+    "index": 96,
+    "hash": "86F56EA7C7161487",
+    "name": "WK_EV_R1_AMOUNT_WATT"
+  },
+  {
+    "index": 97,
+    "hash": "5ED6E6C00CBEB855",
+    "name": "WK_EV_R1_MITSUBA_PROGRESS"
+  },
+  {
+    "index": 98,
+    "hash": "6D93FF85C9E6E098",
+    "name": "WK_EV_R1_DHIGUDA_PROGRESS"
+  },
+  {
+    "index": 99,
+    "hash": "C9FECD714AEA5A7E",
+    "name": "WK_EV_R1_DHIGUDA_COUNT"
+  },
+  {
+    "index": 100,
+    "hash": "45CC5C9BF0159FB2",
+    "name": "WK_EV_R1_DHIGUDA_ADD"
+  },
+  {
+    "index": 101,
+    "hash": "CFDF51E2160CDE80",
+    "name": "WK_EV_R1_GOUSEI_DAILY_HINT"
+  },
+  {
+    "index": 102,
+    "hash": "E94133D481961C6F",
+    "name": "WK_EV_SUB007_PROGRESS"
+  },
+  {
+    "index": 103,
+    "hash": "36021BE845462EBF",
+    "name": "WK_EV_R1_SUB001_PROGRESS"
+  },
+  {
+    "index": 104,
+    "hash": "C5CD9D76F5A72492",
+    "name": "WK_EV_R2_SUB001_PROGRESS"
+  },
+  {
+    "index": 105,
+    "hash": "246DE41B3A31477F",
+    "name": "WK_EV_R1_DHIG_WR0201"
+  },
+  {
+    "index": 106,
+    "hash": "13742D89B42F0EDC",
+    "name": "WK_EV_R1_GOUSEI_PROGRESS"
+  },
+  {
+    "index": 107,
+    "hash": "246DE51B3A314932",
+    "name": "WK_EV_R1_DHIG_WR0202"
+  },
+  {
+    "index": 108,
+    "hash": "246DE61B3A314AE5",
+    "name": "WK_EV_R1_DHIG_WR0203"
+  },
+  {
+    "index": 109,
+    "hash": "246DDF1B3A313F00",
+    "name": "WK_EV_R1_DHIG_WR0204"
+  },
+  {
+    "index": 110,
+    "hash": "246DE01B3A3140B3",
+    "name": "WK_EV_R1_DHIG_WR0205"
+  },
+  {
+    "index": 111,
+    "hash": "246DE11B3A314266",
+    "name": "WK_EV_R1_DHIG_WR0206"
+  },
+  {
+    "index": 112,
+    "hash": "246DE21B3A314419",
+    "name": "WK_EV_R1_DHIG_WR0207"
+  },
+  {
+    "index": 113,
+    "hash": "246DEB1B3A315364",
+    "name": "WK_EV_R1_DHIG_WR0208"
+  },
+  {
+    "index": 114,
+    "hash": "246DEC1B3A315517",
+    "name": "WK_EV_R1_DHIG_WR0209"
+  },
+  {
+    "index": 115,
+    "hash": "2471691B3A345F55",
+    "name": "WK_EV_R1_DHIG_WR0210"
+  },
+  {
+    "index": 116,
+    "hash": "2471681B3A345DA2",
+    "name": "WK_EV_R1_DHIG_WR0211"
+  },
+  {
+    "index": 117,
+    "hash": "2474F01B3A377A91",
+    "name": "WK_EV_R1_DHIG_WR0221"
+  },
+  {
+    "index": 118,
+    "hash": "2474ED1B3A377578",
+    "name": "WK_EV_R1_DHIG_WR0222"
+  },
+  {
+    "index": 119,
+    "hash": "2474EE1B3A37772B",
+    "name": "WK_EV_R1_DHIG_WR0223"
+  },
+  {
+    "index": 120,
+    "hash": "2474F31B3A377FAA",
+    "name": "WK_EV_R1_DHIG_WR0224"
+  },
+  {
+    "index": 121,
+    "hash": "2478741B3A3A90B4",
+    "name": "WK_EV_R1_DHIG_WR0231"
+  },
+  {
+    "index": 122,
+    "hash": "C7ED0A9187F61711",
+    "name": "WK_EV_REGI_D0801"
+  },
+  {
+    "index": 123,
+    "hash": "C7ED079187F611F8",
+    "name": "WK_EV_REGI_D0802"
+  },
+  {
+    "index": 124,
+    "hash": "C7ED089187F613AB",
+    "name": "WK_EV_REGI_D0803"
+  },
+  {
+    "index": 125,
+    "hash": "C7F08E9187F92D34",
+    "name": "WK_EV_REGI_D0811"
+  },
+  {
+    "index": 126,
+    "hash": "78C07CECF1C4948B",
+    "name": "WK_EV_REGI_PANELCOUNT"
+  },
+  {
+    "index": 127,
+    "hash": "6E652C5F8C096F9E",
+    "name": "WK_EV_REGI_PANELCOUNT_REDRA"
+  },
+  {
+    "index": 128,
+    "hash": "F4A52E01B0CD214B",
+    "name": "WK_EV_REGI_PANELCOUNT_BOTH"
+  },
+  {
+    "index": 129,
+    "hash": "06B6D1E4DBEF0145",
+    "name": "WK_EV_REGISTEEL_DOOR"
+  },
+  {
+    "index": 130,
+    "hash": "1DADFC9D4D50B655",
+    "name": "WK_EV_SUB_RIGEL_012_KOBALON"
+  },
+  {
+    "index": 131,
+    "hash": "ADB4074C771E4C88",
+    "name": "WK_EV_SUB_RIGEL_012_TERAKION"
+  },
+  {
+    "index": 132,
+    "hash": "4B2A167DAD67A297",
+    "name": "WK_EV_SUB_RIGEL_012_BIRIZION"
+  },
+  {
+    "index": 133,
+    "hash": "4FD3175D6106657D",
+    "name": "WK_EV_SUB_RIGEL_012_KELDHIO"
+  },
+  {
+    "index": 134,
+    "hash": "222D0509CA0279C5",
+    "name": "WK_EV_GST_PARTNER_ID"
+  },
+  {
+    "index": 135,
+    "hash": "89C84BA35C63C0C5",
+    "name": "WK_EV_GST_BATTLE_PROGRESS"
+  },
+  {
+    "index": 136,
+    "hash": "E546EA07C35F6291",
+    "name": "WK_EV_SUB_RIGEL_012_KOBALON_PROGRESS"
+  },
+  {
+    "index": 137,
+    "hash": "ADE8E7A603C69A96",
+    "name": "WK_EV_SUB_RIGEL_012_TERAKION_PROGRESS"
+  },
+  {
+    "index": 138,
+    "hash": "758DFDDDB98F962B",
+    "name": "WK_EV_SUB_RIGEL_012_BIRIZION_PROGRESS"
+  },
+  {
+    "index": 139,
+    "hash": "79D2090A8B4600C9",
+    "name": "WK_EV_SUB_RIGEL_012_KELDHIO_PROGRESS"
+  },
+  {
+    "index": 140,
+    "hash": "C446DACACB135C68",
+    "name": "WK_EV_SUB_RIGEL_012_PROGRESS"
+  },
+  {
+    "index": 141,
+    "hash": "55CD1EAA31A13425",
+    "name": "WK_EV_SUB_RIGEL2_014_TALK_COUNT"
+  },
+  {
+    "index": 142,
+    "hash": "2E9F50A981AD2AF6",
+    "name": "WK_EV_TVGAME_INTRPOS"
+  },
+  {
+    "index": 143,
+    "hash": "DB28C112A8533433",
+    "name": "WK_EV_TVGAME_TIMECOUNT"
+  },
+  {
+    "index": 144,
+    "hash": "0BABEF8B40B20AF8",
+    "name": "WK_EV_TVGAME_SHITSUKOI"
+  },
+  {
+    "index": 145,
+    "hash": "82D3393F46D1FDC7",
+    "name": "WK_EV_SUB_RIGEL_024_PROGRESS"
+  },
+  {
+    "index": 146,
+    "hash": "8BE2B988BB1DE8EF",
+    "name": "WK_EV_SUB_RIGEL_013_KUROOBI_PROGRESS"
+  },
+  {
+    "index": 147,
+    "hash": "FD4A6E82374090B6",
+    "name": "WK_EV_SUB_RIGEL1_006_MITSUBA_PROGRESS"
+  },
+  {
+    "index": 148,
+    "hash": "F675355AB58354DB",
+    "name": "WK_EV_SUB_RIGEL1_SUB_017_PROGRESS"
+  },
+  {
+    "index": 149,
+    "hash": "B28841C64DBB9B79",
+    "name": "WK_EV_SUB_RIGEL_012_TRIGGER"
+  },
+  {
+    "index": 150,
+    "hash": "6E9188C143D3E2C3",
+    "name": "WK_EV_DAIKINOKO_RAIDCOUNT"
+  },
+  {
+    "index": 151,
+    "hash": "4C2E08350D0E00C9",
+    "name": "WK_EV_R1_MAIN0200_LOCATION_AKU"
+  },
+  {
+    "index": 152,
+    "hash": "EE9B78892F773C75",
+    "name": "WK_EV_R1_MAIN0200_LOCATION_MIZU"
+  },
+  {
+    "index": 153,
+    "hash": "AA8A76ECF6C672E9",
+    "name": "WK_EV_R2_SUB_009_PROGRESS"
+  },
+  {
+    "index": 154,
+    "hash": "EDA6558C5F1D8945",
+    "name": "WK_EV_R2_SUB_012_PROGRESS"
+  },
+  {
+    "index": 155,
+    "hash": "C2C25A70D033E667",
+    "name": "WK_EV_R1_MITSUBA_FRIDGE"
+  },
+  {
+    "index": 156,
+    "hash": "A5A0186AF73CDD1F",
+    "name": "WK_EV_R2_BIRD_POS"
+  },
+  {
+    "index": 157,
+    "hash": "83ED55156F669A35",
+    "name": "WK_EV_R2_CHIKA_LEGEND_SAVE_01"
+  },
+  {
+    "index": 158,
+    "hash": "83ED52156F66951C",
+    "name": "WK_EV_R2_CHIKA_LEGEND_SAVE_02"
+  },
+  {
+    "index": 159,
+    "hash": "83ED53156F6696CF",
+    "name": "WK_EV_R2_CHIKA_LEGEND_SAVE_03"
+  },
+  {
+    "index": 160,
+    "hash": "E62508052B07632B",
+    "name": "WK_EV_R2_CHIKA_ENDLESS_OPEN"
+  },
+  {
+    "index": 161,
+    "hash": "3CAD66C00F022C05",
+    "name": "WK_EV_R2_SUB_021_TODAY"
+  },
+  {
+    "index": 162,
+    "hash": "3DCD9A9137E17D13",
+    "name": "WK_EV_R2_SUB_021_TOMORROW"
+  },
+  {
+    "index": 163,
+    "hash": "A8F7C7B46DF7A8FB",
+    "name": "WK_EV_R2_SUB_021_DAY_AFTER_TOMORROW"
+  },
+  {
+    "index": 164,
+    "hash": "F4784EDD93490AAF",
+    "name": "WK_EV_R2_SUB_021_NORMAL_LINEUP"
+  },
+  {
+    "index": 165,
+    "hash": "18688AEBF26B9151",
+    "name": "WK_EV_R2_CHIKA_SYAKUYA_LEGEND"
+  },
+  {
+    "index": 166,
+    "hash": "2983BE86D2FC64C7",
+    "name": "WK_EV_R2_CHIKA_SYAKUYA_MEGANE"
+  },
+  {
+    "index": 167,
+    "hash": "86DED048AB07B11E",
+    "name": "WK_EV_R2_SUB_020_LOCATION"
+  },
+  {
+    "index": 168,
+    "hash": "D11B713BB6C76A95",
+    "name": "WK_EV_R2_MAIN_0090_ATAMA"
+  },
+  {
+    "index": 169,
+    "hash": "F9C661C693D4B32C",
+    "name": "WK_EV_R2_MAIN_0140_HATAKE_H"
+  },
+  {
+    "index": 170,
+    "hash": "F9C664C693D4B845",
+    "name": "WK_EV_R2_MAIN_0140_HATAKE_K"
+  },
+  {
+    "index": 171,
+    "hash": "61DE420C5D6C0AED",
+    "name": "WK_EV_OLIVE_LOTTERY"
+  },
+  {
+    "index": 172,
+    "hash": "314D1C734BD31BDB",
+    "name": "WK_EV_CHIKA_CLEARCOUNT"
+  },
+  {
+    "index": 173,
+    "hash": "2FF77A3E108657DC",
+    "name": "WK_EV_REGIDOOR_PIONI_CALL"
+  },
+  {
+    "index": 174,
+    "hash": "539E478D9A39C8FC",
+    "name": "WK_EV_KELDHIO_POP_AVAILABLE"
+  },
+  {
+    "index": 175,
+    "hash": "02F9F2AB6E081D6F",
+    "name": "WK_EV_R2_MAIN_0125"
+  },
+  {
+    "index": 176,
+    "hash": "0C2E9BAB736639B3",
+    "name": "WK_EV_R2_MAIN_0095"
+  },
+  {
+    "index": 177,
+    "hash": "15C4305D8EAEB8FF",
+    "name": "WK_EV_R2_CHIKA_PENALTY"
+  },
+  {
+    "index": 178,
+    "hash": "B5948D01D3ED94AF",
+    "name": "WK_EV_R2_REDENREDRA_CAM"
+  }
+]

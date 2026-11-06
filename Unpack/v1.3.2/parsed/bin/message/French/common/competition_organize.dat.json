@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Veuillez choisir les d\u00E9tails du tournoi."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Choisissez la date du tournoi."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Choisissez l\u2019heure de d\u00E9but du tournoi."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Choisissez l\u2019heure de fin du tournoi."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Choisissez le nombre de combats possibles."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Choisissez le temps imparti."
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Tous les joueurs"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Seuls les possesseurs de mon identifiant"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Voulez-vous t\u00E9l\u00E9charger les r\u00E8gles de combat\\nsuppl\u00E9mentaires\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Veuillez choisir qui peut participer au tournoi."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Voulez-vous ajouter un sous-titre\\nau nom du tournoi\u202F?"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Organisation du tournoi"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Nom du tournoi"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "R\u00E8gles"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Combat Solo"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Combat Duo"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "R\u00E8gles normales"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "R\u00E8gles de la Tour de Combat"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Sans restrictions"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Dur\u00E9e du tournoi"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Du [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] \u00E0 [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "au"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] \u00E0 [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Participants possibles"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Tous les joueurs"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Seuls les possesseurs de mon identifiant"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Organiser"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Attention\u202F!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Vous ne pouvez pas annuler le tournoi."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Nombre de combats"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] maximum"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Temps imparti"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Temps total : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "\u00C0 d\u00E9terminer"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] \u00E0 [VAR 0201(0003)]:00"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] \u00E0 [VAR 0201(0003)]:59"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Dur\u00E9e du tournoi"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de --:-- \u00E0 --:--"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] \u00E0 --:--"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] \u00E0 [VAR 0201(0005)]:[VAR 0201(0006)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] maximum"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s / Temps total : [VAR 0201(0001)] minute[VAR 1101(0001,0100)]s"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Temps individuel : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s / Temps total : sans limite"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Temps individuel : sans limite / Temps total : [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Envoi des r\u00E8gles en cours...\\nNe pas d\u00E9brancher le c\u00E2ble r\u00E9seau."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Les r\u00E8gles ont \u00E9t\u00E9 envoy\u00E9es.\\c"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "L\u2019envoi des r\u00E8gles a \u00E9chou\u00E9.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Envoyer les r\u00E8gles"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Commencer l\u2019envoi"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Envoyez les r\u00E8gles \u00E0 plusieurs personnes en m\u00EAme\\ntemps via communication sans fil locale."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Envoyez les r\u00E8gles \u00E0 quelqu\u2019un via r\u00E9seau local."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " Annuler l\u2019envoi"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Envoi des r\u00E8gles en cours...\\nPour annuler, appuyez sur le bouton B."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "L\u2019envoi a \u00E9t\u00E9 interrompu.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "En attente de la connexion..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Connectez-vous \u00E0 l\u2019autre joueur\\navec le c\u00E2ble r\u00E9seau."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Commencer l\u2019envoi"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Appuyez sur le bouton pour commencer l\u2019envoi."
+  }
+]

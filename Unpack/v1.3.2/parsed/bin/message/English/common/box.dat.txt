@@ -1,0 +1,583 @@
+Party
+[VAR 01BF(0000)]
+[VAR 0102(0000)] Lv. [VAR 0202(0001)]
+[VAR 0102(0000)]
+Box View
+Box List
+Search
+[VAR 0102(0000)]
+♂
+♀
+Lv. [VAR 0202(0000)]
+[VAR 0202(0000)]
+No. [VAR 0202(0000)]
+[VAR 0202(0000)]
+—
+???
+[VAR 0101(0000)]
+HP
+[VAR 0202(0000)]/[VAR 0202(0001)]
+[VAR 0202(0000)]
+[VAR 0202(0000)]
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+[VAR 0202(0000)]
+Ability
+[VAR 0106(0000)]
+Held Item
+[VAR 1000][VAR 0109(0000)]
+—
+[VAR 0107(0000)]
+Dynamax Level
+Sort Pokémon
+Held Items
+Battle Teams
+Select
+Multiselect
+Multipurpose
+[VAR 0201(0000)]
+Box Info
+[VAR 01C0(0000)]
+What do you want to do with [VAR 1300(0000,0000)][VAR 0102(0000)]?
+Move
+Check summary
+Check held item
+Change markings
+Release
+Cancel
+Are you done?
+Choose a mark.
+Do you really want to release this Pokémon?
+Yes
+No
+[VAR 0102(0000)] was released.\nBye-bye, [VAR 0102(0000)]!\c
+You can’t release an Egg.\c
+You can’t release the fused [VAR 0101(0000)].\c
+You can’t release [VAR 0101(0000)] when it’s\nunited with another Pokémon.\c
+You can’t release any Pokémon registered for\nBattle Teams.\c
+You’ll have no Pokémon left to battle with\nif you do that!\c
+You can’t release a Pokémon that’s holding such\na precious item!\c
+What do you want to do with this Box?
+Switch Box
+Change its wallpaper
+Change its name
+Please pick a theme.
+Wallpaper 1
+Wallpaper 2
+Wallpaper 3
+Wallpaper 4
+Wallpaper 5
+Wallpaper 6
+Wallpaper 7
+Wallpaper 8
+Wallpaper 9
+Wallpaper 10
+Wallpaper 11
+Wallpaper 12
+Wallpaper 13
+Wallpaper 14
+Wallpaper 15
+Wallpaper 16
+Wallpaper 17
+Wallpaper 18
+Wallpaper 19
+[VAR 0109(0000)] selected.
+Move
+Bag
+You placed [VAR 1300(0000,0000)][VAR 010A(0000)]\nin your Bag.\c
+Your Bag is full!\c
+Do you want to take\nthe [VAR 010A(0000)]?
+It can hold an item.
+Give
+An Egg can’t hold an item.\c
+Register
+Move
+Deselect
+You can’t move any Pokémon in a locked\nBattle Team.\c
+This Battle Team is locked.\nYou can’t remove this Pokémon.\c
+This Battle Team is locked.\nItems can’t be given or taken.\c
+This Battle Team is locked.\nYou can’t mark your Pokémon in the team.\c
+This Battle Team is locked.\nYou can’t register any Pokémon for the team.\c
+Do you want to change your team name?
+You can’t register an Egg.\c
+Choose the conditions, and then press Search\nto turn on the filter.
+Pokémon Species
+Type 1
+Type 2
+Known Move
+Compatible TM
+Ability
+Nature
+Gender
+Held Item
+Markings
+Battle Team
+[VAR 0101(0000)]
+[VAR 0103(0000)]
+[VAR 0107(0000)]
+[VAR 0107(0000)]
+[VAR 0106(0000)]
+[VAR 0108(0000)]
+♂
+♀
+Unknown
+[VAR 0109(0000)]
+Holding an Item
+Not Holding an Item
+[VAR 01BF(0000)]
+Please choose the first letter of\nthe Pokémon’s name.
+Please choose a Pokémon species.
+Please choose a first type.
+Please choose a second type.
+Please choose the first letter of the move.
+Please choose a move.
+Choose a TM to find Pokémon that can learn\nthe move contained within it.
+Please choose the first letter of an Ability.
+Please choose a Pokémon’s Ability.
+Please choose a Pokémon’s Nature.
+Please choose a Pokémon’s gender.
+Choose to show Pokémon holding items or\nPokémon not holding items.
+Choose a mark to only display Pokémon with\nthat mark.
+[~ 143]
+Choose a Battle Team to display Pokémon\nregistered to that team.
+[VAR 0103(0001)]
+[VAR 0103(0002)]
+[VAR 0106(0000)]
+[VAR 0108(0000)]
+[VAR 0107(0000)]
+Every stat grows in a balanced way.
+Attack grows faster. Defense grows slower.
+Attack grows faster. Speed grows slower.
+Attack grows faster. Sp. Atk grows slower.
+Attack grows faster. Sp. Def grows slower.
+Defense grows faster. Attack grows slower.
+Every stat grows in a balanced way.
+Defense grows faster. Speed grows slower.
+Defense grows faster. Sp. Atk grows slower.
+Defense grows faster. Sp. Def grows slower.
+Speed grows faster. Attack grows slower.
+Speed grows faster. Defense grows slower.
+Every stat grows in a balanced way.
+Speed grows faster. Sp. Atk grows slower.
+Speed grows faster. Sp. Def grows slower.
+Sp. Atk grows faster. Attack grows slower.
+Sp. Atk grows faster. Defense grows slower.
+Sp. Atk grows faster. Speed grows slower.
+Every stat grows in a balanced way.
+Sp. Atk grows faster. Sp. Def grows slower.
+Sp. Def grows faster. Attack grows slower.
+Sp. Def grows faster. Defense grows slower.
+Sp. Def grows faster. Speed grows slower.
+Sp. Def grows faster. Sp. Atk grows slower.
+Every stat grows in a balanced way.
+Trading Partner
+[VAR 0100(0000)]
+Waiting for the other person’s decision...
+You canceled the trade.\c
+Your trading partner chose to quit trading.\nThe trade will now end.\c
+The communication partner canceled the trade.\nThe trade will end.\c
+Would you like to quit the Pokémon trade?
+You can’t trade Pokémon because there is a\nproblem with your trading partner’s Pokémon.\c
+You can’t trade Pokémon because there is a\nproblem with your Pokémon.\c
+Attention!\nIf a communication error occurs or your system\ngets turned off while you’re trading, you won’t\nbe able to trade Pokémon for a while.
+Saving...\nDon’t turn off the power.
+Communicating. Please stand by...
+Would you like to receive your trading partner’s\nLeague Card?
+Do you want to trade your [VAR 0101(0001)]\nfor your trading partner’s [VAR 0101(0000)]?
+You can’t offer that Egg in trade.\c
+Trade it
+Select
+[VAR 0201(0000)]/[VAR 0201(0001)]
+[VAR 0102(0000)]
+That Pokémon can’t be traded.\c
+You don’t have the Pokémon needed for\nthis trade!\c
+You can’t offer an Egg in trade.\c
+You can’t trade a Pokémon that is registered\nfor a Battle Team.\c
+The Pokémon has a special item.\nYou can’t offer it for trade.\c
+Would you like to add [VAR 0100(0000)] to your\nblock list?
+You won’t be able to connect again with any\nplayer you add to your block list.\c\nAre you sure you want to block this player?\n(It’s possible to unblock the player again.)
+The other player has been added to your\nblock list. The trade will end.\c
+You’ve already added this person to your\nblock list.\c
+You couldn’t add the person to your block list.\c
+ Confirm
+Check the other Pokémon’s summary
+[~ 206]
+You can’t change this Pokémon’s held item,\nbecause it has been selected for Surprise Trade.\c
+You can’t mark this Pokémon, because it has been\nselected for Surprise Trade.\c
+You can’t release this Pokémon, because it has\nbeen selected for Surprise Trade.\c
+You can’t move this Pokémon, because it has been\nselected for Surprise Trade.\c
+You can’t register this Pokémon for a Battle Team,\nbecause it has been selected for Surprise Trade.\c
+You can’t select an Egg.\c
+You can’t select a Pokémon in a Battle Team.\c
+You can’t select this Pokémon because it has\nbeen selected for Surprise Trade.\c
+You can’t select a Pokémon in your party.\c
+You’ve selected more Pokémon than\nare allowed.\c
+You can’t select a fainted Pokémon.\c
+You can’t trade this Pokémon in Surprise Trade,\nbecause this Pokémon is special.\c
+You can’t select that Pokémon!\c
+There are no Pokémon you can select.\c
+[~ 221]
+ Back
+ Change Selection Mode
+ Change Box View
+ View Stats
+ Search
+ Reset
+ Hide
+ Select All
+ Judge
+OK stats
+Good stats
+Great stats!
+Amazing stats!
+No good
+Decent
+Pretty good
+Very good
+Fantastic
+Best
+[~ 241]
+[~ 242]
+[~ 243]
+[~ 244]
+[~ 245]
+[~ 246]
+[~ 247]
+[~ 248]
+[~ 249]
+[~ 250]
+[~ 251]
+[~ 252]
+[~ 253]
+[~ 254]
+[~ 255]
+[~ 256]
+[~ 257]
+[~ 258]
+[~ 259]
+[~ 260]
+[~ 261]
+[~ 262]
+[~ 263]
+[~ 264]
+[~ 265]
+[~ 266]
+[~ 267]
+[~ 268]
+[~ 269]
+[~ 270]
+[~ 271]
+[~ 272]
+[~ 273]
+[~ 274]
+[~ 275]
+[~ 276]
+[~ 277]
+[~ 278]
+[~ 279]
+[~ 280]
+[~ 281]
+[~ 282]
+[~ 283]
+[~ 284]
+[~ 285]
+[~ 286]
+[~ 287]
+[~ 288]
+[~ 289]
+[~ 290]
+[~ 291]
+[~ 292]
+[~ 293]
+[~ 294]
+[~ 295]
+[~ 296]
+[~ 297]
+[~ 298]
+[~ 299]
+[~ 300]
+[~ 301]
+[~ 302]
+[~ 303]
+[~ 304]
+[~ 305]
+[~ 306]
+[~ 307]
+[~ 308]
+[~ 309]
+[~ 310]
+[~ 311]
+[~ 312]
+[~ 313]
+[~ 314]
+[~ 315]
+[~ 316]
+[~ 317]
+[~ 318]
+[~ 319]
+[~ 320]
+[~ 321]
+[~ 322]
+[~ 323]
+[~ 324]
+[~ 325]
+[~ 326]
+[~ 327]
+[~ 328]
+[~ 329]
+[~ 330]
+[~ 331]
+[~ 332]
+[~ 333]
+[~ 334]
+[~ 335]
+[~ 336]
+[~ 337]
+[~ 338]
+[~ 339]
+[~ 340]
+[~ 341]
+[~ 342]
+[~ 343]
+[~ 344]
+[~ 345]
+[~ 346]
+[~ 347]
+[~ 348]
+[~ 349]
+[~ 350]
+[~ 351]
+[~ 352]
+[~ 353]
+[~ 354]
+[~ 355]
+[~ 356]
+[~ 357]
+[~ 358]
+[~ 359]
+[~ 360]
+[~ 361]
+[~ 362]
+[~ 363]
+[~ 364]
+[~ 365]
+[~ 366]
+[~ 367]
+[~ 368]
+[~ 369]
+[~ 370]
+[~ 371]
+[~ 372]
+[~ 373]
+[~ 374]
+[~ 375]
+[~ 376]
+[~ 377]
+[~ 378]
+[~ 379]
+[~ 380]
+[~ 381]
+[~ 382]
+[~ 383]
+[~ 384]
+[~ 385]
+[~ 386]
+[~ 387]
+[~ 388]
+[~ 389]
+[~ 390]
+[~ 391]
+[~ 392]
+[~ 393]
+[~ 394]
+[~ 395]
+[~ 396]
+[~ 397]
+[~ 398]
+[~ 399]
+[~ 400]
+[~ 401]
+[~ 402]
+[~ 403]
+[~ 404]
+[~ 405]
+[~ 406]
+[~ 407]
+[~ 408]
+[~ 409]
+[~ 410]
+[~ 411]
+[~ 412]
+[~ 413]
+[~ 414]
+[~ 415]
+[~ 416]
+[~ 417]
+[~ 418]
+[~ 419]
+[~ 420]
+[~ 421]
+[~ 422]
+[~ 423]
+[~ 424]
+[~ 425]
+[~ 426]
+[~ 427]
+[~ 428]
+[~ 429]
+[~ 430]
+[~ 431]
+[~ 432]
+[~ 433]
+[~ 434]
+[~ 435]
+[~ 436]
+[~ 437]
+[~ 438]
+[~ 439]
+[~ 440]
+[~ 441]
+[~ 442]
+[~ 443]
+[~ 444]
+[~ 445]
+[~ 446]
+[~ 447]
+[~ 448]
+[~ 449]
+[~ 450]
+[~ 451]
+[~ 452]
+[~ 453]
+[~ 454]
+[~ 455]
+[~ 456]
+[~ 457]
+[~ 458]
+[~ 459]
+[~ 460]
+[~ 461]
+[~ 462]
+[~ 463]
+[~ 464]
+[~ 465]
+[~ 466]
+[~ 467]
+[~ 468]
+[~ 469]
+[~ 470]
+[~ 471]
+[~ 472]
+[~ 473]
+[~ 474]
+[~ 475]
+[~ 476]
+[~ 477]
+[~ 478]
+[~ 479]
+[~ 480]
+[~ 481]
+[~ 482]
+[~ 483]
+[~ 484]
+[~ 485]
+[~ 486]
+[~ 487]
+[~ 488]
+[~ 489]
+[~ 490]
+[~ 491]
+[~ 492]
+[~ 493]
+[~ 494]
+[~ 495]
+[~ 496]
+[~ 497]
+[~ 498]
+[~ 499]
+[~ 500]
+[~ 501]
+[~ 502]
+[~ 503]
+[~ 504]
+[~ 505]
+[~ 506]
+[~ 507]
+[~ 508]
+[~ 509]
+[~ 510]
+[~ 511]
+[~ 512]
+[~ 513]
+[~ 514]
+[~ 515]
+[~ 516]
+[~ 517]
+[~ 518]
+[~ 519]
+[~ 520]
+[~ 521]
+[~ 522]
+[~ 523]
+[~ 524]
+[~ 525]
+[~ 526]
+[~ 527]
+[~ 528]
+[~ 529]
+[~ 530]
+[~ 531]
+[~ 532]
+[~ 533]
+[~ 534]
+[~ 535]
+[~ 536]
+[~ 537]
+[~ 538]
+[~ 539]
+[~ 540]
+[~ 541]
+[~ 542]
+[~ 543]
+[~ 544]
+[~ 545]
+[~ 546]
+[~ 547]
+[~ 548]
+[~ 549]
+[~ 550]
+[~ 551]
+[~ 552]
+[~ 553]
+[~ 554]
+[~ 555]
+[~ 556]
+[~ 557]
+[~ 558]
+[~ 559]
+[~ 560]
+[~ 561]
+[~ 562]
+[~ 563]
+[~ 564]
+[~ 565]
+[~ 566]
+[~ 567]
+[~ 568]
+[~ 569]
+[~ 570]
+[~ 571]
+[~ 572]
+[~ 573]
+[~ 574]
+[~ 575]
+[~ 576]
+[~ 577]
+[~ 578]
+[~ 579]
+Hyper trained!
+[~ 581]
+[~ 582]
