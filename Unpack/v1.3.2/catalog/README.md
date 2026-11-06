@@ -33,3 +33,9 @@
 - `weather_bleed_casebook_summary.json`：验证聚合统计、SHA-256 与原始构建版本证据。
 
 运行：`python scripts/swsh_bleed_casebook.py --repo .`。GDB 断点录制器：`scripts/swsh_weather_gdb_capture.py`；回读/审计：`scripts/swsh_weather_validate_runtime.py`。pkNX 的 `IsWeatherBleedPossible` 是导出器逻辑，不是游戏二进制中经确认的逻辑。禁止将 CI 结果标为游戏实测。
+
+## v1.3.2 原生遭遇函数候选
+
+- `nso_native_encounter_anchors.csv`：上游 `lincoln-lm/swsh-mods-exl` 的剑/盾 1.3.2 原生 Hook 点，结合原始剑盾 NSO TEXT 解压校验；函数入口、指令字节、BuildID、模块 SHA-256 分开保留。
+- `nso_native_encounter_anchors_summary.json`：已匹配来源版本、原始模块及唯一独立锚点；**不包含已经证实的天气允许/拒绝分支**。
+- 执行：`python scripts/swsh_native_encounter_anchors.py --repo .`，源码依据固定在上游 `61dc6d8df4347c0fd3a30373a117502e9dfdce80`；Obsidian 技术手册 `26-原生遭遇函数GDB断点.md`。
