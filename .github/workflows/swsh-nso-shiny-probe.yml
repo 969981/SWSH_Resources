@@ -1,0 +1,63 @@
+name: SWSH v1.3.2 original NSO shiny-reroll static anchor probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/swsh_nso_shiny_probe.py
+      - .github/workflows/swsh-nso-shiny-probe.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swsh-shiny-probe-master
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_nso_shiny_probe.py
+            /v1.3.2/0/sword_main
+            /v1.3.2/0/shield_main
+            /Unpack/v1.3.2/catalog/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify compressed NSO segments and find pkNX code anchor
+        run: |
+          set -euo pipefail
+          python -m py_compile scripts/swsh_nso_shiny_probe.py
+          python scripts/swsh_nso_shiny_probe.py --repo . --out Unpack/v1.3.2/catalog
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('Unpack/v1.3.2/catalog/nso_shiny_probe.json')
+          d=json.loads(p.read_text())
+          assert {x['game'] for x in d['results']}=={'sword','shield'}
+          assert all(x['text_size']>0 and len(x['main_sha256'])==64 for x in d['results'])
+          print([(x['game'],x['status'],x['anchor_matches'],
+                  x['text_header_sha256_matches']) for x in d['results']])
+          PY
+      - name: Publish evidence only
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/nso_shiny_probe.json Unpack/v1.3.2/catalog/nso_shiny_candidates.csv
+          if git diff --cached --quiet; then
+            echo "No new evidence"
+          else
+            git commit -m 'research(swsh): static shiny reroll RVA candidates from original NSOs [skip ci]'
+            git push origin HEAD:master
+          fi
