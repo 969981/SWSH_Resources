@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] vous rend visite sur votre campement\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Cuisiner"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Inviter \u00E0 cuisiner"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Participer \u00E0 la cuisine"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Cuisiner"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Voir les ingr\u00E9dients"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Consulter le Currydex"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Participer"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Envoi des invitations en cours..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "La cuisine va bient\u00F4t commencer.\\nVeuillez patienter."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Commencer \u00E0 cuisiner avec ces joueurs\u202F?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] vous a invit\u00E9[VAR 1100(00FF,0100)]e \u00E0 cuisiner\u202F!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Cuisiner en utilisant vos ingr\u00E9dients et vos Baies."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Inviter des joueurs \u00E0 cuisiner avec vous."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Voir les ingr\u00E9dients et les Baies\\nen votre possession."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Consulter la liste des recettes d\u00E9j\u00E0 r\u00E9alis\u00E9es."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Retourner au menu principal du campement."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Rejoindre [VAR 0100(0000)] pour cuisiner."
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Informer les autres joueurs que vous souhaitez\\n\u00EAtre invit\u00E9[VAR 1100(00FF,0100)]e \u00E0 cuisiner."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Que voulez-vous faire\u202F?"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Annuler votre participation \u00E0 la cuisine\u202F?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "\u00C0 vos casseroles\u202F!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Vous ne pouvez pas cuisiner sans Baie...\\nSecouez les arbres \u00E0 Baies pour en obtenir\u202F!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Voulez-vous informer les autres joueurs\\nde votre envie de cuisiner\u202F?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Votre message a \u00E9t\u00E9 envoy\u00E9 aux autres joueurs\u202F!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "L\u2019invitation a \u00E9t\u00E9 annul\u00E9e."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] recherche des joueurs\\navec lesquels cuisiner\u202F!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "La cuisine a d\u00E9j\u00E0 commenc\u00E9."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Voulez-vous cuisiner avec [VAR 0100(0000)]\u202F?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Voulez-vous annuler la recherche de joueurs\\navec lesquels cuisiner\u202F?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Invitation en cours..."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 01CF(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Vous obtenez [VAR 0206(0000,202F)] Point[VAR 1101(0000,0100)]s d\u2019Exp\u00E9rience\u202F!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "La moiti\u00E9 des PV a \u00E9t\u00E9 restaur\u00E9e\u202F!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Tous les PV ont \u00E9t\u00E9 restaur\u00E9s et les alt\u00E9rations de statut ont \u00E9t\u00E9 soign\u00E9es\u202F!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Tous les PV et PP ont \u00E9t\u00E9 restaur\u00E9s et les alt\u00E9rations de statut ont \u00E9t\u00E9 soign\u00E9es\u202F!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe s\u2019est un peu attach\u00E9[VAR 1101(00FD,0100)]e \u00E0 vous\u202F!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe s\u2019est bien attach\u00E9[VAR 1101(00FD,0100)]e \u00E0 vous\u202F!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe s\u2019est beaucoup attach\u00E9[VAR 1101(00FD,0100)]e \u00E0 vous\u202F!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe a obtenu quelques Points d\u2019Exp\u00E9rience\u202F!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe a obtenu des Points d\u2019Exp\u00E9rience\u202F!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Votre [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe a obtenu beaucoup de Points d\u2019Exp\u00E9rience\u202F!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] est devenu un peu plus amical envers vous\u202F!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont devenus un peu plus amicaux envers vous\u202F!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] est devenu plus amical envers vous\u202F!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont devenus plus amicaux envers vous\u202F!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] est devenu beaucoup plus amical envers vous\u202F!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Vos Pok\u00E9mon sont devenus beaucoup plus amicaux envers vous\u202F!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Restaure quelques PV."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "N\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Description du curry"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] [VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)].\\n\\nCuisin\u00E9 [VAR 0202(0006)] fois en tout."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] [VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)].\\n\\nCuisin\u00E9 [VAR 0202(0006)] fois en tout."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] [VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)]."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] et d\u2019autres Pok\u00E9mon\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)]."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] et d\u2019autres Pok\u00E9mon\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)].\\n\\nCuisin\u00E9 [VAR 0202(0006)] fois en tout."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "D\u00E9gust\u00E9 pour la premi\u00E8re fois le [VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)]\\navec [VAR 0102(0004)] et d\u2019autres Pok\u00E9mon\\n[VAR FF00(0002)][VAR 01D3(0003)][VAR FF00(0000)].\\n\\nCuisin\u00E9 [VAR 0202(0006)] fois en tout."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "\u00C9valuation"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Vide"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Nombre de currys diff\u00E9rents cuisin\u00E9s : [VAR 0202(0000)]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Ingr\u00E9dients"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Encore [VAR 0201(0000)] seconde[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Quelle Baie voulez-vous ajouter\u202F?"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Quel ingr\u00E9dient voulez-vous ajouter\u202F?"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "En attente de la d\u00E9cision des autres joueurs..."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Combien [VAR 1408(0000,0000)][VAR 1001][VAR 010A(0000)]\\nvoulez-vous ajouter\u202F?"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Ajouter [VAR 0201(0001)] [VAR 010A(0000)]\u202F?"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Ajouter [VAR 1402(0000,0000)][VAR 010A(0000)]\u202F?"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Annuler la pr\u00E9paration\u202F?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Ranger les Baies s\u00E9lectionn\u00E9es dans votre Sac\u202F?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Commencer \u00E0 cuisiner sans ingr\u00E9dient sp\u00E9cial\u202F?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Commencer \u00E0 cuisiner avec les Baies\\ns\u00E9lectionn\u00E9es\u202F?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "La connexion a \u00E9t\u00E9 interrompue.\\nRetour au campement."
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "S\u00E9lectionner"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": " Annuler la pr\u00E9paration"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": " Ranger les Baies"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": " Annuler la s\u00E9lection"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": " Ingr\u00E9dients"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": " Pr\u00EAt"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": " Baies"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": " Ne pas ajouter"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": " Changer l\u2019affichage"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": " Changer la taille"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": " Trier"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": " Favoris"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Ne pas ajouter"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Pr\u00EAt"
+  }
+]

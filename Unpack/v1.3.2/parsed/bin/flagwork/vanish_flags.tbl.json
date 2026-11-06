@@ -1,0 +1,542 @@
+[
+  {
+    "index": 0,
+    "hash": "9E4D0F65D43C38B5",
+    "name": "FV_10ROM_SYMBOLPOKEMON"
+  },
+  {
+    "index": 1,
+    "hash": "13A35AE3F6B21FD6",
+    "name": "FV_COMMON_VERSION_K_SPAWN"
+  },
+  {
+    "index": 2,
+    "hash": "55E2A3B1D047417F",
+    "name": "FV_COMMON_VERSION_T_SPAWN"
+  },
+  {
+    "index": 3,
+    "hash": "F58BEA5B254ADD3B",
+    "name": "FV_COMMON_GAMECLEAR_SPAWN"
+  },
+  {
+    "index": 4,
+    "hash": "C023A270534D778F",
+    "name": "FV_COMMON_GAMECLEAR_DELETE"
+  },
+  {
+    "index": 5,
+    "hash": "D7870F74DD7A36BB",
+    "name": "FV_COMMON_GAMECLEAR_DELETE_VK"
+  },
+  {
+    "index": 6,
+    "hash": "D786FC74DD7A1672",
+    "name": "FV_COMMON_GAMECLEAR_DELETE_VT"
+  },
+  {
+    "index": 7,
+    "hash": "776E0C297D11CBEA",
+    "name": "FV_ZONECHANGE_C0306_TO_C0301_I0201"
+  },
+  {
+    "index": 8,
+    "hash": "BB61CFBFF6865E16",
+    "name": "FV_ZONECHANGE_C0306_TO_BT0101"
+  },
+  {
+    "index": 9,
+    "hash": "442DDF04059FAB30",
+    "name": "FV_ZONECHANGE_T0801"
+  },
+  {
+    "index": 10,
+    "hash": "682D3494A9D8D213",
+    "name": "FV_POKECEN_NEWS"
+  },
+  {
+    "index": 11,
+    "hash": "4C5A1E411DAA8456",
+    "name": "FV_POKECEN_RANKING"
+  },
+  {
+    "index": 12,
+    "hash": "F323771F1ECCC8B6",
+    "name": "FV_C02_CASTLEHEAD_NORMAL"
+  },
+  {
+    "index": 13,
+    "hash": "8C6E3F01F789D6EC",
+    "name": "FV_C02_CASTLEHEAD_BROKEN"
+  },
+  {
+    "index": 14,
+    "hash": "F2F476C3FD235453",
+    "name": "FV_CROSS_SHADOW_NPC"
+  },
+  {
+    "index": 15,
+    "hash": "BB0B73766AC04635",
+    "name": "FV_ZONECHANGE_WR0201_I0101"
+  },
+  {
+    "index": 16,
+    "hash": "3A37084D177F9116",
+    "name": "FV_ZONECHANGE_WR0201_I0201_01"
+  },
+  {
+    "index": 17,
+    "hash": "3A37074D177F8F63",
+    "name": "FV_ZONECHANGE_WR0201_I0201_02"
+  },
+  {
+    "index": 18,
+    "hash": "34D346DA23D54393",
+    "name": "FV_ZONECHANGE_WR0201_I0301_01"
+  },
+  {
+    "index": 19,
+    "hash": "34D347DA23D54546",
+    "name": "FV_ZONECHANGE_WR0201_I0301_02"
+  },
+  {
+    "index": 20,
+    "hash": "9211085C1B072DBF",
+    "name": "FV_R1_YOROIJIMA_YARO_01"
+  },
+  {
+    "index": 21,
+    "hash": "9211095C1B072F72",
+    "name": "FV_R1_YOROIJIMA_YARO_02"
+  },
+  {
+    "index": 22,
+    "hash": "92110A5C1B073125",
+    "name": "FV_R1_YOROIJIMA_YARO_03"
+  },
+  {
+    "index": 23,
+    "hash": "9211035C1B072540",
+    "name": "FV_R1_YOROIJIMA_YARO_04"
+  },
+  {
+    "index": 24,
+    "hash": "9211045C1B0726F3",
+    "name": "FV_R1_YOROIJIMA_YARO_05"
+  },
+  {
+    "index": 25,
+    "hash": "9211055C1B0728A6",
+    "name": "FV_R1_YOROIJIMA_YARO_06"
+  },
+  {
+    "index": 26,
+    "hash": "9211065C1B072A59",
+    "name": "FV_R1_YOROIJIMA_YARO_07"
+  },
+  {
+    "index": 27,
+    "hash": "C2B7DC729203967B",
+    "name": "FV_R1_YOROIJIMA_RURINA_01"
+  },
+  {
+    "index": 28,
+    "hash": "C2B7DD729203982E",
+    "name": "FV_R1_YOROIJIMA_RURINA_02"
+  },
+  {
+    "index": 29,
+    "hash": "C2B7DE72920399E1",
+    "name": "FV_R1_YOROIJIMA_RURINA_03"
+  },
+  {
+    "index": 30,
+    "hash": "C2B7DF7292039B94",
+    "name": "FV_R1_YOROIJIMA_RURINA_04"
+  },
+  {
+    "index": 31,
+    "hash": "C2B7E07292039D47",
+    "name": "FV_R1_YOROIJIMA_RURINA_05"
+  },
+  {
+    "index": 32,
+    "hash": "C2B7E17292039EFA",
+    "name": "FV_R1_YOROIJIMA_RURINA_06"
+  },
+  {
+    "index": 33,
+    "hash": "C2B7E2729203A0AD",
+    "name": "FV_R1_YOROIJIMA_RURINA_07"
+  },
+  {
+    "index": 34,
+    "hash": "2A1080970117A117",
+    "name": "FV_R1_YOROIJIMA_KABU_01"
+  },
+  {
+    "index": 35,
+    "hash": "2A1081970117A2CA",
+    "name": "FV_R1_YOROIJIMA_KABU_02"
+  },
+  {
+    "index": 36,
+    "hash": "2A1082970117A47D",
+    "name": "FV_R1_YOROIJIMA_KABU_03"
+  },
+  {
+    "index": 37,
+    "hash": "2A107B9701179898",
+    "name": "FV_R1_YOROIJIMA_KABU_04"
+  },
+  {
+    "index": 38,
+    "hash": "2A107C9701179A4B",
+    "name": "FV_R1_YOROIJIMA_KABU_05"
+  },
+  {
+    "index": 39,
+    "hash": "2A107D9701179BFE",
+    "name": "FV_R1_YOROIJIMA_KABU_06"
+  },
+  {
+    "index": 40,
+    "hash": "2A107E9701179DB1",
+    "name": "FV_R1_YOROIJIMA_KABU_07"
+  },
+  {
+    "index": 41,
+    "hash": "E94B30E699E5DFFE",
+    "name": "FV_R1_YOROIJIMA_SAITO_01"
+  },
+  {
+    "index": 42,
+    "hash": "E94B2FE699E5DE4B",
+    "name": "FV_R1_YOROIJIMA_SAITO_02"
+  },
+  {
+    "index": 43,
+    "hash": "E94B2EE699E5DC98",
+    "name": "FV_R1_YOROIJIMA_SAITO_03"
+  },
+  {
+    "index": 44,
+    "hash": "E94B35E699E5E87D",
+    "name": "FV_R1_YOROIJIMA_SAITO_04"
+  },
+  {
+    "index": 45,
+    "hash": "E94B34E699E5E6CA",
+    "name": "FV_R1_YOROIJIMA_SAITO_05"
+  },
+  {
+    "index": 46,
+    "hash": "E94B33E699E5E517",
+    "name": "FV_R1_YOROIJIMA_SAITO_06"
+  },
+  {
+    "index": 47,
+    "hash": "E94B32E699E5E364",
+    "name": "FV_R1_YOROIJIMA_SAITO_07"
+  },
+  {
+    "index": 48,
+    "hash": "7F081CC7996776E3",
+    "name": "FV_R1_YOROIJIMA_ONION_01"
+  },
+  {
+    "index": 49,
+    "hash": "7F081DC799677896",
+    "name": "FV_R1_YOROIJIMA_ONION_02"
+  },
+  {
+    "index": 50,
+    "hash": "7F081EC799677A49",
+    "name": "FV_R1_YOROIJIMA_ONION_03"
+  },
+  {
+    "index": 51,
+    "hash": "7F081FC799677BFC",
+    "name": "FV_R1_YOROIJIMA_ONION_04"
+  },
+  {
+    "index": 52,
+    "hash": "7F0820C799677DAF",
+    "name": "FV_R1_YOROIJIMA_ONION_05"
+  },
+  {
+    "index": 53,
+    "hash": "7F0821C799677F62",
+    "name": "FV_R1_YOROIJIMA_ONION_06"
+  },
+  {
+    "index": 54,
+    "hash": "7F0822C799678115",
+    "name": "FV_R1_YOROIJIMA_ONION_07"
+  },
+  {
+    "index": 55,
+    "hash": "53D36AB93E141508",
+    "name": "FV_R1_YOROIJIMA_BEET_01"
+  },
+  {
+    "index": 56,
+    "hash": "53D36DB93E141A21",
+    "name": "FV_R1_YOROIJIMA_BEET_02"
+  },
+  {
+    "index": 57,
+    "hash": "53D36CB93E14186E",
+    "name": "FV_R1_YOROIJIMA_BEET_03"
+  },
+  {
+    "index": 58,
+    "hash": "53D36FB93E141D87",
+    "name": "FV_R1_YOROIJIMA_BEET_04"
+  },
+  {
+    "index": 59,
+    "hash": "53D36EB93E141BD4",
+    "name": "FV_R1_YOROIJIMA_BEET_05"
+  },
+  {
+    "index": 60,
+    "hash": "53D371B93E1420ED",
+    "name": "FV_R1_YOROIJIMA_BEET_06"
+  },
+  {
+    "index": 61,
+    "hash": "53D370B93E141F3A",
+    "name": "FV_R1_YOROIJIMA_BEET_07"
+  },
+  {
+    "index": 62,
+    "hash": "18C23B9ECAC86FD6",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_01"
+  },
+  {
+    "index": 63,
+    "hash": "18C23A9ECAC86E23",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_02"
+  },
+  {
+    "index": 64,
+    "hash": "18C2399ECAC86C70",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_03"
+  },
+  {
+    "index": 65,
+    "hash": "18C2409ECAC87855",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_04"
+  },
+  {
+    "index": 66,
+    "hash": "18C23F9ECAC876A2",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_05"
+  },
+  {
+    "index": 67,
+    "hash": "18C23E9ECAC874EF",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_06"
+  },
+  {
+    "index": 68,
+    "hash": "18C23D9ECAC8733C",
+    "name": "FV_R1_YOROIJIMA_MAKUWA_07"
+  },
+  {
+    "index": 69,
+    "hash": "2477E3C602EF1361",
+    "name": "FV_R1_YOROIJIMA_MELON_01"
+  },
+  {
+    "index": 70,
+    "hash": "2477E0C602EF0E48",
+    "name": "FV_R1_YOROIJIMA_MELON_02"
+  },
+  {
+    "index": 71,
+    "hash": "2477E1C602EF0FFB",
+    "name": "FV_R1_YOROIJIMA_MELON_03"
+  },
+  {
+    "index": 72,
+    "hash": "2477E6C602EF187A",
+    "name": "FV_R1_YOROIJIMA_MELON_04"
+  },
+  {
+    "index": 73,
+    "hash": "2477E7C602EF1A2D",
+    "name": "FV_R1_YOROIJIMA_MELON_05"
+  },
+  {
+    "index": 74,
+    "hash": "2477E4C602EF1514",
+    "name": "FV_R1_YOROIJIMA_MELON_06"
+  },
+  {
+    "index": 75,
+    "hash": "2477E5C602EF16C7",
+    "name": "FV_R1_YOROIJIMA_MELON_07"
+  },
+  {
+    "index": 76,
+    "hash": "EC23D89610548EDD",
+    "name": "FV_R1_YOROIJIMA_MARI_01"
+  },
+  {
+    "index": 77,
+    "hash": "EC23D596105489C4",
+    "name": "FV_R1_YOROIJIMA_MARI_02"
+  },
+  {
+    "index": 78,
+    "hash": "EC23D69610548B77",
+    "name": "FV_R1_YOROIJIMA_MARI_03"
+  },
+  {
+    "index": 79,
+    "hash": "EC23D3961054865E",
+    "name": "FV_R1_YOROIJIMA_MARI_04"
+  },
+  {
+    "index": 80,
+    "hash": "EC23D49610548811",
+    "name": "FV_R1_YOROIJIMA_MARI_05"
+  },
+  {
+    "index": 81,
+    "hash": "EC23D196105482F8",
+    "name": "FV_R1_YOROIJIMA_MARI_06"
+  },
+  {
+    "index": 82,
+    "hash": "EC23D296105484AB",
+    "name": "FV_R1_YOROIJIMA_MARI_07"
+  },
+  {
+    "index": 83,
+    "hash": "4CFA454EF5479EC4",
+    "name": "FV_R1_YOROIJIMA_NEZU_01"
+  },
+  {
+    "index": 84,
+    "hash": "4CFA484EF547A3DD",
+    "name": "FV_R1_YOROIJIMA_NEZU_02"
+  },
+  {
+    "index": 85,
+    "hash": "4CFA474EF547A22A",
+    "name": "FV_R1_YOROIJIMA_NEZU_03"
+  },
+  {
+    "index": 86,
+    "hash": "4CFA424EF54799AB",
+    "name": "FV_R1_YOROIJIMA_NEZU_04"
+  },
+  {
+    "index": 87,
+    "hash": "4CFA414EF54797F8",
+    "name": "FV_R1_YOROIJIMA_NEZU_05"
+  },
+  {
+    "index": 88,
+    "hash": "4CFA444EF5479D11",
+    "name": "FV_R1_YOROIJIMA_NEZU_06"
+  },
+  {
+    "index": 89,
+    "hash": "4CFA434EF5479B5E",
+    "name": "FV_R1_YOROIJIMA_NEZU_07"
+  },
+  {
+    "index": 90,
+    "hash": "554B1079C0AFC948",
+    "name": "FV_R1_YOROIJIMA_KIBANA_01"
+  },
+  {
+    "index": 91,
+    "hash": "554B1379C0AFCE61",
+    "name": "FV_R1_YOROIJIMA_KIBANA_02"
+  },
+  {
+    "index": 92,
+    "hash": "554B1279C0AFCCAE",
+    "name": "FV_R1_YOROIJIMA_KIBANA_03"
+  },
+  {
+    "index": 93,
+    "hash": "554B1579C0AFD1C7",
+    "name": "FV_R1_YOROIJIMA_KIBANA_04"
+  },
+  {
+    "index": 94,
+    "hash": "554B1479C0AFD014",
+    "name": "FV_R1_YOROIJIMA_KIBANA_05"
+  },
+  {
+    "index": 95,
+    "hash": "554B1779C0AFD52D",
+    "name": "FV_R1_YOROIJIMA_KIBANA_06"
+  },
+  {
+    "index": 96,
+    "hash": "554B1679C0AFD37A",
+    "name": "FV_R1_YOROIJIMA_KIBANA_07"
+  },
+  {
+    "index": 97,
+    "hash": "DC6710A087D5B045",
+    "name": "FV_R1_YOROIJIMA_HOP_01"
+  },
+  {
+    "index": 98,
+    "hash": "DC670DA087D5AB2C",
+    "name": "FV_R1_YOROIJIMA_HOP_02"
+  },
+  {
+    "index": 99,
+    "hash": "DC670EA087D5ACDF",
+    "name": "FV_R1_YOROIJIMA_HOP_03"
+  },
+  {
+    "index": 100,
+    "hash": "DC670BA087D5A7C6",
+    "name": "FV_R1_YOROIJIMA_HOP_04"
+  },
+  {
+    "index": 101,
+    "hash": "DC670CA087D5A979",
+    "name": "FV_R1_YOROIJIMA_HOP_05"
+  },
+  {
+    "index": 102,
+    "hash": "DC6709A087D5A460",
+    "name": "FV_R1_YOROIJIMA_HOP_06"
+  },
+  {
+    "index": 103,
+    "hash": "DC670AA087D5A613",
+    "name": "FV_R1_YOROIJIMA_HOP_07"
+  },
+  {
+    "index": 104,
+    "hash": "90C4D82C5A45DDF1",
+    "name": "FV_R2_GDM_POSTER"
+  },
+  {
+    "index": 105,
+    "hash": "92BF0B93FA271822",
+    "name": "FV_ZONECHANGE_WR0301_I0101"
+  },
+  {
+    "index": 106,
+    "hash": "087CB6B64697855F",
+    "name": "FV_ZONECHANGE_REDENREDRA"
+  },
+  {
+    "index": 107,
+    "hash": "8C1D3E0149572836",
+    "name": "FV_COMMON_GAMECLEAR_SPAWN_GST"
+  }
+]

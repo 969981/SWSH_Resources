@@ -1,0 +1,342 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ciao, [VAR 0100(0000)]!\\nBentornat[VAR 1100(00FF,0101)]oa![VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Mi dicono che ti stai dando da fare\\ncon gli allenamenti qui al dojo![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Hop?! Che ci fai qui?!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Ah, sei tu, Hop..."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Eheheh, proprio la reazione che mi aspettavo,\\n[VAR 0100(0000)]![VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ma come? Potresti anche mostrare un po\u2019 pi\u00F9\\nd\u2019entusiasmo![VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mi fermo qui sull\u2019Isola dell\u2019Armatura per un po\u2019\\nper indagare sul Dynamax.[VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ih ih ih... Ma siete proprio amicicci voi due![VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Hop \u00E8 venuto a chiedere il permesso\\ndi campeggiare sull\u2019Isola dell\u2019Armatura.\\c\\nMa \u00E8 troppo uno sbatti, cos\u00EC gli stavo\\ndicendo che pu\u00F2 fermarsi qui al dojo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Sarebbe il massimo per me, ma non vorrei\\ndisturbare...[VAR 0114(0005)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Tranqui, qui al Dojo Master sono tutti benvenuti![VAR 0114(0073)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "E poi sei il fratello del mitico Dandel,\\nper noi sei uno di famiglia![VAR 0114(0073)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Effettivamente... Anche mio fratello da piccolo\\n\u00E8 stato in questo dojo...[VAR 0114(0005)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Va bene, signor Mustard! Star\u00F2 da voi per un po\u2019![VAR 0114(0005)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Bella l\u00EC! Festaaa! Pi\u00F9 siamo, meglio \u00E8![VAR 0114(0073)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "A proposito, [VAR 0100(0000)]...[VAR 0114(0073)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Ho qualche info da darti su Urshifu, l\u2019evoluzione\\ndi Kubfu.[VAR 0114(0073)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "In teoria, Urshifu c\u2019ha il potenziale giusto\\nper un Gigamax da paura.[VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Il problema \u00E8 che non sopporta la Zuppamax,\\nperch\u00E9 i Funghimax non li pu\u00F2 vedere neanche\\r\\ncon il telescopio...[VAR 0114(0073)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Per fargliela bere, bisogna aggiungere\\n[VAR FF00(0006)]una cosetta[VAR FF00(0000)] che si pu\u00F2 raccogliere\\r\\nsull\u2019Isola dell\u2019Armatura...[VAR 0114(0073)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "E [VAR FF00(0006)]quella cosetta[VAR FF00(0000)] \u00E8...[VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Quella cosetta \u00E8...??[VAR 0114(0005)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Quella cosetta \u00E8...[VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "\u00C8...?[VAR 0114(0005)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Non me lo ricordo pi\u00F9! Ih ih![VAR 0114(0073)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Cosaaa?! \u00C8 uno scherzo, vero?![VAR 0114(0005)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Ih ih ih... Sei un simpa, pi\u00F9 di Dandel![VAR 0114(0073)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR FF00(0006)]Quella cosa[VAR FF00(0000)] che rende la Zuppamax appena\\nappena tollerabile per Urshifu...\\c\\nHa a che fare con un Pok\u00E9mon![VAR 0114(0073)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Gi\u00E0 che ci siete, potete mettervi a cercarla\\ninsieme.[VAR 0114(0073)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Capito, no? Beh, io mi schiodo! Ci si![VAR 0114(0073)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Sarebbero questi gli allenamenti che vi fanno\\nfare qua?[VAR 0114(0005)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Non so bene di cosa stava parlando, ma adesso\\nsono curioso di sapere cos\u2019\u00E8 [VAR FF00(0006)]quella cosa[VAR FF00(0000)]![VAR 0114(0005)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Comunque, mi sembra di aver letto qualcosa\\nsu Urshifu in un libro...[VAR 0114(0005)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Dovrebbe essere il Pok\u00E9mon Kung Fu\\nche vive sui monti di una regione lontana.[VAR 0114(0005)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Davvero?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Ma quante cose sai, Hop!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Ma come, non lo sai?\\nNon \u00E8 uno dei tuoi Pok\u00E9mon?[VAR 0114(0005)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "\u00C8 solo un caso! Ultimamente mi sto informando\\nsui Pok\u00E9mon delle altre regioni.[VAR 0114(0005)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Mi sembra di ricordare che Urshifu vada matto\\nper un [VAR FF00(0006)]nettare molto appiccicoso[VAR FF00(0000)]...[VAR 0114(0005)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]! Chi produce il nettare?\\nLe piante!\\c\\nE le piante dove si trovano?\\nNei boschi![VAR 0114(0005)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Ti do una mano a cercarlo, pu\u00F2 anche tornarmi\\nutile per le mie ricerche sul Dynamax![VAR 0114(0005)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Facciamo a gara a chi arriva prima al bosco\\noltre l\u2019acquitrino![VAR 0114(0005)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[~ 45]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[~ 46]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[~ 54]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[~ 55]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[~ 57]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Ih ih ih... Quel pischellino di Hop si \u00E8 fiondato\\nnel bosco.\\c\\nChiss\u00E0 se trover\u00E0 [VAR FF00(0006)]quella cosa[VAR FF00(0000)]...[VAR 0114(0073)]"
+  }
+]

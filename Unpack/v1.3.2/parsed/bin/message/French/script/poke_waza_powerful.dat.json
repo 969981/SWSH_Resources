@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Seuls certains Pok\u00E9mon peuvent apprendre\\nles capacit\u00E9s ultimes que j\u2019enseigne.\\r\\n\u00C7a t\u2019int\u00E9resse\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Pas de probl\u00E8me, c\u2019est ton choix\u202F!\\nSi tu changes d\u2019avis, reviens me voir."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "C\u2019est dommage, tu n\u2019as pas de Pok\u00E9mon\\npouvant apprendre ces capacit\u00E9s\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "\u00C0 qui veux-tu en enseigner une\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Visiblement, [VAR 0102(0001)] ne peut pas\\nles apprendre..."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un \u0152uf...\\nTu veux que j\u2019enseigne ma capacit\u00E9 \u00E0... un \u0152uf\u202F?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mais... [VAR 0102(0001)] a d\u00E9j\u00E0 appris\\ncette capacit\u00E9 ultime."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quelle capacit\u00E9 doit \u00EAtre oubli\u00E9e\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Les capacit\u00E9s ultimes...\\c\\nElles sont d\u00E9vastatrices, mais ont un inconv\u00E9nient\\napr\u00E8s les avoir utilis\u00E9es...\\c\\nIl faut savoir choisir le bon moment\\npour s\u2019en servir\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Je m\u2019ennuie tellement que j\u2019ai d\u00E9cid\u00E9 de\\nconsacrer le reste de ma vie \u00E0 partager mon savoir\\r\\navec les djeunz qui croisent mon chemin.\\c\\nSouhaites-tu que j\u2019enseigne mes capacit\u00E9s\\nultimes \u00E0 tes Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Veux-tu que j\u2019enseigne une capacit\u00E9 ultime\\n\u00E0 ton Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "J\u2019ai bien peur qu\u2019aucun de tes Pok\u00E9mon\\nne puisse apprendre mes capacit\u00E9s.\\c\\nConsulte donc la liste des Pok\u00E9mon aptes\\n\u00E0 recevoir mes enseignements."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "N\u2019h\u00E9site pas \u00E0 revenir me voir, j\u2019aime donner\\nun coup de pouce aux djeunz comme toi\u202F!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Tr\u00E8s bien. Lequel de tes compagnons\\nva b\u00E9n\u00E9ficier de mon savoir\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Je sais que tu es un djeunz mais tu devrais savoir\\nque ce Pok\u00E9mon ne peut pas apprendre\\r\\nmes capacit\u00E9s.\\c\\nConsulte donc la liste des Pok\u00E9mon aptes\\n\u00E0 recevoir mes enseignements."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Mais enfin\u202F! Tout le monde sait que les \u0152ufs\\nne peuvent rien apprendre\u202F!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Les djeunz ne sont pas assez proches de leurs\\nPok\u00E9mon, c\u2019est ce que je dis toujours.\\c\\nTu dois renforcer tes liens avec ton prot\u00E9g\u00E9\\nsi tu veux qu\u2019il re\u00E7oive mon enseignement."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Ne me dis pas que tu ne sais pas que ton Pok\u00E9mon\\nconna\u00EEt d\u00E9j\u00E0 cette capacit\u00E9\u202F!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Veux-tu que j\u2019enseigne [VAR 0107(0001)]\\n\u00E0 [VAR 0101(0000)]\u202F?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Voici la liste des Pok\u00E9mon aptes \u00E0 apprendre\\nles capacit\u00E9s ultimes.\\c\\n- Pok\u00E9mon Feu : Dracaufeu, Typhlosion,\\nBras\u00E9gali, Simiabraz, Roitiflam, Goupelin,\\nF\u00E9linferno\\c\\n- Pok\u00E9mon Eau : Tortank, Aligatueur, Laggron,\\nPingol\u00E9on, Clamiral, Amphinobi, Oratoria\\c\\n- Pok\u00E9mon Plante : Florizarre, M\u00E9ganium,\\nJungko, Torterra, Majaspic, Blind\u00E9pique,\\nArch\u00E9duc"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Choisissez une capacit\u00E9 \u00E0 oublier pour faire\\nplace \u00E0 [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)]."
+  }
+]

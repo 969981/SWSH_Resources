@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Tous"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Retirer de la liste"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Annuler"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Voulez-vous ajouter [VAR 0100(0000)]\\n\u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Qui voulez-vous ajouter \u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Voulez-vous ajouter quelqu\u2019un d\u2019autre\u202F?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Vous ne pourrez plus jouer en r\u00E9seau\\navec les personnes ajout\u00E9es \u00E0 la liste noire.\\c\\nVoulez-vous continuer malgr\u00E9 tout\u202F?\\n(Il sera possible de d\u00E9bloquer ces personnes.)"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vous avez s\u00E9lectionn\u00E9 [VAR 0100(0000)].\\nChoisissez une action \u00E0 effectuer."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Votre liste noire est vide.\\c"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Joueur ajout\u00E9 \u00E0 la liste noire :\\n[VAR 0100(0000)].\\c\\nVous pouvez consulter la liste noire en choisissant\\nl\u2019option \u00AB\u202FProfil\u202F\u00BB dans le menu \u00AB\u202FComm-Y\u202F\u00BB.\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Joueurs ajout\u00E9s \u00E0 la liste noire :\\n[VAR 0100(0000)] et [VAR 0100(0001)].\\c\\nVous pouvez consulter la liste noire en choisissant\\nl\u2019option \u00AB\u202FProfil\u202F\u00BB dans le menu \u00AB\u202FComm-Y\u00BB.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Cette personne est d\u00E9j\u00E0 sur votre liste noire.\\c"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Vous ne pouvez pas vous ajouter\\n\u00E0 votre propre liste noire.\\c"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Joueurs ajout\u00E9s \u00E0 la liste noire :\\n[VAR 0100(0000)], [VAR 0100(0001)]\\r\\net [VAR 0100(0002)].\\c\\nVous pouvez consulter la liste noire en choisissant\\nl\u2019option \u00AB\u202FProfil\u202F\u00BB dans le menu \u00AB\u202FComm-Y\u202F\u00BB.\\c"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  }
+]

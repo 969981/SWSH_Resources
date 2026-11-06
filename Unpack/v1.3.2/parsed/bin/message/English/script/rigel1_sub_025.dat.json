@@ -1,0 +1,842 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Hello there, [VAR 0100(0000)]!\\c\\nAre you drinking in the Isle of Armor\u2019s natural\\nbeauty, too?[VAR 0114(000E)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "I like to get out here now and again.\\nIt\u2019s a nice spot for taking it easy,\\r\\ndon\u2019t you think?[VAR 0114(000E)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Isn\u2019t all this unspoiled nature on the island lovely?\\nLook how cheery it\u2019s got little Tsareena![VAR 0114(000E)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "All this lush foliage makes for such a pleasant\\nforest stroll. I should\u2019ve packed a picnic![VAR 0114(000E)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Wooloo\u2019s got such a fluffy, thick fleece, it could\\ntake a tumble from heights like these\\r\\nand still be right as rain![VAR 0114(000E)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "OI! Oi...oi...o...i...\\c\\nDon\u2019t caves like this make you want to shout\\njust to hear the echo?[VAR 0114(000E)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Look at this great blue sea!\\c\\nIf Nessa were here, I bet she\u2019d be over\\nthe moon!\\r\\nNot that she\u2019d let it show...[VAR 0114(000E)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "This is far from the friendliest environment for\\nGrass-type Pok\u00E9mon, but some plants actually\\r\\nthrive in deserts like this![VAR 0114(000E)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Harsh sunlight actually livens up some\\nGrass-type Pok\u00E9mon!\\c\\nBut on the other hand, it means they\u2019re in for an\\neven worse time than usual if they go up against\\r\\nFire types...[VAR 0114(000E)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "The weather here on the isle is so fickle!\\nIt sort of reminds me of battling Raihan, actually.\\r\\nMakes me a tad nervous...[VAR 0114(000E)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Ahhh, nothing like a spot of rain! Time for all\\nthe isle\u2019s lovely greenery to have a drink.[VAR 0114(000E)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "My hat\u2019s meant for farm work, but it comes in\\nquite handy during weather like this.\\r\\nIt\u2019s a lifesaver in battle![VAR 0114(000E)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Oh, it\u2019s you, [VAR 0100(0000)]!\\nIf you keep running about in this thick fog, you\u2019ll\\r\\nslam right into me and go flying![VAR 0114(000E)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Shalalan."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Well, hello there, Champion!\\nHave you come to see me?[VAR 0114(000F)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "No, no, just winding you up a bit.\\nI\u2019ve got some time off from my modeling and\\r\\nGym Leader work, so I\u2019m honing my moves.[VAR 0114(000F)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Look at this\u2014nature as far as the eye can see.\\nJust the sort of spot Milo\u2019d love, right?[VAR 0114(000F)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "When it rains here in the forest, the sound\u2019s\\nso calming.\\c\\nIt makes for a nice mental refresh if I\u2019ve lost a\\nbattle or something.[VAR 0114(000F)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Doesn\u2019t the breeze up here feel nice?\\nIt\u2019s the type of day that makes you think a\\r\\nWingull might swoop by and bring you a letter![VAR 0114(000F)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "You can get to the sea through here.\\nThere are some small islands around there\u2014\\r\\nmy favorite spots![VAR 0114(000F)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "The water looks so inviting...\\nWonder how many seconds it\u2019d take me to swim\\r\\nto that island out there?[VAR 0114(000F)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Drednaw and I are doing some intensive training.\\nWe\u2019re working on moves that can drench even\\r\\nthis bone-dry desert![VAR 0114(000F)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Look at this brilliant swimming weather!\\nGood thing the Hulbury Gym uniform doubles\\r\\nas a swimsuit, so I can dive right in![VAR 0114(000F)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Clouds have got to cover a certain proportion of\\nthe sky for a day to officially be called cloudy.\\c\\nThe sky\u2019s at least nine-tenths covered today, so\\nthat definitely qualifies![VAR 0114(000F)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Rain\u2019s got its share of haters, but I guarantee you\\nnone of them are Water-type Pok\u00E9mon!\\c\\nIt just goes to show how people and Pok\u00E9mon\\ndon\u2019t always agree on what\u2019s nice weather![VAR 0114(000F)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Since Drednaw\u2019s also a Rock type, it grows more\\nresistant to special moves during sandstorms.[VAR 0114(000F)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "In thick fogs like this, it\u2019s easy for ships to lose\\ntheir way at sea. That\u2019s why we have lighthouses,\\r\\nlike the one in Hulbury![VAR 0114(000F)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Munch munch munch."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Champion [VAR 0100(0000)]!\\nYour passion for training must burn red-hot if\\r\\nit\u2019s led you all the way to the Isle of Armor![VAR 0114(0010)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "I\u2019ve got to keep on running so I don\u2019t get left in\\nyour dust![VAR 0114(0010)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Centiskorch\u2019s burning body\u2019s been known to start\\nfires in grassy fields!\\c\\nWhen that happens, I douse it with water from a\\nbottle I bring along![VAR 0114(0010)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "In forests, one tends to meet a lot of Grass\\nand Bug types!\\c\\nHaving a Fire type like Centiskorch along is a\\nbig help![VAR 0114(0010)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "What better for long training runs than a nice,\\nlong staircase?\\c\\nI\u2019ve gone and gotten a tad carried away and\\ndone 100 laps, so I\u2019m enjoying a nice break![VAR 0114(0010)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "This place is teeming with Water types\u2014just like\\nGalar Mine No. 2! What a great spot for training![VAR 0114(0010)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Training in the water is very tough for my team!\\nSo I just do enough swimming for Centiskorch\\r\\nand me both![VAR 0114(0010)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "I met my Torkoal in the Potbottom Desert!\\c\\nSince its Ability changes the weather, I suggested\\nto Raihan that he think about catching one.\\r\\nTurns out he took me up on it, so now\\r\\nwe\u2019re Tor-colleagues![VAR 0114(0010)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "This type of calm weather is ideal for training!\\nHup, two, three, four![VAR 0114(0010)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Clouds may hide the sun, but they don\u2019t keep\\nall its ultraviolet rays from getting through!\\c\\nThat\u2019s why I like to wear a hat or some sun cream\\nand stay well hydrated![VAR 0114(0010)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Rain puts a damper on the power of my\\nblazing moves.\\c\\nBest to send those rain clouds packing with\\nSunny Day or Max Flare![VAR 0114(0010)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "If you can\u2019t overcome a sandstorm, you\u2019re in for\\na tough time against Raihan!\\c\\nThis is fine weather for concocting a strategy to\\ncounter him![VAR 0114(0010)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "You can meet different Pok\u00E9mon depending on\\nthe weather!\\r\\nI wonder what species I\u2019d run into in this fog?[VAR 0114(0010)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Skorrrch."
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Oh, [VAR 0100(0000)]!\\nHere for some secret training?[VAR 0114(0011)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Becoming Champion hasn\u2019t stopped you putting\\nin the effort, I see.\\c\\nI\u2019ll have to stay just as motivated with Machamp\\nand the rest of my team.[VAR 0114(0011)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "There\u2019s a man who was a legendary Fighting-type\\nGym Leader in his day living on this island.\\c\\nBut I\u2019m too intimidated to actually try to go\\nand meet the legend in the flesh...[VAR 0114(0011)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "You never quite know when an Emolga might\\nswoop down...\\c\\nIt\u2019s difficult to plan your counter for such an\\nunpredictable Pok\u00E9mon.[VAR 0114(0011)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "This area reminds me of Stow-on-Side...\\c\\nThinking all of the members of the Fighting Gym\\nback home spurs me to train all the harder![VAR 0114(0011)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Going barefoot makes it more effective when\\nyou need to dig in your heels and stand firm.\\c\\nI suspect that\u2019s why Machamp always goes\\nbarefoot as well![VAR 0114(0011)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "I find swimming can be very effective when I\\nwant to build strength.\\c\\nThat means Nessa must be getting quite a lot of\\ntraining in every day![VAR 0114(0011)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Doesn\u2019t the layout of this area remind you of a\\npitch surrounded by spectators\u2019 seats?\\c\\nIt\u2019s helpful for visualizing a real battle scenario.[VAR 0114(0011)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "It feels to me like training in harsher weather is\\nmore effective than on mild days like this.\\c\\nOn the other hand, at least my bare feet get less\\nmuddy when it\u2019s nice and clear.[VAR 0114(0011)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "When my thoughts get as murky and gloomy as\\nthe sky is right now, sparring with Machamp\\r\\nclears the clouds straight from my mind.[VAR 0114(0011)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "No matter how hard the rain pummels you,\\nyou\u2019ve got to keep swinging those fists!\\c\\nYou must believe that every punch drives you\\none step closer to victory![VAR 0114(0011)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "This sandstorm is nothing to me.\\nIt\u2019s about as scary as the attack Splash!\\c\\nNot that I\u2019m trying to pick a fight with Nessa...[VAR 0114(0011)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Even if you can\u2019t see your opponent, you can still\\nsense their presence with your mind\u2019s eye.\\c\\nBeing stuck in a bank of thick fog is perfect\\ntraining for this skill.[VAR 0114(0011)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Ha! Yah!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "...O-oh, [VAR 0100(0000)]!\\nWhat are you...doing here?[VAR 0114(0012)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "...Oh, training?\\c\\nMm... Yeah, you can focus here.\\n...Since there are no people.[VAR 0114(0012)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "...I-I sometimes see a massive Pok\u00E9mon across\\nthe water.\\r\\n...Maybe it\u2019s D-Dynamaxing?[VAR 0114(0012)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "...This place feels nothing like Glimwood Tangle.\\nTh-though it\u2019s about as easy to get lost in...[VAR 0114(0012)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "...Th-this area\u2019s so steep and rugged, it reminds me\\nof Stow-on-Side.\\c\\n...T-take care not to fall.\\nWe don\u2019t know each other that well yet...[VAR 0114(0012)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Eep! ...Er, [VAR 0100(0000)]?\\nB-behind you...\\c\\nAh, er, nothing... It\u2019s nothing\\ntoo bad...relatively speaking.[VAR 0114(0012)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "I...I can hear so many voices from the sea...\\nDo you think they\u2019re all lonely?[VAR 0114(0012)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "...I\u2019m b-building a little mountain of sand.\\c\\nApparently if one absorbs enough grudges, it can\\nbecome a Pok\u00E9mon...[VAR 0114(0012)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "...Quite a h-hot one today, isn\u2019t it?\\nIt\u2019s getting all sweaty underneath my mask.\\r\\nThat really...dampens my spirits...[VAR 0114(0012)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "...It\u2019s so dark, with the sky wrapped up in all these\\nthick black clouds.\\r\\nHonestly, it\u2019s a bit of a relief...[VAR 0114(0012)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "...Er...would you...ahh?\\c\\nWould you...like to hear a scary story that\u2019s got\\nto do with rain?[VAR 0114(0012)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "...Wh-when I\u2019m wearing my mask, even sandstorms\\naren\u2019t much of a bother.\\c\\nMaybe I should have Gengar and the rest wear\\nmasks, too...[VAR 0114(0012)]"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "I-I\u2019ve made a big discovery!\\c\\nWhen I can\u2019t see my opponent through the fog,\\nI hardly get nervous at all![VAR 0114(0012)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Geh heh heh."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "What are you doing here? Did that old gran\\nmake you come stand guard here, too?\\c\\nMarch you all the way to the Isle of Armor so you\\ncould reach new heights of pink...or whatever?[VAR 0114(000C)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "No, never mind, that\u2019s nothing to do with you.\\nMust be just a coincidence.[VAR 0114(000C)]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "I know there\u2019s a dojo near here, but I\u2019ll pass.\\nI can\u2019t imagine anything more stressful than\\r\\nliving and training in that sort of big group.[VAR 0114(000C)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "My Hatterene was given to me by the chairman.\\nWe\u2019ve been through thick and thin together\u2014\\r\\nshe\u2019s a very important Pok\u00E9mon to me.[VAR 0114(000C)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "This area looks just like that town with the mural.\\nGosh, what was I playing at when I went and\\r\\ndestroyed that thing...[VAR 0114(000C)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "You and I seem to run into each other in caves\\na lot, don\u2019t we?\\r\\nIt must be fate. Not the good kind, mind.[VAR 0114(000C)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "What a carefree, tedious island this is!\\nIt makes me wonder if there\u2019s anything at all to\\r\\nbe gained from coming here.[VAR 0114(000C)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Hatterene seems right at home in places where\\nthere aren\u2019t many living things about.\\c\\nThey spare her the stress of sensing loads of\\nemotions all around her.[VAR 0114(000C)]"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "I\u2019m itching to show you the new stronger me\\nI\u2019ve become from training out here on\\r\\nthis island![VAR 0114(000C)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Ugh, this humidity\u2019s got my hair all frizzy.\\c\\nEven a Gym Leader like me is trying\\nto look his best\u2014\\c\\nI hope that, as Champion, you take extra\\ncare to be presentable![VAR 0114(000C)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Out for a nice carefree stroll in this bad weather?\\nYou\u2019re certainly an odd one...aren\u2019t you?[VAR 0114(000C)]"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Ugh! I\u2019ve got sand in my hair!\\nIf I don\u2019t wash it out carefully, it\u2019ll be stuck in\\r\\nthere for days![VAR 0114(000C)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "This fog always eludes you, no matter how long\\nyou chase after it...\\r\\nIt reminds me of you... How disagreeable.[VAR 0114(000C)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Hmmm?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Fancy meeting you here, Champion![VAR 0114(0014)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "We\u2019re trying out some tricky movements geared\\nto bring out Coalossal\u2019s full power.\\r\\nSo don\u2019t get too comfortable being Champion![VAR 0114(0014)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "An acquaintance of mine gave me an Armor Pass.\\nI figured it\u2019d be nice to have a change of scenery\\r\\nonce in a while for our training.[VAR 0114(0014)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "The air\u2019s so damp in here! Makes it quite hot and\\nhumid, doesn\u2019t it?\\c\\nIf my mum were here, she\u2019d never stop\\ncomplaining about it. That\u2019s for sure...[VAR 0114(0014)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Quite the view up here, isn\u2019t it? Look how far\\nyou can see!\\c\\nToo bad you can\u2019t make out Circhester, but that\u2019s\\nto be expected, I guess.[VAR 0114(0014)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Coalossal seems to perk up a bit when we head\\ninto a cave.\\c\\nI suppose it must feel like being back home in\\nGalar Mine.[VAR 0114(0014)]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Coalossal may be weak to Water, but its Ability\\nmakes it grow much speedier when it gets wet![VAR 0114(0014)]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Watch out\u2014there\u2019s a chance Coalossal might\\ntip over!\\r\\nIt\u2019s about three times my weight, so be careful![VAR 0114(0014)]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Daytime here on the Isle of Armor\u2019s hot enough\\nto get me all sweaty.\\c\\nNot like Circhester, where I\u2019m grateful for every\\nbit of heat Coalossal gives off.[VAR 0114(0014)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "What a thick blanket of clouds!\\nSeems like we\u2019re in for some showers.\\r\\nAnd no, it\u2019s not smoke from Coalossal.[VAR 0114(0014)]"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "I slipped in the mud and nearly fell...\\nBut I managed to turn that into a backward\\r\\nsomersault and land safely![VAR 0114(0014)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Being able to walk around in sandstorms like this\\nunbothered is one of the greatest things about\\r\\nwearing sunglasses![VAR 0114(0014)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "No matter how many times I wipe my lenses, they\\njust fog back up and I can\u2019t see a thing...\\r\\nTraining\u2019s on hold until this fog clears![VAR 0114(0014)]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Chugga chug."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Goodness, fancy meeting you here!\\nCurious about my top-secret training regime,\\r\\nare you?[VAR 0114(0015)]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Well, that\u2019s a shame, because I can\u2019t let you see!\\nYou\u2019ll have to wait just a tad longer.[VAR 0114(0015)]"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "I got an Armor Pass from someone I know,\\nso I thought...why not take the chance to raise\\r\\nmy Pok\u00E9mon in some fresh scenery?[VAR 0114(0015)]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "It\u2019s so damp in here and the heat\u2019s unbearable!\\nPerhaps my Circhester outfit was a touch too\\r\\nheavy after all.[VAR 0114(0015)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Quite the view up here, isn\u2019t it? Look how far\\nyou can see!\\c\\nA shame you can\u2019t make out Circhester, but I\\nsuppose that\u2019s only reasonable.[VAR 0114(0015)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Just now I slipped and fell on my rear, but I\\nwasn\u2019t a bit hurt.\\r\\nThank goodness I layered up properly![VAR 0114(0015)]"
+  },
+  {
+    "index": 104,
+    "flags": 4,
+    "text": "Ahaha! The moment we get near the water,\\nLapras looks ready for a swim.\\r\\nPerhaps it\u2019s time for a break from training.[VAR 0114(0015)]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Whoever named this place was spot on\u2014it\u2019s like\\nstanding in the bottom of a curry pot!\\c\\nA fine place to train oneself to face the harshest\\nof environments with a stiff upper lip![VAR 0114(0015)]"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "It gets so hot in the Isle of Armor sunlight\u2014\\nit makes me break out in sweat!\\c\\nI just want to spend the daytime clinging to my\\nnice, cool Lapras.[VAR 0114(0015)]"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "It\u2019s quite gloomy with all these clouds, isn\u2019t it?\\nTake care you don\u2019t trip over a rock or a\\r\\nSlowpoke lying around.[VAR 0114(0015)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "What a cool, refreshing rain!\\nLapras is loving the chance to soak in it, too![VAR 0114(0015)]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Goodness me, [VAR 0100(0000)]!\\nIsn\u2019t this sand something?\\c\\nThanks to my hat and muffler, though,\\nit\u2019s nothing too awful.[VAR 0114(0015)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "I suspect you might find some unusual Pok\u00E9mon\\nin mist-erious weather like this![VAR 0114(0015)]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Lanla lalala."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Gah!\\c\\nWhen I run into you, it\u2019s usually a sign things are\\nabout to get sticky...[VAR 0114(0016)]"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "I\u2019ve got my own business to take care of, so\\nI won\u2019t be hangin\u2019 around with you this time.[VAR 0114(0016)]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Seems like a lot of different Pok\u00E9mon make this\\nplace their habitat\u2014just like the Wild Area.[VAR 0114(0016)]"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "I\u2019m no Leon, but I\u2019m really gettin\u2019 turned around\\nin this forest.\\r\\nMight just call a Flying Taxi, if it comes to that.[VAR 0114(0016)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "That red tower\u2019s dead cool lookin\u2019, innit?\\nBut it\u2019s givin\u2019 off a real Fightin\u2019-type vibe, so I\u2019m\\r\\nkeepin\u2019 my distance...[VAR 0114(0016)]"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "It\u2019s so dim and cool in here... Feels perfect!\\nSounds get pretty muffled, though. Not the\\r\\ngreatest concert acoustics.[VAR 0114(0016)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Look at this\u2014a deep blue ocean of pain...\\c\\nI\u2019m sure if Marnie were here, she\u2019d be whinin\u2019\\nabout wantin\u2019 to have a swim.\\c\\nMe, though, I don\u2019t like swimmin\u2019 much. I hate\\ngettin\u2019 sunburnt.[VAR 0114(0016)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Alone we stand, Obstagoon and me,\\nwith these silent sands for company...\\c\\nHeh. Think this place just gave me the idea for\\nmy next song.[VAR 0114(0016)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "It\u2019s just too sunny out today. I\u2019m not havin\u2019 it.\\nI don\u2019t mind the humidity, but the heat\u2019s all\\r\\nthe way up to eleven.[VAR 0114(0016)]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "You\u2019d think the moves of Dark types would\\nget wicked strong on gloomy, gray days\\r\\nlike this, yeah?\\r\\nBut you\u2019d be wrong.[VAR 0114(0016)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Look at you. All full of beans, even in this soakin\u2019\\nwet rain.\\c\\nHope Marnie brought an umbrella if she\u2019s out\\nand about...[VAR 0114(0016)]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Seein\u2019 a sandstorm takes me back to battlin\u2019\\nRaihan in the Finals.[VAR 0114(0016)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "We could take cover in the fog, then lash out\\nsuddenly with Sucker Punch...\\c\\nI\u2019m thinkin\u2019 up ways we could win without needin\u2019\\nto Dynamax.[VAR 0114(0016)]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Shou ou out!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)]?!\\nWhat\u2019re you doin\u2019 here?[VAR 0114(000D)]"
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Actually, don\u2019t bother answerin\u2019\u2014I can tell.\\nYou\u2019re here for the same reason as me, ain\u2019t ya?\\r\\nThat\u2019s why yer my rival.[VAR 0114(000D)]"
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "If I let Morpeko loose in this thick grass, I\u2019ll lose\\nsight of it right away. Gotta keep a close eye...[VAR 0114(000D)]"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Y\u2019know those Pok\u00E9mon up there flitting from tree\\nto tree... Emolga?\\r\\nKinda look like Morpeko, don\u2019t they?[VAR 0114(000D)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "What\u2019s that red building s\u2019posed to be for?\\nIt looks cool in those Spikemuth Gym colors...[VAR 0114(000D)]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Dark, cramped places like this kinda calm me\\ndown a bit.\\r\\nIt\u2019s like bein\u2019 back home in Spikemuth.[VAR 0114(000D)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Look at that gorgeous ocean! Wouldn\u2019t it be\\ngreat to all go have a swim?\\c\\nOn the other hand, Grimmsnarl\u2019d probably take\\nyonks to dry out after...[VAR 0114(000D)]"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "I\u2019m trainin\u2019 to walk steady even on tricky ground\\nlike this!\\r\\nWhy not give it a try?[VAR 0114(000D)]"
+  },
+  {
+    "index": 134,
+    "flags": 4,
+    "text": "Ain\u2019t this a nice breeze, [VAR 0100(0000)]?\\nThis is just the type of weather that\u2019d make my\\r\\nbro stay shut up inside.[VAR 0114(000D)]"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Pretty dark, ain\u2019t it? Looks like we might have\\nrain comin\u2019.\\c\\nThis is just the type of weather that\u2019d get\\nmy brother amped up.[VAR 0114(000D)]"
+  },
+  {
+    "index": 136,
+    "flags": 4,
+    "text": "Even on rainy days like this, you gotta give it all\\nyou\u2019ve got!\\c\\nToxicroak\u2019s all right thanks to Dry Skin, but as for\\nyou, watch out you don\u2019t catch cold![VAR 0114(000D)]"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Man, this sand stings!\\nWonder if a Pok\u00E9mon\u2019s pair of Safety Goggles\u2019d\\r\\nwork for me...[VAR 0114(000D)]"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Whoa! [VAR 1003][VAR 0100(0000)]?!\\nDon\u2019t scare me like that!\\c\\nI can\u2019t see a thing in this fog.\\nThought you were a ghost or somethin\u2019...[VAR 0114(000D)]"
+  },
+  {
+    "index": 139,
+    "flags": 4,
+    "text": "Urara. \u266A"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)]!\\nDrawn in by my charisma, were you?\\c\\nSince you\u2019re here, let\u2019s jump right into a battle![VAR 0114(0017)]"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "If only...\\c\\nFact is I\u2019m in the middle of some top-secret\\ntraining now. I\u2019m gonna beat you and Leon both.\\r\\nI hope you\u2019re ready for it![VAR 0114(0017)]"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "When it comes to putting dragon Pok\u00E9mon to\\ngood use, I\u2019m not picky about their types.\\c\\nThere\u2019re Pok\u00E9mon perfect for the job all over the\\nplace. Probably even in the tall grass over there.[VAR 0114(0017)]"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Ahh, the forest here on the Isle of Armor is so\\nhot and steamy... It\u2019s perfect!\\c\\nMakes me wish I could somehow capture this\\nhumidity to use in battle![VAR 0114(0017)]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Look at this place... Talk about a selfie spot!\\c\\nI wonder which is higher, this mountain or the\\nroof of Hammerlocke Stadium?[VAR 0114(0017)]"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Cave ceilings can get awfully low sometimes, eh?\\c\\nBetter not let any of my fans catch a shot of me\\nbanging my head on one...[VAR 0114(0017)]"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Picture this: a Pok\u00E9mon battle on the beach,\\nwith the big beautiful ocean in the background...\\r\\nand me winning, of course.\\r\\nI can hear the likes rolling in already![VAR 0114(0017)]"
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "I don\u2019t know if it\u2019s conducting heat from the sand\\nor what, but Duraludon\u2019s as scalding hot as a\\r\\npot of curry on the flame right now.\\c\\nWatch your hands, or you\u2019ll get burned![VAR 0114(0017)]"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "The sun sure is something here on\\nthe Isle of Armor, isn\u2019t it?\\c\\nA person ought to be careful they don\u2019t overheat\\nif they\u2019re walking around out here at midday.[VAR 0114(0017)]"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "The island gives off a whole different vibe under\\nheavy clouds like these.\\c\\nReminds me of the time you fended off the\\nDarkest Day![VAR 0114(0017)]"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Here comes the rain, [VAR 0100(0000)]!\\nFeel its cold dampness soak into your body...\\c\\nMy Sliggoo evolved into Goodra on a day just\\nlike this.[VAR 0114(0017)]"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Let the winds blow!\\nStream forward, Sandstorm!\\c\\nNah, just having you on...[VAR 0114(0017)]"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Man it\u2019s gotten foggy out here...\\nI\u2019ll pass on the Misty Terrain, thanks\u2014I\u2019d rather\\r\\nnot have my Dragon-type moves get all weak.[VAR 0114(0017)]"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Alloy!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Huh? Hey, [VAR 0100(0000)]!\\nDidn\u2019t think I\u2019d run into you out here![VAR 0114(0005)]"
+  },
+  {
+    "index": 155,
+    "flags": 4,
+    "text": "I\u2019m hard at work surveying the island, really.\\nI\u2019ve only been skiving off the teeniest bit.\\r\\nHardly at all![VAR 0114(0005)]"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "The Pok\u00E9mon live totally different out here than\\nthey do back in the Wild Area near home.\\r\\nYou can tell even in these little patches of grass![VAR 0114(0005)]"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "This is one maze of a forest.\\c\\nYou can hardly blame that Lilligant for losing\\ntrack of its Petilil.[VAR 0114(0005)]"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "I\u2019m absolutely shattered from that climb...\\nBut what a view you get from up here![VAR 0114(0005)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "How\u2019d a strange cave like this come about\\nnaturally, I wonder?\\r\\nMaybe the river carved it out?[VAR 0114(0005)]"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "The Isle of Armor\u2019s got such nice beaches!\\nWish I\u2019d brought my swim gear...\\r\\nF-for surveying, obviously! Aquatic surveying![VAR 0114(0005)]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Sand, [VAR 0100(0000)]!\\nThere\u2019s sand everywhere, mate!\\r\\nIn my shoes! Between my toes! Like everywhere![VAR 0114(0005)]"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "We\u2019ve been walking around for ages, so it\u2019s good\\nto just stop sometimes, you know?\\r\\nDubwool seems to feel the same![VAR 0114(0005)]"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "These sure look like rain clouds to me...\\nIf they were a bit whiter, they\u2019d look comfy\\r\\nenough to kip on\u2014just like Dubwool\u2019s wool![VAR 0114(0005)]"
+  },
+  {
+    "index": 164,
+    "flags": 4,
+    "text": "I bet Pok\u00E9mon that live by the water just love\\nthese kinds of rainy days.\\c\\nWatch your step as you explore, though\u2014the\\nground\u2019s all muddy and slippery![VAR 0114(0005)]"
+  },
+  {
+    "index": 165,
+    "flags": 4,
+    "text": "Owww... I got sand in my eye!\\nI\u2019m getting flashbacks to Hammerlocke Gym...[VAR 0114(0005)]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Check it out, [VAR 0100(0000)]!\\nIsn\u2019t this fog just like in the Slumbering Weald?\\r\\nThere could be Legendary Pok\u00E9mon about![VAR 0114(0005)]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "Memeeeh!"
+  }
+]

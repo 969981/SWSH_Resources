@@ -1,0 +1,832 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Harsh Sunlight"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "The harsh sunlight weather condition.\\nIt boosts the power of Fire-type moves and\\nlowers the power of Water-type moves."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Rain"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "The rain weather condition.\\nIt boosts the power of Water-type moves and\\nlowers the power of Fire-type moves."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Sandstorm"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "The sandstorm weather condition.\\nAt the end of each turn, it damages all Pok\u00E9mon\\nthat are not Rock, Ground, or Steel types.\\nIt boosts the Sp. Def of Rock-type Pok\u00E9mon."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Hail"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "The hail weather condition.\\nAt the end of each turn, it damages all Pok\u00E9mon\\nthat are not Ice types."
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Electric Terrain"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "For five turns, Pok\u00E9mon on the ground won\u2019t\\nfall asleep.\\nThe power of Electric-type moves is boosted."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Grassy Terrain"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "For five turns, Pok\u00E9mon on the ground will have\\na little HP restored at the end of each turn.\\nThe power of Grass-type moves is boosted."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Misty Terrain"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "For five turns, Pok\u00E9mon on the ground won\u2019t get\\nany status conditions.\\nDamage from Dragon-type moves is halved."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Trick Room"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Slower Pok\u00E9mon get to move first for five turns."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Magic Room"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Pok\u00E9mon can\u2019t use their held items for five turns."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wonder Room"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Pok\u00E9mon\u2019s Defense and Sp. Def are swapped for\\nfive turns."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Critical Hit Boost"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is more likely to land critical hits."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Confusion"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "The Pok\u00E9mon may hurt itself in its confusion.\\nThe effect lasts for one to four turns."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Infatuation"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is less likely to unleash an attack\\non Pok\u00E9mon of the opposite gender."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Nightmare"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "The Pok\u00E9mon will lose HP each turn as long as\\nit is sleeping."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Drowsy"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "The Pok\u00E9mon will fall asleep at the end of the\\nturn if it remains on the battlefield."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Encore"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Due to Encore, the Pok\u00E9mon can use only\\n[VAR 0107(0000)] for three turns."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "No Ability"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "The Pok\u00E9mon\u2019s Ability loses its effect."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Torment"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "The Pok\u00E9mon can\u2019t use the same move twice\\nin a row."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Tailwind"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "The Speed stats of a Pok\u00E9mon and its allies are\\ndoubled for four turns."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Lucky Chant"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "The opponent\u2019s moves won\u2019t result in a\\ncritical hit."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Grudge"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "If the Pok\u00E9mon faints by an opponent\u2019s move,\\nthe PP of that move will be reduced to 0."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Heal Block"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "For five turns, the Pok\u00E9mon is unable to recover\\nHP through its moves, Ability, or held item."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Identified"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "The Pok\u00E9mon will be hit by certain moves\\nthat usually wouldn\u2019t affect it.\\nIf the Pok\u00E9mon\u2019s evasiveness has been boosted,\\nthe benefits will be ignored when it is attacked."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Move Disabled"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "For four turns, the Pok\u00E9mon will be unable to\\nuse [VAR 0107(0000)]."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Can\u2019t Escape"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "The Pok\u00E9mon can\u2019t flee or be switched out."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Lock-On"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "The next move used by the Pok\u00E9mon will be sure\\nto hit the target that was locked on to."
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Embargo"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "For five turns, the Pok\u00E9mon cannot use its held\\nitem and no items can be used on it."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Charge"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "The power of an Electric-type move will be\\ndoubled if used in the turn after charging."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Gravity"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Moves are more likely to hit for five turns.\\nGround-type moves will hit Flying-type\\nPok\u00E9mon and Pok\u00E9mon with the Levitate Ability.\\nMoves that require action midair can\u2019t be used."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Mist"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "The Pok\u00E9mon\u2019s stats won\u2019t be lowered for\\nfive turns."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Safeguard"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is protected from status conditions\\nfor five turns."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Stealth Rock"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Pok\u00E9mon that switch into battle will\\ntake damage."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Stockpile"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "The Pok\u00E9mon\u2019s Defense and Sp. Def stats\\ngo up while stockpiling."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Taunt"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "The Pok\u00E9mon can only use moves that\\ndeal damage."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Telekinesis"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "For three turns, moves used against\\nthe Pok\u00E9mon will hit without fail, except for\\none-hit KO moves.\\nAlso, Ground-type moves won\u2019t hit\\nthe Pok\u00E9mon."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Magnet Rise"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Ground-type moves won\u2019t hit the Pok\u00E9mon\\nfor five turns."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Toxic Spikes"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Pok\u00E9mon that switch into battle will\\nbe poisoned.\\nFlying-type Pok\u00E9mon or Pok\u00E9mon with\\nthe Levitate Ability will not be affected."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Mud Sport"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "The power of Electric-type moves will be\\nhalved for five turns."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Wish"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "The Pok\u00E9mon in this spot will have its HP restored\\non the turn after Wish was used."
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Sticky Web"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Pok\u00E9mon that switch into battle will have their\\nSpeed lowered."
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Ingrain"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "The Pok\u00E9mon regains some HP at the end of\\neach turn.\\nIngrained Pok\u00E9mon can\u2019t be switched out."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Curse"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "The Pok\u00E9mon takes damage at the end\\nof each turn."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Trick-or-Treat"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "The Pok\u00E9mon gains the Ghost type."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Light Screen"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Damage from special moves is halved for\\nfive turns."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Reflect"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Damage from physical moves is halved for\\nfive turns."
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Imprison"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "If a Pok\u00E9mon affected by Imprison knows any\\nmoves also known by the user of Imprison, it is\\nprevented from using those moves."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Counting Down"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "All Pok\u00E9mon in this battle state will faint after\\nthree turns."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Spikes"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Pok\u00E9mon that switch into battle will\\ntake damage.\\nFlying-type Pok\u00E9mon or Pok\u00E9mon with\\nthe Levitate Ability will not be affected."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Water Sport"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "The power of Fire-type moves will be\\nhalved for five turns."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Destiny Bond"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "If the Pok\u00E9mon is knocked out by an opponent,\\nthat opponent will also faint."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Forest\u2019s Curse"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "The Pok\u00E9mon gains the Grass type."
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Leech Seed"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Leech Seed steals some of the Pok\u00E9mon\u2019s HP\\nat the end of each turn and gives it to\\nthe opponent."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Lock-On"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "Any move used against a locked-on target will\\nbe sure to hit."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Bound"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is bound and takes damage\\nevery turn."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Bide"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "The Pok\u00E9mon endures attacks for two turns,\\nthen strikes back to inflict double the\\ndamage it has taken."
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Outrage"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "The Pok\u00E9mon rampages and attacks for two to\\nthree turns. It then becomes confused."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Rampaging"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "The Pok\u00E9mon rampages and attacks for two to\\nthree turns. It then becomes confused."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Petal Dance"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "The Pok\u00E9mon rampages and attacks for two to\\nthree turns. It then becomes confused."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Badly Poisoned"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is badly poisoned. The damage\\nthe Pok\u00E9mon takes from the poison worsens\\nevery turn."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Future Attack"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "The Pok\u00E9mon will take damage two turns after\\nan attack was foreseen."
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "Uproar"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "The Pok\u00E9mon attacks and causes an uproar for\\nthree turns. During this time, no Pok\u00E9mon can\\nfall asleep."
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Aqua Ring"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "The Pok\u00E9mon is enveloped in a veil made of\\nwater. It regains some HP every turn."
+  },
+  {
+    "index": 126,
+    "flags": 4,
+    "text": "Autotomize"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "The Pok\u00E9mon\u2019s weight is reduced, and its Speed\\nis sharply increased."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Smack Down"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "The Pok\u00E9mon has been knocked out of the sky\\nand has fallen to the ground."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Fairy Lock"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "No Pok\u00E9mon can flee the turn after Fairy Lock\\nis used."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Rainbow"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "The additional effects of moves are more likely\\nto occur."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Swamp"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Speed is reduced by 75% in swampy conditions."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Sea of Fire"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Pok\u00E9mon that are not Fire types will\\ntake damage every turn."
+  },
+  {
+    "index": 138,
+    "flags": 4,
+    "text": "Extremely Harsh Sunlight"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "The extremely harsh sunlight weather condition.\\nIt boosts the power of Fire-type moves and\\nprotects Pok\u00E9mon from Water-type moves."
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Heavy Rain"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "The heavy rain weather condition.\\nIt boosts the power of Water-type moves and\\nprotects Pok\u00E9mon from Fire-type moves."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Strong Winds"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "The strong winds weather condition.\\nThe power of moves that are super effective\\nagainst Flying-type Pok\u00E9mon is decreased."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Psychic Terrain"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "For five turns, Pok\u00E9mon on the ground won\u2019t be\\nhit by priority moves.\\nThe power of Psychic-type moves is boosted."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Throat Chop"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "The Pok\u00E9mon can\u2019t use any sound-based moves\\nfor two turns."
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "Aurora Veil"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "For five turns, the power of special and physical\\nmoves will be halved."
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Laser Focus"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "The next move used will always result in\\na critical hit."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Tar Shot"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "The Pok\u00E9mon has been made weaker to\\nFire-type moves."
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Octolock"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "The Pok\u00E9mon\u2019s Defense and Sp. Def are both\\nlowered with each passing turn."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "G-Max Wildfire"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Pok\u00E9mon that are not Fire types will take\\ndamage every turn for four turns."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "G-Max Volcalith"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Pok\u00E9mon that are not Rock types will take\\ndamage every turn for four turns."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "G-Max Steelsurge"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Pok\u00E9mon that switch into battle will\\ntake damage."
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "G-Max Vine Lash"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Pok\u00E9mon that are not Grass types will take\\ndamage every turn for four turns."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "G-Max Cannonade"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Pok\u00E9mon that are not Water types will take\\ndamage every turn for four turns."
+  }
+]

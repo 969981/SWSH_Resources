@@ -1,0 +1,497 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Combat Solo"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Combat Duo"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Combat Multi"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "\u00C9quipe A (1)"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "\u00C9quipe A (2)"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "\u00C9quipe B (1)"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "\u00C9quipe B (2)"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Connexion en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Voulez-vous annuler le combat\u202F?"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Un participant a mis fin \u00E0 la communication.\\nFin du combat.\\c"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Fin de la communication..."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Un joueur va \u00EAtre s\u00E9lectionn\u00E9 pour choisir\\nles r\u00E8gles du combat.\\c"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En Combat Multi, il faut aussi choisir\\nla r\u00E9partition des \u00E9quipes.\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Choisissez qui va d\u00E9cider des r\u00E8gles."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "S\u00E9lection de la personne qui d\u00E9cidera\\ndes r\u00E8gles en cours. Veuillez patienter."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] n\u2019a pas souhait\u00E9 choisir\\nles r\u00E8gles."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] est en train de d\u00E9cider\\ndes r\u00E8gles."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Choisissez les r\u00E8gles de combat.\\c"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Souhaitez-vous opter pour ces r\u00E8gles\u202F?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Voulez-vous laisser un autre joueur d\u00E9cider\\ndes r\u00E8gles\u202F?"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Envoi des donn\u00E9es des r\u00E8gles en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "S\u00E9lectionnez votre \u00E9quipe, puis commencez\\nle combat."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Voulez-vous s\u00E9lectionner des r\u00E8gles de combat\\ndiff\u00E9rentes\u202F?"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Envoi de votre r\u00E9ponse : vous ne souhaitez\\npas combattre en suivant ces r\u00E8gles."
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Au moins une personne ne peut participer\\n\u00E0 ce combat avec les r\u00E8gles actuelles.\\c\\nRetour \u00E0 la s\u00E9lection.\\c"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Si vous ne pouvez pas participer \u00E0 un combat\\navec les r\u00E8gles actuelles, s\u00E9lectionnez l\u2019option\\r\\n\u00AB\u202FChanger de r\u00E8gles\u202F\u00BB.\\c"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "En attente d\u2019autres joueurs...\\nVeuillez patienter."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Choisissez les Pok\u00E9mon participants."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Qui sera en position [VAR 0200(0000)]\u202F?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "S\u00E9lection des \u00E9quipes en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Voulez-vous continuer \u00E0 jouer\u202F?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "En attente d\u2019une r\u00E9ponse de votre partenaire."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "D\u00E9but d\u2019un autre combat avec les m\u00EAmes r\u00E8gles.\\c"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "D\u00E9but d\u2019un autre combat avec des r\u00E8gles\\ndiff\u00E9rentes.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "D\u00E9cider soi-m\u00EAme"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Laisser un adversaire d\u00E9cider"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Confirmer"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "S\u00E9lectionner une \u00E9quipe"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Participation impossible"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Que le combat commence\u202F!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Jouer avec les m\u00EAmes r\u00E8gles"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Jouer avec des r\u00E8gles diff\u00E9rentes"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Tout le monde"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "S\u00E9lection automatique"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Retour"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": " Quitter"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": " Informations"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": " Terminer"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": " V\u00E9rifier"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": " Changer"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": " Consulter les r\u00E8gles"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "S\u00E9lection en cours..."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Termin\u00E9\u202F!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "R\u00E8gles normales"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "R\u00E8gles de la Tour de Combat"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Sans restrictions"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "\u00C9quipe participante :"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]Non s\u00E9lectionn\u00E9e[VAR FF00(0000)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Musique de combat"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 01C3(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Choisissez l\u2019\u00E9quipe avec laquelle combattre."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Un probl\u00E8me a \u00E9t\u00E9 d\u00E9tect\u00E9 dans les donn\u00E9es\\ndes r\u00E8gles re\u00E7ues.\\c\\nRetour \u00E0 la s\u00E9lection.\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Les donn\u00E9es des r\u00E8gles re\u00E7ues sont corrompues.\\c\\nRetour \u00E0 la s\u00E9lection.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Voulez-vous laisser un autre joueur d\u00E9cider\\ndes r\u00E8gles\u202F?"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Envoi des donn\u00E9es des r\u00E8gles en cours...\\nVeuillez patienter."
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Un probl\u00E8me a \u00E9t\u00E9 d\u00E9tect\u00E9 dans les donn\u00E9es\\ndes r\u00E8gles envoy\u00E9es.\\c\\nVeuillez reprendre la s\u00E9lection depuis le d\u00E9but.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Les donn\u00E9es des r\u00E8gles envoy\u00E9es\\nsont corrompues.\\c\\nVeuillez reprendre la s\u00E9lection depuis le d\u00E9but.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Retour \u00E0 la s\u00E9lection des r\u00E8gles.\\c"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Un probl\u00E8me a \u00E9t\u00E9 d\u00E9tect\u00E9 dans l\u2019\u00C9quipe\\nCombat s\u00E9lectionn\u00E9e."
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Un probl\u00E8me a \u00E9t\u00E9 d\u00E9tect\u00E9 dans l\u2019\u00C9quipe\\nCombat d\u2019un adversaire."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Vous ne pouvez pas recevoir la carte\\nde votre adversaire car votre album est plein.\\c"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Voulez-vous recevoir la carte de Ligue\\nd\u2019un adversaire\u202F?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "De qui souhaitez-vous recevoir la carte de Ligue\u202F?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Vous avez re\u00E7u la carte\u202F!\\c"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Vous ne pouvez plus recevoir de cartes,\\ncar votre album de cartes de Ligue est plein.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Voulez-vous \u00E9galement recevoir la carte de Ligue\\nde quelqu\u2019un d\u2019autre\u202F?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Voulez-vous ajouter [VAR 0100(0000)]\\n\u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Cette personne est d\u00E9j\u00E0 sur votre liste noire.\\c"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Vous ne pourrez plus jouer en r\u00E9seau\\navec les personnes ajout\u00E9es \u00E0 la liste noire.\\c\\nVoulez-vous continuer malgr\u00E9 tout\u202F?\\n(Il sera possible de d\u00E9bloquer ces personnes.)"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Votre liste noire a \u00E9t\u00E9 mise \u00E0 jour.\\c"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Qui voulez-vous ajouter \u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Voulez-vous ajouter quelqu\u2019un d\u2019autre\\n\u00E0 votre liste noire\u202F?"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Choisissez l\u2019\u00E9quipe avec laquelle combattre."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Choisissez la formation des \u00E9quipes."
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Changer de r\u00E8gles"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Dans ce combat, les autres joueurs peuvent\\nvoir les surnoms de vos Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Quitter"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "M\u00F6chtest du zu einem Dynamax-Abenteuer\\naufbrechen?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Los geht\u2019s!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Mehr Details, bitte."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Nein danke."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Laut meinen Aufzeichnungen kennst du bereits\\ndie Aufenthaltsorte einiger bestimmter Pok\u00E9mon.\\c\\nZu welchem Pok\u00E9mon m\u00F6chtest du dich\\naufmachen?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] scheinst du bereits gefangen\\nzu haben.\\c\\nSelbst wenn du ihm noch einmal begegnest,\\nwirst du [VAR FF00(0006)]es nicht fangen k\u00F6nnen[VAR FF00(0000)].\\r\\nM\u00F6chtest du trotzdem aufbrechen?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Meinen Notizen zufolge hast du auf deinem\\nletzten Abenteuer [VAR 0101(0000)] entdeckt!\\c\\nIch habe seinen Aufenthaltsort vermerkt.\\nWillst du dich [VAR 0101(0000)] erneut stellen?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Egal, Hauptsache Pok\u00E9mon!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Bei Dynamax-Abenteuern erforschst du\\ndas Dyna-Riesennest gemeinsam mit\\r\\neinem unserer Leih-Pok\u00E9mon."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Au\u00DFerdem schlie\u00DFt du dich mit drei Mitstreitern\\nzusammen und gemeinsam w\u00E4hlt ihr einen Weg.\\c\\nWenn ihr euch tief ins Riesennest vorwagt,\\nerwartet euch dort ein dynamaximiertes\\r\\nLegend\u00E4res Pok\u00E9mon."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "F\u00FCr jede erfolgreich abgeschlossene Erkundung\\nwirst du von mir \u00FCbrigens mit Dyna-Erz belohnt.\\c\\nZudem darfst du eines der Pok\u00E9mon behalten,\\ndie du unterwegs gefangen hast. Die anderen\\r\\nbrauche ich jedoch f\u00FCr meine Forschung."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Du scheinst dein letztes Dynamax-Abenteuer\\nfr\u00FChzeitig abgebrochen zu haben, stimmt\u2019s?\\c\\nBitte versuche, das in Zukunft zu vermeiden.\\nSonst k\u00F6nntest du die anderen Trainer aus\\r\\ndeinem Team damit in Schwierigkeiten bringen."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Du hast nun mehrere Dynamax-Abenteuer\\nvorzeitig abgebrochen.\\c\\nDas bringt leider auch Nachteile f\u00FCr die\\nanderen Trainer im Team mit sich.\\c\\nIch kann dich daher erst wieder an einem\\nDynamax-Abenteuer teilnehmen lassen, wenn\\r\\ndu mir [VAR 0201(0000)] Brocken Dyna-Erz \u00FCbergeben hast.\\r\\nDadurch wei\u00DF ich, dass du es ernst meinst.\\c\\nM\u00F6chtest du mir das Dyna-Erz jetzt geben?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Du kannst erst wieder an Dynamax-Abenteuern\\nteilnehmen, wenn du mir Dyna-Erz gegeben hast."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ich wei\u00DF deinen guten Willen zu sch\u00E4tzen, aber\\ndu hast leider nicht gen\u00FCgend Dyna-Erz dabei."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ich w\u00FCrde dir empfehlen, an Dyna-Raids in den\\nKronen-Schneelanden teilzunehmen.\\c\\nSo kommst du an weitere Brocken Dyna-Erz."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Bitte versuche, Dynamax-Abenteuer immer\\nbis zum Ende durchzuziehen."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Sehr gut gemacht! Ich hoffe, wir k\u00F6nnen auch in\\nZukunft wieder zusammenarbeiten."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Nicht schlecht! Du warst ganz nah dran!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Soll ich den Aufenthaltsort von [VAR 0101(0000)]\\nnotieren, damit du es sp\u00E4ter noch mal\\r\\nprobieren kannst?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Oje... Ich habe keinen Platz mehr f\u00FCr weitere\\nEintr\u00E4ge von Pok\u00E9mon-Aufenthaltsorten.\\c\\nSoll ich einen \u00E4lteren Eintrag l\u00F6schen,\\num diesen neuen speichern zu k\u00F6nnen?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Gut, dann werde ich den Aufenthaltsort von\\n[VAR 0101(0000)] nicht notieren."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Okay. Dann l\u00F6sche ich also den Eintrag zu\\n[VAR 0101(0001)] und notiere stattdessen den\\r\\nAufenthaltsort von [VAR 0101(0000)]."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Und fertig!\\nDer Aufenthaltsort wurde notiert."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Ich freue mich schon auf unsere n\u00E4chste\\nZusammenarbeit!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Schade... Na ja, versuch es einfach ein andermal\\nerneut. Lass dich nicht unterkriegen!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Da bist du ja wieder!\\c\\nSoll ich den Aufenthaltsort von [VAR 0101(0000)]\\nnotieren?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "In Ordnung! Dann notiere ich das f\u00FCr dich."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "In Ordnung! Dann notiere ich nichts dazu."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Huch?\\nAch, du bist es!\\c\\nSchau mal vorbei, wenn du etwas mehr Erfahrung\\nmit Dynamax-Abenteuern gesammelt hast."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Hey, du!\\nStehst du auf Dynamax-Abenteuer?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Ich wusste es! Du hast schlie\u00DFlich schon an\\nso vielen teilgenommen, nicht wahr?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Oh. Ach so..."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Du scheinst ja echt ein H\u00E4ndchen f\u00FCr\\nDynamax-Abenteuer zu haben...\\c\\nDa h\u00E4tte ich genau das Richtige f\u00FCr dich:\\nein Dynamax-Abenteuer im Endlosmodus!\\c\\nNa, was sagt du dazu? Das hab ich mir\\nselbst ausgedacht!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "M\u00F6chtest du dich an einem Dynamax-Abenteuer\\nim Endlosmodus versuchen?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Was ist mein Rekord?"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Der Endlosmodus hat, wie der Name schon\\nunschwer vermuten l\u00E4sst, kein Ende.\\c\\nDamit kannst du dich selbst nach deinem\\nSieg \u00FCber das Pok\u00E9mon im Inneren des\\r\\nDyna-Riesennests weiter vorwagen.\\c\\nMal sehen, wie weit du es schaffst.\\n"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Die Pok\u00E9mon, die du f\u00E4ngst, kannst du allerdings\\nnicht behalten, da ich sie f\u00FCr meine Forschung\\r\\nben\u00F6tige.\\c\\nAls kleine Entsch\u00E4digung werde ich dir daf\u00FCr\\ndeutlich mehr Brocken Dyna-Erz geben als sonst!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Ich werde mir \u00FCbrigens notieren,\\nwie weit du es schaffst.\\c\\nGib also dein Bestes, um mit deinen Mitstreitern\\nso weit wie m\u00F6glich vorzudringen!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Sprich mich einfach an, wenn dir der Sinn\\nnach einer Herausforderung steht!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Wow! Du hast den alten Bestwert pulverisiert\\nund einen neuen Rekord aufgestellt!\\c\\nDa eine exakte Buchf\u00FChrung sehr wichtig ist,\\nhabe ich meine Notizen bereits aktualisiert."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Ich habe schwarz auf wei\u00DF notiert, wie weit du\\ndieses Mal gekommen bist.\\c\\nSprich mich ruhig an, wenn du einen neuen\\nVersuch starten m\u00F6chtest."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Dein aktueller Rekord liegt bei..."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Streng dich an und gib alles, um deinen Rekord\\nzu knacken!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Oh, du bist es, [VAR 0100(0000)]!\\c\\nHalt dich fest: Ich hab [VAR 0101(0001)]\\nim Dyna-Riesennest gefunden![VAR 0114(0078)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Im Tausch gegen [VAR 0202(0002)] Brocken Dyna-Erz verrate\\nich dir auch, wo sich [VAR 0101(0001)] aufh\u00E4lt.[VAR 0114(0078)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Oh! Du hast ja schon jede Menge Eintr\u00E4ge zu\\nden Aufenthaltsorten diverser Pok\u00E9mon.\\c\\nM\u00F6chtest du einen \u00E4lteren Eintrag l\u00F6schen,\\num diesen neuen speichern zu k\u00F6nnen?[VAR 0114(0078)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Moment mal... [VAR 0101(0001)] hast du doch\\nbereits gefangen, [VAR 0100(0000)]!\\c\\nAber wenn es dir nichts ausmacht, dass sich das\\nPok\u00E9mon nicht erneut fangen l\u00E4sst, verrate ich dir\\r\\nf\u00FCr [VAR 0202(0002)] Brocken Dyna-Erz, wo es sich befindet.[VAR 0114(0078)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Mila hat dir den Aufenthaltsort von\\n[VAR 0101(0001)] verraten."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Huch, du hast nicht genug Brocken Dyna-Erz![VAR 0114(0078)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Hm, aber weil du so traurig aus der W\u00E4sche\\nschaust, will ich dieses eine Mal eine Ausnahme\\r\\nmachen und dir die Auskunft gratis geben![VAR 0114(0078)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Moment mal... Du wei\u00DFt doch bereits,\\nwo sich [VAR 0101(0001)] aufh\u00E4lt![VAR 0114(0078)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Bist du dir auch ganz sicher? Heul mir nachher\\naber nicht die Ohren voll, falls du es bereust![VAR 0114(0078)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Quatsch einfach die Forscherin da an, wenn du\\ndich der Herausforderung stellen willst.\\r\\nDu schaffst das schon![VAR 0114(0078)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Na, alles fit bei dir, [VAR 0100(0000)]?\\nBei mir gibt\u2019s nichts Neues.[VAR 0114(0078)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Da f\u00E4llt mir ein, dass ich im Dyna-Riesennest\\netwas Seltsames gefunden hab. Hier, nimm du es![VAR 0114(0078)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\n([VAR 01C2(0001)]) erhalten!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Nur keine falsche Bescheidenheit!\\nDas passt eh viel besser zu dir als zu mir.[VAR 0114(0078)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Warum sich wohl so viele Legend\u00E4re Pok\u00E9mon\\nim Dyna-Riesennest tummeln...?[VAR 0114(0078)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Laut dieser Forscherin soll [VAR 0101(0000)]\\ndas erste Legend\u00E4re Pok\u00E9mon gewesen sein,\\r\\ndas hier unten entdeckt wurde.[VAR 0114(0078)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Diese Forscherin hat fr\u00FCher mal in einem\\nForschungszentrum in der Alola-Region\\r\\ngearbeitet.\\c\\nHach, wie gern w\u00E4r ich jetzt in Alola! Da k\u00F6nnte\\nich den lieben langen Tag Malasadas futtern![VAR 0114(0078)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Ich w\u00FCrde ja zu gerne ein F\u00E4higk.-Pflaster auf\\nmein liebes Monargoras anwenden.\\c\\nDas w\u00FCrde ihm den Einsatz von Kopfsto\u00DF deutlich\\nerleichtern. Es liebt diese Attacke![VAR 0114(0078)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Du m\u00F6chtest Tipps f\u00FCr dein Dynamax-Abenteuer?\\c\\nIch kann dir den Einsatz von Attacken wie\\nReflektor oder Lichtschild empfehlen,\\r\\ndie den erlittenen Schaden abmildern.[VAR 0114(0078)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Du m\u00F6chtest Tipps f\u00FCr dein Dynamax-Abenteuer?\\c\\nBehalte stets im Auge, wie die Pok\u00E9mon im\\nRiesennest auf unterschiedliche Typen reagieren![VAR 0114(0078)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Du m\u00F6chtest Tipps f\u00FCr dein Dynamax-Abenteuer?\\c\\nVersuch doch mal, die Stimmung anzuheizen,\\nindem du etwa durch den Einsatz von Dyna-Faust\\r\\nden Angriff deiner Mitstreiter erh\u00F6hst![VAR 0114(0078)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Sag mal, hast du schon das Ger\u00FCcht vom\\nDyna-Baum geh\u00F6rt?\\c\\nWenn man diesen riesigen Baum sch\u00FCttelt,\\nsoll etwas Tolles passieren.\\c\\nMir fehlen dazu zwar die n\u00F6tigen Muckis,\\naber f\u00FCr dich sollte das ein Klacks sein![VAR 0114(0078)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Hmm... Wie du wei\u00DFt, dynamaximieren sich die\\nPok\u00E9mon unten im Dyna-Riesennest ja immer...\\c\\nGlaubst du auch, dass dort vielleicht ein\\ngigantischer Wunschstern versteckt ist?[VAR 0114(0078)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Und, wie laufen die Expeditionen mit Dad so?\\c\\nEhrlich gesagt hat der meistens eh keinen Peil,\\nwas er gerade tut, also kannst du das Ganze\\r\\nruhig gechillt angehen lassen.[VAR 0114(0078)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Der alte Knacker da ist ein bisschen abgedreht,\\nfindest du nicht auch? Ich wei\u00DF, wovon ich rede,\\r\\nmein Alter ist schlie\u00DFlich auch nicht viel besser...[VAR 0114(0078)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Sag mal, hast du schon das Ger\u00FCcht von dieser\\nlanghaarigen Frau geh\u00F6rt?\\c\\nNacht f\u00FCr Nacht soll sie bei einem Grab in den\\nSchneelanden herumlungern und unerm\u00FCdlich\\r\\nnach etwas suchen... Megagruselig, oder?[VAR 0114(0078)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Bei einem Dynamax-Abenteuer neulich konnte\\nich mich voll auf das Kommandutan meines\\r\\nTeamkollegen verlassen!\\c\\nMit der Attacke Kommando hat es den Pok\u00E9mon\\num sich herum Befehle erteilt. Echt praktisch!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Zoooob!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Pok\u00E9mon sind mir bei meiner Forschung\\neine gro\u00DFe Hilfe!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Ker!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Ker, kera!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Keradar!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Das sieht aus wie schwankende Messdaten,\\ndie von einem Radar erfasst werden."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Alleine sollte ich nicht weitergehen..."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Du kehrst zum Eingang zur\u00FCck und h\u00E4ltst dabei\\nnach Peonys Tochter Ausschau."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Soll ich dir verraten, wie zutraulich dein[VAR 1101(00FD,0100)]e\\nPok\u00E9mon [VAR 1101(00FD,0403)]istsind?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Komm wieder, wenn dich die Neugier packt."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Bei welchem Pok\u00E9mon soll ich die Zutraulichkeit\\n\u00FCberpr\u00FCfen?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0001)]?\\nDann wollen wir mal sehen..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Kann es sein, dass du zu streng mit ihm bist?\\nEs ist kein bisschen zutraulich!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Seid ihr euch gerade erst begegnet? Es scheint\\nsich noch nicht an dich gew\u00F6hnt zu haben."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Jepp, seine Zutraulichkeit zu dir ist... normal.\\nArbeite daran, dass es dich noch viel mehr mag!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Oh, es scheint dich schon ein bisschen lieb\\ngewonnen zu haben."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Ihr versteht euch schon ziemlich gut. Aber da ist\\nnoch Luft nach oben!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ihr versteht euch ja richtig gut! Es ist toll,\\nwenn man immer zusammen ist, stimmt\u2019s?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Wow, es ist sehr zutraulich! Ihr zwei habt euch\\noffensichtlich richtig gern."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Ihr seid die besten Freunde! Man sieht, dass ihr\\neure gemeinsame Zeit richtig genie\u00DFt!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Als Zeichen eurer Freundschaft hab ich hier was\\nTolles f\u00FCr dich!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] wurde das Zutraulichkeitsband\\nangesteckt!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ihr seid die besten Freunde!\\c\\nDas Zutraulichkeitsband steht deinem Pok\u00E9mon\\nwirklich ausgezeichnet."
+  }
+]

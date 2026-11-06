@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Moves that only select Pok\u00E9mon can learn...\\nThey are called battle-combo moves.\\r\\nDo you want your Pok\u00E9mon to learn one of them?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "All right. Fair enough. If you want your Pok\u00E9mon\\nto learn one of my moves, just come back."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Oh, but none of the Pok\u00E9mon you\u2019re with right\\nnow can learn my move. That\u2019s too bad!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon should learn my move?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] can\u2019t learn my move."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "An Egg... I can\u2019t teach my move to an Egg."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] already knows my move."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Which move should be forgotten?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Battle-combo moves...\\c\\nHow you combine them with each other is\\nthe key to using them well!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Did you get a Pok\u00E9mon from the island kahuna\\nor professor, maybe?\\c\\nIt doesn\u2019t matter if it\u2019s evolved into something\\nelse since then.\\c\\nAs long as it\u2019s a Fire-, Water-, or Grass-type\\nPok\u00E9mon that new Trainers are given around\\r\\nhere, and it\u2019s really friendly toward you, I\u2019ll\\r\\nteach it a special move\u2014a battle-combo move."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "A special move...\\c\\nShall I teach your Pok\u00E9mon a\\nbattle-combo move?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "There is no move that I can teach to any of the\\nPok\u00E9mon you are with..."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "I see...\\nWell, see you next time."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon will it be, then?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "That Pok\u00E9mon can\u2019t learn a move from me."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Do you want me to teach my move to an Egg?!\\nYou are being unreasonable."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "This Pok\u00E9mon... It doesn\u2019t look like it\u2019s too\\ncomfortable with you yet."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "That Pok\u00E9mon already knows one of my moves."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Do you want me to teach [VAR 0101(0000)]\\n[VAR 0107(0001)]?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "My favorite Pok\u00E9mon are all the Pok\u00E9mon you\\nget from people like professors or kahunas.\\c\\nI teach special moves\u2014battle-combo moves\u2014to\\nthose Pok\u00E9mon and the Pok\u00E9mon that evolve\\r\\nfrom them. That\u2019s what I do!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  }
+]

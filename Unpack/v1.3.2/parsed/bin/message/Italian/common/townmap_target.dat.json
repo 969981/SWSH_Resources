@@ -1,0 +1,907 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Assicurati di aver preso tutto prima di uscire!"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Hop ti sta aspettando fuori."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Vai da Hop."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Vai a casa di Hop."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Vai a incontrare Dandel a Brassbury."
+  },
+  {
+    "index": 5,
+    "flags": 8,
+    "text": "Scegli il tuo compagno d\u2019avventura!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Lotta con Hop!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Di\u2019 alla mamma che vai a Brassbury."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Salva il Wooloo che si \u00E8 addentrato\\nnel Bosco Assopito!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Addentrati nel Bosco Assopito."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Di\u2019 alla mamma che vai a Brassbury."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Hop ti aspetta al Percorso 1. Raggiungilo!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Vai al Laboratorio Pok\u00E9mon per ricevere\\nil Pok\u00E9dex."
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Esplora Brassbury."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Visita il Centro Pok\u00E9mon."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Segui il Percorso 2 per raggiungere la casa\\ndella Professoressa."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Vai dalla Professoressa Pok\u00E9mon."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Lotta con Hop!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Vai alla Stazione di Brassbury."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Attraversa le Terre Selvagge e vai a Steamington."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Esplora Steamington."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Vai allo Stadio di Steamington."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Fermati al Budew Inn per la notte."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Vai alla reception e fai il check-in."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Vai allo Stadio di Steamington per assistere alla\\ncerimonia d\u2019apertura della Sfida delle Palestre."
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Attraversa il Percorso 3 e vai a Turffield."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Raggiungi Sonia sulla collina."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Vai allo Stadio di Turffield per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Attraversa il Percorso 5 e vai a Keelford."
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Esplora Keelford."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Vai al faro per incontrare Azzurra."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vai allo Stadio di Keelford per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Esplora Keelford."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Vai al ristorante Frangifrutti di Mare."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Esplora Keelford."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Attraversa la Miniera 2 e vai a Steamington."
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Incontra Kabu nella Miniera 2!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Fermati al Budew Inn per la notte."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Vai allo Stadio di Steamington per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Torna nelle Terre Selvagge e vai a Knuckleburgh."
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Attraversa le Terre Selvagge e vai\\na Knuckleburgh."
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Incontra il presidente Rose allo Stadio\\ndi Knuckleburgh."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Vai alla Sala dei Tesori fuori dallo stadio."
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Incontra Laburno alla Sala dei Tesori fuori\\ndallo stadio."
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Esplora la Sala dei Tesori."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Vai a Latermore."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Vai allo Stadio di Latermore per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Esplora Latermore."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Vai al murale di Latermore."
+  },
+  {
+    "index": 49,
+    "flags": 8,
+    "text": "Scopri cosa sta facendo Beet al murale."
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Attraversa il Bosco Brillabirinto e vai\\na Piquedilly."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Vai allo Stadio di Piquedilly per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Vai allo Stadio di Piquedilly per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Esplora Piquedilly."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Torna a Knuckleburgh."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Vai a Circhester."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Vai allo Stadio di Circhester per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Esplora Circhester."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Vai alla steakhouse di Circhester."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Vai alle terme eroiche di Circhester."
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Attraversa il Percorso 9 e vai a Spikeville."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Vai a Spikeville."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Entra a Spikeville."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Affronta la Palestra di Spikeville per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 64,
+    "flags": 4,
+    "text": "Esplora Spikeville."
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Attraversa il Tunnel del Percorso 9 e vai\\na Knuckleburgh."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Vai a Knuckleburgh."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Vai allo Stadio di Knuckleburgh per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 68,
+    "flags": 8,
+    "text": "Sconfiggi gli Allenatori della Palestra\\nnella Sala dei Tesori."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Vai allo Stadio di Knuckleburgh per la Sfida\\ndelle Palestre."
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Esplora Knuckleburgh."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Prendi il treno alla Stazione di Knuckleburgh."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Vai a Goalwick."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Registrati alla reception dello Stadio\\ndi Goalwick."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Registrati alla reception dello Stadio\\ndi Goalwick (Lega Pok\u00E9mon)."
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Incontra Ginepro davanti all\u2019hotel!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Trova i membri cattivi dello Staff della Lega\\nPok\u00E9mon vicino alla stazione Goalwick Centrale."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Sali in cima alla Rose Tower."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Vai allo Stadio di Goalwick."
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Iscriviti al Torneo delle Finali."
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Entra in campo nello Stadio di Goalwick."
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Perlustra il Bosco Assopito."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Cerca la spada e lo scudo nel cuore\\ndel Bosco Assopito!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Prendi la spada e lo scudo!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Vai allo Stadio di Knuckleburgh."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Dallo Stadio di Knuckleburgh, raggiungi\\nla centrale sotterranea."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Vai alla centrale sotterranea situata sotto\\nlo Stadio di Knuckleburgh."
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Vai sul tetto dello Stadio di Knuckleburgh."
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Vai allo Stadio di Goalwick per la finale!"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Continua la tua avventura esplorando\\nGalar in piena libert\u00E0!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Lotta con Hop nel Bosco Assopito!"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Esplora il Bosco Assopito."
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Vai al Laboratorio Pok\u00E9mon di Brassbury."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Vai allo Stadio di Turffield."
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Vai fuori."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Salva lo Stadio di Keelford e Steamington!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Vai al Laboratorio Pok\u00E9mon di Brassbury."
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Vai fuori."
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Salva le quattro Palestre!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Vai alla centrale sotterranea situata sotto\\nlo Stadio di Knuckleburgh."
+  },
+  {
+    "index": 105,
+    "flags": 8,
+    "text": "Scendi nella centrale sotterranea situata sotto\\nlo Stadio di Knuckleburgh."
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Lotta con Brandobaldo!"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Lotta con Scudobaldo!"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Sali sul tetto dello Stadio di Knuckleburgh."
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Affronta Zacian!"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "Affronta Zamazenta!"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Vai da Hop. Ti aspetta nel Bosco Assopito."
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Lotta con Hop!"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Continua la tua avventura esplorando\\nGalar in piena libert\u00E0!"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Vai al Budew Inn, l\u2019hotel che si trova\\na Steamington."
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "Esplora l\u2019Isola dell\u2019Armatura."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Vai al Dojo Master."
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Entra nel Dojo Master."
+  },
+  {
+    "index": 118,
+    "flags": 8,
+    "text": "Sfida il maestro Mustard."
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Acchiappa i velocissimi Slowpoke."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Fai rapporto al maestro Mustard."
+  },
+  {
+    "index": 121,
+    "flags": 8,
+    "text": "Scegli Squirtle o Bulbasaur."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Vai a raccogliere i Funghimax."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Torna al Dojo Master."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Parla con il maestro Mustard."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Vai nell\u2019arena sul retro del dojo."
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Parla con il maestro Mustard."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Fai amicizia con Kubfu e torna dal maestro\\nMustard con lui."
+  },
+  {
+    "index": 128,
+    "flags": 8,
+    "text": "Scegli la Torre Acqua o la Torre Buio\\ne dirigiti l\u00E0."
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Raggiungi la cima della Torre Buio."
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Raggiungi la cima della Torre Acqua."
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Mostra il rotolo a Kubfu."
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Continua la tua avventura esplorando\\nGalar in piena libert\u00E0!"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Vai al Bosco Concentrazione, dove\\nti aspetta Hop."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Trova Lilligant."
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Accompagna Lilligant da Petilil."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Cerca un Applin nel Bosco Concentrazione."
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Cerca dei Vespiquen sull\u2019isola esagonale."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Torna al Dojo Master."
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Lotta contro il maestro nell\u2019arena sul retro\\ndel dojo."
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Esplora la Landa Corona."
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Chiedi alle due persone davanti alla stazione\\ncosa sta succedendo."
+  },
+  {
+    "index": 142,
+    "flags": 4,
+    "text": "Esplora la Landa Corona."
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Segui Peony nella dynatana max."
+  },
+  {
+    "index": 144,
+    "flags": 8,
+    "text": "Scopri come funziona l\u2019Avventura Dynamax."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Parti per un\u2019Avventura Dynamax."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Riferisci a Peony cosa avete deciso tu e Nia."
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Vai a Freezedale, dove ti aspetta Peony."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Vai nella casa in cui \u00E8 entrato Peony."
+  },
+  {
+    "index": 149,
+    "flags": 4,
+    "text": "Indaga sul Re dell\u2019abbondanza."
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Esamina la statua del Re dell\u2019abbondanza."
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Insegui il Pok\u00E9mon uguale alla statua."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Vai a casa del capo del villaggio a Freezedale\\nper chiedere informazioni."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "[~ 153]"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "[~ 154]"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Pianta i Semi di carota in uno dei due campi."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Raccogli la carota."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Realizza le Briglie del legame per Calyrex."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Di\u2019 a Calyrex che hai realizzato le Briglie\\ndel legame."
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Vai al Tempio Corona, dove ti aspetta Calyrex."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Metti la Carota algida nel recipiente vicino\\nal giaciglio di Glastrier."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Metti la Carota oscura nel recipiente vicino\\nal giaciglio di Spectrier."
+  },
+  {
+    "index": 162,
+    "flags": 8,
+    "text": "Sfida Calyrex ora che ha recuperato i suoi poteri!"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Fai rapporto al caposquadra Peony."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Porta gli appunti perduti dal caposquadra Peony\\nalla dynatana max."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Chiedi informazioni sul Re dell\u2019abbondanza\\nagli abitanti del villaggio."
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Fai rapporto a Calyrex al villaggio."
+  },
+  {
+    "index": 167,
+    "flags": 4,
+    "text": "Esamina i libri del capo del villaggio per\\nraccogliere informazioni."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Fai rapporto a Calyrex al villaggio."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Fai rapporto a Calyrex al villaggio."
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Chiedi informazioni sulle carote agli abitanti\\ndel villaggio."
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Mostra i Semi di carota a Calyrex."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Raggiungi il Pok\u00E9mon diretto a Freezedale."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Parla con Calyrex al villaggio."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Vai a chiedere informazioni al capo del villaggio\\ndi Freezedale."
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Vai a cercare il capo del villaggio al Letto del\\nGigante."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Raccogli ci\u00F2 che ha perso il caposquadra Peony."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Vai allo Stadio di Goalwick per parlare\\ncon Dandel."
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Chiedi a qualcuno di fare squadra con te\\nnel torneo."
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Vai a registrarti alla reception."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Fai luce su tutte le leggende e fai rapporto\\nal caposquadra Peony."
+  }
+]

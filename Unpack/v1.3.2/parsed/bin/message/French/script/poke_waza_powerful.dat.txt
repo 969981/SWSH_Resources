@@ -1,0 +1,24 @@
+Seuls certains Pokémon peuvent apprendre\nles capacités ultimes que j’enseigne.\r\nÇa t’intéresse ?
+Pas de problème, c’est ton choix !\nSi tu changes d’avis, reviens me voir.
+C’est dommage, tu n’as pas de Pokémon\npouvant apprendre ces capacités !
+À qui veux-tu en enseigner une ?
+Visiblement, [VAR 0102(0001)] ne peut pas\nles apprendre...
+Un Œuf...\nTu veux que j’enseigne ma capacité à... un Œuf ?
+Mais... [VAR 0102(0001)] a déjà appris\ncette capacité ultime.
+Quelle capacité doit être oubliée ?
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]
+Les capacités ultimes...\c\nElles sont dévastatrices, mais ont un inconvénient\naprès les avoir utilisées...\c\nIl faut savoir choisir le bon moment\npour s’en servir !
+Je m’ennuie tellement que j’ai décidé de\nconsacrer le reste de ma vie à partager mon savoir\r\navec les djeunz qui croisent mon chemin.\c\nSouhaites-tu que j’enseigne mes capacités\nultimes à tes Pokémon ?
+Veux-tu que j’enseigne une capacité ultime\nà ton Pokémon ?
+J’ai bien peur qu’aucun de tes Pokémon\nne puisse apprendre mes capacités.\c\nConsulte donc la liste des Pokémon aptes\nà recevoir mes enseignements.
+N’hésite pas à revenir me voir, j’aime donner\nun coup de pouce aux djeunz comme toi !
+Très bien. Lequel de tes compagnons\nva bénéficier de mon savoir ?
+Je sais que tu es un djeunz mais tu devrais savoir\nque ce Pokémon ne peut pas apprendre\r\nmes capacités.\c\nConsulte donc la liste des Pokémon aptes\nà recevoir mes enseignements.
+Mais enfin ! Tout le monde sait que les Œufs\nne peuvent rien apprendre !
+Les djeunz ne sont pas assez proches de leurs\nPokémon, c’est ce que je dis toujours.\c\nTu dois renforcer tes liens avec ton protégé\nsi tu veux qu’il reçoive mon enseignement.
+Ne me dis pas que tu ne sais pas que ton Pokémon\nconnaît déjà cette capacité !
+Veux-tu que j’enseigne [VAR 0107(0001)]\nà [VAR 0101(0000)] ?
+Voici la liste des Pokémon aptes à apprendre\nles capacités ultimes.\c\n- Pokémon Feu : Dracaufeu, Typhlosion,\nBraségali, Simiabraz, Roitiflam, Goupelin,\nFélinferno\c\n- Pokémon Eau : Tortank, Aligatueur, Laggron,\nPingoléon, Clamiral, Amphinobi, Oratoria\c\n- Pokémon Plante : Florizarre, Méganium,\nJungko, Torterra, Majaspic, Blindépique,\nArchéduc
+Choisissez une capacité à oublier pour faire\nplace à [VAR 0107(0000)].
+[VAR 0102(0000)] n’a pas appris\n[VAR 0107(0001)].

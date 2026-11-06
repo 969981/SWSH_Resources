@@ -1,0 +1,311 @@
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+[~ 31]
+[~ 32]
+[~ 33]
+[~ 34]
+[~ 35]
+[~ 36]
+[~ 37]
+[~ 38]
+[~ 39]
+[~ 40]
+[~ 41]
+[~ 42]
+[~ 43]
+[~ 44]
+[~ 45]
+[~ 46]
+[~ 47]
+[~ 48]
+[~ 49]
+[~ 50]
+[~ 51]
+[~ 52]
+[~ 53]
+[~ 54]
+[~ 55]
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+[~ 74]
+[~ 75]
+[~ 76]
+[~ 77]
+[~ 78]
+[~ 79]
+[~ 80]
+[~ 81]
+[~ 82]
+[~ 83]
+[~ 84]
+[~ 85]
+[~ 86]
+[~ 87]
+[~ 88]
+[~ 89]
+[~ 90]
+[~ 91]
+[~ 92]
+[~ 93]
+[~ 94]
+[~ 95]
+[~ 96]
+[~ 97]
+Ich verkaufe verschiedene Sorten von duftendem\nRauch. Möchtest du mir welchen abkaufen?
+Bis zum nächsten Mal!
+Kann ich sonst noch was für dich tun?
+Aha, [VAR 0109(0000)] willst du also.\nWie viele Exemplare möchtest du kaufen?
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,002E)] . Einverstanden?
+[VAR 0202(0001)] [VAR 010A(0000)] kosten\n[VAR 0206(0002,002E)] . Einverstanden?
+Vielen Dank! Hier hast du deinen Rauch.\nIch freue mich auf deinen nächsten Einkauf!\c
+Hoppla! In deinem Beutel ist offenbar nicht mehr\ngenug Platz...\c
+Tut mir leid, aber du hast nicht genug Geld...\c
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[VAR 0202(0001)] [VAR 010A(0000)] kosten\n[VAR 0206(0002,202F)] GP. Einverstanden?
+Hallo! Bei mir kannst du Naturheilmittel erstehen.\nIch mache dir einen besonders günstigen Preis!
+Danke für deinen Besuch!\nBis zum nächsten Mal.
+Darf’s sonst noch was sein?
+Wie viele [VAR 1001][VAR 0110(0000)]\nsollen es sein?
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,002E)] . Einverstanden?
+[VAR 0202(0001)] [VAR 010A(0000)] kosten\n[VAR 0206(0002,002E)] . Einverstanden?
+Hier hast du deine Ware. Eine sehr gesunde\nWahl, wenn ich das sagen darf!\c
+Oh, dafür hast du leider keinen Platz.\c
+Huch? Tut mir leid, aber dein Gespartes reicht\nleider nicht.\c
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[VAR 0202(0001)] [VAR 010A(0000)] kosten\n[VAR 0206(0002,202F)] GP. Einverstanden?
+Hallo! Wie wäre es mit ein paar frisch\ngepflückten Beeren?
+Danke für deinen Besuch!
+Möchtest du noch mehr Beeren kaufen?
+Wie viele [VAR 1001][VAR 0109(0000)] möchtest du?
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,002E)] . Einverstanden?
+[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)] kosten\n[VAR 0206(0002,002E)] . Einverstanden?
+Hier hast du deine Ware. Dein[VAR 1101(00FD,100D)] Pokémon wirde Pokémon werden\nsich bestimmt über einen Snack freuen.\c
+Nanu? Du hast offenbar nicht genug Platz in\ndeinem Beutel...\c
+Du hast offenbar nicht genug Geld. Tut mir leid,\naber ich muss auch von etwas leben.\c
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)] kosten\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[~ 131]
+[~ 132]
+[~ 133]
+[~ 134]
+[~ 135]
+[~ 136]
+[~ 137]
+[~ 138]
+[~ 139]
+[~ 140]
+[~ 141]
+[~ 142]
+[~ 143]
+[~ 144]
+[~ 145]
+[~ 146]
+[~ 147]
+[~ 148]
+Willkommen in unserer Boutique!\nSuchst du nach etwas Bestimmtem?
+Vielen Dank! Wenn du dich umziehen möchtest,\nnutze doch einfach unsere Umkleidekabine.
+Willkommen im Uniformladen!\nSuchst du nach etwas Bestimmtem?
+Danke für deinen Besuch!
+D-Das ist doch nicht etwa...?! Du besitzt\ntatsächlich eine Style-Karte?!
+Nur die angesehensten Stil-Ikonen in ganz Galar\nverfügen über dieses legendäre Item!
+Unseren Kunden, die einen derartig fein\nausgeprägten Sinn für Fashion haben, bieten wir\r\neinige ganz besondere Modeartikel an!
+Außerdem möchten wir dir gerne dieses\nDesignerstück gratis mitgeben!
+Nun gut, dann bleibt mir nur zu sagen...
+Wie ich höre, hast du die Arena-Mission des\nTurffield-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission des\nKeelton-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission des\nEngine-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission des\nPassbeck-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission des\nFairballey-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission des\nCirchester-Stadions bestanden.
+Wie ich höre, hast du die Arena-Mission von\nSpikeford bestanden.
+Wie ich höre, hast du die Arena-Mission des\nClaw-Stadions bestanden.
+Herzlichen Glückwunsch!\c\nDas Warensortiment hat sich erweitert.\nHoffentlich ist etwas für dich dabei!
+Wenn das nicht unser neuer Champ ist! Du hast\ndoch tatsächlich Delion, den Unschlagbaren,\r\nbesiegt...!\c\nDu bist einfach [VAR 1100(00FF,0E0E,0000)]der Allerbestedie Allerbeste!\c\nHerzlichen Glückwunsch! Es ist uns eine Ehre,\ndich in unserem Geschäft begrüßen zu dürfen.\c\nIn diesem Sinne...
+Willkommen, Champ! Möchtest du etwas kaufen?
+Alles Gute zum Geburtstag!\c\nWir vom Pokémon-Supermarkt hoffen, dass du\nuns auch weiterhin als [VAR 1100(00FF,0605,0000)]KundeKundin treu bleibst.
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+[~ 191]
+[~ 192]
+[~ 193]
+[~ 194]
+[~ 195]
+[~ 196]
+[~ 197]
+[~ 198]
+[~ 199]
+[~ 200]
+[~ 201]
+Etwas kaufen
+Etwas verkaufen
+Abbrechen
+Willkommen beim Pokémon-Supermarkt!\nWas möchtest du tun?
+Gibt es noch etwas, womit ich dienen kann?
+Wir freuen uns auf deinen nächsten Besuch!
+Hier gibt es TMs zu kaufen!\nKann ich dir helfen?
+Geld:
+Gewinnpunkte:
+[VAR 0206(0000,002E)] 
+[~ 212]
+[~ 213]
+[~ 214]
+Abbrechen
+[VAR 0206(0000,202F)] GP
+[VAR 0109(0000)]
+[VAR 0109(0000)]
+[VAR 0107(0000)]
+[~ 220]
+[VAR 0206(0000,002E)] 
+[VAR 0202(0000)]
+×
+Wie viele [VAR 1001][VAR 0110(0000)]\nmöchtest du kaufen?
+Du möchtest [VAR 0202(0001)] [VAR 0110(0000)]?\nDas macht [VAR 0206(0002,002E)] .
+Vielen Dank! Hier hast du deine Ware.\c
+Du hast nicht genügend Geld.\c
+Tut mir echt leid, aber in deinem Beutel ist nicht\nmehr genug Platz...\c
+Du hast deinen Einkauf in der [VAR 0112(0001)]\nverstaut.\c
+Dafür ist kein Platz mehr in deinem Beutel.\c
+Du bekommst als Bonus noch\n[VAR 0201(0000)] Premierb[VAR 1101(0000,0403)]allälle dazu.\c
+Die [VAR 0109(0000)] [VAR 0107(0001)] also?\nGut, das kostet dich dann [VAR 0206(0002,002E)] .
+Diese TM hast du doch schon!\c
+Willkommen im GP-Laden!\nWie kann ich dir helfen?
+Du möchtest [VAR 0202(0001)] [VAR 0110(0000)]?\nDas macht [VAR 0206(0002,002E)] .
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)] kosten\n[VAR 0206(0002,202F)] GP. Einverstanden?
+[~ 238]
+Schau mal wieder vorbei!
+Kann ich noch etwas für dich tun?
+Wie viele [VAR 1001][VAR 0110(0000)]\nmöchtest du haben?
+Bitte schön!\c
+Dafür ist kein Platz mehr in deinem Beutel.\c
+Du hast nicht genug GP.\c
+Du hast an Link-Kämpfen teilgenommen, oder?\c\nIch schenke dir diese Uniform, gönn dir damit\ndoch auch mal ein paar Rangkämpfe!
+×
+[VAR 0206(0000,002E)] 
+Ja
+Nein
+ Abbrechen
+ Bestätigen
+[VAR 0202(0000)]
+Stärke
+Genauigkeit
+AP
+[VAR 0201(0000)]
+[VAR 0107(0000)]
+TM[VAR 0201(0000)]
+[VAR 0202(0000)]
+---
+[~ 261]
+---
+Hallo! Ich habe die feinsten Zutaten im Angebot.\nWas darf es sein?
+Ich hoffe, du beehrst mich morgen wieder!
+Wirf doch noch einen Blick auf die anderen\nZutaten, die ich im Angebot habe.\c
+Wie viele [VAR 1001][VAR 0110(0000)]\nmöchtest du kaufen?
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,002E)] . Einverstanden?
+[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)] kosten\n[VAR 0206(0002,002E)] . Einverstanden?
+Bitte, hier hast du deine Ware.\nKoch dir was Schönes damit!\c
+Huch? Du hast offenbar keinen Platz mehr dafür\nin deinem Beutel.\c
+Du hast offenbar nicht genug Geld.\nKomm zurück, wenn du wieder flüssig bist.\c
+Watt:
+[VAR 0206(0000,202F)] W
+Hallo! Ich bin ein Watt-Händler.\nWie kann ich dir helfen?
+Schau bald wieder vorbei!
+Brauchst du sonst noch was?
+Wie viele [VAR 1001][VAR 0110(0000)]\nmöchtest du?
+Die [VAR 0109(0000)] [VAR 0107(0001)] also?\nWie viele Exemplare möchtest du denn?
+[VAR 0202(0001)] [VAR 010A(0000)] kostet\n[VAR 0206(0002,202F)] Watt. Einverstanden?
+[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)] kosten\n[VAR 0206(0002,202F)] Watt. Einverstanden?
+[VAR 0202(0002)] Exemplar der [VAR 0109(0000)] [VAR 0107(0001)]\nkostet [VAR 0206(0003,202F)] Watt. Einverstanden?
+[VAR 0202(0002)] Exemplare der [VAR 0109(0000)] [VAR 0107(0001)]\nkosten [VAR 0206(0003,202F)] Watt. Einverstanden?
+Hier hast du deine Ware.\c
+Dafür hast du keinen Platz mehr im Beutel.\c
+Dafür hast du nicht genug Watt.\c
+Hallo! Ich bin ein Watt-Händler.\nWie kann ich dir helfen?
+Bis zum nächsten Mal!
+×
+Ich kann dir fantastische Waren im Tausch\ngegen Dyna-Erz anbieten!
+Bis zum nächsten Mal!
+Für [VAR 0202(0001)] [VAR 0110(0000)]\nbekomme ich [VAR 0202(0002)] Brocken Dyna-Erz von dir.
+Für [VAR 0202(0001)] [VAR 0110(0000)]\nbekomme ich [VAR 0202(0002)] Brocken Dyna-Erz von dir.
+Dafür hast du leider nicht genügend\nBrocken Dyna-Erz...\c
+Für weitere Exemplare dieses Items hast du\nkeinen Platz mehr im Beutel...\c
+Hier hast du deine Ware.\c
+Wie viele [VAR 1001][VAR 0110(0000)]\ndürfen es sein?
+Hallihallo! So schöne Waren wie meine\nfindest du nur hier in Freezedale!
+Hallöchen! Ich bin der Watt-Händler\ndeines Vertrauens.\c\nAbgesehen vom üblichen Sortiment habe ich\nauch ein täglich wechselndes Angebot an\r\nseltenen Items. Schau also jeden Tag vorbei!\c\nNun, was möchtest du dir heute ansehen?
+Willkommen beim Watt-Händler deines\nVertrauens! Was möchtest du dir ansehen?
+Das reguläre Sortiment
+Das Angebot des Tages
+Oh, das Angebot des heutigen Tages wird\ndir gefallen...
+[VAR 1603(0000,0000)][VAR 0110(0000)]!\nHeute für schlappe [VAR 0206(0001,202F)] Watt!\r\nSchlag zu, bevor dir jemand zuvorkommt!
+Ein Set aus [VAR 0202(0002)] [VAR 0110(0000)]\nfür den absoluten Tiefpreis von [VAR 0206(0001,202F)] Watt!
+Gekauft!
+Nein danke.
+Vielen Dank! Du hast echt ein gutes Auge für\nQualität, das muss man schon sagen.
+Mein Angebot des Tages ist leider ausverkauft.\nVersuch es morgen wieder!
+Ich freu mich schon auf deinen nächsten Besuch!
+Möchtest du sonst noch einen Blick\nauf etwas werfen?

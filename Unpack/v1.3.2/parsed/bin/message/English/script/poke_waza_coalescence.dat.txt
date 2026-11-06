@@ -1,0 +1,24 @@
+Moves that only select Pokémon can learn...\nThey are called battle-combo moves.\r\nDo you want your Pokémon to learn one of them?
+All right. Fair enough. If you want your Pokémon\nto learn one of my moves, just come back.
+Oh, but none of the Pokémon you’re with right\nnow can learn my move. That’s too bad!
+Which Pokémon should learn my move?
+[VAR 0102(0001)] can’t learn my move.
+An Egg... I can’t teach my move to an Egg.
+[VAR 0102(0001)] already knows my move.
+Which move should be forgotten?
+[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\c\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]
+Battle-combo moves...\c\nHow you combine them with each other is\nthe key to using them well!
+Did you get a Pokémon from the island kahuna\nor professor, maybe?\c\nIt doesn’t matter if it’s evolved into something\nelse since then.\c\nAs long as it’s a Fire-, Water-, or Grass-type\nPokémon that new Trainers are given around\r\nhere, and it’s really friendly toward you, I’ll\r\nteach it a special move—a battle-combo move.
+A special move...\c\nShall I teach your Pokémon a\nbattle-combo move?
+There is no move that I can teach to any of the\nPokémon you are with...
+I see...\nWell, see you next time.
+Which Pokémon will it be, then?
+That Pokémon can’t learn a move from me.
+Do you want me to teach my move to an Egg?!\nYou are being unreasonable.
+This Pokémon... It doesn’t look like it’s too\ncomfortable with you yet.
+That Pokémon already knows one of my moves.
+Do you want me to teach [VAR 0101(0000)]\n[VAR 0107(0001)]?
+My favorite Pokémon are all the Pokémon you\nget from people like professors or kahunas.\c\nI teach special moves—battle-combo moves—to\nthose Pokémon and the Pokémon that evolve\r\nfrom them. That’s what I do!
+Please choose a move that will be replaced\nwith [VAR 0107(0000)].
+[VAR 0102(0000)] did not learn\n[VAR 0107(0001)].

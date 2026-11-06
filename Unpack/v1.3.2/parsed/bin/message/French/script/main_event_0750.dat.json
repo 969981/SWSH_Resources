@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Le lendemain matin..."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Salut, [VAR 0100(0000)].[VAR 0114(000D)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Ton pote est d\u2019j\u00E0 parti pour l\u2019D\u00E9fi des Ar\u00E8nes.\\nIl a dit qu\u2019la carte de Ligue de Kabu l\u2019avait\\r\\naid\u00E9 \u00E0 pr\u00E9parer sa strat\u00E9gie pour le vaincre...\\c\\nD\u2019ailleurs, il m\u2019en a fil\u00E9 plein.\\nBouge pas, je t\u2019en donne une.[VAR 0114(000D)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Dis, tu veux bien m\u2019rendre un service\u202F?\\nOn peut s\u2019faire un combat\u202F?\\c\\nJ\u2019stresse un peu pour le D\u00E9fi,\\nj\u2019ai peur d\u2019pas avoir le niveau.[VAR 0114(000D)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Ouais, j\u2019crois que Morpeko et mon \u00E9quipe\\nsont pas encore tout \u00E0 fait au niveau.\\c\\nCimer, en tout cas. J\u2019ai rien \u00E0 te donner\\nen d\u00E9dommagement, mais j\u2019peux soigner\\r\\nton [VAR 1101(00FD,0607)]Pok\u00E9mon\u00E9quipe, s\u2019tu veux\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Tiens, au fait.\\nC\u2019est cadeau, pour hier.[VAR 0114(000D)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Nan, mais s\u00E9rieux, t\u2019as grave le niveau\\npour affronter le Champion du type Feu.\\c\\nQu\u2019est-ce que t\u2019attends\u202F?\\nFonce choper le Badge au Stade de Motorby\u202F![VAR 0114(000D)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Morp\u202F! Mooorp\u202F![VAR 0114(0070)]"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Se hai domande sui Pok\u00E9mon, sono a tua\\ndisposizione! Su cosa vuoi saperne di pi\u00F9?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Allenamento Pro"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Insegnare una mossa particolare"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Far ricordare una mossa"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Far dimenticare una mossa"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Valutare un soprannome"
+  },
+  {
+    "index": 8,
+    "flags": 8,
+    "text": "Svelare i ricordi di un Pok\u00E9mon"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Torna pure quando vuoi!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Ma guarda un po\u2019 chi \u00E8 [VAR 1100(00FF,0202)]illa nuov[VAR 1100(00FF,0101)]oa Campione[VAR 1100(00FF,0300)]ssa!\\c\\nPerfetto! Allora posso rendere pi\u00F9 forti i tuoi\\nPok\u00E9mon di livello 100 con l\u2019Allenamento Pro!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Per\u00F2... c\u2019\u00E8 un piccolo problema...\\c\\nNon mi sembra che tu abbia dei Tappi d\u2019oro.\\nE non vedo nemmeno dei Tappi d\u2019argento..."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Quale Pok\u00E9mon vuoi sottoporre\\nall\u2019Allenamento Pro?"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Uhm... Quel Pok\u00E9mon non \u00E8 ancora\\nal livello giusto.\\c\\nSe non \u00E8 di livello 100, l\u2019Allenamento Pro\\nsar\u00E0 troppo pesante per lui."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] \u00E8 gi\u00E0 cos\u00EC Pro che nemmeno\\nun professionista come me pu\u00F2 fare di meglio!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Vuoi usare un Tappo d\u2019oro o un Tappo d\u2019argento?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Vuoi potenziare tutte le statistiche?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Quale statistica vuoi sottoporre\\nall\u2019Allenamento Pro?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]: [VAR 0201(0001)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Alleniamoci!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Non \u00E8 possibile migliorare ulteriormente\\nquesta statistica!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Non hai alcun [VAR 0109(0000)]..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Puff pant... Che sudata! Ora [VAR 0102(0000)]\\n\u00E8 pi\u00F9 forte grazie all\u2019Allenamento Pro!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi allenare un altro Pok\u00E9mon?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Quale mossa vuoi che gli insegni?"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Una mossa eccelsa"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Una mossa combinata"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Dragobolide"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Radicalbero"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Idrocannone"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Incendio"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Fiammapatto"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Acquapatto"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Erbapatto"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "A chi vuoi che la insegni?"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi far ricordare una mossa?"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "A quale Pok\u00E9mon vuoi far dimenticare\\nuna mossa?"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Uhm... Un attimo... Quella \u00E8 una mossa\\nmolto rara.\\c\\nUna volta dimenticata non ci sar\u00E0 modo\\ndi fargliela ricordare di nuovo.\\r\\nPotr\u00F2 per\u00F2 insegnargli un\u2019altra mossa rara."
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Ah! [VAR 0102(0001)] non pu\u00F2 imparare\\nquella mossa!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] conosce gi\u00E0 quella mossa."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Esistono mosse particolari che non \u00E8 possibile\\nimparare n\u00E9 salendo di livello, n\u00E9 con una MT,\\r\\ne nemmeno con un DT.\\c\\nSe t\u2019interessa, posso insegnarle ai tuoi Pok\u00E9mon!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Vuoi far dimenticare una mossa a uno dei\\ntuoi Pok\u00E9mon?\\c\\nRicorda che una volta dimenticata dovr\u00E0\\nimpararla di nuovo per poterla usare!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Posso aiutare il tuo Pok\u00E9mon a ricordare\\nqualsiasi mossa che sarebbe stato in grado\\r\\ndi imparare finora."
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Uhm... Non vedo mosse che [VAR 0102(0001)]\\npossa dimenticare..."
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Uhm... Non vedo mosse che [VAR 0102(0001)]\\npossa ricordare..."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Non puoi scegliere un Uovo!\\nAspetta che si schiuda, prima!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] conosce gi\u00E0 la mossa particolare!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Vuoi che insegni una mossa a un altro Pok\u00E9mon?"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Vuoi che faccia ricordare una mossa a un altro\\nPok\u00E9mon?"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Vuoi che faccia dimenticare una mossa a un altro\\nPok\u00E9mon?"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Hai cambiato idea?"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Hai cambiato idea?"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Hai cambiato idea?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Niente Allenamento Pro, allora?"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha rinnovato la sua\\ndeterminazione a lottare e ha assunto\\r\\nla Forma Risoluta!"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0002)]!"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Quale mossa vuoi che dimentichi?"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Quale mossa vuoi che ricordi?"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Quale soprannome vuoi che valuti?"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Mmh... [VAR 0102(0000)], eh?\\c\\nNon \u00E8 male... ma chiss\u00E0, se ti impegni potresti\\nanche trovargliene uno migliore. Che ne dici?"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Bene!\\nChe soprannome vuoi dargli?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Perfetto! D\u2019ora in poi questo Pok\u00E9mon\\nsi chiamer\u00E0 [VAR 0102(0000)]!\\c\\nDecisamente meglio!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Fatto! Questo Pok\u00E9mon si chiamer\u00E0\\n[VAR 0102(0000)]!\\c\\nIn fondo non cambia molto... ma gli dona\\nmolto di pi\u00F9!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Mmh... [VAR 0102(0000)]?\\nMai soprannome fu pi\u00F9 appropriato!\\c\\nMi raccomando, abbi la massima\\ncura di [VAR 0102(0000)]!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Ma dai!\\n\u00C8 soltanto un Uovo!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Mmh...\\c\\nVuoi lasciar perdere il soprannome\\ne ritornare al nome che il Pok\u00E9mon aveva\\r\\nquando vi siete incontrati?"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Ma certo... [VAR 0101(0001)]!\\c\\nNon c\u2019\u00E8 modo migliore per ravvivare il ricordo\\ndi quando vi siete conosciuti!\\c\\nBeh, se vuoi dare soprannomi ai tuoi Pok\u00E9mon,\\nio sono sempre qui!"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Il soprannome dei Pok\u00E9mon ricevuti da altri\\nAllenatori pu\u00F2 essere cambiato solo una volta.\\c\\nD\u2019ora in avanti il soprannome di questo Pok\u00E9mon\\nsar\u00E0 [VAR 0102(0000)]. Va bene?"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Ah no? Ok, pensaci pure con calma."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Vuoi che valuti il soprannome di qualche altro\\nPok\u00E9mon?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Di quale Pok\u00E9mon vuoi conoscere i ricordi?"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "Io riesco a captare i ricordi dei Pok\u00E9mon."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Sembra che [VAR 0102(0000)] abbia alcuni\\nricordi risalenti a prima del vostro incontro."
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Vuoi conoscere i ricordi di un altro Pok\u00E9mon?"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha dei bei ricordi,\\nma adesso non \u00E8 possibile richiamarli..."
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha incontrato [VAR 0100(0001)]\\n[VAR 01D6(0002)].\\c\\nHa lanciato una Pok\u00E9 Ball per catturarlo e da\\nquel momento hanno iniziato a viaggiare insieme.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha incontrato [VAR 0100(0001)]\\nper la prima volta quando il Pok\u00E9mon \u00E8 nato da\\r\\nun Uovo [VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha incontrato [VAR 0100(0001)]\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] e [VAR 0100(0001)] hanno fatto\\namicizia grazie a uno scambio di Pok\u00E9mon\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha visitato\\ncon [VAR 0100(0001)] il Centro Pok\u00E9mon\\r\\nper comprare [VAR 1502(0003,0000)][VAR 0109(0003)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], per rimettersi in\\nforze, ha visitato con [VAR 0100(0001)] un Centro\\r\\nPok\u00E9mon.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Quando [VAR 0100(0001)] ha pescato\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)], era insieme\\r\\na [VAR 0102(0000)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] stava pescando con\\n[VAR 0100(0001)], ma il Pok\u00E9mon che aveva\\r\\nabboccato \u00E8 riuscito a fuggire.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha visto\\n[VAR 0100(0001)] colmare di attenzioni\\r\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha ricevuto\\nun dolcetto da [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 andato a comprare\\ndei vestiti con [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha imparato la mossa\\n[VAR 0107(0005)] grazie a [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha aiutato\\n[VAR 0100(0001)] a far schiudere un Uovo\\r\\ndi [VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Quando [VAR 0100(0001)] ha catturato\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)], era insieme\\r\\na [VAR 0102(0000)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha usato\\n[VAR 1502(0003,0000)][VAR 010A(0003)] quando\\r\\n[VAR 0102(0000)] era in difficolt\u00E0.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Una volta, seguendo le indicazioni di\\n[VAR 0100(0001)], [VAR 0102(0000)] ha usato\\r\\n[VAR 0107(0005)], ma la mossa non ha\\r\\navuto effetto.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha lottato\\ninsieme a [VAR 0100(0001)] e ha sconfitto\\r\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], lottando\\ncontro [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)], \u00E8 stato sconfitto\\r\\ned \u00E8 fuggito con [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Grazie all\u2019allenamento svolto con [VAR 0100(0001)],\\n[VAR 0102(0000)] si \u00E8 evoluto mentre si trovava\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha usato Surf\\ntrasportando sul dorso [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha visto\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)] portare sul dorso\\r\\n[VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], lottando al fianco\\ndi [VAR 0100(0001)], ha sconfitto la squadra\\r\\ndi un Capopalestra.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha affrontato\\nle sfide della Villa Lotta con [VAR 0100(0001)]\\r\\nin un\u2019atmosfera di grande tensione.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha usato Volo\\nper trasportare [VAR 0100(0001)]\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "Una volta [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)] \u00E8 sbucato fuori\\nall\u2019improvviso, facendo prendere uno spavento a\\r\\n[VAR 0102(0000)] e [VAR 0100(0001)]!\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 116,
+    "flags": 4,
+    "text": "Un giorno [VAR 0102(0000)] ha visto [VAR 0100(0001)]\\nusare [VAR 1502(0003,0000)][VAR 010A(0003)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "Una volta, lottando insieme a [VAR 0100(0001)],\\n[VAR 0102(0000)] \u00E8 entrato nella Sala d\u2019Onore.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Quando [VAR 0100(0001)] ha completato\\nil Pok\u00E9dex, era insieme a [VAR 0102(0000)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Mentre era con [VAR 0100(0001)], [VAR 0102(0000)]\\nha incontrato [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], lottando insieme\\na [VAR 0100(0001)], ha riportato un sensazionale\\r\\ntrionfo nella lotta.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno usato insieme il Ricerca strumenti\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] e [VAR 0102(0000)]\\nhanno fatto insieme un giro in bicicletta\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha controllato\\nla Mappa citt\u00E0 con [VAR 0100(0001)]\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha piantato con [VAR 0100(0001)]\\n[VAR 1502(0003,0000)][VAR 0109(0003)] ed \u00E8 impaziente\\r\\ndi vederne spuntare i frutti.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 125,
+    "flags": 4,
+    "text": "Una volta, su indicazione di [VAR 0100(0001)],\\n[VAR 0102(0000)] ha usato Forza, mossa di cui\\r\\nva fiero, [VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 126,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], su indicazione\\ndi [VAR 0100(0001)], ha usato fieramente Taglio\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], su indicazione\\ndi [VAR 0100(0001)], ha usato Spaccaroccia\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Una volta, mentre trasportava sul dorso\\n[VAR 0100(0001)], [VAR 0102(0000)] ha usato\\r\\nCascata [VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 129,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha visto\\n[VAR 0100(0001)] raccogliere di nascosto qualcosa\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[VAR 0100(0001)] ha dato a [VAR 0102(0000)]\\n[VAR 1502(0003,0000)][VAR 010A(0003)] una volta.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 diretto verso\\nVia Vittoria assieme a [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 132,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha letto\\nun cartello insieme a [VAR 0100(0001)]\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha preso il treno\\ncon [VAR 0100(0001)] ed \u00E8 rimasto colpito\\r\\ndalla velocit\u00E0 a cui sfrecciava.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 134,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha incontrato\\n[VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)] con [VAR 0100(0001)]\\r\\nusando il Pok\u00E9 Radar.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nsono fuggiti via spaventati da [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)]\\r\\nsbucato fuori all\u2019improvviso.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 136,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha affrontato\\nla Casa Esami con [VAR 0100(0001)] e ha\\r\\nottenuto un ottimo punteggio.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 137,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 stato attentamente\\nosservato da un Giudice da cui lo aveva portato\\r\\n[VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 138,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha dimenticato\\n[VAR 0107(0005)] grazie al Cancellamosse\\r\\npresentatogli da [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 139,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha ricordato\\n[VAR 0107(0005)] su indicazione\\r\\ndi [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 140,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha affidato\\n[VAR 0102(0000)] alla Pensione Pok\u00E9mon\\r\\nassieme a [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "Una volta, al Centro Lotteria ID, [VAR 0102(0000)]\\nha visto [VAR 0100(0001)] vincere\\r\\n[VAR 1502(0003,0000)][VAR 010A(0003)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 142,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha usato un Repellente\\n[VAR 01D6(0002)] quando\\r\\nera insieme a [VAR 0102(0000)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha fatto un\\nallenamento faticoso con [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 144,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha preso l\u2019ascensore\\ncon [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha portato\\n[VAR 0102(0000)] dal Giudice Onomastico\\r\\nper dargli un nome significativo.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nsono andati in un negozio di abbigliamento.\\c\\n[VAR 0100(0001)] ha provato degli abiti,\\nma non ha comprato nulla.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 andato\\ncon [VAR 0100(0001)] in un bel ristorante\\r\\ndove hanno mangiato a volont\u00E0.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha portato\\n[VAR 0102(0000)] da una ragazza molto\\r\\ncarina che lo ha riempito di coccole.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 149,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno esaminato un cestino dei rifiuti\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Una volta, mentre era insieme a [VAR 0100(0001)],\\n[VAR 0102(0000)] ha lottato cos\u00EC duramente\\r\\ncontro [VAR 1502(0004,0001)][VAR 0101(0004)] da dover ricorrere\\r\\nalla mossa Scontro.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 salito su una torre\\naltissima con [VAR 0100(0001)] e insieme hanno\\r\\nguardato il mondo da lass\u00F9.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 andato con\\n[VAR 0100(0001)] in una grotta piena di specchi\\r\\ne ha visto la propria immagine riflessa.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno smarrito la strada durante\\r\\nun\u2019escursione nel bosco.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] \u00E8 andato con\\n[VAR 0100(0001)] in una fabbrica piena\\r\\ndi macchinari complicati.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 155,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno costruito una Base Segreta.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno partecipato a una Gara con un\u2019esibizione\\c\\nche ha conquistato il pubblico.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno partecipato a una Gara riportando\\r\\nuna splendida vittoria.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno visitato posti fantastici usando l\u2019Ipervolo.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)], su indicazione\\ndi [VAR 0100(0001)], si \u00E8 immerso negli abissi\\r\\ne ha esplorato il fondale marino.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 160,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 seduto insieme\\na [VAR 0100(0001)] su una panchina\\r\\n[VAR 01D6(0002)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 dynamaxizzato\\ne ha lottato contro [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)] insieme\\r\\na [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 dynamaxizzato\\nsu istruzioni di [VAR 0100(0001)] e ha lottato\\r\\ncontro [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 accampato\\ncon [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 164,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha cucinato insieme\\na [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 165,
+    "flags": 4,
+    "text": "Una volta [VAR 0100(0001)] ha affidato\\n[VAR 0102(0000)] all\u2019Ostello Pok\u00E9mon\\r\\nassieme a [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 166,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha festeggiato\\nil compleanno di [VAR 0100(0001)]\\r\\nin un Centro Pok\u00E9mon.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 167,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha accompagnato\\n[VAR 0100(0001)] a farsi rifare l\u2019acconciatura\\r\\ne ha notato la sua indecisione.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nsi sono inzuppati di pioggia mentre\\r\\ncamminavano insieme.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 169,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] e [VAR 0100(0001)]\\nhanno partecipato a un rally correndo\\r\\na velocit\u00E0 folle.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Mentre era in un Box, [VAR 0102(0000)] si \u00E8 messo\\na studiare la mossa [VAR 0107(0005)]\\r\\nper usarla assieme a [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Mentre era in un Box, [VAR 0102(0000)] si \u00E8\\nallenato a usare la mossa [VAR 0107(0005)]\\r\\nsperando di ricevere le lodi di [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 172,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha parlato\\ndi [VAR 0100(0001)] con [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)]\\r\\nche era in un Box insieme a lui.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 173,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha fatto amicizia\\ncon [VAR 1002][VAR 1502(0004,0001)][VAR 0101(0004)] nei Box.\\c\\nI due hanno studiato delle mosse insieme,\\nparlando di come un giorno [VAR 0100(0001)]\\r\\navrebbe riconosciuto il loro valore.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 chiesto se\\n[VAR 1500(0003,0000)][VAR 010A(0003)] che aveva\\r\\ncon s\u00E9 nel Box servisse[VAR 1101(0003,0200)]ro a [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] si \u00E8 agitato cos\u00EC\\ntanto quando [VAR 0100(0001)] ha controllato\\c\\nil suo Box, che non riusciva neanche a incrociare\\nil suo sguardo.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 176,
+    "flags": 4,
+    "text": "Una volta, mentre era in un Box, [VAR 0102(0000)]\\nha sentito parlare dell\u2019arrivo di [VAR 0100(0001)]\\r\\n[VAR 01D6(0002)] e si \u00E8\\r\\nimmaginato la scena.\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "Una volta [VAR 0102(0000)] ha litigato con\\n[VAR 0101(0004)], suo compagno di Box,\\r\\na proposito di [VAR 0100(0001)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 178,
+    "flags": 4,
+    "text": "Una volta, mentre era in un Box, [VAR 0102(0000)]\\nha riflettuto sul perch\u00E9 [VAR 0100(0001)] gli avesse\\r\\ndato [VAR 1502(0003,0000)][VAR 010A(0003)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "Una volta, mentre era in un Box, [VAR 0102(0000)]\\nha fatto uno strano sogno in cui [VAR 0100(0001)]\\r\\nusava la mossa [VAR 0107(0005)].\\c\\n[VAR 01D8(0007)]\\n[VAR 01D7(0006)]"
+  }
+]
