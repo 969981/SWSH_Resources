@@ -1,0 +1,73 @@
+name: SWSH v1.3.2 native encounter hook RVA source/NSO crosscheck
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/swsh_native_encounter_anchors.py
+      - .github/workflows/swsh-native-encounter-anchors.yml
+permissions:
+  contents: write
+concurrency:
+  group: swsh-native-encounter-anchors-master
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_native_encounter_anchors.py
+            /scripts/swsh_nso_shiny_probe.py
+            /v1.3.2/0/sword_main
+            /v1.3.2/0/shield_main
+            /Unpack/v1.3.2/catalog/nso_shiny_probe.json
+            /Unpack/v1.3.2/catalog/nso_native_encounter_anchors.csv
+            /Unpack/v1.3.2/catalog/nso_native_encounter_anchors_summary.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify source-bound native candidate offsets against actual TEXT bytes
+        run: |
+          set -euo pipefail
+          python -m py_compile scripts/swsh_native_encounter_anchors.py
+          python scripts/swsh_native_encounter_anchors.py
+          python - <<'PY'
+          import json,csv
+          from pathlib import Path
+          p=Path('Unpack/v1.3.2/catalog')
+          doc=json.loads((p/'nso_native_encounter_anchors_summary.json').read_text(encoding='utf-8'))
+          assert doc['rows']==20
+          assert doc['runtime_tested'] is False
+          assert doc['weather_allow_deny_rva_verified'] is False
+          assert len(doc['summary'])==2
+          assert all(r['native_candidates']==10 for r in doc['summary'])
+          assert all(r['independent_generate_main_spec_prelude_matches']==1 for r in doc['summary'])
+          with (p/'nso_native_encounter_anchors.csv').open(encoding='utf-8-sig',newline='') as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20
+          assert sum(r['pkNX_independent_prelude_confirmed']=='true' for r in rows)==2
+          assert not any(r['runtime_tested']!='false' for r in rows)
+          assert all(len(r['first_32_bytes'])==64 for r in rows)
+          print('NSO source/bytes audited:',len(rows),'anchors; runtime unverified')
+          PY
+      - name: Publish static address evidence, not runtime claims
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- Unpack/v1.3.2/catalog/nso_native_encounter_anchors.csv Unpack/v1.3.2/catalog/nso_native_encounter_anchors_summary.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'data(swsh): crosschecked native hook RVA candidates for both 1.3.2 NSOs [skip ci]'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin master
+            if git push origin HEAD:master; then exit 0; fi
+            sleep 3
+          done
+          exit 1
