@@ -6,6 +6,8 @@ on:
     branches: [master]
     paths:
       - scripts/swsh_bleed_casebook.py
+      - scripts/swsh_weather_gdb_capture.py
+      - scripts/swsh_weather_validate_runtime.py
       - .github/workflows/swsh-bleed-casebook.yml
 
 permissions:
@@ -28,6 +30,8 @@ jobs:
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             /scripts/swsh_bleed_casebook.py
+            /scripts/swsh_weather_gdb_capture.py
+            /scripts/swsh_weather_validate_runtime.py
             /Unpack/v1.3.2/catalog/wild_weather_candidates.csv
             /Unpack/v1.3.2/catalog/wild_weather_locale_summary.json
             /Unpack/v1.3.2/catalog/nso_shiny_probe.json
@@ -43,6 +47,7 @@ jobs:
         run: |
           set -euo pipefail
           python -m py_compile scripts/swsh_bleed_casebook.py
+          python -m py_compile scripts/swsh_weather_gdb_capture.py scripts/swsh_weather_validate_runtime.py
           python scripts/swsh_bleed_casebook.py --repo .
           python - <<'PY'
           from pathlib import Path
@@ -61,6 +66,41 @@ jobs:
                   assert all(x['runtime_status']=='NOT_TESTED' for x in rows)
                   assert len({x['case_id'] for x in rows})==268
           print('Casebook check:',s['case_count'],s['scenario_count'],s['control_count'])
+          PY
+      - name: Validate empty runtime template and reject a deliberately mismatched BuildID
+        run: |
+          set -euo pipefail
+          python scripts/swsh_weather_validate_runtime.py --repo . --output /tmp/swsh_weather_empty_review.json
+          python - <<'PY'
+          import csv, json, subprocess, sys, tempfile
+          from pathlib import Path
+          p=Path("Unpack/v1.3.2/catalog")
+          result=json.loads(Path("/tmp/swsh_weather_empty_review.json").read_text(encoding="utf-8"))
+          assert result["status"]=="NO_RUNTIME_OBSERVATIONS"
+          assert result["runtime_verified_cases"]==0
+          assert result["input_observations"]==0
+          case=next(csv.DictReader((p/"weather_bleed_268_cases.csv").open(encoding="utf-8-sig",newline="")))
+          source=p/"weather_bleed_runtime_observations_TEMPLATE.csv"
+          with source.open(encoding="utf-8-sig",newline="") as f:
+              fields=next(csv.reader(f))
+          fake={f:"" for f in fields}
+          fake.update(case_id=case["case_id"],scenario_id=case["scenario_id"],game=case["game"],
+              build_id="0"*64,actual_zone_id_hex=case["zone_id_hex"],
+              actual_weather_index=case["weather_index"],actual_mode=case["mode"],
+              branch_result="ALLOW")
+          with tempfile.TemporaryDirectory() as d:
+              inp=Path(d)/"invalid.csv"
+              out=Path(d)/"invalid_report.json"
+              with inp.open("w",encoding="utf-8",newline="") as f:
+                  w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerow(fake)
+              cmd=[sys.executable,"scripts/swsh_weather_validate_runtime.py",
+                   "--repo",".","--observations",str(inp),"--output",str(out)]
+              proc=subprocess.run(cmd,capture_output=True,text=True)
+              assert proc.returncode!=0,proc.stdout
+              review=json.loads(out.read_text("utf-8"))
+              assert review["rejected_records"]==1
+              assert review["runtime_verified_cases"]==0
+          print("Runtime evidence validator rejects wrong BuildID; no fake runtime pass")
           PY
       - name: Commit only source-backed analysis and empty evidence template
         run: |
