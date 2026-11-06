@@ -36,6 +36,7 @@ jobs:
             /Unpack/v1.3.2/catalog/wild_weather_locale_summary.json
             /Unpack/v1.3.2/catalog/nso_shiny_probe.json
             /Unpack/v1.3.2/catalog/nso_segments.csv
+            /Unpack/v1.3.2/catalog/nso_native_encounter_anchors.csv
             /Unpack/v1.3.2/catalog/weather_bleed_268_cases.csv
             /Unpack/v1.3.2/catalog/weather_bleed_scenarios.csv
             /Unpack/v1.3.2/catalog/weather_bleed_control_cases.csv
@@ -102,6 +103,45 @@ jobs:
               assert review["rejected_records"]==1
               assert review["runtime_verified_cases"]==0
           print("Runtime evidence validator rejects wrong BuildID; no fake runtime pass")
+          PY
+      - name: Test GDB auto-arm metadata binding with a fake debugger (no runtime)
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import csv,importlib.util,shlex,sys,types
+          from pathlib import Path
+          installed={}
+          breakpoints=[]
+          class FakeCommand:
+              def __init__(self,name,kind): installed[name]=self
+          class FakeBreakpoint:
+              def __init__(self,spec,**kwargs):breakpoints.append(spec)
+          fake=types.SimpleNamespace(
+              Command=FakeCommand,Breakpoint=FakeBreakpoint,
+              COMMAND_USER=0,BP_BREAKPOINT=0,GdbError=ValueError,
+              string_to_argv=shlex.split,
+              selected_inferior=lambda:types.SimpleNamespace(is_valid=lambda:True),
+              write=lambda s:None)
+          sys.modules['gdb']=fake
+          spec=importlib.util.spec_from_file_location('swsh_gdb_capture','scripts/swsh_weather_gdb_capture.py')
+          mod=importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(mod)
+          assert 'swsh-weather-arm-known' in installed
+          path=Path('Unpack/v1.3.2/catalog/weather_bleed_268_cases.csv')
+          with path.open(encoding='utf-8-sig',newline='') as f:
+              item=next(csv.DictReader(f))
+          argv=['.',item['case_id'],'0x7100000000','/tmp/swsh_weather_fake_capture.jsonl']
+          installed['swsh-weather-arm-known'].invoke(' '.join(argv),False)
+          assert len(breakpoints)==4,breakpoints
+          with Path('Unpack/v1.3.2/catalog/nso_native_encounter_anchors.csv').open(
+                 encoding='utf-8-sig',newline='') as f:
+              anchors=[r for r in csv.DictReader(f)
+                       if r['game']==item['game'].lower()
+                       and r['native_anchor'] in installed['swsh-weather-arm-known'].ENTRIES]
+          expected=['*0x%x'%(0x7100000000+int(r['main_rva_hex'],0)) for r in anchors]
+          assert set(breakpoints)==set(expected),(breakpoints,expected)
+          assert not Path('/tmp/swsh_weather_fake_capture.jsonl').exists()
+          print('Four source-bound breakpoints armed; zero runtime claims or fabricated traces')
           PY
       - name: Commit only source-backed analysis and empty evidence template
         run: |
