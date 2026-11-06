@@ -1,0 +1,337 @@
+[
+  {
+    "index": 0,
+    "flags": 8,
+    "text": "Yo! T\u2019apposto con i preparativi?[VAR 0114(0073)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Sei un[VAR 1100(00FF,0101)]oa che se la prende comoda, eh?\\nChi l\u2019avrebbe detto!\\c\\nNon tenermi troppo sulle spine![VAR 0114(0073)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Top! Allora diamoci dentro!\\nFammi vedere di che pastina sei fatt[VAR 1100(00FF,0101)]oa![VAR 0114(0073)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Ah ah ah! M\u2019hai steso!\\nSei forte, cicci[VAR 1100(00FF,0101)]oa![VAR 0114(0073)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,1111)]Il nuovo arrivatoLa nuova arrivata ha vinto?!\\c\\nOk, il maestro non stava facendo sul serio,\\nma \u00E8 comunque incredibile..."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Chi caspita \u00E8...?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Da come lotti si capisce che ci tieni\\nai tuoi Pok\u00E9mon![VAR 0114(0073)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Anche fossi capitat[VAR 1100(00FF,0101)]oa qui per sbaglio, se c\u2019hai\\nvoglia di imparare...[VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Il Dojo Master ti accoglier\u00E0 a braccia aperte![VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Bella l\u00EC! Allora diamoci dentro per diventare\\nsempre pi\u00F9 forti, cicci[VAR 1100(00FF,0101)]oa![VAR 0114(0073)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "E insomma... Beccati \u2019sta Uniforme dojo![VAR 0114(0073)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Con \u2019sti vestiti addosso anche tu fai parte\\ndel Dojo Master a tutti gli effetti, cicci[VAR 1100(00FF,0101)]oa![VAR 0114(0073)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Hai ricevuto l\u2019[VAR FF00(0008)]Uniforme dojo[VAR FF00(0000)]!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Ah, novellin[VAR 1100(00FF,0101)]oa!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Quando vuoi cambiarti o riposarti puoi usare\\nquella stanza."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Bella l\u00EC![VAR 0114(0073)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Con l\u2019arrivo di [VAR 0100(0000)] abbiamo\\nraggiunto il numero massimo di Allievi.[VAR 0114(0073)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Quindi ora vi assegner\u00F2 [VAR FF00(0006)]tre prove[VAR FF00(0000)]![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Tre prove...?!"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Il dojo aveva un numero massimo di Allievi...?!"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "A chi completa tutte e tre le prove conferir\u00F2\\nl\u2019[VAR FF00(0006)]armatura occulta [VAR FF00(0000)]del dojo, che garantisce\\r\\nla vittoria a chiunque ne sia in possesso![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "L\u2019armatura occulta?! La voglio a tutti i costi!"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Eheheh! Top!\\c\\nAllora intanto vi spiego la prima prova...[VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Aaah, maestrooo! Io non ho ancora ricevuto\\nl\u2019Uniforme dojo![VAR 0114(0071)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Maestro! Mi scusi, ma a me non \u00E8 ancora stata\\nassegnata l\u2019Uniforme dojo.[VAR 0114(0072)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Non \u00E8 giusto che l[VAR 1100(00FF,0101)]uei ne abbia unaaa![VAR 0114(0071)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Perch\u00E9 a l[VAR 1100(00FF,0101)]uei s\u00EC e a me no?! \u00C8 ingiusto!\\nPretendo anch\u2019io quegli indumenti![VAR 0114(0072)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Ah s\u00EC? Sorry sorry![VAR 0114(0073)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Beh, comunque ne ho ancora una, quindi toh![VAR 0114(0073)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bah, comunque ne ho ancora una, quindi toh![VAR 0114(0073)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Eh eh, frignare a volte serve![VAR 0114(0071)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Hmpf, recriminare a volte \u00E8 necessario.[VAR 0114(0072)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Sofora ha ottenuto..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Savory ha ottenuto..."
+  },
+  {
+    "index": 34,
+    "flags": 8,
+    "text": "Sloooow!![VAR 0114(0042)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Eh?! Ma che...?![VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Aaah?! Che cosa \u00E8 stato...?[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Ah...? \u00C8 sparitaaa! La mia Uniforme dojo\\nnon c\u2019\u00E8 pi\u00F9![VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Eh...? Non c\u2019\u00E8! La mia Uniforme dojo \u00E8 svanita\\nnel nulla![VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 8,
+    "text": "Slo slo slo...[VAR 0114(0042)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Mmh?[VAR 0114(0071)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Mmh?[VAR 0114(0072)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Poke!!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Che velocit\u00E0 pazzesca!\\nSono stati quegli Slowpoke?!"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "\u00C8 la prima volta che ne vedo di cos\u00EC veloci!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Ehi! Ridatemi la mia Uniforme dojo![VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Mascalzoni! Saranno esperti dell\u2019arte\\ndel Raggiro?! Rendetemi la mia Uniforme dojo![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 8,
+    "text": "Slooo? Slopo...?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 49,
+    "flags": 8,
+    "text": "Sloooo!"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Ehi, aspettateee![VAR 0114(0071)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Ehi, vi ordino di fermarvi![VAR 0114(0072)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Ah ah ah! Forse li ho fatti uscire dalla Pok\u00E9 Ball\\ntroppo presto.[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Maestro, cosa sta succedendo...?"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "\u00C8 proprio questa la prima prova...[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Dovete raggiungere quei tre velocissimi\\nSlowpoke che ho allenato io stesso!\\c\\nE poi... sconfiggerli![VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "E gi\u00E0 che ci siete, recuperate anche\\nl\u2019Uniforme dojo di Sofora![VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "E ormai che ci siete, recuperate anche\\nl\u2019Uniforme dojo di Savory![VAR 0114(0073)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Eeeeh?!"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Al lavoro, su! Bella l\u00EC![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Vuoi rimettere i vestiti di prima?"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Fatto!\\c\\nOra parti all\u2019inseguimento dei velocissimi\\nSlowpoke!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Bene!\\c\\nOra parti all\u2019inseguimento dei velocissimi\\nSlowpoke!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Per superare la prima prova devi inseguire quei\\ntre velocissimi Slowpoke!\\c\\nE gi\u00E0 che ci sei, recupera anche l\u2019Uniforme dojo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Pure dei pigrissimi Slowpoke possono diventare\\nvelocissimi se allenati dal maestro...?!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Che agilit\u00E0...!\\nQuelli non sono certo Pok\u00E9mon qualunque!\\c\\nChiss\u00E0 se anche agli Slowpoke \u00E8 venuta voglia\\ndi indossare l\u2019Uniforme dojo..."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Sei appena arrivat[VAR 1100(00FF,0101)]oa, quindi \u00E8 comprensibile\\nche ti senta un po\u2019 a disagio.\\c\\nMa qui sono tutte persone simpatiche,\\nquindi puoi stare tranquill[VAR 1100(00FF,0101)]oa.[VAR 0114(0074)]"
+  }
+]

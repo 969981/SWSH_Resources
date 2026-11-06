@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u2019s Den"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "???\u2019s Den"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Special Rules"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "You can catch the Pok\u00E9mon only with\\na Dynamax Ball."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Only the person who found the den can catch\\nthe Pok\u00E9mon"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Nobody can catch the Pok\u00E9mon!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "The battle ends when"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Pok\u00E9mon faint four times or\\nthe battle lasts for 10 turns"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Invite Others"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Don\u2019t Invite Others"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Start a Challenge"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Switch Pok\u00E9mon"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Ready to Battle!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Start a Battle"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Time Remaining"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Searching..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Link Code: [VAR 012D(0000)][VAR 012D(0001)][VAR 012D(0002)][VAR 012D(0003)] [VAR 012D(0004)][VAR 012D(0005)][VAR 012D(0006)][VAR 012D(0007)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "You don\u2019t have any Pok\u00E9 Balls.\\nIs that OK?"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "You don\u2019t have four Trainers! We\u2019ll find some\\nothers to help you out. Is that OK?"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Is [VAR 0203(0000,0000)] [VAR 0203(0001,0000)] the correct Link Code?"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Would you like to stop looking for participants?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "You stopped looking for participants.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Would you like to cancel your participation?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "There is a problem with the Pok\u00E9mon\\nyou\u2019ve selected.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "The battle has been canceled due to the\\nlack of participants.\\c"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "The Link Code will be deleted. Is that OK?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "You can\u2019t participate in a battle, because there is\\na problem with your party Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "The Link Code is incorrect.\\c"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Communication failed.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Communication failed.\\nPlease try again.\\c"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "You quit looking for Max Raid Battle participants.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "The Max Raid Battle host quit looking\\nfor participants.\\c"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Some Trainers will join the battle.\\c"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "You don\u2019t have room for another Pok\u00E9mon.\\c\\nYou can\u2019t catch any more Pok\u00E9mon.\\nIs that OK?"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "You can\u2019t catch this Pok\u00E9mon.\\nIs that OK?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Communicating...\\nPlease stand by."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Link Code"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Delete Link Code"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "No"
+  }
+]

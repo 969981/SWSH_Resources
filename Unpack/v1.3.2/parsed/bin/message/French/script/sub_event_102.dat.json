@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "C\u2019est un distributeur\u202F!\\nQuelle boisson voulez-vous acheter\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] [VAR BD03(0000)][VAR 0202(0001)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Quitter"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Pas de boisson pour cette fois\u202F!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Plus de place dans le Sac\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Pas assez d\u2019argent\u202F!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Vous obtenez [VAR 1402(0000,0000)][VAR 010A(0000)]\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Voulez-vous acheter une autre boisson\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Youpi\u202F! Un[VAR 1100(0000,0100)]e autre [VAR 010A(0000)]\\nest tomb\u00E9[VAR 1100(0000,0100)]e\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "C\u2019est un distributeur\u202F!\\c\\nDommage, toutes les boissons ont \u00E9t\u00E9 vendues\u202F!"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "En acheter une autre"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Acheter autre chose"
+  }
+]

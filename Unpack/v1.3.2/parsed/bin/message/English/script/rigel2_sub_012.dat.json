@@ -1,0 +1,522 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Yes! There they are![VAR 0114(000B)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "These are exactly what I was looking for!\\c\\nI knew my hypothesis was spot on![VAR 0114(000B)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Hm? Wait...\\n[VAR 1003][VAR 0100(0000)]?![VAR 0114(000B)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "What are you doing in a place like this?![VAR 0114(000B)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Exploring!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "What are YOU doing here?"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Are you having me on? This freezing place?\\c\\nHardly the kind of locale I\u2019d pick to go\\nexploring, if it were up to me...[VAR 0114(000B)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I keep asking myself that exact same question!\\c\\nIf I\u2019d known it was going to be this cold here,\\nI would\u2019ve thought things through a bit more...[VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "But here I am, stuck in the Crown Tundra, trying\\nto learn more about a group of Pok\u00E9mon.[VAR 0114(000B)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "There are some Pok\u00E9mon that prefer places\\nwhere there are no people, you see\u2014Pok\u00E9mon\\r\\nthat choose to live in isolation.[VAR 0114(000B)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "The Crown Tundra here is just the place for that\\nsort of Pok\u00E9mon.[VAR 0114(000B)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "If my theory is correct...[VAR 0114(000B)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "then I think a certain trio of Legendary Pok\u00E9mon\\ncould be lurking somewhere in these lands![VAR 0114(000B)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "I\u2019m sure my theory\u2019s not wrong. If you want some\\nproof, then look there! See those [VAR FF00(0006)]footprints[VAR FF00(0000)]?[VAR 0114(000B)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "My theory is that the legendary Iron Will\\nPok\u00E9mon, Cavern Pok\u00E9mon, and Grassland\\r\\nPok\u00E9mon are all somewhere out here in the\\r\\nCrown Tundra![VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "And there\u2019s [VAR FF00(0006)]evidence[VAR FF00(0000)] like this scattered all over\\nthe place that\u2019ll lead us to them![VAR 0114(000B)]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "If we could find more evidence and collect\\n100 percent of the data needed to track these\\r\\nLegendary Pok\u00E9mon, then I bet we could use\\r\\nmy Pok\u00E9mon Finder to figure out what habitats\\r\\nthey\u2019re living in![VAR 0114(000B)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "But this place is wicked cold, and it\u2019s putting me\\nin hibernation mode...[VAR 0114(000B)]"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Are you planning to stick around here for a\\nwhile, [VAR 0100(0000)]?[VAR 0114(000B)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Think you could try to spot more evidence like\\nthis and report it to me when you find it?\\r\\nI\u2019ll reward you for your hard work, of course![VAR 0114(000B)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "I\u2019ll be waiting in that house there, so I can stay\\nwarm and cozy and maybe feel my fingers...[VAR 0114(000B)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Er, so that I can grip a pen and write, of course!\\nSince I\u2019ll be working so hard on my research![VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]!\\nHow\u2019s it going gathering evidence?[VAR 0114(000B)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "About that evidence..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Where can I find the Pok\u00E9mon?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Have you located any Pok\u00E9mon?"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "It\u2019s going"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Want to check your progress, [VAR 0100(0000)]?\\nLet me see what you\u2019ve found so far...[VAR 0114(000B)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Oh! Look at this! You\u2019ve already found all\\nthe evidence we need!\\c\\nNow it\u2019s time to get out there and prove the\\nlegends true by finding all the Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Data for the [VAR 0104(0001)] is at\\n[VAR 0202(0002)] percent...[VAR 0114(000B)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Keep plugging away at it![VAR 0114(000B)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "You\u2019ve gathered 100 percent of the data needed\\nto track the [VAR 0104(0001)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "This should be enough data for us to pin down\\nwhere it usually lives![VAR 0114(000B)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "This should be enough data for us to pin down\\nwhere these Legendary Pok\u00E9mon live![VAR 0114(000B)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "So if I feed all this data into my trusty\\nPok\u00E9mon Finder...[VAR 0114(000B)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "It\u2019s searching for energy signatures...\\n... ... ...[VAR 0114(000B)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "And it\u2019s found a matching Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "And it\u2019s found matching Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "The [VAR 0104(0001)] can be found\\n[VAR 0105(0002)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "You\u2019ll finally get to come face-to-face with the\\nLegendary Pok\u00E9mon we\u2019ve been searching for.\\r\\nBest of luck, [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "You\u2019ll finally get to come face-to-face with the\\nLegendary Pok\u00E9mon we\u2019ve been searching for.\\r\\nBest of luck, [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "We don\u2019t have enough data right now to pin\\ndown just where the Pok\u00E9mon can be found.\\c\\nIt\u2019d be great if you could carry on poking around\\nthe Crown Tundra to try to find more evidence![VAR 0114(000B)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "We still don\u2019t have enough data, though, to pin\\ndown just where the Pok\u00E9mon can be found.\\c\\nIt\u2019d be great if you could carry on poking around\\nthe Crown Tundra to try to find more clues![VAR 0114(000B)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Keep that chin up, Champion [VAR 0100(0000)]!\\nI know you\u2019ve got this![VAR 0114(000B)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "That Pok\u00E9mon...\\nIsn\u2019t that the [VAR 0104(0001)], [VAR 0101(0002)]?![VAR 0114(000B)]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "I...\\c\\nwas...\\c\\nRIGHT!\\c\\nI knew it! I knew my theory was right![VAR 0114(000B)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Oh! Er, sorry. Please don\u2019t mind me.\\nI just got a bit too excited there.\\c\\nHere! You definitely deserve a reward for\\nshowing me such a fine Legendary Pok\u00E9mon![VAR 0114(000B)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Now I\u2019m certain that the other two must be here\\nin the Crown Tundra, too![VAR 0114(000B)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Keep up the search, [VAR 0100(0000)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "No way! That...\\nIsn\u2019t that the [VAR 0104(0001)], [VAR 0101(0002)]?![VAR 0114(000B)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Bang up job, [VAR 0100(0000)]!\\nI knew you could do it![VAR 0114(000B)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ah, sugar, there I go again...\\nBut it\u2019s so hard to contain my excitement!\\c\\nHere! Take this for giving me the chance to see\\nthis Legendary Pok\u00E9mon in the flesh![VAR 0114(000B)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "There\u2019s just one more Legendary Pok\u00E9mon we\\nhaven\u2019t tracked down yet...\\c\\nSo, hop to it! You\u2019ve got this![VAR 0114(000B)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "That Pok\u00E9mon! I knew it!\\nThat\u2019s the [VAR 0104(0001)], [VAR 0101(0002)]![VAR 0114(000B)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "We did it! This is just amazing!\\nWho\u2019s the greatest professor in Galar now?![VAR 0114(000B)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Ack! Er...\\nDon\u2019t tell my gran I said that, would you?\\c\\nBut I couldn\u2019t be happier about what we\u2019ve done\\nhere! I hope you\u2019ll take this little reward![VAR 0114(000B)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "It\u2019s all thanks to you, [VAR 0100(0000)], that I\\nwas able to prove my theory was correct!\\r\\nThank you so much![VAR 0114(000B)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "You\u2019d make a first-rate assistant for my work\\nif you weren\u2019t already the Champion![VAR 0114(000B)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "You know, there\u2019s an old legend about Cobalion,\\nTerrakion, and Virizion...[VAR 0114(000B)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "It\u2019s said that to protect their allies, they waged\\nbattle against humans bent on destruction.[VAR 0114(000B)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "And ever since then, they\u2019ve kept themselves\\napart from humanity.[VAR 0114(000B)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "But the fact remains that they agreed to become\\nyour Pok\u00E9mon, [VAR 0100(0000)]...\\c\\nI guess maybe they\u2019re willing to give humanity\\nanother chance?[VAR 0114(000B)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Hehe...\\nIt warms your heart a bit, doesn\u2019t it?[VAR 0114(000B)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Now then! Enough dithering about!\\nI\u2019ve got to get back home to write this all up![VAR 0114(000B)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "I\u2019ll be seeing you around, [VAR 0100(0000)]!\\nDon\u2019t catch cold in this freezing place!\\r\\nAnd have fun with your own adventures![VAR 0114(000B)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Come on, Yamper!\\nYou and me are heading home![VAR 0114(000B)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Wark?"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "[~ 75]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[~ 76]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[~ 82]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[~ 84]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "[~ 85]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "You found evidence of the [VAR 0104(0001)]!\\nThat\u2019s [VAR 0202(0003)] percent of the data needed to track it."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Go to Freezington to let Professor Sonia know!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Kawbraa!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Gurooooohhh!"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Aeepraaa!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Deyaaahhhh!"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Iron Will Pok\u00E9mon"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Cavern Pok\u00E9mon"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Grassland Pok\u00E9mon"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[~ 96]"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "at the Frigid Sea"
+  },
+  {
+    "index": 98,
+    "flags": 516,
+    "text": "in Lakeside Cave"
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "in the Giant\u2019s Bed"
+  },
+  {
+    "index": 100,
+    "flags": 512,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "There\u2019s Pok\u00E9mon evidence unlike any you\u2019ve\\nfound before!"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Yamp yamp!"
+  }
+]

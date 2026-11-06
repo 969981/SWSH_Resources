@@ -1,0 +1,152 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Io sono... Ecco... io...\\nOps... Non me lo ricordo pi\u00F9...!\\c\\n...\\n... ...\\c\\nAh, aspetta! Ora mi ricordo!\\nS\u00EC! Sono il Cancellamosse!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Sei qui per far dimenticare delle mosse ai tuoi\\nPok\u00E9mon?"
+  },
+  {
+    "index": 2,
+    "flags": 8,
+    "text": "Scegli un Pok\u00E9mon."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ricordati di me quando vuoi far dimenticare\\nuna mossa a un tuo Pok\u00E9mon!"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Il tuo Pok\u00E9mon conosce solo una mossa.\\nNon puoi fargliela dimenticare!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ma... \u00E8 un Uovo...! Questo Pok\u00E9mon non \u00E8 ancora\\nnato, come pu\u00F2 avere mosse da dimenticare...?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Va bene... e poi cosa devo dire...?\\nAh, s\u00EC! Quale mossa vuoi fargli dimenticare?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "\u00C8 andato tutto a meraviglia!\\c\\nIl tuo Pok\u00E9mon ha completamente\\ndimenticato [VAR 0107(0000)]!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Io sono Memorina. Conosco tutte le mosse\\nche i Pok\u00E9mon imparano crescendo.\\c\\nE posso far ricordare loro quelle che hanno\\ndimenticato!\\c\\nIn cambio, ti chiedo solo una Squama Cuore."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Vuoi far ricordare una mossa a un tuo Pok\u00E9mon?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Se vuoi far ricordare una mossa a un Pok\u00E9mon,\\nportami [VAR 1502(0000,0000)][VAR 0109(0000)]!"
+  },
+  {
+    "index": 11,
+    "flags": 8,
+    "text": "Scegli un Pok\u00E9mon."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Ma... quello \u00E8 un Uovo!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Anche con le migliori intenzioni, non potrebbe\\nricordare alcuna mossa..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Quale mossa vuoi che ricordi?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "In cambio gli dai [VAR 1500(0000,0000)][VAR 0109(0000)]!"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Ecco fatto, mossa ricordata!\\nTorna pure quando vuoi!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vuoi che insegni la mossa Locomovolt a Pikachu?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Se mi porti un Pikachu, gli insegner\u00F2 la mossa\\nLocomovolt!"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Il Pikacium Z trasformer\u00E0 la mossa Locomovolt\\ndi Pikachu in una mossa Z!"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "A quale Pikachu vuoi che insegni la mossa?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Con il Potere Z, Pikachu far\u00E0 letteralmente\\nscintille!"
+  },
+  {
+    "index": 26,
+    "flags": 8,
+    "text": "Scegli una mossa da sostituire con\\n[VAR 0107(0000)]."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!"
+  }
+]

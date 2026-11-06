@@ -1,0 +1,1522 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Non c\u2019\u00E8 spazio per altri Pok\u00E9mon.\\nVuoi provare comunque a ricevere un dono?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Attenzione!\\nSe la console si spegne o la connessione\\nsi interrompe mentre stai ricevendo un dono\\ntramite codice seriale o password, potresti\\nnon essere pi\u00F9 in grado di utilizzare\\nlo stesso codice seriale o la stessa password\\nper ricevere il dono.\\nControlla il livello di carica della batteria\\ndella console o la connessione per assicurarti\\nche non ci siano problemi."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Attenzione!\\nSe il Nintendo Switch o la Pok\u00E9 Ball Plus\\nsi spengono o se la connessione si interrompe\\nmentre stai ricevendo un dono, potresti\\nnon essere pi\u00F9 in grado di riceverlo.\\nAssicurati che la batteria sia abbastanza carica\\ne che la connessione sia stabile."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Attenzione!\\nHai inserito pi\u00F9 volte un codice seriale\\no una password errati e per un po\u2019 non\\npotrai inserire codici o password.\\n\\nAttendi un po\u2019 prima di riprovare."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Attenzione!\\nHai inserito pi\u00F9 volte un codice seriale\\no una password errati.\\nLa ricezione di doni dalla Pok\u00E9 Ball Plus\\n\u00E8 sospesa.\\n\\nAttendi un po\u2019 prima di riprovare."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Controllo in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Collegamento in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Vuoi inserire nuovamente il codice seriale\\no la password?"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ricerca di un dono in corso."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Si \u00E8 verificato un problema con la ricezione\\ndel dono."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Non sono stati trovati doni."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Interruzione della comunicazione.\\nAttendi..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Seleziona il dono che vuoi ricevere."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Vuoi annullare la ricezione?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Hai gi\u00E0 ricevuto questo dono.\\nNon puoi riceverlo di nuovo."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Non c\u2019\u00E8 spazio per altri Pok\u00E9mon.\\nRiprova dopo aver fatto un po\u2019 di spazio\\nin squadra o nei Box."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ricezione del dono in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "\u00C8 stato trovato un dono, ma non puoi ottenerlo\\ncon questo software."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Verr\u00E0 stabilito il collegamento a Internet.\\nIl gioco verr\u00E0 salvato. Vuoi continuare?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Connessione in corso.\\nAttendi..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Collegamento a Internet riuscito.\\c"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nAttendi..."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Controlla i Box!\\c"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Controlla la squadra!\\c"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Comunicazione in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Connessione in corso.\\nAttendi..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Non interrompere la connessione con\\nla Pok\u00E9 Ball Plus."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Vuoi interrompere il collegamento a Internet?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Interruzione del collegamento in corso.\\nAttendi..."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Si \u00E8 verificato un errore durante il download\\ndell\u2019ultimo bollettino delle Terre Selvagge."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Al momento non ci sono bollettini delle\\nTerre Selvagge."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Hai ricevuto l\u2019ultimo bollettino delle\\nTerre Selvagge connettendoti a Internet.\\n\\nProva a sbirciare dentro le tane di Pok\u00E9mon!\\n\\n[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] ore [VAR 0201(0003)]:[VAR 0201(0004)] (UTC)"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Puoi ricevere questo dono solo una volta\\nal giorno.\\n\\nPotrai riceverlo nuovamente il giorno\\nsuccessivo."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Puoi ricevere questo dono una volta al giorno.\\n\\nOggi lo hai gi\u00E0 ricevuto. Riprova domani."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Puoi ricevere al massimo 10 doni giornalieri.\\n\\nHai gi\u00E0 raggiunto il numero massimo per\\nquesto genere di doni. Riprova domani."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Collegamento a Internet stabilito.\\c"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Codice seriale o password errati.\\n\\nAttenzione!\\nHai inserito pi\u00F9 volte un codice seriale\\no una password errati. L\u2019accesso \u00E8 stato\\ntemporaneamente bloccato.\\nAttendi un po\u2019 prima di riprovare."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Codice seriale o password errati.\\n\\nAttenzione!\\nHai inserito pi\u00F9 volte un codice seriale\\no una password errati. L\u2019accesso \u00E8 stato\\ntemporaneamente bloccato.\\nAttendi un po\u2019 prima di riprovare."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Comunicazione locale attivata.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Codice seriale o password errati.\\nVerifica di averli inseriti correttamente.\\n\\nAttenzione: se inserisci pi\u00F9 volte un codice\\nseriale o una password errati, l\u2019accesso sar\u00E0\\nbloccato temporaneamente."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Codice seriale o password errati.\\nVerifica di averli inseriti correttamente.\\n\\nAttenzione: se inserisci pi\u00F9 volte un codice\\nseriale o una password errati, l\u2019accesso viene\\ntemporaneamente bloccato."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Questo codice seriale \u00E8 gi\u00E0 stato utilizzato\\ncon altri dati di gioco."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Questa Pok\u00E9 Ball Plus \u00E8 attualmente in uso\\ncon altri dati di gioco.\\n\\nRiprova pi\u00F9 tardi."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Non puoi ancora ricevere il dono relativo\\na questo codice seriale o a questa password."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Non puoi ancora ricevere Mew."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Questo codice seriale o questa password sono\\nscaduti. Non \u00E8 stato possibile ricevere il dono."
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Il periodo di ricezione di Mew \u00E8 terminato."
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Il dono relativo a questo codice seriale\\no a questa password non pu\u00F2 essere\\nricevuto in questo gioco."
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Il dono relativo a questo codice seriale\\no a questa password non pu\u00F2 essere\\nricevuto in questo gioco."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile aggiornare il codice seriale\\no la password.\\n\\nIl dono corrispondente non \u00E8 stato ricevuto."
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile ricevere Mew.\\nRiprova pi\u00F9 tardi."
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Hai gi\u00E0 ricevuto il dono corrispondente\\na questo codice seriale o a questa password."
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Hai gi\u00E0 ricevuto Mew."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Questo codice seriale \u00E8 gi\u00E0 stato utilizzato.\\nUn codice seriale gi\u00E0 utilizzato non pu\u00F2 essere\\nusato di nuovo con altri dati di gioco."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Mew non \u00E8 pi\u00F9 presente in questa\\nPok\u00E9 Ball Plus."
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Hai inserito pi\u00F9 volte un codice seriale\\no una password errati.\\nLa connessione al server \u00E8\\ntemporaneamente sospesa.\\n\\nAttendi un po\u2019 prima di riprovare.\\n"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Hai inserito pi\u00F9 volte un codice seriale\\no una password errati.\\nLa connessione al server \u00E8\\ntemporaneamente sospesa.\\n\\nAttendi un po\u2019 prima di riprovare.\\n"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Tramite Internet"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Tramite codice seriale/password"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Controlla i doni"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": " Annulla"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Tramite comunicazione locale"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": " Conferma"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Ricevi un Dono Segreto"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Ricevi il bollettino delle Terre Selvagge"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Vai a spasso con la Pok\u00E9 Ball Plus"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Ricevi le ricompense dello Stadio Lotta"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 012E(0000)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Hai ricevuto [VAR 1002][VAR 1502(0005,0000)][VAR 0101(0005)]!"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente strumento:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]"
+  },
+  {
+    "index": 81,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]\\n[VAR 0109(000D)] \u00D7[VAR 0202(000E)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]\\n[VAR 0109(000D)] \u00D7[VAR 0202(000E)]\\n[VAR 0109(000F)] \u00D7[VAR 0202(0010)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]%"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)] (UTC \u002B[VAR 0201(0005)]:[VAR 0201(0006)])"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)] (UTC -[VAR 0201(0005)]:[VAR 0201(0006)])"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)] (UTC \u00B1[VAR 0201(0005)])"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)] (UTC \u002B[VAR 0201(0005)])"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/20[VAR 0201(0000)] [VAR 0201(0003)]:[VAR 0201(0004)] (UTC -[VAR 0201(0005)])"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[~ 95]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "[VAR 012E(0000)]"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Hai ricevuto [VAR 1002][VAR 1502(0005,0000)][VAR 0101(0005)]!"
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente strumento:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]"
+  },
+  {
+    "index": 99,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]"
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]"
+  },
+  {
+    "index": 102,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]"
+  },
+  {
+    "index": 103,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]\\n[VAR 0109(000D)] \u00D7[VAR 0202(000E)]"
+  },
+  {
+    "index": 104,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0005)] \u00D7[VAR 0202(0006)]\\n[VAR 0109(0007)] \u00D7[VAR 0202(0008)]\\n[VAR 0109(0009)] \u00D7[VAR 0202(000A)]\\n[VAR 0109(000B)] \u00D7[VAR 0202(000C)]\\n[VAR 0109(000D)] \u00D7[VAR 0202(000E)]\\n[VAR 0109(000F)] \u00D7[VAR 0202(0010)]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[VAR 012E(0000)]"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente articolo:\\n[VAR 01C1(0005)]"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti articoli:\\n[VAR 01C1(0005)]\\n[VAR 01C1(0006)]"
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti articoli:\\n[VAR 01C1(0005)]\\n[VAR 01C1(0006)]\\n[VAR 01C1(0007)]"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti articoli:\\n[VAR 01C1(0005)]\\n[VAR 01C1(0006)]\\n[VAR 01C1(0007)]\\n[VAR 01C1(0008)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti articoli:\\n[VAR 01C1(0005)]\\n[VAR 01C1(0006)]\\n[VAR 01C1(0007)]\\n[VAR 01C1(0008)]\\n[VAR 01C1(0009)]"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti articoli:\\n[VAR 01C1(0005)]\\n[VAR 01C1(0006)]\\n[VAR 01C1(0007)]\\n[VAR 01C1(0008)]\\n[VAR 01C1(0009)]\\n[VAR 01C1(000A)]"
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Hai ricevuto:\\n[VAR 0204(0005,002E)] PL"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Hai ricevuto:\\n[VAR 0206(0005,002E)] \uE300"
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Hai ricevuto un Uovo!"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Il Pok\u00E9mon nella Pok\u00E9 Ball Plus \u00E8 stato\\naffidato all\u2019Ostello Pok\u00E9mon, sta\\nsvolgendo un incarico del Pok\u00E9 Job o sta\\npartecipando a una gara.\\nNon puoi interrompere la passeggiata.\\n\\nRiprova dopo aver ritirato il Pok\u00E9mon."
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Premi il pulsante superiore o il control stick\\ndella Pok\u00E9 Ball Plus."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Collegamento in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "Metti un Pok\u00E9mon nella Pok\u00E9 Ball Plus\\ne portalo a passeggio con te!\\n\\nPi\u00F9 lo porti a spasso con te e interagisci\\ncon lui, migliori saranno le ricompense\\nche riceverai!"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "La Pok\u00E9 Ball Plus contiene un Pok\u00E9mon\\nin regalo per te. Vuoi riceverlo?"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Preparativi in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Vai a spasso con [VAR 0102(0000)]!\\n\\nSe tieni premuto il [VAR FF00(0006)]control stick [VAR FF00(0000)]della\\nPok\u00E9 Ball Plus, potrai divertirti assieme\\na [VAR 0102(0000)].\\n\\nPer terminare la passeggiata, seleziona di nuovo\\n\u201CVai a spasso con la Pok\u00E9 Ball Plus\u201D."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Premi il pulsante superiore o il control stick\\ndella Pok\u00E9 Ball Plus per connetterla al gioco\\ne attendi che venga stabilito il collegamento."
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] sta facendo una passeggiata.\\nVuoi interromperla?"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Scegli il Pok\u00E9mon con cui andare a spasso.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "La Pok\u00E9 Ball Plus contiene i dati della\\npasseggiata di un altro giocatore.\\c\\nSe vai a spasso con uno dei tuoi Pok\u00E9mon, quei\\ndati verranno cancellati. Vuoi continuare?"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "C\u2019\u00E8 gi\u00E0 un Pok\u00E9mon a spasso.\\nVuoi interrompere la passeggiata?"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Vuoi annullare la passeggiata?"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Connessione in corso..."
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Hai fatto una passeggiata indimenticabile\\ncon [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Hai fatto una bellissima passeggiata\\ncon [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Hai fatto una bella passeggiata\\ncon [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Hai fatto una passeggiata con [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Hai ricevuto una ricompensa per la passeggiata!\\c"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Hai ricevuto delle ricompense per la passeggiata!\\c"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Se non completi la procedura di inizializzazione\\nnon potrai utilizzare la tua Pok\u00E9 Ball Plus.\\r\\nVuoi interrompere la procedura?"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "[~ 138]"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "[~ 139]"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "[~ 140]"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Il Pok\u00E9mon selezionato \u00E8 gi\u00E0 a spasso\\nall\u2019interno di un\u2019altra Pok\u00E9 Ball Plus.\\c\\nSe porti a passeggio questo Pok\u00E9mon,\\ni dati dell\u2019altra Pok\u00E9 Ball Plus non potranno\\r\\npi\u00F9 essere importati nel gioco.\\c\\nVuoi comunque andare a spasso con questo\\nPok\u00E9mon?"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "[~ 142]"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[~ 143]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "[~ 144]"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "[~ 145]"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "[~ 146]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "[~ 147]"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "[~ 148]"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "[~ 149]"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Salvataggio in corso.\\nNon spegnere la console."
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Hai ricevuto il seguente strumento:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]"
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]"
+  },
+  {
+    "index": 154,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]\\n[VAR 0109(0004)] \u00D7[VAR 0202(0005)]"
+  },
+  {
+    "index": 155,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]\\n[VAR 0109(0004)] \u00D7[VAR 0202(0005)]\\n[VAR 0109(0006)] \u00D7[VAR 0202(0007)]"
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]\\n[VAR 0109(0004)] \u00D7[VAR 0202(0005)]\\n[VAR 0109(0006)] \u00D7[VAR 0202(0007)]\\n[VAR 0109(0008)] \u00D7[VAR 0202(0009)]"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]\\n[VAR 0109(0004)] \u00D7[VAR 0202(0005)]\\n[VAR 0109(0006)] \u00D7[VAR 0202(0007)]\\n[VAR 0109(0008)] \u00D7[VAR 0202(0009)]\\n[VAR 0109(000A)] \u00D7[VAR 0202(000B)]"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Hai ricevuto i seguenti strumenti:\\n[VAR 0109(0000)] \u00D7[VAR 0202(0001)]\\n[VAR 0109(0002)] \u00D7[VAR 0202(0003)]\\n[VAR 0109(0004)] \u00D7[VAR 0202(0005)]\\n[VAR 0109(0006)] \u00D7[VAR 0202(0007)]\\n[VAR 0109(0008)] \u00D7[VAR 0202(0009)]\\n[VAR 0109(000A)] \u00D7[VAR 0202(000B)]\\n[VAR 0109(000C)] \u00D7[VAR 0202(000D)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "[~ 159]"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "[~ 160]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Risultati di questa passeggiata:\\n[VAR 012E(0000)]: [VAR 0208(0001,002E)]\\n[VAR 012E(0002)]: [VAR 0208(0003,002E)]\\n[VAR 012E(0004)]: [VAR 0208(0005,002E)]\\n[VAR 012E(0006)]: [VAR 0208(0007,002E)]\\n[VAR 012E(0008)]: [VAR 0208(0009,002E)]\\n[VAR 012E(000A)]: [VAR 0208(000B,002E)]\\n[VAR 012E(000C)]: [VAR 0208(000D,002E)]\\n[VAR 012E(000E)]: [VAR 0208(000F,002E)]"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] \u00E8 entrato\\nnella tua Pok\u00E9 Ball Plus!\\c"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Esci"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[~ 164]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "\u30FB Passi fatti insieme"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "\u30FB Svago"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "\u30FB Divertimento"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "\u30FB Entusiasmo"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "\u30FB Richiami"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "\u30FB Risposte ai richiami"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "\u30FB Impegno in Pok\u00E9mon GO"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "\u30FB Contributo a Pok\u00E9mon GO"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "[~ 173]"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "[~ 174]"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "[~ 175]"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "[~ 176]"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "[~ 177]"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "[~ 178]"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "[~ 179]"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "[~ 182]"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "[~ 183]"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": " Esci"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "[~ 185]"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "[~ 188]"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "[~ 189]"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "[~ 190]"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "[~ 191]"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "[~ 192]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "[~ 193]"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "[~ 194]"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "[~ 195]"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "[~ 196]"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "[~ 197]"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "[~ 198]"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "[~ 199]"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "[~ 200]"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "[~ 201]"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "[~ 202]"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "[~ 203]"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "[~ 204]"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "[~ 205]"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "[~ 206]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "[~ 207]"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "[~ 208]"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "[~ 209]"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "[~ 210]"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "[~ 211]"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "[~ 212]"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "[~ 213]"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "[~ 214]"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "[~ 215]"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "[~ 216]"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "[~ 217]"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "[~ 218]"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "[~ 219]"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "[~ 220]"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "[~ 221]"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "[~ 222]"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "[~ 223]"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "[~ 224]"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "[~ 225]"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "[~ 226]"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "[~ 227]"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "[~ 228]"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "[~ 229]"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "[~ 230]"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "[~ 231]"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "[~ 232]"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "[~ 233]"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "[~ 234]"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "[~ 235]"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "[~ 236]"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "[~ 237]"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "[~ 238]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[~ 239]"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "[~ 240]"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "[~ 242]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "[~ 243]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "[~ 261]"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "[~ 262]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[~ 263]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "[~ 264]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "[~ 265]"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[~ 267]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[~ 268]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[~ 269]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[~ 270]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "[~ 271]"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "[~ 273]"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "[~ 274]"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[~ 275]"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "[~ 276]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "[~ 277]"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "[~ 278]"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "[~ 279]"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "[~ 280]"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "[~ 281]"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "[~ 283]"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "[~ 284]"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "[~ 285]"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "[~ 286]"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "[~ 287]"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "[~ 288]"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "[~ 289]"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "[~ 290]"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "[~ 291]"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "[~ 292]"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "[~ 293]"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "[~ 294]"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "[~ 295]"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "[~ 296]"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "[~ 297]"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "[~ 298]"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "[~ 299]"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[~ 300]"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "[~ 301]"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "[~ 302]"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[~ 303]"
+  }
+]

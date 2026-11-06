@@ -1,0 +1,97 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Eeh? [VAR 0100(0000)]?!\\nQuesta proprio non me l\u2019aspettavo!\\c\\nChe cosa ci fai nel bel mezzo del bosco?[VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Potrei farti la stessa domanda..."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Beh... In realt\u00E0..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Questo \u00E8 il bosco dove riposavano Zacian\\ne Zamazenta.\\c\\nIn questo posto non c\u2019\u00E8 anima viva, quindi \u00E8\\nsempre cos\u00EC silenzioso...\\c\\nInsomma, l\u2019ideale per riflettere in tranquillit\u00E0![VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Tu invece? Oh... Sei qui perch\u00E9 hai avuto\\nl\u2019impressione che qualcosa ti chiamasse?!\\c\\nChe strano...[VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Eh? Hai avuto l\u2019impressione che qualcosa\\nti chiamasse?! Che strano...[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Io invece avevo bisogno di riflettere un po\u2019.\\nQui \u00E8 cos\u00EC tranquillo! Non si vede anima viva...\\c\\nIn fondo, \u00E8 il bosco in cui riposavano\\nZacian e Zamazenta.[VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ah, quasi dimenticavo, [VAR 0100(0000)]!\\nComplimenti per la tua vittoria![VAR 0114(0005)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Chi s\u2019immaginava che proprio tu avresti\\nspodestato l\u2019invincibile Campione di Galar![VAR 0114(0005)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Non riesco ancora a crederci... in effetti...[VAR 0114(0005)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Sei un vero fenomeno...[VAR 0114(0005)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Ma che dico, un fenomeno ultragalattico!\\nAnzi, sei fuori scala! Ah ah ah...[VAR 0114(0005)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]...\\c\\nTi batteresti ancora una volta contro di me?[VAR 0114(0005)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Certo!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Perch\u00E9...?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Thank you, [VAR 0100(0000)]!\\c\\nMostrami la forza che ha sconfitto mio fratello![VAR 0114(0005)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vorrei toccare con mano la forza che ha sconfitto\\nun grande Campione come mio fratello![VAR 0114(0005)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Fammi sapere quando sei pront[VAR 1100(00FF,0101)]oa![VAR 0114(0005)]"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Nanu? [VAR 0102(0000)] entwickelt sich!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hm? Die Entwicklung wurde abgebrochen!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Gl\u00FCckwunsch! Dein [VAR 0102(0000)] hat sich\\nzu einem [VAR 0101(0001)] entwickelt!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt.\\c"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] versucht,\\n[VAR 0107(0001)] zu erlernen.\\c\\nSoll eine bekannte Attacke durch\\n[VAR 0107(0001)] ersetzt werden?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Nein"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "This is the reception desk![VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Turns out I was the first to register for the\\nChampion Cup.\\c\\nIn other words, I\u2019m already number one.\\nIt\u2019s pretty much in the bag that I\u2019ll win this thing![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 0100(0000)], correct?\\c\\nWe\u2019ve been watching over your performance in\\nthe Gym Challenge.\\c\\nThis is just a formality, of course, but I\u2019ll need\\nto check your Gym Badges, if you don\u2019t mind."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I\u2019m all sorted and ready to battle you on the\\nbiggest stage of them all![VAR 0114(0005)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "But it looks like Bede couldn\u2019t make it.\\nHard luck...\\c\\nSomehow I didn\u2019t think he\u2019d just take being\\ndisqualified lying down, you know what I mean?[VAR 0114(0005)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "I guess it is what it is...\\c\\nCome on, [VAR 0100(0000)].\\nWe should head to the locker room![VAR 0114(0005)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "This is it. I really made it.\\c\\nI made it through the Gym Challenge. There\\nmight be four remainin\u2019 in the Semifinals...\\c\\nBut I\u2019m the one who\u2019s gonna win through\\nand battle the Champion.[VAR 0114(000D)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Urara!"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Toi, l\u00E0, avec l\u2019\u00C9toile V\u0153u.\\c\\nTu es peut-\u00EAtre arriv\u00E9[VAR 1100(00FF,0100)]e jusqu\u2019ici,\\nmais c\u2019est la fin de l\u2019aventure pour toi.\\c\\nUn conseil : fais demi-tour, ou tu vas passer\\nun mauvais moment.[VAR 0114(0042)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Tu es l\u2019un[VAR 1100(00FF,0100)]e des Challengers recommand\u00E9s\\npar le Ma\u00EEtre, c\u2019est bien \u00E7a\u202F?[VAR 0114(0042)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Quelle vaste blague.\\c\\nLe Ma\u00EEtre, c\u2019est de la bagatelle. La personne\\nla plus importante dans la Ligue Pok\u00E9mon,\\r\\nc\u2019est son pr\u00E9sident, c\u2019est bien connu.\\c\\nEt moi, je suis recommand\u00E9 par le pr\u00E9sident,\\njustement. Donc je vaux mieux que toi, pig\u00E9\u202F?[VAR 0114(0042)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Tu vas apprendre \u00E0 t\u2019agenouiller devant meilleur\\nque toi, esp\u00E8ce de minable\u202F![VAR 0114(0042)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "... Je dois dire que je ne m\u2019attendais pas \u00E0 \u00E7a.\\nJ\u2019avoue, tu te d\u00E9fends.[VAR 0114(000C)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Mais tu es tomb\u00E9[VAR 1100(00FF,0100)]e dans mon pi\u00E8ge\u202F! Tout \u00E7a,\\nc\u2019\u00E9tait juste pour savoir comment tu combattais\u202F!\\c\\nMaintenant que je sais tout sur ton style, je te\\nbattrai \u00E0 plate couture en comp\u00E9tition officielle\u202F![VAR 0114(000C)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Sur ce, tu m\u2019excuseras, mais j\u2019ai vraiment mieux\\n\u00E0 faire que discuter avec un[VAR 1100(00FF,0907)] nigaude nigaude comme toi.\\c\\nOh, et ne perds pas ton temps \u00E0 chercher des\\n\u00C9toiles V\u0153u ici, je les ai d\u00E9j\u00E0 toutes r\u00E9cup\u00E9r\u00E9es."
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Vuoi assemblare uno strumento con il CramoBot?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "S\u00EC!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Non ora..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 8,
+    "text": "Scegli gli strumenti da combinare."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Per poter iniziare l\u2019operazione devi prima\\nsalvare il gioco. Vuoi procedere?"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Operazione completata."
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Assembla uno strumento"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Seleziona un\u2019opzione."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Funziona bene il mio Esperienzamuleto?[VAR 0114(0075)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Toh! Una macchina fatta di rottami che sembra\\nun Pok\u00E9mon... Cosa sar\u00E0?"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Vedo che ti incuriosisce. Vuoi sapere cos\u2019\u00E8?[VAR 0114(0075)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Ah, no? Come vuoi...[VAR 0114(0075)]"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "Eh eh eh... Non avevo dubbi.[VAR 0114(0075)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Quello \u00E8 il [VAR FF00(0006)]CramoBot[VAR FF00(0000)], la pi\u00F9 grande invenzione\\ndel secolo![VAR 0114(0075)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Un\u2019efficientissima macchina riciclatrice\\nmessa a punto da me![VAR 0114(0075)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Anche se al momento non funziona perch\u00E9\\n\u00E8 scarica...[VAR 0114(0075)]"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Avrei solo bisogno di una quantit\u00E0 sufficiente\\ndi [VAR FF00(0006)]Watt[VAR FF00(0000)] ma... mummy non me ne vuole dare.[VAR 0114(0075)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Se solo avessi 500 W potrei azionare\\nil CramoBot...[VAR 0114(0075)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Te li regalo io!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Purtroppo i miei Watt mi servono..."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Co... Co... Cooosa? Mi regali davvero 500 W?![VAR 0114(0075)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Vuoi assemblare un altro strumento combinando\\ngli stessi elementi?"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Ottieni [VAR 1502(0001,0000)][VAR 010A(0001)]!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Non hai abbastanza strumenti.\\nL\u2019operazione verr\u00E0 annullata."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Wow... E pensare che per mettere insieme tutti\\nquei Watt bisogna girare per un bel po\u2019...[VAR 0114(0075)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Dimmi... Ehm, ti chiami [VAR 0100(0000)], giusto?\\nMi sembri un[VAR 1100(00FF,100F)] tipo ingegnosoa tipa ingegnosa... Mi piaci![VAR 0114(0075)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Bene! Trasferisco subito i Watt che mi hai dato\\nnel CramoBot.[VAR 0114(0075)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Inserimento![VAR 0114(0075)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Cram..."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "CramoBot!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Perfect![VAR 0114(0075)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Se inserisci nel CramoBot quattro strumenti che\\nnon ti servono, potrai ottenerne uno nuovo![VAR 0114(0075)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "E se ci metti quattro Ghicocche, dal CramoBot\\npotrebbe anche venire fuori una Pok\u00E9 Ball rara.\\c\\nProva a raccogliere qualche Ghicocca dagli\\nalberi che trovi in giro per l\u2019isola.[VAR 0114(0075)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Usalo pure quanto vuoi! Sei stat[VAR 1100(00FF,0101)]oa cos\u00EC gentile\\nche te lo meriti![VAR 0114(0075)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Gli strumenti che ti servono per ottenere\\n[VAR 1502(0001,0000)][VAR 010A(0001)] sono...[VAR 0114(0075)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Per prima cosa\\n[VAR 1502(0002,0000)][VAR 010A(0002)]...[VAR 0114(0075)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Poi [VAR 1502(0003,0000)][VAR 010A(0003)]...[VAR 0114(0075)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Poi [VAR 1502(0004,0000)][VAR 010A(0004)]...[VAR 0114(0075)]"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "E infine [VAR 1502(0005,0000)][VAR 010A(0005)]![VAR 0114(0075)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Ora ti spiego di nuovo come funziona.[VAR 0114(0075)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Se inserisci nel CramoBot quattro strumenti che\\nnon ti servono, potrai ottenerne uno nuovo![VAR 0114(0075)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Ecco fatto! Ora dovrebbe essere pronto![VAR 0114(0075)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Non resta che premere l\u2019interruttore e...[VAR 0114(0075)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Cra... mow... bow..."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "..."
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "Uh?! Non si \u00E8 attivato...[VAR 0114(0075)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Non ha abbastanza energia... Uhm...\\nA quanto pare i Watt non bastano...[VAR 0114(0075)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]! Non mi dire che hai appena\\nottenuto una Pok\u00E9 Ball rara![VAR 0114(0075)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "La tua fortuna \u00E8 fuori parametro!\\c\\nSecondo i calcoli le probabilit\u00E0 di ottenerla\\nsono estremamente basse![VAR 0114(0075)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Tempo fa un attempato amico del mio daddy\\nveniva al dojo per creare Pok\u00E9 Ball per lui.[VAR 0114(0075)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Poteva ricavare Pok\u00E9 Ball rarissime da una\\nsingola Ghicocca![VAR 0114(0075)]"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Ho osservato il modo in cui le realizzava e ne ho\\nricavato i dati per la memoria del CramoBot.[VAR 0114(0075)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Solo che il mio dispositivo non \u00E8 infallibile\\ncome quel signore...[VAR 0114(0075)]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Ma non mi arrendo! Tutto sta nell\u2019affinare\\nla tecnica.\\c\\nUn giorno con la mia scienza sapr\u00F2 riprodurre\\nl\u2019ingegno di quell\u2019esperto artigiano![VAR 0114(0075)]"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Uff... Forse ho parlato troppo...[VAR 0114(0075)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Vuoi una ricetta per assemblare uno strumento?\\n\u00C8 tua per [VAR 0203(0001,002E)] W.[VAR 0114(0075)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Riparliamone quando avrai accumulato pi\u00F9 Watt![VAR 0114(0075)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Non hai abbastanza Watt.[VAR 0114(0075)]"
+  }
+]

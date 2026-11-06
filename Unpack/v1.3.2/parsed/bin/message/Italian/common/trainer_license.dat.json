@@ -1,0 +1,687 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Soldi"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0206(0000,002E)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Watt"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0206(0001,002E)] W"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "PL"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0206(0001,002E)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Lotta"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Data di stampa"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "I Pok\u00E9mon fino al livello [VAR 0201(0000)] seguiranno sempre\\nle tue indicazioni."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Tutti i Pok\u00E9mon seguiranno sempre le tue\\nindicazioni."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Cattura"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Puoi catturare i Pok\u00E9mon fino al livello [VAR 0201(0000)]."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Puoi catturare Pok\u00E9mon di qualsiasi livello."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u202FEsci"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Gira la card"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Organizza"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": " Seleziona ed elimina"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": " Preferite"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": " Chiudi"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": " Seleziona"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Elimina"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Fronte"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Vuoi ricevere la Card della Lega Pok\u00E9mon\\ndi [VAR 0100(0000)]?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Elimina"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Le card selezionate verranno eliminate.\\nVuoi continuare?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Le card selezionate verranno eliminate.\\nVuoi continuare?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "La mia card"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Album"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Non hai nessuna card."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Codice"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Card della Lega Pok\u00E9mon di [VAR 0100(0000)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Ricevi una card"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Condividi la card"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Aggiorna la card"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Inserisci il codice per ricevere la Card della Lega\\nPok\u00E9mon di un altro giocatore."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Ricevi"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Condividi il codice della card in modo che gli altri\\ngiocatori possano riceverla."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Codice di [VAR 0100(0000)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": " Non condividere pi\u00F9"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "La tua card non sar\u00E0 pi\u00F9 condivisa.\\nVuoi continuare?"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "La tua card non \u00E8 condivisa."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Condividi la card"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Hai condiviso la tua card."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Data di ricezione"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "Occasione"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Ricevuta tramite"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 83,
+    "flags": 4,
+    "text": "In campeggio"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Funzioni Y-Comm"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Lotta in link"
+  },
+  {
+    "index": 86,
+    "flags": 8,
+    "text": "Scambio"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Raid Dynamax"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Codice"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Comunicazione locale"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Internet"
+  },
+  {
+    "index": 91,
+    "flags": 8,
+    "text": "Scambia card"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "La card potr\u00E0 essere scambiata\\ncon altri giocatori!\\c"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Pi\u00F9 recenti"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Meno recenti"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Preferite"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Occasione"
+  },
+  {
+    "index": 98,
+    "flags": 8,
+    "text": "Speciali"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Lotta in link"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Campeggio"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Raid Dynamax"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Funzioni Y-Comm"
+  },
+  {
+    "index": 103,
+    "flags": 8,
+    "text": "Scambio"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Codice"
+  },
+  {
+    "index": 105,
+    "flags": 8,
+    "text": "Scegli come visualizzare le card."
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Inserisci il codice"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "L\u2019album \u00E8 pieno.\\nImpossibile ricevere altre card."
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "Hai gi\u00E0 aggiunto questa card al tuo album."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Crea un codice per la tua Card della Lega Pok\u00E9mon."
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "Inserendo i codici potrai ricevere delle Card della\\nLega Pok\u00E9mon."
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "Hai ricevuto la card di [VAR 0100(0000)]!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile inviare la card."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile ricevere la card."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "Non \u00E8 stato possibile eliminare la card."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Non \u00E8 stata trovata nessuna card corrispondente\\nal codice inserito."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Verr\u00E0 stabilito il collegamento a Internet.\\nIl gioco verr\u00E0 salvato. Vuoi continuare?"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Connessione in corso.\\nAttendi..."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Collegamento a Internet riuscito.\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Salvataggio dei dati in corso.\\nAttendi..."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Collegamento a Internet stabilito.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "L\u2019album \u00E8 pieno.\\c\\nFai spazio nell\u2019album per ricevere altre card."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Ricezione card in corso..."
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Hai ricevuto la card!"
+  },
+  {
+    "index": 129,
+    "flags": 4,
+    "text": "Il collegamento a Internet verr\u00E0 interrotto.\\nVuoi continuare?"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Comunicazione locale attivata.\\c"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "Interruzione del collegamento in corso.\\nAttendi..."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Condivisione card in corso..."
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Hai condiviso la tua card."
+  },
+  {
+    "index": 136,
+    "flags": 4,
+    "text": "Hai gi\u00E0 aggiunto questa card al tuo album."
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Salut, chef\u202F! Comment se passe l\u2019exploration\u202F?\\nT\u2019as fait des d\u00E9couvertes sur une l\u00E9gende\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "On dirait que t\u2019as rien de nouveau \u00E0 signaler\\nau sujet de cette l\u00E9gende...[VAR 0114(0076)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Tu voulais me parler d\u2019autre chose\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Mais tu m\u2019as d\u00E9j\u00E0 montr\u00E9 [VAR 0101(0001)]\u202F!\\nMe dis pas que t\u2019as oubli\u00E9\u202F?![VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Le l\u00E9gendaire Seigneur des r\u00E9coltes"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Les colosses l\u00E9gendaires"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Les oiseaux de l\u00E9gende"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "En fait, j\u2019aurais besoin d\u2019un peu d\u2019aide..."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Sylveroy"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Regirock"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Regice"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Registeel"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Regieleki"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Regidrago"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Artikodin"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "\u00C9lecthor"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Sulfura"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Euh, en fait, non\u202F!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ben alors, t\u2019es pas s\u00FBr[VAR 1100(00FF,0100)]e\u202F?\\nHa ha ha, t\u2019inqui\u00E8te, \u00E7a arrive \u00E0 tout le monde\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "On dirait bien que tu m\u2019as d\u00E9j\u00E0 tout dit\\nau sujet de cette l\u00E9gende\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Quoi\u202F?! En fait, t\u2019as carr\u00E9ment captur\u00E9\\nle l\u00E9gendaire [VAR 0101(0001)]\u202F?!\\c\\nMais c\u2019est g\u00E9nial\u202F! Montre-le-moi\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Voyons voir...\\n... Euh\u202F?\\c\\nC\u2019est lui, Artikodin\u202F? Le Pok\u00E9mon l\u00E9gendaire\\ncapable de contr\u00F4ler la glace\u202F? T\u2019es s\u00FBr[VAR 1100(00FF,0100)]e\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "J\u2019avoue qu\u2019il lui ressemble un peu...\\nMais il a quoi sur la tronche\u202F? Un masque\u202F?\\r\\nEt il est plut\u00F4t ti\u00E8de, pour un oiseau des glaces...[VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Bah, vu son regard qui fait froid dans le dos,\\non est pas loin du compte...[VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Allez, on va dire que la mission Artikodin\\nest accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Voyons voir...\\n... Euh\u202F?\\c\\nC\u2019est \u00C9lecthor, \u00E7a\u202F? Le Pok\u00E9mon l\u00E9gendaire\\ncapable de contr\u00F4ler la foudre\u202F? T\u2019es s\u00FBr[VAR 1100(00FF,0100)]e\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "J\u2019avoue qu\u2019il lui ressemble vite fait...\\nMais t\u2019as vu ses pattes\u202F? Elles sont \u00E9normes\u202F!\\c\\nEt entre nous, il fait pas beaucoup d\u2019\u00E9tincelles,\\npour un oiseau de la foudre...[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Mais bon, il a des plumes en forme de pics,\\net la longueur du bec est \u00E0 peu pr\u00E8s similaire...[VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Allez, on va dire que la mission \u00C9lecthor\\nest accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Voyons voir...\\n... Euh\u202F?\\c\\nC\u2019est lui, Sulfura\u202F? Le Pok\u00E9mon l\u00E9gendaire\\ncapable de contr\u00F4ler le feu\u202F? T\u2019es s\u00FBr[VAR 1100(00FF,0100)]e\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "J\u2019avoue qu\u2019il lui ressemble un chou\u00EFa...\\nMais t\u2019as vu son regard mal\u00E9fique\u202F?\\c\\nIl est clairement mal intentionn\u00E9...\\nEt en plus, il d\u00E9gage pas de chaleur...[VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Bah, c\u2019est vrai qu\u2019avec un peu d\u2019imagination,\\non pourrait croire qu\u2019il est couvert de flammes...[VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Allez, on va dire que la mission Sulfura\\nest accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Voyons voir...\\n...\\c\\nC\u2019est donc lui, Regirock\u202F? Le colosse de Roche\u202F?\\nIl est tout rugueux...[VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "... D\u2019ailleurs, tu trouves pas qu\u2019il ressemble au\\nChampion de l\u2019Ar\u00E8ne du type Plante\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Ils ont tous les deux une carrure de carri\u00E8re,\\nsi tu saisis le jeu de mots\u202F! Ha ha ha\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Allez, vu qu\u2019il est grand et rocheux, on va dire\\nque la mission Colosse de Roche est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Voyons voir...\\n...\\c\\nC\u2019est donc lui, Regice\u202F? Le colosse de Glace\u202F?\\nIl est tout gel\u00E9...[VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Il r\u00E9fl\u00E9chit la lumi\u00E8re comme un prisme\u202F!\\nC\u2019est trop beau\u202F! J\u2019aimerais bien le montrer\\r\\n\u00E0 ma petite Pivonia, elle l\u2019adorerait\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Par contre, t\u2019as vu la taille de ses bras\u202F?\\nIls sont \u00E9normes\u202F! C\u2019est un peu flippant...[VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Allez, vu qu\u2019il est grand et gel\u00E9, on va dire que\\nla mission Colosse de Glace est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Voyons voir...\\n...\\c\\nC\u2019est donc lui, Registeel\u202F? Le colosse d\u2019Acier\u202F?\\nIl est tout lisse...[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "... D\u2019ailleurs, on dirait un peu une boule\\nde bowling\u202F! Tu trouves pas\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Va savoir ce qui se passe dans sa t\u00EAte,\\navec une mine pareille\u202F! Ha ha\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "Allez, vu qu\u2019il est grand et m\u00E9tallique, on va dire\\nque la mission Colosse d\u2019Acier est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Voyons voir...\\n...\\c\\nC\u2019est donc lui, Regieleki\u202F? Le colosse \u00C9lectrik\u202F?\\nC\u2019est vrai qu\u2019il a l\u2019air survolt\u00E9...[VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Sa forme me rappelle celle d\u2019un bonbon...\\nAvec toute l\u2019\u00E9lectricit\u00E9 qu\u2019il d\u00E9gage,\\r\\nil ferait une friandise hyper piquante\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "Il doit avoir un sens de l\u2019\u00E9quilibre de fou pour\\npouvoir sautiller comme \u00E7a sans tomber...\\r\\nQuelle \u00E9nergie\u202F! Ha ha ha\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Allez, vu qu\u2019il est grand et \u00E9lectrique, on va dire\\nque la mission Colosse \u00C9lectrik est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Voyons voir...\\n...\\c\\nC\u2019est donc lui, Regidrago\u202F? Le colosse Dragon\u202F?\\nRegarde-moi tous ces pics...[VAR 0114(0076)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Tu trouves pas qu\u2019il ressemble \u00E0 une \u00E9norme\\npince \u00E0 linge\u202F? Avec lui, on peut \u00EAtre s\u00FBrs\\r\\nque nos draps s\u2019envoleront jamais\u202F! Ha ha ha\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Oups, mieux vaut que j\u2019\u00E9vite de dire des choses\\nqui pourraient l\u2019\u00E9nerver... Je voudrais pas\\r\\nqu\u2019il me croque avec ses grosses m\u00E2choires\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Allez, vu qu\u2019il est grand et qu\u2019il ressemble vite\\nfait \u00E0 un dragon, on va dire que la mission\\r\\nColosse Dragon est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Oh... Oooh... Mais...[VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Sa t\u00EAte est \u00C9NORME\u202F!!![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "C-c\u2019est donc lui, le Seigneur des r\u00E9coltes\\nde ce patelin...\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Hummm... J\u2019ai comme une \u00E9norme impression\\nde d\u00E9j\u00E0 vu...[VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "... Bref\u202F! \u00C7a se voit que c\u2019est pas n\u2019importe qui,\\n\u00E0 monter un autre Pok\u00E9mon comme \u00E7a...[VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Et puis, si on regarde bien, son \u00E9norme t\u00EAte\\nressemble pas mal \u00E0 une couronne\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Allez, comme il a l\u2019air plut\u00F4t royal,\\non va dire que la mission est accomplie\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Je crois qu\u2019on a toutes les infos sur le Seigneur\\ndes r\u00E9coltes mentionn\u00E9 dans mes notes, \u00E7a y est\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Je crois qu\u2019on a toutes les infos sur les colosses\\nl\u00E9gendaires mentionn\u00E9s dans mes notes, \u00E7a y est\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Je crois qu\u2019on a toutes les infos sur les oiseaux\\nde l\u00E9gende mentionn\u00E9s dans mes notes, \u00E7a y est\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Nickel\u202F! Y\u2019a plus qu\u2019\u00E0 marquer\\ncette mission comme termin\u00E9e\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Pas de souci\u202F! Je compte sur toi pour percer les\\nsecrets de tous ces Pok\u00E9mon l\u00E9gendaires, chef\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "C\u2019est tout ce que tu as de nouveau \u00E0 me raconter\\npour l\u2019instant\u202F? Pas de souci\u202F!\\c\\nJe compte sur toi pour continuer \u00E0 enqu\u00EAter\\nsur les autres l\u00E9gendes\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Oh\u202F? Quelque chose te donne du fil \u00E0 retordre\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Le l\u00E9gendaire Seigneur des r\u00E9coltes\u202F?\\nC\u2019est vrai que c\u2019est pas une mince affaire\u202F!\\c\\nVa voir sa statue dans le village et discute avec\\nles habitants du Hameau Gel\u00E9, \u00E7a devrait t\u2019aider\u202F!\\c\\nEt h\u00E9site pas \u00E0 jeter un \u0153il \u00E0 la Carte ou\\n\u00E0 la Note L\u00E9gende que je t\u2019ai donn\u00E9e\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Les colosses l\u00E9gendaires\u202F?\\nPour lequel t\u2019as besoin d\u2019aide\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Pour le colosse de Roche\u202F!"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Pour le colosse de Glace\u202F!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Pour le colosse d\u2019Acier\u202F!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Pour les colosses jumeaux\u202F!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "D\u2019abord, tu dois trouver les ruines\u202F!\\nPas de ruines, pas de colosse\u202F!\\c\\nJe les ai dessin\u00E9es dans mes notes, tu verras.\\nT\u2019as plus qu\u2019\u00E0 les chercher, maintenant\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "La porte des ruines o\u00F9 se trouve le colosse de\\nRoche s\u2019ouvre pas\u202F? Et y\u2019a marqu\u00E9 quoi, dessus\u202F?\\c\\n[VAR FF00(0006)]\u00AB\u202FQuand le moment est venu d\u2019entrer, le premier[VAR FF00(0000)]\\n[VAR FF00(0006)]Pok\u00E9mon doit la roche de stase porter\u202F\u00BB[VAR FF00(0000)] ...\u202F?\\c\\nEt si t\u2019essayais de faire tenir cet objet\\nau premier Pok\u00E9mon de ton \u00E9quipe\u202F?\\c\\nUne roche de stase ou je sais pas quoi\u202F?\\nEnfin, t\u2019en as une, au moins\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "La porte des ruines o\u00F9 se trouve le colosse de\\nGlace s\u2019ouvre pas\u202F? Et y\u2019a marqu\u00E9 quoi, dessus\u202F?\\c\\n[VAR FF00(0006)]\u00AB\u202FPour aller de l\u2019avant, marche aux c\u00F4t\u00E9s[VAR FF00(0000)]\\n[VAR FF00(0006)]d\u2019un cristal de neige vivant\u202F\u00BB[VAR FF00(0000)] ...\u202F?\\c\\nBah, j\u2019imagine que \u00AB\u202Fvivant\u202F\u00BB fait s\u00FBrement\\nr\u00E9f\u00E9rence \u00E0 un Pok\u00E9mon.\\c\\nDonc faut que tu marches avec un Pok\u00E9mon\\nqui ressemble \u00E0 un cristal de neige\u202F!\\c\\nComme dit le proverbe : \u00AB\u202FAvec un pote,\\non peut ouvrir toutes les portes\u202F!\u202F\u00BB Ha ha\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "La porte des ruines o\u00F9 se trouve le colosse\\nd\u2019Acier s\u2019ouvre pas\u202F? Et y\u2019a marqu\u00E9 quoi, dessus\u202F?\\c\\n[VAR FF00(0006)]\u00AB\u202F\u00C9mets le son qui \u00E9veillera le colosse d\u2019Acier,[VAR FF00(0000)]\\n[VAR FF00(0006)]c\u2019est alors qu\u2019il sera r\u00E9v\u00E9l\u00E9\u202F\u00BB[VAR FF00(0000)] ...\u202F?\\c\\nBah, les colosses restent des Pok\u00E9mon, hein.\\nIl devrait t\u2019ouvrir la porte si tu fais un bruit\\r\\nqui attire son attention.[VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "La porte des ruines o\u00F9 se trouvent les colosses\\njumeaux s\u2019ouvre pas\u202F? Et y\u2019a marqu\u00E9 quoi, dessus\u202F?\\c\\n[VAR FF00(0006)]\u00AB\u202FLorsque les trois colosses seront rassembl\u00E9s,[VAR FF00(0000)]\\n[VAR FF00(0006)]la porte du destin s\u2019ouvrira\u202F\u00BB[VAR FF00(0000)] ...\u202F?\\c\\nChef, d\u00E9sol\u00E9 de te d\u00E9cevoir, mais... va d\u2019abord\\nfalloir que t\u2019attrapes les trois autres colosses\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "T\u2019as pu entrer dans les ruines,\\nmais pas de colosse \u00E0 l\u2019horizon\u202F?\\c\\nIl doit faire tout noir l\u00E0-dedans, moi aussi\\n\u00E7a me donnerait envie de piquer un roupillon...\\c\\nEssaie de voir si y\u2019a pas un m\u00E9canisme\\npour allumer la lumi\u00E8re\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Les oiseaux l\u00E9gendaires\u202F?\\c\\nHum... Tu peux peut-\u00EAtre aller voir l\u2019\u00E9norme arbre\\nrouge qui se trouve tout au sud de Couronneige\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Les oiseaux l\u00E9gendaires\u202F?\\nPour lequel t\u2019as besoin d\u2019aide\u202F?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Pour l\u2019oiseau orange\u202F!"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Pour l\u2019oiseau noir\u202F!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Pour l\u2019oiseau violet\u202F!"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "L\u2019oiseau orange parcourt les Terres Sauvages\u202F!\\nApparemment, il court super vite\u202F!\\c\\nIl a beau \u00EAtre rapide et l\u00E9gendaire, \u00E7a reste\\nun Pok\u00E9mon\u202F! Il finira bien par s\u2019\u00E9puiser.\\c\\nChef, j\u2019esp\u00E8re que t\u2019es pr\u00EAt[VAR 1100(00FF,0100)]e pour la course\\nde fond du si\u00E8cle\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "L\u2019oiseau noir survole Isolarmure\u202F!\\c\\n\u00C7a va pas beaucoup nous avancer, s\u2019il s\u2019envole\\nencore plus haut d\u00E8s que tu le poursuis.\\c\\n\u00C0 mon avis, il faut anticiper et le prendre\\npar surprise\u202F!\\c\\nQuand il te verra, peut-\u00EAtre que \u00E7a le provoquera\\n\u00E0 redescendre pour t\u2019affronter\u202F![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "L\u2019oiseau violet survole Couronneige\u202F!\\c\\nLorsqu\u2019on s\u2019en approche, il cr\u00E9e des leurres\\nqui lui ressemblent et prend la fuite.\\c\\nTe laisse pas d\u00E9stabiliser par ses subterfuges\u202F!\\nFaut que tu diff\u00E9rencies le Pok\u00E9mon du leurre\u202F!\\c\\nJe sais que tu peux le faire, chef\u202F![VAR 0114(0076)]"
+  }
+]

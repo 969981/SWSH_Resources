@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Ability"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Held Item"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Team ID"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Team Name"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Rental"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Manage teams you\u2019re renting"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Manage teams to share"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "What do you want to do with this Rental Team?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Borrow"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Empty"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Return"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "What do you want to do with this Battle Team?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Make it public"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Don\u2019t make it public"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Check"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Please select a Battle Team."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Please select a Rental Team."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Rental 1"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Rental 2"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Rental 3"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Rental 4"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Rental 5"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Shared 1"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Shared 2"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Shared 3"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Shared 4"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Shared 5"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Rental [VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Shared [VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "This team will be returned.\\nIs that OK?"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "The Battle Team has been returned.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "This team will be made public.\\nIs that OK?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "The Battle Team has been made public.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "This team will no longer be public.\\nIs that OK?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "This team is no longer public.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Communicating..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Would you like to borrow this team?"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "You borrowed the Battle Team.\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Help"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "No team was found.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "There is a problem with at least one Pok\u00E9mon\\nin this Battle Team.\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Saving...\\nDon\u2019t turn off the power."
+  }
+]

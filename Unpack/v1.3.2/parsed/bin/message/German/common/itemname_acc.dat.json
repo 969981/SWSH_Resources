@@ -1,0 +1,8042 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Kein Item"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Meisterball"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Hyperball"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Superball"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pok\u00E9ball"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Safariball"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Netzball"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Tauchball"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Nestball"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Wiederball"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Timerball"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Luxusball"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Premierball"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Finsterball"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Heilball"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Flottball"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Jubelball"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Trank"
+  },
+  {
+    "index": 18,
+    "flags": 2,
+    "text": "Gegengift"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Feuerheiler"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Eisheiler"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Aufwecker"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Para-Heiler"
+  },
+  {
+    "index": 23,
+    "flags": 1,
+    "text": "Top-Genesung"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Top-Trank"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Hypertrank"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Supertrank"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Hyperheiler"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Beleber"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Top-Beleber"
+  },
+  {
+    "index": 30,
+    "flags": 2,
+    "text": "Tafelwasser"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Sprudel"
+  },
+  {
+    "index": 32,
+    "flags": 1,
+    "text": "Limonade"
+  },
+  {
+    "index": 33,
+    "flags": 1,
+    "text": "Kuhmuh-Milch"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Energiestaub"
+  },
+  {
+    "index": 35,
+    "flags": 1,
+    "text": "Kraftwurzel"
+  },
+  {
+    "index": 36,
+    "flags": 2,
+    "text": "Heilpuder"
+  },
+  {
+    "index": 37,
+    "flags": 2,
+    "text": "Vitalkraut"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u00C4ther"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Top-\u00C4ther"
+  },
+  {
+    "index": 40,
+    "flags": 2,
+    "text": "Elixier"
+  },
+  {
+    "index": 41,
+    "flags": 2,
+    "text": "Top-Elixier"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Lavakeks"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Beerensaft"
+  },
+  {
+    "index": 44,
+    "flags": 1,
+    "text": "Zauberasche"
+  },
+  {
+    "index": 45,
+    "flags": 2,
+    "text": "KP-Plus"
+  },
+  {
+    "index": 46,
+    "flags": 2,
+    "text": "Protein"
+  },
+  {
+    "index": 47,
+    "flags": 2,
+    "text": "Eisen"
+  },
+  {
+    "index": 48,
+    "flags": 2,
+    "text": "Carbon"
+  },
+  {
+    "index": 49,
+    "flags": 2,
+    "text": "Kalzium"
+  },
+  {
+    "index": 50,
+    "flags": 2,
+    "text": "Sonderbonbon"
+  },
+  {
+    "index": 51,
+    "flags": 2,
+    "text": "AP-Plus"
+  },
+  {
+    "index": 52,
+    "flags": 2,
+    "text": "Zink"
+  },
+  {
+    "index": 53,
+    "flags": 2,
+    "text": "AP-Top"
+  },
+  {
+    "index": 54,
+    "flags": 1,
+    "text": "Spezialit\u00E4t"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Megablock"
+  },
+  {
+    "index": 56,
+    "flags": 2,
+    "text": "Angriffplus"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "X-Angriff"
+  },
+  {
+    "index": 58,
+    "flags": 1,
+    "text": "X-Verteidigung"
+  },
+  {
+    "index": 59,
+    "flags": 1,
+    "text": "X-Initiative"
+  },
+  {
+    "index": 60,
+    "flags": 1,
+    "text": "X-Genauigkeit"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "X-Sp.-Ang."
+  },
+  {
+    "index": 62,
+    "flags": 1,
+    "text": "X-Sp.-Vert."
+  },
+  {
+    "index": 63,
+    "flags": 1,
+    "text": "Pok\u00E9puppe"
+  },
+  {
+    "index": 64,
+    "flags": 1,
+    "text": "Eneco-Rute"
+  },
+  {
+    "index": 65,
+    "flags": 1,
+    "text": "Blaue Fl\u00F6te"
+  },
+  {
+    "index": 66,
+    "flags": 1,
+    "text": "Gelbe Fl\u00F6te"
+  },
+  {
+    "index": 67,
+    "flags": 1,
+    "text": "Rote Fl\u00F6te"
+  },
+  {
+    "index": 68,
+    "flags": 1,
+    "text": "Schwarze Fl\u00F6te"
+  },
+  {
+    "index": 69,
+    "flags": 1,
+    "text": "Wei\u00DFe Fl\u00F6te"
+  },
+  {
+    "index": 70,
+    "flags": 2,
+    "text": "K\u00FCstensalz"
+  },
+  {
+    "index": 71,
+    "flags": 1,
+    "text": "K\u00FCstenschale"
+  },
+  {
+    "index": 72,
+    "flags": 2,
+    "text": "Purpurst\u00FCck"
+  },
+  {
+    "index": 73,
+    "flags": 2,
+    "text": "Indigost\u00FCck"
+  },
+  {
+    "index": 74,
+    "flags": 2,
+    "text": "Gelbst\u00FCck"
+  },
+  {
+    "index": 75,
+    "flags": 2,
+    "text": "Gr\u00FCnst\u00FCck"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Superschutz"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Top-Schutz"
+  },
+  {
+    "index": 78,
+    "flags": 2,
+    "text": "Fluchtseil"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Schutz"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Sonnenstein"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Mondstein"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Feuerstein"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Donnerstein"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Wasserstein"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Blattstein"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Minipilz"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Riesenpilz"
+  },
+  {
+    "index": 88,
+    "flags": 1,
+    "text": "Perle"
+  },
+  {
+    "index": 89,
+    "flags": 1,
+    "text": "Riesenperle"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Sternenstaub"
+  },
+  {
+    "index": 91,
+    "flags": 2,
+    "text": "Sternenst\u00FCck"
+  },
+  {
+    "index": 92,
+    "flags": 2,
+    "text": "Nugget"
+  },
+  {
+    "index": 93,
+    "flags": 1,
+    "text": "Herzschuppe"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Honig"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Wachsmulch"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Feuchtmulch"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Stabilmulch"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Neumulch"
+  },
+  {
+    "index": 99,
+    "flags": 2,
+    "text": "Wurzelfossil"
+  },
+  {
+    "index": 100,
+    "flags": 2,
+    "text": "Klauenfossil"
+  },
+  {
+    "index": 101,
+    "flags": 2,
+    "text": "Helixfossil"
+  },
+  {
+    "index": 102,
+    "flags": 2,
+    "text": "Domfossil"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Altbernstein"
+  },
+  {
+    "index": 104,
+    "flags": 2,
+    "text": "Panzerfossil"
+  },
+  {
+    "index": 105,
+    "flags": 2,
+    "text": "Kopffossil"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Steinknochen"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Leuchtstein"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Finsterstein"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Funkelstein"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Ovalen Stein"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Spiritkern"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Platinum-Orb"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Tee"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 115,
+    "flags": 2,
+    "text": "Autogramm"
+  },
+  {
+    "index": 116,
+    "flags": 2,
+    "text": "Aquamodul"
+  },
+  {
+    "index": 117,
+    "flags": 2,
+    "text": "Blitzmodul"
+  },
+  {
+    "index": 118,
+    "flags": 2,
+    "text": "Flammenmodul"
+  },
+  {
+    "index": 119,
+    "flags": 2,
+    "text": "Gefriermodul"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 121,
+    "flags": 1,
+    "text": "Pok\u00E9mon-Box"
+  },
+  {
+    "index": 122,
+    "flags": 1,
+    "text": "Medizintasche"
+  },
+  {
+    "index": 123,
+    "flags": 1,
+    "text": "TM-Box"
+  },
+  {
+    "index": 124,
+    "flags": 2,
+    "text": "Bonbonglas"
+  },
+  {
+    "index": 125,
+    "flags": 1,
+    "text": "St\u00E4rkungstasche"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Klamottenkoffer"
+  },
+  {
+    "index": 127,
+    "flags": 1,
+    "text": "Fangtasche"
+  },
+  {
+    "index": 128,
+    "flags": 1,
+    "text": "Kampftasche"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 134,
+    "flags": 2,
+    "text": "Herzkonfekt"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Adamant-Orb"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Wei\u00DF-Orb"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Gru\u00DFbrief"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Faiblebrief"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Einladebrief"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Dankesbrief"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Fragebrief"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Insiderbrief"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "R\u00FCckbrief"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Br\u00FCckbrief H"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Br\u00FCckbrief M"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Br\u00FCckbrief Z"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Br\u00FCckbrief D"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Br\u00FCckbrief W"
+  },
+  {
+    "index": 149,
+    "flags": 1,
+    "text": "Amrenabeere"
+  },
+  {
+    "index": 150,
+    "flags": 1,
+    "text": "Maronbeere"
+  },
+  {
+    "index": 151,
+    "flags": 1,
+    "text": "Pirsifbeere"
+  },
+  {
+    "index": 152,
+    "flags": 1,
+    "text": "Fragiabeere"
+  },
+  {
+    "index": 153,
+    "flags": 1,
+    "text": "Wilbirbeere"
+  },
+  {
+    "index": 154,
+    "flags": 1,
+    "text": "Jonagobeere"
+  },
+  {
+    "index": 155,
+    "flags": 1,
+    "text": "Sinelbeere"
+  },
+  {
+    "index": 156,
+    "flags": 1,
+    "text": "Persimbeere"
+  },
+  {
+    "index": 157,
+    "flags": 1,
+    "text": "Prunusbeere"
+  },
+  {
+    "index": 158,
+    "flags": 1,
+    "text": "Tsitrubeere"
+  },
+  {
+    "index": 159,
+    "flags": 1,
+    "text": "Giefebeere"
+  },
+  {
+    "index": 160,
+    "flags": 1,
+    "text": "Wikibeere"
+  },
+  {
+    "index": 161,
+    "flags": 1,
+    "text": "Magobeere"
+  },
+  {
+    "index": 162,
+    "flags": 1,
+    "text": "Gauvebeere"
+  },
+  {
+    "index": 163,
+    "flags": 1,
+    "text": "Yapabeere"
+  },
+  {
+    "index": 164,
+    "flags": 1,
+    "text": "Himmihbeere"
+  },
+  {
+    "index": 165,
+    "flags": 1,
+    "text": "Morbbeere"
+  },
+  {
+    "index": 166,
+    "flags": 1,
+    "text": "Nanabbeere"
+  },
+  {
+    "index": 167,
+    "flags": 1,
+    "text": "Nirbebeere"
+  },
+  {
+    "index": 168,
+    "flags": 1,
+    "text": "Sananabeere"
+  },
+  {
+    "index": 169,
+    "flags": 1,
+    "text": "Granabeere"
+  },
+  {
+    "index": 170,
+    "flags": 1,
+    "text": "Setangbeere"
+  },
+  {
+    "index": 171,
+    "flags": 1,
+    "text": "Qualotbeere"
+  },
+  {
+    "index": 172,
+    "flags": 1,
+    "text": "Honmelbeere"
+  },
+  {
+    "index": 173,
+    "flags": 1,
+    "text": "Labrusbeere"
+  },
+  {
+    "index": 174,
+    "flags": 1,
+    "text": "Tamotbeere"
+  },
+  {
+    "index": 175,
+    "flags": 1,
+    "text": "Saimbeere"
+  },
+  {
+    "index": 176,
+    "flags": 1,
+    "text": "Magostbeere"
+  },
+  {
+    "index": 177,
+    "flags": 1,
+    "text": "Rabutabeere"
+  },
+  {
+    "index": 178,
+    "flags": 1,
+    "text": "Tronzibeere"
+  },
+  {
+    "index": 179,
+    "flags": 1,
+    "text": "Kiwanbeere"
+  },
+  {
+    "index": 180,
+    "flags": 1,
+    "text": "Pallmbeere"
+  },
+  {
+    "index": 181,
+    "flags": 1,
+    "text": "Wasmelbeere"
+  },
+  {
+    "index": 182,
+    "flags": 1,
+    "text": "Durinbeere"
+  },
+  {
+    "index": 183,
+    "flags": 1,
+    "text": "Myrtilbeere"
+  },
+  {
+    "index": 184,
+    "flags": 1,
+    "text": "Koakobeere"
+  },
+  {
+    "index": 185,
+    "flags": 1,
+    "text": "Foepasbeere"
+  },
+  {
+    "index": 186,
+    "flags": 1,
+    "text": "Kerzalbeere"
+  },
+  {
+    "index": 187,
+    "flags": 1,
+    "text": "Grindobeere"
+  },
+  {
+    "index": 188,
+    "flags": 1,
+    "text": "Kiroyabeere"
+  },
+  {
+    "index": 189,
+    "flags": 1,
+    "text": "Rospelbeere"
+  },
+  {
+    "index": 190,
+    "flags": 1,
+    "text": "Grarzbeere"
+  },
+  {
+    "index": 191,
+    "flags": 1,
+    "text": "Schukebeere"
+  },
+  {
+    "index": 192,
+    "flags": 1,
+    "text": "Kobabeere"
+  },
+  {
+    "index": 193,
+    "flags": 1,
+    "text": "Pyapabeere"
+  },
+  {
+    "index": 194,
+    "flags": 1,
+    "text": "Tanigabeere"
+  },
+  {
+    "index": 195,
+    "flags": 1,
+    "text": "Chiaribeere"
+  },
+  {
+    "index": 196,
+    "flags": 1,
+    "text": "Zitarzbeere"
+  },
+  {
+    "index": 197,
+    "flags": 1,
+    "text": "Terirobeere"
+  },
+  {
+    "index": 198,
+    "flags": 1,
+    "text": "Burleobeere"
+  },
+  {
+    "index": 199,
+    "flags": 1,
+    "text": "Babiribeere"
+  },
+  {
+    "index": 200,
+    "flags": 1,
+    "text": "Latchibeere"
+  },
+  {
+    "index": 201,
+    "flags": 1,
+    "text": "Lydzibeere"
+  },
+  {
+    "index": 202,
+    "flags": 1,
+    "text": "Linganbeere"
+  },
+  {
+    "index": 203,
+    "flags": 1,
+    "text": "Salkabeere"
+  },
+  {
+    "index": 204,
+    "flags": 1,
+    "text": "Tahaybeere"
+  },
+  {
+    "index": 205,
+    "flags": 1,
+    "text": "Apikobeere"
+  },
+  {
+    "index": 206,
+    "flags": 1,
+    "text": "Lansatbeere"
+  },
+  {
+    "index": 207,
+    "flags": 1,
+    "text": "Krambobeere"
+  },
+  {
+    "index": 208,
+    "flags": 1,
+    "text": "Enigmabeere"
+  },
+  {
+    "index": 209,
+    "flags": 1,
+    "text": "Wunfrubeere"
+  },
+  {
+    "index": 210,
+    "flags": 1,
+    "text": "Eipfelbeere"
+  },
+  {
+    "index": 211,
+    "flags": 1,
+    "text": "Jabocabeere"
+  },
+  {
+    "index": 212,
+    "flags": 1,
+    "text": "Roselbeere"
+  },
+  {
+    "index": 213,
+    "flags": 2,
+    "text": "Blendpuder"
+  },
+  {
+    "index": 214,
+    "flags": 2,
+    "text": "Schlohkraut"
+  },
+  {
+    "index": 215,
+    "flags": 2,
+    "text": "Machoband"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "EP-Teiler"
+  },
+  {
+    "index": 217,
+    "flags": 1,
+    "text": "Flinkklaue"
+  },
+  {
+    "index": 218,
+    "flags": 1,
+    "text": "Sanftglocke"
+  },
+  {
+    "index": 219,
+    "flags": 2,
+    "text": "Mentalkraut"
+  },
+  {
+    "index": 220,
+    "flags": 2,
+    "text": "Wahlband"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "King-Stein"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Silberstaub"
+  },
+  {
+    "index": 223,
+    "flags": 2,
+    "text": "M\u00FCnzamulett"
+  },
+  {
+    "index": 224,
+    "flags": 2,
+    "text": "Schutzband"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Seelentau"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Abysszahn"
+  },
+  {
+    "index": 227,
+    "flags": 1,
+    "text": "Abyssplatte"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Rauchball"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Ewigstein"
+  },
+  {
+    "index": 230,
+    "flags": 2,
+    "text": "Fokusband"
+  },
+  {
+    "index": 231,
+    "flags": 2,
+    "text": "Gl\u00FCcks-Ei"
+  },
+  {
+    "index": 232,
+    "flags": 1,
+    "text": "Scope-Linse"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Metallmantel"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "\u00DCberreste"
+  },
+  {
+    "index": 235,
+    "flags": 1,
+    "text": "Drachenhaut"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Kugelblitz"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "Pudersand"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Granitstein"
+  },
+  {
+    "index": 239,
+    "flags": 1,
+    "text": "Wundersaat"
+  },
+  {
+    "index": 240,
+    "flags": 1,
+    "text": "Schattenbrille"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Schwarzgurt"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Magnet"
+  },
+  {
+    "index": 243,
+    "flags": 2,
+    "text": "Zauberwasser"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Spitzen Schnabel"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Giftstich"
+  },
+  {
+    "index": 246,
+    "flags": 2,
+    "text": "Ewiges Eis"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Bannsticker"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Krumml\u00F6ffel"
+  },
+  {
+    "index": 249,
+    "flags": 1,
+    "text": "Holzkohle"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Drachenzahn"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Seidenschal"
+  },
+  {
+    "index": 252,
+    "flags": 2,
+    "text": "Up-Grade"
+  },
+  {
+    "index": 253,
+    "flags": 1,
+    "text": "Muschelglocke"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Seerauch"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Laxrauch"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "Lucky Punch"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Metallstaub"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "Kampfknochen"
+  },
+  {
+    "index": 259,
+    "flags": 1,
+    "text": "Lauchstange"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Roten Schal"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Blauen Schal"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Rosa Schal"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Gr\u00FCnen Schal"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Gelben Schal"
+  },
+  {
+    "index": 265,
+    "flags": 1,
+    "text": "Gro\u00DFlinse"
+  },
+  {
+    "index": 266,
+    "flags": 2,
+    "text": "Muskelband"
+  },
+  {
+    "index": 267,
+    "flags": 1,
+    "text": "Schlaubrille"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Expertengurt"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Lichtlehm"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Leben-Orb"
+  },
+  {
+    "index": 271,
+    "flags": 2,
+    "text": "Energiekraut"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "Toxik-Orb"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Hei\u00DF-Orb"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "Flottstaub"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "Fokusgurt"
+  },
+  {
+    "index": 276,
+    "flags": 1,
+    "text": "Zoomlinse"
+  },
+  {
+    "index": 277,
+    "flags": 2,
+    "text": "Metronom"
+  },
+  {
+    "index": 278,
+    "flags": 1,
+    "text": "Eisenkugel"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Schwerschweif"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Fatumknoten"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "Giftschleim"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Eisbrocken"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "Glattbrocken"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "Hei\u00DFbrocken"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "Nassbrocken"
+  },
+  {
+    "index": 286,
+    "flags": 1,
+    "text": "Griffklaue"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "Wahlschal"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "Klettdorn"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Machtreif"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Machtgurt"
+  },
+  {
+    "index": 291,
+    "flags": 1,
+    "text": "Machtlinse"
+  },
+  {
+    "index": 292,
+    "flags": 2,
+    "text": "Machtband"
+  },
+  {
+    "index": 293,
+    "flags": 1,
+    "text": "Machtkette"
+  },
+  {
+    "index": 294,
+    "flags": 2,
+    "text": "Machtgewicht"
+  },
+  {
+    "index": 295,
+    "flags": 1,
+    "text": "Wechselh\u00FClle"
+  },
+  {
+    "index": 296,
+    "flags": 1,
+    "text": "Gro\u00DFwurzel"
+  },
+  {
+    "index": 297,
+    "flags": 1,
+    "text": "Wahlbrille"
+  },
+  {
+    "index": 298,
+    "flags": 1,
+    "text": "Feuertafel"
+  },
+  {
+    "index": 299,
+    "flags": 1,
+    "text": "Wassertafel"
+  },
+  {
+    "index": 300,
+    "flags": 1,
+    "text": "Blitztafel"
+  },
+  {
+    "index": 301,
+    "flags": 1,
+    "text": "Wiesentafel"
+  },
+  {
+    "index": 302,
+    "flags": 1,
+    "text": "Frosttafel"
+  },
+  {
+    "index": 303,
+    "flags": 1,
+    "text": "Fausttafel"
+  },
+  {
+    "index": 304,
+    "flags": 1,
+    "text": "Gifttafel"
+  },
+  {
+    "index": 305,
+    "flags": 1,
+    "text": "Erdtafel"
+  },
+  {
+    "index": 306,
+    "flags": 1,
+    "text": "Wolkentafel"
+  },
+  {
+    "index": 307,
+    "flags": 1,
+    "text": "Hirntafel"
+  },
+  {
+    "index": 308,
+    "flags": 1,
+    "text": "K\u00E4fertafel"
+  },
+  {
+    "index": 309,
+    "flags": 1,
+    "text": "Steintafel"
+  },
+  {
+    "index": 310,
+    "flags": 1,
+    "text": "Spuktafel"
+  },
+  {
+    "index": 311,
+    "flags": 1,
+    "text": "Dracotafel"
+  },
+  {
+    "index": 312,
+    "flags": 1,
+    "text": "Furchttafel"
+  },
+  {
+    "index": 313,
+    "flags": 1,
+    "text": "Eisentafel"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Schr\u00E4grauch"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Steinrauch"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Lahmrauch"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "Wellenrauch"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "Rosenrauch"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Gl\u00FCcksrauch"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Scheuchrauch"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Sch\u00FCtzer"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Stromisierer"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Magmaisierer"
+  },
+  {
+    "index": 324,
+    "flags": 1,
+    "text": "Dubiosdisc"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "D\u00FCsterumhang"
+  },
+  {
+    "index": 326,
+    "flags": 1,
+    "text": "Scharfklaue"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Scharfzahn"
+  },
+  {
+    "index": 328,
+    "flags": 33,
+    "text": "TM01"
+  },
+  {
+    "index": 329,
+    "flags": 33,
+    "text": "TM02"
+  },
+  {
+    "index": 330,
+    "flags": 33,
+    "text": "TM03"
+  },
+  {
+    "index": 331,
+    "flags": 33,
+    "text": "TM04"
+  },
+  {
+    "index": 332,
+    "flags": 33,
+    "text": "TM05"
+  },
+  {
+    "index": 333,
+    "flags": 33,
+    "text": "TM06"
+  },
+  {
+    "index": 334,
+    "flags": 33,
+    "text": "TM07"
+  },
+  {
+    "index": 335,
+    "flags": 33,
+    "text": "TM08"
+  },
+  {
+    "index": 336,
+    "flags": 33,
+    "text": "TM09"
+  },
+  {
+    "index": 337,
+    "flags": 33,
+    "text": "TM10"
+  },
+  {
+    "index": 338,
+    "flags": 33,
+    "text": "TM11"
+  },
+  {
+    "index": 339,
+    "flags": 33,
+    "text": "TM12"
+  },
+  {
+    "index": 340,
+    "flags": 33,
+    "text": "TM13"
+  },
+  {
+    "index": 341,
+    "flags": 33,
+    "text": "TM14"
+  },
+  {
+    "index": 342,
+    "flags": 33,
+    "text": "TM15"
+  },
+  {
+    "index": 343,
+    "flags": 33,
+    "text": "TM16"
+  },
+  {
+    "index": 344,
+    "flags": 33,
+    "text": "TM17"
+  },
+  {
+    "index": 345,
+    "flags": 33,
+    "text": "TM18"
+  },
+  {
+    "index": 346,
+    "flags": 33,
+    "text": "TM19"
+  },
+  {
+    "index": 347,
+    "flags": 33,
+    "text": "TM20"
+  },
+  {
+    "index": 348,
+    "flags": 33,
+    "text": "TM21"
+  },
+  {
+    "index": 349,
+    "flags": 33,
+    "text": "TM22"
+  },
+  {
+    "index": 350,
+    "flags": 33,
+    "text": "TM23"
+  },
+  {
+    "index": 351,
+    "flags": 33,
+    "text": "TM24"
+  },
+  {
+    "index": 352,
+    "flags": 33,
+    "text": "TM25"
+  },
+  {
+    "index": 353,
+    "flags": 33,
+    "text": "TM26"
+  },
+  {
+    "index": 354,
+    "flags": 33,
+    "text": "TM27"
+  },
+  {
+    "index": 355,
+    "flags": 33,
+    "text": "TM28"
+  },
+  {
+    "index": 356,
+    "flags": 33,
+    "text": "TM29"
+  },
+  {
+    "index": 357,
+    "flags": 33,
+    "text": "TM30"
+  },
+  {
+    "index": 358,
+    "flags": 33,
+    "text": "TM31"
+  },
+  {
+    "index": 359,
+    "flags": 33,
+    "text": "TM32"
+  },
+  {
+    "index": 360,
+    "flags": 33,
+    "text": "TM33"
+  },
+  {
+    "index": 361,
+    "flags": 33,
+    "text": "TM34"
+  },
+  {
+    "index": 362,
+    "flags": 33,
+    "text": "TM35"
+  },
+  {
+    "index": 363,
+    "flags": 33,
+    "text": "TM36"
+  },
+  {
+    "index": 364,
+    "flags": 33,
+    "text": "TM37"
+  },
+  {
+    "index": 365,
+    "flags": 33,
+    "text": "TM38"
+  },
+  {
+    "index": 366,
+    "flags": 33,
+    "text": "TM39"
+  },
+  {
+    "index": 367,
+    "flags": 33,
+    "text": "TM40"
+  },
+  {
+    "index": 368,
+    "flags": 33,
+    "text": "TM41"
+  },
+  {
+    "index": 369,
+    "flags": 33,
+    "text": "TM42"
+  },
+  {
+    "index": 370,
+    "flags": 33,
+    "text": "TM43"
+  },
+  {
+    "index": 371,
+    "flags": 33,
+    "text": "TM44"
+  },
+  {
+    "index": 372,
+    "flags": 33,
+    "text": "TM45"
+  },
+  {
+    "index": 373,
+    "flags": 33,
+    "text": "TM46"
+  },
+  {
+    "index": 374,
+    "flags": 33,
+    "text": "TM47"
+  },
+  {
+    "index": 375,
+    "flags": 33,
+    "text": "TM48"
+  },
+  {
+    "index": 376,
+    "flags": 33,
+    "text": "TM49"
+  },
+  {
+    "index": 377,
+    "flags": 33,
+    "text": "TM50"
+  },
+  {
+    "index": 378,
+    "flags": 33,
+    "text": "TM51"
+  },
+  {
+    "index": 379,
+    "flags": 33,
+    "text": "TM52"
+  },
+  {
+    "index": 380,
+    "flags": 33,
+    "text": "TM53"
+  },
+  {
+    "index": 381,
+    "flags": 33,
+    "text": "TM54"
+  },
+  {
+    "index": 382,
+    "flags": 33,
+    "text": "TM55"
+  },
+  {
+    "index": 383,
+    "flags": 33,
+    "text": "TM56"
+  },
+  {
+    "index": 384,
+    "flags": 33,
+    "text": "TM57"
+  },
+  {
+    "index": 385,
+    "flags": 33,
+    "text": "TM58"
+  },
+  {
+    "index": 386,
+    "flags": 33,
+    "text": "TM59"
+  },
+  {
+    "index": 387,
+    "flags": 33,
+    "text": "TM60"
+  },
+  {
+    "index": 388,
+    "flags": 33,
+    "text": "TM61"
+  },
+  {
+    "index": 389,
+    "flags": 33,
+    "text": "TM62"
+  },
+  {
+    "index": 390,
+    "flags": 33,
+    "text": "TM63"
+  },
+  {
+    "index": 391,
+    "flags": 33,
+    "text": "TM64"
+  },
+  {
+    "index": 392,
+    "flags": 33,
+    "text": "TM65"
+  },
+  {
+    "index": 393,
+    "flags": 33,
+    "text": "TM66"
+  },
+  {
+    "index": 394,
+    "flags": 33,
+    "text": "TM67"
+  },
+  {
+    "index": 395,
+    "flags": 33,
+    "text": "TM68"
+  },
+  {
+    "index": 396,
+    "flags": 33,
+    "text": "TM69"
+  },
+  {
+    "index": 397,
+    "flags": 33,
+    "text": "TM70"
+  },
+  {
+    "index": 398,
+    "flags": 33,
+    "text": "TM71"
+  },
+  {
+    "index": 399,
+    "flags": 33,
+    "text": "TM72"
+  },
+  {
+    "index": 400,
+    "flags": 33,
+    "text": "TM73"
+  },
+  {
+    "index": 401,
+    "flags": 33,
+    "text": "TM74"
+  },
+  {
+    "index": 402,
+    "flags": 33,
+    "text": "TM75"
+  },
+  {
+    "index": 403,
+    "flags": 33,
+    "text": "TM76"
+  },
+  {
+    "index": 404,
+    "flags": 33,
+    "text": "TM77"
+  },
+  {
+    "index": 405,
+    "flags": 33,
+    "text": "TM78"
+  },
+  {
+    "index": 406,
+    "flags": 33,
+    "text": "TM79"
+  },
+  {
+    "index": 407,
+    "flags": 33,
+    "text": "TM80"
+  },
+  {
+    "index": 408,
+    "flags": 33,
+    "text": "TM81"
+  },
+  {
+    "index": 409,
+    "flags": 33,
+    "text": "TM82"
+  },
+  {
+    "index": 410,
+    "flags": 33,
+    "text": "TM83"
+  },
+  {
+    "index": 411,
+    "flags": 33,
+    "text": "TM84"
+  },
+  {
+    "index": 412,
+    "flags": 33,
+    "text": "TM85"
+  },
+  {
+    "index": 413,
+    "flags": 33,
+    "text": "TM86"
+  },
+  {
+    "index": 414,
+    "flags": 33,
+    "text": "TM87"
+  },
+  {
+    "index": 415,
+    "flags": 33,
+    "text": "TM88"
+  },
+  {
+    "index": 416,
+    "flags": 33,
+    "text": "TM89"
+  },
+  {
+    "index": 417,
+    "flags": 33,
+    "text": "TM90"
+  },
+  {
+    "index": 418,
+    "flags": 33,
+    "text": "TM91"
+  },
+  {
+    "index": 419,
+    "flags": 33,
+    "text": "TM92"
+  },
+  {
+    "index": 420,
+    "flags": 33,
+    "text": "VM01"
+  },
+  {
+    "index": 421,
+    "flags": 33,
+    "text": "VM02"
+  },
+  {
+    "index": 422,
+    "flags": 33,
+    "text": "VM03"
+  },
+  {
+    "index": 423,
+    "flags": 33,
+    "text": "VM04"
+  },
+  {
+    "index": 424,
+    "flags": 33,
+    "text": "VM05"
+  },
+  {
+    "index": 425,
+    "flags": 33,
+    "text": "VM06"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 428,
+    "flags": 2,
+    "text": "Erkundungs-Set"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Beutesack"
+  },
+  {
+    "index": 430,
+    "flags": 2,
+    "text": "Regelbuch"
+  },
+  {
+    "index": 431,
+    "flags": 2,
+    "text": "Pok\u00E9radar"
+  },
+  {
+    "index": 432,
+    "flags": 1,
+    "text": "Punktekarte"
+  },
+  {
+    "index": 433,
+    "flags": 2,
+    "text": "Tagebuch"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Stickerkoffer"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Modekoffer"
+  },
+  {
+    "index": 436,
+    "flags": 1,
+    "text": "Stickert\u00FCte"
+  },
+  {
+    "index": 437,
+    "flags": 2,
+    "text": "Adressbuch"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "K-Schl\u00FCssel"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Talisman"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "G-Schl\u00FCssel"
+  },
+  {
+    "index": 441,
+    "flags": 1,
+    "text": "Rote Kette"
+  },
+  {
+    "index": 442,
+    "flags": 1,
+    "text": "Karte"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "Kampffahnder"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "M\u00FCnzkorb"
+  },
+  {
+    "index": 445,
+    "flags": 1,
+    "text": "Angel"
+  },
+  {
+    "index": 446,
+    "flags": 1,
+    "text": "Profiangel"
+  },
+  {
+    "index": 447,
+    "flags": 1,
+    "text": "Superangel"
+  },
+  {
+    "index": 448,
+    "flags": 1,
+    "text": "Entonkanne"
+  },
+  {
+    "index": 449,
+    "flags": 1,
+    "text": "Knurspbox"
+  },
+  {
+    "index": 450,
+    "flags": 2,
+    "text": "Fahrrad"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "B-Schl\u00FCssel"
+  },
+  {
+    "index": 452,
+    "flags": 32,
+    "text": "Eichs Brief"
+  },
+  {
+    "index": 453,
+    "flags": 1,
+    "text": "Lunarfeder"
+  },
+  {
+    "index": 454,
+    "flags": 1,
+    "text": "Mitgliedskarte"
+  },
+  {
+    "index": 455,
+    "flags": 1,
+    "text": "Azurfl\u00F6te"
+  },
+  {
+    "index": 456,
+    "flags": 2,
+    "text": "Bootsticket"
+  },
+  {
+    "index": 457,
+    "flags": 1,
+    "text": "Wettbewerbskarte"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "Magmastein"
+  },
+  {
+    "index": 459,
+    "flags": 2,
+    "text": "Paket"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "Kupon 1"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "Kupon 2"
+  },
+  {
+    "index": 462,
+    "flags": 0,
+    "text": "Kupon 3"
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "Lagerschl\u00FCssel"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "Geheimtrank"
+  },
+  {
+    "index": 465,
+    "flags": 1,
+    "text": "Kampfkamera"
+  },
+  {
+    "index": 466,
+    "flags": 1,
+    "text": "Gracidea"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "Geheimschl\u00FCssel"
+  },
+  {
+    "index": 468,
+    "flags": 1,
+    "text": "Aprikokobox"
+  },
+  {
+    "index": 469,
+    "flags": 2,
+    "text": "Icognitoheft"
+  },
+  {
+    "index": 470,
+    "flags": 2,
+    "text": "Pflanzset"
+  },
+  {
+    "index": 471,
+    "flags": 2,
+    "text": "Itemradar"
+  },
+  {
+    "index": 472,
+    "flags": 1,
+    "text": "Blaue Karte"
+  },
+  {
+    "index": 473,
+    "flags": 1,
+    "text": "Flegmon-Rute"
+  },
+  {
+    "index": 474,
+    "flags": 1,
+    "text": "Klarglocke"
+  },
+  {
+    "index": 475,
+    "flags": 1,
+    "text": "Schl\u00FCsselkarte"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "Keller\u00F6ffner"
+  },
+  {
+    "index": 477,
+    "flags": 1,
+    "text": "Schiggykanne"
+  },
+  {
+    "index": 478,
+    "flags": 1,
+    "text": "Rote Haut"
+  },
+  {
+    "index": 479,
+    "flags": 1,
+    "text": "Fundsache"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "Fahrschein"
+  },
+  {
+    "index": 481,
+    "flags": 1,
+    "text": "Spule"
+  },
+  {
+    "index": 482,
+    "flags": 0,
+    "text": "Silberfl\u00FCgel"
+  },
+  {
+    "index": 483,
+    "flags": 1,
+    "text": "Buntschwinge"
+  },
+  {
+    "index": 484,
+    "flags": 2,
+    "text": "R\u00E4tsel-Ei"
+  },
+  {
+    "index": 485,
+    "flags": 1,
+    "text": "Aprikoko Rot"
+  },
+  {
+    "index": 486,
+    "flags": 1,
+    "text": "Aprikoko Blau"
+  },
+  {
+    "index": 487,
+    "flags": 1,
+    "text": "Aprikoko Gelb"
+  },
+  {
+    "index": 488,
+    "flags": 1,
+    "text": "Aprikoko Gr\u00FCn"
+  },
+  {
+    "index": 489,
+    "flags": 1,
+    "text": "Aprikoko Pink"
+  },
+  {
+    "index": 490,
+    "flags": 1,
+    "text": "Aprikoko Wei\u00DF"
+  },
+  {
+    "index": 491,
+    "flags": 1,
+    "text": "Aprikoko Schwarz"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "Turboball"
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "Levelball"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "K\u00F6derball"
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "Schwerball"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "Sympaball"
+  },
+  {
+    "index": 497,
+    "flags": 0,
+    "text": "Freundesball"
+  },
+  {
+    "index": 498,
+    "flags": 0,
+    "text": "Mondball"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "Turnierball"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "Parkball"
+  },
+  {
+    "index": 501,
+    "flags": 2,
+    "text": "Fotoalbum"
+  },
+  {
+    "index": 502,
+    "flags": 0,
+    "text": "GB-Player"
+  },
+  {
+    "index": 503,
+    "flags": 1,
+    "text": "Gischtglocke"
+  },
+  {
+    "index": 504,
+    "flags": 0,
+    "text": "Wutkeks"
+  },
+  {
+    "index": 505,
+    "flags": 1,
+    "text": "Datenkarte01"
+  },
+  {
+    "index": 506,
+    "flags": 1,
+    "text": "Datenkarte02"
+  },
+  {
+    "index": 507,
+    "flags": 1,
+    "text": "Datenkarte03"
+  },
+  {
+    "index": 508,
+    "flags": 1,
+    "text": "Datenkarte04"
+  },
+  {
+    "index": 509,
+    "flags": 1,
+    "text": "Datenkarte05"
+  },
+  {
+    "index": 510,
+    "flags": 1,
+    "text": "Datenkarte06"
+  },
+  {
+    "index": 511,
+    "flags": 1,
+    "text": "Datenkarte07"
+  },
+  {
+    "index": 512,
+    "flags": 1,
+    "text": "Datenkarte08"
+  },
+  {
+    "index": 513,
+    "flags": 1,
+    "text": "Datenkarte09"
+  },
+  {
+    "index": 514,
+    "flags": 1,
+    "text": "Datenkarte10"
+  },
+  {
+    "index": 515,
+    "flags": 1,
+    "text": "Datenkarte11"
+  },
+  {
+    "index": 516,
+    "flags": 1,
+    "text": "Datenkarte12"
+  },
+  {
+    "index": 517,
+    "flags": 1,
+    "text": "Datenkarte13"
+  },
+  {
+    "index": 518,
+    "flags": 1,
+    "text": "Datenkarte14"
+  },
+  {
+    "index": 519,
+    "flags": 1,
+    "text": "Datenkarte15"
+  },
+  {
+    "index": 520,
+    "flags": 1,
+    "text": "Datenkarte16"
+  },
+  {
+    "index": 521,
+    "flags": 1,
+    "text": "Datenkarte17"
+  },
+  {
+    "index": 522,
+    "flags": 1,
+    "text": "Datenkarte18"
+  },
+  {
+    "index": 523,
+    "flags": 1,
+    "text": "Datenkarte19"
+  },
+  {
+    "index": 524,
+    "flags": 1,
+    "text": "Datenkarte20"
+  },
+  {
+    "index": 525,
+    "flags": 1,
+    "text": "Datenkarte21"
+  },
+  {
+    "index": 526,
+    "flags": 1,
+    "text": "Datenkarte22"
+  },
+  {
+    "index": 527,
+    "flags": 1,
+    "text": "Datenkarte23"
+  },
+  {
+    "index": 528,
+    "flags": 1,
+    "text": "Datenkarte24"
+  },
+  {
+    "index": 529,
+    "flags": 1,
+    "text": "Datenkarte25"
+  },
+  {
+    "index": 530,
+    "flags": 1,
+    "text": "Datenkarte26"
+  },
+  {
+    "index": 531,
+    "flags": 1,
+    "text": "Datenkarte27"
+  },
+  {
+    "index": 532,
+    "flags": 1,
+    "text": "Gr\u00FCne Kugel"
+  },
+  {
+    "index": 533,
+    "flags": 1,
+    "text": "Tresorkapsel"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "Roten Edelstein"
+  },
+  {
+    "index": 535,
+    "flags": 0,
+    "text": "Blauen Edelstein"
+  },
+  {
+    "index": 536,
+    "flags": 0,
+    "text": "Mytokristall"
+  },
+  {
+    "index": 537,
+    "flags": 1,
+    "text": "Sch\u00F6nschuppe"
+  },
+  {
+    "index": 538,
+    "flags": 0,
+    "text": "Evolith"
+  },
+  {
+    "index": 539,
+    "flags": 0,
+    "text": "Leichtstein"
+  },
+  {
+    "index": 540,
+    "flags": 0,
+    "text": "Beulenhelm"
+  },
+  {
+    "index": 541,
+    "flags": 0,
+    "text": "Luftballon"
+  },
+  {
+    "index": 542,
+    "flags": 1,
+    "text": "Rote Karte"
+  },
+  {
+    "index": 543,
+    "flags": 1,
+    "text": "Zielscheibe"
+  },
+  {
+    "index": 544,
+    "flags": 2,
+    "text": "Klammerband"
+  },
+  {
+    "index": 545,
+    "flags": 1,
+    "text": "Knolle"
+  },
+  {
+    "index": 546,
+    "flags": 0,
+    "text": "Akku"
+  },
+  {
+    "index": 547,
+    "flags": 0,
+    "text": "Fluchtknopf"
+  },
+  {
+    "index": 548,
+    "flags": 2,
+    "text": "Feuerjuwel"
+  },
+  {
+    "index": 549,
+    "flags": 2,
+    "text": "Wasserjuwel"
+  },
+  {
+    "index": 550,
+    "flags": 2,
+    "text": "Elektrojuwel"
+  },
+  {
+    "index": 551,
+    "flags": 2,
+    "text": "Pflanzenjuwel"
+  },
+  {
+    "index": 552,
+    "flags": 2,
+    "text": "Eisjuwel"
+  },
+  {
+    "index": 553,
+    "flags": 2,
+    "text": "Kampfjuwel"
+  },
+  {
+    "index": 554,
+    "flags": 2,
+    "text": "Giftjuwel"
+  },
+  {
+    "index": 555,
+    "flags": 2,
+    "text": "Bodenjuwel"
+  },
+  {
+    "index": 556,
+    "flags": 2,
+    "text": "Flugjuwel"
+  },
+  {
+    "index": 557,
+    "flags": 2,
+    "text": "Psychojuwel"
+  },
+  {
+    "index": 558,
+    "flags": 2,
+    "text": "K\u00E4ferjuwel"
+  },
+  {
+    "index": 559,
+    "flags": 2,
+    "text": "Gesteinsjuwel"
+  },
+  {
+    "index": 560,
+    "flags": 2,
+    "text": "Geisterjuwel"
+  },
+  {
+    "index": 561,
+    "flags": 2,
+    "text": "Drakojuwel"
+  },
+  {
+    "index": 562,
+    "flags": 2,
+    "text": "Unlichtjuwel"
+  },
+  {
+    "index": 563,
+    "flags": 2,
+    "text": "Stahljuwel"
+  },
+  {
+    "index": 564,
+    "flags": 2,
+    "text": "Normaljuwel"
+  },
+  {
+    "index": 565,
+    "flags": 1,
+    "text": "Heilfeder"
+  },
+  {
+    "index": 566,
+    "flags": 1,
+    "text": "Kraftfeder"
+  },
+  {
+    "index": 567,
+    "flags": 1,
+    "text": "Abwehrfeder"
+  },
+  {
+    "index": 568,
+    "flags": 1,
+    "text": "Geniefeder"
+  },
+  {
+    "index": 569,
+    "flags": 1,
+    "text": "Espritfeder"
+  },
+  {
+    "index": 570,
+    "flags": 1,
+    "text": "Flinkfeder"
+  },
+  {
+    "index": 571,
+    "flags": 1,
+    "text": "Prachtfeder"
+  },
+  {
+    "index": 572,
+    "flags": 2,
+    "text": "Schildfossil"
+  },
+  {
+    "index": 573,
+    "flags": 2,
+    "text": "Federfossil"
+  },
+  {
+    "index": 574,
+    "flags": 0,
+    "text": "Gartenpass"
+  },
+  {
+    "index": 575,
+    "flags": 0,
+    "text": "Transferorb"
+  },
+  {
+    "index": 576,
+    "flags": 0,
+    "text": "Traumball"
+  },
+  {
+    "index": 577,
+    "flags": 0,
+    "text": "Pok\u00E9wedel"
+  },
+  {
+    "index": 578,
+    "flags": 1,
+    "text": "Deko-Box"
+  },
+  {
+    "index": 579,
+    "flags": 0,
+    "text": "Drakosch\u00E4del"
+  },
+  {
+    "index": 580,
+    "flags": 0,
+    "text": "Duftpilz"
+  },
+  {
+    "index": 581,
+    "flags": 2,
+    "text": "Riesennugget"
+  },
+  {
+    "index": 582,
+    "flags": 1,
+    "text": "Triperle"
+  },
+  {
+    "index": 583,
+    "flags": 2,
+    "text": "Kometst\u00FCck"
+  },
+  {
+    "index": 584,
+    "flags": 0,
+    "text": "Alten Heller"
+  },
+  {
+    "index": 585,
+    "flags": 0,
+    "text": "Alten Taler"
+  },
+  {
+    "index": 586,
+    "flags": 0,
+    "text": "Alten Dukaten"
+  },
+  {
+    "index": 587,
+    "flags": 1,
+    "text": "Alte Vase"
+  },
+  {
+    "index": 588,
+    "flags": 0,
+    "text": "Alten Reif"
+  },
+  {
+    "index": 589,
+    "flags": 1,
+    "text": "Alte Statue"
+  },
+  {
+    "index": 590,
+    "flags": 1,
+    "text": "Alte Krone"
+  },
+  {
+    "index": 591,
+    "flags": 2,
+    "text": "Stratos-Eis"
+  },
+  {
+    "index": 592,
+    "flags": 2,
+    "text": "Angriffplus2"
+  },
+  {
+    "index": 593,
+    "flags": 1,
+    "text": "X-Initiative 2"
+  },
+  {
+    "index": 594,
+    "flags": 0,
+    "text": "X-Sp.-Ang. 2"
+  },
+  {
+    "index": 595,
+    "flags": 1,
+    "text": "X-Sp.-Vert. 2"
+  },
+  {
+    "index": 596,
+    "flags": 1,
+    "text": "X-Verteidigung 2"
+  },
+  {
+    "index": 597,
+    "flags": 0,
+    "text": "X-Angriff 2"
+  },
+  {
+    "index": 598,
+    "flags": 1,
+    "text": "X-Genauigkeit 2"
+  },
+  {
+    "index": 599,
+    "flags": 1,
+    "text": "X-Initiative 3"
+  },
+  {
+    "index": 600,
+    "flags": 0,
+    "text": "X-Sp.-Ang. 3"
+  },
+  {
+    "index": 601,
+    "flags": 1,
+    "text": "X-Sp.-Vert. 3"
+  },
+  {
+    "index": 602,
+    "flags": 1,
+    "text": "X-Verteidigung 3"
+  },
+  {
+    "index": 603,
+    "flags": 0,
+    "text": "X-Angriff 3"
+  },
+  {
+    "index": 604,
+    "flags": 1,
+    "text": "X-Genauigkeit 3"
+  },
+  {
+    "index": 605,
+    "flags": 1,
+    "text": "X-Initiative 6"
+  },
+  {
+    "index": 606,
+    "flags": 0,
+    "text": "X-Sp.-Ang. 6"
+  },
+  {
+    "index": 607,
+    "flags": 1,
+    "text": "X-Sp.-Vert. 6"
+  },
+  {
+    "index": 608,
+    "flags": 1,
+    "text": "X-Verteidigung 6"
+  },
+  {
+    "index": 609,
+    "flags": 0,
+    "text": "X-Angriff 6"
+  },
+  {
+    "index": 610,
+    "flags": 1,
+    "text": "X-Genauigkeit 6"
+  },
+  {
+    "index": 611,
+    "flags": 0,
+    "text": "F\u00E4higk.-Appell"
+  },
+  {
+    "index": 612,
+    "flags": 0,
+    "text": "Itemabwurf"
+  },
+  {
+    "index": 613,
+    "flags": 0,
+    "text": "Itemappell"
+  },
+  {
+    "index": 614,
+    "flags": 0,
+    "text": "Umkehrappell"
+  },
+  {
+    "index": 615,
+    "flags": 2,
+    "text": "Angriffplus3"
+  },
+  {
+    "index": 616,
+    "flags": 0,
+    "text": "Lichtstein"
+  },
+  {
+    "index": 617,
+    "flags": 0,
+    "text": "Dunkelstein"
+  },
+  {
+    "index": 618,
+    "flags": 33,
+    "text": "TM93"
+  },
+  {
+    "index": 619,
+    "flags": 33,
+    "text": "TM94"
+  },
+  {
+    "index": 620,
+    "flags": 33,
+    "text": "TM95"
+  },
+  {
+    "index": 621,
+    "flags": 0,
+    "text": "Viso-Caster"
+  },
+  {
+    "index": 622,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 623,
+    "flags": 1,
+    "text": "Briefpost 1"
+  },
+  {
+    "index": 624,
+    "flags": 1,
+    "text": "Briefpost 2"
+  },
+  {
+    "index": 625,
+    "flags": 1,
+    "text": "Briefpost 3"
+  },
+  {
+    "index": 626,
+    "flags": 0,
+    "text": "Viso-Caster"
+  },
+  {
+    "index": 627,
+    "flags": 1,
+    "text": "Medaillenbox"
+  },
+  {
+    "index": 628,
+    "flags": 0,
+    "text": "DNS-Keil"
+  },
+  {
+    "index": 629,
+    "flags": 0,
+    "text": "DNS-Keil"
+  },
+  {
+    "index": 630,
+    "flags": 1,
+    "text": "Genehmigung"
+  },
+  {
+    "index": 631,
+    "flags": 0,
+    "text": "Ovalpin"
+  },
+  {
+    "index": 632,
+    "flags": 0,
+    "text": "Schillerpin"
+  },
+  {
+    "index": 633,
+    "flags": 1,
+    "text": "Plasmakarte"
+  },
+  {
+    "index": 634,
+    "flags": 2,
+    "text": "Schn\u00E4uztuch"
+  },
+  {
+    "index": 635,
+    "flags": 0,
+    "text": "Achromaten"
+  },
+  {
+    "index": 636,
+    "flags": 1,
+    "text": "Fundsache"
+  },
+  {
+    "index": 637,
+    "flags": 1,
+    "text": "Fundsache"
+  },
+  {
+    "index": 638,
+    "flags": 0,
+    "text": "Wahrspiegel"
+  },
+  {
+    "index": 639,
+    "flags": 0,
+    "text": "Schw\u00E4chenschutz"
+  },
+  {
+    "index": 640,
+    "flags": 1,
+    "text": "Offensivweste"
+  },
+  {
+    "index": 641,
+    "flags": 0,
+    "text": "Holo-Log"
+  },
+  {
+    "index": 642,
+    "flags": 0,
+    "text": "Brief vom Prof"
+  },
+  {
+    "index": 643,
+    "flags": 64,
+    "text": "Rollerskates"
+  },
+  {
+    "index": 644,
+    "flags": 1,
+    "text": "Feentafel"
+  },
+  {
+    "index": 645,
+    "flags": 1,
+    "text": "F\u00E4higk.-Kapsel"
+  },
+  {
+    "index": 646,
+    "flags": 2,
+    "text": "Sahneh\u00E4ubchen"
+  },
+  {
+    "index": 647,
+    "flags": 0,
+    "text": "Duftbeutel"
+  },
+  {
+    "index": 648,
+    "flags": 2,
+    "text": "Leuchtmoos"
+  },
+  {
+    "index": 649,
+    "flags": 0,
+    "text": "Schneeball"
+  },
+  {
+    "index": 650,
+    "flags": 1,
+    "text": "Schutzbrille"
+  },
+  {
+    "index": 651,
+    "flags": 1,
+    "text": "Pok\u00E9fl\u00F6te"
+  },
+  {
+    "index": 652,
+    "flags": 0,
+    "text": "Sprie\u00DFmulch"
+  },
+  {
+    "index": 653,
+    "flags": 0,
+    "text": "Wundermulch"
+  },
+  {
+    "index": 654,
+    "flags": 0,
+    "text": "Wuchermulch"
+  },
+  {
+    "index": 655,
+    "flags": 0,
+    "text": "Ultramulch"
+  },
+  {
+    "index": 656,
+    "flags": 2,
+    "text": "Gengarnit"
+  },
+  {
+    "index": 657,
+    "flags": 2,
+    "text": "Guardevoirnit"
+  },
+  {
+    "index": 658,
+    "flags": 2,
+    "text": "Ampharosnit"
+  },
+  {
+    "index": 659,
+    "flags": 2,
+    "text": "Bisaflornit"
+  },
+  {
+    "index": 660,
+    "flags": 2,
+    "text": "Gluraknit X"
+  },
+  {
+    "index": 661,
+    "flags": 2,
+    "text": "Turtoknit"
+  },
+  {
+    "index": 662,
+    "flags": 2,
+    "text": "Mewtunit X"
+  },
+  {
+    "index": 663,
+    "flags": 2,
+    "text": "Mewtunit Y"
+  },
+  {
+    "index": 664,
+    "flags": 2,
+    "text": "Lohgocknit"
+  },
+  {
+    "index": 665,
+    "flags": 2,
+    "text": "Meditalisnit"
+  },
+  {
+    "index": 666,
+    "flags": 2,
+    "text": "Hundemonit"
+  },
+  {
+    "index": 667,
+    "flags": 2,
+    "text": "Stollossnit"
+  },
+  {
+    "index": 668,
+    "flags": 2,
+    "text": "Banetteonit"
+  },
+  {
+    "index": 669,
+    "flags": 2,
+    "text": "Despotarnit"
+  },
+  {
+    "index": 670,
+    "flags": 2,
+    "text": "Scheroxnit"
+  },
+  {
+    "index": 671,
+    "flags": 2,
+    "text": "Pinsirnit"
+  },
+  {
+    "index": 672,
+    "flags": 2,
+    "text": "Aerodactylonit"
+  },
+  {
+    "index": 673,
+    "flags": 2,
+    "text": "Lucarionit"
+  },
+  {
+    "index": 674,
+    "flags": 2,
+    "text": "Rexblisarnit"
+  },
+  {
+    "index": 675,
+    "flags": 2,
+    "text": "Kangamanit"
+  },
+  {
+    "index": 676,
+    "flags": 2,
+    "text": "Garadosnit"
+  },
+  {
+    "index": 677,
+    "flags": 2,
+    "text": "Absolnit"
+  },
+  {
+    "index": 678,
+    "flags": 2,
+    "text": "Gluraknit Y"
+  },
+  {
+    "index": 679,
+    "flags": 2,
+    "text": "Simsalanit"
+  },
+  {
+    "index": 680,
+    "flags": 2,
+    "text": "Skarabornit"
+  },
+  {
+    "index": 681,
+    "flags": 2,
+    "text": "Flunkifernit"
+  },
+  {
+    "index": 682,
+    "flags": 2,
+    "text": "Voltensonit"
+  },
+  {
+    "index": 683,
+    "flags": 2,
+    "text": "Knakracknit"
+  },
+  {
+    "index": 684,
+    "flags": 2,
+    "text": "Latiasnit"
+  },
+  {
+    "index": 685,
+    "flags": 2,
+    "text": "Latiosnit"
+  },
+  {
+    "index": 686,
+    "flags": 1,
+    "text": "Hibisbeere"
+  },
+  {
+    "index": 687,
+    "flags": 1,
+    "text": "Akibeere"
+  },
+  {
+    "index": 688,
+    "flags": 1,
+    "text": "Tarabeere"
+  },
+  {
+    "index": 689,
+    "flags": 1,
+    "text": "Loturzelkanne"
+  },
+  {
+    "index": 690,
+    "flags": 33,
+    "text": "TM96"
+  },
+  {
+    "index": 691,
+    "flags": 33,
+    "text": "TM97"
+  },
+  {
+    "index": 692,
+    "flags": 33,
+    "text": "TM98"
+  },
+  {
+    "index": 693,
+    "flags": 33,
+    "text": "TM99"
+  },
+  {
+    "index": 694,
+    "flags": 33,
+    "text": "TM100"
+  },
+  {
+    "index": 695,
+    "flags": 0,
+    "text": "Kraftwerks-Pass"
+  },
+  {
+    "index": 696,
+    "flags": 0,
+    "text": "Mega-Ring"
+  },
+  {
+    "index": 697,
+    "flags": 0,
+    "text": "Kuriosen Stein"
+  },
+  {
+    "index": 698,
+    "flags": 0,
+    "text": "Normalen Stein"
+  },
+  {
+    "index": 699,
+    "flags": 1,
+    "text": "Rabattmarke"
+  },
+  {
+    "index": 700,
+    "flags": 0,
+    "text": "Liftschl\u00FCssel"
+  },
+  {
+    "index": 701,
+    "flags": 0,
+    "text": "TMV-Pass"
+  },
+  {
+    "index": 702,
+    "flags": 2,
+    "text": "Kalos-Emblem"
+  },
+  {
+    "index": 703,
+    "flags": 1,
+    "text": "Abenteuerfibel"
+  },
+  {
+    "index": 704,
+    "flags": 1,
+    "text": "Skurriloskulptur"
+  },
+  {
+    "index": 705,
+    "flags": 2,
+    "text": "Linsenetui"
+  },
+  {
+    "index": 706,
+    "flags": 2,
+    "text": "Kosmetiketui"
+  },
+  {
+    "index": 707,
+    "flags": 0,
+    "text": "Kleiderkoffer"
+  },
+  {
+    "index": 708,
+    "flags": 1,
+    "text": "Illumina-Galette"
+  },
+  {
+    "index": 709,
+    "flags": 2,
+    "text": "Yantara-Sabl\u00E9"
+  },
+  {
+    "index": 710,
+    "flags": 2,
+    "text": "Kieferfossil"
+  },
+  {
+    "index": 711,
+    "flags": 2,
+    "text": "Flossenfossil"
+  },
+  {
+    "index": 712,
+    "flags": 2,
+    "text": "LeBelle-Ticket"
+  },
+  {
+    "index": 713,
+    "flags": 2,
+    "text": "Fahrrad"
+  },
+  {
+    "index": 714,
+    "flags": 0,
+    "text": "Holo-Log"
+  },
+  {
+    "index": 715,
+    "flags": 2,
+    "text": "Feenjuwel"
+  },
+  {
+    "index": 716,
+    "flags": 2,
+    "text": "Megaillon"
+  },
+  {
+    "index": 717,
+    "flags": 0,
+    "text": "Mega-Handschuh"
+  },
+  {
+    "index": 718,
+    "flags": 2,
+    "text": "Eilrad"
+  },
+  {
+    "index": 719,
+    "flags": 2,
+    "text": "Kunstrad"
+  },
+  {
+    "index": 720,
+    "flags": 1,
+    "text": "Wailmerkanne"
+  },
+  {
+    "index": 721,
+    "flags": 65,
+    "text": "Devon-Waren"
+  },
+  {
+    "index": 722,
+    "flags": 1,
+    "text": "Aschetasche"
+  },
+  {
+    "index": 723,
+    "flags": 0,
+    "text": "Keller\u00F6ffner"
+  },
+  {
+    "index": 724,
+    "flags": 2,
+    "text": "Pok\u00E9riegel-Set"
+  },
+  {
+    "index": 725,
+    "flags": 0,
+    "text": "Brief an Troy"
+  },
+  {
+    "index": 726,
+    "flags": 2,
+    "text": "\u00C4on-Ticket"
+  },
+  {
+    "index": 727,
+    "flags": 0,
+    "text": "Scanner"
+  },
+  {
+    "index": 728,
+    "flags": 1,
+    "text": "W\u00FCstenbrille"
+  },
+  {
+    "index": 729,
+    "flags": 0,
+    "text": "Meteorit"
+  },
+  {
+    "index": 730,
+    "flags": 0,
+    "text": "R1-Schl\u00FCssel"
+  },
+  {
+    "index": 731,
+    "flags": 0,
+    "text": "R2-Schl\u00FCssel"
+  },
+  {
+    "index": 732,
+    "flags": 0,
+    "text": "R4-Schl\u00FCssel"
+  },
+  {
+    "index": 733,
+    "flags": 0,
+    "text": "R6-Schl\u00FCssel"
+  },
+  {
+    "index": 734,
+    "flags": 0,
+    "text": "Lagerschl\u00FCssel"
+  },
+  {
+    "index": 735,
+    "flags": 2,
+    "text": "Devon-Scope"
+  },
+  {
+    "index": 736,
+    "flags": 2,
+    "text": "Bootsticket"
+  },
+  {
+    "index": 737,
+    "flags": 33,
+    "text": "VM07"
+  },
+  {
+    "index": 738,
+    "flags": 2,
+    "text": "Devon-Atemger\u00E4t"
+  },
+  {
+    "index": 739,
+    "flags": 0,
+    "text": "Live-Anzug"
+  },
+  {
+    "index": 740,
+    "flags": 2,
+    "text": "Live-Kleid"
+  },
+  {
+    "index": 741,
+    "flags": 0,
+    "text": "Magma-Anzug"
+  },
+  {
+    "index": 742,
+    "flags": 0,
+    "text": "Aqua-Anzug"
+  },
+  {
+    "index": 743,
+    "flags": 2,
+    "text": "Zweierticket"
+  },
+  {
+    "index": 744,
+    "flags": 0,
+    "text": "Mega-Armreif"
+  },
+  {
+    "index": 745,
+    "flags": 0,
+    "text": "Mega-Anh\u00E4nger"
+  },
+  {
+    "index": 746,
+    "flags": 1,
+    "text": "Mega-Brille"
+  },
+  {
+    "index": 747,
+    "flags": 0,
+    "text": "Mega-Anker"
+  },
+  {
+    "index": 748,
+    "flags": 0,
+    "text": "Mega-Anstecker"
+  },
+  {
+    "index": 749,
+    "flags": 2,
+    "text": "Mega-Diadem"
+  },
+  {
+    "index": 750,
+    "flags": 0,
+    "text": "Mega-Beinreif"
+  },
+  {
+    "index": 751,
+    "flags": 0,
+    "text": "Meteorit"
+  },
+  {
+    "index": 752,
+    "flags": 2,
+    "text": "Sumpexnit"
+  },
+  {
+    "index": 753,
+    "flags": 2,
+    "text": "Gewaldronit"
+  },
+  {
+    "index": 754,
+    "flags": 2,
+    "text": "Zobirisnit"
+  },
+  {
+    "index": 755,
+    "flags": 2,
+    "text": "Altarianit"
+  },
+  {
+    "index": 756,
+    "flags": 2,
+    "text": "Galagladinit"
+  },
+  {
+    "index": 757,
+    "flags": 2,
+    "text": "Ohrdochnit"
+  },
+  {
+    "index": 758,
+    "flags": 2,
+    "text": "Metagrossnit"
+  },
+  {
+    "index": 759,
+    "flags": 2,
+    "text": "Tohaidonit"
+  },
+  {
+    "index": 760,
+    "flags": 2,
+    "text": "Lahmusnit"
+  },
+  {
+    "index": 761,
+    "flags": 2,
+    "text": "Stahlosnit"
+  },
+  {
+    "index": 762,
+    "flags": 2,
+    "text": "Taubossnit"
+  },
+  {
+    "index": 763,
+    "flags": 2,
+    "text": "Firnontornit"
+  },
+  {
+    "index": 764,
+    "flags": 2,
+    "text": "Diancienit"
+  },
+  {
+    "index": 765,
+    "flags": 2,
+    "text": "Banngef\u00E4\u00DF"
+  },
+  {
+    "index": 766,
+    "flags": 2,
+    "text": "Mega-Armband"
+  },
+  {
+    "index": 767,
+    "flags": 2,
+    "text": "Cameruptnit"
+  },
+  {
+    "index": 768,
+    "flags": 2,
+    "text": "Schlapornit"
+  },
+  {
+    "index": 769,
+    "flags": 2,
+    "text": "Brutalandanit"
+  },
+  {
+    "index": 770,
+    "flags": 2,
+    "text": "Bibornit"
+  },
+  {
+    "index": 771,
+    "flags": 0,
+    "text": "Meteorit"
+  },
+  {
+    "index": 772,
+    "flags": 0,
+    "text": "Meteorit"
+  },
+  {
+    "index": 773,
+    "flags": 0,
+    "text": "Schl\u00FCssel-Stein"
+  },
+  {
+    "index": 774,
+    "flags": 2,
+    "text": "Meteoritenst\u00FCck"
+  },
+  {
+    "index": 775,
+    "flags": 1,
+    "text": "\u00C4on-Fl\u00F6te"
+  },
+  {
+    "index": 776,
+    "flags": 2,
+    "text": "Normium Z"
+  },
+  {
+    "index": 777,
+    "flags": 2,
+    "text": "Pyrium Z"
+  },
+  {
+    "index": 778,
+    "flags": 2,
+    "text": "Aquium Z"
+  },
+  {
+    "index": 779,
+    "flags": 2,
+    "text": "Voltium Z"
+  },
+  {
+    "index": 780,
+    "flags": 2,
+    "text": "Botanium Z"
+  },
+  {
+    "index": 781,
+    "flags": 2,
+    "text": "Glacium Z"
+  },
+  {
+    "index": 782,
+    "flags": 2,
+    "text": "Battalium Z"
+  },
+  {
+    "index": 783,
+    "flags": 2,
+    "text": "Toxium Z"
+  },
+  {
+    "index": 784,
+    "flags": 2,
+    "text": "Terrium Z"
+  },
+  {
+    "index": 785,
+    "flags": 2,
+    "text": "Aerium Z"
+  },
+  {
+    "index": 786,
+    "flags": 2,
+    "text": "Psium Z"
+  },
+  {
+    "index": 787,
+    "flags": 2,
+    "text": "Insectium Z"
+  },
+  {
+    "index": 788,
+    "flags": 2,
+    "text": "Petrium Z"
+  },
+  {
+    "index": 789,
+    "flags": 2,
+    "text": "Phantomium Z"
+  },
+  {
+    "index": 790,
+    "flags": 2,
+    "text": "Dracium Z"
+  },
+  {
+    "index": 791,
+    "flags": 2,
+    "text": "Noctium Z"
+  },
+  {
+    "index": 792,
+    "flags": 2,
+    "text": "Metallium Z"
+  },
+  {
+    "index": 793,
+    "flags": 2,
+    "text": "Sylphium Z"
+  },
+  {
+    "index": 794,
+    "flags": 2,
+    "text": "Pikachium Z"
+  },
+  {
+    "index": 795,
+    "flags": 0,
+    "text": "Silberkronkorken"
+  },
+  {
+    "index": 796,
+    "flags": 0,
+    "text": "Goldkronkorken"
+  },
+  {
+    "index": 797,
+    "flags": 0,
+    "text": "Z-Ring"
+  },
+  {
+    "index": 798,
+    "flags": 2,
+    "text": "Silvarronium Z"
+  },
+  {
+    "index": 799,
+    "flags": 2,
+    "text": "Fuegronium Z"
+  },
+  {
+    "index": 800,
+    "flags": 2,
+    "text": "Primarenium Z"
+  },
+  {
+    "index": 801,
+    "flags": 2,
+    "text": "Kapium Z"
+  },
+  {
+    "index": 802,
+    "flags": 2,
+    "text": "Marshadownium Z"
+  },
+  {
+    "index": 803,
+    "flags": 2,
+    "text": "A-Raichunium Z"
+  },
+  {
+    "index": 804,
+    "flags": 2,
+    "text": "Relaxonium Z"
+  },
+  {
+    "index": 805,
+    "flags": 2,
+    "text": "Evolium Z"
+  },
+  {
+    "index": 806,
+    "flags": 2,
+    "text": "Mewnium Z"
+  },
+  {
+    "index": 807,
+    "flags": 2,
+    "text": "Normium Z"
+  },
+  {
+    "index": 808,
+    "flags": 2,
+    "text": "Pyrium Z"
+  },
+  {
+    "index": 809,
+    "flags": 2,
+    "text": "Aquium Z"
+  },
+  {
+    "index": 810,
+    "flags": 2,
+    "text": "Voltium Z"
+  },
+  {
+    "index": 811,
+    "flags": 2,
+    "text": "Botanium Z"
+  },
+  {
+    "index": 812,
+    "flags": 2,
+    "text": "Glacium Z"
+  },
+  {
+    "index": 813,
+    "flags": 2,
+    "text": "Battalium Z"
+  },
+  {
+    "index": 814,
+    "flags": 2,
+    "text": "Toxium Z"
+  },
+  {
+    "index": 815,
+    "flags": 2,
+    "text": "Terrium Z"
+  },
+  {
+    "index": 816,
+    "flags": 2,
+    "text": "Aerium Z"
+  },
+  {
+    "index": 817,
+    "flags": 2,
+    "text": "Psium Z"
+  },
+  {
+    "index": 818,
+    "flags": 2,
+    "text": "Insectium Z"
+  },
+  {
+    "index": 819,
+    "flags": 2,
+    "text": "Petrium Z"
+  },
+  {
+    "index": 820,
+    "flags": 2,
+    "text": "Phantomium Z"
+  },
+  {
+    "index": 821,
+    "flags": 2,
+    "text": "Dracium Z"
+  },
+  {
+    "index": 822,
+    "flags": 2,
+    "text": "Noctium Z"
+  },
+  {
+    "index": 823,
+    "flags": 2,
+    "text": "Metallium Z"
+  },
+  {
+    "index": 824,
+    "flags": 2,
+    "text": "Sylphium Z"
+  },
+  {
+    "index": 825,
+    "flags": 2,
+    "text": "Pikachium Z"
+  },
+  {
+    "index": 826,
+    "flags": 2,
+    "text": "Silvarronium Z"
+  },
+  {
+    "index": 827,
+    "flags": 2,
+    "text": "Fuegronium Z"
+  },
+  {
+    "index": 828,
+    "flags": 2,
+    "text": "Primarenium Z"
+  },
+  {
+    "index": 829,
+    "flags": 2,
+    "text": "Kapium Z"
+  },
+  {
+    "index": 830,
+    "flags": 2,
+    "text": "Marshadownium Z"
+  },
+  {
+    "index": 831,
+    "flags": 2,
+    "text": "A-Raichunium Z"
+  },
+  {
+    "index": 832,
+    "flags": 2,
+    "text": "Relaxonium Z"
+  },
+  {
+    "index": 833,
+    "flags": 2,
+    "text": "Evolium Z"
+  },
+  {
+    "index": 834,
+    "flags": 2,
+    "text": "Mewnium Z"
+  },
+  {
+    "index": 835,
+    "flags": 2,
+    "text": "Ash-Pikachium Z"
+  },
+  {
+    "index": 836,
+    "flags": 2,
+    "text": "Ash-Pikachium Z"
+  },
+  {
+    "index": 837,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 838,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 839,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 840,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 841,
+    "flags": 0,
+    "text": "Zutatenbeutel"
+  },
+  {
+    "index": 842,
+    "flags": 1,
+    "text": "Angel"
+  },
+  {
+    "index": 843,
+    "flags": 1,
+    "text": "Maske des Profs"
+  },
+  {
+    "index": 844,
+    "flags": 2,
+    "text": "Festival-Ticket"
+  },
+  {
+    "index": 845,
+    "flags": 0,
+    "text": "Glitzerstein"
+  },
+  {
+    "index": 846,
+    "flags": 0,
+    "text": "Zitterorb"
+  },
+  {
+    "index": 847,
+    "flags": 0,
+    "text": "Zygarde-W\u00FCrfel"
+  },
+  {
+    "index": 848,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 849,
+    "flags": 0,
+    "text": "Eisstein"
+  },
+  {
+    "index": 850,
+    "flags": 0,
+    "text": "Pok\u00E9Mobil-Funk"
+  },
+  {
+    "index": 851,
+    "flags": 0,
+    "text": "Ultraball"
+  },
+  {
+    "index": 852,
+    "flags": 0,
+    "text": "Maxi-Malasada"
+  },
+  {
+    "index": 853,
+    "flags": 0,
+    "text": "Roten Nektar"
+  },
+  {
+    "index": 854,
+    "flags": 0,
+    "text": "Gelben Nektar"
+  },
+  {
+    "index": 855,
+    "flags": 0,
+    "text": "Rosa Nektar"
+  },
+  {
+    "index": 856,
+    "flags": 0,
+    "text": "Purpurnen Nektar"
+  },
+  {
+    "index": 857,
+    "flags": 1,
+    "text": "Sonnenfl\u00F6te"
+  },
+  {
+    "index": 858,
+    "flags": 1,
+    "text": "Mondfl\u00F6te"
+  },
+  {
+    "index": 859,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 860,
+    "flags": 1,
+    "text": "Seltsame Karte"
+  },
+  {
+    "index": 861,
+    "flags": 1,
+    "text": "Silberne Himmihbeere"
+  },
+  {
+    "index": 862,
+    "flags": 1,
+    "text": "Goldene Himmihbeere"
+  },
+  {
+    "index": 863,
+    "flags": 1,
+    "text": "Silberne Nanabbeere"
+  },
+  {
+    "index": 864,
+    "flags": 1,
+    "text": "Goldene Nanabbeere"
+  },
+  {
+    "index": 865,
+    "flags": 1,
+    "text": "Silberne Sananabeere"
+  },
+  {
+    "index": 866,
+    "flags": 1,
+    "text": "Goldene Sananabeere"
+  },
+  {
+    "index": 867,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 868,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 869,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 870,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 871,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 872,
+    "flags": 0,
+    "text": "Geheimschl\u00FCssel"
+  },
+  {
+    "index": 873,
+    "flags": 2,
+    "text": "Bootsticket"
+  },
+  {
+    "index": 874,
+    "flags": 2,
+    "text": "Silph Scope"
+  },
+  {
+    "index": 875,
+    "flags": 2,
+    "text": "Paket"
+  },
+  {
+    "index": 876,
+    "flags": 1,
+    "text": "Schl\u00FCsselkarte"
+  },
+  {
+    "index": 877,
+    "flags": 2,
+    "text": "Goldenes Gebiss"
+  },
+  {
+    "index": 878,
+    "flags": 0,
+    "text": "Aufzugsschl\u00FCssel"
+  },
+  {
+    "index": 879,
+    "flags": 1,
+    "text": "Feldbeschichtung"
+  },
+  {
+    "index": 880,
+    "flags": 2,
+    "text": "Schutzpolster"
+  },
+  {
+    "index": 881,
+    "flags": 0,
+    "text": "Elektro-Samen"
+  },
+  {
+    "index": 882,
+    "flags": 0,
+    "text": "Psycho-Samen"
+  },
+  {
+    "index": 883,
+    "flags": 0,
+    "text": "Nebel-Samen"
+  },
+  {
+    "index": 884,
+    "flags": 0,
+    "text": "Gras-Samen"
+  },
+  {
+    "index": 885,
+    "flags": 1,
+    "text": "Spiralfeder"
+  },
+  {
+    "index": 886,
+    "flags": 0,
+    "text": "Kreidestein"
+  },
+  {
+    "index": 887,
+    "flags": 1,
+    "text": "Glasmurmel"
+  },
+  {
+    "index": 888,
+    "flags": 0,
+    "text": "Ohrring"
+  },
+  {
+    "index": 889,
+    "flags": 1,
+    "text": "Strandscherbe"
+  },
+  {
+    "index": 890,
+    "flags": 2,
+    "text": "Goldblatt"
+  },
+  {
+    "index": 891,
+    "flags": 2,
+    "text": "Silberblatt"
+  },
+  {
+    "index": 892,
+    "flags": 1,
+    "text": "Glanzkugel"
+  },
+  {
+    "index": 893,
+    "flags": 1,
+    "text": "Tropenmuschel"
+  },
+  {
+    "index": 894,
+    "flags": 0,
+    "text": "Blattbrief"
+  },
+  {
+    "index": 895,
+    "flags": 0,
+    "text": "Blattbrief"
+  },
+  {
+    "index": 896,
+    "flags": 0,
+    "text": "Ministrau\u00DF"
+  },
+  {
+    "index": 897,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 898,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 899,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 900,
+    "flags": 2,
+    "text": "Lockparf\u00FCm"
+  },
+  {
+    "index": 901,
+    "flags": 2,
+    "text": "Super-Lockparf\u00FCm"
+  },
+  {
+    "index": 902,
+    "flags": 2,
+    "text": "Top-Lockparf\u00FCm"
+  },
+  {
+    "index": 903,
+    "flags": 0,
+    "text": "Marmoria-Kr\u00E4cker"
+  },
+  {
+    "index": 904,
+    "flags": 1,
+    "text": "Kampf-Disc"
+  },
+  {
+    "index": 905,
+    "flags": 1,
+    "text": "Flug-Disc"
+  },
+  {
+    "index": 906,
+    "flags": 1,
+    "text": "Gift-Disc"
+  },
+  {
+    "index": 907,
+    "flags": 1,
+    "text": "Boden-Disc"
+  },
+  {
+    "index": 908,
+    "flags": 1,
+    "text": "Gesteins-Disc"
+  },
+  {
+    "index": 909,
+    "flags": 1,
+    "text": "K\u00E4fer-Disc"
+  },
+  {
+    "index": 910,
+    "flags": 1,
+    "text": "Geister-Disc"
+  },
+  {
+    "index": 911,
+    "flags": 1,
+    "text": "Stahl-Disc"
+  },
+  {
+    "index": 912,
+    "flags": 1,
+    "text": "Feuer-Disc"
+  },
+  {
+    "index": 913,
+    "flags": 1,
+    "text": "Wasser-Disc"
+  },
+  {
+    "index": 914,
+    "flags": 1,
+    "text": "Pflanzen-Disc"
+  },
+  {
+    "index": 915,
+    "flags": 1,
+    "text": "Elektro-Disc"
+  },
+  {
+    "index": 916,
+    "flags": 1,
+    "text": "Psycho-Disc"
+  },
+  {
+    "index": 917,
+    "flags": 1,
+    "text": "Eis-Disc"
+  },
+  {
+    "index": 918,
+    "flags": 1,
+    "text": "Drachen-Disc"
+  },
+  {
+    "index": 919,
+    "flags": 1,
+    "text": "Unlicht-Disc"
+  },
+  {
+    "index": 920,
+    "flags": 1,
+    "text": "Feen-Disc"
+  },
+  {
+    "index": 921,
+    "flags": 2,
+    "text": "Solgalium Z"
+  },
+  {
+    "index": 922,
+    "flags": 2,
+    "text": "Lunalium Z"
+  },
+  {
+    "index": 923,
+    "flags": 2,
+    "text": "Ultranecronium Z"
+  },
+  {
+    "index": 924,
+    "flags": 2,
+    "text": "Mimigmium Z"
+  },
+  {
+    "index": 925,
+    "flags": 2,
+    "text": "Wolwerockium Z"
+  },
+  {
+    "index": 926,
+    "flags": 2,
+    "text": "Grandirasium Z"
+  },
+  {
+    "index": 927,
+    "flags": 2,
+    "text": "Solgalium Z"
+  },
+  {
+    "index": 928,
+    "flags": 2,
+    "text": "Lunalium Z"
+  },
+  {
+    "index": 929,
+    "flags": 2,
+    "text": "Ultranecronium Z"
+  },
+  {
+    "index": 930,
+    "flags": 2,
+    "text": "Mimigmium Z"
+  },
+  {
+    "index": 931,
+    "flags": 2,
+    "text": "Wolwerockium Z"
+  },
+  {
+    "index": 932,
+    "flags": 2,
+    "text": "Grandirasium Z"
+  },
+  {
+    "index": 933,
+    "flags": 0,
+    "text": "Z-Kraftring"
+  },
+  {
+    "index": 934,
+    "flags": 2,
+    "text": "Rosa Blatt"
+  },
+  {
+    "index": 935,
+    "flags": 2,
+    "text": "Oranges Blatt"
+  },
+  {
+    "index": 936,
+    "flags": 2,
+    "text": "Blaues Blatt"
+  },
+  {
+    "index": 937,
+    "flags": 2,
+    "text": "Rotes Blatt"
+  },
+  {
+    "index": 938,
+    "flags": 2,
+    "text": "Gr\u00FCnes Blatt"
+  },
+  {
+    "index": 939,
+    "flags": 2,
+    "text": "Gelbes Blatt"
+  },
+  {
+    "index": 940,
+    "flags": 2,
+    "text": "Violettes Blatt"
+  },
+  {
+    "index": 941,
+    "flags": 1,
+    "text": "Regenbogenbl\u00FCte"
+  },
+  {
+    "index": 942,
+    "flags": 0,
+    "text": "Gewitterorden"
+  },
+  {
+    "index": 943,
+    "flags": 0,
+    "text": "Necrosol"
+  },
+  {
+    "index": 944,
+    "flags": 0,
+    "text": "Necrolun"
+  },
+  {
+    "index": 945,
+    "flags": 0,
+    "text": "Necrosol"
+  },
+  {
+    "index": 946,
+    "flags": 0,
+    "text": "Necrolun"
+  },
+  {
+    "index": 947,
+    "flags": 34,
+    "text": "Elimas Normium Z"
+  },
+  {
+    "index": 948,
+    "flags": 0,
+    "text": "Nachlassball"
+  },
+  {
+    "index": 949,
+    "flags": 0,
+    "text": "Brutbon"
+  },
+  {
+    "index": 950,
+    "flags": 0,
+    "text": "Schn\u00E4ppchenbon"
+  },
+  {
+    "index": 951,
+    "flags": 0,
+    "text": "Preisgeldbon"
+  },
+  {
+    "index": 952,
+    "flags": 0,
+    "text": "EP-Bon"
+  },
+  {
+    "index": 953,
+    "flags": 0,
+    "text": "Freundschaftsbon"
+  },
+  {
+    "index": 954,
+    "flags": 0,
+    "text": "Lockbon"
+  },
+  {
+    "index": 955,
+    "flags": 0,
+    "text": "Schutzbon"
+  },
+  {
+    "index": 956,
+    "flags": 0,
+    "text": "KP-Bon"
+  },
+  {
+    "index": 957,
+    "flags": 0,
+    "text": "AP-Bon"
+  },
+  {
+    "index": 958,
+    "flags": 0,
+    "text": "Statuswertebon"
+  },
+  {
+    "index": 959,
+    "flags": 0,
+    "text": "Fangbon"
+  },
+  {
+    "index": 960,
+    "flags": 2,
+    "text": "Energiebonbon"
+  },
+  {
+    "index": 961,
+    "flags": 2,
+    "text": "St\u00E4rkebonbon"
+  },
+  {
+    "index": 962,
+    "flags": 2,
+    "text": "Robustbonbon"
+  },
+  {
+    "index": 963,
+    "flags": 2,
+    "text": "Gripsbonbon"
+  },
+  {
+    "index": 964,
+    "flags": 2,
+    "text": "Mentalbonbon"
+  },
+  {
+    "index": 965,
+    "flags": 2,
+    "text": "Flottbonbon"
+  },
+  {
+    "index": 966,
+    "flags": 2,
+    "text": "Energiebonbon\u002B"
+  },
+  {
+    "index": 967,
+    "flags": 2,
+    "text": "St\u00E4rkebonbon\u002B"
+  },
+  {
+    "index": 968,
+    "flags": 2,
+    "text": "Robustbonbon\u002B"
+  },
+  {
+    "index": 969,
+    "flags": 2,
+    "text": "Gripsbonbon\u002B"
+  },
+  {
+    "index": 970,
+    "flags": 2,
+    "text": "Mentalbonbon\u002B"
+  },
+  {
+    "index": 971,
+    "flags": 2,
+    "text": "Flottbonbon\u002B"
+  },
+  {
+    "index": 972,
+    "flags": 2,
+    "text": "Energiebonbon\u002B\u002B"
+  },
+  {
+    "index": 973,
+    "flags": 2,
+    "text": "St\u00E4rkebonbon\u002B\u002B"
+  },
+  {
+    "index": 974,
+    "flags": 2,
+    "text": "Robustbonbon\u002B\u002B"
+  },
+  {
+    "index": 975,
+    "flags": 2,
+    "text": "Gripsbonbon\u002B\u002B"
+  },
+  {
+    "index": 976,
+    "flags": 2,
+    "text": "Mentalbonbon\u002B\u002B"
+  },
+  {
+    "index": 977,
+    "flags": 2,
+    "text": "Flottbonbon\u002B\u002B"
+  },
+  {
+    "index": 978,
+    "flags": 2,
+    "text": "Bisasam-Bonbon"
+  },
+  {
+    "index": 979,
+    "flags": 2,
+    "text": "Glumanda-Bonbon"
+  },
+  {
+    "index": 980,
+    "flags": 2,
+    "text": "Schiggy-Bonbon"
+  },
+  {
+    "index": 981,
+    "flags": 2,
+    "text": "Raupy-Bonbon"
+  },
+  {
+    "index": 982,
+    "flags": 2,
+    "text": "Hornliu-Bonbon"
+  },
+  {
+    "index": 983,
+    "flags": 2,
+    "text": "Taubsi-Bonbon"
+  },
+  {
+    "index": 984,
+    "flags": 2,
+    "text": "Rattfratz-Bonbon"
+  },
+  {
+    "index": 985,
+    "flags": 2,
+    "text": "Habitak-Bonbon"
+  },
+  {
+    "index": 986,
+    "flags": 2,
+    "text": "Rettan-Bonbon"
+  },
+  {
+    "index": 987,
+    "flags": 2,
+    "text": "Pikachu-Bonbon"
+  },
+  {
+    "index": 988,
+    "flags": 2,
+    "text": "Sandan-Bonbon"
+  },
+  {
+    "index": 989,
+    "flags": 2,
+    "text": "Nidoran\u2640-Bonbon"
+  },
+  {
+    "index": 990,
+    "flags": 2,
+    "text": "Nidoran\u2642-Bonbon"
+  },
+  {
+    "index": 991,
+    "flags": 2,
+    "text": "Piepi-Bonbon"
+  },
+  {
+    "index": 992,
+    "flags": 2,
+    "text": "Vulpix-Bonbon"
+  },
+  {
+    "index": 993,
+    "flags": 2,
+    "text": "Pummeluff-Bonbon"
+  },
+  {
+    "index": 994,
+    "flags": 2,
+    "text": "Zubat-Bonbon"
+  },
+  {
+    "index": 995,
+    "flags": 2,
+    "text": "Myrapla-Bonbon"
+  },
+  {
+    "index": 996,
+    "flags": 2,
+    "text": "Paras-Bonbon"
+  },
+  {
+    "index": 997,
+    "flags": 2,
+    "text": "Bluzuk-Bonbon"
+  },
+  {
+    "index": 998,
+    "flags": 2,
+    "text": "Digda-Bonbon"
+  },
+  {
+    "index": 999,
+    "flags": 2,
+    "text": "Mauzi-Bonbon"
+  },
+  {
+    "index": 1000,
+    "flags": 2,
+    "text": "Enton-Bonbon"
+  },
+  {
+    "index": 1001,
+    "flags": 2,
+    "text": "Menki-Bonbon"
+  },
+  {
+    "index": 1002,
+    "flags": 2,
+    "text": "Fukano-Bonbon"
+  },
+  {
+    "index": 1003,
+    "flags": 2,
+    "text": "Quapsel-Bonbon"
+  },
+  {
+    "index": 1004,
+    "flags": 2,
+    "text": "Abra-Bonbon"
+  },
+  {
+    "index": 1005,
+    "flags": 2,
+    "text": "Machollo-Bonbon"
+  },
+  {
+    "index": 1006,
+    "flags": 2,
+    "text": "Knofensa-Bonbon"
+  },
+  {
+    "index": 1007,
+    "flags": 2,
+    "text": "Tentacha-Bonbon"
+  },
+  {
+    "index": 1008,
+    "flags": 2,
+    "text": "Kleinstein-Bonbon"
+  },
+  {
+    "index": 1009,
+    "flags": 2,
+    "text": "Ponita-Bonbon"
+  },
+  {
+    "index": 1010,
+    "flags": 2,
+    "text": "Flegmon-Bonbon"
+  },
+  {
+    "index": 1011,
+    "flags": 2,
+    "text": "Magnetilo-Bonbon"
+  },
+  {
+    "index": 1012,
+    "flags": 2,
+    "text": "Porenta-Bonbon"
+  },
+  {
+    "index": 1013,
+    "flags": 2,
+    "text": "Dodu-Bonbon"
+  },
+  {
+    "index": 1014,
+    "flags": 2,
+    "text": "Jurob-Bonbon"
+  },
+  {
+    "index": 1015,
+    "flags": 2,
+    "text": "Sleima-Bonbon"
+  },
+  {
+    "index": 1016,
+    "flags": 2,
+    "text": "Muschas-Bonbon"
+  },
+  {
+    "index": 1017,
+    "flags": 2,
+    "text": "Nebulak-Bonbon"
+  },
+  {
+    "index": 1018,
+    "flags": 2,
+    "text": "Onix-Bonbon"
+  },
+  {
+    "index": 1019,
+    "flags": 2,
+    "text": "Traumato-Bonbon"
+  },
+  {
+    "index": 1020,
+    "flags": 2,
+    "text": "Krabby-Bonbon"
+  },
+  {
+    "index": 1021,
+    "flags": 2,
+    "text": "Voltobal-Bonbon"
+  },
+  {
+    "index": 1022,
+    "flags": 2,
+    "text": "Owei-Bonbon"
+  },
+  {
+    "index": 1023,
+    "flags": 2,
+    "text": "Tragosso-Bonbon"
+  },
+  {
+    "index": 1024,
+    "flags": 2,
+    "text": "Kicklee-Bonbon"
+  },
+  {
+    "index": 1025,
+    "flags": 2,
+    "text": "Nockchan-Bonbon"
+  },
+  {
+    "index": 1026,
+    "flags": 2,
+    "text": "Schlurp-Bonbon"
+  },
+  {
+    "index": 1027,
+    "flags": 2,
+    "text": "Smogon-Bonbon"
+  },
+  {
+    "index": 1028,
+    "flags": 2,
+    "text": "Rihorn-Bonbon"
+  },
+  {
+    "index": 1029,
+    "flags": 2,
+    "text": "Chaneira-Bonbon"
+  },
+  {
+    "index": 1030,
+    "flags": 2,
+    "text": "Tangela-Bonbon"
+  },
+  {
+    "index": 1031,
+    "flags": 2,
+    "text": "Kangama-Bonbon"
+  },
+  {
+    "index": 1032,
+    "flags": 2,
+    "text": "Seeper-Bonbon"
+  },
+  {
+    "index": 1033,
+    "flags": 2,
+    "text": "Goldini-Bonbon"
+  },
+  {
+    "index": 1034,
+    "flags": 2,
+    "text": "Sterndu-Bonbon"
+  },
+  {
+    "index": 1035,
+    "flags": 2,
+    "text": "Pantimos-Bonbon"
+  },
+  {
+    "index": 1036,
+    "flags": 2,
+    "text": "Sichlor-Bonbon"
+  },
+  {
+    "index": 1037,
+    "flags": 2,
+    "text": "Rossana-Bonbon"
+  },
+  {
+    "index": 1038,
+    "flags": 2,
+    "text": "Elektek-Bonbon"
+  },
+  {
+    "index": 1039,
+    "flags": 2,
+    "text": "Pinsir-Bonbon"
+  },
+  {
+    "index": 1040,
+    "flags": 2,
+    "text": "Tauros-Bonbon"
+  },
+  {
+    "index": 1041,
+    "flags": 2,
+    "text": "Karpador-Bonbon"
+  },
+  {
+    "index": 1042,
+    "flags": 2,
+    "text": "Lapras-Bonbon"
+  },
+  {
+    "index": 1043,
+    "flags": 2,
+    "text": "Ditto-Bonbon"
+  },
+  {
+    "index": 1044,
+    "flags": 2,
+    "text": "Evoli-Bonbon"
+  },
+  {
+    "index": 1045,
+    "flags": 2,
+    "text": "Porygon-Bonbon"
+  },
+  {
+    "index": 1046,
+    "flags": 2,
+    "text": "Amonitas-Bonbon"
+  },
+  {
+    "index": 1047,
+    "flags": 2,
+    "text": "Kabuto-Bonbon"
+  },
+  {
+    "index": 1048,
+    "flags": 2,
+    "text": "Aerodactyl-Bonbon"
+  },
+  {
+    "index": 1049,
+    "flags": 2,
+    "text": "Relaxo-Bonbon"
+  },
+  {
+    "index": 1050,
+    "flags": 2,
+    "text": "Arktos-Bonbon"
+  },
+  {
+    "index": 1051,
+    "flags": 2,
+    "text": "Zapdos-Bonbon"
+  },
+  {
+    "index": 1052,
+    "flags": 2,
+    "text": "Lavados-Bonbon"
+  },
+  {
+    "index": 1053,
+    "flags": 2,
+    "text": "Dratini-Bonbon"
+  },
+  {
+    "index": 1054,
+    "flags": 2,
+    "text": "Mewtu-Bonbon"
+  },
+  {
+    "index": 1055,
+    "flags": 2,
+    "text": "Mew-Bonbon"
+  },
+  {
+    "index": 1056,
+    "flags": 2,
+    "text": "Meltan-Bonbon"
+  },
+  {
+    "index": 1057,
+    "flags": 2,
+    "text": "Magmar-Bonbon"
+  },
+  {
+    "index": 1058,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1059,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1060,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1061,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1062,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1063,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1064,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1065,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1066,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1067,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1068,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1069,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1070,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1071,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1072,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1073,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1074,
+    "flags": 0,
+    "text": "Empfehlungsbrief"
+  },
+  {
+    "index": 1075,
+    "flags": 1,
+    "text": "Pok\u00E9mon-Box"
+  },
+  {
+    "index": 1076,
+    "flags": 0,
+    "text": "Wunschstern"
+  },
+  {
+    "index": 1077,
+    "flags": 2,
+    "text": "Dynamax-Band"
+  },
+  {
+    "index": 1078,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1079,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1080,
+    "flags": 1,
+    "text": "Angel"
+  },
+  {
+    "index": 1081,
+    "flags": 2,
+    "text": "Rotom-Rad"
+  },
+  {
+    "index": 1082,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1083,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1084,
+    "flags": 66,
+    "text": "W\u00FCrstchen"
+  },
+  {
+    "index": 1085,
+    "flags": 33,
+    "text": "Pauls Feinkost"
+  },
+  {
+    "index": 1086,
+    "flags": 33,
+    "text": "Bachs Feinkost"
+  },
+  {
+    "index": 1087,
+    "flags": 65,
+    "text": "Dosenbohnen"
+  },
+  {
+    "index": 1088,
+    "flags": 2,
+    "text": "Toastbrot"
+  },
+  {
+    "index": 1089,
+    "flags": 33,
+    "text": "Spaghetti"
+  },
+  {
+    "index": 1090,
+    "flags": 0,
+    "text": "Pilzmix"
+  },
+  {
+    "index": 1091,
+    "flags": 1,
+    "text": "R\u00F6strute"
+  },
+  {
+    "index": 1092,
+    "flags": 0,
+    "text": "Dicken Lauch"
+  },
+  {
+    "index": 1093,
+    "flags": 0,
+    "text": "Luxusapfel"
+  },
+  {
+    "index": 1094,
+    "flags": 64,
+    "text": "Feine Knochen"
+  },
+  {
+    "index": 1095,
+    "flags": 65,
+    "text": "Kartoffeln"
+  },
+  {
+    "index": 1096,
+    "flags": 2,
+    "text": "Uferkraut"
+  },
+  {
+    "index": 1097,
+    "flags": 34,
+    "text": "Gem\u00FCse"
+  },
+  {
+    "index": 1098,
+    "flags": 34,
+    "text": "Frittiertes"
+  },
+  {
+    "index": 1099,
+    "flags": 2,
+    "text": "Gekochtes Ei"
+  },
+  {
+    "index": 1100,
+    "flags": 2,
+    "text": "Camping-Set"
+  },
+  {
+    "index": 1101,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1102,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1103,
+    "flags": 2,
+    "text": "Rostige Schwert"
+  },
+  {
+    "index": 1104,
+    "flags": 0,
+    "text": "Rostigen Schild"
+  },
+  {
+    "index": 1105,
+    "flags": 2,
+    "text": "Vogelfossil"
+  },
+  {
+    "index": 1106,
+    "flags": 2,
+    "text": "Fischfossil"
+  },
+  {
+    "index": 1107,
+    "flags": 2,
+    "text": "Drachenfossil"
+  },
+  {
+    "index": 1108,
+    "flags": 2,
+    "text": "Paddelfossil"
+  },
+  {
+    "index": 1109,
+    "flags": 1,
+    "text": "Zucker-Erdbeere"
+  },
+  {
+    "index": 1110,
+    "flags": 2,
+    "text": "Zucker-Herz"
+  },
+  {
+    "index": 1111,
+    "flags": 1,
+    "text": "Zucker-Beere"
+  },
+  {
+    "index": 1112,
+    "flags": 2,
+    "text": "Zucker-Kleeblatt"
+  },
+  {
+    "index": 1113,
+    "flags": 1,
+    "text": "Zucker-Blume"
+  },
+  {
+    "index": 1114,
+    "flags": 0,
+    "text": "Zucker-Stern"
+  },
+  {
+    "index": 1115,
+    "flags": 1,
+    "text": "Zucker-Schleife"
+  },
+  {
+    "index": 1116,
+    "flags": 0,
+    "text": "S\u00FC\u00DFen Apfel"
+  },
+  {
+    "index": 1117,
+    "flags": 0,
+    "text": "Sauren Apfel"
+  },
+  {
+    "index": 1118,
+    "flags": 2,
+    "text": "Halsspray"
+  },
+  {
+    "index": 1119,
+    "flags": 1,
+    "text": "Fluchttasche"
+  },
+  {
+    "index": 1120,
+    "flags": 64,
+    "text": "Plateauschuhe"
+  },
+  {
+    "index": 1121,
+    "flags": 0,
+    "text": "Fehlschlagschutz"
+  },
+  {
+    "index": 1122,
+    "flags": 32,
+    "text": "Bizarroservice"
+  },
+  {
+    "index": 1123,
+    "flags": 0,
+    "text": "Allzweckschirm"
+  },
+  {
+    "index": 1124,
+    "flags": 2,
+    "text": "EP-Bonbon XS"
+  },
+  {
+    "index": 1125,
+    "flags": 2,
+    "text": "EP-Bonbon S"
+  },
+  {
+    "index": 1126,
+    "flags": 2,
+    "text": "EP-Bonbon M"
+  },
+  {
+    "index": 1127,
+    "flags": 2,
+    "text": "EP-Bonbon L"
+  },
+  {
+    "index": 1128,
+    "flags": 2,
+    "text": "EP-Bonbon XL"
+  },
+  {
+    "index": 1129,
+    "flags": 2,
+    "text": "Dynamax-Bonbon"
+  },
+  {
+    "index": 1130,
+    "flags": 33,
+    "text": "TP00"
+  },
+  {
+    "index": 1131,
+    "flags": 33,
+    "text": "TP01"
+  },
+  {
+    "index": 1132,
+    "flags": 33,
+    "text": "TP02"
+  },
+  {
+    "index": 1133,
+    "flags": 33,
+    "text": "TP03"
+  },
+  {
+    "index": 1134,
+    "flags": 33,
+    "text": "TP04"
+  },
+  {
+    "index": 1135,
+    "flags": 33,
+    "text": "TP05"
+  },
+  {
+    "index": 1136,
+    "flags": 33,
+    "text": "TP06"
+  },
+  {
+    "index": 1137,
+    "flags": 33,
+    "text": "TP07"
+  },
+  {
+    "index": 1138,
+    "flags": 33,
+    "text": "TP08"
+  },
+  {
+    "index": 1139,
+    "flags": 33,
+    "text": "TP09"
+  },
+  {
+    "index": 1140,
+    "flags": 33,
+    "text": "TP10"
+  },
+  {
+    "index": 1141,
+    "flags": 33,
+    "text": "TP11"
+  },
+  {
+    "index": 1142,
+    "flags": 33,
+    "text": "TP12"
+  },
+  {
+    "index": 1143,
+    "flags": 33,
+    "text": "TP13"
+  },
+  {
+    "index": 1144,
+    "flags": 33,
+    "text": "TP14"
+  },
+  {
+    "index": 1145,
+    "flags": 33,
+    "text": "TP15"
+  },
+  {
+    "index": 1146,
+    "flags": 33,
+    "text": "TP16"
+  },
+  {
+    "index": 1147,
+    "flags": 33,
+    "text": "TP17"
+  },
+  {
+    "index": 1148,
+    "flags": 33,
+    "text": "TP18"
+  },
+  {
+    "index": 1149,
+    "flags": 33,
+    "text": "TP19"
+  },
+  {
+    "index": 1150,
+    "flags": 33,
+    "text": "TP20"
+  },
+  {
+    "index": 1151,
+    "flags": 33,
+    "text": "TP21"
+  },
+  {
+    "index": 1152,
+    "flags": 33,
+    "text": "TP22"
+  },
+  {
+    "index": 1153,
+    "flags": 33,
+    "text": "TP23"
+  },
+  {
+    "index": 1154,
+    "flags": 33,
+    "text": "TP24"
+  },
+  {
+    "index": 1155,
+    "flags": 33,
+    "text": "TP25"
+  },
+  {
+    "index": 1156,
+    "flags": 33,
+    "text": "TP26"
+  },
+  {
+    "index": 1157,
+    "flags": 33,
+    "text": "TP27"
+  },
+  {
+    "index": 1158,
+    "flags": 33,
+    "text": "TP28"
+  },
+  {
+    "index": 1159,
+    "flags": 33,
+    "text": "TP29"
+  },
+  {
+    "index": 1160,
+    "flags": 33,
+    "text": "TP30"
+  },
+  {
+    "index": 1161,
+    "flags": 33,
+    "text": "TP31"
+  },
+  {
+    "index": 1162,
+    "flags": 33,
+    "text": "TP32"
+  },
+  {
+    "index": 1163,
+    "flags": 33,
+    "text": "TP33"
+  },
+  {
+    "index": 1164,
+    "flags": 33,
+    "text": "TP34"
+  },
+  {
+    "index": 1165,
+    "flags": 33,
+    "text": "TP35"
+  },
+  {
+    "index": 1166,
+    "flags": 33,
+    "text": "TP36"
+  },
+  {
+    "index": 1167,
+    "flags": 33,
+    "text": "TP37"
+  },
+  {
+    "index": 1168,
+    "flags": 33,
+    "text": "TP38"
+  },
+  {
+    "index": 1169,
+    "flags": 33,
+    "text": "TP39"
+  },
+  {
+    "index": 1170,
+    "flags": 33,
+    "text": "TP40"
+  },
+  {
+    "index": 1171,
+    "flags": 33,
+    "text": "TP41"
+  },
+  {
+    "index": 1172,
+    "flags": 33,
+    "text": "TP42"
+  },
+  {
+    "index": 1173,
+    "flags": 33,
+    "text": "TP43"
+  },
+  {
+    "index": 1174,
+    "flags": 33,
+    "text": "TP44"
+  },
+  {
+    "index": 1175,
+    "flags": 33,
+    "text": "TP45"
+  },
+  {
+    "index": 1176,
+    "flags": 33,
+    "text": "TP46"
+  },
+  {
+    "index": 1177,
+    "flags": 33,
+    "text": "TP47"
+  },
+  {
+    "index": 1178,
+    "flags": 33,
+    "text": "TP48"
+  },
+  {
+    "index": 1179,
+    "flags": 33,
+    "text": "TP49"
+  },
+  {
+    "index": 1180,
+    "flags": 33,
+    "text": "TP50"
+  },
+  {
+    "index": 1181,
+    "flags": 33,
+    "text": "TP51"
+  },
+  {
+    "index": 1182,
+    "flags": 33,
+    "text": "TP52"
+  },
+  {
+    "index": 1183,
+    "flags": 33,
+    "text": "TP53"
+  },
+  {
+    "index": 1184,
+    "flags": 33,
+    "text": "TP54"
+  },
+  {
+    "index": 1185,
+    "flags": 33,
+    "text": "TP55"
+  },
+  {
+    "index": 1186,
+    "flags": 33,
+    "text": "TP56"
+  },
+  {
+    "index": 1187,
+    "flags": 33,
+    "text": "TP57"
+  },
+  {
+    "index": 1188,
+    "flags": 33,
+    "text": "TP58"
+  },
+  {
+    "index": 1189,
+    "flags": 33,
+    "text": "TP59"
+  },
+  {
+    "index": 1190,
+    "flags": 33,
+    "text": "TP60"
+  },
+  {
+    "index": 1191,
+    "flags": 33,
+    "text": "TP61"
+  },
+  {
+    "index": 1192,
+    "flags": 33,
+    "text": "TP62"
+  },
+  {
+    "index": 1193,
+    "flags": 33,
+    "text": "TP63"
+  },
+  {
+    "index": 1194,
+    "flags": 33,
+    "text": "TP64"
+  },
+  {
+    "index": 1195,
+    "flags": 33,
+    "text": "TP65"
+  },
+  {
+    "index": 1196,
+    "flags": 33,
+    "text": "TP66"
+  },
+  {
+    "index": 1197,
+    "flags": 33,
+    "text": "TP67"
+  },
+  {
+    "index": 1198,
+    "flags": 33,
+    "text": "TP68"
+  },
+  {
+    "index": 1199,
+    "flags": 33,
+    "text": "TP69"
+  },
+  {
+    "index": 1200,
+    "flags": 33,
+    "text": "TP70"
+  },
+  {
+    "index": 1201,
+    "flags": 33,
+    "text": "TP71"
+  },
+  {
+    "index": 1202,
+    "flags": 33,
+    "text": "TP72"
+  },
+  {
+    "index": 1203,
+    "flags": 33,
+    "text": "TP73"
+  },
+  {
+    "index": 1204,
+    "flags": 33,
+    "text": "TP74"
+  },
+  {
+    "index": 1205,
+    "flags": 33,
+    "text": "TP75"
+  },
+  {
+    "index": 1206,
+    "flags": 33,
+    "text": "TP76"
+  },
+  {
+    "index": 1207,
+    "flags": 33,
+    "text": "TP77"
+  },
+  {
+    "index": 1208,
+    "flags": 33,
+    "text": "TP78"
+  },
+  {
+    "index": 1209,
+    "flags": 33,
+    "text": "TP79"
+  },
+  {
+    "index": 1210,
+    "flags": 33,
+    "text": "TP80"
+  },
+  {
+    "index": 1211,
+    "flags": 33,
+    "text": "TP81"
+  },
+  {
+    "index": 1212,
+    "flags": 33,
+    "text": "TP82"
+  },
+  {
+    "index": 1213,
+    "flags": 33,
+    "text": "TP83"
+  },
+  {
+    "index": 1214,
+    "flags": 33,
+    "text": "TP84"
+  },
+  {
+    "index": 1215,
+    "flags": 33,
+    "text": "TP85"
+  },
+  {
+    "index": 1216,
+    "flags": 33,
+    "text": "TP86"
+  },
+  {
+    "index": 1217,
+    "flags": 33,
+    "text": "TP87"
+  },
+  {
+    "index": 1218,
+    "flags": 33,
+    "text": "TP88"
+  },
+  {
+    "index": 1219,
+    "flags": 33,
+    "text": "TP89"
+  },
+  {
+    "index": 1220,
+    "flags": 33,
+    "text": "TP90"
+  },
+  {
+    "index": 1221,
+    "flags": 33,
+    "text": "TP91"
+  },
+  {
+    "index": 1222,
+    "flags": 33,
+    "text": "TP92"
+  },
+  {
+    "index": 1223,
+    "flags": 33,
+    "text": "TP93"
+  },
+  {
+    "index": 1224,
+    "flags": 33,
+    "text": "TP94"
+  },
+  {
+    "index": 1225,
+    "flags": 33,
+    "text": "TP95"
+  },
+  {
+    "index": 1226,
+    "flags": 33,
+    "text": "TP96"
+  },
+  {
+    "index": 1227,
+    "flags": 33,
+    "text": "TP97"
+  },
+  {
+    "index": 1228,
+    "flags": 33,
+    "text": "TP98"
+  },
+  {
+    "index": 1229,
+    "flags": 33,
+    "text": "TP99"
+  },
+  {
+    "index": 1230,
+    "flags": 33,
+    "text": "TM00"
+  },
+  {
+    "index": 1231,
+    "flags": 1,
+    "text": "Solo-Minze"
+  },
+  {
+    "index": 1232,
+    "flags": 1,
+    "text": "Hart-Minze"
+  },
+  {
+    "index": 1233,
+    "flags": 1,
+    "text": "Frech-Minze"
+  },
+  {
+    "index": 1234,
+    "flags": 1,
+    "text": "Mutig-Minze"
+  },
+  {
+    "index": 1235,
+    "flags": 1,
+    "text": "K\u00FChn-Minze"
+  },
+  {
+    "index": 1236,
+    "flags": 1,
+    "text": "Pfiffig-Minze"
+  },
+  {
+    "index": 1237,
+    "flags": 1,
+    "text": "Lasch-Minze"
+  },
+  {
+    "index": 1238,
+    "flags": 1,
+    "text": "Locker-Minze"
+  },
+  {
+    "index": 1239,
+    "flags": 1,
+    "text": "M\u00E4\u00DFig-Minze"
+  },
+  {
+    "index": 1240,
+    "flags": 1,
+    "text": "Mild-Minze"
+  },
+  {
+    "index": 1241,
+    "flags": 1,
+    "text": "Hitzig-Minze"
+  },
+  {
+    "index": 1242,
+    "flags": 1,
+    "text": "Ruhig-Minze"
+  },
+  {
+    "index": 1243,
+    "flags": 1,
+    "text": "Still-Minze"
+  },
+  {
+    "index": 1244,
+    "flags": 1,
+    "text": "Zart-Minze"
+  },
+  {
+    "index": 1245,
+    "flags": 1,
+    "text": "Sacht-Minze"
+  },
+  {
+    "index": 1246,
+    "flags": 1,
+    "text": "Forsch-Minze"
+  },
+  {
+    "index": 1247,
+    "flags": 1,
+    "text": "Scheu-Minze"
+  },
+  {
+    "index": 1248,
+    "flags": 1,
+    "text": "Hastig-Minze"
+  },
+  {
+    "index": 1249,
+    "flags": 1,
+    "text": "Froh-Minze"
+  },
+  {
+    "index": 1250,
+    "flags": 1,
+    "text": "Naiv-Minze"
+  },
+  {
+    "index": 1251,
+    "flags": 1,
+    "text": "Ernst-Minze"
+  },
+  {
+    "index": 1252,
+    "flags": 0,
+    "text": "Wunschbrocken"
+  },
+  {
+    "index": 1253,
+    "flags": 1,
+    "text": "Rissige Kanne"
+  },
+  {
+    "index": 1254,
+    "flags": 1,
+    "text": "L\u00F6chrige Kanne"
+  },
+  {
+    "index": 1255,
+    "flags": 64,
+    "text": "Top-Ohrenst\u00F6psel"
+  },
+  {
+    "index": 1256,
+    "flags": 65,
+    "text": "Fr\u00FCchte"
+  },
+  {
+    "index": 1257,
+    "flags": 0,
+    "text": "Kuhmuh-K\u00E4se"
+  },
+  {
+    "index": 1258,
+    "flags": 0,
+    "text": "Gew\u00FCrzmix"
+  },
+  {
+    "index": 1259,
+    "flags": 1,
+    "text": "Frische Sahne"
+  },
+  {
+    "index": 1260,
+    "flags": 2,
+    "text": "Fertigcurry"
+  },
+  {
+    "index": 1261,
+    "flags": 33,
+    "text": "Kokosmilch"
+  },
+  {
+    "index": 1262,
+    "flags": 65,
+    "text": "Fertignudeln"
+  },
+  {
+    "index": 1263,
+    "flags": 65,
+    "text": "Frikadellen"
+  },
+  {
+    "index": 1264,
+    "flags": 34,
+    "text": "Giga-Pulver"
+  },
+  {
+    "index": 1265,
+    "flags": 0,
+    "text": "Wunschsplitter"
+  },
+  {
+    "index": 1266,
+    "flags": 2,
+    "text": "Rotom-Rad"
+  },
+  {
+    "index": 1267,
+    "flags": 0,
+    "text": "Superfangpin"
+  },
+  {
+    "index": 1268,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1269,
+    "flags": 0,
+    "text": "Vergilbten Brief"
+  },
+  {
+    "index": 1270,
+    "flags": 2,
+    "text": "Band-Autogramm"
+  },
+  {
+    "index": 1271,
+    "flags": 34,
+    "text": "Sanias Buch"
+  },
+  {
+    "index": 1272,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1273,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1274,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1275,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1276,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1277,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 1278,
+    "flags": 0,
+    "text": "Rotom-Katalog"
+  },
+  {
+    "index": 1279,
+    "flags": 0,
+    "text": "\u2605And458"
+  },
+  {
+    "index": 1280,
+    "flags": 0,
+    "text": "\u2605And15"
+  },
+  {
+    "index": 1281,
+    "flags": 0,
+    "text": "\u2605And337"
+  },
+  {
+    "index": 1282,
+    "flags": 0,
+    "text": "\u2605And603"
+  },
+  {
+    "index": 1283,
+    "flags": 0,
+    "text": "\u2605And390"
+  },
+  {
+    "index": 1284,
+    "flags": 0,
+    "text": "\u2605Sgr6879"
+  },
+  {
+    "index": 1285,
+    "flags": 0,
+    "text": "\u2605Sgr6859"
+  },
+  {
+    "index": 1286,
+    "flags": 0,
+    "text": "\u2605Sgr6913"
+  },
+  {
+    "index": 1287,
+    "flags": 0,
+    "text": "\u2605Sgr7348"
+  },
+  {
+    "index": 1288,
+    "flags": 0,
+    "text": "\u2605Sgr7121"
+  },
+  {
+    "index": 1289,
+    "flags": 0,
+    "text": "\u2605Sgr6746"
+  },
+  {
+    "index": 1290,
+    "flags": 0,
+    "text": "\u2605Sgr7194"
+  },
+  {
+    "index": 1291,
+    "flags": 0,
+    "text": "\u2605Sgr7337"
+  },
+  {
+    "index": 1292,
+    "flags": 0,
+    "text": "\u2605Sgr7343"
+  },
+  {
+    "index": 1293,
+    "flags": 0,
+    "text": "\u2605Sgr6812"
+  },
+  {
+    "index": 1294,
+    "flags": 0,
+    "text": "\u2605Sgr7116"
+  },
+  {
+    "index": 1295,
+    "flags": 0,
+    "text": "\u2605Sgr7264"
+  },
+  {
+    "index": 1296,
+    "flags": 0,
+    "text": "\u2605Sgr7597"
+  },
+  {
+    "index": 1297,
+    "flags": 0,
+    "text": "\u2605Del7882"
+  },
+  {
+    "index": 1298,
+    "flags": 0,
+    "text": "\u2605Del7906"
+  },
+  {
+    "index": 1299,
+    "flags": 0,
+    "text": "\u2605Del7852"
+  },
+  {
+    "index": 1300,
+    "flags": 0,
+    "text": "\u2605Psc596"
+  },
+  {
+    "index": 1301,
+    "flags": 0,
+    "text": "\u2605Psc361"
+  },
+  {
+    "index": 1302,
+    "flags": 0,
+    "text": "\u2605Psc510"
+  },
+  {
+    "index": 1303,
+    "flags": 0,
+    "text": "\u2605Psc437"
+  },
+  {
+    "index": 1304,
+    "flags": 0,
+    "text": "\u2605Psc8773"
+  },
+  {
+    "index": 1305,
+    "flags": 0,
+    "text": "\u2605Lep1865"
+  },
+  {
+    "index": 1306,
+    "flags": 0,
+    "text": "\u2605Lep1829"
+  },
+  {
+    "index": 1307,
+    "flags": 0,
+    "text": "\u2605Boo5340"
+  },
+  {
+    "index": 1308,
+    "flags": 0,
+    "text": "\u2605Boo5506"
+  },
+  {
+    "index": 1309,
+    "flags": 0,
+    "text": "\u2605Boo5435"
+  },
+  {
+    "index": 1310,
+    "flags": 0,
+    "text": "\u2605Boo5602"
+  },
+  {
+    "index": 1311,
+    "flags": 0,
+    "text": "\u2605Boo5733"
+  },
+  {
+    "index": 1312,
+    "flags": 0,
+    "text": "\u2605Boo5235"
+  },
+  {
+    "index": 1313,
+    "flags": 0,
+    "text": "\u2605Boo5351"
+  },
+  {
+    "index": 1314,
+    "flags": 0,
+    "text": "\u2605Hya3748"
+  },
+  {
+    "index": 1315,
+    "flags": 0,
+    "text": "\u2605Hya3903"
+  },
+  {
+    "index": 1316,
+    "flags": 0,
+    "text": "\u2605Hya3418"
+  },
+  {
+    "index": 1317,
+    "flags": 0,
+    "text": "\u2605Hya3482"
+  },
+  {
+    "index": 1318,
+    "flags": 0,
+    "text": "\u2605Hya3845"
+  },
+  {
+    "index": 1319,
+    "flags": 0,
+    "text": "\u2605Eri1084"
+  },
+  {
+    "index": 1320,
+    "flags": 0,
+    "text": "\u2605Eri472"
+  },
+  {
+    "index": 1321,
+    "flags": 0,
+    "text": "\u2605Eri1666"
+  },
+  {
+    "index": 1322,
+    "flags": 0,
+    "text": "\u2605Eri897"
+  },
+  {
+    "index": 1323,
+    "flags": 0,
+    "text": "\u2605Eri1231"
+  },
+  {
+    "index": 1324,
+    "flags": 0,
+    "text": "\u2605Eri874"
+  },
+  {
+    "index": 1325,
+    "flags": 0,
+    "text": "\u2605Eri1298"
+  },
+  {
+    "index": 1326,
+    "flags": 0,
+    "text": "\u2605Eri1325"
+  },
+  {
+    "index": 1327,
+    "flags": 0,
+    "text": "\u2605Eri984"
+  },
+  {
+    "index": 1328,
+    "flags": 0,
+    "text": "\u2605Eri1464"
+  },
+  {
+    "index": 1329,
+    "flags": 0,
+    "text": "\u2605Eri1393"
+  },
+  {
+    "index": 1330,
+    "flags": 0,
+    "text": "\u2605Eri850"
+  },
+  {
+    "index": 1331,
+    "flags": 0,
+    "text": "\u2605Tau1409"
+  },
+  {
+    "index": 1332,
+    "flags": 0,
+    "text": "\u2605Tau1457"
+  },
+  {
+    "index": 1333,
+    "flags": 0,
+    "text": "\u2605Tau1165"
+  },
+  {
+    "index": 1334,
+    "flags": 0,
+    "text": "\u2605Tau1791"
+  },
+  {
+    "index": 1335,
+    "flags": 0,
+    "text": "\u2605Tau1910"
+  },
+  {
+    "index": 1336,
+    "flags": 0,
+    "text": "\u2605Tau1346"
+  },
+  {
+    "index": 1337,
+    "flags": 0,
+    "text": "\u2605Tau1373"
+  },
+  {
+    "index": 1338,
+    "flags": 0,
+    "text": "\u2605Tau1412"
+  },
+  {
+    "index": 1339,
+    "flags": 0,
+    "text": "\u2605CMa2491"
+  },
+  {
+    "index": 1340,
+    "flags": 0,
+    "text": "\u2605CMa2693"
+  },
+  {
+    "index": 1341,
+    "flags": 0,
+    "text": "\u2605CMa2294"
+  },
+  {
+    "index": 1342,
+    "flags": 0,
+    "text": "\u2605CMa2827"
+  },
+  {
+    "index": 1343,
+    "flags": 0,
+    "text": "\u2605CMa2282"
+  },
+  {
+    "index": 1344,
+    "flags": 0,
+    "text": "\u2605CMa2618"
+  },
+  {
+    "index": 1345,
+    "flags": 0,
+    "text": "\u2605CMa2657"
+  },
+  {
+    "index": 1346,
+    "flags": 0,
+    "text": "\u2605CMa2646"
+  },
+  {
+    "index": 1347,
+    "flags": 0,
+    "text": "\u2605UMa4905"
+  },
+  {
+    "index": 1348,
+    "flags": 0,
+    "text": "\u2605UMa4301"
+  },
+  {
+    "index": 1349,
+    "flags": 0,
+    "text": "\u2605UMa5191"
+  },
+  {
+    "index": 1350,
+    "flags": 0,
+    "text": "\u2605UMa5054"
+  },
+  {
+    "index": 1351,
+    "flags": 0,
+    "text": "\u2605UMa4295"
+  },
+  {
+    "index": 1352,
+    "flags": 0,
+    "text": "\u2605UMa4660"
+  },
+  {
+    "index": 1353,
+    "flags": 0,
+    "text": "\u2605UMa4554"
+  },
+  {
+    "index": 1354,
+    "flags": 0,
+    "text": "\u2605UMa4069"
+  },
+  {
+    "index": 1355,
+    "flags": 0,
+    "text": "\u2605UMa3569"
+  },
+  {
+    "index": 1356,
+    "flags": 0,
+    "text": "\u2605UMa3323"
+  },
+  {
+    "index": 1357,
+    "flags": 0,
+    "text": "\u2605UMa4033"
+  },
+  {
+    "index": 1358,
+    "flags": 0,
+    "text": "\u2605UMa4377"
+  },
+  {
+    "index": 1359,
+    "flags": 0,
+    "text": "\u2605UMa4375"
+  },
+  {
+    "index": 1360,
+    "flags": 0,
+    "text": "\u2605UMa4518"
+  },
+  {
+    "index": 1361,
+    "flags": 0,
+    "text": "\u2605UMa3594"
+  },
+  {
+    "index": 1362,
+    "flags": 0,
+    "text": "\u2605Vir5056"
+  },
+  {
+    "index": 1363,
+    "flags": 0,
+    "text": "\u2605Vir4825"
+  },
+  {
+    "index": 1364,
+    "flags": 0,
+    "text": "\u2605Vir4932"
+  },
+  {
+    "index": 1365,
+    "flags": 0,
+    "text": "\u2605Vir4540"
+  },
+  {
+    "index": 1366,
+    "flags": 0,
+    "text": "\u2605Vir4689"
+  },
+  {
+    "index": 1367,
+    "flags": 0,
+    "text": "\u2605Vir5338"
+  },
+  {
+    "index": 1368,
+    "flags": 0,
+    "text": "\u2605Vir4910"
+  },
+  {
+    "index": 1369,
+    "flags": 0,
+    "text": "\u2605Vir5315"
+  },
+  {
+    "index": 1370,
+    "flags": 0,
+    "text": "\u2605Vir5359"
+  },
+  {
+    "index": 1371,
+    "flags": 0,
+    "text": "\u2605Vir5409"
+  },
+  {
+    "index": 1372,
+    "flags": 0,
+    "text": "\u2605Vir5107"
+  },
+  {
+    "index": 1373,
+    "flags": 0,
+    "text": "\u2605Ari617"
+  },
+  {
+    "index": 1374,
+    "flags": 0,
+    "text": "\u2605Ari553"
+  },
+  {
+    "index": 1375,
+    "flags": 0,
+    "text": "\u2605Ari546"
+  },
+  {
+    "index": 1376,
+    "flags": 0,
+    "text": "\u2605Ari951"
+  },
+  {
+    "index": 1377,
+    "flags": 0,
+    "text": "\u2605Ori1713"
+  },
+  {
+    "index": 1378,
+    "flags": 0,
+    "text": "\u2605Ori2061"
+  },
+  {
+    "index": 1379,
+    "flags": 0,
+    "text": "\u2605Ori1790"
+  },
+  {
+    "index": 1380,
+    "flags": 0,
+    "text": "\u2605Ori1903"
+  },
+  {
+    "index": 1381,
+    "flags": 0,
+    "text": "\u2605Ori1948"
+  },
+  {
+    "index": 1382,
+    "flags": 0,
+    "text": "\u2605Ori2004"
+  },
+  {
+    "index": 1383,
+    "flags": 0,
+    "text": "\u2605Ori1852"
+  },
+  {
+    "index": 1384,
+    "flags": 0,
+    "text": "\u2605Ori1879"
+  },
+  {
+    "index": 1385,
+    "flags": 0,
+    "text": "\u2605Ori1899"
+  },
+  {
+    "index": 1386,
+    "flags": 0,
+    "text": "\u2605Ori1543"
+  },
+  {
+    "index": 1387,
+    "flags": 0,
+    "text": "\u2605Cas21"
+  },
+  {
+    "index": 1388,
+    "flags": 0,
+    "text": "\u2605Cas168"
+  },
+  {
+    "index": 1389,
+    "flags": 0,
+    "text": "\u2605Cas403"
+  },
+  {
+    "index": 1390,
+    "flags": 0,
+    "text": "\u2605Cas153"
+  },
+  {
+    "index": 1391,
+    "flags": 0,
+    "text": "\u2605Cas542"
+  },
+  {
+    "index": 1392,
+    "flags": 0,
+    "text": "\u2605Cas219"
+  },
+  {
+    "index": 1393,
+    "flags": 0,
+    "text": "\u2605Cas265"
+  },
+  {
+    "index": 1394,
+    "flags": 0,
+    "text": "\u2605Cnc3572"
+  },
+  {
+    "index": 1395,
+    "flags": 0,
+    "text": "\u2605Cnc3208"
+  },
+  {
+    "index": 1396,
+    "flags": 0,
+    "text": "\u2605Cnc3461"
+  },
+  {
+    "index": 1397,
+    "flags": 0,
+    "text": "\u2605Cnc3449"
+  },
+  {
+    "index": 1398,
+    "flags": 0,
+    "text": "\u2605Cnc3429"
+  },
+  {
+    "index": 1399,
+    "flags": 0,
+    "text": "\u2605Cnc3627"
+  },
+  {
+    "index": 1400,
+    "flags": 0,
+    "text": "\u2605Cnc3268"
+  },
+  {
+    "index": 1401,
+    "flags": 0,
+    "text": "\u2605Cnc3249"
+  },
+  {
+    "index": 1402,
+    "flags": 0,
+    "text": "\u2605Com4968"
+  },
+  {
+    "index": 1403,
+    "flags": 0,
+    "text": "\u2605Crv4757"
+  },
+  {
+    "index": 1404,
+    "flags": 0,
+    "text": "\u2605Crv4623"
+  },
+  {
+    "index": 1405,
+    "flags": 0,
+    "text": "\u2605Crv4662"
+  },
+  {
+    "index": 1406,
+    "flags": 0,
+    "text": "\u2605Crv4786"
+  },
+  {
+    "index": 1407,
+    "flags": 0,
+    "text": "\u2605Aur1708"
+  },
+  {
+    "index": 1408,
+    "flags": 0,
+    "text": "\u2605Aur2088"
+  },
+  {
+    "index": 1409,
+    "flags": 0,
+    "text": "\u2605Aur1605"
+  },
+  {
+    "index": 1410,
+    "flags": 0,
+    "text": "\u2605Aur2095"
+  },
+  {
+    "index": 1411,
+    "flags": 0,
+    "text": "\u2605Aur1577"
+  },
+  {
+    "index": 1412,
+    "flags": 0,
+    "text": "\u2605Aur1641"
+  },
+  {
+    "index": 1413,
+    "flags": 0,
+    "text": "\u2605Aur1612"
+  },
+  {
+    "index": 1414,
+    "flags": 0,
+    "text": "\u2605Pav7790"
+  },
+  {
+    "index": 1415,
+    "flags": 0,
+    "text": "\u2605Cet911"
+  },
+  {
+    "index": 1416,
+    "flags": 0,
+    "text": "\u2605Cet681"
+  },
+  {
+    "index": 1417,
+    "flags": 0,
+    "text": "\u2605Cet188"
+  },
+  {
+    "index": 1418,
+    "flags": 0,
+    "text": "\u2605Cet539"
+  },
+  {
+    "index": 1419,
+    "flags": 0,
+    "text": "\u2605Cet804"
+  },
+  {
+    "index": 1420,
+    "flags": 0,
+    "text": "\u2605Cep8974"
+  },
+  {
+    "index": 1421,
+    "flags": 0,
+    "text": "\u2605Cep8162"
+  },
+  {
+    "index": 1422,
+    "flags": 0,
+    "text": "\u2605Cep8238"
+  },
+  {
+    "index": 1423,
+    "flags": 0,
+    "text": "\u2605Cep8417"
+  },
+  {
+    "index": 1424,
+    "flags": 0,
+    "text": "\u2605Cen5267"
+  },
+  {
+    "index": 1425,
+    "flags": 0,
+    "text": "\u2605Cen5288"
+  },
+  {
+    "index": 1426,
+    "flags": 0,
+    "text": "\u2605Cen551"
+  },
+  {
+    "index": 1427,
+    "flags": 0,
+    "text": "\u2605Cen5459"
+  },
+  {
+    "index": 1428,
+    "flags": 0,
+    "text": "\u2605Cen5460"
+  },
+  {
+    "index": 1429,
+    "flags": 0,
+    "text": "\u2605CMi2943"
+  },
+  {
+    "index": 1430,
+    "flags": 0,
+    "text": "\u2605CMi2845"
+  },
+  {
+    "index": 1431,
+    "flags": 0,
+    "text": "\u2605Equ8131"
+  },
+  {
+    "index": 1432,
+    "flags": 0,
+    "text": "\u2605Vul7405"
+  },
+  {
+    "index": 1433,
+    "flags": 0,
+    "text": "\u2605UMi424"
+  },
+  {
+    "index": 1434,
+    "flags": 0,
+    "text": "\u2605UMi5563"
+  },
+  {
+    "index": 1435,
+    "flags": 0,
+    "text": "\u2605UMi5735"
+  },
+  {
+    "index": 1436,
+    "flags": 0,
+    "text": "\u2605UMi6789"
+  },
+  {
+    "index": 1437,
+    "flags": 0,
+    "text": "\u2605Crt4287"
+  },
+  {
+    "index": 1438,
+    "flags": 0,
+    "text": "\u2605Lyr7001"
+  },
+  {
+    "index": 1439,
+    "flags": 0,
+    "text": "\u2605Lyr7178"
+  },
+  {
+    "index": 1440,
+    "flags": 0,
+    "text": "\u2605Lyr7106"
+  },
+  {
+    "index": 1441,
+    "flags": 0,
+    "text": "\u2605Lyr7298"
+  },
+  {
+    "index": 1442,
+    "flags": 0,
+    "text": "\u2605Ara6585"
+  },
+  {
+    "index": 1443,
+    "flags": 0,
+    "text": "\u2605Sco6134"
+  },
+  {
+    "index": 1444,
+    "flags": 0,
+    "text": "\u2605Sco6527"
+  },
+  {
+    "index": 1445,
+    "flags": 0,
+    "text": "\u2605Sco6553"
+  },
+  {
+    "index": 1446,
+    "flags": 0,
+    "text": "\u2605Sco5953"
+  },
+  {
+    "index": 1447,
+    "flags": 0,
+    "text": "\u2605Sco5984"
+  },
+  {
+    "index": 1448,
+    "flags": 0,
+    "text": "\u2605Sco6508"
+  },
+  {
+    "index": 1449,
+    "flags": 0,
+    "text": "\u2605Sco6084"
+  },
+  {
+    "index": 1450,
+    "flags": 0,
+    "text": "\u2605Sco5944"
+  },
+  {
+    "index": 1451,
+    "flags": 0,
+    "text": "\u2605Sco6630"
+  },
+  {
+    "index": 1452,
+    "flags": 0,
+    "text": "\u2605Sco6027"
+  },
+  {
+    "index": 1453,
+    "flags": 0,
+    "text": "\u2605Sco6247"
+  },
+  {
+    "index": 1454,
+    "flags": 0,
+    "text": "\u2605Sco6252"
+  },
+  {
+    "index": 1455,
+    "flags": 0,
+    "text": "\u2605Sco5928"
+  },
+  {
+    "index": 1456,
+    "flags": 0,
+    "text": "\u2605Sco6241"
+  },
+  {
+    "index": 1457,
+    "flags": 0,
+    "text": "\u2605Sco6165"
+  },
+  {
+    "index": 1458,
+    "flags": 0,
+    "text": "\u2605Tri544"
+  },
+  {
+    "index": 1459,
+    "flags": 0,
+    "text": "\u2605Leo3982"
+  },
+  {
+    "index": 1460,
+    "flags": 0,
+    "text": "\u2605Leo4534"
+  },
+  {
+    "index": 1461,
+    "flags": 0,
+    "text": "\u2605Leo4357"
+  },
+  {
+    "index": 1462,
+    "flags": 0,
+    "text": "\u2605Leo4057"
+  },
+  {
+    "index": 1463,
+    "flags": 0,
+    "text": "\u2605Leo4359"
+  },
+  {
+    "index": 1464,
+    "flags": 0,
+    "text": "\u2605Leo4031"
+  },
+  {
+    "index": 1465,
+    "flags": 0,
+    "text": "\u2605Leo3852"
+  },
+  {
+    "index": 1466,
+    "flags": 0,
+    "text": "\u2605Leo3905"
+  },
+  {
+    "index": 1467,
+    "flags": 0,
+    "text": "\u2605Leo3773"
+  },
+  {
+    "index": 1468,
+    "flags": 0,
+    "text": "\u2605Gru8425"
+  },
+  {
+    "index": 1469,
+    "flags": 0,
+    "text": "\u2605Gru8636"
+  },
+  {
+    "index": 1470,
+    "flags": 0,
+    "text": "\u2605Gru8353"
+  },
+  {
+    "index": 1471,
+    "flags": 0,
+    "text": "\u2605Lib5685"
+  },
+  {
+    "index": 1472,
+    "flags": 0,
+    "text": "\u2605Lib5531"
+  },
+  {
+    "index": 1473,
+    "flags": 0,
+    "text": "\u2605Lib5787"
+  },
+  {
+    "index": 1474,
+    "flags": 0,
+    "text": "\u2605Lib5603"
+  },
+  {
+    "index": 1475,
+    "flags": 0,
+    "text": "\u2605Pup3165"
+  },
+  {
+    "index": 1476,
+    "flags": 0,
+    "text": "\u2605Pup3185"
+  },
+  {
+    "index": 1477,
+    "flags": 0,
+    "text": "\u2605Pup3045"
+  },
+  {
+    "index": 1478,
+    "flags": 0,
+    "text": "\u2605Cyg7924"
+  },
+  {
+    "index": 1479,
+    "flags": 0,
+    "text": "\u2605Cyg7417"
+  },
+  {
+    "index": 1480,
+    "flags": 0,
+    "text": "\u2605Cyg7796"
+  },
+  {
+    "index": 1481,
+    "flags": 0,
+    "text": "\u2605Cyg8301"
+  },
+  {
+    "index": 1482,
+    "flags": 0,
+    "text": "\u2605Cyg7949"
+  },
+  {
+    "index": 1483,
+    "flags": 0,
+    "text": "\u2605Cyg7528"
+  },
+  {
+    "index": 1484,
+    "flags": 0,
+    "text": "\u2605Oct7228"
+  },
+  {
+    "index": 1485,
+    "flags": 0,
+    "text": "\u2605Col1956"
+  },
+  {
+    "index": 1486,
+    "flags": 0,
+    "text": "\u2605Col2040"
+  },
+  {
+    "index": 1487,
+    "flags": 0,
+    "text": "\u2605Col2177"
+  },
+  {
+    "index": 1488,
+    "flags": 0,
+    "text": "\u2605Gem2990"
+  },
+  {
+    "index": 1489,
+    "flags": 0,
+    "text": "\u2605Gem2891"
+  },
+  {
+    "index": 1490,
+    "flags": 0,
+    "text": "\u2605Gem2421"
+  },
+  {
+    "index": 1491,
+    "flags": 0,
+    "text": "\u2605Gem2473"
+  },
+  {
+    "index": 1492,
+    "flags": 0,
+    "text": "\u2605Gem2216"
+  },
+  {
+    "index": 1493,
+    "flags": 0,
+    "text": "\u2605Gem2777"
+  },
+  {
+    "index": 1494,
+    "flags": 0,
+    "text": "\u2605Gem2650"
+  },
+  {
+    "index": 1495,
+    "flags": 0,
+    "text": "\u2605Gem2286"
+  },
+  {
+    "index": 1496,
+    "flags": 0,
+    "text": "\u2605Gem2484"
+  },
+  {
+    "index": 1497,
+    "flags": 0,
+    "text": "\u2605Gem2930"
+  },
+  {
+    "index": 1498,
+    "flags": 0,
+    "text": "\u2605Peg8775"
+  },
+  {
+    "index": 1499,
+    "flags": 0,
+    "text": "\u2605Peg8781"
+  },
+  {
+    "index": 1500,
+    "flags": 0,
+    "text": "\u2605Peg39"
+  },
+  {
+    "index": 1501,
+    "flags": 0,
+    "text": "\u2605Peg8308"
+  },
+  {
+    "index": 1502,
+    "flags": 0,
+    "text": "\u2605Peg8650"
+  },
+  {
+    "index": 1503,
+    "flags": 0,
+    "text": "\u2605Peg8634"
+  },
+  {
+    "index": 1504,
+    "flags": 0,
+    "text": "\u2605Peg8684"
+  },
+  {
+    "index": 1505,
+    "flags": 0,
+    "text": "\u2605Peg8450"
+  },
+  {
+    "index": 1506,
+    "flags": 0,
+    "text": "\u2605Peg8880"
+  },
+  {
+    "index": 1507,
+    "flags": 0,
+    "text": "\u2605Peg8905"
+  },
+  {
+    "index": 1508,
+    "flags": 0,
+    "text": "\u2605Oph6556"
+  },
+  {
+    "index": 1509,
+    "flags": 0,
+    "text": "\u2605Oph6378"
+  },
+  {
+    "index": 1510,
+    "flags": 0,
+    "text": "\u2605Oph6603"
+  },
+  {
+    "index": 1511,
+    "flags": 0,
+    "text": "\u2605Oph6149"
+  },
+  {
+    "index": 1512,
+    "flags": 0,
+    "text": "\u2605Oph6056"
+  },
+  {
+    "index": 1513,
+    "flags": 0,
+    "text": "\u2605Oph6075"
+  },
+  {
+    "index": 1514,
+    "flags": 0,
+    "text": "\u2605Ser5854"
+  },
+  {
+    "index": 1515,
+    "flags": 0,
+    "text": "\u2605Ser7141"
+  },
+  {
+    "index": 1516,
+    "flags": 0,
+    "text": "\u2605Ser5879"
+  },
+  {
+    "index": 1517,
+    "flags": 0,
+    "text": "\u2605Her6406"
+  },
+  {
+    "index": 1518,
+    "flags": 0,
+    "text": "\u2605Her6148"
+  },
+  {
+    "index": 1519,
+    "flags": 0,
+    "text": "\u2605Her6410"
+  },
+  {
+    "index": 1520,
+    "flags": 0,
+    "text": "\u2605Her6526"
+  },
+  {
+    "index": 1521,
+    "flags": 0,
+    "text": "\u2605Her6117"
+  },
+  {
+    "index": 1522,
+    "flags": 0,
+    "text": "\u2605Her6008"
+  },
+  {
+    "index": 1523,
+    "flags": 0,
+    "text": "\u2605Per936"
+  },
+  {
+    "index": 1524,
+    "flags": 0,
+    "text": "\u2605Per1017"
+  },
+  {
+    "index": 1525,
+    "flags": 0,
+    "text": "\u2605Per1131"
+  },
+  {
+    "index": 1526,
+    "flags": 0,
+    "text": "\u2605Per1228"
+  },
+  {
+    "index": 1527,
+    "flags": 0,
+    "text": "\u2605Per834"
+  },
+  {
+    "index": 1528,
+    "flags": 0,
+    "text": "\u2605Per941"
+  },
+  {
+    "index": 1529,
+    "flags": 0,
+    "text": "\u2605Phe99"
+  },
+  {
+    "index": 1530,
+    "flags": 0,
+    "text": "\u2605Phe338"
+  },
+  {
+    "index": 1531,
+    "flags": 0,
+    "text": "\u2605Vel3634"
+  },
+  {
+    "index": 1532,
+    "flags": 0,
+    "text": "\u2605Vel3485"
+  },
+  {
+    "index": 1533,
+    "flags": 0,
+    "text": "\u2605Vel3734"
+  },
+  {
+    "index": 1534,
+    "flags": 0,
+    "text": "\u2605Aqr8232"
+  },
+  {
+    "index": 1535,
+    "flags": 0,
+    "text": "\u2605Aqr8414"
+  },
+  {
+    "index": 1536,
+    "flags": 0,
+    "text": "\u2605Aqr8709"
+  },
+  {
+    "index": 1537,
+    "flags": 0,
+    "text": "\u2605Aqr8518"
+  },
+  {
+    "index": 1538,
+    "flags": 0,
+    "text": "\u2605Aqr7950"
+  },
+  {
+    "index": 1539,
+    "flags": 0,
+    "text": "\u2605Aqr8499"
+  },
+  {
+    "index": 1540,
+    "flags": 0,
+    "text": "\u2605Aqr8610"
+  },
+  {
+    "index": 1541,
+    "flags": 0,
+    "text": "\u2605Aqr8264"
+  },
+  {
+    "index": 1542,
+    "flags": 0,
+    "text": "\u2605Cru4853"
+  },
+  {
+    "index": 1543,
+    "flags": 0,
+    "text": "\u2605Cru4730"
+  },
+  {
+    "index": 1544,
+    "flags": 0,
+    "text": "\u2605Cru4763"
+  },
+  {
+    "index": 1545,
+    "flags": 0,
+    "text": "\u2605Cru4700"
+  },
+  {
+    "index": 1546,
+    "flags": 0,
+    "text": "\u2605Cru4656"
+  },
+  {
+    "index": 1547,
+    "flags": 0,
+    "text": "\u2605PsA8728"
+  },
+  {
+    "index": 1548,
+    "flags": 0,
+    "text": "\u2605TrA6217"
+  },
+  {
+    "index": 1549,
+    "flags": 0,
+    "text": "\u2605Cap7776"
+  },
+  {
+    "index": 1550,
+    "flags": 0,
+    "text": "\u2605Cap7754"
+  },
+  {
+    "index": 1551,
+    "flags": 0,
+    "text": "\u2605Cap8278"
+  },
+  {
+    "index": 1552,
+    "flags": 0,
+    "text": "\u2605Cap8322"
+  },
+  {
+    "index": 1553,
+    "flags": 0,
+    "text": "\u2605Cap7773"
+  },
+  {
+    "index": 1554,
+    "flags": 0,
+    "text": "\u2605Sge7479"
+  },
+  {
+    "index": 1555,
+    "flags": 0,
+    "text": "\u2605Car2326"
+  },
+  {
+    "index": 1556,
+    "flags": 0,
+    "text": "\u2605Car3685"
+  },
+  {
+    "index": 1557,
+    "flags": 0,
+    "text": "\u2605Car3307"
+  },
+  {
+    "index": 1558,
+    "flags": 0,
+    "text": "\u2605Car3699"
+  },
+  {
+    "index": 1559,
+    "flags": 0,
+    "text": "\u2605Dra5744"
+  },
+  {
+    "index": 1560,
+    "flags": 0,
+    "text": "\u2605Dra5291"
+  },
+  {
+    "index": 1561,
+    "flags": 0,
+    "text": "\u2605Dra6705"
+  },
+  {
+    "index": 1562,
+    "flags": 0,
+    "text": "\u2605Dra6536"
+  },
+  {
+    "index": 1563,
+    "flags": 0,
+    "text": "\u2605Dra7310"
+  },
+  {
+    "index": 1564,
+    "flags": 0,
+    "text": "\u2605Dra6688"
+  },
+  {
+    "index": 1565,
+    "flags": 0,
+    "text": "\u2605Dra4434"
+  },
+  {
+    "index": 1566,
+    "flags": 0,
+    "text": "\u2605Dra6370"
+  },
+  {
+    "index": 1567,
+    "flags": 0,
+    "text": "\u2605Dra7462"
+  },
+  {
+    "index": 1568,
+    "flags": 0,
+    "text": "\u2605Dra6396"
+  },
+  {
+    "index": 1569,
+    "flags": 0,
+    "text": "\u2605Dra6132"
+  },
+  {
+    "index": 1570,
+    "flags": 0,
+    "text": "\u2605Dra6636"
+  },
+  {
+    "index": 1571,
+    "flags": 0,
+    "text": "\u2605CVn4915"
+  },
+  {
+    "index": 1572,
+    "flags": 0,
+    "text": "\u2605CVn4785"
+  },
+  {
+    "index": 1573,
+    "flags": 0,
+    "text": "\u2605CVn4846"
+  },
+  {
+    "index": 1574,
+    "flags": 0,
+    "text": "\u2605Aql7595"
+  },
+  {
+    "index": 1575,
+    "flags": 0,
+    "text": "\u2605Aql7557"
+  },
+  {
+    "index": 1576,
+    "flags": 0,
+    "text": "\u2605Aql7525"
+  },
+  {
+    "index": 1577,
+    "flags": 0,
+    "text": "\u2605Aql7602"
+  },
+  {
+    "index": 1578,
+    "flags": 0,
+    "text": "\u2605Aql7235"
+  },
+  {
+    "index": 1579,
+    "flags": 0,
+    "text": "Dyna-Honig"
+  },
+  {
+    "index": 1580,
+    "flags": 0,
+    "text": "Dyna-Pilz"
+  },
+  {
+    "index": 1581,
+    "flags": 0,
+    "text": "Galarnuss-Zweig"
+  },
+  {
+    "index": 1582,
+    "flags": 0,
+    "text": "Galarnuss-Reif"
+  },
+  {
+    "index": 1583,
+    "flags": 1,
+    "text": "Style-Karte"
+  },
+  {
+    "index": 1584,
+    "flags": 0,
+    "text": "R\u00FCstungspass"
+  },
+  {
+    "index": 1585,
+    "flags": 2,
+    "text": "Rotom-Rad"
+  },
+  {
+    "index": 1586,
+    "flags": 2,
+    "text": "Rotom-Rad"
+  },
+  {
+    "index": 1587,
+    "flags": 0,
+    "text": "EP-Pin"
+  },
+  {
+    "index": 1588,
+    "flags": 34,
+    "text": "R\u00FCstungserz"
+  },
+  {
+    "index": 1589,
+    "flags": 0,
+    "text": "Zeichenpin"
+  },
+  {
+    "index": 1590,
+    "flags": 64,
+    "text": "Z\u00FCgel des Bundes"
+  },
+  {
+    "index": 1591,
+    "flags": 64,
+    "text": "Z\u00FCgel des Bundes"
+  },
+  {
+    "index": 1592,
+    "flags": 0,
+    "text": "Galarnuss-Kranz"
+  },
+  {
+    "index": 1593,
+    "flags": 33,
+    "text": "Legenden-Notiz 1"
+  },
+  {
+    "index": 1594,
+    "flags": 33,
+    "text": "Legenden-Notiz 2"
+  },
+  {
+    "index": 1595,
+    "flags": 33,
+    "text": "Legenden-Notiz 3"
+  },
+  {
+    "index": 1596,
+    "flags": 33,
+    "text": "Legenden-Notiz X"
+  },
+  {
+    "index": 1597,
+    "flags": 0,
+    "text": "Kronenpass"
+  },
+  {
+    "index": 1598,
+    "flags": 1,
+    "text": "Holzkrone"
+  },
+  {
+    "index": 1599,
+    "flags": 2,
+    "text": "Kronblatt"
+  },
+  {
+    "index": 1600,
+    "flags": 34,
+    "text": "Helles Rosshaar"
+  },
+  {
+    "index": 1601,
+    "flags": 34,
+    "text": "Dunkles Rosshaar"
+  },
+  {
+    "index": 1602,
+    "flags": 1,
+    "text": "Polarkarotte"
+  },
+  {
+    "index": 1603,
+    "flags": 1,
+    "text": "Phantomkarotte"
+  },
+  {
+    "index": 1604,
+    "flags": 34,
+    "text": "Dyna-Erz"
+  },
+  {
+    "index": 1605,
+    "flags": 64,
+    "text": "Karottensamen"
+  },
+  {
+    "index": 1606,
+    "flags": 2,
+    "text": "F\u00E4higk.-Pflaster"
+  },
+  {
+    "index": 1607,
+    "flags": 64,
+    "text": "Z\u00FCgel des Bundes"
+  }
+]

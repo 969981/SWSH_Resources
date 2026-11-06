@@ -1,0 +1,2262 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Pok\u00E9 Job"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "\u00C8 disponibile un nuovo incarico!\\c"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Sono disponibili nuovi incarichi!\\c"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "NUOVO!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Cercasi Pok\u00E9mon"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "In corso"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Sempre disponibile"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Cercasi Pok\u00E9mon"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "In corso"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Sempre disponibile"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Completato"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Completato"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Descrizione"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Descrizione del lavoro"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Pok\u00E9mon richiesti"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Fino a [VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Durata"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] or[VAR 1101(0000,0101)]ae"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Quantit\u00E0 Punti Esperienza"
+  },
+  {
+    "index": 25,
+    "flags": 8,
+    "text": "Statistica che diminuisce"
+  },
+  {
+    "index": 26,
+    "flags": 8,
+    "text": "Scegli la statistica di cui vuoi diminuire\\ni punti base."
+  },
+  {
+    "index": 27,
+    "flags": 8,
+    "text": "Statistica che aumenta"
+  },
+  {
+    "index": 28,
+    "flags": 64,
+    "text": "PS"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Attacco"
+  },
+  {
+    "index": 30,
+    "flags": 1,
+    "text": "Difesa"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Att. Sp."
+  },
+  {
+    "index": 32,
+    "flags": 1,
+    "text": "Dif. Sp."
+  },
+  {
+    "index": 33,
+    "flags": 1,
+    "text": "Velocit\u00E0"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 8,
+    "text": "Scegli un incarico."
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Oggi non ci sono incarichi disponibili.\\nRipassa domani!\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Vuoi accettare questo incarico?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Questo incarico \u00E8 gi\u00E0 in corso di svolgimento.\\nVuoi interromperlo?"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Se interrompi un incarico, i Pok\u00E9mon torneranno\\nda te senza ricevere Punti Esperienza.\\r\\nVuoi procedere?"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon \u00E8 tornato dal suo incarico.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "I Pok\u00E9mon sono tornati dall\u2019incarico.\\c"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Vuoi inviare questo Pok\u00E9mon?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Vuoi inviare questi Pok\u00E9mon?"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Invia"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Controlla"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "Esci"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Hai selezionato meno Pok\u00E9mon di quelli richiesti.\\nVuoi continuare?"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Via! Il tuo Pok\u00E9mon \u00E8 partito per l\u2019incarico!\\nBuon lavoro!\\c"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Via! I tuoi Pok\u00E9mon sono partiti per l\u2019incarico!\\nBuon lavoro!\\c"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Ora che hai pi\u00F9 Medaglie avrai accesso\\na una maggiore variet\u00E0 di incarichi!\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] ha un incarico per te!\\c"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "Ancora [VAR 0201(0000)] or[VAR 1101(0000,0101)]ae"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 1003][VAR 01D2(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Complimenti!\\c\\nGli sforzi dei tuoi Pok\u00E9mon sono stati molto\\napprezzati e le richieste sono aumentate!\\c\\nTutti si aspettano grandi cose da te!\\c"
+  },
+  {
+    "index": 58,
+    "flags": 8,
+    "text": "Scegli la statistica di cui vuoi aumentare\\ni punti base."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Cambia la selezione"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Punti Esperienza"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "I Box del PC sono pieni!\\nFai un po\u2019 di spazio!\\c"
+  },
+  {
+    "index": 62,
+    "flags": 8,
+    "text": "Scegli tra i Pok\u00E9mon depositati nei Box.\\c"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Non puoi inviare altri Pok\u00E9mon. Interrompi\\nun incarico o attendi che sia completato.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Questo incarico \u00E8 gi\u00E0 stato completato.\\c"
+  },
+  {
+    "index": 65,
+    "flags": 8,
+    "text": "Scegli la durata di questo incarico."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Grazie all\u2019impegno dimostrato dai tuoi Pok\u00E9mon\\nhai ricevuto delle nuove richieste!\\c"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Non puoi accettare questo incarico perch\u00E9\\nnon hai Pok\u00E9mon nei Box.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "L."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Lunghissima"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Lunga"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Abbastanza lunga"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Media"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Abbastanza corta"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Corta"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Cortissima"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Il Pok\u00E9mon che era partito per l\u2019incarico\\n\u00E8 tornato!\\c"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "I Pok\u00E9mon che erano partiti per l\u2019incarico\\nsono tornati!\\c"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "P. base"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u002B [VAR 0202(0000)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Pok\u00E9mon scelto"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Pok\u00E9mon scelti"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": " Salta"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Bene!"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Ottimo!"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Incarico completato!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Sembra che il tuo Pok\u00E9mon abbia fatto un lavoro\\neccezionale!\\c"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Sembra che i tuoi Pok\u00E9mon abbiano fatto\\nun lavoro eccezionale!\\c"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 stato un successone! Il tuo Pok\u00E9mon\\nha fatto il pieno di Punti Esperienza!\\c"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 stato un successone! I tuoi Pok\u00E9mon\\nhanno fatto il pieno di Punti Esperienza!\\c"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 andato bene! Il tuo Pok\u00E9mon\\nha ricevuto un bel po\u2019 di Punti Esperienza!\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 andato bene! I tuoi Pok\u00E9mon\\nhanno ricevuto un bel po\u2019 di Punti Esperienza!\\c"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 stato completato e il tuo Pok\u00E9mon\\nha ricevuto in premio dei Punti Esperienza!\\c"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "L\u2019incarico \u00E8 stato completato e i tuoi Pok\u00E9mon\\nhanno ricevuto in premio dei Punti Esperienza!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Il cliente non potrebbe essere pi\u00F9 soddisfatto\\ndel lavoro svolto dal tuo Pok\u00E9mon!\\c\\nContinuate cos\u00EC!\\c"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Il cliente non potrebbe essere pi\u00F9 soddisfatto\\ndel lavoro svolto dai tuoi Pok\u00E9mon!\\c\\nContinuate cos\u00EC!\\c"
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Il cliente era molto contento del lavoro svolto.\\c\\nContinuate cos\u00EC per soddisfare al meglio\\nle richieste dei clienti!\\c"
+  },
+  {
+    "index": 115,
+    "flags": 4,
+    "text": "Il lavoro \u00E8 stato completato, ma la prossima\\nvolta cerca di inviare pi\u00F9 Pok\u00E9mon di un tipo\\r\\nadatto all\u2019incarico!\\c"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0007)]Come ricompensa per l\u2019ottimo lavoro ricevi\\n[VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0007)]Come ricompensa per aver fatto un buon lavoro\\nricevi [VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0007)]Come ricompensa per aver completato il lavoro\\nricevi [VAR 0201(0002)] [VAR 010A(0001)]!\\c"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0000,002E)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0006)]Ricevi [VAR 0206(0001,002E)] \uE300 come ricompensa\\nper l\u2019ottimo lavoro!\\c"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0006)]Ricevi [VAR 0206(0001,002E)] \uE300 come ricompensa\\nper aver fatto un buon lavoro!\\c"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha qualcosa per te.\\c\\n[VAR BE05(0006)]Ricevi [VAR 0206(0001,002E)] \uE300 come ricompensa\\nper aver completato il lavoro!\\c"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "I punti base [VAR 1504(0000,0000)][VAR 010D(0000)]\\ndel Pok\u00E9mon inviato sono aumentati!\\c"
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "I punti base [VAR 1504(0000,0000)][VAR 010D(0000)]\\ndei Pok\u00E9mon inviati sono aumentati!\\c"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[~ 130]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[~ 131]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[~ 132]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Cosa vuoi fare con [VAR 1500(0000,0000)][VAR 0102(0000)]?"
+  },
+  {
+    "index": 134,
+    "flags": 4,
+    "text": "Info"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Sicurezza innanzitutto"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Ci serve una mano per dei lavori di manutenzione.\\nDei Pok\u00E9mon che se la cavano bene ad alta quota\\nsarebbero l\u2019ideale!"
+  },
+  {
+    "index": 138,
+    "flags": 8,
+    "text": "Scorta ad alta quota!"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "Per proteggere i nostri aerei cerchiamo Pok\u00E9mon\\ndi un tipo particolare, delle creature considerate\\nsacre, quasi leggendarie!"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Personale di sicurezza affidabile"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Ci serve una mano con la sicurezza in aeroporto.\\nDei Pok\u00E9mon esperti di arti marziali ci sarebbero\\ndi grande aiuto."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Ridiamo luce alla citt\u00E0"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "Cercasi aiuto per lavori sui cavi dell\u2019alta\\ntensione! Pok\u00E9mon immuni all\u2019elettricit\u00E0\\nsarebbero perfetti per lo scopo."
+  },
+  {
+    "index": 144,
+    "flags": 4,
+    "text": "Illuminiamo la citt\u00E0"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "Cercasi aiuto per lavori sui cavi dell\u2019alta\\ntensione! Pok\u00E9mon abili nel gestire\\nl\u2019elettricit\u00E0 sarebbero perfetti per lo scopo."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Treno controllato, treno riparato"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Per la manutenzione dei vagoni ci farebbero\\ncomodo dei Pok\u00E9mon metallici con un\u2019ottima\\nconoscenza di ferro e affini."
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Pok\u00E9mon forti fisicamente"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Ci sarebbero utili Pok\u00E9mon forzuti e adatti\\nai terreni rocciosi! Attenzione: c\u2019\u00E8 il rischio\\ndi prendere la scossa!"
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "Ispezione di sottostazioni elettriche"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "Azienda leader nel settore dell\u2019energia cerca\\nPok\u00E9mon di tipo adeguato all\u2019ispezione di\\nsottostazioni elettriche!"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Pok\u00E9mon nel loro elemento naturale"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Eseguiamo esperimenti per osservare le reazioni\\ndi vari composti chimici. Pok\u00E9mon resistenti alle\\nsostanze tossiche ci sarebbero di grande aiuto."
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Poteri straordinari cercasi!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Per il nostro progetto di sviluppo necessitiamo\\ndell\u2019aiuto di un certo tipo di Pok\u00E9mon in grado\\ndi utilizzare poteri psichici."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Misteri da risolvere..."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon inquietanti che ci aiutino\\na comprendere strani fenomeni notturni."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Programmi da brivido"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon terrificanti per il nostro\\nrivoluzionario programma horror!"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "L\u2019importanza della prestanza"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon orgogliosi dei propri\\nmuscoli per educare la gente all\u2019importanza\\ndell\u2019esercizio fisico!"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Leccornie in TV"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon bravi ai fornelli\\nper una gara di cucina all\u2019ultima fiammata!"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Contiamo sulle tue forze!"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "L\u2019edilizia richiede forza!\\nLa forza arriva dai muscoli!\\nE i muscoli arrivano dai vostri Pok\u00E9mon!"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Le apparenze contano!"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "C\u2019\u00E8 un posto un po\u2019 sospetto che vorremmo\\nesplorare e la compagnia di qualche Pok\u00E9mon\\ndall\u2019aria minacciosa potrebbe farci comodo."
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "Ispezioni con la \u201Ci\u201D maiuscola"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Prima di cominciare i lavori di costruzione\\navremmo bisogno di ispezionare il terreno.\\nPok\u00E9mon esperti in materia, fatevi avanti!"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "La normalit\u00E0 regna in cucina"
+  },
+  {
+    "index": 171,
+    "flags": 8,
+    "text": "Stiamo lavorando a un menu che si adatti\\na ogni palato. Per questo ci sarebbe utile\\nl\u2019opinione di Pok\u00E9mon del tutto normali!"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Non rompiamo la catena del freddo!"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "Ci occorre l\u2019aiuto di Pok\u00E9mon belli freschi per\\nconservare gli alimenti nelle condizioni ideali\\ndurante il trasporto."
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "Acqua, la fonte del gusto"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Il segreto per preparare pietanze gustose \u00E8\\nutilizzare acqua purissima! Per questo\\nci servono Pok\u00E9mon che se ne intendano!"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Polizze da suggerire caldamente"
+  },
+  {
+    "index": 177,
+    "flags": 4,
+    "text": "Il lavoro consiste nel dimostrare in modo\\ninconfutabile la pericolosit\u00E0 di alcune sostanze\\ntossiche. Mostrateci le vostre mosse migliori!"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Solo per tipi sprezzanti del pericolo"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon dall\u2019aspetto minaccioso\\nper tenere lontani i pericoli durante il trasporto\\ndi contanti."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Portavalori nati"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon dall\u2019aria forte che nessuno\\nosi avvicinare. I candidati ideali sono di tipo\\nDrago."
+  },
+  {
+    "index": 182,
+    "flags": 4,
+    "text": "Un (in)carico fra le nuvole"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Se il cielo \u00E8 il vostro elemento naturale, unitevi\\na noi: voleremo in ogni angolo del mondo!"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Consegne in tutte le condizioni"
+  },
+  {
+    "index": 185,
+    "flags": 4,
+    "text": "Abbiamo bisogno di Pok\u00E9mon di tipo Drago\\nin grado di volare anche in condizioni\\nmeteorologiche proibitive."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Trasporti tutti d\u2019un pezzo"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Vorremmo affidare il trasporto di merci di grandi\\ndimensioni a Pok\u00E9mon che abbiano i piedi ben\\npiantati per terra."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "La manutenzione non passa mai di moda"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Ci sarebbe utile l\u2019aiuto di Pok\u00E9mon di tipo\\nAcciaio che possano riparare tratti di rotaie\\ndanneggiate."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "Solo per Pok\u00E9mon resistenti al freddo"
+  },
+  {
+    "index": 193,
+    "flags": 4,
+    "text": "Abbiamo bisogno di Pok\u00E9mon di tipo Ghiaccio\\nche siano a loro agio nel trasportare merci\\nanche durante una tormenta."
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Pulito in un battibaleno!"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Cerchiamo aiuto per le pulizie in albergo!\\nPok\u00E9mon dal tocco magico, capaci di rassettare\\nvelocemente, sarebbero perfetti per lo scopo!"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "La cortesia \u00E8 il nostro forte"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "Questa mansione richiede Pok\u00E9mon di tipo\\nNormale capaci di far fronte a una clientela\\nmolto varia."
+  },
+  {
+    "index": 198,
+    "flags": 4,
+    "text": "Il segreto del gusto"
+  },
+  {
+    "index": 199,
+    "flags": 4,
+    "text": "In cucina la giusta intensit\u00E0 della fiamma \u00E8 tutto!\\nHai Pok\u00E9mon di tipo Fuoco abilissimi nel gestire\\nle fiamme? Se s\u00EC, fanno proprio al caso nostro!"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Solo per Pok\u00E9mon adorabili e fatati"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "Cercasi personale a cui affidare la pulizia\\ndelle camere. Pok\u00E9mon carini e ligi al dovere\\nsarebbero l\u2019ideale."
+  },
+  {
+    "index": 202,
+    "flags": 4,
+    "text": "Accoglienza impeccabile"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Normale che\\nsappiano accogliere gli ospiti e gestire in\\nmaniera impeccabile qualsiasi situazione."
+  },
+  {
+    "index": 204,
+    "flags": 4,
+    "text": "Una tavola... calda"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "Cercasi aiuto cuoco! Mansione perfetta\\nper Pok\u00E9mon di tipo Fuoco esperti\\nnella regolazione del calore."
+  },
+  {
+    "index": 206,
+    "flags": 4,
+    "text": "Un programma da far rizzare i capelli"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "Necessitiamo di Pok\u00E9mon adatti al nostro\\nprogramma dedicato alle fotografie spettrali.\\nGradita agghiacciante presenza."
+  },
+  {
+    "index": 208,
+    "flags": 4,
+    "text": "Un programma spettacolare"
+  },
+  {
+    "index": 209,
+    "flags": 4,
+    "text": "Hai Pok\u00E9mon di tipo Drago dall\u2019aspetto\\nimponente? Siamo giusto in cerca di comparse\\nper la realizzazione di riprese impressionanti."
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "Allegre pulizie in TV"
+  },
+  {
+    "index": 211,
+    "flags": 8,
+    "text": "Speciale fognature! Si cercano Pok\u00E9mon\\ndi tipo Veleno che si trovino a proprio agio\\nin luoghi maleodoranti."
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "Soddisfiamo ogni esigenza!"
+  },
+  {
+    "index": 213,
+    "flags": 4,
+    "text": "Assumiamo Pok\u00E9mon dotati di poteri psichici\\nche aiutino i nostri informatici a capire quello\\nvogliono esattamente i nostri clienti."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Proteggiamo la rete!"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon esperti in onde\\nelettromagnetiche per semplici mansioni\\ndi manutenzione dei circuiti di rete."
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Sicurezza informatica"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "C\u2019\u00E8 qualche Pok\u00E9mon dotato di poteri\\nparanormali che possa aiutarci a rilevare\\nbug informatici?"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Gestione lamentele"
+  },
+  {
+    "index": 219,
+    "flags": 4,
+    "text": "A tutti i Pok\u00E9mon che ne capiscono di rancore\\ne maledizioni! Cerchiamo addetti alla gestione\\ndei reclami della clientela. Interessati?"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Non si scherza col cuoco"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Cercasi urgentemente aiuto in cucina!\\nRichiesta abilit\u00E0 con il fuoco."
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Pulito e brillante!"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Si assumono Pok\u00E9mon agili su superfici scivolose\\nper incerare pavimenti."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Pi\u00F9 polizze per tutti"
+  },
+  {
+    "index": 225,
+    "flags": 4,
+    "text": "Avere al nostro fianco Pok\u00E9mon che hanno\\nvisitato l\u2019aldil\u00E0 ci aiuterebbe a raddoppiare\\nla vendita di polizze. Fatevi avanti!"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Niente paura... la vendita \u00E8 sicura"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "Cerco Pok\u00E9mon dall\u2019aspetto fosco per\\nproteggermi nella mia attivit\u00E0 di vendita\\nporta a porta di prodotti finanziari."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Graziosi receptionist cercasi"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "Per il nostro sportello accettazione avremmo\\nbisogno di Pok\u00E9mon graziosi e allegri!\\nAspettiamo con ansia le vostre candidature!"
+  },
+  {
+    "index": 230,
+    "flags": 4,
+    "text": "Assistenza di prima classe"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "Per rispondere alle pi\u00F9 svariate necessit\u00E0\\ndei nostri clienti, necessitiamo di Pok\u00E9mon\\ndi tipo Normale."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "La soluzione ai nostri problemi"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "Ricerchiamo l\u2019aiuto di Pok\u00E9mon di tipo Psico\\ncapaci di intuire le necessit\u00E0 dei clienti\\nin difficolt\u00E0."
+  },
+  {
+    "index": 234,
+    "flags": 4,
+    "text": "Un tocco di calore per le nostre camere"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "Desidereremmo affidare la pulizia delle camere\\ndei nostri clienti pi\u00F9 freddolosi a Pok\u00E9mon con\\nelevate temperature corporee."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Miscelamento di sostanze pericolose"
+  },
+  {
+    "index": 237,
+    "flags": 4,
+    "text": "Una linea sottile separa il farmaco dal veleno!\\nSe sei esperto di sostanze tossiche, preparare\\nmedicinali \u00E8 il lavoro giusto per te! Chiamaci!"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Pok\u00E9mon immuni al veleno cercasi!"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "Nel nostro laboratorio trattiamo anche sostanze\\ntossiche. Se i tuoi Pok\u00E9mon di tipo Acciaio sono\\nimmuni ai loro effetti letali, fanno al caso nostro!"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Cerchiamo buttadentro!"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "Selezioniamo Pok\u00E9mon teneri che facciano da\\nmascotte per il nostro esercizio commerciale!"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "Bosco fitto, mi ci ficco!"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Erba che ci aiutino\\na effettuare consegne in luoghi ricchi\\ndi vegetazione."
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Caccia al tomo"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Psico che sappiano\\nsfruttare i propri poteri per localizzare libri\\nnel nostro immenso archivio."
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Sollevamento testi"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon forzuti per il trasporto\\ndi volumi pesanti come vocabolari e simili."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Promozione dell\u2019occulto"
+  },
+  {
+    "index": 249,
+    "flags": 4,
+    "text": "Avremmo bisogno di Pok\u00E9mon di tipo Spettro\\nper promuovere la nostra nuova sezione\\ndedicata al soprannaturale."
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Registrazioni entomologiche"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Le raccolte di versi di Pok\u00E9mon di tipo Coleottero\\nsono l\u2019ultimo grido nel mercato discografico.\\nCerchiamo nuovo materiale per le registrazioni!"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "La musica \u00E8 nell\u2019aria"
+  },
+  {
+    "index": 253,
+    "flags": 4,
+    "text": "Accettiamo candidature da parte di Pok\u00E9mon\\nesperti nel cablaggio di apparecchiature audio\\ne altri dispositivi elettrici."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Verdure fresche tutto l\u2019anno"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Solo le verdure fresche e idratate conservano\\nintatta la propria bont\u00E0... Per questo ci serve\\nuna mano da Pok\u00E9mon di tipo Acqua!"
+  },
+  {
+    "index": 256,
+    "flags": 4,
+    "text": "Alta velocit\u00E0 ad alta quota"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "La rapidit\u00E0 della consegna \u00E8 essenziale per\\npreservare la freschezza dei prodotti!\\nPok\u00E9mon di tipo Volante, cerchiamo voi!"
+  },
+  {
+    "index": 258,
+    "flags": 4,
+    "text": "Il nostro spiedo all\u2019occhiello"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "La nostra specialit\u00E0 sono le grigliate!\\nSiamo in cerca di Pok\u00E9mon in grado di\\ndosare le fiamme per una cottura ottimale!"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Si cercano addetti al servizio clienti"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "Per noi ogni cliente \u00E8 importante! Siamo in cerca\\ndi Pok\u00E9mon di tipo Normale di comprovata\\naffidabilit\u00E0 per l\u2019assistenza dei nostri clienti."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Consegne a sorpresa"
+  },
+  {
+    "index": 263,
+    "flags": 4,
+    "text": "Il brivido \u00E8 il sale della vita! Siamo in cerca\\ndi Pok\u00E9mon che sappiano aggiungere un pizzico\\ndi terrore alla consegna dei nostri piatti!"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Crescita rigogliosa"
+  },
+  {
+    "index": 265,
+    "flags": 4,
+    "text": "Il vigore delle piante scaturisce dalla ricchezza\\ndel terreno! Cerchiamo Pok\u00E9mon di tipo Terra\\na cui affidare la preparazione di concimi."
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "Le basi del giardinaggio"
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "Un\u2019irrigazione oculata \u00E8 fondamentale per le\\npiante! Cerchiamo Pok\u00E9mon di tipo Acqua\\na cui affidare questa importante mansione."
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "Sostegno alla crescita"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Roccia che ci aiutino\\nnella coltivazione di piante che crescono\\nsolo in terreni pietrosi."
+  },
+  {
+    "index": 270,
+    "flags": 4,
+    "text": "In cerca di fiori nei boschi"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Cercare fiori nei boschi sembra facile, ma \u00E8\\nun\u2019attivit\u00E0 pericolosissima! Per questo cerchiamo\\nPok\u00E9mon di tipo Veleno, resistenti al tipo Erba."
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "Per una grigliata pi\u00F9 gustosa"
+  },
+  {
+    "index": 273,
+    "flags": 4,
+    "text": "Abbiamo bisogno di Pok\u00E9mon di tipo Drago\\nper la preparazione dei cibi prima della cottura,\\nma non chiedetemi perch\u00E9..."
+  },
+  {
+    "index": 274,
+    "flags": 4,
+    "text": "Una risorsa in cucina"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "Cosa rende rinfrescante una bevanda? Ovvio,\\nil ghiaccio! Perci\u00F2 cerchiamo Pok\u00E9mon che ne\\nsappiano creare in quantit\u00E0!"
+  },
+  {
+    "index": 276,
+    "flags": 4,
+    "text": "Un condimento essenziale"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Ci serve l\u2019aiuto di Pok\u00E9mon duri come le rocce\\nper estrarre sale dai minerali!"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "Nuova attivit\u00E0 di consegne... al volo"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Volante, cerchiamo voi\\nper consegnare piatti caldi a domicilio!"
+  },
+  {
+    "index": 280,
+    "flags": 4,
+    "text": "Acqua purissima per dessert al bacio"
+  },
+  {
+    "index": 281,
+    "flags": 4,
+    "text": "I nostri dessert sono rinfrescanti e succosi!\\nPer questo ricerchiamo Pok\u00E9mon di tipo Acqua\\nche ci aiutino con il dosaggio degli ingredienti."
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "Dessert rinfrescanti al punto giusto"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "Per mantenere i nostri semifreddi alla temperatura\\nottimale necessitiamo dell\u2019aiuto di Pok\u00E9mon\\ndi tipo Ghiaccio."
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "Le basi della cucina"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "Per assicurare la perfetta cottura dei nostri piatti\\nnecessitiamo del tocco esperto di Pok\u00E9mon\\nfiammeggianti."
+  },
+  {
+    "index": 286,
+    "flags": 4,
+    "text": "Una spruzzata di colore e profumo"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "Vorremmo dare un tocco di verde agli scaffali\\ndel nostro negozio. C\u2019\u00E8 qualche Pok\u00E9mon\\ndi tipo Erba disposto ad aiutarci?"
+  },
+  {
+    "index": 288,
+    "flags": 4,
+    "text": "Una torrefazione impeccabile"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "Potresti inviarci Pok\u00E9mon di tipo Fuoco?\\nIl loro aiuto sarebbe essenziale per la perfetta\\ntorrefazione del nostro caff\u00E8."
+  },
+  {
+    "index": 290,
+    "flags": 8,
+    "text": "Specialisti dell\u2019acqua"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "Nella preparazione del caff\u00E8 consideriamo\\ndi primaria importanza la qualit\u00E0 dell\u2019acqua.\\nC\u2019\u00E8 qualche Pok\u00E9mon esperto in materia?"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "Consegne in un batter d\u2019ali"
+  },
+  {
+    "index": 293,
+    "flags": 4,
+    "text": "Il nostro motto \u00E8 velocit\u00E0 ed eleganza!\\nCerchiamo Pok\u00E9mon di tipo Volante come\\nPelipper per i nostri servizi di consegna!"
+  },
+  {
+    "index": 294,
+    "flags": 4,
+    "text": "Aiutanti per lo smistamento pacchi"
+  },
+  {
+    "index": 295,
+    "flags": 4,
+    "text": "Assumiamo personale per lo smistamento\\ndegli ordini di elettrodomestici.\\nPok\u00E9mon esperti di metalli, vi aspettiamo!"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "Creiamo una fattoria da sogno!"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Erba, accorrete! Cerchiamo\\npersonale per il controllo qualit\u00E0 dell\u2019erba\\ndei nostri pascoli!"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Proteggiamo il raccolto!"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Coleottero, questo \u00E8 un lavoro\\nper voi! Abbiamo bisogno di aiuto per estirpare\\nle erbacce dai campi!"
+  },
+  {
+    "index": 300,
+    "flags": 4,
+    "text": "Occorrono esperti in questo campo"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "Qualsiasi Pok\u00E9mon dotato di braccia forti e\\nin grado di aiutarci con l\u2019aratura dei nostri\\nimmensi campi \u00E8 il benvenuto!"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Serve una mano al frutteto"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Chi sa curare meglio le piante dei Pok\u00E9mon\\ndi tipo Erba? Saremmo davvero felici se qualcuno\\ndi loro potesse venire a darci una mano."
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Tempo di raccolta!"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "Ci serve aiuto con la raccolta delle verdure!\\nPok\u00E9mon di tipo Coleottero, avete campo libero!"
+  },
+  {
+    "index": 306,
+    "flags": 4,
+    "text": "Irrigazione ad ampio raggio"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "Ci servono Pok\u00E9mon che ci diano una mano\\ncon l\u2019irrigazione dall\u2019alto!\\nPok\u00E9mon di tipo Volante, cerchiamo voi!"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "Mettete alla prova la vostra forza!"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "Si selezionano Pok\u00E9mon di tipo Lotta.\\nIn cantiere la forza fisica \u00E8 una risorsa preziosa!"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Fondamenta terra terra"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon che ci aiutino a spianare\\nun terreno edificabile. Meglio se di tipo Terra!"
+  },
+  {
+    "index": 312,
+    "flags": 4,
+    "text": "Attenzione: caduta massi"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Nei cantieri le rocce possono rappresentare\\nun grande pericolo. Ci sentiremmo pi\u00F9 sicuri\\ncon Pok\u00E9mon esperti in materia al nostro fianco."
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Niente di troppo serio"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "Pok\u00E9mon dallo sguardo truce a raccolta!\\nCi serve qualcuno che faccia passare la voglia\\ndi schiacciare pisolini sul lavoro agli impiegati!"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Solide basi per assemblaggio vagoni"
+  },
+  {
+    "index": 317,
+    "flags": 8,
+    "text": "Stiamo mettendo insieme una squadra\\nper assemblare vagoni e avremmo bisogno\\ndella partecipazione di Pok\u00E9mon di tipo Terra."
+  },
+  {
+    "index": 318,
+    "flags": 4,
+    "text": "Assembliamo vagoni"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "Ricerchiamo il supporto di Pok\u00E9mon di tipo\\nAcciaio esperti di ferro e macchinari di vario\\ngenere per assemblare vagoni ferroviari."
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Rodaggio dei vagoni"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "Ricerchiamo la collaborazione di Pok\u00E9mon\\ncapaci di produrre elettricit\u00E0 per alimentare\\nmacchinari per l\u2019assemblaggio di vagoni."
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "Costruiamo navi!"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Necessitiamo di Pok\u00E9mon di tipo Acciaio per\\ntagliare notevoli quantit\u00E0 di materiale siderurgico\\nda utilizzare per la costruzione delle navi."
+  },
+  {
+    "index": 324,
+    "flags": 8,
+    "text": "Scafi da ispezionare"
+  },
+  {
+    "index": 325,
+    "flags": 4,
+    "text": "Assumiamo Pok\u00E9mon di tipo Acqua per eseguire\\ncontrolli di sicurezza degli scafi sulle nostre\\ncostruzioni navali."
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "Facciamo navi di un certo livello"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon capaci di eseguire lavori\\ndi saldatura elettrica per l\u2019assemblaggio di navi\\ndi grosso tonnellaggio."
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Creiamo macchine robuste"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Terra, ci serve la vostra solidit\u00E0\\nper costruire automobili robuste e sicure!\\nCreate nuova mobilit\u00E0 con noi!"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "La robustezza sale in cattedra"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "Ci servono Pok\u00E9mon forti come l\u2019acciaio!\\nLavoriamo insieme per la produzione\\ndi automobili!"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Pok\u00E9mon che ardono di buona volont\u00E0!"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon che bruciano dalla voglia\\ndi fare! Il vostro ardore per noi \u00E8 prezioso!\\nSolo per Pok\u00E9mon roventi!"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "La prudenza non \u00E8 mai troppa"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "Gradiremmo la collaborazione di Pok\u00E9mon\\ndi tipo Veleno immuni alle sostanze tossiche."
+  },
+  {
+    "index": 336,
+    "flags": 4,
+    "text": "Esperimenti con erbe medicinali"
+  },
+  {
+    "index": 337,
+    "flags": 4,
+    "text": "Abbiamo bisogno della consulenza di Pok\u00E9mon\\nesperti di foglie, radici e piante medicinali\\nper lo sviluppo di farmaci naturali."
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "Cerchiamo tessitori di reti!"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Coleottero!\\nNecessitiamo della vostra abilit\u00E0 nel tessere\\nreti flessibili e resistenti!"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "Gelati deliziosi"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "C\u2019\u00E8 qualche Pok\u00E9mon di tipo Ghiaccio disposto\\na darci una mano nella produzione dei nostri\\ndeliziosi gelati?"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "Cerchiamo degustatori!"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "Dolce lavoretto per Pok\u00E9mon di tipo Normale!\\nTutto ci\u00F2 che devono fare \u00E8 promuovere i nostri\\ndeliziosi dolci mangiandoli di gusto!"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "L\u2019immagine pi\u00F9 dolce"
+  },
+  {
+    "index": 345,
+    "flags": 4,
+    "text": "In cerca di Pok\u00E9mon immagine per i nostri soffici\\ndolci! Morbidosi Pok\u00E9mon di tipo Folletto,\\ncerchiamo voi!"
+  },
+  {
+    "index": 346,
+    "flags": 4,
+    "text": "Aiuto per facilitare gli scavi"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Pok\u00E9mon esperti di terreni! Abbiamo bisogno\\ndella vostra esperienza per l\u2019estrazione di minerali\\na Galar. Pok\u00E9mon di tipo Terra, accorrete!"
+  },
+  {
+    "index": 348,
+    "flags": 4,
+    "text": "Impurit\u00E0 addio!"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "Ci servono Pok\u00E9mon di tipo Fuoco che con\\nla forza del loro calore rimuovano le impurit\u00E0\\ndai metalli estratti."
+  },
+  {
+    "index": 350,
+    "flags": 4,
+    "text": "I mille usi dell\u2019elettricit\u00E0"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "Ci servono Pok\u00E9mon di tipo Elettro in grado di\\nutilizzare l\u2019elettricit\u00E0 per rimuovere le impurit\u00E0\\ndel rame."
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Massi, che disperazione!"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "Vorremmo affidare dei lavori minerari a Pok\u00E9mon\\ndi tipo Roccia abituati a destreggiarsi fra pietre\\ne massi che rotolano dappertutto."
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Tessuti indistruttibili"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "Reclutiamo Pok\u00E9mon di tipo Coleottero per\\nla produzione di tessuti resistenti agli strappi."
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "Cercasi indossatori!"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "Reclutiamo Pok\u00E9mon di tipo Buio per la creazione\\ndi tessuti che non si sfilaccino nemmeno\\nin condizioni di uso estreme."
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "Tessuti per lo spazio profondo"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "Reclutiamo Pok\u00E9mon di tipo Volante per la messa\\na punto di tessuti da utilizzare nello spazio."
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "Top model cercasi"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Folletto, venite ad aiutarci\\na creare capi carini ed eleganti!"
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Filati robusti"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "Ci serve la maestria di Pok\u00E9mon di tipo\\nColeottero per la produzione di tessuti\\naltamente resistenti."
+  },
+  {
+    "index": 364,
+    "flags": 4,
+    "text": "Eccellenza tessile"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Normale per lo\\nsviluppo di semplici tessuti di buona qualit\u00E0."
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "Tessuti mitici"
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "Il nostro sogno \u00E8 creare tessuti leggendari!\\nPok\u00E9mon di tipo Drago, chi meglio di voi\\npu\u00F2 aiutarci in questa missione?!"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Tessuti dal design adorabile"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "Si richiede la collaborazione di Pok\u00E9mon\\ndi tipo Folletto per la creazione di tessuti\\nprodigiosi e dall\u2019aspetto adorabile."
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Messa a punto di scarpe sportive"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Coleottero, abbiamo bisogno\\ndelle vostre innumerevoli zampe per testare\\nle nostre scarpe sportive!"
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Messa a punto di scarpe performanti"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Lotta, abbiamo bisogno della\\nvostra potenza per testare le nostre scarpe\\nda wrestling!"
+  },
+  {
+    "index": 374,
+    "flags": 8,
+    "text": "Sviluppo di scarpe leggere"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Elettro, abbiamo bisogno della\\nvostra velocit\u00E0 fulminea per testare le nostre\\nscarpe da corsa!"
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "Corridori scatenati"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "Pok\u00E9mon di tipo Buio, abbiamo bisogno della\\nvostra birbanteria per testare le nostre scarpe\\ncon corse scalmanate!"
+  },
+  {
+    "index": 378,
+    "flags": 4,
+    "text": "\u00C8 il filo che fa il tessuto"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "Ci sarebbe utile la collaborazione di Pok\u00E9mon\\ndi tipo Coleottero per la produzione di tessuti\\ndi buona qualit\u00E0."
+  },
+  {
+    "index": 380,
+    "flags": 4,
+    "text": "Intessuti di mistero"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "Necessitiamo del tocco magico dei Pok\u00E9mon\\ndi tipo Folletto per la creazione di tessuti\\ndalle propriet\u00E0 mai viste prima."
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "Tessuti di qualit\u00E0 paranormale"
+  },
+  {
+    "index": 383,
+    "flags": 4,
+    "text": "A tutti i Pok\u00E9mon di tipo Psico!\\nAiutateci a produrre tessuti dallo stile in grado\\ndi aprire la mente!"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Creazione tessuti pregiati"
+  },
+  {
+    "index": 385,
+    "flags": 4,
+    "text": "Un filato pregiato \u00E8 la base imprescindibile\\nper produrre un tessuto di alta classe. Pok\u00E9mon\\ndi tipo Coleottero, siete disposti a collaborare?"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Cercasi Pok\u00E9mon meticolosi"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "Realizzare tessuti di qualit\u00E0 richiede costanza\\ne dedizione, il che ben si addice ai Pok\u00E9mon\\ndi tipo Normale. Qualcuno interessato?"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "Tessuti con un pizzico di magia"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "Ci piacerebbe sfruttare i poteri speciali dei\\nPok\u00E9mon di tipo Psico per rendere i nostri\\ntessuti pi\u00F9 piacevoli al tatto."
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Creazione tessuti di altissima qualit\u00E0"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "Pok\u00E9mon Coleottero, la vostra straordinaria\\nabilit\u00E0 nella tessitura ci \u00E8 indispensabile per\\nrealizzare stoffe lisce e delicate!"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "Creazione tessuti multiuso"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon di tipo Normale!\\nLavorate con noi alla creazione di tessuti\\nutili ad ogni scopo!"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "Facciamo lenti per occhiali"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "Necessitiamo di pietre durissime per lucidare\\nle nostre lenti. Cerchiamo quindi Pok\u00E9mon\\ndi tipo Roccia che possano aiutarci."
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "Nuova linea di calzature"
+  },
+  {
+    "index": 397,
+    "flags": 8,
+    "text": "Stiamo pensando di sfruttare le propriet\u00E0\\ndel filo prodotto dai Pok\u00E9mon di tipo Coleottero\\nper la realizzazione di una nuova linea scarpe."
+  },
+  {
+    "index": 398,
+    "flags": 4,
+    "text": "Il fascino della robustezza"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "Per promuovere la resistenza delle nostre\\nscarpe abbiamo bisogno della prestanza\\nfisica dei Pok\u00E9mon di tipo Lotta."
+  },
+  {
+    "index": 400,
+    "flags": 4,
+    "text": "Il fascino dell\u2019alternativo"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Per promuovere lo stile alternativo delle nostre\\nscarpe cerchiamo Pok\u00E9mon di tipo Buio\\nanticonformisti."
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Capi di altissima qualit\u00E0"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Ci\u00F2 che fa la qualit\u00E0 di una stoffa \u00E8 il filo!\\nPok\u00E9mon di tipo Coleottero, collaborate con noi!"
+  },
+  {
+    "index": 404,
+    "flags": 4,
+    "text": "Abbigliamento punk"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Per tingere i nostri tessuti vorremmo sfruttare\\nle eccezionali propriet\u00E0 delle sostanze prodotte\\ndai Pok\u00E9mon di tipo Veleno."
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Navigando a gonfie vele"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "Ricerchiamo Pok\u00E9mon di tipo Acqua\\nper effettuare spedizioni su vie fluviali\\ne marittime."
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Navigando agilmente fra i ghiacci"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "Siamo in cerca di Pok\u00E9mon di tipo Ghiaccio\\nche possano aiutarci nel trasporto di merci\\nsu mari congelati."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "Cerchiamo personale fuori dal comune!"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "Ci sarebbe utile la collaborazione di Pok\u00E9mon\\ndi tipo Folletto per la valutazione del personale."
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "Valutazione psicologica del personale"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "Reclutiamo Pok\u00E9mon di tipo Buio per osservare\\nil comportamento del personale in presenza di\\nindividui dall\u2019aria sospetta."
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "Per un trasporto sicuro"
+  },
+  {
+    "index": 415,
+    "flags": 4,
+    "text": "Abbiamo bisogno di eseguire un controllo\\ndi sicurezza sulla monorotaia. Pok\u00E9mon\\ndi tipo Elettro, questo \u00E8 un compito per voi!"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Diciamo addio allo sporco!"
+  },
+  {
+    "index": 417,
+    "flags": 4,
+    "text": "Abbiamo bisogno di Pok\u00E9mon di tipo Acqua\\nper tirare a lucido la monorotaia!"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "Manutenzione che passione"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "Vorremmo eseguire operazioni di manutenzione\\nsulla monorotaia con l\u2019aiuto della forza\\ne dell\u2019abilit\u00E0 dei Pok\u00E9mon di tipo Lotta!"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "Seminario sui PS"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base dei PS e vorremmo controllarne\\nl\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "Seminario sull\u2019Attacco"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base dell\u2019Attacco e vorremmo controllarne\\nl\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Seminario sulla Difesa"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base della Difesa e vorremmo controllarne\\nl\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Seminario sull\u2019Attacco Speciale"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base dell\u2019Attacco Speciale e vorremmo\\ncontrollarne l\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Seminario sulla Difesa Speciale"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base della Difesa Speciale e vorremmo\\ncontrollarne l\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Seminario sulla Velocit\u00E0"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "Questo seminario ha lo scopo di aumentare\\ni punti base della Velocit\u00E0 e vorremmo\\ncontrollarne l\u2019efficacia con l\u2019aiuto dei Pok\u00E9mon!"
+  },
+  {
+    "index": 432,
+    "flags": 4,
+    "text": "Essere pronti a tutto!"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "Cerchiamo Pok\u00E9mon resistenti al tipo Fuoco,\\nAcqua, Erba ed Elettro in modo da essere pronti\\nper ogni tipo di emergenza!"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Prepararsi al soprannaturale!"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "Reclutiamo Pok\u00E9mon resistenti al tipo Psico,\\nVolante e Folletto per la prevenzione di crimini\\ninsoliti e misteriosi."
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "La natura non ci coglie impreparati!"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "Siamo in cerca di Pok\u00E9mon resistenti al tipo Erba,\\nColeottero e Folletto, per le emergenze causate\\nda catastrofi naturali."
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "Fuoco o acqua, non vi temiamo!"
+  },
+  {
+    "index": 439,
+    "flags": 4,
+    "text": "In certe situazioni fuoco e acqua possono essere\\npericolosi! Cerchiamo Pok\u00E9mon che sappiano\\ngestire con sicurezza entrambi gli elementi!"
+  },
+  {
+    "index": 440,
+    "flags": 4,
+    "text": "Urge rifornimento!"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "Per spegnere il fuoco ci vuole l\u2019acqua!\\nReclutiamo Pok\u00E9mon in grado di rifornire\\ni serbatoi antincendio!"
+  },
+  {
+    "index": 442,
+    "flags": 4,
+    "text": "Aromi e relax"
+  },
+  {
+    "index": 443,
+    "flags": 4,
+    "text": "Aiutateci a rasserenare i lavoratori impegnati\\nin mansioni pericolose con il potere miracoloso\\ndi fiori e Pok\u00E9mon!"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "Consegne fino in capo al mondo"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "Siamo in cerca di Pok\u00E9mon grandi e forti\\nche non temano il sole cocente, la pioggia\\nbattente o i fulmini!"
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "Diamo una lavata a quei furgoni!"
+  },
+  {
+    "index": 447,
+    "flags": 4,
+    "text": "I furgoni che usiamo per le consegne hanno\\nbisogno di una bella ripulita! Aspettiamo\\nPok\u00E9mon adatti a questa mansione!"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Consegne floreali!"
+  },
+  {
+    "index": 449,
+    "flags": 4,
+    "text": "Abbiamo ideato un nuovo servizio per la\\nconsegna di fiori e cerchiamo Pok\u00E9mon\\nesperti di piante che ci diano una mano!"
+  },
+  {
+    "index": 450,
+    "flags": 4,
+    "text": "Inkarico segretto"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "Cerco ajutanti. Cosa da fare e segretta ma\\nil ricompenso e ben genneroso."
+  }
+]

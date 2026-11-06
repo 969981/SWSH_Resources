@@ -1,0 +1,622 @@
+[
+  {
+    "index": 0,
+    "hash": "95FE80DA5F29B646",
+    "name": "msg_ui_chika_01"
+  },
+  {
+    "index": 1,
+    "hash": "95FE7FDA5F29B493",
+    "name": "msg_ui_chika_02"
+  },
+  {
+    "index": 2,
+    "hash": "95FE7EDA5F29B2E0",
+    "name": "msg_ui_chika_03"
+  },
+  {
+    "index": 3,
+    "hash": "95FE85DA5F29BEC5",
+    "name": "msg_ui_chika_04"
+  },
+  {
+    "index": 4,
+    "hash": "47B45D6669E0F330",
+    "name": "msg_ui_chika_matching_01"
+  },
+  {
+    "index": 5,
+    "hash": "47B4606669E0F849",
+    "name": "msg_ui_chika_matching_02"
+  },
+  {
+    "index": 6,
+    "hash": "47B45F6669E0F696",
+    "name": "msg_ui_chika_matching_03"
+  },
+  {
+    "index": 7,
+    "hash": "47B4626669E0FBAF",
+    "name": "msg_ui_chika_matching_04"
+  },
+  {
+    "index": 8,
+    "hash": "47B4616669E0F9FC",
+    "name": "msg_ui_chika_matching_05"
+  },
+  {
+    "index": 9,
+    "hash": "47B4646669E0FF15",
+    "name": "msg_ui_chika_matching_06"
+  },
+  {
+    "index": 10,
+    "hash": "47B4636669E0FD62",
+    "name": "msg_ui_chika_matching_07"
+  },
+  {
+    "index": 11,
+    "hash": "47B4666669E1027B",
+    "name": "msg_ui_chika_matching_08"
+  },
+  {
+    "index": 12,
+    "hash": "47B4656669E100C8",
+    "name": "msg_ui_chika_matching_09"
+  },
+  {
+    "index": 13,
+    "hash": "47B0F86669DE11BA",
+    "name": "msg_ui_chika_matching_10"
+  },
+  {
+    "index": 14,
+    "hash": "47B0F96669DE136D",
+    "name": "msg_ui_chika_matching_11"
+  },
+  {
+    "index": 15,
+    "hash": "9B5FF953376FE6FD",
+    "name": "msg_ui_chika_time_00"
+  },
+  {
+    "index": 16,
+    "hash": "9B5FF853376FE54A",
+    "name": "msg_ui_chika_time_01"
+  },
+  {
+    "index": 17,
+    "hash": "9B5FF753376FE397",
+    "name": "msg_ui_chika_time_02"
+  },
+  {
+    "index": 18,
+    "hash": "AC6C4CC50F4133F8",
+    "name": "msg_ui_chika_playername_00"
+  },
+  {
+    "index": 19,
+    "hash": "AC6C4DC50F4135AB",
+    "name": "msg_ui_chika_playername_01"
+  },
+  {
+    "index": 20,
+    "hash": "059549ED01E8A7DC",
+    "name": "msg_ui_chika_wait"
+  },
+  {
+    "index": 21,
+    "hash": "A108ACB483AD8EF7",
+    "name": "msg_ui_chika_passwd"
+  },
+  {
+    "index": 22,
+    "hash": "436FB1F9099BE2ED",
+    "name": "msg_ui_chika_confirmation_00"
+  },
+  {
+    "index": 23,
+    "hash": "436FB0F9099BE13A",
+    "name": "msg_ui_chika_confirmation_01"
+  },
+  {
+    "index": 24,
+    "hash": "436FAFF9099BDF87",
+    "name": "msg_ui_chika_confirmation_02"
+  },
+  {
+    "index": 25,
+    "hash": "436FAEF9099BDDD4",
+    "name": "msg_ui_chika_confirmation_03"
+  },
+  {
+    "index": 26,
+    "hash": "436FADF9099BDC21",
+    "name": "msg_ui_chika_confirmation_04"
+  },
+  {
+    "index": 27,
+    "hash": "436FACF9099BDA6E",
+    "name": "msg_ui_chika_confirmation_05"
+  },
+  {
+    "index": 28,
+    "hash": "436FABF9099BD8BB",
+    "name": "msg_ui_chika_confirmation_06"
+  },
+  {
+    "index": 29,
+    "hash": "436FAAF9099BD708",
+    "name": "msg_ui_chika_confirmation_07"
+  },
+  {
+    "index": 30,
+    "hash": "436FA9F9099BD555",
+    "name": "msg_ui_chika_confirmation_08"
+  },
+  {
+    "index": 31,
+    "hash": "436FA8F9099BD3A2",
+    "name": "msg_ui_chika_confirmation_09"
+  },
+  {
+    "index": 32,
+    "hash": "436C2BF90998C964",
+    "name": "msg_ui_chika_confirmation_10"
+  },
+  {
+    "index": 33,
+    "hash": "BC0FF11054D8D635",
+    "name": "msg_ui_chika_communication_standby"
+  },
+  {
+    "index": 34,
+    "hash": "F8525049AC310E75",
+    "name": "msg_ui_chika_option_00"
+  },
+  {
+    "index": 35,
+    "hash": "F8524F49AC310CC2",
+    "name": "msg_ui_chika_option_01"
+  },
+  {
+    "index": 36,
+    "hash": "F8524E49AC310B0F",
+    "name": "msg_ui_chika_option_02"
+  },
+  {
+    "index": 37,
+    "hash": "F8524D49AC31095C",
+    "name": "msg_ui_chika_option_03"
+  },
+  {
+    "index": 38,
+    "hash": "F8524C49AC3107A9",
+    "name": "msg_ui_chika_option_04"
+  },
+  {
+    "index": 39,
+    "hash": "F8524B49AC3105F6",
+    "name": "msg_ui_chika_option_05"
+  },
+  {
+    "index": 40,
+    "hash": "1234AA598203CB94",
+    "name": "msg_ui_chika_rental_00"
+  },
+  {
+    "index": 41,
+    "hash": "1234AB598203CD47",
+    "name": "msg_ui_chika_rental_01"
+  },
+  {
+    "index": 42,
+    "hash": "1234AC598203CEFA",
+    "name": "msg_ui_chika_rental_02"
+  },
+  {
+    "index": 43,
+    "hash": "1234AD598203D0AD",
+    "name": "msg_ui_chika_rental_03"
+  },
+  {
+    "index": 44,
+    "hash": "1234A6598203C4C8",
+    "name": "msg_ui_chika_rental_04"
+  },
+  {
+    "index": 45,
+    "hash": "B834AC251E8C60FC",
+    "name": "msg_ui_chika_rental_parent"
+  },
+  {
+    "index": 46,
+    "hash": "A936C77D33A4EA1A",
+    "name": "msg_ui_chika_hp_00"
+  },
+  {
+    "index": 47,
+    "hash": "A936C87D33A4EBCD",
+    "name": "msg_ui_chika_hp_01"
+  },
+  {
+    "index": 48,
+    "hash": "B4AFC71136CE2325",
+    "name": "msg_ui_chika_atk"
+  },
+  {
+    "index": 49,
+    "hash": "E016B7114F69E428",
+    "name": "msg_ui_chika_def"
+  },
+  {
+    "index": 50,
+    "hash": "110938B9DC87BAF4",
+    "name": "msg_ui_chika_spatk"
+  },
+  {
+    "index": 51,
+    "hash": "2A65A8B9EAB789C9",
+    "name": "msg_ui_chika_spdef"
+  },
+  {
+    "index": 52,
+    "hash": "B4EFE51137043A14",
+    "name": "msg_ui_chika_agi"
+  },
+  {
+    "index": 53,
+    "hash": "DACAD410D7F38713",
+    "name": "msg_ui_chika_status"
+  },
+  {
+    "index": 54,
+    "hash": "4F12A2307DBCC0C4",
+    "name": "msg_ui_chika_tokusei_00"
+  },
+  {
+    "index": 55,
+    "hash": "4F12A3307DBCC277",
+    "name": "msg_ui_chika_tokusei_01"
+  },
+  {
+    "index": 56,
+    "hash": "225A416840F5C88D",
+    "name": "msg_ui_chika_waza_00"
+  },
+  {
+    "index": 57,
+    "hash": "225A406840F5C6DA",
+    "name": "msg_ui_chika_waza_01"
+  },
+  {
+    "index": 58,
+    "hash": "B3DB9B7767F71CA5",
+    "name": "msg_ui_chika_select_01"
+  },
+  {
+    "index": 59,
+    "hash": "B3DB987767F7178C",
+    "name": "msg_ui_chika_select_02"
+  },
+  {
+    "index": 60,
+    "hash": "B3DB997767F7193F",
+    "name": "msg_ui_chika_select_03"
+  },
+  {
+    "index": 61,
+    "hash": "B3DB967767F71426",
+    "name": "msg_ui_chika_select_04"
+  },
+  {
+    "index": 62,
+    "hash": "B3DB977767F715D9",
+    "name": "msg_ui_chika_select_05"
+  },
+  {
+    "index": 63,
+    "hash": "A1AAB4CA1C2E690A",
+    "name": "msg_ui_chika_vote_00"
+  },
+  {
+    "index": 64,
+    "hash": "A1AAB5CA1C2E6ABD",
+    "name": "msg_ui_chika_vote_01"
+  },
+  {
+    "index": 65,
+    "hash": "A1AAB2CA1C2E65A4",
+    "name": "msg_ui_chika_vote_02"
+  },
+  {
+    "index": 66,
+    "hash": "EB63118AB58A0B36",
+    "name": "msg_ui_chika_pokeget_01"
+  },
+  {
+    "index": 67,
+    "hash": "F1BCBADBE22A27D3",
+    "name": "msg_ui_chika_pokeget_sel_01"
+  },
+  {
+    "index": 68,
+    "hash": "F1BCBBDBE22A2986",
+    "name": "msg_ui_chika_pokeget_sel_02"
+  },
+  {
+    "index": 69,
+    "hash": "EB63108AB58A0983",
+    "name": "msg_ui_chika_pokeget_02"
+  },
+  {
+    "index": 70,
+    "hash": "EB630F8AB58A07D0",
+    "name": "msg_ui_chika_pokeget_03"
+  },
+  {
+    "index": 71,
+    "hash": "06AB1154E37EE081",
+    "name": "msg_ui_chika_healevent_01"
+  },
+  {
+    "index": 72,
+    "hash": "06AB0E54E37EDB68",
+    "name": "msg_ui_chika_healevent_02"
+  },
+  {
+    "index": 73,
+    "hash": "06AB0F54E37EDD1B",
+    "name": "msg_ui_chika_healevent_03"
+  },
+  {
+    "index": 74,
+    "hash": "109324D3F12C6140",
+    "name": "msg_ui_chika_itemevent_01"
+  },
+  {
+    "index": 75,
+    "hash": "109327D3F12C6659",
+    "name": "msg_ui_chika_itemevent_02"
+  },
+  {
+    "index": 76,
+    "hash": "109326D3F12C64A6",
+    "name": "msg_ui_chika_itemevent_03"
+  },
+  {
+    "index": 77,
+    "hash": "109329D3F12C69BF",
+    "name": "msg_ui_chika_itemevent_04"
+  },
+  {
+    "index": 78,
+    "hash": "109328D3F12C680C",
+    "name": "msg_ui_chika_itemevent_05"
+  },
+  {
+    "index": 79,
+    "hash": "10932BD3F12C6D25",
+    "name": "msg_ui_chika_itemevent_06"
+  },
+  {
+    "index": 80,
+    "hash": "A93B3CE7510D2CA3",
+    "name": "msg_ui_chika_tradeevent_01"
+  },
+  {
+    "index": 81,
+    "hash": "A93B3DE7510D2E56",
+    "name": "msg_ui_chika_tradeevent_02"
+  },
+  {
+    "index": 82,
+    "hash": "4CAED58AE6249590",
+    "name": "msg_ui_chika_tradeevent_02_01"
+  },
+  {
+    "index": 83,
+    "hash": "A93B3EE7510D3009",
+    "name": "msg_ui_chika_tradeevent_03"
+  },
+  {
+    "index": 84,
+    "hash": "A93B3FE7510D31BC",
+    "name": "msg_ui_chika_tradeevent_04"
+  },
+  {
+    "index": 85,
+    "hash": "A93B40E7510D336F",
+    "name": "msg_ui_chika_tradeevent_05"
+  },
+  {
+    "index": 86,
+    "hash": "A93B41E7510D3522",
+    "name": "msg_ui_chika_tradeevent_06"
+  },
+  {
+    "index": 87,
+    "hash": "7AC4D4B30F05F69C",
+    "name": "msg_ui_chika_storm_01"
+  },
+  {
+    "index": 88,
+    "hash": "5AA45D508B6A45B5",
+    "name": "msg_ui_chika_result_00"
+  },
+  {
+    "index": 89,
+    "hash": "5AA45C508B6A4402",
+    "name": "msg_ui_chika_result_01"
+  },
+  {
+    "index": 90,
+    "hash": "5AA45B508B6A424F",
+    "name": "msg_ui_chika_result_02"
+  },
+  {
+    "index": 91,
+    "hash": "5AA45A508B6A409C",
+    "name": "msg_ui_chika_result_03"
+  },
+  {
+    "index": 92,
+    "hash": "5AA459508B6A3EE9",
+    "name": "msg_ui_chika_result_04"
+  },
+  {
+    "index": 93,
+    "hash": "5AA458508B6A3D36",
+    "name": "msg_ui_chika_result_05"
+  },
+  {
+    "index": 94,
+    "hash": "5AA457508B6A3B83",
+    "name": "msg_ui_chika_result_06"
+  },
+  {
+    "index": 95,
+    "hash": "5AA456508B6A39D0",
+    "name": "msg_ui_chika_result_07"
+  },
+  {
+    "index": 96,
+    "hash": "BAC3102F3B93A787",
+    "name": "msg_ui_chika_result_07_plural"
+  },
+  {
+    "index": 97,
+    "hash": "5AA465508B6A534D",
+    "name": "msg_ui_chika_result_08"
+  },
+  {
+    "index": 98,
+    "hash": "5AA464508B6A519A",
+    "name": "msg_ui_chika_result_09"
+  },
+  {
+    "index": 99,
+    "hash": "C9505F21EC08B97D",
+    "name": "msg_ui_chika_result_09_plural"
+  },
+  {
+    "index": 100,
+    "hash": "B77C5DDD9EF78C2B",
+    "name": "msg_ui_chika_result_num"
+  },
+  {
+    "index": 101,
+    "hash": "AD344A631018D4EC",
+    "name": "msg_ui_chika_result_num_x"
+  },
+  {
+    "index": 102,
+    "hash": "3E76468074CDBE43",
+    "name": "msg_ui_chika_result_num_small"
+  },
+  {
+    "index": 103,
+    "hash": "A2899BC0A0BEDC04",
+    "name": "msg_ui_chika_result_num_small_x"
+  },
+  {
+    "index": 104,
+    "hash": "497158956C4435B0",
+    "name": "msg_ui_chika_result_next"
+  },
+  {
+    "index": 105,
+    "hash": "11AA55A27533ACEE",
+    "name": "msg_ui_chika_result_detail_01"
+  },
+  {
+    "index": 106,
+    "hash": "11AA54A27533AB3B",
+    "name": "msg_ui_chika_result_detail_02"
+  },
+  {
+    "index": 107,
+    "hash": "11AA53A27533A988",
+    "name": "msg_ui_chika_result_detail_03"
+  },
+  {
+    "index": 108,
+    "hash": "11AA5AA27533B56D",
+    "name": "msg_ui_chika_result_detail_04"
+  },
+  {
+    "index": 109,
+    "hash": "11AA59A27533B3BA",
+    "name": "msg_ui_chika_result_detail_05"
+  },
+  {
+    "index": 110,
+    "hash": "11AA58A27533B207",
+    "name": "msg_ui_chika_result_detail_06"
+  },
+  {
+    "index": 111,
+    "hash": "986DD7455005B5A1",
+    "name": "msg_ui_chika_endless_record_01"
+  },
+  {
+    "index": 112,
+    "hash": "986DD4455005B088",
+    "name": "msg_ui_chika_endless_record_02"
+  },
+  {
+    "index": 113,
+    "hash": "986DD5455005B23B",
+    "name": "msg_ui_chika_endless_record_03"
+  },
+  {
+    "index": 114,
+    "hash": "986DDA455005BABA",
+    "name": "msg_ui_chika_endless_record_04"
+  },
+  {
+    "index": 115,
+    "hash": "986DDB455005BC6D",
+    "name": "msg_ui_chika_endless_record_05"
+  },
+  {
+    "index": 116,
+    "hash": "986DD8455005B754",
+    "name": "msg_ui_chika_endless_record_06"
+  },
+  {
+    "index": 117,
+    "hash": "986DD9455005B907",
+    "name": "msg_ui_chika_endless_record_07"
+  },
+  {
+    "index": 118,
+    "hash": "986DCE455005A656",
+    "name": "msg_ui_chika_endless_record_08"
+  },
+  {
+    "index": 119,
+    "hash": "C1B0E0F7641A1118",
+    "name": "msg_ui_chika_infomsg_01"
+  },
+  {
+    "index": 120,
+    "hash": "C1B0E3F7641A1631",
+    "name": "msg_ui_chika_infomsg_02"
+  },
+  {
+    "index": 121,
+    "hash": "C1B0E2F7641A147E",
+    "name": "msg_ui_chika_infomsg_03"
+  },
+  {
+    "index": 122,
+    "hash": "C6867D707715E971",
+    "name": "msg_ui_chika_first_01"
+  },
+  {
+    "index": 123,
+    "hash": "4BFF23FDE2AD8F86",
+    "name": "msg_chika_max"
+  }
+]

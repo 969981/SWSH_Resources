@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "It\u2019s full of cardboard boxes containing\\nelectrical appliances."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "It\u2019s full of cardboard boxes with electrical\\nappliances in them.\\c\\nOh? Rotom would like to investigate the motors\\nof the electrical appliances...\\c\\nIs that OK?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Rotom reluctantly gave up on entering a motor..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Which Rotom will you allow to enter a motor?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "That Pok\u00E9mon can\u2019t enter a motor."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "An Egg can\u2019t enter a motor."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Which appliance\u2019s motor will you allow\\n[VAR 0102(0000)] to enter?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Microwave oven"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Washing machine"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Electric fan"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Refrigerator"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Lawnmower"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Recall"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Cancel"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] entered the motor."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] is trying to learn\\n[VAR 0107(0001)].\\c\\nBut [VAR 0102(0000)] can\u2019t learn more than\\nfour moves.\\c\\nDelete a move to make room for\\n[VAR 0107(0001)]?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Give up on learning the move\\n[VAR 0107(0001)]?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)].\\c\\n[VAR 0102(0000)] emerged from the motor."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0006)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0002)].\\c\\nAnd..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] forgot\\n[VAR 0107(0002)]..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] has already entered that\\nappliance motor."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] emerged from the motor."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hasn\u2019t entered a motor."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] reluctantly gave up on entering\\na motor..."
+  }
+]

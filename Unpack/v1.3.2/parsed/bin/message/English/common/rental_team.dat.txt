@@ -1,0 +1,56 @@
+[VAR 0100(0000)]
+[VAR 0101(0000)]
+Lv. [VAR 0202(0000)]
+[VAR 0107(0000)]
+Ability
+[VAR 0106(0000)]
+Held Item
+[VAR 0109(0000)]
+Team ID
+[VAR 012D(0000)]
+Team Name
+[VAR 01BF(0000)]
+Rental
+[~ 13]
+Manage teams you’re renting
+Manage teams to share
+What do you want to do with this Rental Team?
+Borrow
+Quit
+Empty
+Return
+What do you want to do with this Battle Team?
+Make it public
+Don’t make it public
+Check
+Please select a Battle Team.
+Please select a Rental Team.
+Rental 1
+Rental 2
+Rental 3
+Rental 4
+Rental 5
+Shared 1
+Shared 2
+Shared 3
+Shared 4
+Shared 5
+Rental [VAR 0200(0000)]
+Shared [VAR 0200(0000)]
+This team will be returned.\nIs that OK?
+Yes
+No
+The Battle Team has been returned.\c
+This team will be made public.\nIs that OK?
+The Battle Team has been made public.\c
+This team will no longer be public.\nIs that OK?
+This team is no longer public.\c
+Communicating...
+Would you like to borrow this team?
+You borrowed the Battle Team.\c
+ Confirm
+ Back
+ Help
+No team was found.\c
+There is a problem with at least one Pokémon\nin this Battle Team.\c
+Saving...\nDon’t turn off the power.

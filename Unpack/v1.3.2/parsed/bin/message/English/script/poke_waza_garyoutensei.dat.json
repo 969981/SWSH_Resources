@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Let me guess! You want me to teach Dragon\\nAscent to your Pok\u00E9mon. Am I correct?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "You don\u2019t seem to have Rayquaza\u2014the only\\nPok\u00E9mon that can learn Dragon Ascent."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Come back any time you need my help."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon do you want me to teach\\nthe move to?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "That Pok\u00E9mon can\u2019t learn Dragon Ascent.\\nOnly Rayquaza can learn the move."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "I\u2019ve never heard of an Egg that can use\\nDragon Ascent!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "That Rayquaza has already learned\\nDragon Ascent."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Do you want me to teach Dragon Ascent\\nto that [VAR 0101(0000)] of yours?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Dragon Ascent is a powerful move that only\\nRayquaza can use.\\c\\nThey say its power is so strong that even a\\nhuge meteoroid can be broken into pieces with\\r\\none attack."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  }
+]

@@ -1,0 +1,20 @@
+N. [VAR 0202(0000)]
+[VAR 0102(0000)]
+[VAR 0202(0000)]
++ [VAR 0202(0000)]
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
++ [VAR 0206(0001,202F)]
+Votre [VAR 1101(00FD,0607)]Pokémonéquipe a gagné des Points d’Expérience !\c
+[VAR BE05(0005)][VAR 0102(0000)] monte au N. [VAR 0202(0001)] ![VAR BE05(0001)]
+Il apprend [VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 010C(0000)] veut apprendre\n[VAR 0107(0001)].\c\nVoulez-vous oublier une capacité pour apprendre\n[VAR 0107(0001)] ?
+1[WAIT 20], 2[WAIT 20], [WAIT 20]... [WAIT 20]... Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 010C(0000)] n’a pas appris\n[VAR 0107(0001)].\c
+Vo[VAR 1101(00FD,0D0D)]tre Pokémon as Pokémon ont gagné des Points d’Expérience\ngrâce au camping !\c
+Oublier une capacité
+Garder les anciennes capacités
