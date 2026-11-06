@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oh! [VAR 0102(0000)] si sta evolvendo!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "L\u2019evoluzione di [VAR 0102(0000)]\\n\u00E8 stata bloccata!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Congratulazioni! [VAR 0102(0000)] si \u00E8\\nevoluto in [VAR 0101(0001)]!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] non ha imparato\\n[VAR 0107(0001)]!\\c"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 0102(0000)] vorrebbe imparare\\n[VAR 0107(0001)].\\c\\nVuoi che dimentichi una mossa e\\nal suo posto impari [VAR 0107(0001)]?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Fai dimenticare"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Non far dimenticare"
+  }
+]

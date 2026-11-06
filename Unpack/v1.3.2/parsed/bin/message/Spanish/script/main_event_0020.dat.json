@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Hola! \u00BFHay alguien en casa?[VAR 0114(0005)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Ey, \u00BFqu\u00E9 tal, [VAR 0100(0000)]?\\c\\nAnda, \u00BFese es tu m\u00F3vil nuevo? \u00BFLo est\u00E1s\\nestrenando viendo el combate de exhibici\u00F3n\\r\\nde Lionel?\\c\\n\u00A1No te olvides de darle \u00E1nimos con la pose\\nCharizard![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Hola, Paul, \u00BFqu\u00E9 haces aqu\u00ED? \u00BFNo es hoy el gran\\nd\u00EDa?[VAR 0114(0008)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00A1Hola! \u00A1Pues s\u00ED! Por eso he venido lo m\u00E1s r\u00E1pido\\nque he podido a buscar a [VAR 0100(0000)].[VAR 0114(0005)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No vale la pena estarse pegado a la pantalla.\\nTotal, \u00A1en casa grabamos todos los encuentros![VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1V\u00E1monos, [VAR 0100(0000)]!\\c\\n\u00A1Y tr\u00E1ete la Bolsa, que seguro que cae alg\u00FAn\\nregalillo![VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Que tenga un buen d\u00EDa![VAR 0114(0005)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 sucede, cari\u00F1o?\\nPaul te est\u00E1 esperando fuera.[VAR 0114(0008)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Si buscas tu Bolsa, est\u00E1 en tu habitaci\u00F3n.\\n\u00A1Y no te olvides de llevarte el gorro![VAR 0114(0008)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1Has cogido la antigua Bolsa de tu padre y te\\nhas puesto el gorro!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1Has cogido la antigua Bolsa de tu madre y te\\nhas puesto el gorro!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Pero qu\u00E9 guap[VAR 1100(00FF,0101)]oa est\u00E1s, hij[VAR 1100(00FF,0101)]oa!\\c\\nVenga, no hagas esperar m\u00E1s a Paul. \u00A1Ah, y que\\nno se os ocurra adentraros en el bosque, que os\\r\\nconozco![VAR 0114(0008)]"
+  }
+]

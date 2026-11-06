@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Je vois que tu as trouv\u00E9 un nouveau compagnon\\npour Moumouton, Nabil\u202F?[VAR 0114(000A)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Et si j\u2019ai bien tout suivi, tu dois donc \u00EAtre\\n[VAR 0100(0000)].\\c\\nMa petite Sonya a d\u00FB te confier un Pok\u00E9dex.\\nRemplis-le bien scrupuleusement\u202F![VAR 0114(000A)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0100(0000)], tu connais le Dynamax\u202F?[VAR 0114(0004)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "La Professeure Magnolia \u00E9tudie ce ph\u00E9nom\u00E8ne.\\c\\nIl va falloir que tu potasses le sujet,\\nsi tu veux l\u2019utiliser en combat, toi aussi.[VAR 0114(0004)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Tarak, cesse donc de bassiner tout le monde\\navec tes histoires.\\c\\nIl n\u2019y a pas que les Pok\u00E9mon, dans la vie\u202F!\\nOn pourrait parler th\u00E9s, \u00E7a nous changerait.[VAR 0114(000A)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Dites, Professeure...\\c\\nEst-ce que vous voudriez bien convaincre Tarak\\nde nous \u00E9crire une Lettre de Recommandation,\\r\\npour le D\u00E9fi des Ar\u00E8nes\u202F?[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Quoi\u202F? Mais, comment \u00E7a\u202F?\\nTarak, pourquoi ne veux-tu pas les recommander\u202F?[VAR 0114(000A)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Nabil et [VAR 0100(0000)] ne sont encore que\\ndes enfants, ils ne connaissent rien aux Pok\u00E9mon.\\r\\nIls sont encore novices\u202F![VAR 0114(0004)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Balivernes\u202F! C\u2019est toi qui parles tout le temps\\nde faire de Galar une r\u00E9serve de Super\\r\\nDresseurs. \u00C7a ne risque pas d\u2019arriver si tu ne fais\\r\\nrien pour les aider\u202F![VAR 0114(000A)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "C\u2019est... c\u2019est pas faux... J\u2019avais compl\u00E8tement\\nzapp\u00E9 cet aspect des choses.\\c\\nApr\u00E8s tout, si je leur ai confi\u00E9 un Pok\u00E9mon\\nchacun, c\u2019est pour qu\u2019ils s\u2019entra\u00EEnent.[VAR 0114(0004)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Bon, c\u2019est d\u00E9cid\u00E9\u202F! Si vous voulez que je vous\\nrecommande, les minus, il va falloir assurer\u202F!\\c\\nMontrez-moi que vous en avez dans le ventre\u202F!\\nJe vous soigne vos Pok\u00E9mon, et c\u2019est parti\u202F![VAR 0114(0004)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Trop bien\u202F!\\nJe t\u2019attends dehors, [VAR 0100(0000)]\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Les Pok\u00E9mon n\u2019aiment rien tant qu\u2019un bon combat\\no\u00F9 ils peuvent tout donner. Vous apprendrez\\r\\nqu\u2019il en va s\u00FBrement de m\u00EAme pour vous.[VAR 0114(000A)]"
+  }
+]

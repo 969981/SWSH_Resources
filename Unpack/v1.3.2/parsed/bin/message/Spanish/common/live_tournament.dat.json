@@ -1,0 +1,552 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Participar en un Torneo en Directo"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Recibir Certificado Digital de Jugador"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Retirarme del torneo"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Torneo en Directo"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Resultados de [VAR 0100(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "N\u00FAmero de combates:"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Victorias:"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Derrotas:"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]\u2642[VAR FF00(0000)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]\u2640[VAR FF00(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Nv. "
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Para participar en un Torneo en Directo,\\nnecesitas un Certificado Digital de Jugador.\\c\\n\u00BFC\u00F3mo quieres recibirlo?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Recibiendo el Certificado Digital de Jugador...\\nPulsa el bot\u00F3n B para cancelar."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Se ha cancelado la recepci\u00F3n del Certificado\\nDigital de Jugador.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Se ha recibido el Certificado Digital de Jugador.\\c"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Se ha producido un error al recibir el Certificado\\nDigital de Jugador.\\c\\nInt\u00E9ntalo de nuevo.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Has librado el n\u00FAmero de combates necesario.\\n\u00A1Bien hecho!\\c"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00BFQuieres interrumpir la comunicaci\u00F3n?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Se ha interrumpido la comunicaci\u00F3n."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u00BFQuieres registrar un Equipo de Combate para\\nparticipar en el torneo?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "\u00BFQuieres retirarte del torneo\\n[VAR 01AF(0000)]?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Si te retiras ahora, no podr\u00E1s volver a participar\\nen el torneo\\r\\n[VAR 01AF(0000)].\\c\\n\u00BFSeguro que quieres retirarte?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Te has retirado del torneo\\n[VAR 01AF(0000)]\\r\\ny se ha desbloqueado tu Equipo de Combate.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Se ha interrumpido el registro del Equipo de\\nCombate.\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u00A1Todav\u00EDa no has librado ning\u00FAn combate!\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Buscando contrincante..."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Conexi\u00F3n en curso...\\nPor favor, espera."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Pulsa el bot\u00F3n A cuando se d\u00E9 la se\u00F1al para\\ncomenzar."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Vuestros reglamentos del torneo no coinciden.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[~ 65]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Se ha completado la transmisi\u00F3n de datos.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00BFPrefieres no registrar el Equipo de Combate?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Guardando...\\nEspera unos instantes."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Ya te has inscrito en este torneo.\\c"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Registrar"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Se ha cancelado tu participaci\u00F3n en el torneo\\n[VAR 01AF(0000)].\\c"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "No puedes participar en este torneo.\\c"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Organizar un Torneo en Directo"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "Obtener por modo LAN"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Participar en un torneo propio"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "Establecer reglamento"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Consultar reglamento"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Observar combates"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Recibiendo por modo LAN...\\nPulsa el bot\u00F3n B para cancelar."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Ayuda"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": " Men\u00FA"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Fecha"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[~ 86]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "[~ 87]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "[~ 88]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "[~ 89]"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Combatir"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00BFQuieres borrar este reglamento?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Se ha borrado el reglamento.\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Distribuir"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Borrar"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "\u00BFQuieres participar en el torneo que has\\norganizado?"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[VAR 0200(0000)]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "\u00A1El combate comenzar\u00E1 en breve!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Combatir en modo LAN"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Todav\u00EDa no has creado ning\u00FAn torneo.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "\u00BFQuieres participar en un nuevo torneo?"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Participar en un nuevo torneo"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Consultar datos de un torneo anterior"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Ver combates en modo LAN"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Si te retiras ahora, es posible que no puedas\\nvolver a participar en el torneo.\\c\\nCons\u00FAltalo con el organizador.\\c\\n\u00BFSeguro que quieres retirarte del torneo\\n[VAR 01AF(0000)]?"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Se ha guardado el reglamento.\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "No puedes participar en el torneo, ya que la\\nversi\u00F3n del software est\u00E1 obsoleta.\\c\\nActual\u00EDzalo a la \u00FAltima versi\u00F3n si deseas\\nparticipar.\\c"
+  }
+]

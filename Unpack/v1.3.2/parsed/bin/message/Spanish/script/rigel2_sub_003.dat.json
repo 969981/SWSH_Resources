@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00BFQuieres emprender una Aventura Dinamax?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00A1Por supuesto!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFEn qu\u00E9 consiste?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No, gracias"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Seg\u00FAn mis notas, ya conoces la ubicaci\u00F3n de\\nalg\u00FAn Pok\u00E9mon interesante, \u00BFno es verdad?\\c\\n\u00BFQu\u00E9 Pok\u00E9mon te has propuesto ir a buscar hoy?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ya has atrapado a [VAR 0101(0000)], por lo que,\\nsi te lo vuelves a encontrar, [VAR FF00(0001)]no podr\u00E1s capturarlo[VAR FF00(0000)].\\c\\n\u00BFQuieres partir de todas formas?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00A1Veo que te topaste con [VAR 0101(0000)] en tu\\naventura anterior!\\c\\nComo tengo su ubicaci\u00F3n registrada, puedes\\nvolver a intentarlo si quieres. \u00BFQu\u00E9 te parece?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Cualquiera"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Una Aventura Dinamax es una incursi\u00F3n especial\\ndonde deber\u00E1s explorar el Supernido Dinamax\\r\\nen compa\u00F1\u00EDa de un Pok\u00E9mon de pr\u00E9stamo."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Formar\u00E1s equipo con otros tres Entrenadores,\\ny entre los cuatro decidir\u00E9is qu\u00E9 camino seguir\\r\\npara llegar al fondo del nido, donde os esperar\u00E1\\r\\nun Pok\u00E9mon legendario dinamaxizado."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Al terminar cada aventura, recibir\u00E1s Maxinium\\ncomo premio.\\c\\nTodos los Pok\u00E9mon que hayas atrapado se\\nquedar\u00E1n para ayudarme con mi investigaci\u00F3n,\\r\\nsalvo uno que podr\u00E1s escoger y llevarte contigo."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Parece ser que te retiraste de la \u00FAltima Aventura\\nDinamax antes de que terminase.\\c\\nAl hacerlo pones en un aprieto a los dem\u00E1s\\nmiembros de tu equipo, as\u00ED que procura que no\\r\\nvuelva a ocurrir, \u00BFde acuerdo?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Parece ser que has abandonado a medias varias\\nAventuras Dinamax.\\c\\nAl hacerlo pones en un aprieto a los dem\u00E1s\\nmiembros de tu equipo.\\c\\nPara comprobar que esta vez vas en serio, antes\\nde dejar que te unas a otro equipo necesito que\\r\\nme entregues [VAR 0201(0000)] fragmento[VAR 1101(0000,0100)]s de Maxinium.\\c\\n\u00BFQuieres d\u00E1rmelos ahora?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "No podr\u00E1s participar en m\u00E1s Aventuras Dinamax\\nhasta que me entregues los fragmentos de\\r\\nMaxinium que te he pedido."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "No tienes suficiente Maxinium..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Puedes conseguir Maxinium en las Incursiones\\nDinamax de las Nieves de la Corona."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "La pr\u00F3xima vez que participes en una Aventura\\nDinamax, no te retires hasta haber llegado hasta\\r\\nel final, \u00BFde acuerdo?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1Excelente trabajo! Espero que volvamos a\\ncolaborar pronto."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u00A1Te ha faltado muy poco! La pr\u00F3xima vez seguro\\nque lo conseguir\u00E1s."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00BFQuieres que registre la ubicaci\u00F3n de\\n[VAR 0101(0000)] para que puedas intentarlo de\\r\\nnuevo m\u00E1s tarde?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Ya no puedo registrar m\u00E1s ubicaciones...\\n\u00BFQuieres que borre alguna para hacer sitio?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "De acuerdo. No registrar\u00E9 por ahora la ubicaci\u00F3n\\nde [VAR 0101(0000)]."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "De acuerdo. Sustituir\u00E9 la ubicaci\u00F3n de\\n[VAR 0101(0001)] por la de [VAR 0101(0000)]."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00A1Ya est\u00E1! Ubicaci\u00F3n registrada."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1Espero volver a tener la oportunidad de trabajar\\ncontigo pronto!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Vaya, qu\u00E9 pena. Lo har\u00E1s mejor la pr\u00F3xima vez."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00A1Bienvenid[VAR 1100(00FF,0101)]oa de nuevo!\\c\\n\u00BFQuieres que deje registrada la ubicaci\u00F3n de\\n[VAR 0101(0000)]?"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Entendido. Dejar\u00E9 la ubicaci\u00F3n registrada."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Entendido. Borrar\u00E9 la ubicaci\u00F3n del registro."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u00BFEh? Ah... eres t\u00FA.\\c\\nVuelve a hablar conmigo cuando tengas m\u00E1s\\nexperiencia en las Aventuras Dinamax."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Qu\u00E9, \u00BFte gustan las Aventuras Dinamax?"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u00A1Si ya lo sab\u00EDa yo! Se nota que has participado en\\nmuchas ya."
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Ah, pues vaya."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Como veo que eres tod[VAR 1100(00FF,0101)]oa un[VAR 1100(00FF,0100)]a profesional de las\\nAventuras Dinamax, \u00BFqu\u00E9 te parecer\u00EDa participar\\r\\nen el modo infinito? \u00A1Lo he inventado yo!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00BFQuieres probar suerte en el modo infinito de las\\nAventuras Dinamax?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Ver r\u00E9cords"
+  },
+  {
+    "index": 39,
+    "flags": 4,
+    "text": "El modo infinito es, como su nombre indica,\\n\u00A1infinito!\\c\\nTe permite seguir explorando incluso despu\u00E9s de\\nhaber derrotado al Pok\u00E9mon que aguarda en las\\r\\nprofundidades del Supernido Dinamax.\\c\\n\u00A1Consid\u00E9ralo un reto para ver hasta d\u00F3nde llegas!"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "En este modo no podr\u00E1s quedarte con los\\nPok\u00E9mon que atrapes por el camino, pues los\\r\\nnecesitar\u00E9 para avanzar en mi investigaci\u00F3n.\\c\\nA cambio, \u00A1recibir\u00E1s una cantidad de Maxinium\\nmucho m\u00E1s generosa de lo normal!"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Adem\u00E1s, tomar\u00E9 nota de hasta d\u00F3nde llegas.\\n\u00A1Intenta avanzar lo m\u00E1ximo posible junto a tus\\r\\ncompa\u00F1eros!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1Vuelve cuando quieras!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u00A1Pero bueno! \u00A1Un nuevo r\u00E9cord! \u00A1Enhorabuena!\\nVoy a dejarlo bien apuntado."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "He tomado buena nota de tu avance de hoy.\\n\u00A1Vuelve si te apetece intentar superarte!"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Este es el r\u00E9cord actual."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00A1Mucho \u00E1nimo! \u00A1Seguro que puedes batirlo!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00A1Anda, [VAR 0100(0000)]! \u00BFA que no sabes qu\u00E9?\\n\u00A1Me he encontrado a [VAR 0101(0001)] en el\\r\\nSupernido Dinamax![VAR 0114(0078)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Si quieres, te puedo ense\u00F1ar la ubicaci\u00F3n de\\n[VAR 0101(0001)] a cambio de [VAR 0202(0002)] fragmento[VAR 1101(0002,0100)]s\\r\\nde Maxinium.[VAR 0114(0078)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "Oye, pero si no puedes registrar m\u00E1s ubicaciones\\nde Pok\u00E9mon. \u00BFQuieres borrar alguna para hacer\\r\\nsitio?[VAR 0114(0078)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00BFEh? \u00A1Oye, pero si ya has atrapado a\\n[VAR 0101(0001)]!\\c\\nA cambio de [VAR 0202(0002)] fragmento[VAR 1101(0002,0100)]s de Maxinium, te\\npodr\u00EDa mostrar su ubicaci\u00F3n, aunque no podr\u00E1s\\r\\ncapturarlo.[VAR 0114(0078)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u00A1Ariette te ha mostrado la ubicaci\u00F3n de\\n[VAR 0101(0001)]!"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Uy, pero si no tienes suficiente Maxinium.[VAR 0114(0078)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Bueno, me has dado un poco de pena, as\u00ED que\\npor esta vez te la ense\u00F1ar\u00E9 gratis.[VAR 0114(0078)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1Anda, pero si ya conoces la ubicaci\u00F3n de\\n[VAR 0101(0001)]![VAR 0114(0078)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "\u00BFEst\u00E1s segur[VAR 1100(00FF,0101)]oa? Si luego te arrepientes, no me\\nvengas a llorar...[VAR 0114(0078)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Habla con la tipa de la entrada para comenzar la\\naventura. \u00A1\u00C1nimo y suerte![VAR 0114(0078)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u00A1Ey, [VAR 0100(0000)]! \u00BFQu\u00E9 tal te va?\\nYo aqu\u00ED, como siempre.[VAR 0114(0078)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Por cierto, me he encontrado esto tan raro en el\\nSupernido Dinamax. Te lo regalo.[VAR 0114(0078)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u00A1Has recibido [VAR 1702(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)] con motivo\\n[VAR 01C2(0001)]!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u00A1Venga, que no te d\u00E9 corte, es para ti!\\nNo es muy de mi estilo, la verdad.[VAR 0114(0078)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "\u00BFPor qu\u00E9 habr\u00E1 tantos Pok\u00E9mon legendarios en\\nel Supernido Dinamax? \u00BFDe d\u00F3nde han salido?[VAR 0114(0078)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Seg\u00FAn la tipa de la entrada, el primer Pok\u00E9mon\\nlegendario avistado aqu\u00ED fue [VAR 0101(0000)].[VAR 0114(0078)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "La mujer de la entrada me ha contado que\\nestuvo trabajando un tiempo en un centro de\\r\\ninvestigaci\u00F3n de Alola.\\c\\n\u00A1Jo, yo tambi\u00E9n quiero ir all\u00ED para hincharme a\\nmalasadas![VAR 0114(0078)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Quiero usar un Parche Habilidad con mi querido\\nTyrantrum... \u00A1As\u00ED podr\u00EDa usar Testarazo todo lo\\r\\nque quisiera![VAR 0114(0078)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00BFQuieres un consejo para triunfar en las\\nAventuras Dinamax?\\c\\nUsa movimientos como Reflejo o Pantalla de Luz\\npara reducir el da\u00F1o que reciban tus Pok\u00E9mon.[VAR 0114(0078)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00BFQuieres un consejo para triunfar en las\\nAventuras Dinamax?\\c\\n\u00A1Ten muy en cuenta las fortalezas y debilidades\\nde los Pok\u00E9mon que te esperan en el nido![VAR 0114(0078)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "\u00BFQuieres un consejo para triunfar en las\\nAventuras Dinamax?\\c\\nCon movimientos que aumentan el Ataque de\\ntu bando, como Maxipu\u00F1o, \u00A1la diversi\u00F3n est\u00E1\\r\\nasegurada![VAR 0114(0078)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Oye, \u00BFhas o\u00EDdo hablar de ese \u00E1rbol enorme al\\nque la gente llama Maxi\u00E1rbol?\\c\\nPor lo visto, si lo agitas, puede pasar algo de\\nlo m\u00E1s interesante.\\c\\nYo creo que no podr\u00EDa moverlo ni un mil\u00EDmetro,\\npero seguro que t\u00FA lo conseguir\u00EDas.[VAR 0114(0078)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Todos los Pok\u00E9mon del Supernido Dinamax est\u00E1n\\ndinamaxizados...\\c\\n\u00BFCrees que habr\u00E1 una Estrella Deseo gigante\\nenterrada por aqu\u00ED o algo?[VAR 0114(0078)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo van las expediciones legendarias de mi\\npadre?\\c\\nNo te lo tomes demasiado en serio, yo creo que\\nni \u00E9l sabe lo que hace...[VAR 0114(0078)]"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Ese tipo de ah\u00ED es como un poco rarito, \u00BFno?\\nAunque qu\u00E9 voy a decir yo, teniendo el padre\\r\\nque tengo...[VAR 0114(0078)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u00A1Tengo que contarte un rumor escalofriante!\\c\\nDicen que hay un cementerio donde por las\\nnoches se ve rondar a una mujer de pelo largo.\\c\\nAl parecer, es como si estuviera buscando algo...\\no a alguien.[VAR 0114(0078)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "El otro d\u00EDa, en una Aventura Dinamax, uno de\\nmis compa\u00F1eros llevaba un Oranguru.\\c\\n\u00BFSab\u00EDas que con su movimiento Mandato puede\\ndar instrucciones a los Pok\u00E9mon que tiene\\r\\nalrededor? \u00A1La verdad es que nos vino de perlas!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "\u00A1Sab!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Los Pok\u00E9mon me ayudan con mis investigaciones."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00A1Do, do!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00A1Tler, tler!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00A1Dottler!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Los par\u00E1metros representados est\u00E1n oscilando.\\nDeben de estar midiendo algo en concreto."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Mejor no adentrarse sol[VAR 1100(00FF,0101)]oa..."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Decides volver a la entrada a ver si das con\\nla chica que buscaba Peony."
+  }
+]

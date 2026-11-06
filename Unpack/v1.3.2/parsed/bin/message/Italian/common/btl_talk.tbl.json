@@ -1,0 +1,2647 @@
+[
+  {
+    "index": 0,
+    "hash": "2F6A3724696AE30E",
+    "name": "msg_btl_talk_leader2_01"
+  },
+  {
+    "index": 1,
+    "hash": "2F6A3624696AE15B",
+    "name": "msg_btl_talk_leader2_02"
+  },
+  {
+    "index": 2,
+    "hash": "2F6A3524696ADFA8",
+    "name": "msg_btl_talk_leader2_03"
+  },
+  {
+    "index": 3,
+    "hash": "DD5C774024BB5F01",
+    "name": "msg_btl_talk_leader1_01"
+  },
+  {
+    "index": 4,
+    "hash": "DD5C744024BB59E8",
+    "name": "msg_btl_talk_leader1_02"
+  },
+  {
+    "index": 5,
+    "hash": "DD5C754024BB5B9B",
+    "name": "msg_btl_talk_leader1_03"
+  },
+  {
+    "index": 6,
+    "hash": "2BDC3B5E2D3DF3A6",
+    "name": "msg_btl_talk_rival1_01"
+  },
+  {
+    "index": 7,
+    "hash": "2BDC3A5E2D3DF1F3",
+    "name": "msg_btl_talk_rival1_02"
+  },
+  {
+    "index": 8,
+    "hash": "2BDC395E2D3DF040",
+    "name": "msg_btl_talk_rival1_03"
+  },
+  {
+    "index": 9,
+    "hash": "2BDC405E2D3DFC25",
+    "name": "msg_btl_talk_rival1_04"
+  },
+  {
+    "index": 10,
+    "hash": "AFFC126C2B83635D",
+    "name": "msg_btl_talk_rival3_02"
+  },
+  {
+    "index": 11,
+    "hash": "8510FB77748F1A19",
+    "name": "msg_btl_talk_rival2_01"
+  },
+  {
+    "index": 12,
+    "hash": "8510F877748F1500",
+    "name": "msg_btl_talk_rival2_02"
+  },
+  {
+    "index": 13,
+    "hash": "8510F977748F16B3",
+    "name": "msg_btl_talk_rival2_03"
+  },
+  {
+    "index": 14,
+    "hash": "8510FE77748F1F32",
+    "name": "msg_btl_talk_rival2_04"
+  },
+  {
+    "index": 15,
+    "hash": "8510FF77748F20E5",
+    "name": "msg_btl_talk_rival2_05"
+  },
+  {
+    "index": 16,
+    "hash": "8510FC77748F1BCC",
+    "name": "msg_btl_talk_rival2_06"
+  },
+  {
+    "index": 17,
+    "hash": "8510FD77748F1D7F",
+    "name": "msg_btl_talk_rival2_07"
+  },
+  {
+    "index": 18,
+    "hash": "85110277748F25FE",
+    "name": "msg_btl_talk_rival2_08"
+  },
+  {
+    "index": 19,
+    "hash": "AFFC0F6C2B835E44",
+    "name": "msg_btl_talk_rival3_01"
+  },
+  {
+    "index": 20,
+    "hash": "AFFC116C2B8361AA",
+    "name": "msg_btl_talk_rival3_03"
+  },
+  {
+    "index": 21,
+    "hash": "AFFC0C6C2B83592B",
+    "name": "msg_btl_talk_rival3_04"
+  },
+  {
+    "index": 22,
+    "hash": "AFFC0B6C2B835778",
+    "name": "msg_btl_talk_rival3_05"
+  },
+  {
+    "index": 23,
+    "hash": "AFFC0E6C2B835C91",
+    "name": "msg_btl_talk_rival3_06"
+  },
+  {
+    "index": 24,
+    "hash": "AFFC0D6C2B835ADE",
+    "name": "msg_btl_talk_rival3_07"
+  },
+  {
+    "index": 25,
+    "hash": "AFFC086C2B83525F",
+    "name": "msg_btl_talk_rival3_08"
+  },
+  {
+    "index": 26,
+    "hash": "7E56FF42724A505F",
+    "name": "msg_btl_talk_rival4_01"
+  },
+  {
+    "index": 27,
+    "hash": "7E570042724A5212",
+    "name": "msg_btl_talk_rival4_02"
+  },
+  {
+    "index": 28,
+    "hash": "7E570142724A53C5",
+    "name": "msg_btl_talk_rival4_03"
+  },
+  {
+    "index": 29,
+    "hash": "7E56FA42724A47E0",
+    "name": "msg_btl_talk_rival4_04"
+  },
+  {
+    "index": 30,
+    "hash": "7E56FB42724A4993",
+    "name": "msg_btl_talk_rival4_05"
+  },
+  {
+    "index": 31,
+    "hash": "7E56FC42724A4B46",
+    "name": "msg_btl_talk_rival4_06"
+  },
+  {
+    "index": 32,
+    "hash": "7E56FD42724A4CF9",
+    "name": "msg_btl_talk_rival4_07"
+  },
+  {
+    "index": 33,
+    "hash": "7E570642724A5C44",
+    "name": "msg_btl_talk_rival4_08"
+  },
+  {
+    "index": 34,
+    "hash": "0632232FB3E83363",
+    "name": "msg_btl_talk_leader3_01"
+  },
+  {
+    "index": 35,
+    "hash": "0632242FB3E83516",
+    "name": "msg_btl_talk_leader3_02"
+  },
+  {
+    "index": 36,
+    "hash": "0632252FB3E836C9",
+    "name": "msg_btl_talk_leader3_03"
+  },
+  {
+    "index": 37,
+    "hash": "27F1533AD6E0C2EA",
+    "name": "msg_btl_talk_rival5_01"
+  },
+  {
+    "index": 38,
+    "hash": "27F1523AD6E0C137",
+    "name": "msg_btl_talk_rival5_02"
+  },
+  {
+    "index": 39,
+    "hash": "27F1513AD6E0BF84",
+    "name": "msg_btl_talk_rival5_03"
+  },
+  {
+    "index": 40,
+    "hash": "27F1503AD6E0BDD1",
+    "name": "msg_btl_talk_rival5_04"
+  },
+  {
+    "index": 41,
+    "hash": "27F14F3AD6E0BC1E",
+    "name": "msg_btl_talk_rival5_05"
+  },
+  {
+    "index": 42,
+    "hash": "27F14E3AD6E0BA6B",
+    "name": "msg_btl_talk_rival5_06"
+  },
+  {
+    "index": 43,
+    "hash": "27F14D3AD6E0B8B8",
+    "name": "msg_btl_talk_rival5_07"
+  },
+  {
+    "index": 44,
+    "hash": "27F14C3AD6E0B705",
+    "name": "msg_btl_talk_rival5_08"
+  },
+  {
+    "index": 45,
+    "hash": "D6B7C01CA5AE1596",
+    "name": "msg_btl_talk_seniority1_01"
+  },
+  {
+    "index": 46,
+    "hash": "D6B7BF1CA5AE13E3",
+    "name": "msg_btl_talk_seniority1_02"
+  },
+  {
+    "index": 47,
+    "hash": "D6B7BE1CA5AE1230",
+    "name": "msg_btl_talk_seniority1_03"
+  },
+  {
+    "index": 48,
+    "hash": "7C4DDAE297AE51E8",
+    "name": "msg_btl_talk_sister1_01"
+  },
+  {
+    "index": 49,
+    "hash": "7C4DDDE297AE5701",
+    "name": "msg_btl_talk_sister1_02"
+  },
+  {
+    "index": 50,
+    "hash": "7C4DDCE297AE554E",
+    "name": "msg_btl_talk_sister1_03"
+  },
+  {
+    "index": 51,
+    "hash": "7C4DDFE297AE5A67",
+    "name": "msg_btl_talk_sister1_04"
+  },
+  {
+    "index": 52,
+    "hash": "4CB20B18B911720E",
+    "name": "msg_btl_talk_rival9_01"
+  },
+  {
+    "index": 53,
+    "hash": "4CB20A18B911705B",
+    "name": "msg_btl_talk_rival9_02"
+  },
+  {
+    "index": 54,
+    "hash": "4CB20918B9116EA8",
+    "name": "msg_btl_talk_rival9_03"
+  },
+  {
+    "index": 55,
+    "hash": "4CB21018B9117A8D",
+    "name": "msg_btl_talk_rival9_04"
+  },
+  {
+    "index": 56,
+    "hash": "4CB20F18B91178DA",
+    "name": "msg_btl_talk_rival9_05"
+  },
+  {
+    "index": 57,
+    "hash": "4CB20E18B9117727",
+    "name": "msg_btl_talk_rival9_06"
+  },
+  {
+    "index": 58,
+    "hash": "4CB20D18B9117574",
+    "name": "msg_btl_talk_rival9_07"
+  },
+  {
+    "index": 59,
+    "hash": "4CB20418B9116629",
+    "name": "msg_btl_talk_rival9_08"
+  },
+  {
+    "index": 60,
+    "hash": "AD6A63166CF3DED0",
+    "name": "msg_btl_talk_leader4_01"
+  },
+  {
+    "index": 61,
+    "hash": "AD6A66166CF3E3E9",
+    "name": "msg_btl_talk_leader4_02"
+  },
+  {
+    "index": 62,
+    "hash": "AD6A65166CF3E236",
+    "name": "msg_btl_talk_leader4_03"
+  },
+  {
+    "index": 63,
+    "hash": "D9046F1CCE012605",
+    "name": "msg_btl_talk_leader5_01"
+  },
+  {
+    "index": 64,
+    "hash": "D9046C1CCE0120EC",
+    "name": "msg_btl_talk_leader5_02"
+  },
+  {
+    "index": 65,
+    "hash": "D9046D1CCE01229F",
+    "name": "msg_btl_talk_leader5_03"
+  },
+  {
+    "index": 66,
+    "hash": "1B94EF36A190C089",
+    "name": "msg_btl_talk_seniority_01"
+  },
+  {
+    "index": 67,
+    "hash": "1B94EC36A190BB70",
+    "name": "msg_btl_talk_seniority_02"
+  },
+  {
+    "index": 68,
+    "hash": "1B94ED36A190BD23",
+    "name": "msg_btl_talk_seniority_03"
+  },
+  {
+    "index": 69,
+    "hash": "D4F9AF05FB0B4D72",
+    "name": "msg_btl_talk_leader6_01"
+  },
+  {
+    "index": 70,
+    "hash": "D4F9AE05FB0B4BBF",
+    "name": "msg_btl_talk_leader6_02"
+  },
+  {
+    "index": 71,
+    "hash": "D4F9AD05FB0B4A0C",
+    "name": "msg_btl_talk_leader6_03"
+  },
+  {
+    "index": 72,
+    "hash": "D4F9AC05FB0B4859",
+    "name": "msg_btl_talk_leader6_04"
+  },
+  {
+    "index": 73,
+    "hash": "D4F9AB05FB0B46A6",
+    "name": "msg_btl_talk_leader6_05"
+  },
+  {
+    "index": 74,
+    "hash": "D4F9AA05FB0B44F3",
+    "name": "msg_btl_talk_leader6_06"
+  },
+  {
+    "index": 75,
+    "hash": "D4F9A905FB0B4340",
+    "name": "msg_btl_talk_leader6_07"
+  },
+  {
+    "index": 76,
+    "hash": "D4F9B805FB0B5CBD",
+    "name": "msg_btl_talk_leader6_08"
+  },
+  {
+    "index": 77,
+    "hash": "D4F6AC05FB091282",
+    "name": "msg_btl_talk_leader6_12"
+  },
+  {
+    "index": 78,
+    "hash": "D4F6AD05FB091435",
+    "name": "msg_btl_talk_leader6_13"
+  },
+  {
+    "index": 79,
+    "hash": "D4F6A605FB090850",
+    "name": "msg_btl_talk_leader6_14"
+  },
+  {
+    "index": 80,
+    "hash": "D4F6A705FB090A03",
+    "name": "msg_btl_talk_leader6_15"
+  },
+  {
+    "index": 81,
+    "hash": "D4F6A805FB090BB6",
+    "name": "msg_btl_talk_leader6_16"
+  },
+  {
+    "index": 82,
+    "hash": "D4F6A905FB090D69",
+    "name": "msg_btl_talk_leader6_17"
+  },
+  {
+    "index": 83,
+    "hash": "D4F6B205FB091CB4",
+    "name": "msg_btl_talk_leader6_18"
+  },
+  {
+    "index": 84,
+    "hash": "D4F9B705FB0B5B0A",
+    "name": "msg_btl_talk_leader6_09"
+  },
+  {
+    "index": 85,
+    "hash": "D4F6AA05FB090F1C",
+    "name": "msg_btl_talk_leader6_10"
+  },
+  {
+    "index": 86,
+    "hash": "D4F6AB05FB0910CF",
+    "name": "msg_btl_talk_leader6_11"
+  },
+  {
+    "index": 87,
+    "hash": "812613541E31E95D",
+    "name": "msg_btl_talk_rival6_01"
+  },
+  {
+    "index": 88,
+    "hash": "812610541E31E444",
+    "name": "msg_btl_talk_rival6_02"
+  },
+  {
+    "index": 89,
+    "hash": "812611541E31E5F7",
+    "name": "msg_btl_talk_rival6_03"
+  },
+  {
+    "index": 90,
+    "hash": "81260E541E31E0DE",
+    "name": "msg_btl_talk_rival6_04"
+  },
+  {
+    "index": 91,
+    "hash": "81260F541E31E291",
+    "name": "msg_btl_talk_rival6_05"
+  },
+  {
+    "index": 92,
+    "hash": "81260C541E31DD78",
+    "name": "msg_btl_talk_rival6_06"
+  },
+  {
+    "index": 93,
+    "hash": "81260D541E31DF2B",
+    "name": "msg_btl_talk_rival6_07"
+  },
+  {
+    "index": 94,
+    "hash": "81260A541E31DA12",
+    "name": "msg_btl_talk_rival6_08"
+  },
+  {
+    "index": 95,
+    "hash": "00943B0C5C196E27",
+    "name": "msg_btl_talk_leader7_01"
+  },
+  {
+    "index": 96,
+    "hash": "00943C0C5C196FDA",
+    "name": "msg_btl_talk_leader7_02"
+  },
+  {
+    "index": 97,
+    "hash": "00943D0C5C19718D",
+    "name": "msg_btl_talk_leader7_03"
+  },
+  {
+    "index": 98,
+    "hash": "92B43B77DBDCCF44",
+    "name": "msg_btl_talk_leader8_01"
+  },
+  {
+    "index": 99,
+    "hash": "92B43E77DBDCD45D",
+    "name": "msg_btl_talk_leader8_02"
+  },
+  {
+    "index": 100,
+    "hash": "92B43D77DBDCD2AA",
+    "name": "msg_btl_talk_leader8_03"
+  },
+  {
+    "index": 101,
+    "hash": "D8B1FB8021A135EF",
+    "name": "msg_btl_talk_sister_01"
+  },
+  {
+    "index": 102,
+    "hash": "D8B1FC8021A137A2",
+    "name": "msg_btl_talk_sister_02"
+  },
+  {
+    "index": 103,
+    "hash": "D8B1FD8021A13955",
+    "name": "msg_btl_talk_sister_03"
+  },
+  {
+    "index": 104,
+    "hash": "9ED51B98A09702BB",
+    "name": "msg_btl_talk_yellm1_01"
+  },
+  {
+    "index": 105,
+    "hash": "67C9278324E88B19",
+    "name": "msg_btl_talk_leader9_01"
+  },
+  {
+    "index": 106,
+    "hash": "67C9248324E88600",
+    "name": "msg_btl_talk_leader9_02"
+  },
+  {
+    "index": 107,
+    "hash": "67C9258324E887B3",
+    "name": "msg_btl_talk_leader9_03"
+  },
+  {
+    "index": 108,
+    "hash": "67C92A8324E89032",
+    "name": "msg_btl_talk_leader9_04"
+  },
+  {
+    "index": 109,
+    "hash": "67C92B8324E891E5",
+    "name": "msg_btl_talk_leader9_05"
+  },
+  {
+    "index": 110,
+    "hash": "67C9288324E88CCC",
+    "name": "msg_btl_talk_leader9_06"
+  },
+  {
+    "index": 111,
+    "hash": "67C9298324E88E7F",
+    "name": "msg_btl_talk_leader9_07"
+  },
+  {
+    "index": 112,
+    "hash": "2921DBC90E03A613",
+    "name": "msg_btl_talk_leader10_01"
+  },
+  {
+    "index": 113,
+    "hash": "2921DCC90E03A7C6",
+    "name": "msg_btl_talk_leader10_02"
+  },
+  {
+    "index": 114,
+    "hash": "2921DDC90E03A979",
+    "name": "msg_btl_talk_leader10_03"
+  },
+  {
+    "index": 115,
+    "hash": "2921DEC90E03AB2C",
+    "name": "msg_btl_talk_leader10_04"
+  },
+  {
+    "index": 116,
+    "hash": "2921DFC90E03ACDF",
+    "name": "msg_btl_talk_leader10_05"
+  },
+  {
+    "index": 117,
+    "hash": "2921E0C90E03AE92",
+    "name": "msg_btl_talk_leader10_06"
+  },
+  {
+    "index": 118,
+    "hash": "2921E1C90E03B045",
+    "name": "msg_btl_talk_leader10_07"
+  },
+  {
+    "index": 119,
+    "hash": "A73852D74EA18CFF",
+    "name": "msg_btl_talk_sister2_01"
+  },
+  {
+    "index": 120,
+    "hash": "A73853D74EA18EB2",
+    "name": "msg_btl_talk_sister2_02"
+  },
+  {
+    "index": 121,
+    "hash": "A73854D74EA19065",
+    "name": "msg_btl_talk_sister2_03"
+  },
+  {
+    "index": 122,
+    "hash": "551F074DBCC7D048",
+    "name": "msg_btl_talk_rival7_01"
+  },
+  {
+    "index": 123,
+    "hash": "551F0A4DBCC7D561",
+    "name": "msg_btl_talk_rival7_02"
+  },
+  {
+    "index": 124,
+    "hash": "551F094DBCC7D3AE",
+    "name": "msg_btl_talk_rival7_03"
+  },
+  {
+    "index": 125,
+    "hash": "551F0C4DBCC7D8C7",
+    "name": "msg_btl_talk_rival7_04"
+  },
+  {
+    "index": 126,
+    "hash": "551F0B4DBCC7D714",
+    "name": "msg_btl_talk_rival7_05"
+  },
+  {
+    "index": 127,
+    "hash": "551F0E4DBCC7DC2D",
+    "name": "msg_btl_talk_rival7_06"
+  },
+  {
+    "index": 128,
+    "hash": "551F0D4DBCC7DA7A",
+    "name": "msg_btl_talk_rival7_07"
+  },
+  {
+    "index": 129,
+    "hash": "551F004DBCC7C463",
+    "name": "msg_btl_talk_rival7_08"
+  },
+  {
+    "index": 130,
+    "hash": "551EFF4DBCC7C2B0",
+    "name": "msg_btl_talk_rival7_09"
+  },
+  {
+    "index": 131,
+    "hash": "551B824DBCC4B872",
+    "name": "msg_btl_talk_rival7_10"
+  },
+  {
+    "index": 132,
+    "hash": "D57440E8AD5ABCFB",
+    "name": "msg_btl_talk_secretary_01"
+  },
+  {
+    "index": 133,
+    "hash": "D57441E8AD5ABEAE",
+    "name": "msg_btl_talk_secretary_02"
+  },
+  {
+    "index": 134,
+    "hash": "D57442E8AD5AC061",
+    "name": "msg_btl_talk_secretary_03"
+  },
+  {
+    "index": 135,
+    "hash": "D57443E8AD5AC214",
+    "name": "msg_btl_talk_secretary_04"
+  },
+  {
+    "index": 136,
+    "hash": "058DC034B2FF9149",
+    "name": "msg_btl_talk_seniority2_01"
+  },
+  {
+    "index": 137,
+    "hash": "058DBD34B2FF8C30",
+    "name": "msg_btl_talk_seniority2_02"
+  },
+  {
+    "index": 138,
+    "hash": "058DBE34B2FF8DE3",
+    "name": "msg_btl_talk_seniority2_03"
+  },
+  {
+    "index": 139,
+    "hash": "D6B7C51CA5AE1E15",
+    "name": "msg_btl_talk_seniority1_04"
+  },
+  {
+    "index": 140,
+    "hash": "F00FDD1D056240A0",
+    "name": "msg_btl_talk_leader7a_01"
+  },
+  {
+    "index": 141,
+    "hash": "F00FE01D056245B9",
+    "name": "msg_btl_talk_leader7a_02"
+  },
+  {
+    "index": 142,
+    "hash": "F00FDF1D05624406",
+    "name": "msg_btl_talk_leader7a_03"
+  },
+  {
+    "index": 143,
+    "hash": "F00FE21D0562491F",
+    "name": "msg_btl_talk_leader7a_04"
+  },
+  {
+    "index": 144,
+    "hash": "2B858E563FE616DD",
+    "name": "msg_btl_talk_leader8a_01"
+  },
+  {
+    "index": 145,
+    "hash": "2B858B563FE611C4",
+    "name": "msg_btl_talk_leader8a_02"
+  },
+  {
+    "index": 146,
+    "hash": "2B858C563FE61377",
+    "name": "msg_btl_talk_leader8a_03"
+  },
+  {
+    "index": 147,
+    "hash": "2B8589563FE60E5E",
+    "name": "msg_btl_talk_leader8a_04"
+  },
+  {
+    "index": 148,
+    "hash": "452B8AAD20482DBB",
+    "name": "msg_btl_talk_leader2a_01"
+  },
+  {
+    "index": 149,
+    "hash": "452B8BAD20482F6E",
+    "name": "msg_btl_talk_leader2a_02"
+  },
+  {
+    "index": 150,
+    "hash": "452B8CAD20483121",
+    "name": "msg_btl_talk_leader2a_03"
+  },
+  {
+    "index": 151,
+    "hash": "452B8DAD204832D4",
+    "name": "msg_btl_talk_leader2a_04"
+  },
+  {
+    "index": 152,
+    "hash": "2F2635F461E0F754",
+    "name": "msg_btl_talk_leader3a_01"
+  },
+  {
+    "index": 153,
+    "hash": "2F2638F461E0FC6D",
+    "name": "msg_btl_talk_leader3a_02"
+  },
+  {
+    "index": 154,
+    "hash": "2F2637F461E0FABA",
+    "name": "msg_btl_talk_leader3a_03"
+  },
+  {
+    "index": 155,
+    "hash": "2F2632F461E0F23B",
+    "name": "msg_btl_talk_leader3a_04"
+  },
+  {
+    "index": 156,
+    "hash": "2F2631F461E0F088",
+    "name": "msg_btl_talk_leader3a_05"
+  },
+  {
+    "index": 157,
+    "hash": "2F2634F461E0F5A1",
+    "name": "msg_btl_talk_leader3a_06"
+  },
+  {
+    "index": 158,
+    "hash": "2F2633F461E0F3EE",
+    "name": "msg_btl_talk_leader3a_07"
+  },
+  {
+    "index": 159,
+    "hash": "2F262EF461E0EB6F",
+    "name": "msg_btl_talk_leader3a_08"
+  },
+  {
+    "index": 160,
+    "hash": "86DEC0840BF53174",
+    "name": "msg_btl_talk_legend_01"
+  },
+  {
+    "index": 161,
+    "hash": "877EC28A2A378664",
+    "name": "msg_btl_talk_gpoke1_10"
+  },
+  {
+    "index": 162,
+    "hash": "475AD4F831E0D032",
+    "name": "msg_btl_talk_chairman_01"
+  },
+  {
+    "index": 163,
+    "hash": "475AD3F831E0CE7F",
+    "name": "msg_btl_talk_chairman_02"
+  },
+  {
+    "index": 164,
+    "hash": "475AD2F831E0CCCC",
+    "name": "msg_btl_talk_chairman_03"
+  },
+  {
+    "index": 165,
+    "hash": "475AD1F831E0CB19",
+    "name": "msg_btl_talk_chairman_04"
+  },
+  {
+    "index": 166,
+    "hash": "1C42B688AE363172",
+    "name": "msg_btl_talk_champion_01"
+  },
+  {
+    "index": 167,
+    "hash": "1C42B588AE362FBF",
+    "name": "msg_btl_talk_champion_02"
+  },
+  {
+    "index": 168,
+    "hash": "1C42B488AE362E0C",
+    "name": "msg_btl_talk_champion_03"
+  },
+  {
+    "index": 169,
+    "hash": "1C42B388AE362C59",
+    "name": "msg_btl_talk_champion_04"
+  },
+  {
+    "index": 170,
+    "hash": "1C42B288AE362AA6",
+    "name": "msg_btl_talk_champion_05"
+  },
+  {
+    "index": 171,
+    "hash": "1C42B188AE3628F3",
+    "name": "msg_btl_talk_champion_06"
+  },
+  {
+    "index": 172,
+    "hash": "1C42B088AE362740",
+    "name": "msg_btl_talk_champion_07"
+  },
+  {
+    "index": 173,
+    "hash": "1C42BF88AE3640BD",
+    "name": "msg_btl_talk_champion_08"
+  },
+  {
+    "index": 174,
+    "hash": "2379F724038EC263",
+    "name": "msg_btl_talk_rival8_01"
+  },
+  {
+    "index": 175,
+    "hash": "2379F824038EC416",
+    "name": "msg_btl_talk_rival8_02"
+  },
+  {
+    "index": 176,
+    "hash": "8557C1148CE06FC7",
+    "name": "msg_btl_talk_fairy1_01"
+  },
+  {
+    "index": 177,
+    "hash": "8557C2148CE0717A",
+    "name": "msg_btl_talk_fairy1_02"
+  },
+  {
+    "index": 178,
+    "hash": "8557C3148CE0732D",
+    "name": "msg_btl_talk_fairy1_03"
+  },
+  {
+    "index": 179,
+    "hash": "8557BC148CE06748",
+    "name": "msg_btl_talk_fairy1_04"
+  },
+  {
+    "index": 180,
+    "hash": "8557BD148CE068FB",
+    "name": "msg_btl_talk_fairy1_05"
+  },
+  {
+    "index": 181,
+    "hash": "DBBD691C2849F670",
+    "name": "msg_btl_talk_fairy2_01"
+  },
+  {
+    "index": 182,
+    "hash": "DBBD6C1C2849FB89",
+    "name": "msg_btl_talk_fairy2_02"
+  },
+  {
+    "index": 183,
+    "hash": "DBBD6B1C2849F9D6",
+    "name": "msg_btl_talk_fairy2_03"
+  },
+  {
+    "index": 184,
+    "hash": "DBBD6E1C2849FEEF",
+    "name": "msg_btl_talk_fairy2_04"
+  },
+  {
+    "index": 185,
+    "hash": "DBBD6D1C2849FD3C",
+    "name": "msg_btl_talk_fairy2_05"
+  },
+  {
+    "index": 186,
+    "hash": "B285752772C77D25",
+    "name": "msg_btl_talk_fairy3_01"
+  },
+  {
+    "index": 187,
+    "hash": "B285722772C7780C",
+    "name": "msg_btl_talk_fairy3_02"
+  },
+  {
+    "index": 188,
+    "hash": "B285732772C779BF",
+    "name": "msg_btl_talk_fairy3_03"
+  },
+  {
+    "index": 189,
+    "hash": "B285702772C774A6",
+    "name": "msg_btl_talk_fairy3_04"
+  },
+  {
+    "index": 190,
+    "hash": "B285712772C77659",
+    "name": "msg_btl_talk_fairy3_05"
+  },
+  {
+    "index": 191,
+    "hash": "B42DBD2C9A31E4AE",
+    "name": "msg_btl_talk_fairy4_01"
+  },
+  {
+    "index": 192,
+    "hash": "B42DBC2C9A31E2FB",
+    "name": "msg_btl_talk_fairy4_02"
+  },
+  {
+    "index": 193,
+    "hash": "B42DBB2C9A31E148",
+    "name": "msg_btl_talk_fairy4_03"
+  },
+  {
+    "index": 194,
+    "hash": "B42DC22C9A31ED2D",
+    "name": "msg_btl_talk_fairy4_04"
+  },
+  {
+    "index": 195,
+    "hash": "B42DC12C9A31EB7A",
+    "name": "msg_btl_talk_fairy4_05"
+  },
+  {
+    "index": 196,
+    "hash": "89432937E33E7A03",
+    "name": "msg_btl_talk_fairy5_01"
+  },
+  {
+    "index": 197,
+    "hash": "89432A37E33E7BB6",
+    "name": "msg_btl_talk_fairy5_02"
+  },
+  {
+    "index": 198,
+    "hash": "89432B37E33E7D69",
+    "name": "msg_btl_talk_fairy5_03"
+  },
+  {
+    "index": 199,
+    "hash": "89432C37E33E7F1C",
+    "name": "msg_btl_talk_fairy5_04"
+  },
+  {
+    "index": 200,
+    "hash": "89432D37E33E80CF",
+    "name": "msg_btl_talk_fairy5_05"
+  },
+  {
+    "index": 201,
+    "hash": "B6FCB13E4619474C",
+    "name": "msg_btl_talk_fairy6_01"
+  },
+  {
+    "index": 202,
+    "hash": "B6FCB43E46194C65",
+    "name": "msg_btl_talk_fairy6_02"
+  },
+  {
+    "index": 203,
+    "hash": "B6FCB33E46194AB2",
+    "name": "msg_btl_talk_fairy6_03"
+  },
+  {
+    "index": 204,
+    "hash": "B6FCAE3E46194233",
+    "name": "msg_btl_talk_fairy6_04"
+  },
+  {
+    "index": 205,
+    "hash": "B6FCAD3E46194080",
+    "name": "msg_btl_talk_fairy6_05"
+  },
+  {
+    "index": 206,
+    "hash": "0D627D45E1830B21",
+    "name": "msg_btl_talk_fairy7_01"
+  },
+  {
+    "index": 207,
+    "hash": "0D627A45E1830608",
+    "name": "msg_btl_talk_fairy7_02"
+  },
+  {
+    "index": 208,
+    "hash": "0D627B45E18307BB",
+    "name": "msg_btl_talk_fairy7_03"
+  },
+  {
+    "index": 209,
+    "hash": "0D628045E183103A",
+    "name": "msg_btl_talk_fairy7_04"
+  },
+  {
+    "index": 210,
+    "hash": "0D628145E18311ED",
+    "name": "msg_btl_talk_fairy7_05"
+  },
+  {
+    "index": 211,
+    "hash": "E27785512A8EF68A",
+    "name": "msg_btl_talk_fairy8_01"
+  },
+  {
+    "index": 212,
+    "hash": "E27784512A8EF4D7",
+    "name": "msg_btl_talk_fairy8_02"
+  },
+  {
+    "index": 213,
+    "hash": "E27783512A8EF324",
+    "name": "msg_btl_talk_fairy8_03"
+  },
+  {
+    "index": 214,
+    "hash": "E27782512A8EF171",
+    "name": "msg_btl_talk_fairy8_04"
+  },
+  {
+    "index": 215,
+    "hash": "E27781512A8EEFBE",
+    "name": "msg_btl_talk_fairy8_05"
+  },
+  {
+    "index": 216,
+    "hash": "48510362E61DF49C",
+    "name": "msg_btl_talk_d01_01"
+  },
+  {
+    "index": 217,
+    "hash": "48510662E61DF9B5",
+    "name": "msg_btl_talk_d01_02"
+  },
+  {
+    "index": 218,
+    "hash": "48510562E61DF802",
+    "name": "msg_btl_talk_d01_03"
+  },
+  {
+    "index": 219,
+    "hash": "48510062E61DEF83",
+    "name": "msg_btl_talk_d01_04"
+  },
+  {
+    "index": 220,
+    "hash": "4850FF62E61DEDD0",
+    "name": "msg_btl_talk_d01_05"
+  },
+  {
+    "index": 221,
+    "hash": "48510262E61DF2E9",
+    "name": "msg_btl_talk_d01_06"
+  },
+  {
+    "index": 222,
+    "hash": "ADB05EB025386CAB",
+    "name": "msg_capture_demo_01"
+  },
+  {
+    "index": 223,
+    "hash": "ADB05FB025386E5E",
+    "name": "msg_capture_demo_02"
+  },
+  {
+    "index": 224,
+    "hash": "ADB060B025387011",
+    "name": "msg_capture_demo_03"
+  },
+  {
+    "index": 225,
+    "hash": "ADB061B0253871C4",
+    "name": "msg_capture_demo_04"
+  },
+  {
+    "index": 226,
+    "hash": "6D3473C4064B9F7E",
+    "name": "msg_btl_talk_rival10_01"
+  },
+  {
+    "index": 227,
+    "hash": "6D3476C4064BA497",
+    "name": "msg_btl_talk_rival10_06"
+  },
+  {
+    "index": 228,
+    "hash": "6D3475C4064BA2E4",
+    "name": "msg_btl_talk_rival10_07"
+  },
+  {
+    "index": 229,
+    "hash": "6D3472C4064B9DCB",
+    "name": "msg_btl_talk_rival10_02"
+  },
+  {
+    "index": 230,
+    "hash": "6D3471C4064B9C18",
+    "name": "msg_btl_talk_rival10_03"
+  },
+  {
+    "index": 231,
+    "hash": "6D3478C4064BA7FD",
+    "name": "msg_btl_talk_rival10_04"
+  },
+  {
+    "index": 232,
+    "hash": "6D3477C4064BA64A",
+    "name": "msg_btl_talk_rival10_05"
+  },
+  {
+    "index": 233,
+    "hash": "899DC8EE56E2FD9F",
+    "name": "msg_btl_talk_sword1_01"
+  },
+  {
+    "index": 234,
+    "hash": "1C0B7F269CFA68C5",
+    "name": "msg_btl_talk_shield1_01"
+  },
+  {
+    "index": 235,
+    "hash": "B6EAD0F4B961D288",
+    "name": "msg_btl_talk_sword2_01"
+  },
+  {
+    "index": 236,
+    "hash": "6E85BF0AE205E532",
+    "name": "msg_btl_talk_shield2_01"
+  },
+  {
+    "index": 237,
+    "hash": "70231FC92ECB7393",
+    "name": "msg_btl_talk_rival11_01"
+  },
+  {
+    "index": 238,
+    "hash": "702320C92ECB7546",
+    "name": "msg_btl_talk_rival11_02"
+  },
+  {
+    "index": 239,
+    "hash": "7029A8C92ED0C80C",
+    "name": "msg_btl_talk_rival11_22"
+  },
+  {
+    "index": 240,
+    "hash": "702321C92ECB76F9",
+    "name": "msg_btl_talk_rival11_03"
+  },
+  {
+    "index": 241,
+    "hash": "702322C92ECB78AC",
+    "name": "msg_btl_talk_rival11_04"
+  },
+  {
+    "index": 242,
+    "hash": "702323C92ECB7A5F",
+    "name": "msg_btl_talk_rival11_05"
+  },
+  {
+    "index": 243,
+    "hash": "7029A7C92ED0C659",
+    "name": "msg_btl_talk_rival11_25"
+  },
+  {
+    "index": 244,
+    "hash": "702324C92ECB7C12",
+    "name": "msg_btl_talk_rival11_06"
+  },
+  {
+    "index": 245,
+    "hash": "702325C92ECB7DC5",
+    "name": "msg_btl_talk_rival11_07"
+  },
+  {
+    "index": 246,
+    "hash": "7029A9C92ED0C9BF",
+    "name": "msg_btl_talk_rival11_23"
+  },
+  {
+    "index": 247,
+    "hash": "702326C92ECB7F78",
+    "name": "msg_btl_talk_rival11_08"
+  },
+  {
+    "index": 248,
+    "hash": "702327C92ECB812B",
+    "name": "msg_btl_talk_rival11_09"
+  },
+  {
+    "index": 249,
+    "hash": "7026A4C92ECE8B69",
+    "name": "msg_btl_talk_rival11_10"
+  },
+  {
+    "index": 250,
+    "hash": "7026A3C92ECE89B6",
+    "name": "msg_btl_talk_rival11_11"
+  },
+  {
+    "index": 251,
+    "hash": "7026A2C92ECE8803",
+    "name": "msg_btl_talk_rival11_12"
+  },
+  {
+    "index": 252,
+    "hash": "7029A6C92ED0C4A6",
+    "name": "msg_btl_talk_rival11_24"
+  },
+  {
+    "index": 253,
+    "hash": "7026A1C92ECE8650",
+    "name": "msg_btl_talk_rival11_13"
+  },
+  {
+    "index": 254,
+    "hash": "7026A8C92ECE9235",
+    "name": "msg_btl_talk_rival11_14"
+  },
+  {
+    "index": 255,
+    "hash": "7026A7C92ECE9082",
+    "name": "msg_btl_talk_rival11_15"
+  },
+  {
+    "index": 256,
+    "hash": "7026A6C92ECE8ECF",
+    "name": "msg_btl_talk_rival11_16"
+  },
+  {
+    "index": 257,
+    "hash": "7026A5C92ECE8D1C",
+    "name": "msg_btl_talk_rival11_17"
+  },
+  {
+    "index": 258,
+    "hash": "7026ACC92ECE9901",
+    "name": "msg_btl_talk_rival11_18"
+  },
+  {
+    "index": 259,
+    "hash": "7026ABC92ECE974E",
+    "name": "msg_btl_talk_rival11_19"
+  },
+  {
+    "index": 260,
+    "hash": "7029AAC92ED0CB72",
+    "name": "msg_btl_talk_rival11_20"
+  },
+  {
+    "index": 261,
+    "hash": "7029ABC92ED0CD25",
+    "name": "msg_btl_talk_rival11_21"
+  },
+  {
+    "index": 262,
+    "hash": "0452942F8BF22B34",
+    "name": "msg_btl_talk_seniority3_01"
+  },
+  {
+    "index": 263,
+    "hash": "0452972F8BF2304D",
+    "name": "msg_btl_talk_seniority3_02"
+  },
+  {
+    "index": 264,
+    "hash": "0452962F8BF22E9A",
+    "name": "msg_btl_talk_seniority3_03"
+  },
+  {
+    "index": 265,
+    "hash": "0452912F8BF2261B",
+    "name": "msg_btl_talk_seniority3_04"
+  },
+  {
+    "index": 266,
+    "hash": "0452902F8BF22468",
+    "name": "msg_btl_talk_seniority3_05"
+  },
+  {
+    "index": 267,
+    "hash": "0452932F8BF22981",
+    "name": "msg_btl_talk_seniority3_06"
+  },
+  {
+    "index": 268,
+    "hash": "D2AD8405D2B91D4F",
+    "name": "msg_btl_talk_seniority4_01"
+  },
+  {
+    "index": 269,
+    "hash": "D2AD8505D2B91F02",
+    "name": "msg_btl_talk_seniority4_02"
+  },
+  {
+    "index": 270,
+    "hash": "D2AD8605D2B920B5",
+    "name": "msg_btl_talk_seniority4_03"
+  },
+  {
+    "index": 271,
+    "hash": "A3DD26D225C5C08A",
+    "name": "msg_btl_talk_sister3_01"
+  },
+  {
+    "index": 272,
+    "hash": "A3DD25D225C5BED7",
+    "name": "msg_btl_talk_sister3_02"
+  },
+  {
+    "index": 273,
+    "hash": "A3DD24D225C5BD24",
+    "name": "msg_btl_talk_sister3_03"
+  },
+  {
+    "index": 274,
+    "hash": "ADF2CF0C50E73039",
+    "name": "msg_btl_talk_sister4_01"
+  },
+  {
+    "index": 275,
+    "hash": "ADF2CC0C50E72B20",
+    "name": "msg_btl_talk_sister4_02"
+  },
+  {
+    "index": 276,
+    "hash": "ADF2CD0C50E72CD3",
+    "name": "msg_btl_talk_sister4_03"
+  },
+  {
+    "index": 277,
+    "hash": "D72A630106690664",
+    "name": "msg_btl_talk_sister5_01"
+  },
+  {
+    "index": 278,
+    "hash": "D72A660106690B7D",
+    "name": "msg_btl_talk_sister5_02"
+  },
+  {
+    "index": 279,
+    "hash": "D72A6501066909CA",
+    "name": "msg_btl_talk_sister5_03"
+  },
+  {
+    "index": 280,
+    "hash": "0D96C716B575FEEE",
+    "name": "msg_btl_talk_legend_sword_01"
+  },
+  {
+    "index": 281,
+    "hash": "F462B7EB91166A08",
+    "name": "msg_btl_talk_legend_shield_01"
+  },
+  {
+    "index": 282,
+    "hash": "B64BBA46B1B66006",
+    "name": "msg_btl_talk_rival_poi_01_01"
+  },
+  {
+    "index": 283,
+    "hash": "B64BB946B1B65E53",
+    "name": "msg_btl_talk_rival_poi_01_02"
+  },
+  {
+    "index": 284,
+    "hash": "B64BB846B1B65CA0",
+    "name": "msg_btl_talk_rival_poi_01_03"
+  },
+  {
+    "index": 285,
+    "hash": "B64BBF46B1B66885",
+    "name": "msg_btl_talk_rival_poi_01_04"
+  },
+  {
+    "index": 286,
+    "hash": "B64BBE46B1B666D2",
+    "name": "msg_btl_talk_rival_poi_01_05"
+  },
+  {
+    "index": 287,
+    "hash": "3BD8C5FCB36D3A76",
+    "name": "msg_btl_talk_rival_esp_01_01"
+  },
+  {
+    "index": 288,
+    "hash": "3BD8C4FCB36D38C3",
+    "name": "msg_btl_talk_rival_esp_01_02"
+  },
+  {
+    "index": 289,
+    "hash": "3BD8C3FCB36D3710",
+    "name": "msg_btl_talk_rival_esp_01_03"
+  },
+  {
+    "index": 290,
+    "hash": "3BD8CAFCB36D42F5",
+    "name": "msg_btl_talk_rival_esp_01_04"
+  },
+  {
+    "index": 291,
+    "hash": "3BD8C9FCB36D4142",
+    "name": "msg_btl_talk_rival_esp_01_05"
+  },
+  {
+    "index": 292,
+    "hash": "3829C0EF23C58B1F",
+    "name": "msg_btl_talk_masterd_01_01"
+  },
+  {
+    "index": 293,
+    "hash": "3829C1EF23C58CD2",
+    "name": "msg_btl_talk_masterd_01_02"
+  },
+  {
+    "index": 294,
+    "hash": "3829C2EF23C58E85",
+    "name": "msg_btl_talk_masterd_01_03"
+  },
+  {
+    "index": 295,
+    "hash": "3829BBEF23C582A0",
+    "name": "msg_btl_talk_masterd_01_04"
+  },
+  {
+    "index": 296,
+    "hash": "BAC2FA5D850830F9",
+    "name": "msg_btl_talk_rival_poi_02_01"
+  },
+  {
+    "index": 297,
+    "hash": "BAC2F75D85082BE0",
+    "name": "msg_btl_talk_rival_poi_02_02"
+  },
+  {
+    "index": 298,
+    "hash": "BAC2F85D85082D93",
+    "name": "msg_btl_talk_rival_poi_02_03"
+  },
+  {
+    "index": 299,
+    "hash": "BAC2FD5D85083612",
+    "name": "msg_btl_talk_rival_poi_02_04"
+  },
+  {
+    "index": 300,
+    "hash": "BAC2FE5D850837C5",
+    "name": "msg_btl_talk_rival_poi_02_05"
+  },
+  {
+    "index": 301,
+    "hash": "BAC2FB5D850832AC",
+    "name": "msg_btl_talk_rival_poi_02_06"
+  },
+  {
+    "index": 302,
+    "hash": "6AAEC614C0BEB629",
+    "name": "msg_btl_talk_rival_esp_02_01"
+  },
+  {
+    "index": 303,
+    "hash": "6AAEC314C0BEB110",
+    "name": "msg_btl_talk_rival_esp_02_02"
+  },
+  {
+    "index": 304,
+    "hash": "6AAEC414C0BEB2C3",
+    "name": "msg_btl_talk_rival_esp_02_03"
+  },
+  {
+    "index": 305,
+    "hash": "6AAEC914C0BEBB42",
+    "name": "msg_btl_talk_rival_esp_02_04"
+  },
+  {
+    "index": 306,
+    "hash": "6AAECA14C0BEBCF5",
+    "name": "msg_btl_talk_rival_esp_02_05"
+  },
+  {
+    "index": 307,
+    "hash": "6AAEC714C0BEB7DC",
+    "name": "msg_btl_talk_rival_esp_02_06"
+  },
+  {
+    "index": 308,
+    "hash": "E773230FAE46EB3F",
+    "name": "msg_btl_talk_rival_poi_03_01a"
+  },
+  {
+    "index": 309,
+    "hash": "E773240FAE46ECF2",
+    "name": "msg_btl_talk_rival_poi_03_01b"
+  },
+  {
+    "index": 310,
+    "hash": "8D7591572288B73D",
+    "name": "msg_btl_talk_rival_poi_03_02"
+  },
+  {
+    "index": 311,
+    "hash": "8D7590572288B58A",
+    "name": "msg_btl_talk_rival_poi_03_03"
+  },
+  {
+    "index": 312,
+    "hash": "8D758B572288AD0B",
+    "name": "msg_btl_talk_rival_poi_03_04"
+  },
+  {
+    "index": 313,
+    "hash": "8D758A572288AB58",
+    "name": "msg_btl_talk_rival_poi_03_05"
+  },
+  {
+    "index": 314,
+    "hash": "8D758D572288B071",
+    "name": "msg_btl_talk_rival_poi_03_06"
+  },
+  {
+    "index": 315,
+    "hash": "8D758C572288AEBE",
+    "name": "msg_btl_talk_rival_poi_03_07"
+  },
+  {
+    "index": 316,
+    "hash": "8CF8B95497FC844F",
+    "name": "msg_btl_talk_rival_esp_03_01a"
+  },
+  {
+    "index": 317,
+    "hash": "8CF8BA5497FC8602",
+    "name": "msg_btl_talk_rival_esp_03_01b"
+  },
+  {
+    "index": 318,
+    "hash": "13029D0D243F91AD",
+    "name": "msg_btl_talk_rival_esp_03_02"
+  },
+  {
+    "index": 319,
+    "hash": "13029C0D243F8FFA",
+    "name": "msg_btl_talk_rival_esp_03_03"
+  },
+  {
+    "index": 320,
+    "hash": "1302970D243F877B",
+    "name": "msg_btl_talk_rival_esp_03_04"
+  },
+  {
+    "index": 321,
+    "hash": "1302960D243F85C8",
+    "name": "msg_btl_talk_rival_esp_03_05"
+  },
+  {
+    "index": 322,
+    "hash": "1302990D243F8AE1",
+    "name": "msg_btl_talk_rival_esp_03_06"
+  },
+  {
+    "index": 323,
+    "hash": "1302980D243F892E",
+    "name": "msg_btl_talk_rival_esp_03_07"
+  },
+  {
+    "index": 324,
+    "hash": "AD37E233262FD26B",
+    "name": "msg_btl_talk_masterd_02_01a"
+  },
+  {
+    "index": 325,
+    "hash": "AD37E333262FD41E",
+    "name": "msg_btl_talk_masterd_02_01b"
+  },
+  {
+    "index": 326,
+    "hash": "6576CBF586446521",
+    "name": "msg_btl_talk_masterd_02_02"
+  },
+  {
+    "index": 327,
+    "hash": "6576CAF58644636E",
+    "name": "msg_btl_talk_masterd_02_03"
+  },
+  {
+    "index": 328,
+    "hash": "E1F66C60E334FEB4",
+    "name": "msg_btl_talk_masterd_03_01a"
+  },
+  {
+    "index": 329,
+    "hash": "E1F66F60E33503CD",
+    "name": "msg_btl_talk_masterd_03_01b"
+  },
+  {
+    "index": 330,
+    "hash": "3AF8D200CFAD1F04",
+    "name": "msg_btl_talk_masterd_03_02"
+  },
+  {
+    "index": 331,
+    "hash": "3AF8D300CFAD20B7",
+    "name": "msg_btl_talk_masterd_03_03"
+  },
+  {
+    "index": 332,
+    "hash": "3AF8D000CFAD1B9E",
+    "name": "msg_btl_talk_masterd_03_04"
+  },
+  {
+    "index": 333,
+    "hash": "3AF8D100CFAD1D51",
+    "name": "msg_btl_talk_masterd_03_05"
+  },
+  {
+    "index": 334,
+    "hash": "3AF8CE00CFAD1838",
+    "name": "msg_btl_talk_masterd_03_06"
+  },
+  {
+    "index": 335,
+    "hash": "3AF8CF00CFAD19EB",
+    "name": "msg_btl_talk_masterd_03_07"
+  },
+  {
+    "index": 336,
+    "hash": "3AF8CC00CFAD14D2",
+    "name": "msg_btl_talk_masterd_03_08"
+  },
+  {
+    "index": 337,
+    "hash": "58A6C0951BCFB9EA",
+    "name": "msg_btl_talk_okami_01_01"
+  },
+  {
+    "index": 338,
+    "hash": "58A6BF951BCFB837",
+    "name": "msg_btl_talk_okami_01_02"
+  },
+  {
+    "index": 339,
+    "hash": "58A6BE951BCFB684",
+    "name": "msg_btl_talk_okami_01_03"
+  },
+  {
+    "index": 340,
+    "hash": "58A6BD951BCFB4D1",
+    "name": "msg_btl_talk_okami_01_04"
+  },
+  {
+    "index": 341,
+    "hash": "B1DB7EAE6320DCF7",
+    "name": "msg_btl_talk_okami_02_03"
+  },
+  {
+    "index": 342,
+    "hash": "B1DB7BAE6320D7DE",
+    "name": "msg_btl_talk_okami_02_04"
+  },
+  {
+    "index": 343,
+    "hash": "19E9896D9EA79E10",
+    "name": "msg_btl_talk_peony_01_01"
+  },
+  {
+    "index": 344,
+    "hash": "19E98C6D9EA7A329",
+    "name": "msg_btl_talk_peony_01_02"
+  },
+  {
+    "index": 345,
+    "hash": "19E98B6D9EA7A176",
+    "name": "msg_btl_talk_peony_01_03"
+  },
+  {
+    "index": 346,
+    "hash": "19E98E6D9EA7A68F",
+    "name": "msg_btl_talk_peony_01_04"
+  },
+  {
+    "index": 347,
+    "hash": "A86AE5B28BC7A311",
+    "name": "msg_btl_talk_hakuba_01_01"
+  },
+  {
+    "index": 348,
+    "hash": "A86AE2B28BC79DF8",
+    "name": "msg_btl_talk_hakuba_01_02"
+  },
+  {
+    "index": 349,
+    "hash": "EDA19AA92DDD2E48",
+    "name": "msg_btl_talk_kokuba_01_01"
+  },
+  {
+    "index": 350,
+    "hash": "EDA19DA92DDD3361",
+    "name": "msg_btl_talk_kokuba_01_02"
+  },
+  {
+    "index": 351,
+    "hash": "3705CC80D143FBF2",
+    "name": "msg_btl_talk_crown_01_01"
+  },
+  {
+    "index": 352,
+    "hash": "3B108C97A439D485",
+    "name": "msg_btl_talk_crown_02_01"
+  },
+  {
+    "index": 353,
+    "hash": "5B9CC74B0335F1D5",
+    "name": "msg_btl_talk_gst_seibori_01"
+  },
+  {
+    "index": 354,
+    "hash": "5B9CC44B0335ECBC",
+    "name": "msg_btl_talk_gst_seibori_02"
+  },
+  {
+    "index": 355,
+    "hash": "5B9CC54B0335EE6F",
+    "name": "msg_btl_talk_gst_seibori_03"
+  },
+  {
+    "index": 356,
+    "hash": "961939B7A2FBBF56",
+    "name": "msg_btl_talk_gst_kurara_01"
+  },
+  {
+    "index": 357,
+    "hash": "961938B7A2FBBDA3",
+    "name": "msg_btl_talk_gst_kurara_02"
+  },
+  {
+    "index": 358,
+    "hash": "961937B7A2FBBBF0",
+    "name": "msg_btl_talk_gst_kurara_03"
+  },
+  {
+    "index": 359,
+    "hash": "9E87CF0026F8D25E",
+    "name": "msg_btl_talk_gst_masterdo_01a"
+  },
+  {
+    "index": 360,
+    "hash": "9E8AF70026FB4C2D",
+    "name": "msg_btl_talk_gst_masterdo_02a"
+  },
+  {
+    "index": 361,
+    "hash": "9E8EDB0026FF0570",
+    "name": "msg_btl_talk_gst_masterdo_03a"
+  },
+  {
+    "index": 362,
+    "hash": "338B47022E82B655",
+    "name": "msg_btl_talk_gst_pioni_01"
+  },
+  {
+    "index": 363,
+    "hash": "338B44022E82B13C",
+    "name": "msg_btl_talk_gst_pioni_02"
+  },
+  {
+    "index": 364,
+    "hash": "338B45022E82B2EF",
+    "name": "msg_btl_talk_gst_pioni_03"
+  },
+  {
+    "index": 365,
+    "hash": "357FEE7B8830BB46",
+    "name": "msg_btl_talk_gst_dande_01"
+  },
+  {
+    "index": 366,
+    "hash": "357FED7B8830B993",
+    "name": "msg_btl_talk_gst_dande_02"
+  },
+  {
+    "index": 367,
+    "hash": "357FEC7B8830B7E0",
+    "name": "msg_btl_talk_gst_dande_03"
+  },
+  {
+    "index": 368,
+    "hash": "FB316C2071038D1A",
+    "name": "msg_btl_talk_gst_beat_01"
+  },
+  {
+    "index": 369,
+    "hash": "FB316B2071038B67",
+    "name": "msg_btl_talk_gst_beat_02"
+  },
+  {
+    "index": 370,
+    "hash": "FB316A20710389B4",
+    "name": "msg_btl_talk_gst_beat_03"
+  },
+  {
+    "index": 371,
+    "hash": "A147A4DE0979E119",
+    "name": "msg_btl_talk_gst_mali_01"
+  },
+  {
+    "index": 372,
+    "hash": "A147A1DE0979DC00",
+    "name": "msg_btl_talk_gst_mali_02"
+  },
+  {
+    "index": 373,
+    "hash": "A147A2DE0979DDB3",
+    "name": "msg_btl_talk_gst_mali_03"
+  },
+  {
+    "index": 374,
+    "hash": "C05EDA48AA15BE69",
+    "name": "msg_btl_talk_gst_yaro_01"
+  },
+  {
+    "index": 375,
+    "hash": "C05ED748AA15B950",
+    "name": "msg_btl_talk_gst_yaro_02"
+  },
+  {
+    "index": 376,
+    "hash": "C05ED848AA15BB03",
+    "name": "msg_btl_talk_gst_yaro_03"
+  },
+  {
+    "index": 377,
+    "hash": "C83DB48466EAB68F",
+    "name": "msg_btl_talk_gst_rulina_01"
+  },
+  {
+    "index": 378,
+    "hash": "C83DB58466EAB842",
+    "name": "msg_btl_talk_gst_rulina_02"
+  },
+  {
+    "index": 379,
+    "hash": "C83DB68466EAB9F5",
+    "name": "msg_btl_talk_gst_rulina_03"
+  },
+  {
+    "index": 380,
+    "hash": "16A285965F17A061",
+    "name": "msg_btl_talk_gst_kabu_01"
+  },
+  {
+    "index": 381,
+    "hash": "16A282965F179B48",
+    "name": "msg_btl_talk_gst_kabu_02"
+  },
+  {
+    "index": 382,
+    "hash": "16A283965F179CFB",
+    "name": "msg_btl_talk_gst_kabu_03"
+  },
+  {
+    "index": 383,
+    "hash": "254265469FD29B0E",
+    "name": "msg_btl_talk_gst_nezu_01"
+  },
+  {
+    "index": 384,
+    "hash": "254264469FD2995B",
+    "name": "msg_btl_talk_gst_nezu_02"
+  },
+  {
+    "index": 385,
+    "hash": "8048DB4EE07B77A6",
+    "name": "msg_btl_talk_gst_kibana_01"
+  },
+  {
+    "index": 386,
+    "hash": "8048DA4EE07B75F3",
+    "name": "msg_btl_talk_gst_kibana_02"
+  },
+  {
+    "index": 387,
+    "hash": "8048D94EE07B7440",
+    "name": "msg_btl_talk_gst_kibana_03"
+  },
+  {
+    "index": 388,
+    "hash": "FA0067AAC18EF2B4",
+    "name": "msg_btl_talk_gst_saito_01"
+  },
+  {
+    "index": 389,
+    "hash": "FA006AAAC18EF7CD",
+    "name": "msg_btl_talk_gst_saito_02"
+  },
+  {
+    "index": 390,
+    "hash": "FA0069AAC18EF61A",
+    "name": "msg_btl_talk_gst_saito_03"
+  },
+  {
+    "index": 391,
+    "hash": "17C780B0CE6012E8",
+    "name": "msg_btl_talk_gst_makuwa_01"
+  },
+  {
+    "index": 392,
+    "hash": "17C783B0CE601801",
+    "name": "msg_btl_talk_gst_makuwa_02"
+  },
+  {
+    "index": 393,
+    "hash": "17C782B0CE60164E",
+    "name": "msg_btl_talk_gst_makuwa_03"
+  },
+  {
+    "index": 394,
+    "hash": "6EF2F61CF475EC81",
+    "name": "msg_btl_talk_gst_onion_01"
+  },
+  {
+    "index": 395,
+    "hash": "6EF2F31CF475E768",
+    "name": "msg_btl_talk_gst_onion_02"
+  },
+  {
+    "index": 396,
+    "hash": "6EF2F41CF475E91B",
+    "name": "msg_btl_talk_gst_onion_03"
+  },
+  {
+    "index": 397,
+    "hash": "291BFDA2DFA622CD",
+    "name": "msg_btl_talk_gst_meron_01"
+  },
+  {
+    "index": 398,
+    "hash": "291BFAA2DFA61DB4",
+    "name": "msg_btl_talk_gst_meron_02"
+  },
+  {
+    "index": 399,
+    "hash": "291BFBA2DFA61F67",
+    "name": "msg_btl_talk_gst_meron_03"
+  },
+  {
+    "index": 400,
+    "hash": "E5F0B4B234E1EE17",
+    "name": "msg_btl_talk_gst_soddo_01"
+  },
+  {
+    "index": 401,
+    "hash": "E5F0B5B234E1EFCA",
+    "name": "msg_btl_talk_gst_soddo_02"
+  },
+  {
+    "index": 402,
+    "hash": "7A9CFA478C936A3A",
+    "name": "msg_btl_talk_gst_sirudhi_01"
+  },
+  {
+    "index": 403,
+    "hash": "7A9CF9478C936887",
+    "name": "msg_btl_talk_gst_sirudhi_02"
+  },
+  {
+    "index": 404,
+    "hash": "F3F6C7D34DBE29E2",
+    "name": "msg_btl_talk_gst_hop_01a"
+  },
+  {
+    "index": 405,
+    "hash": "F3FAAFD34DC1E9F1",
+    "name": "msg_btl_talk_gst_hop_02a"
+  },
+  {
+    "index": 406,
+    "hash": "F3FDD3D34DC45CF4",
+    "name": "msg_btl_talk_gst_hop_03a"
+  },
+  {
+    "index": 407,
+    "hash": "F3FAACD34DC1E4D8",
+    "name": "msg_btl_talk_gst_hop_02b"
+  },
+  {
+    "index": 408,
+    "hash": "F3FAADD34DC1E68B",
+    "name": "msg_btl_talk_gst_hop_02c"
+  },
+  {
+    "index": 409,
+    "hash": "627F18417DAD9598",
+    "name": "msg_btl_talk_gst_popra_01"
+  },
+  {
+    "index": 410,
+    "hash": "627F1B417DAD9AB1",
+    "name": "msg_btl_talk_gst_popra_02"
+  },
+  {
+    "index": 411,
+    "hash": "627F1A417DAD98FE",
+    "name": "msg_btl_talk_gst_popra_03"
+  },
+  {
+    "index": 412,
+    "hash": "D0DC6180049C5BC6",
+    "name": "msg_btl_talk_gst_mitsuba_01a"
+  },
+  {
+    "index": 413,
+    "hash": "D0DF8980049ED595",
+    "name": "msg_btl_talk_gst_mitsuba_02a"
+  },
+  {
+    "index": 414,
+    "hash": "D0E36D8004A28ED8",
+    "name": "msg_btl_talk_gst_mitsuba_03a"
+  },
+  {
+    "index": 415,
+    "hash": "D0DF8680049ED07C",
+    "name": "msg_btl_talk_gst_mitsuba_02b"
+  },
+  {
+    "index": 416,
+    "hash": "D0E3708004A293F1",
+    "name": "msg_btl_talk_gst_mitsuba_03b"
+  },
+  {
+    "index": 417,
+    "hash": "ABF3FD453AAEB0A4",
+    "name": "msg_btl_talk_gst_team01_01"
+  },
+  {
+    "index": 418,
+    "hash": "ABF400453AAEB5BD",
+    "name": "msg_btl_talk_gst_team01_02"
+  },
+  {
+    "index": 419,
+    "hash": "00D1353B2B46779B",
+    "name": "msg_btl_talk_gst_team02_01"
+  },
+  {
+    "index": 420,
+    "hash": "00D1363B2B46794E",
+    "name": "msg_btl_talk_gst_team02_02"
+  },
+  {
+    "index": 421,
+    "hash": "D4CA2934C9DC5E86",
+    "name": "msg_btl_talk_gst_team03_01"
+  },
+  {
+    "index": 422,
+    "hash": "D4CA2834C9DC5CD3",
+    "name": "msg_btl_talk_gst_team03_02"
+  },
+  {
+    "index": 423,
+    "hash": "7D1E012D2D5D3BBD",
+    "name": "msg_btl_talk_gst_team04_01"
+  },
+  {
+    "index": 424,
+    "hash": "7D1DFE2D2D5D36A4",
+    "name": "msg_btl_talk_gst_team04_02"
+  },
+  {
+    "index": 425,
+    "hash": "A79C7521E3F55128",
+    "name": "msg_btl_talk_gst_team05_01"
+  },
+  {
+    "index": 426,
+    "hash": "A79C7821E3F55641",
+    "name": "msg_btl_talk_gst_team05_02"
+  },
+  {
+    "index": 427,
+    "hash": "7C01ED1B82E7373F",
+    "name": "msg_btl_talk_gst_team06_01"
+  },
+  {
+    "index": 428,
+    "hash": "7C01EE1B82E738F2",
+    "name": "msg_btl_talk_gst_team06_02"
+  },
+  {
+    "index": 429,
+    "hash": "CF2BC111720CBFCA",
+    "name": "msg_btl_talk_gst_team07_01"
+  },
+  {
+    "index": 430,
+    "hash": "CF2BC011720CBE17",
+    "name": "msg_btl_talk_gst_team07_02"
+  },
+  {
+    "index": 431,
+    "hash": "A391B90B10FF7F61",
+    "name": "msg_btl_talk_gst_team08_01"
+  },
+  {
+    "index": 432,
+    "hash": "A391B60B10FF7A48",
+    "name": "msg_btl_talk_gst_team08_02"
+  },
+  {
+    "index": 433,
+    "hash": "4D2BED037595BB8C",
+    "name": "msg_btl_talk_gst_team09_01"
+  },
+  {
+    "index": 434,
+    "hash": "4D2BF0037595C0A5",
+    "name": "msg_btl_talk_gst_team09_02"
+  },
+  {
+    "index": 435,
+    "hash": "68BAC916B11A7C16",
+    "name": "msg_btl_talk_gst_team10_01"
+  },
+  {
+    "index": 436,
+    "hash": "68BAC816B11A7A63",
+    "name": "msg_btl_talk_gst_team10_02"
+  },
+  {
+    "index": 437,
+    "hash": "BF20951E4C843FEB",
+    "name": "msg_btl_talk_gst_team11_01"
+  },
+  {
+    "index": 438,
+    "hash": "BF20961E4C84419E",
+    "name": "msg_btl_talk_gst_team11_02"
+  },
+  {
+    "index": 439,
+    "hash": "96559D29975E91B4",
+    "name": "msg_btl_talk_gst_team12_01"
+  },
+  {
+    "index": 440,
+    "hash": "9655A029975E96CD",
+    "name": "msg_btl_talk_gst_team12_02"
+  },
+  {
+    "index": 441,
+    "hash": "9790C92EBE6BF7C9",
+    "name": "msg_btl_talk_gst_team13_01"
+  },
+  {
+    "index": 442,
+    "hash": "9790C62EBE6BF2B0",
+    "name": "msg_btl_talk_gst_team13_02"
+  },
+  {
+    "index": 443,
+    "hash": "8F2EA0F494BCF61A",
+    "name": "msg_btl_talk_gst_team14_01"
+  },
+  {
+    "index": 444,
+    "hash": "8F2E9FF494BCF467",
+    "name": "msg_btl_talk_gst_team14_02"
+  },
+  {
+    "index": 445,
+    "hash": "64B08CFFDE2583CF",
+    "name": "msg_btl_talk_gst_team15_01"
+  },
+  {
+    "index": 446,
+    "hash": "64B08DFFDE258582",
+    "name": "msg_btl_talk_gst_team15_02"
+  },
+  {
+    "index": 447,
+    "hash": "65EBD50505331978",
+    "name": "msg_btl_talk_gst_team16_01"
+  },
+  {
+    "index": 448,
+    "hash": "65EBD80505331E91",
+    "name": "msg_btl_talk_gst_team16_02"
+  },
+  {
+    "index": 449,
+    "hash": "3D20E110500D720D",
+    "name": "msg_btl_talk_gst_team17_01"
+  },
+  {
+    "index": 450,
+    "hash": "3D20DE10500D6CF4",
+    "name": "msg_btl_talk_gst_team17_02"
+  },
+  {
+    "index": 451,
+    "hash": "330B18D624EBCBFE",
+    "name": "msg_btl_talk_gst_team18_01"
+  },
+  {
+    "index": 452,
+    "hash": "330B17D624EBCA4B",
+    "name": "msg_btl_talk_gst_team18_02"
+  },
+  {
+    "index": 453,
+    "hash": "35F9C4DB4D6BA013",
+    "name": "msg_btl_talk_gst_team19_01"
+  },
+  {
+    "index": 454,
+    "hash": "35F9C5DB4D6BA1C6",
+    "name": "msg_btl_talk_gst_team19_02"
+  },
+  {
+    "index": 455,
+    "hash": "BC5C607F92A9ABF3",
+    "name": "msg_btl_talk_gst_team20_01"
+  },
+  {
+    "index": 456,
+    "hash": "BC5C617F92A9ADA6",
+    "name": "msg_btl_talk_gst_team20_02"
+  },
+  {
+    "index": 457,
+    "hash": "6663B477F79CF05E",
+    "name": "msg_btl_talk_gst_team21_01"
+  },
+  {
+    "index": 458,
+    "hash": "6663B377F79CEEAB",
+    "name": "msg_btl_talk_gst_team21_02"
+  },
+  {
+    "index": 459,
+    "hash": "BF9874913EEE16D1",
+    "name": "msg_btl_talk_gst_team22_01"
+  },
+  {
+    "index": 460,
+    "hash": "BF9871913EEE11B8",
+    "name": "msg_btl_talk_gst_team22_02"
+  },
+  {
+    "index": 461,
+    "hash": "91DE688ADC12693C",
+    "name": "msg_btl_talk_gst_team23_01"
+  },
+  {
+    "index": 462,
+    "hash": "91DE6B8ADC126E55",
+    "name": "msg_btl_talk_gst_team23_02"
+  },
+  {
+    "index": 463,
+    "hash": "61EC7861244B2637",
+    "name": "msg_btl_talk_gst_team24_01"
+  },
+  {
+    "index": 464,
+    "hash": "61EC7961244B27EA",
+    "name": "msg_btl_talk_gst_team24_02"
+  },
+  {
+    "index": 465,
+    "hash": "0A40AC5987CC9FC2",
+    "name": "msg_btl_talk_gst_team25_01"
+  },
+  {
+    "index": 466,
+    "hash": "0A40AB5987CC9E0F",
+    "name": "msg_btl_talk_gst_team25_02"
+  },
+  {
+    "index": 467,
+    "hash": "38A9AC7194C14995",
+    "name": "msg_btl_talk_gst_team26_01"
+  },
+  {
+    "index": 468,
+    "hash": "38A9A97194C1447C",
+    "name": "msg_btl_talk_gst_team26_02"
+  },
+  {
+    "index": 469,
+    "hash": "8DF3606785B50220",
+    "name": "msg_btl_talk_gst_team27_01"
+  },
+  {
+    "index": 470,
+    "hash": "8DF3636785B50739",
+    "name": "msg_btl_talk_gst_team27_02"
+  },
+  {
+    "index": 471,
+    "hash": "9BF3B0C5073335CB",
+    "name": "msg_btl_talk_gst_team28_01"
+  },
+  {
+    "index": 472,
+    "hash": "9BF3B1C50733377E",
+    "name": "msg_btl_talk_gst_team28_02"
+  },
+  {
+    "index": 473,
+    "hash": "F0D0E4BAF7CAF5F6",
+    "name": "msg_btl_talk_gst_team29_01"
+  },
+  {
+    "index": 474,
+    "hash": "F0D0E3BAF7CAF443",
+    "name": "msg_btl_talk_gst_team29_02"
+  },
+  {
+    "index": 475,
+    "hash": "4998C475C1D112F0",
+    "name": "msg_btl_talk_gst_team30_01"
+  },
+  {
+    "index": 476,
+    "hash": "4998C775C1D11809",
+    "name": "msg_btl_talk_gst_team30_02"
+  },
+  {
+    "index": 477,
+    "hash": "2060D0810C4E99A5",
+    "name": "msg_btl_talk_gst_team31_01"
+  },
+  {
+    "index": 478,
+    "hash": "2060CD810C4E948C",
+    "name": "msg_btl_talk_gst_team31_02"
+  },
+  {
+    "index": 479,
+    "hash": "C5E61067C3E8B092",
+    "name": "msg_btl_talk_gst_team32_01"
+  },
+  {
+    "index": 480,
+    "hash": "C5E60F67C3E8AEDF",
+    "name": "msg_btl_talk_gst_team32_02"
+  },
+  {
+    "index": 481,
+    "hash": "F3331C6E26678C47",
+    "name": "msg_btl_talk_gst_team33_01"
+  },
+  {
+    "index": 482,
+    "hash": "F3331D6E26678DFA",
+    "name": "msg_btl_talk_gst_team33_02"
+  },
+  {
+    "index": 483,
+    "hash": "24D80C97DFA063CC",
+    "name": "msg_btl_talk_gst_team34_01"
+  },
+  {
+    "index": 484,
+    "hash": "24D80F97DFA068E5",
+    "name": "msg_btl_talk_gst_team34_02"
+  },
+  {
+    "index": 485,
+    "hash": "7B3DD89F7B0A27A1",
+    "name": "msg_btl_talk_gst_team35_01"
+  },
+  {
+    "index": 486,
+    "hash": "7B3DD59F7B0A2288",
+    "name": "msg_btl_talk_gst_team35_02"
+  },
+  {
+    "index": 487,
+    "hash": "2209188633B9012E",
+    "name": "msg_btl_talk_gst_team36_01"
+  },
+  {
+    "index": 488,
+    "hash": "2209178633B8FF7B",
+    "name": "msg_btl_talk_gst_team36_02"
+  },
+  {
+    "index": 489,
+    "hash": "F71E84917CC59683",
+    "name": "msg_btl_talk_gst_team37_01"
+  },
+  {
+    "index": 490,
+    "hash": "F71E85917CC59836",
+    "name": "msg_btl_talk_gst_team37_02"
+  },
+  {
+    "index": 491,
+    "hash": "28C394BB35FEA468",
+    "name": "msg_btl_talk_gst_team38_01"
+  },
+  {
+    "index": 492,
+    "hash": "28C397BB35FEA981",
+    "name": "msg_btl_talk_gst_team38_02"
+  },
+  {
+    "index": 493,
+    "hash": "54CA20C19767E3FD",
+    "name": "msg_btl_talk_gst_team39_01"
+  },
+  {
+    "index": 494,
+    "hash": "54CA1DC19767DEE4",
+    "name": "msg_btl_talk_gst_team39_02"
+  },
+  {
+    "index": 495,
+    "hash": "06D9F8223EECA4E5",
+    "name": "msg_btl_talk_masterd_04_01a"
+  },
+  {
+    "index": 496,
+    "hash": "06D9F5223EEC9FCC",
+    "name": "msg_btl_talk_masterd_04_01b"
+  },
+  {
+    "index": 497,
+    "hash": "3C33FC05F6BA81B3",
+    "name": "msg_btl_talk_masterd_04_02"
+  },
+  {
+    "index": 498,
+    "hash": "3C33FB05F6BA8000",
+    "name": "msg_btl_talk_masterd_04_03"
+  },
+  {
+    "index": 499,
+    "hash": "3C340205F6BA8BE5",
+    "name": "msg_btl_talk_masterd_04_04"
+  },
+  {
+    "index": 500,
+    "hash": "3C340105F6BA8A32",
+    "name": "msg_btl_talk_masterd_04_05"
+  },
+  {
+    "index": 501,
+    "hash": "3C340005F6BA887F",
+    "name": "msg_btl_talk_masterd_04_06"
+  },
+  {
+    "index": 502,
+    "hash": "3C33FF05F6BA86CC",
+    "name": "msg_btl_talk_masterd_04_07"
+  },
+  {
+    "index": 503,
+    "hash": "3C340605F6BA92B1",
+    "name": "msg_btl_talk_masterd_04_08"
+  },
+  {
+    "index": 504,
+    "hash": "5D837E2D6AC138BF",
+    "name": "msg_btl_talk_rival_poi_04_01"
+  },
+  {
+    "index": 505,
+    "hash": "5D837F2D6AC13A72",
+    "name": "msg_btl_talk_rival_poi_04_02"
+  },
+  {
+    "index": 506,
+    "hash": "5D83802D6AC13C25",
+    "name": "msg_btl_talk_rival_poi_04_03"
+  },
+  {
+    "index": 507,
+    "hash": "5D83792D6AC13040",
+    "name": "msg_btl_talk_rival_poi_04_04"
+  },
+  {
+    "index": 508,
+    "hash": "5D837A2D6AC131F3",
+    "name": "msg_btl_talk_rival_poi_04_05"
+  },
+  {
+    "index": 509,
+    "hash": "5D837B2D6AC133A6",
+    "name": "msg_btl_talk_rival_poi_04_06"
+  },
+  {
+    "index": 510,
+    "hash": "5D837C2D6AC13559",
+    "name": "msg_btl_talk_rival_poi_04_07"
+  },
+  {
+    "index": 511,
+    "hash": "E15D89E36B067EAF",
+    "name": "msg_btl_talk_rival_esp_04_01"
+  },
+  {
+    "index": 512,
+    "hash": "E15D8AE36B068062",
+    "name": "msg_btl_talk_rival_esp_04_02"
+  },
+  {
+    "index": 513,
+    "hash": "E15D8BE36B068215",
+    "name": "msg_btl_talk_rival_esp_04_03"
+  },
+  {
+    "index": 514,
+    "hash": "E15D84E36B067630",
+    "name": "msg_btl_talk_rival_esp_04_04"
+  },
+  {
+    "index": 515,
+    "hash": "E15D85E36B0677E3",
+    "name": "msg_btl_talk_rival_esp_04_05"
+  },
+  {
+    "index": 516,
+    "hash": "E15D86E36B067996",
+    "name": "msg_btl_talk_rival_esp_04_06"
+  },
+  {
+    "index": 517,
+    "hash": "E15D87E36B067B49",
+    "name": "msg_btl_talk_rival_esp_04_07"
+  },
+  {
+    "index": 518,
+    "hash": "85D474A801B6C748",
+    "name": "msg_btl_talk_okami_03_01"
+  },
+  {
+    "index": 519,
+    "hash": "85D477A801B6CC61",
+    "name": "msg_btl_talk_okami_03_02"
+  },
+  {
+    "index": 520,
+    "hash": "85D476A801B6CAAE",
+    "name": "msg_btl_talk_okami_03_03"
+  },
+  {
+    "index": 521,
+    "hash": "85D479A801B6CFC7",
+    "name": "msg_btl_talk_okami_03_04"
+  },
+  {
+    "index": 522,
+    "hash": "8A4BB6BED5089BA1",
+    "name": "msg_btl_talk_okami_04_03"
+  },
+  {
+    "index": 523,
+    "hash": "8A4BB7BED5089D54",
+    "name": "msg_btl_talk_okami_04_04"
+  },
+  {
+    "index": 524,
+    "hash": "168E616875CBD867",
+    "name": "msg_btl_talk_peony_02_01"
+  },
+  {
+    "index": 525,
+    "hash": "168E626875CBDA1A",
+    "name": "msg_btl_talk_peony_02_02"
+  },
+  {
+    "index": 526,
+    "hash": "168E636875CBDBCD",
+    "name": "msg_btl_talk_peony_02_03"
+  },
+  {
+    "index": 527,
+    "hash": "168E5C6875CBCFE8",
+    "name": "msg_btl_talk_peony_02_04"
+  },
+  {
+    "index": 528,
+    "hash": "9144C0D3BD630E03",
+    "name": "msg_btl_talk_max"
+  }
+]

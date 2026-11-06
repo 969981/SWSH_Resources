@@ -1,0 +1,57 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Choisissez votre photo."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Voulez-vous confirmer ce choix\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Nom"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR FF00(0006)]Il est impossible de changer la langue en cours de partie.[VAR FF00(0000)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR FF00(0006)]Vous pouvez alterner entre hiragana et kanji dans les param\u00E8tres.[VAR FF00(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "C\u2019est parti\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Sauvegarde en cours..."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Votre progression sera automatiquement sauvegard\u00E9e."
+  }
+]

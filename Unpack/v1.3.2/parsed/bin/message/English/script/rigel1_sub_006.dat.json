@@ -1,0 +1,1372 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Oh! [VAR 1003][VAR 0100(0000)]! Just the person I wanted\\nto see! Tell me...\\c\\nDo you collect Watts?[VAR 0114(0074)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Sure do!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "What are those?"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Of course you do!\\nYou\u2019re such a pro at all this, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Watts are a kind of energy you can collect from\\nPok\u00E9mon Dens![VAR 0114(0074)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "I\u2019ll have you know that the Watt business is\\npositively booming right now around here.[VAR 0114(0074)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "They say that those who hold the most Watts\\nhold the key to success![VAR 0114(0074)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I\u2019ve actually been trying to gather up Watts to\\nspruce up the dojo a bit, get some more gear...[VAR 0114(0074)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "But both my darling hubby and my son are more\\nthe indoor types, you know?[VAR 0114(0074)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "And it\u2019s pretty hard for me to collect that many\\nWatts all on my own...[VAR 0114(0074)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "If you ever happen to have some Watts to spare,\\n[VAR 0100(0000)], I\u2019d be glad to take them![VAR 0114(0074)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Oh, but I wouldn\u2019t ask you to give them to me\\nand not get anything in return!\\c\\nThis would be a business transaction, of course.\\nI\u2019ll reward you for your generosity![VAR 0114(0074)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Whenever you have some extra Watts, simply\\ncome and talk to me![VAR 0114(0074)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Hello, [VAR 0100(0000)]!\\nWhat can I help you with, love?[VAR 0114(0074)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Anything else you need from me?[VAR 0114(0074)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "I\u2019m here to share some Watts!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "What\u2019s the next goalpost?"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "I\u2019m ready to battle!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Nothing"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "If there\u2019s ever anything I can help you with,\\njust say the word![VAR 0114(0074)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "How many Watts could you bear to part with?[VAR 0114(0074)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "1,000 W"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "5,000 W"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "10,000 W"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "50,000 W"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "100,000 W"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "500,000 W"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "1,000,000 W"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "All my Watts!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "You\u2019ll give us [VAR 0207(0001,002C)] W?[VAR 0114(0074)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "You\u2019ll give us all your Watts, [VAR 0100(0000)]?![VAR 0114(0074)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Oh, you sweet thing. I do appreciate your wish\\nto help, but you simply don\u2019t have the Watts![VAR 0114(0074)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Well, [VAR 0100(0000)], you\u2019ve given us...\\n[VAR 0207(0001,002C)] W so far![VAR 0114(0074)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Thank you so much! I\u2019ll be sure to use the Watts\\nto help develop the dojo even more.[VAR 0114(0074)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "With over [VAR 0207(0001,002C)] W, I can afford to have\\na hair stylist come work here at the dojo, too![VAR 0114(0074)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Hello, hello? Is this the hair salon?\\nYes, this is Honey from the Master Dojo. \u266A\\c\\nI was wondering if you could spare a stylist to\\ncome enjoy the lovely island life with us!\\r\\nYes, that\u2019s right\u2014the Isle of Armor... Mm-hmm...[VAR 0114(0074)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "They\u2019re sending someone right over![VAR 0114(0074)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Hello, dojo! It\u2019s lovely to meet you all!\\nI\u2019m your new hair stylist!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "But I can\u2019t bare all the secret arts of hair styling\\nto you all. So when you\u2019d like to have something\\r\\ndone, please call on me in this room here!\\r\\nNo cameras allowed!\\r\\nAnd no speaking of what you see inside this room!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Now that\u2019s a real pro...\\nTrue masters are always picky about their craft.[VAR 0114(0074)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hee! But now we can always look our best\u2014\\neven out here in the wilds![VAR 0114(0074)]"
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "And since we\u2019ve gathered over [VAR 0207(0001,002C)] W,\\nI can order a Rotomi terminal for the dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Hello, hello? Is this the Pok\u00E9mon Center?\\nThis is Honey from the Master Dojo! \u266A\\c\\nI\u2019d like to buy one of your Rotomi terminals for\\nsome Watts, but what do you say?\\r\\nMm-hmm... Mm-hmm... Yes, that\u2019s right...[VAR 0114(0074)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "We were able to make a deal!\\nAnd I got them to send it right over at once![VAR 0114(0074)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Though... Hmm?\\nThis doesn\u2019t look quite right...[VAR 0114(0074)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "There\u2019s something written on the screen here.\\nNow let me see...[VAR 0114(0074)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u201CThank you for your purchase! To get your new\\nRotomi up and running, you must first install our\\r\\nproprietary software.[VAR 0114(0074)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u201CTo order your copy today, contact our sales\\ndepartment...at...\u201D\\r\\nWhat![VAR 0114(0074)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "They\u2019re simply trying to gouge us for more Watts!\\nOf all the greedy, conniving business practices![VAR 0114(0074)]"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "I\u2019m awfully sorry about this, [VAR 0100(0000)]...\\c\\nBut it looks like we\u2019ll need a bit more of your\\nhelp to get our Rotomi up and running...[VAR 0114(0074)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "And now that we\u2019ve exceeded [VAR 0207(0001,002C)] W,\\nwe can finally get our Rotomi up and running![VAR 0114(0074)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Hello, hello? Is this the Pok\u00E9mon Center?\\nHoney from the Master Dojo! \u266A\\r\\nYes, again! Fancy that...\\c\\nWe ordered a Rotomi from you a little while\\nback... Yes, yes, it does look lovely...\\r\\nBut we\u2019d rather prefer it to actually WORK, too.\\r\\nMm-hmm... Could you send someone right over?[VAR 0114(0074)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Now that that\u2019s taken care of...\\nLet\u2019s fire it up![VAR 0114(0074)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Roto!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Pleazzzed to greet you, Mzzz. Honey!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Rotomi at your service! Bzzzt!"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "And I am delighted to hear it!\\nI\u2019m sure you\u2019ll be worth every last Watt you\u2019ve\\r\\ncost us... In fact, we\u2019ll make sure of it![VAR 0114(0074)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Our Rotomi is up and running thanks to your\\nWatts, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "So be sure to use it plenty![VAR 0114(0074)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "And now that we\u2019ve blown past [VAR 0207(0001,002C)] W,\\nwe can get a vending machine for the dojo, too![VAR 0114(0074)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Hello, hello? Is this Macro Cosmos Living?\\nYes, this is Honey over at the Master Dojo. \u266A\\c\\nI was just wondering if we could get one of your\\nlovely vending machines over here at our dojo...\\r\\nYes, yes, that\u2019s right... Of course...[VAR 0114(0074)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "*glug glug glug*\\nAhhhhh! That is some refreshing water![VAR 0114(0074)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "We\u2019re able to offer the drinks at far less than the\\nusual asking price, so I\u2019d get all your drinks from\\r\\nhere from now on if I were you![VAR 0114(0074)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "We\u2019ve only got Fresh Water in stock so far,\\nbut the dojo\u2019s services are really getting robust![VAR 0114(0074)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "With some more Watts, I can expand the lineup\\neven further, too.[VAR 0114(0074)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "And we\u2019ve hit [VAR 0207(0001,002C)] W!\\nWe can stock Soda Pop in the vending machine![VAR 0114(0074)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Hello, hello! Macro Cosmos Living, right?\\nHoney from the Master Dojo here! \u266A[VAR 0114(0074)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "*gulp gulp gulp*\\nAhhhhhh... Lovely![VAR 0114(0074)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Soda Pop brings a little fizz and sparkle to every\\nday, doesn\u2019t it? And we don\u2019t even have to leave\\r\\nthe dojo now to get some![VAR 0114(0074)]"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "And there\u2019s still more room to expand the lineup\\nfurther...if we get some more Watts.[VAR 0114(0074)]"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "And since we\u2019ve hit [VAR 0207(0001,002C)] W, I can order\\nin some Lemonade for the vending machine![VAR 0114(0074)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Hello, hello, Macro Cosmos Living!\\nHoney from the Master Dojo here! \u266A[VAR 0114(0074)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "*gulp gulp gulp*\\nNow that\u2019s just what was needed!\\c\\nI\u2019ve got such a spring in my step that I feel I\u2019m\\ndancing on air![VAR 0114(0074)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "A refreshing bottle of Lemonade sounds like\\njust the thing to cool you down when you\u2019re\\r\\nfeeling all hot and sweaty![VAR 0114(0074)]"
+  },
+  {
+    "index": 75,
+    "flags": 4,
+    "text": "I think we\u2019ve got quite the lineup of drinks now,\\nbut maybe we could use something to nosh on?[VAR 0114(0074)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "And since we reached [VAR 0207(0001,002C)] W, I think\\nI can arrange for regular deliveries of fresh\\r\\ningredients to come here to the dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Hello, hello! Is this the Dream Dairy?\\nThis is Honey from the Master Dojo! \u266A\\c\\nIs it possible to ask for a regular delivery of your\\ndelicious products? Mm-hmm, mm-hmm...[VAR 0114(0074)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "We managed to pull off a swift new contract!\\nIt took no time at all, and it\u2019s sure to be a hit!\\c\\nWe\u2019ll have fresh ingredients delivered to the dojo\\neach day now, so feel free to take your pick!\\c\\nWithin reason, of course...you silly sausage![VAR 0114(0074)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "What should I do next with all these Watts...\\nI wonder if people would like to get nutritious\\r\\ndrinks from a vending machine, too...[VAR 0114(0074)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Since you\u2019ve given us [VAR 0207(0001,002C)] W, I\u2019ll add\\nsome healthier drinks to our lineup![VAR 0114(0074)]"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "Ah, er, hello? Have I reached No. 1 Pharmacy?\\nThis is Honey from the Master Dojo! \u266A\\c\\nI was just thinking how much I\u2019d love to offer\\nyour supplement drinks here...\\r\\nRight, right... Mm-hmm... Naturally...[VAR 0114(0074)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "You can now buy your fill of Protein and Iron\\nright here at the dojo! This...is...AMAZING!\\c\\nAnd since we bought so many, we got bulk pricing.\\nGood for the body...and the pocketbook![VAR 0114(0074)]"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "I know it\u2019s not the whole array of supplements\\nyet, but this is still a huge step for us![VAR 0114(0074)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "With some more Watts, I can expand the lineup\\neven further, too.[VAR 0114(0074)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "And since we\u2019ve reached [VAR 0207(0001,002C)] W,\\nlet\u2019s try to get some more supplements in stock![VAR 0114(0074)]"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Hello, hello? Is this No. 1 Pharmacy?\\nIt\u2019s Honey from the Master Dojo! \u266A\\c\\nThank you so much for all your support so far.\\nIn fact, we\u2019d like to offer some more of your\\r\\nproducts here at the dojo...\\r\\nMm-hmm... Mm-hmm...[VAR 0114(0074)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Look! Look!\\nNow we\u2019ve got Calcium and Zinc, too![VAR 0114(0074)]"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "If I just raised my Sp. Atk enough, maybe I\\ncould fire off a Focus Blast or two...[VAR 0114(0074)]"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "And there\u2019s still more room to expand the lineup\\nfurther if we get some more Watts![VAR 0114(0074)]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "So! Since we reached [VAR 0207(0001,002C)] W,\\nlet\u2019s get even more supplements in stock![VAR 0114(0074)]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Hello, hello, No. 1 Pharmacy?\\nIt\u2019s your old pal Honey from the Master Dojo! \u266A\\c\\nDo you think we could ask for just one more\\nteeny tiny addition to our regular order?[VAR 0114(0074)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Now we\u2019ve got HP Up and Carbos for sale![VAR 0114(0074)]"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "If I raise my Speed a bit more, I might be able\\nto finish my hair and makeup in just seconds![VAR 0114(0074)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "But first, I\u2019ve got to think of another way to help\\nthe Master Dojo\u2019s name recognition![VAR 0114(0074)]"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "And since we\u2019ve got [VAR 0207(0001,002C)] W now, I think\\nwe can finally negotiate to get the Master Dojo\\r\\nadded as a League Card background![VAR 0114(0074)]"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Ahem. Hello? Hello. Is this the Pok\u00E9mon League?\\c\\nHoney here from the Master Dojo! \u266A\\c\\nI\u2019ve got a plan that I think will benefit the both\\nof us, if you might be interested...\\r\\nMm-hmm... Exactly right...[VAR 0114(0074)]"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Heehee! It all went smoothly, and I got\\neverything settled![VAR 0114(0074)]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "You can now choose the Master Dojo as one\\nof your backgrounds for your League Card!"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Update your League Card anytime from our\\nvery own Rotomi![VAR 0114(0074)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 4,
+    "text": "And now that we\u2019ve blown past [VAR 0207(0001,002C)] W,\\nI\u2019m going to show you a real work of art![VAR 0114(0074)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Hello, hello? Is this the Pok\u00E9mon League?\\c\\nIt\u2019s me again! Yes, me\u2014Honey! \u266A\\c\\nThere\u2019s actually something really special I\u2019d like\\nyour help putting together... \u266A\\c\\nOh, you! Now, don\u2019t tease!\\nNo! I swear it\u2019s not like that! Heehee...[VAR 0114(0074)]"
+  },
+  {
+    "index": 109,
+    "flags": 4,
+    "text": "And here we go! Fresh off the presses![VAR 0114(0074)]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "We\u2019ll spread these League Cards far and wide\\nto help promote the dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "That was my initial plan, anyway.\\c\\nBut they caught us in such a random\\nmoment, didn\u2019t they...\\c\\nI think we\u2019d better just keep this a personal\\nkeepsake and not spread it about much.[VAR 0114(0074)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Maybe our next batch of Watts can\\ngo toward something a bit more\\r\\nbattle focused... Mm-hmm![VAR 0114(0074)]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "You\u2019ve blown right past [VAR 0207(0001,002C)] W!\\nTo celebrate, I\u2019m going to give you the chance\\r\\nto battle the strongest of Trainers![VAR 0114(0074)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Hello? Is this my favorite Pok\u00E9mon League?\\nThat\u2019s right\u2014it\u2019s Honey! Teehee!\\r\\nDid you recognize my voice, you sweet thing?\\c\\nWell, I was just calling today to see if I could\\nask you a teeny tiny favor?[VAR 0114(0074)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Well, that was a shame...[VAR 0114(0074)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "I had them reach out to some other regions\u2019\\nChampions to ask about a battle, but...[VAR 0114(0074)]"
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "I guess Galar is just a bit too far to come for a\\nfriendly pickup match. Those party poopers![VAR 0114(0074)]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Well, if that\u2019s the way they\u2019re going to be,\\nI\u2019ll simply have to let you battle another\\r\\ntop Trainer![VAR 0114(0074)]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "When you\u2019re ready to take on that challenge,\\njust say the word and let me know![VAR 0114(0074)]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "We\u2019ve reached [VAR 0207(0001,002C)] W at last!\\nThis is the final reward I have to offer you, but...[VAR 0114(0074)]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Dear [VAR 0100(0000)]...\\nWould you care to take a little stroll with me?[VAR 0114(0074)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 4,
+    "text": "Are you ready to take on a truly formidable\\nTrainer in battle?[VAR 0114(0074)]"
+  },
+  {
+    "index": 129,
+    "flags": 4,
+    "text": "Oh, you! Do you want to battle me again?[VAR 0114(0074)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Whenever you feel ready, let me know![VAR 0114(0074)]"
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "Are you really...\\nWell, follow me.[VAR 0114(0074)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Smashing! Let\u2019s get right to it![VAR 0114(0074)]"
+  },
+  {
+    "index": 133,
+    "flags": 4,
+    "text": "I\u2019ve prepared a truly challenging battle for you,\\nmy dear [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 134,
+    "flags": 4,
+    "text": "And your opponent will be...[VAR 0114(0074)]"
+  },
+  {
+    "index": 135,
+    "flags": 4,
+    "text": "I\u2019M HERE TO BATTLE!"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "What?[VAR 0114(0074)]"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Hey, wait. Aren\u2019t you...?"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "You remember me? We met at the station\\nwhen you first came to the island!"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "To think I might\u2019ve been standing where you are\\nright now if I\u2019d only had the guts...\\r\\nCripes, but that would\u2019ve been a disaster!\\c\\nLetting you go to the Master Dojo in my place\\nis the best thing that\u2019s ever happened to me!"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Thanks to my cowardice that time, I was able to\\njoin an even BETTER dojo than this old place!"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "The Wile Dojo!"
+  },
+  {
+    "index": 142,
+    "flags": 4,
+    "text": "And as the strongest, wiliest, and wildest Trainer\\nthe Wile Dojo has got..."
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "I\u2019m here to show the fusty old Master Dojo that\\nit\u2019s time you all pack up and make way for the\\r\\nthe new hotness that\u2019s here to replace you!"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Now, now, let\u2019s all just settle down...[VAR 0114(0074)]"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "You know this person, [VAR 0100(0000)]?[VAR 0114(0074)]"
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "I must say, his manners leave something\\nto be desired.\\r\\nYou should pick your friends more wisely.[VAR 0114(0074)]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Nobody asked you!\\nWho are you to be judging me!"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Bring out the strongest Trainer you\u2019ve got,\\nthis instant! I\u2019ll show you your dojo is done for!"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "Well, this wasn\u2019t what I\u2019d had in mind, but...[VAR 0114(0074)]"
+  },
+  {
+    "index": 150,
+    "flags": 4,
+    "text": "I\u2019m sorry, [VAR 0100(0000)], but could I ask you to\\nwait just a bit longer for that battle?[VAR 0114(0074)]"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Seriously? Disappear already, would you?\\nI\u2019m not here to beat on somebody\u2019s mum."
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "You know, love, you\u2019re really being quite the\\nbother here...[VAR 0114(0074)]"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "Wh-what?!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Hey! W-wait! Augh\u2014!"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "N-no! Stop! Mercy!"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "NGAHHHHHHH!!!"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "B-but I\u2019m the strongest person in the\\nWile Dojo!\\c\\nHow could this lady have destroyed me\\nlike this?!\\r\\nI couldn\u2019t even lift a finger to stop her!"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "You there.[VAR 0114(0074)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Y-YES, MA\u2019AM?!"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "You haven\u2019t even mastered the basics of\\nunderstanding how moves work.[VAR 0114(0074)]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "You sure you don\u2019t want to come start over from\\nscratch at the Master Dojo?[VAR 0114(0074)]"
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Once we tear you down completely, I promise\\nwe\u2019ll build you back up as a proper Trainer.[VAR 0114(0074)]"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "Eeeek?!"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[~ 164]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "[~ 165]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "[~ 166]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "GAAAHHHHHH!\\nThis place is nuts! I can\u2019t take it!"
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "Oh sugar! I went and did it again![VAR 0114(0074)]"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Looks like I\u2019ve scared off another potential\\nstudent for the dojo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "I\u2019d been looking forward to surprising you, too,\\n[VAR 0100(0000)], but that silly sausage went and\\r\\nruined everything![VAR 0114(0074)]"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "But, well, there\u2019s no use crying over spilt\\nMoomoo Milk![VAR 0114(0074)]"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "So now you know! The strong Trainer you\u2019ll be\\nfacing is me! Honey! \u266A[VAR 0114(0074)]"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "You think you\u2019re ready for me, [VAR 0100(0000)]?[VAR 0114(0074)]"
+  },
+  {
+    "index": 174,
+    "flags": 4,
+    "text": "I\u2019m about to blow your mind![VAR 0114(0074)]"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Nooooooooo! Fiddlesticks!\\nI didn\u2019t think you\u2019d actually be able to beat me![VAR 0114(0074)]"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "But at least you did get my pulse racing...[VAR 0114(0074)]"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Thanks for showing me a really great time in\\nthat battle![VAR 0114(0074)]"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Honestly, my darling hubby would be the first to\\ntell you that he and I are on the same level\\r\\nwhen it comes to our strength in battle...[VAR 0114(0074)]"
+  },
+  {
+    "index": 179,
+    "flags": 4,
+    "text": "And yet you beat me, [VAR 0100(0000)]!\\nYou really are strong![VAR 0114(0074)]"
+  },
+  {
+    "index": 180,
+    "flags": 4,
+    "text": "I\u2019m sure that you\u2019re really igniting a new fire in\\nmy darling hubby and our other students.[VAR 0114(0074)]"
+  },
+  {
+    "index": 181,
+    "flags": 4,
+    "text": "I don\u2019t mean to ask too much of you, but if I\\nmight ask a bit more...[VAR 0114(0074)]"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Please do carry on as a part of the Master Dojo\\nfamily, and help all our family learn and grow![VAR 0114(0074)]"
+  },
+  {
+    "index": 183,
+    "flags": 4,
+    "text": "Oh, and...[VAR 0114(0074)]"
+  },
+  {
+    "index": 184,
+    "flags": 4,
+    "text": "I won\u2019t let you rest on your laurels\\nfor too long, mind![VAR 0114(0074)]"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Let\u2019s have another great battle soon![VAR 0114(0074)]"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Heehee!\\nBattling you really is the best, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Give me another shot at beating you tomorrow,\\nwon\u2019t you?[VAR 0114(0074)]"
+  },
+  {
+    "index": 188,
+    "flags": 4,
+    "text": "Oooooh, that one felt really close!\\nYou nearly had me, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "But victory is mine today![VAR 0114(0074)]"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "But I\u2019m pretty tuckered out for today.[VAR 0114(0074)]"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Let\u2019s save the revenge match for tomorrow!\\nI\u2019ll be waiting for it![VAR 0114(0074)]"
+  },
+  {
+    "index": 192,
+    "flags": 4,
+    "text": "I\u2019m pretty tuckered out for today.\\nCome ask me for another battle tomorrow, \u2019K?[VAR 0114(0074)]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "You know, [VAR 0100(0000)], we have so much to\\nthank you for...[VAR 0114(0074)]"
+  },
+  {
+    "index": 194,
+    "flags": 4,
+    "text": "It\u2019s all because of the Watts you shared with us\\nthat we were able to make the Master Dojo into\\r\\nthe fine facility it is today.[VAR 0114(0074)]"
+  },
+  {
+    "index": 195,
+    "flags": 4,
+    "text": "I tried my best to help"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "No, no... It was nothing!"
+  },
+  {
+    "index": 197,
+    "flags": 4,
+    "text": "And you succeeded! It\u2019s amazing how you\\nmanaged to collect so many Watts![VAR 0114(0074)]"
+  },
+  {
+    "index": 198,
+    "flags": 4,
+    "text": "Oh, you humble H[VAR 1100(00FF,0405)]ubertolly!\\nI won\u2019t have you downplaying this effort![VAR 0114(0074)]"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "You know, when my hubby first told me that he\\nwanted to open a dojo of his own...[VAR 0114(0074)]"
+  },
+  {
+    "index": 200,
+    "flags": 4,
+    "text": "I have to admit, I had a lot of doubts.[VAR 0114(0074)]"
+  },
+  {
+    "index": 201,
+    "flags": 4,
+    "text": "I was still working at my previous job at the time.[VAR 0114(0074)]"
+  },
+  {
+    "index": 202,
+    "flags": 4,
+    "text": "And there was simply so much work that went\\ninto getting the dojo built...[VAR 0114(0074)]"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "Let alone the question of whether anyone would\\neven want to move to an uninhabited island like\\r\\nthis, just to train at an unknown dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "But...my hubby-wubby and I both gave it our all.[VAR 0114(0074)]"
+  },
+  {
+    "index": 205,
+    "flags": 4,
+    "text": "And when Hyde came along, the students all\\npitched in and helped out with everything.[VAR 0114(0074)]"
+  },
+  {
+    "index": 206,
+    "flags": 4,
+    "text": "And of course, you\u2019ve been a huge help\\nas well, [VAR 0100(0000)]![VAR 0114(0074)]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "We\u2019ve made it to where we are today because\\nwe got so much help from so many people...[VAR 0114(0074)]"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "This has been an entirely different chapter of my\\nlife, but it\u2019s turned out to be a great one![VAR 0114(0074)]"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "So thank you, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "I\u2019d like you to take this.\\nNot as any sort of payback for all you\u2019ve done,\\r\\nbut just because I want you to have it.[VAR 0114(0074)]"
+  },
+  {
+    "index": 211,
+    "flags": 4,
+    "text": "It\u2019s a very rare card that only the master and I\\nhave had copies of until now![VAR 0114(0074)]"
+  },
+  {
+    "index": 212,
+    "flags": 4,
+    "text": "Oh, look! Slowpoke![VAR 0114(0074)]"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "Slooow..."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Po?"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "Teehee!\\nDon\u2019t they look all lovey-dovey to you?[VAR 0114(0074)]"
+  },
+  {
+    "index": 216,
+    "flags": 4,
+    "text": "Ahhh! This has been so lovely!\\nIt\u2019s been so long since I was last able to simply\\r\\ntake a nice stroll without worrying about a thing![VAR 0114(0074)]"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Just feeling the lovely breeze on my face...[VAR 0114(0074)]"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "But if we stay away too long, I suppose everyone\\nwill start to worry about us.[VAR 0114(0074)]"
+  },
+  {
+    "index": 219,
+    "flags": 4,
+    "text": "It\u2019s time we headed back home![VAR 0114(0074)]"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Let\u2019s go home!"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Can\u2019t we stay just a little longer?"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "Heehee! Of course!\\nOur family is waiting![VAR 0114(0074)]"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "Now, now... Look who is trying to hog Ms. Honey\u2019s\\nattentions all to h[VAR 1100(00FF,0202)]imerself![VAR 0114(0074)]"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "Thank you for the lovely stroll, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "Though, I\u2019m a little embarrassed about how much\\nI blathered on about my own past![VAR 0114(0074)]"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Don\u2019t tell anyone I\u2019m such a soggy Sally!\\nI\u2019m counting on you![VAR 0114(0074)]"
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "If you could spare us another [VAR 0207(0001,002C)] W,\\n[VAR 0100(0000)], then...let\u2019s see...[VAR 0114(0074)]"
+  },
+  {
+    "index": 228,
+    "flags": 4,
+    "text": "I could hire a hair stylist for the dojo so you\\ncould change your look whenever you like!\\r\\nHow would that sound?[VAR 0114(0074)]"
+  },
+  {
+    "index": 229,
+    "flags": 4,
+    "text": "I could try to get the dojo one of those Rotomi\\nterminals, like they\u2019ve got at Pok\u00E9mon Centers![VAR 0114(0074)]"
+  },
+  {
+    "index": 230,
+    "flags": 4,
+    "text": "I could get our Rotomi actually up and running![VAR 0114(0074)]"
+  },
+  {
+    "index": 231,
+    "flags": 4,
+    "text": "I\u2019ll put in a vending machine where you can buy\\nreally cheap drinks whenever you like![VAR 0114(0074)]"
+  },
+  {
+    "index": 232,
+    "flags": 4,
+    "text": "I\u2019ll increase the vending machine\u2019s lineup\\nby adding Soda Pop, too![VAR 0114(0074)]"
+  },
+  {
+    "index": 233,
+    "flags": 4,
+    "text": "I\u2019ll increase the vending machine\u2019s lineup\\nby adding Lemonade, too![VAR 0114(0074)]"
+  },
+  {
+    "index": 234,
+    "flags": 4,
+    "text": "I\u2019ll have fresh ingredients for cooking delivered\\nregularly to the dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 235,
+    "flags": 4,
+    "text": "I\u2019ll make it so you can buy nutritious supplements\\nfrom a vending machine right here at the dojo![VAR 0114(0074)]"
+  },
+  {
+    "index": 236,
+    "flags": 4,
+    "text": "I\u2019ll make more kinds of supplements available\\nin our vending machine![VAR 0114(0074)]"
+  },
+  {
+    "index": 237,
+    "flags": 4,
+    "text": "I\u2019ll make even more kinds of supplements\\navailable in our vending machine![VAR 0114(0074)]"
+  },
+  {
+    "index": 238,
+    "flags": 4,
+    "text": "I\u2019ll have a special Master Dojo design made for\\nyour League Card![VAR 0114(0074)]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[~ 239]"
+  },
+  {
+    "index": 240,
+    "flags": 4,
+    "text": "I\u2019ll be able to make you a true work of beauty!\\nYou\u2019ll have to wait to find out just what! Teehee![VAR 0114(0074)]"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 4,
+    "text": "I\u2019ll set you up with the chance to battle a\\nfrightfully strong Trainer! Really![VAR 0114(0074)]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "Well, there\u2019s not much more that I can offer\\nyou...except maybe a bit of my time?\\c\\nWe don\u2019t get much time to really talk here at\\nthe dojo with so many students around.\\c\\nWould you like to go on a nice quiet walk,\\njust you and me?[VAR 0114(0074)]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 4,
+    "text": "Oh, you!\\nYou know, I\u2019ve got nothing left to give you!\\c\\nYou\u2019re just doing it for your own satisfaction at\\nthis point, huh?[VAR 0114(0074)]"
+  },
+  {
+    "index": 262,
+    "flags": 4,
+    "text": "I can\u2019t repay you in any way, but how many\\nWatts do you want to share with us?[VAR 0114(0074)]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "Thank you, love! I\u2019m sure the dojo will put it to\\ngood use in some way or another![VAR 0114(0074)]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Hrmm... If only someone\u2014\\n*mumble*\\c\\nNo, but who would gather that many\u2014\\n*mumble*[VAR 0114(0074)]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "What\u2019s this?\\nThere\u2019s a note stuck to the refrigerator...\\c\\n\u201CThese ingredients are for everyone\u2019s meals!\\nNo nicking food outside of mealtime! \u2014Honey\u201D"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "The refrigerator is packed full of ingredients.\\nWhat are you in the mood for?"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[VAR 0109(0001)]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[VAR 0109(0002)]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[VAR 0109(0003)]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[VAR 0109(0004)]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "\u201CWho keeps on opening and closing the\\nrefrigerator all day?! No wasting electricity!\u201D[VAR 0114(0074)]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "Maybe we\u2019ve already had enough for today..."
+  }
+]

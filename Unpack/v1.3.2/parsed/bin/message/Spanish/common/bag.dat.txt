@@ -1,0 +1,351 @@
+Dinero
+[VAR 0206(0000,202F)] 
+[VAR 0112(0000)]
+DT
+[VAR 0109(0000)]
+[~ 5]
+Nv. [VAR 0202(0000)]
+[VAR 0102(0000)]
+PS
+/
+[VAR 0203(0000,0000)]
+[VAR 0203(0000,0000)]
+Tipo
+Clase
+Potencia
+[VAR 0202(0000)]
+Precisión
+[VAR 0202(0000)]
+—
+PP
+[VAR 0201(0000)]
+MT[VAR 0201(0000)]
+[VAR 0201(0000)]/[VAR 0201(0001)]
+[~ 23]
+[~ 24]
+[~ 25]
+[VAR 0109(0000)]
+¡Nuevo!
+×
+[VAR 0202(0000)]
+ Confirmar
+ Atrás
+ Favoritos
+ Organizar
+Vacío
+¿Con qué Pokémon quieres usar este objeto?
+[VAR 0102(0000)] y [VAR 0107(0001)]\nson incompatibles.\c\nEl Pokémon no puede aprender ese movimiento.\c
+[VAR 0102(0000)] ya conoce\n[VAR 0107(0001)].\c
+MT activada.\c
+¡[VAR 0102(0000)] ha aprendido\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 0102(0000)] quiere aprender\n[VAR 0107(0001)].\c\n¿Quieres sustituir alguno de sus movimientos\npor [VAR 0107(0001)]?
+1, [WAIT 20]2 y... [WAIT 20]¡puf![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] ha olvidado cómo utilizar\n[VAR 0107(0001)] y...\c\n¡Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 0102(0000)] no ha aprendido\n[VAR 0107(0001)].\c
+Selecciona el movimiento que quieres sustituir\npor [VAR 0107(0000)].\c
+DT activado.\c
+Los DT solo se pueden usar una vez.\c
+El DT [VAR 0107(0000)] se ha roto.\c
+El DT se romperá. ¿Quieres continuar?
+Sí
+No
+[VAR FF00(0002)]Sí puede[VAR FF00(0000)]
+[VAR FF00(0001)]No puede[VAR FF00(0000)]
+Ya lo conoce
+[VAR FF00(0002)]Apto[VAR FF00(0000)]
+[VAR FF00(0001)]No apto[VAR FF00(0000)]
+[~ 55]
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+¿Cuánt[VAR 1100(0000,0101)]oas [VAR 1001][VAR 010A(0000)] quieres\nvender?
+[VAR 0202(0000)]
+×
+[VAR 0207(0000,202F)] 
+Precio de venta
+Puedo pagarte [VAR 0207(0000,202F)] .\n¿Te parece bien?
+Sí
+No
+—
+¿Cuánt[VAR 1100(0000,0101)]oas [VAR 1001][VAR 010A(0000)] quieres\nvender?
+Lo siento, no puedo comprar eso.\c
+Recibes [VAR 0207(0001,202F)]  por la venta [VAR 1704(0000,0001)]\n[VAR 010A(0000)].\c
+Recibes [VAR 0207(0001,202F)]  por la venta [VAR 1704(0000,0001)]\n[VAR 1001][VAR 010A(0000)].\c
+Por clase
+Alfabéticamente
+Nuevos primero
+Por número
+Favoritos primero
+Salir
+¿Cómo quieres ordenar tus objetos?
+Los objetos se han ordenado por clase.\c
+Los objetos se han ordenado alfabéticamente.\c
+Los objetos se han ordenado por número.\c
+Los favoritos se han puesto al principio.\c
+Los objetos se han ordenado según el orden de\nobtención, los más recientes primero.\c\n
+Usar
+Dar
+[~ 91]
+[~ 92]
+[~ 93]
+Activar
+Desactivar
+Salir
+Has seleccionado: [VAR 0109(0000)].
+[VAR 0102(0000)] ha recuperado [VAR 0202(0001)] PS.\c
+¡[VAR 0102(0000)] ya no está debilitado!\c
+[VAR 0102(0000)] se ha curado del\nenvenenamiento.\c
+[VAR 0102(0000)] se ha curado de la parálisis.\c
+[VAR 0102(0000)] ya no tiene quemaduras.\c
+[VAR 0102(0000)] ya no está congelado.\c
+[VAR 0102(0000)] se ha despertado.\c
+[VAR 0102(0000)] ha recuperado su estado\nnormal.\c
+Los puntos de base [VAR 1704(0001,0000)][VAR 010D(0001)]\nde [VAR 0102(0000)] han aumentado.\c
+[VAR 0102(0000)] se ha vuelto más amable.\c\n¡Pero tiene menos [VAR 010D(0001)] de base!\c
+[VAR 0102(0000)] te adora.\c\n¡Pero su[VAR 1101(0001,0100)]s [VAR 010D(0001)] de base\nha[VAR 1101(0001,0100)]n disminuido!\c
+[VAR 0102(0000)] se ha vuelto más amable.\c\n¡Su[VAR 1101(0001,0100)]s [VAR 010D(0001)] de base ya no puede[VAR 1101(0001,0100)]n\nbajar más!\c
+¡Has usado [VAR 1702(0001,0000)][VAR 0109(0001)]!\c
+El repelente sigue haciendo efecto.\nTodavía no puedes usar otro.\c
+Le has dado [VAR 1700(0000,0000)][VAR 0109(0000)]\nal Pokémon.\c
+Has cogido [VAR 1700(0000,0000)][VAR 0109(0000)] que\ntenía y le has dado [VAR 1700(0001,0000)][VAR 0109(0001)].\c
+No puedes darle [VAR 1000][VAR 1700(0000,0000)][VAR 0109(0000)]\na un Pokémon.\c
+No tendría ningún efecto.\c
+Las palabras de la profesora te vienen a la\nmemoria: "¡Cada cosa en su momento!".\c
+¡No hay ningún Pokémon!\c
+¿Con qué Pokémon quieres usar este objeto?
+¿A qué Pokémon quieres darle este objeto?
+A los Huevos no puedes darles objetos.\c
+Se han restaurado los PP.\c
+¿Quieres cambiar [VAR 1700(0000,0000)][VAR 0109(0000)]\npor [VAR 1700(0001,0000)][VAR 0109(0001)]?
+¿Qué movimiento quieres restaurar?
+¿De qué movimiento quieres aumentar los PP?
+Los PP de [VAR 0107(0000)]\nhan aumentado.\c
+No te caben más en la Bolsa.\c
+A los Huevos no puedes darles objetos.\c
+Se han restaurado los PP.\c
+[VAR BE05(0005)]¡[VAR 0102(0000)] ha subido al Nv. [VAR 0202(0001)]!\c
+No se puede usar con un Pokémon debilitado.\c
+No se puede realizar la separación porque tu\nequipo está completo.\c
+No se puede realizar la separación porque tu\nequipo está completo.\c
+Has activado el objeto Repartir Experiencia.\c
+Has desactivado el objeto Repartir Experiencia.\c
+¡El efecto de [VAR 0107(0001)] impide\nque puedas usar el objeto con [VAR 0102(0000)]!\c
+[VAR 0107(0000)]
+PP
+[~ 138]
+[~ 139]
+[~ 140]
+Montar
+Bajar
+No se puede fusionar con un Pokémon\ndebilitado.\c
+No se puede unir a un Pokémon debilitado.\c
+No se puede fusionar con este Pokémon.\c
+No se puede unir a este Pokémon.\c
+No se puede fusionar con un Huevo.\c
+No se puede unir a un Huevo.\c
+No se puede realizar la separación porque tu\nequipo está completo.\c
+No se puede realizar la separación porque tu\nequipo está completo.\c
+¡[VAR 0101(0000)] ha cambiado de forma!\c
+¿Con qué Pokémon quieres fusionarlo?
+¿A qué Pokémon quieres unirlo?
+¡Ha olvidado [VAR 0107(0000)]!\c
+[VAR 0102(0000)] ha olvidado\n[VAR 0107(0001)]...\c
+No se puede usar con un Huevo.\c
+¿Quieres cambiar la habilidad de\n[VAR 0102(0000)]?
+Ahora la habilidad de [VAR 0102(0000)] es\n[VAR 0106(0001)].[VAR BE05(0005)][VAR BE05(0001)]\c
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+[VAR 0202(0000)]
++[VAR 0201(0000)]
+PS
+Este objeto podría alterar las características de\n[VAR 0102(0000)]. ¿Seguro que quieres usarlo?
+¡Las características de [VAR 0102(0001)] han\ncambiado debido [VAR 1706(0000,0000)][VAR 0109(0000)]![VAR BE05(0005)][VAR BE05(0001)]\c
+¿Cuánt[VAR 1100(0001,0101)]oas [VAR 1001][VAR 010A(0001)] quieres usar?
+El nivel Dinamax ha aumentado [VAR 0201(0000)] punto[VAR 1101(0000,0100)]s.\c
+¿Cuánt[VAR 1100(0001,0101)]oas [VAR 1001][VAR 010A(0001)]\nquieres usar?
+No puedes montar en la bici mientras ojeas la\nBolsa.\c
+No puedes pescar mientras ojeas la Bolsa.\c
+No puedes usar la Caja de Pokémon mientras\nojeas la Bolsa.\c
+Bombilla
+Microondas
+Lavadora
+Nevera
+Ventilador
+Cortacésped
+¿Qué aparato quieres pedir?
+¡Se ha avistado un [VAR 0101(0000)] en el nido\nDinamax de la Atalaya!\c
+Ya ha aparecido un Pokémon en el nido Dinamax\nde la Atalaya.\c
+Cambiar forma
+Cambiar habilidad
+¿Quieres combinar los objetos seleccionados?
+Solo tienes una unidad de este objeto.\n¿Seguro que quieres continuar?
+¿Qué Pokémon quieres que lo aprenda?
+×
+[VAR 1001][VAR 1003][VAR 010A(0000)]
+[VAR 0202(0000)]
+[~ 192]
+[~ 193]
+[~ 194]
+[~ 195]
+[~ 196]
+[~ 197]
+[~ 198]
+[~ 199]
+[~ 200]
+[~ 201]
+[~ 202]
+[~ 203]
+[~ 204]
+[~ 205]
+[~ 206]
+[~ 207]
+[~ 208]
+[~ 209]
+[~ 210]
+[~ 211]
+[~ 212]
+[~ 213]
+[~ 214]
+[~ 215]
+[~ 216]
+[~ 217]
+[~ 218]
+[~ 219]
+[~ 220]
+[~ 221]
+[~ 222]
+[~ 223]
+[~ 224]
+[~ 225]
+[~ 226]
+[~ 227]
+[~ 228]
+[~ 229]
+[~ 230]
+[~ 231]
+[~ 232]
+[~ 233]
+[~ 234]
+[~ 235]
+[~ 236]
+[~ 237]
+[~ 238]
+[~ 239]
+[~ 240]
+[~ 241]
+[~ 242]
+[~ 243]
+[~ 244]
+[~ 245]
+[~ 246]
+[~ 247]
+[~ 248]
+[~ 249]
+[~ 250]
+[~ 251]
+[~ 252]
+[~ 253]
+[~ 254]
+[~ 255]
+[~ 256]
+[~ 257]
+[~ 258]
+[~ 259]
+[~ 260]
+[~ 261]
+[~ 262]
+[~ 263]
+[~ 264]
+[~ 265]
+[~ 266]
+[~ 267]
+[~ 268]
+[~ 269]
+[~ 270]
+[~ 271]
+[~ 272]
+[~ 273]
+[~ 274]
+[~ 275]
+[~ 276]
+[~ 277]
+[~ 278]
+[~ 279]
+[~ 280]
+[~ 281]
+[~ 282]
+[~ 283]
+[~ 284]
+[~ 285]
+[~ 286]
+[~ 287]
+[~ 288]
+[~ 289]
+[~ 290]
+[~ 291]
+[~ 292]
+[~ 293]
+[~ 294]
+[~ 295]
+[~ 296]
+[~ 297]
+[~ 298]
+[~ 299]
+[~ 300]
+[~ 301]
+[~ 302]
+[~ 303]
+[~ 304]
+[~ 305]
+[~ 306]
+[~ 307]
+[~ 308]
+[~ 309]
+[~ 310]
+[~ 311]
+[~ 312]
+[~ 313]
+[~ 314]
+[~ 315]
+[~ 316]
+[~ 317]
+[~ 318]
+[~ 319]
+[~ 320]
+[~ 321]
+[~ 322]
+[~ 323]
+[~ 324]
+[~ 325]
+[~ 326]
+[~ 327]
+[~ 328]
+[~ 329]
+[~ 330]
+[~ 331]
+[~ 332]
+[~ 333]
+[~ 334]
+[~ 335]
+[~ 336]
+[~ 337]
+[~ 338]
+[~ 339]
+[~ 340]
+[~ 341]
+[~ 342]
+[~ 343]
+[~ 344]
+[~ 345]
+[~ 346]
+[~ 347]
+[~ 348]
+[~ 349]
+[~ 350]

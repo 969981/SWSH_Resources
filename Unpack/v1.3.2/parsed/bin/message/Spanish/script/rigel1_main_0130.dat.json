@@ -1,0 +1,407 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Hombre, [VAR 0100(0000)], ya de vuelta![VAR 0114(0073)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Has conseguido las Maxisetas!\\nMuy bien, muy bien.\\c\\n\u00A1Eso significa que has superado la segunda\\nprueba![VAR 0114(0073)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Los dem\u00E1s se han perdido en el bosque...[VAR 0114(0073)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Me parece que la prueba esta de recoger setas\\nera un poco demasiado para ellos, \u00BFeh?[VAR 0114(0073)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Es una pena, pero todos hab\u00E9is suspendido.\\c\\nExcepto, [VAR 0100(0000)], por supuesto.[VAR 0114(0073)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "En fin, tengo un hambre que da calambre. \u00A1Hale,\\na hacer una buena Maxisopa con esas Maxisetas![VAR 0114(0073)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Con esto ya est\u00E1 listo el caldo...[VAR 0114(0074)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ahora solo queda echarle esas Maxisetas tan\\nricas que has tra\u00EDdo.[VAR 0114(0074)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Ah... Uf... \u00A1Patrona! \u00A1Espereee![VAR 0114(0071)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1Se-se\u00F1ora Patrona! \u00A1Espere un momento![VAR 0114(0072)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1S\u00F3fora![VAR 0114(0074)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00A1Dreo![VAR 0114(0074)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Vaya, respira, que te va a dar un patat\u00FAs.\\n\u00BFA qu\u00E9 viene tanta prisa?[VAR 0114(0074)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Ay... Ah...[VAR 0114(0071)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Ay... Ah...[VAR 0114(0072)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Yo... \u00A1yo tambi\u00E9n he conseguido las Maxisetas\\nesas![VAR 0114(0071)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Yo... \u00A1tambi\u00E9n he conseguido las Maxisetas![VAR 0114(0072)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1No me digas! \u00A1Muy bien, S\u00F3fora![VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u00A1No me digas! \u00A1Muy bien, Dreo![VAR 0114(0073)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1Eso significa que t\u00FA tambi\u00E9n has superado la\\nsegunda prueba![VAR 0114(0073)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1Eso significa que t\u00FA tambi\u00E9n has superado la\\nsegunda prueba![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Ay, no me lo puedo creer... Lo he conseguido...[VAR 0114(0071)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Por fin mi esfuerzo se ha visto recompensado...[VAR 0114(0072)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1No hace falta que llores, mujer![VAR 0114(0074)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1No hace falta que llores, hombre![VAR 0114(0074)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Maestro, Patrona... \u00BFMe dejan que les pida un\\nfavorcillo un poco ego\u00EDsta?[VAR 0114(0071)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Maestro, se\u00F1ora Patrona... \u00BFMe permitir\u00EDan\\npedirles un favor, por ego\u00EDsta que sea?[VAR 0114(0072)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1Me gustar\u00EDa que usaseis mis Maxisetas para\\nhacer la Maxisopa![VAR 0114(0071)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1Me alegrar\u00EDa enormemente que utilizarais mis\\nMaxisetas para elaborar la Maxisopa![VAR 0114(0072)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00A1Quiero que todos puedan saborear el fruto de\\nmi esfuerzo![VAR 0114(0071)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "De esa manera, todos mis compa\u00F1eros podr\u00E1n\\nsaborear el fruto de mi esfuerzo.[VAR 0114(0072)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Ay, Soforita...[VAR 0114(0074)]"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Ay, Dre\u00EDto...[VAR 0114(0074)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u00A1Pues claro, cari\u00F1o![VAR 0114(0074)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Ya estamos todos acostumbrados a tu ego\u00EDsmo.\\nPor una m\u00E1s, que no quede.[VAR 0114(0074)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Ya estamos todos acostumbrados a tu ego\u00EDsmo.\\nPor una m\u00E1s, que no quede.[VAR 0114(0074)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00A1Gracias![VAR 0114(0071)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u00A1Se lo agradezco, se\u00F1ora Patrona![VAR 0114(0072)]"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Espero que no te moleste, [VAR 0100(0000)].[VAR 0114(0074)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Gu\u00E1rdate las Maxisetas que has recogido, \u00BFvale?[VAR 0114(0074)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Gu\u00E1rdate las Maxisetas que has recogido, \u00BFvale?[VAR 0114(0074)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Con lo que se ha esforzado, no quiero hacerle el\\nfeo...[VAR 0114(0074)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Con lo que se ha esforzado, no quiero hacerle el\\nfeo...[VAR 0114(0074)]"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "\u00DAsalas para lo que quieras, seguro que te vienen\\nde perlas para otra ocasi\u00F3n.[VAR 0114(0074)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Y tranquil[VAR 1100(00FF,0101)]oa, \u00BFeh? Que sigues siendo [VAR 1100(00FF,0202)]ella primer[VAR 1100(00FF,0101)]oa\\nen haber completado la prueba.[VAR 0114(0073)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u00A1Y encima puedes quedarte con esas tres\\nMaxisetas tan chachis![VAR 0114(0073)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u00A1Pues ya est\u00E1 lista![VAR 0114(0074)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Preparaos todos para probar la Maxisopa,\\n\u00A1la especialidad del Dojo Maestro![VAR 0114(0074)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 hambre![VAR 0114(0073)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1Que aproveche!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u00A1Te has tomado un plato de Maxisopa!"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Bueno, \u00A1pues ya hemos comido!\\c\\nA ver, que os explique de qu\u00E9 va esto.[VAR 0114(0073)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "La Maxisopa que preparamos aqu\u00ED no es una\\nsopa normal y corriente. Al tomarla...[VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u00A1La energ\u00EDa Dinamax brota de lo m\u00E1s profundo\\ndel cuerpo...!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "De los Pok\u00E9mon, claro.[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "No os cre\u00E1is que funciona con seres humanos.[VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Pero volviendo al tema, que el Pok\u00E9mon que\\ntenga potencial...[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "\u00A1Ser\u00E1 capaz de alcanzar el estado Gigamax\\naunque antes no pudiera! \u00BFA que es la pera\\r\\nlimonera?[VAR 0114(0073)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Puedes darle Maxisopa a tus Pok\u00E9mon siempre\\nque quieras.[VAR 0114(0074)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Tan solo tienes que hablar con el encargado de\\nprepararla, que estar\u00E1 en la cocina.[VAR 0114(0074)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u00A1Bueno![VAR 0114(0073)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Me alegra ver que todos os hab\u00E9is esforzado\\ntanto en esta segunda prueba.[VAR 0114(0073)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Y, por supuesto...[VAR 0114(0073)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1Gracias por la comida![VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1Muchas gracias!"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "Ah, [VAR 0100(0000)], ven luego a la habitaci\u00F3n\\ndel fondo, que tengo algo que contarte.[VAR 0114(0073)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Uy, \u00BFa ti tambi\u00E9n te ha llamado el Maestro?[VAR 0114(0071)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo? \u00BFEl Maestro te ha convocado a ti\\ntambi\u00E9n?[VAR 0114(0072)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "No sabes la de Venipede que me han estado\\npersiguiendo en el Bosque Concentraci\u00F3n...\\r\\n\u00A1Con la grimilla que me dan!"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Acabas de entrar y ya est\u00E1s completando las\\npruebas como si nada...\\c\\nNo esperaba menos de alguien que la mism\u00EDsima\\nS\u00F3fora trajo al dojo."
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Acabas de entrar y ya est\u00E1s completando las\\npruebas como si nada...\\c\\nNo esperaba menos de alguien que el mism\u00EDsimo\\nDreo trajo al dojo."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Dicen que pasa algo incre\u00EDble cuando le das de\\ncomer a tu Pok\u00E9mon una Maxiseta en medio de\\r\\nun combate."
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Mira que hacernos competir entre nosotros por\\nlas Maxisetas... C\u00F3mo se pasa, a veces."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Menos mal que no me ha tocado encargarme de\\nhacer la sopa..."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Si el Maestro te ha pedido que vayas, deber\u00EDas\\ndarte prisa."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Que si perseguir Slowpoke, que si recoger\\nsetas... \u00BFQu\u00E9 ser\u00E1 lo siguiente?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u00A1Bravo! \u00A1Eres la repera!"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "Uy, uy, uy, solo S\u00F3fora y t\u00FA hab\u00E9is superado la\\nprueba...\\c\\n\u00BFHuele un poco a rivalidad o me lo parece a m\u00ED?"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Uy, uy, uy, solo Dreo y t\u00FA hab\u00E9is superado la\\nprueba...\\c\\n\u00BFHuele un poco a rivalidad o me lo parece a m\u00ED?"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 buena estaba esa Maxisopa!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00A1Al encargado de la sopa le sale de rechupete!\\nNo quiero ni imaginar cu\u00E1ntas horas se habr\u00E1\\r\\npasado practicando en la cocina...[VAR 0114(0074)]"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Ok"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Velocit\u00E0 testo"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lenta"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Veloce"
+  },
+  {
+    "index": 5,
+    "flags": 8,
+    "text": "Scegli la velocit\u00E0 di scorrimento del testo."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Animazioni"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 9,
+    "flags": 8,
+    "text": "Scegli se vuoi vedere le animazioni durante\\nle lotte."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Pok\u00E9mon in lotta"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Chiedi se sostituire"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Non sostituire"
+  },
+  {
+    "index": 13,
+    "flags": 8,
+    "text": "Scegli se avere la possibilit\u00E0 di sostituire\\nil tuo Pok\u00E9mon quando il nemico va KO."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Caratteri"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Hiragana"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Kanji"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Cambia caratteri."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Invio automatico ai Box"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 25,
+    "flags": 8,
+    "text": "Scegli se inviare automaticamente ai Box il Pok\u00E9mon\\ncatturato quando la tua squadra \u00E8 al completo."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Vuoi salvare le modifiche?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Opzioni"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Giroscopio"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Usa"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Non usare"
+  },
+  {
+    "index": 33,
+    "flags": 8,
+    "text": "Scegli se usare il sensore di movimento per\\ncontrollare la telecamera nei Pok\u00E9campeggi."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Salvataggio automatico"
+  },
+  {
+    "index": 35,
+    "flags": 8,
+    "text": "Scegli se attivare il salvataggio automatico."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Pro Controller"
+  },
+  {
+    "index": 37,
+    "flags": 8,
+    "text": "Scegli se usare il Pro Controller."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Salta i filmati"
+  },
+  {
+    "index": 39,
+    "flags": 8,
+    "text": "Scegli se saltare i filmati automaticamente."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Musica"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Regola il volume della musica di sottofondo."
+  },
+  {
+    "index": 42,
+    "flags": 4,
+    "text": "Effetti sonori"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Regola il volume degli effetti sonori."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Versi Pok\u00E9mon"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Regola il volume dei versi dei Pok\u00E9mon."
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " Predefinite"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Vuoi ripristinare le impostazioni predefinite?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " Conferma ed esci"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Predefinite"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Vuoi applicare le modifiche?"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Le opzioni sono state modificate.\\c"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Vuoi ripristinare le impostazioni predefinite\\ndelle opzioni?"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Comandi semplificati"
+  },
+  {
+    "index": 59,
+    "flags": 8,
+    "text": "Scegli se usare una modalit\u00E0 di comando\\nche rende pi\u00F9 facile giocare con una mano sola."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Telecamera (asse verticale)"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Normale"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Invertita"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Permette di invertire i comandi per lo spostamento\\ndella telecamera lungo l\u2019asse verticale."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Telecamera (asse orizzontale)"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Permette di invertire i comandi per lo spostamento\\ndella telecamera lungo l\u2019asse orizzontale."
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Visualizza soprannomi"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 70,
+    "flags": 8,
+    "text": "Scegli se visualizzare o meno i soprannomi dei\\nPok\u00E9mon dell\u2019avversario durante le lotte in link."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Dai soprannomi"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 74,
+    "flags": 8,
+    "text": "Scegli se avere la possibilit\u00E0 di dare un\\nsoprannome a un Pok\u00E9mon quando lo ottieni."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Sar\u00E0 avviata la modalit\u00E0 LAN.\\nAttendi..."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "La modalit\u00E0 LAN \u00E8 stata attivata.\\n\\nAttenzione: a eccezione dei Raid Dynamax,\\nnon si garantisce un corretto funzionamento\\ndelle funzioni di gioco.\\n\\nPer disattivare la modalit\u00E0 LAN, salva e chiudi\\nil gioco."
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Connessione non riuscita.\\nRiprova pi\u00F9 tardi.\\c"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Attenzione!\\c\\nScegliendo di saltare i filmati verranno saltati\\nanche filmati relativi alla trama principale.\\c\\nSi consiglia di attivare questa opzione solamente\\ndopo aver completato il gioco almeno una volta.\\c\\nVuoi davvero continuare?"
+  }
+]

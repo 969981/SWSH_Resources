@@ -1,0 +1,47 @@
+[VAR 0102(0000)]
+Objeto
+[VAR 0109(0000)]
+[VAR 0101(0000)]
+N.º [VAR 0202(0000)]
+[~ 5]
+[~ 6]
+[VAR 0201(0000)]
+[~ 8]
+[VAR 0107(0000)]
+PP
+/
+PS
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+Habilidad
+[VAR 0106(0000)]
+Potencia
+Precisión
+—
+¿Quieres que el Pokémon recuerde\n[VAR 0107(0000)]?
+Sí
+No
+¿Prefieres que [VAR 0102(0000)] no\nrecuerde un movimiento?
+¡[VAR 0102(0000)] ha recordado\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+Selecciona el movimiento que quieres sustituir\npor [VAR 0107(0000)].\c
+1, [WAIT 20]2 y... [WAIT 20]¡puf![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] ha olvidado cómo utilizar\n[VAR 0107(0002)] y...\c\n¡Ha recordado [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+[~ 30]
+Nv. [VAR 0202(0000)]
+[VAR 0202(0000)]
+[VAR 0202(0000)]/[VAR 0202(0001)]
+[VAR 0201(0000)]/[VAR 0201(0001)]
+ Confirmar
+ Atrás
+¿Quieres que el Pokémon olvide\n[VAR 0107(0000)]?
+1, [WAIT 20]2 y... [WAIT 20]¡puf![VAR BE05(0003)][VAR BE05(0005)]\c\n¡[VAR 0102(0000)] ha olvidado cómo utilizar\n[VAR 0107(0002)]!\c
+¿Quieres que aprenda [VAR 0107(0000)]?
+1, [WAIT 20]2 y... [WAIT 20]¡puf![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] ha olvidado cómo utilizar\n[VAR 0107(0002)] y...\c\n¡Ha aprendido [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+¡El Pokémon ha aprendido el movimiento\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+Selecciona el movimiento que quieres sustituir\npor [VAR 0107(0000)].\c
+¿Prefieres que el Pokémon no aprenda\n[VAR 0107(0000)]?
+¡El Pokémon no ha aprendido\n[VAR 0107(0000)]!\c
+¿Quieres que olvide [VAR 0107(0000)] y\naprenda [VAR 0107(0001)]?
+Clase

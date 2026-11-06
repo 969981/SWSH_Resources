@@ -1,0 +1,47 @@
+[VAR 0102(0000)]
+Held Item
+[VAR 0109(0000)]
+[VAR 0101(0000)]
+No. [VAR 0202(0000)]
+[~ 5]
+[~ 6]
+[VAR 0201(0000)]
+[~ 8]
+[VAR 0107(0000)]
+PP
+/
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+Ability
+[VAR 0106(0000)]
+Power
+Accuracy
+—
+Do you want your Pokémon to remember\nthe move [VAR 0107(0000)]?
+Yes
+No
+Do you want to give up on having\n[VAR 0102(0000)] remember a move?
+[VAR 0102(0000)] remembered the move\n[VAR 0107(0001)].[VAR BE05(0004)][VAR BE05(0006)]\c
+Please choose a move that will be replaced\nwith [VAR 0107(0000)].\c
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] forgot\n[VAR 0107(0002)]!\c\nAnd...\c\n[VAR 0102(0000)] remembered the move\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+[~ 30]
+Lv. [VAR 0202(0000)]
+[VAR 0202(0000)]
+[VAR 0202(0000)]/[VAR 0202(0001)]
+[VAR 0201(0000)]/[VAR 0201(0001)]
+ Confirm
+ Back
+Should [VAR 0107(0000)] be forgotten?
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] forgot [VAR 0107(0002)]!\c
+Do you want to teach the move\n[VAR 0107(0000)]?
+One...[WAIT 20]two...[WAIT 20]and...[WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] forgot\n[VAR 0107(0002)]!\c\nAnd it learned [VAR 0107(0001)] instead![VAR BE05(0004)][VAR BE05(0006)]\c
+Your Pokémon learned the move\n[VAR 0107(0001)].\c
+Please choose a move that will be replaced\nwith [VAR 0107(0000)].\c
+Do you want to give up on having your Pokémon\nlearn [VAR 0107(0000)]?
+Your Pokémon did not learn the move\n[VAR 0107(0000)].\c
+Is it OK to forget [VAR 0107(0000)]\nand learn [VAR 0107(0001)]?
+Category

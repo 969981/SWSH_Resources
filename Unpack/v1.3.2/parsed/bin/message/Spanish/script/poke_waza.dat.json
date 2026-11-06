@@ -1,0 +1,152 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Yo soy... Ejem... Hmm...\\n\u00A1Ya no me acuerdo de qui\u00E9n soy!\\c\\n...\\n...\\c\\n\u00A1Ah, s\u00ED! \u00A1Claro!\\n\u00A1Soy el Quita-Movimientos!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00BFQuieres que haga que uno de tus Pok\u00E9mon\\nolvide un movimiento?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo olvide?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Vuelve por aqu\u00ED si quieres que tus Pok\u00E9mon\\nolviden alg\u00FAn movimiento."
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Ese Pok\u00E9mon solo conoce un movimiento, as\u00ED que\\nno puede olvidarlo."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00BFEh? \u00A1Los Huevos no conocen ning\u00FAn\\nmovimiento!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento deber\u00EDa olvidar?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00A1Ha salido de perlas!\\c\\nTu Pok\u00E9mon ha olvidado el movimiento\\n[VAR 0107(0000)] por completo."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Me llamo Remi Niscencia.\\c\\nConozco todos los movimientos que un Pok\u00E9mon\\npuede aprender seg\u00FAn va subiendo de nivel.\\c\\nY tambi\u00E9n puedo hacer que los recuerde si los\\nha olvidado.\\c\\nSi me traes una Escama Coraz\u00F3n, puedo hacer\\nque alguno de tus Pok\u00E9mon recuerde un\\r\\nmovimiento."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00BFQuieres que uno de tus Pok\u00E9mon recuerde\\nalg\u00FAn movimiento?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Si quieres que uno de tus Pok\u00E9mon recuerde un\\nmovimiento, tr\u00E1eme una [VAR 0109(0000)]."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo recuerde?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Pero si solo es un Huevo!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Parece que este Pok\u00E9mon no puede recordar\\nning\u00FAn movimiento..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento deseas que recuerde?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Has entregado una [VAR 0109(0000)] a\\ncambio."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00A1Hecho! \u00A1Ha recordado ese movimiento!\\nVuelve cuando quieras, que aqu\u00ED te espero."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00A1No me digas m\u00E1s! Quieres que le ense\u00F1e\\nPlacaje El\u00E9ctrico a tu Pikachu, \u00BFverdad?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Pues tu gozo en un pozo, porque no tienes a\\nPikachu, el \u00FAnico que puede aprenderlo."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1Si tienes un Pikastal Z, podr\u00E1s conferir el\\nPoder Z al movimiento Placaje El\u00E9ctrico de\\r\\nPikachu!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pikachu quieres que lo aprenda?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1Un Pikachu con Poder Z es un Pikachu feliz!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Selecciona el movimiento que quieres sustituir\\npor [VAR 0107(0000)]."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no ha aprendido\\n[VAR 0107(0001)]."
+  }
+]

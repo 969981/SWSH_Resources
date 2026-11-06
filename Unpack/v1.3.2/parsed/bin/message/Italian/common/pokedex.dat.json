@@ -1,0 +1,992 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[~ 4]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Habitat"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "Altezza"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Peso"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "?????"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "???,? m"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "???,? kg"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Tipo"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Ruota"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Habitat sconosciuto"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Ora non appare"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Habitat di [VAR 0101(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[~ 45]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[~ 46]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 4,
+    "text": "I dati di [VAR 0101(0000)] sono stati inseriti\\nnel Pok\u00E9dex.\\c"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Diamo un\u2019occhiata al Pok\u00E9mon che hai\\nappena catturato!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Vuoi dare un soprannome a [VAR 0102(0000)]?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[~ 55]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Cosa vuoi fare con [VAR 0102(0000)]?"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Aggiungi alla squadra"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Invia ai Box del PC"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 8,
+    "text": "Scegli il Pok\u00E9mon della squadra che vuoi sostituire.\\c"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[VAR 1501(0000,0000)][VAR 0102(0000)] \u00E8 stato aggiunto alla squadra.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[VAR 1501(0000,0000)][VAR 0102(0000)] verr\u00E0 aggiunto alla squadra\\ne [VAR 1500(0001,0000)][VAR 0102(0001)] verr\u00E0 inviato ai Box del PC.\\c"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[VAR 1501(0000,0000)][VAR 0102(0000)] verr\u00E0 inviato ai Box del PC.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "[~ 64]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha [VAR 1502(0001,0000)][VAR 0109(0001)].\\nCosa vuoi fare con questo strumento?"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Mettilo nella Borsa"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Invialo ai Box del PC insieme al Pok\u00E9mon"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Hai messo [VAR 1500(0000,0000)][VAR 0109(0000)] in Borsa.\\c"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Hai raggiunto il limite per questo strumento!\\c"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Hai preso [VAR 1502(0000,0000)][VAR 0109(0000)].\\c"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Mostra le info di [VAR 0102(0000)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Mostra le info della squadra"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[~ 77]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[~ 78]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[~ 82]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[~ 84]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Numero di Pok\u00E9dex"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Ordine alfabetico"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Peso decrescente"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Peso crescente"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Altezza decrescente"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "Altezza crescente"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Numero di Pok\u00E9dex"
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "Ordine alfabetico"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Peso decrescente"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Peso crescente"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Altezza decrescente"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Altezza crescente"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "Indietro"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[~ 98]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": " Ok"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[~ 121]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[~ 122]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "Se scambi questo Pok\u00E9mon non potrai proseguire\\nla tua avventura!\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[~ 124]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Visti"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "Catturati"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "N\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[VAR 0105(0000)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Pok\u00E9dex"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Pok\u00E9dex"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": " Indietro"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": " Cambia lingua"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "Cambia ordine"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": " Volotaxi"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": " Condizioni atmosferiche"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": " Lista"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Vuoi volare qui?"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "N\u00BA [VAR 0202(0000)]"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "Affrontati"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Forma di \u25CB\u25CB"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "Forma di \u25CB\u25CB"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Pok\u00E9mon [VAR 0104(0000)]"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": " Aspetto/Verso"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": " Pausa"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "Cambia Pok\u00E9mon"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Cambia forma"
+  },
+  {
+    "index": 153,
+    "flags": 4,
+    "text": "Animazioni On/Off"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "[~ 154]"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Complimenti per aver catturato tutti i Pok\u00E9mon\\nconsigliati!\\c"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Sembra che tu abbia ancora parecchi Pok\u00E9mon\\nda catturare! Datti da fare!\\c"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "Hai catturato tutti i Pok\u00E9mon dei dintorni!\\c"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Hai catturato tutti i Pok\u00E9mon che si possono\\nregistrare nel Pok\u00E9dex! Complimenti!\\c\\nOra potresti provare a catturare anche\\nle diverse forme e le varianti cromatiche!\\c"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "Pok\u00E9mon consigliati"
+  },
+  {
+    "index": 162,
+    "flags": 4,
+    "text": "Altri Pok\u00E9mon"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "Andiamo in cerca di Pok\u00E9mon!"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": " Info"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": " Ordina"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "Cambia"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": " Valutazione Pok\u00E9dex"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Lottando con tanti Allenatori puoi incontrare\\nPok\u00E9mon che non conosci!\\c"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "Se un Pok\u00E9mon ha la tendenza a scappare\\npuoi provare ad avvicinarti accovacciandoti.\\c\\nQuesto metodo funziona anche con i Pok\u00E9mon\\nallertati dal campanello della bicicletta o dal tuo\\r\\nfischio!\\c"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Se vuoi completare il Pok\u00E9dex, ti consiglio anche\\ndi scambiare Pok\u00E9mon con altri Allenatori!\\r\\nE non dimenticarti dello scambio magico!\\c"
+  },
+  {
+    "index": 171,
+    "flags": 4,
+    "text": "Alcuni Pok\u00E9mon si possono trovare facendo\\nschiudere le Uova!\\c"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Come te la cavi con la pesca?\\c\\nMolti Pok\u00E9mon si possono incontrare\\nsolo pescando!\\c"
+  },
+  {
+    "index": 173,
+    "flags": 4,
+    "text": "Alcuni Pok\u00E9mon si possono incontrare solo\\nfacendone evolvere altri.\\c\\nL\u2019evoluzione avviene in vari modi.\\nA volte devi usare uno strumento.\\c"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Forza! Ti manca poco per completare il Pok\u00E9dex\\ndi Galar!\\c"
+  },
+  {
+    "index": 175,
+    "flags": 4,
+    "text": "Incredibile! Hai completato il Pok\u00E9dex di Galar!\\c\\nComplimenti, [VAR 0100(0000)]! Sei riuscit[VAR 1100(00FF,0101)]oa\\na incontrare tutti i Pok\u00E9mon della regione!\\c"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "[VAR 0105(0000)]"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Destinazione: [VAR 0105(0000)].\\nConfermi?"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "S\u00EC"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Non si pu\u00F2 usare qui.\\c"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "Non si pu\u00F2 usare ora.\\c"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "Pok\u00E9dex"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Pok\u00E9dex Armatura"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Pok\u00E9dex Corona"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Pok\u00E9dex"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "Pok\u00E9dex Armatura"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Pok\u00E9dex Corona"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "Per prima cosa esplora l\u2019Isola dell\u2019Armatura\\nin lungo e in largo per incontrare vari Pok\u00E9mon!\\c"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "Se fischi con le dita, i Pok\u00E9mon nei dintorni\\npotrebbero avvicinarsi a te!\\c"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Pu\u00F2 capitare che gli abitanti dell\u2019Isola\\ndell\u2019Armatura ti mostrino dei Pok\u00E9mon!\\c\\nBasta vederli una sola volta per poter consultare\\ninformazioni sul loro habitat dal Pok\u00E9dex!\\c"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "Forza! Ti manca poco per completare il Pok\u00E9dex\\ndell\u2019Isola dell\u2019Armatura!\\c"
+  },
+  {
+    "index": 192,
+    "flags": 4,
+    "text": "Incredibile! Hai completato il Pok\u00E9dex dell\u2019Isola\\ndell\u2019Armatura!\\c\\nComplimenti, [VAR 0100(0000)]! Sei riuscit[VAR 1100(00FF,0101)]oa\\na incontrare tutti i Pok\u00E9mon del territorio!\\c"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "Per prima cosa esplora la Landa Corona\\nin lungo e in largo per incontrare vari Pok\u00E9mon!\\c"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "Se fischi con le dita, i Pok\u00E9mon nei dintorni\\npotrebbero avvicinarsi a te!\\c"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Se ti cimenti in un\u2019Avventura Dynamax, potresti\\nimbatterti in Pok\u00E9mon da registrare nel Pok\u00E9dex\\r\\ndella Landa Corona!\\c"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Forza! Ti manca poco per completare il Pok\u00E9dex\\ndella Landa Corona!\\c"
+  },
+  {
+    "index": 197,
+    "flags": 4,
+    "text": "Incredibile! Hai completato il Pok\u00E9dex\\ndella Landa Corona!\\c\\nComplimenti, [VAR 0100(0000)]! Sei riuscit[VAR 1100(00FF,0101)]oa\\na incontrare tutti i Pok\u00E9mon del territorio!\\c"
+  }
+]

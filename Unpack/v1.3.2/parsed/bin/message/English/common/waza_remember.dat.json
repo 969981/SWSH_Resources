@@ -1,0 +1,237 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Held Item"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No. [VAR 0202(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "PP"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "HP"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Attack"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Defense"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Sp. Atk"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Sp. Def"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Speed"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Ability"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Power"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Accuracy"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u2014"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Do you want your Pok\u00E9mon to remember\\nthe move [VAR 0107(0000)]?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Do you want to give up on having\\n[VAR 0102(0000)] remember a move?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] remembered the move\\n[VAR 0107(0001)].[VAR BE05(0004)][VAR BE05(0006)]\\c"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)].\\c"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\\c\\n[VAR 0102(0000)] forgot\\n[VAR 0107(0002)]!\\c\\nAnd...\\c\\n[VAR 0102(0000)] remembered the move\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Should [VAR 0107(0000)] be forgotten?"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0002)]!\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Do you want to teach the move\\n[VAR 0107(0000)]?"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\\c\\n[VAR 0102(0000)] forgot\\n[VAR 0107(0002)]!\\c\\nAnd it learned [VAR 0107(0001)] instead![VAR BE05(0004)][VAR BE05(0006)]\\c"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon learned the move\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced\\nwith [VAR 0107(0000)].\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Do you want to give up on having your Pok\u00E9mon\\nlearn [VAR 0107(0000)]?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon did not learn the move\\n[VAR 0107(0000)].\\c"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Is it OK to forget [VAR 0107(0000)]\\nand learn [VAR 0107(0001)]?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Category"
+  }
+]

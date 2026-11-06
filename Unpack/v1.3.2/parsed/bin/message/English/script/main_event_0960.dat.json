@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "You\u2019re a Gym Challenger, right? Are you going to\\napply to challenge this Gym?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "I am!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Maybe later"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Hm! Then head to the changing room and\\nchange into your uniform.\\c\\nThen go to the Gym mission room."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Well, I guess that\u2019s one option. I\u2019ll be waiting\\nhere if you change your mind."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Go, number [VAR 01C4(0000)]!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Give the Gym mission your all!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  }
+]

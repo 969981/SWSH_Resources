@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Il y a plein de cartons remplis d\u2019appareils\\n\u00E9lectriques."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Il y a plein de cartons remplis d\u2019appareils\\n\u00E9lectriques.\\c\\nTiens\u202F? Motisma s\u2019int\u00E9resse \u00E0 leur moteur\u202F!\\nVoulez-vous le laisser entrer dedans\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Motisma renonce \u00E0 entrer dans l\u2019un des moteurs..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Quel Motisma voulez-vous faire entrer\\ndans l\u2019un des moteurs\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Ce Pok\u00E9mon ne peut pas entrer dans un moteur."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Un \u0152uf ne peut pas entrer dans un moteur."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dans le moteur de quel appareil \u00E9lectrique\\n[VAR 0102(0000)] doit-il entrer\u202F?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Four \u00E0 micro-ondes"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Machine \u00E0 laver"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ventilateur"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "R\u00E9frig\u00E9rateur"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Tondeuse"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Rappeler"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Aucun"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] est entr\u00E9 dans le moteur."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] veut apprendre\\n[VAR 0107(0001)].\\c\\nMais un Pok\u00E9mon ne peut pas conna\u00EEtre\\nplus de quatre capacit\u00E9s \u00E0 la fois.\\c\\nVoulez-vous remplacer une capacit\u00E9\\npar [VAR 0107(0001)]\u202F?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Voulez-vous arr\u00EAter d\u2019apprendre\\n[VAR 0107(0001)]\u202F?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)].\\c\\nIl sort du moteur."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], [WAIT 20]... [WAIT 20]... Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0006)]\\c\\n[VAR 0102(0000)] oublie [VAR 0107(0002)].\\c\\nEt..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] a oubli\u00E9\\n[VAR 0107(0002)]."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] est d\u00E9j\u00E0 entr\u00E9 dans ce moteur."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] est sorti du moteur."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019est dans aucun moteur."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] renonce \u00E0 entrer\\ndans l\u2019un des moteurs..."
+  }
+]

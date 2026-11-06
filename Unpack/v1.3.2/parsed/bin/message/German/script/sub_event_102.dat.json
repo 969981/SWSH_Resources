@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Das ist ein Getr\u00E4nkeautomat.\\nWas m\u00F6chtest du trinken?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] [VAR BD03(0000)][VAR 0202(0001)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Du hast kein Getr\u00E4nk gekauft."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Noch mehr kannst du davon nicht tragen!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Du hast nicht genug Geld!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] erhalten!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "M\u00F6chtest du noch mehr kaufen?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Du Gl\u00FCckspilz! [VAR 1603(0000,0000)]weiter[VAR 1100(0000,0102,0002)]erees\\n[VAR 010A(0000)] purzelt heraus!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ein Getr\u00E4nkeautomat!\\nAlle Getr\u00E4nke, die du magst...\\r\\nsind ausverkauft!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Noch einmal das Gleiche kaufen"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Etwas anderes kaufen"
+  }
+]

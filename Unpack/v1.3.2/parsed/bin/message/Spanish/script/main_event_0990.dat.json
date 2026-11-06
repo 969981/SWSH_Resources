@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Bienvenid[VAR 1100(00FF,0101)]oa, Aspirante.\\nMi nombre es Judith.[VAR 0114(0011)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00BFPosees un esp\u00EDritu firme capaz de aguantar todo\\ntipo de acometida?\\c\\nAh\u00F3rrate la respuesta, \u00A1voy a tomarme la libertad\\nde comprobarlo por m\u00ED misma![VAR 0114(0011)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Gracias por combatir conmigo.[VAR 0114(0011)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Ha sido un combate esclarecedor.[VAR 0114(0011)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Esclarecedor y estremecedor! He sentido c\u00F3mo\\nel coraz\u00F3n me lat\u00EDa a mil por hora, como si\\r\\nestuviese bailando al son de cada movimiento.\\c\\nEn el fragor del combate es tan importante\\nmostrar un esp\u00EDritu firme como disfrutar de cada\\r\\ninstante.[VAR 0114(0011)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Te hago entrega de la Medalla Lucha como\\nmuestra de mi m\u00E1s profunda gratitud.[VAR 0114(0011)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Ahora podr\u00E1s atrapar Pok\u00E9mon de hasta Nv. 40!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "A\u00FAn te queda mucho camino por recorrer,\\nAspirante. Te aguardan multitud de encuentros\\r\\nque espero que logren alimentar ese esp\u00EDritu\\r\\ninalterable que has demostrado tener.[VAR 0114(0011)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1Mi m\u00E1s sincera enhorabuena por tu victoria\\nfrente a Judith!\\c\\n\u00A1Para conmemorarla, toma esta MT!"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Ah, y antes de que me olvide. Te hago entrega\\ntambi\u00E9n del uniforme de tipo Lucha."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 bien te queda la Medalla Lucha!\\n\u00A1Sigue as\u00ED, [VAR 0100(0000)]!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00BFQuieres volver a recepci\u00F3n?"
+  }
+]

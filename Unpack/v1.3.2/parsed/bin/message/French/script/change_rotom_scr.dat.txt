@@ -1,0 +1,25 @@
+Il y a plein de cartons remplis d’appareils\nélectriques.
+Il y a plein de cartons remplis d’appareils\nélectriques.\c\nTiens ? Motisma s’intéresse à leur moteur !\nVoulez-vous le laisser entrer dedans ?
+Motisma renonce à entrer dans l’un des moteurs...
+Quel Motisma voulez-vous faire entrer\ndans l’un des moteurs ?
+Ce Pokémon ne peut pas entrer dans un moteur.
+Un Œuf ne peut pas entrer dans un moteur.
+Dans le moteur de quel appareil électrique\n[VAR 0102(0000)] doit-il entrer ?
+Four à micro-ondes
+Machine à laver
+Ventilateur
+Réfrigérateur
+Tondeuse
+Rappeler
+Aucun
+[VAR 0102(0000)] est entré dans le moteur.
+[VAR 0102(0000)] veut apprendre\n[VAR 0107(0001)].\c\nMais un Pokémon ne peut pas connaître\nplus de quatre capacités à la fois.\c\nVoulez-vous remplacer une capacité\npar [VAR 0107(0001)] ?
+Voulez-vous arrêter d’apprendre\n[VAR 0107(0001)] ?
+[VAR 0102(0000)] n’a pas appris\n[VAR 0107(0001)].\c\nIl sort du moteur.
+1[WAIT 20], 2[WAIT 20], [WAIT 20]... [WAIT 20]... Tadaaa ![VAR BE05(0003)][VAR BE05(0006)]\c\n[VAR 0102(0000)] oublie [VAR 0107(0002)].\c\nEt...
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] !
+[VAR 0102(0000)] a oublié\n[VAR 0107(0002)].
+[VAR 0102(0000)] est déjà entré dans ce moteur.
+[VAR 0102(0000)] est sorti du moteur.
+[VAR 0102(0000)] n’est dans aucun moteur.
+[VAR 0102(0000)] renonce à entrer\ndans l’un des moteurs...

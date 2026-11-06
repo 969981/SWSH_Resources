@@ -1,0 +1,83 @@
+[~ 0]
+¿Quieres emprender una Aventura Dinamax?
+¡Por supuesto!
+¿En qué consiste?
+No, gracias
+Según mis notas, ya conoces la ubicación de\nalgún Pokémon interesante, ¿no es verdad?\c\n¿Qué Pokémon te has propuesto ir a buscar hoy?
+Ya has atrapado a [VAR 0101(0000)], por lo que,\nsi te lo vuelves a encontrar, [VAR FF00(0001)]no podrás capturarlo[VAR FF00(0000)].\c\n¿Quieres partir de todas formas?
+¡Veo que te topaste con [VAR 0101(0000)] en tu\naventura anterior!\c\nComo tengo su ubicación registrada, puedes\nvolver a intentarlo si quieres. ¿Qué te parece?
+[VAR 0101(0000)]
+Cualquiera
+Una Aventura Dinamax es una incursión especial\ndonde deberás explorar el Supernido Dinamax\r\nen compañía de un Pokémon de préstamo.
+Formarás equipo con otros tres Entrenadores,\ny entre los cuatro decidiréis qué camino seguir\r\npara llegar al fondo del nido, donde os esperará\r\nun Pokémon legendario dinamaxizado.
+[~ 12]
+Al terminar cada aventura, recibirás Maxinium\ncomo premio.\c\nTodos los Pokémon que hayas atrapado se\nquedarán para ayudarme con mi investigación,\r\nsalvo uno que podrás escoger y llevarte contigo.
+Parece ser que te retiraste de la última Aventura\nDinamax antes de que terminase.\c\nAl hacerlo pones en un aprieto a los demás\nmiembros de tu equipo, así que procura que no\r\nvuelva a ocurrir, ¿de acuerdo?
+Parece ser que has abandonado a medias varias\nAventuras Dinamax.\c\nAl hacerlo pones en un aprieto a los demás\nmiembros de tu equipo.\c\nPara comprobar que esta vez vas en serio, antes\nde dejar que te unas a otro equipo necesito que\r\nme entregues [VAR 0201(0000)] fragmento[VAR 1101(0000,0100)]s de Maxinium.\c\n¿Quieres dármelos ahora?
+No podrás participar en más Aventuras Dinamax\nhasta que me entregues los fragmentos de\r\nMaxinium que te he pedido.
+No tienes suficiente Maxinium...
+Puedes conseguir Maxinium en las Incursiones\nDinamax de las Nieves de la Corona.
+La próxima vez que participes en una Aventura\nDinamax, no te retires hasta haber llegado hasta\r\nel final, ¿de acuerdo?
+¡Excelente trabajo! Espero que volvamos a\ncolaborar pronto.
+¡Te ha faltado muy poco! La próxima vez seguro\nque lo conseguirás.
+¿Quieres que registre la ubicación de\n[VAR 0101(0000)] para que puedas intentarlo de\r\nnuevo más tarde?
+Ya no puedo registrar más ubicaciones...\n¿Quieres que borre alguna para hacer sitio?
+De acuerdo. No registraré por ahora la ubicación\nde [VAR 0101(0000)].
+De acuerdo. Sustituiré la ubicación de\n[VAR 0101(0001)] por la de [VAR 0101(0000)].
+¡Ya está! Ubicación registrada.
+¡Espero volver a tener la oportunidad de trabajar\ncontigo pronto!
+Vaya, qué pena. Lo harás mejor la próxima vez.
+¡Bienvenid[VAR 1100(00FF,0101)]oa de nuevo!\c\n¿Quieres que deje registrada la ubicación de\n[VAR 0101(0000)]?
+Entendido. Dejaré la ubicación registrada.
+Entendido. Borraré la ubicación del registro.
+¿Eh? Ah... eres tú.\c\nVuelve a hablar conmigo cuando tengas más\nexperiencia en las Aventuras Dinamax.
+Qué, ¿te gustan las Aventuras Dinamax?
+¡Si ya lo sabía yo! Se nota que has participado en\nmuchas ya.
+Ah, pues vaya.
+Como veo que eres tod[VAR 1100(00FF,0101)]oa un[VAR 1100(00FF,0100)]a profesional de las\nAventuras Dinamax, ¿qué te parecería participar\r\nen el modo infinito? ¡Lo he inventado yo!
+¿Quieres probar suerte en el modo infinito de las\nAventuras Dinamax?
+Ver récords
+El modo infinito es, como su nombre indica,\n¡infinito!\c\nTe permite seguir explorando incluso después de\nhaber derrotado al Pokémon que aguarda en las\r\nprofundidades del Supernido Dinamax.\c\n¡Considéralo un reto para ver hasta dónde llegas!
+En este modo no podrás quedarte con los\nPokémon que atrapes por el camino, pues los\r\nnecesitaré para avanzar en mi investigación.\c\nA cambio, ¡recibirás una cantidad de Maxinium\nmucho más generosa de lo normal!
+Además, tomaré nota de hasta dónde llegas.\n¡Intenta avanzar lo máximo posible junto a tus\r\ncompañeros!
+¡Vuelve cuando quieras!
+¡Pero bueno! ¡Un nuevo récord! ¡Enhorabuena!\nVoy a dejarlo bien apuntado.
+He tomado buena nota de tu avance de hoy.\n¡Vuelve si te apetece intentar superarte!
+Este es el récord actual.
+¡Mucho ánimo! ¡Seguro que puedes batirlo!
+[~ 47]
+¡Anda, [VAR 0100(0000)]! ¿A que no sabes qué?\n¡Me he encontrado a [VAR 0101(0001)] en el\r\nSupernido Dinamax![VAR 0114(0078)]
+Si quieres, te puedo enseñar la ubicación de\n[VAR 0101(0001)] a cambio de [VAR 0202(0002)] fragmento[VAR 1101(0002,0100)]s\r\nde Maxinium.[VAR 0114(0078)]
+Oye, pero si no puedes registrar más ubicaciones\nde Pokémon. ¿Quieres borrar alguna para hacer\r\nsitio?[VAR 0114(0078)]
+¿Eh? ¡Oye, pero si ya has atrapado a\n[VAR 0101(0001)]!\c\nA cambio de [VAR 0202(0002)] fragmento[VAR 1101(0002,0100)]s de Maxinium, te\npodría mostrar su ubicación, aunque no podrás\r\ncapturarlo.[VAR 0114(0078)]
+¡Ariette te ha mostrado la ubicación de\n[VAR 0101(0001)]!
+Uy, pero si no tienes suficiente Maxinium.[VAR 0114(0078)]
+Bueno, me has dado un poco de pena, así que\npor esta vez te la enseñaré gratis.[VAR 0114(0078)]
+¡Anda, pero si ya conoces la ubicación de\n[VAR 0101(0001)]![VAR 0114(0078)]
+¿Estás segur[VAR 1100(00FF,0101)]oa? Si luego te arrepientes, no me\nvengas a llorar...[VAR 0114(0078)]
+Habla con la tipa de la entrada para comenzar la\naventura. ¡Ánimo y suerte![VAR 0114(0078)]
+¡Ey, [VAR 0100(0000)]! ¿Qué tal te va?\nYo aquí, como siempre.[VAR 0114(0078)]
+Por cierto, me he encontrado esto tan raro en el\nSupernido Dinamax. Te lo regalo.[VAR 0114(0078)]
+¡Has recibido [VAR 1702(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)] con motivo\n[VAR 01C2(0001)]!
+¡Venga, que no te dé corte, es para ti!\nNo es muy de mi estilo, la verdad.[VAR 0114(0078)]
+¿Por qué habrá tantos Pokémon legendarios en\nel Supernido Dinamax? ¿De dónde han salido?[VAR 0114(0078)]
+Según la tipa de la entrada, el primer Pokémon\nlegendario avistado aquí fue [VAR 0101(0000)].[VAR 0114(0078)]
+La mujer de la entrada me ha contado que\nestuvo trabajando un tiempo en un centro de\r\ninvestigación de Alola.\c\n¡Jo, yo también quiero ir allí para hincharme a\nmalasadas![VAR 0114(0078)]
+Quiero usar un Parche Habilidad con mi querido\nTyrantrum... ¡Así podría usar Testarazo todo lo\r\nque quisiera![VAR 0114(0078)]
+¿Quieres un consejo para triunfar en las\nAventuras Dinamax?\c\nUsa movimientos como Reflejo o Pantalla de Luz\npara reducir el daño que reciban tus Pokémon.[VAR 0114(0078)]
+¿Quieres un consejo para triunfar en las\nAventuras Dinamax?\c\n¡Ten muy en cuenta las fortalezas y debilidades\nde los Pokémon que te esperan en el nido![VAR 0114(0078)]
+¿Quieres un consejo para triunfar en las\nAventuras Dinamax?\c\nCon movimientos que aumentan el Ataque de\ntu bando, como Maxipuño, ¡la diversión está\r\nasegurada![VAR 0114(0078)]
+Oye, ¿has oído hablar de ese árbol enorme al\nque la gente llama Maxiárbol?\c\nPor lo visto, si lo agitas, puede pasar algo de\nlo más interesante.\c\nYo creo que no podría moverlo ni un milímetro,\npero seguro que tú lo conseguirías.[VAR 0114(0078)]
+Todos los Pokémon del Supernido Dinamax están\ndinamaxizados...\c\n¿Crees que habrá una Estrella Deseo gigante\nenterrada por aquí o algo?[VAR 0114(0078)]
+¿Cómo van las expediciones legendarias de mi\npadre?\c\nNo te lo tomes demasiado en serio, yo creo que\nni él sabe lo que hace...[VAR 0114(0078)]
+Ese tipo de ahí es como un poco rarito, ¿no?\nAunque qué voy a decir yo, teniendo el padre\r\nque tengo...[VAR 0114(0078)]
+¡Tengo que contarte un rumor escalofriante!\c\nDicen que hay un cementerio donde por las\nnoches se ve rondar a una mujer de pelo largo.\c\nAl parecer, es como si estuviera buscando algo...\no a alguien.[VAR 0114(0078)]
+El otro día, en una Aventura Dinamax, uno de\nmis compañeros llevaba un Oranguru.\c\n¿Sabías que con su movimiento Mandato puede\ndar instrucciones a los Pokémon que tiene\r\nalrededor? ¡La verdad es que nos vino de perlas!
+¡Sab!
+Los Pokémon me ayudan con mis investigaciones.
+¡Do, do!
+¡Tler, tler!
+¡Dottler!
+Los parámetros representados están oscilando.\nDeben de estar midiendo algo en concreto.
+Mejor no adentrarse sol[VAR 1100(00FF,0101)]oa...
+Decides volver a la entrada a ver si das con\nla chica que buscaba Peony.

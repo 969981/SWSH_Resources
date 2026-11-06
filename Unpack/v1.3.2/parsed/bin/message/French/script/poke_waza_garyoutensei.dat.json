@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "OK, ne dis rien, j\u2019ai tout compris\u202F! T\u2019as envie\\nque j\u2019enseigne Draco-Ascension \u00E0 un Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Ah, mais y\u2019a que Rayquaza qui peut apprendre\\nDraco-Ascension, et tu l\u2019as pas. Dommage."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Reviens me voir quand tu pourras utiliser\\nma puissance\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "\u00C0 quel Pok\u00E9mon dois-je enseigner\\nDraco-Ascension\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Ce Pok\u00E9mon ne peut pas apprendre\\nDraco- Ascension. Seul Rayquaza en est capable\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Jamais entendu parler d\u2019un \u0152uf capable\\nd\u2019utiliser Draco-Ascension\u202F! Pfff."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ce Rayquaza conna\u00EEt d\u00E9j\u00E0 Draco-Ascension\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Tu veux que j\u2019enseigne Draco-Ascension\\n\u00E0 [VAR 0101(0000)]\u202F?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Draco-Ascension est une capacit\u00E9 sans pareille,\\nque seul Rayquaza peut apprendre.\\c\\nOn dit qu\u2019elle est capable de r\u00E9duire\\nen poussi\u00E8re une m\u00E9t\u00E9orite en plein vol\u202F!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Choisissez une capacit\u00E9 \u00E0 oublier pour faire\\nplace \u00E0 [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)]."
+  }
+]

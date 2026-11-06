@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "What is your name?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Your name is [VAR 0189(0000)]?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "You can\u2019t enter that name."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "You can\u2019t use [VAR 012E(0000)]."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Please enter a name."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "What is [VAR 0101(0000)]\u2019s nickname?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "What is [VAR 0101(0000)] (\u2642)\u2019s nickname?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "What is [VAR 0101(0000)] (\u2640)\u2019s nickname?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Are you OK with the nickname [VAR 0101(0000)]?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "What would you like to name this Box?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01C0(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "What would you like to name this Battle Team?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Are you OK with the name [VAR 01BF(0000)]?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Please enter your code or password."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "The code you entered does not exist."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Please enter a password."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Please enter your uniform number."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Are you OK with the number [VAR 01C4(0000)]?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "You can\u2019t use this number."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Please enter your birth month."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Please enter your birth date."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "For example, if your birthday is January 2, enter 01 and 02."
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Is [VAR 01C5(0000)]/[VAR 01C6(0001)] the correct date?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Please enter the correct date."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "You can set an eight-digit Link Code."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Please enter an eight-digit Link Code."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Please enter a competition ID."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Please enter your match ID."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Please enter the team ID of the team that you\u2019d like to rent."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Please enter a Card Code."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Please enter a competition name."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Please enter a subtitle of the competition."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "You can participate in the competition even if you don\u2019t enter it."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "The number you enter can\u2019t be longer than five digits."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Please enter a number between 1 and 12."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Please enter a number between 1 and 31."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Please enter a number between 1 and 30."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Please enter a number between 1 and 29."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "What you entered is not valid."
+  }
+]

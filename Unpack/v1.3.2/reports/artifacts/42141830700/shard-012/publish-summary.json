@@ -1,0 +1,14 @@
+{
+  "source_run": 42141830700,
+  "shard": 12,
+  "source_records": 3307,
+  "source_statuses": {
+    "PARSED": 2389,
+    "UNSUPPORTED_FORMAT": 918
+  },
+  "derived_outputs": 17677,
+  "direct_outputs": 17677,
+  "split_archives": 0,
+  "git_file_count": 17680,
+  "git_bytes": 1535969739
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "N. [VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Talent"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Objet"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "ID \u00C9quipe"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "\u00C9quipe"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Emprunt"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "G\u00E9rer les \u00E9quipes \u00E0 emprunter"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "G\u00E9rer les \u00E9quipes \u00E0 partager"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "\u00C9quipe d\u2019emprunt s\u00E9lectionn\u00E9e.\\nChoisissez une action \u00E0 effectuer."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Emprunter"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Annuler la s\u00E9lection"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Vide"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Restituer l\u2019\u00E9quipe"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "\u00C9quipe Combat s\u00E9lectionn\u00E9e.\\nChoisissez une action \u00E0 effectuer."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Partager"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Ne plus partager"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Voir les d\u00E9tails"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Veuillez s\u00E9lectionner une \u00C9quipe Combat."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Veuillez s\u00E9lectionner une \u00C9quipe d\u2019emprunt."
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Emprunt 1"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "Emprunt 2"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Emprunt 3"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Emprunt 4"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Emprunt 5"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Partag\u00E9e 1"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Partag\u00E9e 2"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Partag\u00E9e 3"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Partag\u00E9e 4"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Partag\u00E9e 5"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Emprunt [VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Partag\u00E9e [VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Voulez-vous restituer cette \u00E9quipe\u202F?"
+  },
+  {
+    "index": 40,
+    "flags": 4,
+    "text": "Oui"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Non"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "L\u2019\u00C9quipe Combat a \u00E9t\u00E9 restitu\u00E9e.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Voulez-vous partager cette \u00E9quipe\u202F?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Cette \u00C9quipe Combat est d\u00E9sormais partag\u00E9e.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Voulez-vous annuler le partage de cette \u00E9quipe\u202F?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Cette \u00E9quipe n\u2019est plus partag\u00E9e.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Communication en cours..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Voulez-vous emprunter cette \u00E9quipe\u202F?"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "L\u2019\u00C9quipe Combat a \u00E9t\u00E9 emprunt\u00E9e.\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " S\u00E9lectionner"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Retour"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Aide"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Aucune \u00E9quipe n\u2019a \u00E9t\u00E9 trouv\u00E9e.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Il y a un probl\u00E8me avec au moins un Pok\u00E9mon\\nde cette \u00C9quipe Combat.\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Sauvegarde en cours...\\nNe pas \u00E9teindre la console."
+  }
+]

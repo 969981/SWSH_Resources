@@ -1,0 +1,1757 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Dinero"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0206(0000,202F)] \uE300"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0112(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "DT"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Nv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "PS"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "/"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Tipo"
+  },
+  {
+    "index": 13,
+    "flags": 1,
+    "text": "Clase"
+  },
+  {
+    "index": 14,
+    "flags": 1,
+    "text": "Potencia"
+  },
+  {
+    "index": 15,
+    "flags": 1,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 1,
+    "text": "Precisi\u00F3n"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u2014"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "PP"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "MT[VAR 0201(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1Nuevo!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": " Favoritos"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": " Organizar"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Vac\u00EDo"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00BFCon qu\u00E9 Pok\u00E9mon quieres usar este objeto?"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] y [VAR 0107(0001)]\\nson incompatibles.\\c\\nEl Pok\u00E9mon no puede aprender ese movimiento.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ya conoce\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "MT activada.\\c"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] quiere aprender\\n[VAR 0107(0001)].\\c\\n\u00BFQuieres sustituir alguno de sus movimientos\\npor [VAR 0107(0001)]?"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no ha aprendido\\n[VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Selecciona el movimiento que quieres sustituir\\npor [VAR 0107(0000)].\\c"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "DT activado.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Los DT solo se pueden usar una vez.\\c"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "El DT [VAR 0107(0000)] se ha roto.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 4,
+    "text": "El DT se romper\u00E1. \u00BFQuieres continuar?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]S\u00ED puede[VAR FF00(0000)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]No puede[VAR FF00(0000)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Ya lo conoce"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR FF00(0002)]Apto[VAR FF00(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR FF00(0001)]No apto[VAR FF00(0000)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[~ 55]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[~ 57]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[~ 58]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1nt[VAR 1100(0000,0101)]oas [VAR 1001][VAR 010A(0000)] quieres\\nvender?"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[VAR 0207(0000,202F)] \uE300"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Precio de venta"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Puedo pagarte [VAR 0207(0000,202F)] \uE300.\\n\u00BFTe parece bien?"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "\u2014"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1nt[VAR 1100(0000,0101)]oas [VAR 1001][VAR 010A(0000)] quieres\\nvender?"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Lo siento, no puedo comprar eso.\\c"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Recibes [VAR 0207(0001,202F)] \uE300 por la venta [VAR 1704(0000,0001)]\\n[VAR 010A(0000)].\\c"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Recibes [VAR 0207(0001,202F)] \uE300 por la venta [VAR 1704(0000,0001)]\\n[VAR 1001][VAR 010A(0000)].\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Por clase"
+  },
+  {
+    "index": 78,
+    "flags": 4,
+    "text": "Alfab\u00E9ticamente"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Nuevos primero"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Por n\u00FAmero"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Favoritos primero"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFC\u00F3mo quieres ordenar tus objetos?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Los objetos se han ordenado por clase.\\c"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Los objetos se han ordenado alfab\u00E9ticamente.\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Los objetos se han ordenado por n\u00FAmero.\\c"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Los favoritos se han puesto al principio.\\c"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Los objetos se han ordenado seg\u00FAn el orden de\\nobtenci\u00F3n, los m\u00E1s recientes primero.\\c\\n"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "Usar"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Dar"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "[~ 91]"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "[~ 92]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[~ 93]"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "Activar"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Desactivar"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Salir"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Has seleccionado: [VAR 0109(0000)]."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha recuperado [VAR 0202(0001)] PS.\\c"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ya no est\u00E1 debilitado!\\c"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se ha curado del\\nenvenenamiento.\\c"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se ha curado de la par\u00E1lisis.\\c"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ya no tiene quemaduras.\\c"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ya no est\u00E1 congelado.\\c"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se ha despertado.\\c"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha recuperado su estado\\nnormal.\\c"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Los puntos de base [VAR 1704(0001,0000)][VAR 010D(0001)]\\nde [VAR 0102(0000)] han aumentado.\\c"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se ha vuelto m\u00E1s amable.\\c\\n\u00A1Pero tiene menos [VAR 010D(0001)] de base!\\c"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] te adora.\\c\\n\u00A1Pero su[VAR 1101(0001,0100)]s [VAR 010D(0001)] de base\\nha[VAR 1101(0001,0100)]n disminuido!\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] se ha vuelto m\u00E1s amable.\\c\\n\u00A1Su[VAR 1101(0001,0100)]s [VAR 010D(0001)] de base ya no puede[VAR 1101(0001,0100)]n\\nbajar m\u00E1s!\\c"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "\u00A1Has usado [VAR 1702(0001,0000)][VAR 0109(0001)]!\\c"
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "El repelente sigue haciendo efecto.\\nTodav\u00EDa no puedes usar otro.\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Le has dado [VAR 1700(0000,0000)][VAR 0109(0000)]\\nal Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "Has cogido [VAR 1700(0000,0000)][VAR 0109(0000)] que\\nten\u00EDa y le has dado [VAR 1700(0001,0000)][VAR 0109(0001)].\\c"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "No puedes darle [VAR 1000][VAR 1700(0000,0000)][VAR 0109(0000)]\\na un Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "No tendr\u00EDa ning\u00FAn efecto.\\c"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Las palabras de la profesora te vienen a la\\nmemoria: \u0022\u00A1Cada cosa en su momento!\u0022.\\c"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "\u00A1No hay ning\u00FAn Pok\u00E9mon!\\c"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "\u00BFCon qu\u00E9 Pok\u00E9mon quieres usar este objeto?"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 Pok\u00E9mon quieres darle este objeto?"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "A los Huevos no puedes darles objetos.\\c"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Se han restaurado los PP.\\c"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "\u00BFQuieres cambiar [VAR 1700(0000,0000)][VAR 0109(0000)]\\npor [VAR 1700(0001,0000)][VAR 0109(0001)]?"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento quieres restaurar?"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "\u00BFDe qu\u00E9 movimiento quieres aumentar los PP?"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "Los PP de [VAR 0107(0000)]\\nhan aumentado.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "No te caben m\u00E1s en la Bolsa.\\c"
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "A los Huevos no puedes darles objetos.\\c"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Se han restaurado los PP.\\c"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "[VAR BE05(0005)]\u00A1[VAR 0102(0000)] ha subido al Nv. [VAR 0202(0001)]!\\c"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "No se puede usar con un Pok\u00E9mon debilitado.\\c"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "No se puede realizar la separaci\u00F3n porque tu\\nequipo est\u00E1 completo.\\c"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "No se puede realizar la separaci\u00F3n porque tu\\nequipo est\u00E1 completo.\\c"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Has activado el objeto Repartir Experiencia.\\c"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Has desactivado el objeto Repartir Experiencia.\\c"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "\u00A1El efecto de [VAR 0107(0001)] impide\\nque puedas usar el objeto con [VAR 0102(0000)]!\\c"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "PP"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "[~ 138]"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "[~ 139]"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "[~ 140]"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "Montar"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Bajar"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "No se puede fusionar con un Pok\u00E9mon\\ndebilitado.\\c"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "No se puede unir a un Pok\u00E9mon debilitado.\\c"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "No se puede fusionar con este Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "No se puede unir a este Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "No se puede fusionar con un Huevo.\\c"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "No se puede unir a un Huevo.\\c"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "No se puede realizar la separaci\u00F3n porque tu\\nequipo est\u00E1 completo.\\c"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "No se puede realizar la separaci\u00F3n porque tu\\nequipo est\u00E1 completo.\\c"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "\u00A1[VAR 0101(0000)] ha cambiado de forma!\\c"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "\u00BFCon qu\u00E9 Pok\u00E9mon quieres fusionarlo?"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 Pok\u00E9mon quieres unirlo?"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "\u00A1Ha olvidado [VAR 0107(0000)]!\\c"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ha olvidado\\n[VAR 0107(0001)]...\\c"
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "No se puede usar con un Huevo.\\c"
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "\u00BFQuieres cambiar la habilidad de\\n[VAR 0102(0000)]?"
+  },
+  {
+    "index": 158,
+    "flags": 4,
+    "text": "Ahora la habilidad de [VAR 0102(0000)] es\\n[VAR 0106(0001)].[VAR BE05(0005)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "Ataque"
+  },
+  {
+    "index": 160,
+    "flags": 1,
+    "text": "Defensa"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "At. Esp."
+  },
+  {
+    "index": 162,
+    "flags": 1,
+    "text": "Def. Esp."
+  },
+  {
+    "index": 163,
+    "flags": 1,
+    "text": "Velocidad"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "\u002B[VAR 0201(0000)]"
+  },
+  {
+    "index": 166,
+    "flags": 64,
+    "text": "PS"
+  },
+  {
+    "index": 167,
+    "flags": 4,
+    "text": "Este objeto podr\u00EDa alterar las caracter\u00EDsticas de\\n[VAR 0102(0000)]. \u00BFSeguro que quieres usarlo?"
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "\u00A1Las caracter\u00EDsticas de [VAR 0102(0001)] han\\ncambiado debido [VAR 1706(0000,0000)][VAR 0109(0000)]![VAR BE05(0005)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1nt[VAR 1100(0001,0101)]oas [VAR 1001][VAR 010A(0001)] quieres usar?"
+  },
+  {
+    "index": 170,
+    "flags": 4,
+    "text": "El nivel Dinamax ha aumentado [VAR 0201(0000)] punto[VAR 1101(0000,0100)]s.\\c"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "\u00BFCu\u00E1nt[VAR 1100(0001,0101)]oas [VAR 1001][VAR 010A(0001)]\\nquieres usar?"
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "No puedes montar en la bici mientras ojeas la\\nBolsa.\\c"
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "No puedes pescar mientras ojeas la Bolsa.\\c"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "No puedes usar la Caja de Pok\u00E9mon mientras\\nojeas la Bolsa.\\c"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Bombilla"
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Microondas"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "Lavadora"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "Nevera"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Ventilador"
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Cortac\u00E9sped"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 aparato quieres pedir?"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "\u00A1Se ha avistado un [VAR 0101(0000)] en el nido\\nDinamax de la Atalaya!\\c"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "Ya ha aparecido un Pok\u00E9mon en el nido Dinamax\\nde la Atalaya.\\c"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Cambiar forma"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "Cambiar habilidad"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "\u00BFQuieres combinar los objetos seleccionados?"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "Solo tienes una unidad de este objeto.\\n\u00BFSeguro que quieres continuar?"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo aprenda?"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "[VAR 1001][VAR 1003][VAR 010A(0000)]"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "[~ 192]"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "[~ 193]"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "[~ 194]"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "[~ 195]"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "[~ 196]"
+  },
+  {
+    "index": 197,
+    "flags": 1,
+    "text": "[~ 197]"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "[~ 198]"
+  },
+  {
+    "index": 199,
+    "flags": 1,
+    "text": "[~ 199]"
+  },
+  {
+    "index": 200,
+    "flags": 1,
+    "text": "[~ 200]"
+  },
+  {
+    "index": 201,
+    "flags": 1,
+    "text": "[~ 201]"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "[~ 202]"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "[~ 203]"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "[~ 204]"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "[~ 205]"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "[~ 206]"
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "[~ 207]"
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "[~ 208]"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "[~ 209]"
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "[~ 210]"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "[~ 211]"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "[~ 212]"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "[~ 213]"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "[~ 214]"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "[~ 215]"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "[~ 216]"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "[~ 217]"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "[~ 218]"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "[~ 219]"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "[~ 220]"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "[~ 221]"
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "[~ 222]"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "[~ 223]"
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "[~ 224]"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "[~ 225]"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "[~ 226]"
+  },
+  {
+    "index": 227,
+    "flags": 0,
+    "text": "[~ 227]"
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "[~ 228]"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "[~ 229]"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "[~ 230]"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "[~ 231]"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "[~ 232]"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "[~ 233]"
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "[~ 234]"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "[~ 235]"
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "[~ 236]"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "[~ 237]"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "[~ 238]"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[~ 239]"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "[~ 240]"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "[~ 241]"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "[~ 242]"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "[~ 243]"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "[~ 244]"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[~ 245]"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[~ 246]"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[~ 247]"
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "[~ 248]"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[~ 249]"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[~ 250]"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[~ 251]"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[~ 252]"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "[~ 253]"
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[~ 254]"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[~ 255]"
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[~ 256]"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[~ 257]"
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[~ 258]"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[~ 259]"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "[~ 260]"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "[~ 261]"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "[~ 262]"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[~ 263]"
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "[~ 264]"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "[~ 265]"
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "[~ 267]"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "[~ 268]"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "[~ 269]"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[~ 270]"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "[~ 271]"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "[~ 273]"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "[~ 274]"
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[~ 275]"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "[~ 276]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "[~ 277]"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "[~ 278]"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "[~ 279]"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "[~ 280]"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "[~ 281]"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "[~ 283]"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "[~ 284]"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "[~ 285]"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "[~ 286]"
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "[~ 287]"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "[~ 288]"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "[~ 289]"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "[~ 290]"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "[~ 291]"
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "[~ 292]"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "[~ 293]"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "[~ 294]"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "[~ 295]"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "[~ 296]"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "[~ 297]"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "[~ 298]"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "[~ 299]"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[~ 300]"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "[~ 301]"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "[~ 302]"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[~ 303]"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "[~ 304]"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "[~ 305]"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "[~ 306]"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "[~ 307]"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "[~ 308]"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "[~ 309]"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "[~ 310]"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "[~ 311]"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "[~ 312]"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "[~ 313]"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "[~ 314]"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "[~ 315]"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "[~ 316]"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "[~ 317]"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "[~ 318]"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "[~ 319]"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "[~ 320]"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "[~ 321]"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "[~ 322]"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "[~ 323]"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "[~ 324]"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "[~ 325]"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "[~ 326]"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "[~ 327]"
+  },
+  {
+    "index": 328,
+    "flags": 64,
+    "text": "[~ 328]"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "[~ 329]"
+  },
+  {
+    "index": 330,
+    "flags": 1,
+    "text": "[~ 330]"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "[~ 331]"
+  },
+  {
+    "index": 332,
+    "flags": 1,
+    "text": "[~ 332]"
+  },
+  {
+    "index": 333,
+    "flags": 1,
+    "text": "[~ 333]"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "[~ 334]"
+  },
+  {
+    "index": 335,
+    "flags": 1,
+    "text": "[~ 335]"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "[~ 336]"
+  },
+  {
+    "index": 337,
+    "flags": 1,
+    "text": "[~ 337]"
+  },
+  {
+    "index": 338,
+    "flags": 1,
+    "text": "[~ 338]"
+  },
+  {
+    "index": 339,
+    "flags": 64,
+    "text": "[~ 339]"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "[~ 340]"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "[~ 341]"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "[~ 342]"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "[~ 343]"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "[~ 344]"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "[~ 345]"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "[~ 346]"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "[~ 347]"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "[~ 348]"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "[~ 349]"
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "[~ 350]"
+  }
+]

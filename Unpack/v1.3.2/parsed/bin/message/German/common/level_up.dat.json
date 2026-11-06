@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u002B[VAR 0202(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "KP"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Angriff"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Vert."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Sp.-Ang."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Sp.-Vert."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Initiative"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0001,202F)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Erfahrungspunkte erhalten!\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR BE05(0005)][VAR 0102(0000)] erreicht Lv. [VAR 0202(0001)]![VAR BE05(0001)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] versucht,\\n[VAR 0107(0001)] zu erlernen.\\c\\nSoll eine bekannte Attacke durch\\n[VAR 0107(0001)] ersetzt werden?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] hat\\n[VAR 0107(0001)] nicht erlernt.\\c"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Dein[VAR 1101(00FD,0F0C)] Pok\u00E9mon hate Pok\u00E9mon haben f\u00FCr den Aufenthalt im\\nPok\u00E9Camp EP erhalten!\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Nein"
+  }
+]

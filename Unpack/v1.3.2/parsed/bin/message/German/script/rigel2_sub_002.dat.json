@@ -1,0 +1,437 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Ah, [VAR 1100(00FF,1311,0000)]ExpeditionsleiterExpeditionsleiterin! Na, wie gehen\\ndie Erkundungen voran?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Sieht nicht so aus, als h\u00E4ttest du mir\\nwas Neues zu berichten.[VAR 0114(0076)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Gibt\u2019s sonst noch irgendwelche Legenden,\\nvon denen du mir berichten willst?[VAR 0114(0076)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Nanu? Zu [VAR 0101(0001)] hattest du mir aber\\nschon einen Bericht geliefert...[VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Die Legende des K\u00F6nigs der reichen Ernte"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Die Legende der Giganten"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Die Legende der Vogel-Pok\u00E9mon"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Expeditionstipps"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Coronospa"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Regirock"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Regice"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Registeel"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Regieleki"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Regidrago"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Arktos"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Zapdos"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Lavados"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Huch? Hast du\u2019s dir etwa anders \u00FCberlegt?\\nNa ja, kommt vor. Taaahaha![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Hm, zu dieser Legende hast du mir bereits\\nalles Wissenswerte mitgeteilt.[VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Was sagst du da? Du hast das Legend\u00E4re\\nPok\u00E9mon [VAR 0101(0001)] gefangen?!\\r\\nSuper-nice! Los, ich will deinen Bericht h\u00F6ren![VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDas soll also das Legend\u00E4re Pok\u00E9mon Arktos\\nsein, das Eis manipulieren kann...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Eine gewisse \u00C4hnlichkeit ist definitiv vorhanden,\\naber was soll diese seltsame Maske?\\r\\nUnd von K\u00E4lte ist auch nicht viel zu sp\u00FCren...[VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Oh! Aber dieser eiskalte Blick... Da gefriert\\neinem ja das Blut in den Adern![VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Ja, damit kommt es nah genug an Arktos ran.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDas soll also das Legend\u00E4re Pok\u00E9mon Zapdos\\nsein, das Blitze kontrollieren kann...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Eine gewisse \u00C4hnlichkeit ist definitiv vorhanden,\\naber sind die Beine nicht etwas zu st\u00E4mmig?\\c\\nUnd von elektrischer Spannung ist auch nicht\\nviel zu sp\u00FCren...[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Doch die gezackte Form seiner Fl\u00FCgel und dazu\\nnoch dieser lange Schnabel... Das passt schon![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Ja, damit kommt es nah genug an Zapdos ran.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDas soll also das Legend\u00E4re Pok\u00E9mon Lavados\\nsein, das Feuer manipulieren kann...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Eine gewisse \u00C4hnlichkeit ist definitiv vorhanden,\\naber es f\u00FChlt sich \u00FCberhaupt nicht hei\u00DF an...\\c\\nAuf mich wirkt es eher wie ein ungehobelter\\nRaufbold.[VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Wobei... Wenn man die Augen zusammenkneift,\\nwirkt es fast so, als w\u00FCrde es lichterloh brennen![VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Ja, damit kommt es nah genug an Lavados ran.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDieses kantige Etwas soll also Regirock sein,\\nder Steingigant...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Also... Wenn du mich fragst, ist es ja unserem\\nPflanzen-Arenaleiter wie aus dem Gesicht\\r\\ngeschnitten![VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Beide sind \u00E4hnlich breitschultrig.\\nRichtige Brocken halt![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Jedenfalls ist das eindeutig der Steingigant.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDieses steifgefrorene Etwas soll also Regice sein,\\nder Eisgigant...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Es hat was von einem \u00FCbergro\u00DFen Kronleuchter.\\nDas w\u00FCrde ich zu gerne mal Mila vorf\u00FChren![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Aber sieh sich einer nur diese kr\u00E4ftigen Arme an!\\nDa l\u00E4uft\u2019s mir gleich kalt den R\u00FCcken runter...[VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Jedenfalls ist das eindeutig der Eisgigant.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDieses spiegelglatte Etwas soll also Registeel\\nsein, der Stahlgigant...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Wenn du mich fragst, hat es eher \u00C4hnlichkeit\\nmit einer Bowlingkugel, oder?[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Was mag es hinter dieser starren, metallenen\\nFassade wohl denken...[VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Jedenfalls ist das eindeutig der Stahlgigant.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDieses knisternde Etwas soll also Regieleki sein,\\nder Elektrogigant...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Geht\u2019s nur mir so oder erinnert es dich auch ein\\nbisschen an diese Brausebonbons, die so sch\u00F6n\\r\\nim Mund knistern?[VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Es muss einen unfassbaren Gleichgewichtssinn\\nbesitzen, um sich mit diesem K\u00F6rper auf den\\r\\nBeinen halten zu k\u00F6nnen... Echt elektrisierend![VAR 0114(0076)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Jedenfalls ist das eindeutig der Elektrogigant.\\nDiese Erkundung kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Hmmm...\\c\\nDieses gezackte Etwas soll also Regidrago sein,\\nder Drachengigant...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Das kann bestimmt m\u00E4chtig zubei\u00DFen!\\c\\nSieht ein bisschen wie eine riesige\\nW\u00E4scheklammer aus, oder?[VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Provozieren w\u00FCrde ich es lieber nicht. Es scheint\\nnicht so, als w\u00FCrde es vor dem Gebrauch seines\\r\\nKauwerkzeugs zur\u00FCckschrecken...[VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Jedenfalls ist das eindeutig der Drachengigant.\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "D-De... Der...[VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "D-Der Kopf ist ja GIGANTISCH!![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "I-Ist das etwa der K\u00F6nig der reichen Ernte?\\nDer gro\u00DFe Obermacker?[VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Seltsam... Irgendwie kommt\u2019s mir so vor, als w\u00FCrd\\nich das Kerlchen nicht zum ersten Mal sehen...[VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Jedenfalls wirkt es ziemlich eindrucksvoll, wie es\\nso majest\u00E4tisch auf diesem Pok\u00E9mon reitet.[VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Und sein gewaltiger Sch\u00E4del hat in der Tat\\netwas von einer Krone![VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Wenn das kein stattlicher K\u00F6nig ist,\\ndann wei\u00DF ich auch nicht.\\c\\nDiese Expedition kannst du als Erfolg verbuchen![VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Damit hast du mir alles zum K\u00F6nig der reichen\\nErnte aus Legenden-Notiz 1 berichtet.[VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Damit hast du mir alles zu den Legend\u00E4ren\\nGiganten aus Legenden-Notiz 2 berichtet.[VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Damit hast du mir alles zu den Legend\u00E4ren\\nVogel-Pok\u00E9mon aus Legenden-Notiz 3 berichtet.[VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Nice! Dann vermerke ich diese Expedition\\ngleich mal als erledigt.[VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Dann st\u00FCrz dich mal weiter auf diese Legenden\\nund halt mich auf dem Laufenden![VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Wenn ich mich nicht irre, d\u00FCrfte das alles sein,\\nwas es zu berichten gab, oder?\\c\\nDann klemm dich jetzt mal mit \u00E4hnlich viel\\nTatendrang hinter die anderen Legenden![VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Na, bei welcher Expedition stehst du\\nauf dem Schlauch?[VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Die Legende vom K\u00F6nig der reichen Ernte\\nbereitet dir also Kopfzerbrechen?\\c\\nKann ich verstehen, das ist echt eine harte Nuss!\\c\\nAber lass dich nicht entmutigen. \u00DCberpr\u00FCfe die\\nStatue im Dorf und frag den Dorfbewohnern\\r\\nruhig L\u00F6cher in den Bauch!\\c\\nEs schadet \u00FCbrigens auch nicht, hin und wieder\\neinen frischen Blick auf deine Karte und die\\r\\nLegenden-Notizen zu werfen.[VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Die Legende der Giganten, verstehe.\\nWer genau macht dir denn zu schaffen?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Der Steingigant"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Der Eisgigant"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Der Stahlgigant"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Das Gigantenduo"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Dazu musst du erst mal die richtigen\\nRuinen finden.\\c\\nSuch einfach nach dem Geb\u00E4ude,\\ndas ich in der Notiz skizziert hab.[VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Du bekommst also die T\u00FCr zu den Ruinen\\ndes Steingiganten nicht auf, wie?\\c\\nWas sagt noch gleich die Inschrift?\\c\\n[VAR FF00(0006)]\u201ELass das erste Pok\u00E9mon einen Stein tragen,[VAR FF00(0000)]\\n[VAR FF00(0006)]der es unver\u00E4nderbar macht.\u201C[VAR FF00(0000)]\\c\\nHm... Warum gibst du dem Pok\u00E9mon an der\\nSpitze deines Teams denn nicht so einen...\\r\\nStein zum Tragen und schaust, was passiert?\\c\\nDu hast nicht zuf\u00E4llig schon so \u2019nen Stein,\\nder Ver\u00E4nderungen verhindert oder so?[VAR 0114(0076)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Du bekommst also die T\u00FCr zu den Ruinen\\ndes Eisgiganten nicht auf, wie?\\c\\nWas sagt noch gleich die Inschrift?\\c\\n[VAR FF00(0006)]\u201EErscheine an der Seite eines lebendigen[VAR FF00(0000)]\\n[VAR FF00(0006)]Schneekristalls.\u201C[VAR FF00(0000)]\\c\\nHm... Wenn du mich fragst, bezieht sich das Wort\\n\u201Elebendig\u201C bestimmt auf ein Pok\u00E9mon, oder?\\c\\nGeh dort doch einfach mal mit einem Pok\u00E9mon\\nspazieren, das wie ein Schneekristall aussieht,\\r\\nund zeig, wie gut ihr euch versteht!\\c\\nWer wei\u00DF, vielleicht l\u00E4sst sich die T\u00FCr\\nja so \u00F6ffnen.[VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Du bekommst also die T\u00FCr zu den Ruinen\\ndes Stahlgiganten nicht auf, wie?\\c\\nWas sagt noch gleich die Inschrift?\\c\\n[VAR FF00(0006)]\u201ELass ein helles Ger\u00E4usch ert\u00F6nen,[VAR FF00(0000)]\\n[VAR FF00(0006)]das den Stahlgiganten erweckt.\u201C[VAR FF00(0000)]\\c\\nHm... Na ja, Gigant hin oder her, es ist und bleibt\\nein Pok\u00E9mon, oder?\\c\\nMach doch einfach genau so ein Ger\u00E4usch,\\nwie du es bei jedem anderen Pok\u00E9mon auch\\r\\ntun w\u00FCrdest, um es anzulocken.\\c\\nWer wei\u00DF, vielleicht l\u00E4sst sich die T\u00FCr\\nja so \u00F6ffnen.[VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Du bekommst also die T\u00FCr zu den Ruinen\\ndes Gigantenduos nicht auf, wie?\\c\\nWas sagt noch gleich die Inschrift?\\c\\n[VAR FF00(0006)]\u201EVersammelt man die drei Giganten,[VAR FF00(0000)]\\n[VAR FF00(0006)]wird sich die T\u00FCr des Schicksals \u00F6ffnen.\u201C[VAR FF00(0000)]\\c\\nHm... Nimm es mir bitte nicht \u00FCbel, aber das ist\\ndoch eigentlich ziemlich selbsterkl\u00E4rend, oder?\\c\\nSchnapp dir zuerst die drei anderen Giganten\\nund heb dir das hier f\u00FCr sp\u00E4ter auf![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Du hast es also geschafft, die T\u00FCr zu \u00F6ffnen, doch\\nweit und breit keine Spur von einem Giganten?\\c\\nHm, vielleicht macht der Gigant ja immer noch\\nein Nickerchen, so zappenduster, wie es da\\r\\ndrinnen ist.\\c\\nAn deiner Stelle w\u00FCrde ich mal nach einem\\nLichtschalter oder so suchen, um buchst\u00E4blich\\r\\nLicht ins Dunkel zu bringen![VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Die Legende der Vogel-Pok\u00E9mon also...\\c\\nWie w\u00E4r\u2019s, wenn du zuallererst mal den krass\\ngro\u00DFen Baum ansteuerst, der ganz im S\u00FCden\\r\\nder Schneelande steht?[VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Die Legende der Vogel-Pok\u00E9mon, verstehe.\\nWelches davon macht dir denn zu schaffen?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Das orange Vogel-Pok\u00E9mon"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Das schwarze Vogel-Pok\u00E9mon"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Das lila Vogel-Pok\u00E9mon"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Ah, das orange Vogel-Pok\u00E9mon also,\\ndas durch die Naturzone d\u00FCst, ja?\\c\\nLaut den Leuten, die es zu Gesicht bekommen\\nhaben, soll es ja unfassbar schnell sein.\\c\\nAber egal wie flink es auch sein mag, selbst ein\\nLegend\u00E4res Pok\u00E9mon ist letztlich ein Pok\u00E9mon!\\c\\nIrgendwann wird ihm daher sicher auch mal\\ndie Puste ausgehen.\\c\\nDu musst einfach nur den l\u00E4ngeren Atem haben.[VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Ah, das schwarze Vogel-Pok\u00E9mon also,\\ndas auf der R\u00FCstungsinsel herumflattert, ja?\\c\\nEs fliegt so hoch am Himmel, dass es herzlich\\nwenig bringen w\u00FCrde, ihm einfach nachzurennen.\\c\\nVersuch doch, ihm einen Schritt voraus zu sein\\nund ihm dadurch einen Mordsschreck einzujagen!\\c\\nWenn du ihm aus heiterem Himmel vor dem\\nSchnabel rumtanzt, steigt es vor lauter Wut\\r\\nvielleicht zu dir herab![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Ah, das lila Vogel-Pok\u00E9mon also, das in den\\nKronen-Schneelanden durch die Luft segelt, ja?\\c\\nR\u00FCckt man ihm auf die Pelle, erstellt es Kopien\\nvon sich, um Verfolger zu verwirren und die\\r\\nFlucht zu ergreifen, nicht wahr?\\c\\nAlso sei auf der Hut und fall nicht auf seine Tricks\\nherein. Wenn das jemand schafft, dann du![VAR 0114(0076)]"
+  }
+]
