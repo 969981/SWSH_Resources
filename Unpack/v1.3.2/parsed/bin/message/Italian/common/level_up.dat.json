@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "L. [VAR 0202(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u002B[VAR 0202(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 64,
+    "text": "PS"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Attacco"
+  },
+  {
+    "index": 6,
+    "flags": 1,
+    "text": "Difesa"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Att. Sp."
+  },
+  {
+    "index": 8,
+    "flags": 1,
+    "text": "Dif. Sp."
+  },
+  {
+    "index": 9,
+    "flags": 1,
+    "text": "Velocit\u00E0"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0001,002E)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,1110)]l Pok\u00E9mon riceve Pok\u00E9mon ricevono Punti Esperienza!\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR BE05(0005)][VAR 0102(0000)] sale al livello [VAR 0202(0001)]![VAR BE05(0001)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 010C(0000)] vorrebbe imparare\\n[VAR 0107(0001)].\\c\\nVuoi che dimentichi una mossa e\\nal suo posto impari [VAR 0107(0001)]?"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]\\c"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] non ha imparato\\n[VAR 0107(0001)]!\\c"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "I[VAR 1101(00FD,0505)]l tuo tuoi Pok\u00E9mon ha[VAR 1101(00FD,0300)]nno ottenuto dei Punti\\nEsperienza durante il campeggio!\\c"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Fai dimenticare"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Non far dimenticare"
+  }
+]

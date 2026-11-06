@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Da stehen jede Menge Kartons mit\\nElektroger\u00E4ten."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Da stehen jede Menge Kartons mit\\nElektroger\u00E4ten.\\c\\nRotom scheint sich f\u00FCr die Motoren\\nder Elektroger\u00E4te zu interessieren!\\c\\nSoll Rotom in einen Motor klettern?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Rotom findet sich mit der Entscheidung ab."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Welches Rotom m\u00F6chtest du in einen Motor\\nklettern lassen?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dieses Pok\u00E9mon kann nicht in Motoren klettern."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Ein Ei kann nicht in Motoren klettern."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "In den Motor welchen Elektroger\u00E4tes soll\\n[VAR 0102(0000)] klettern?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Mikrowelle"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Waschmaschine"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Ventilator"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "K\u00FChlschrank"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Rasenm\u00E4her"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Zur\u00FCckrufen"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist in den Motor geklettert!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] versucht,\\n[VAR 0107(0001)] zu erlernen.\\c\\nAber [VAR 0102(0000)] kann nur maximal\\nvier Attacken beherrschen.\\c\\nSoll eine andere Attacke durch\\n[VAR 0107(0001)] ersetzt werden?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Aufgeben, [VAR 0107(0001)] zu erlernen?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt.\\c\\n[VAR 0102(0000)] klettert aus dem Motor."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0006)]\\c\\n[VAR 0102(0000)] hat\\n[VAR 0107(0002)] vergessen.\\c\\nUnd..."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0002)] vergessen..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] ist bereits\\nin diesem Motor gewesen!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] klettert aus dem Motor!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] befindet sich nicht im Motor!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] findet sich mit\\nder Entscheidung ab."
+  }
+]

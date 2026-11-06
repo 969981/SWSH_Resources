@@ -1,0 +1,13 @@
+Aha! Ich soll einem Pokémon aus deinem Team\nZenitstürmer beibringen, sehe ich das richtig?
+Nur Rayquaza kann Zenitstürmer erlernen,\naber dieses Pokémon hast du leider nicht dabei.
+Nun dann, komm einfach wieder vorbei,\nwenn du meine Hilfe brauchst.
+Welchem Pokémon soll ich die Attacke\nbeibringen?
+Diesem Pokémon kann ich Zenitstürmer\nnicht beibringen.\c\nNur Rayquaza kann diese Attacke erlernen.
+Du möchtest, dass ich einem Ei Zenitstürmer\nbeibringe? Du bist ja lustig!
+Dieses Rayquaza beherrscht Zenitstürmer\nbereits.
+Ich soll deinem [VAR 0101(0000)] also\nZenitstürmer beibringen?
+Zenitstürmer ist eine mächtige Attacke,\ndie nur Rayquaza einsetzen kann.\c\nMan sagt, ihre Stärke sei so groß, dass sie\nmit einem Schlag einen riesigen Meteor\r\npulverisieren kann.
+Welche Attacke soll durch\n[VAR 0107(0000)] ersetzt werden?
+[VAR 0102(0000)] erlernt\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] hat [VAR 0107(0001)]\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]
+[VAR 0102(0000)] hat\n[VAR 0107(0001)] nicht erlernt.

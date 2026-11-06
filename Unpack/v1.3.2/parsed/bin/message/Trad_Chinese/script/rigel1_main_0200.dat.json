@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\uFF01\\n\u5E2B\u5085\u5DF2\u7D93\u6709\u4EA4\u4EE3\u6211\u4E86\u3002"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\uFF01\\n\u5E2B\u5085\u5DF2\u7D93\u6709\u4EA4\u4EE3\u6211\u4E86\u3002"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u6C34\u4E4B\u5854\u2026\u2026"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u60E1\u4E4B\u5854\u2026\u2026"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u9019\u662F\u5411\u718A\u5F92\u5F1F\u50B3\u6388\\n\u6C34\u4E4B\u7CBE\u9AD3\u7684\u4FEE\u884C\u5834\u6240\u2026\u2026"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u9019\u662F\u5411\u718A\u5F92\u5F1F\u50B3\u6388\\n\u60E1\u4E4B\u7CBE\u9AD3\u7684\u4FEE\u884C\u5834\u6240\u2026\u2026"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u53EA\u8981\u718A\u5F92\u5F1F\u7684\u7B49\u7D1A\u6709\u9054\u5230[VAR 0201(0001)]\uFF0C\\n\u5C31\u80FD\u5920\u9806\u5229\u9032\u884C\u4FEE\u884C\u3002"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u53EA\u8981\u718A\u5F92\u5F1F\u7684\u7B49\u7D1A\u6709\u9054\u5230[VAR 0201(0001)]\uFF0C\\n\u5C31\u80FD\u5920\u9806\u5229\u9032\u884C\u4FEE\u884C\u3002"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u4E00\u65E6\u9032\u5165\u5854\u4E2D\u5F8C\uFF0C\\n\u9664\u975E\u662F\u6253\u5012\uFF15\u4F4D\u6A13\u4E3B\uFF0C\\r\\n\u6216\u662F\u88AB\u6253\u6557\uFF0C\u4E0D\u7136\u5C31\u7121\u6CD5\u96E2\u958B\u3002"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u4E00\u65E6\u9032\u5165\u5854\u4E2D\u5F8C\uFF0C\\n\u9664\u975E\u662F\u6253\u5012\uFF15\u4F4D\u6A13\u4E3B\uFF0C\\r\\n\u6216\u662F\u88AB\u6253\u6557\uFF0C\u4E0D\u7136\u5C31\u7121\u6CD5\u96E2\u958B\u3002"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u800C\u4E14\uFF0C[VAR 1100(00FF,0101)]\u4F60\u59B3\u5F9E\u6B64\u5C07\u7121\u6CD5\\n\u518D\u6311\u6230\u53E6\u4E00\u5EA7\u5854\u3002"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u800C\u4E14\uFF0C[VAR 1100(00FF,0101)]\u4F60\u59B3\u5F9E\u6B64\u5C07\u7121\u6CD5\\n\u518D\u6311\u6230\u53E6\u4E00\u5EA7\u5854\u3002"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u78BA\u5B9A\u8981\u653E\u68C4\u60E1\u4E4B\u7CBE\u9AD3\u2026\u2026\\c\\n\u70BA\u4E86\u6559\u5C0E\u718A\u5F92\u5F1F\u6C34\u4E4B\u7CBE\u9AD3\\n\u800C\u767B\u4E0A\u6C34\u4E4B\u5854\u55CE\uFF1F"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u78BA\u5B9A\u8981\u653E\u68C4\u6C34\u4E4B\u7CBE\u9AD3\u2026\u2026\\c\\n\u70BA\u4E86\u6559\u5C0E\u718A\u5F92\u5F1F\u60E1\u4E4B\u7CBE\u9AD3\\n\u800C\u767B\u4E0A\u60E1\u4E4B\u5854\u55CE\uFF1F"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u8981\u6311\u6230\u6C34\u4E4B\u5854\u2026\u2026\\n\u771F\u7684\u5C31\u9019\u9EBC\u6C7A\u5B9A\u56C9\uFF1F"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u8981\u6311\u6230\u60E1\u4E4B\u5854\u2026\u2026\\n\u771F\u7684\u5C31\u9019\u9EBC\u6C7A\u5B9A\u56C9\uFF1F"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u771F\u7684\u5C31\u9019\u9EBC\u6C7A\u5B9A\u4E86\uFF01"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u771F\u7684\u5C31\u9019\u9EBC\u6C7A\u5B9A\u4E86\uFF01"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u8B93\u6211\u518D\u8003\u616E\u4E00\u4E0B"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u770B\u4F86[VAR 1100(00FF,0101)]\u4F60\u59B3\u5FC3\u610F\u5DF2\u5B9A\u3002\\n\u2026\u2026\u795D[VAR 1100(00FF,0101)]\u4F60\u59B3\u6210\u529F\u767B\u9802\uFF01"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u770B\u4F86[VAR 1100(00FF,0101)]\u4F60\u59B3\u5FC3\u610F\u5DF2\u5B9A\u3002\\n\u2026\u2026\u795D[VAR 1100(00FF,0101)]\u4F60\u59B3\u6210\u529F\u767B\u9802\uFF01"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u6C34\u4E4B\u9053\u6216\u60E1\u4E4B\u9053\u2026\u2026\\c\\n\u7576[VAR 1100(00FF,0101)]\u4F60\u59B3\u6C7A\u5B9A\u597D\u8981\u947D\u7814\u7684\u9053\u8DEF\u5F8C\uFF0C\\n\u518D\u4F86\u627E\u6211\u5427\u3002"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u60E1\u4E4B\u9053\u6216\u6C34\u4E4B\u9053\u2026\u2026\\c\\n\u7576[VAR 1100(00FF,0101)]\u4F60\u59B3\u6C7A\u5B9A\u597D\u8981\u947D\u7814\u7684\u9053\u8DEF\u5F8C\uFF0C\\n\u518D\u4F86\u627E\u6211\u5427\u3002"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u6C34\u4E4B\u5854\u2026\u2026\\c\\n\u7531\u65BC\u9019\u662F\u718A\u5F92\u5F1F\u5C08\u7528\u7684\u4FEE\u884C\u5834\u6240\uFF0C\\c\\n\u6311\u6230\u6642\uFF0C\u8ACB\u8B93[VAR 1100(00FF,0101)]\u4F60\u59B3\u7684\u540C\u884C\u968A\u4F0D\u88E1\\n\u53EA\u6709\uFF11\u96BB\u718A\u5F92\u5F1F\u3002"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u60E1\u4E4B\u5854\u2026\u2026\\c\\n\u7531\u65BC\u9019\u662F\u718A\u5F92\u5F1F\u5C08\u7528\u7684\u4FEE\u884C\u5834\u6240\uFF0C\\c\\n\u6311\u6230\u6642\uFF0C\u8ACB\u8B93[VAR 1100(00FF,0101)]\u4F60\u59B3\u7684\u540C\u884C\u968A\u4F0D\u88E1\\n\u53EA\u6709\uFF11\u96BB\u718A\u5F92\u5F1F\u3002"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u6C34\u4E4B\u5854\u2026\u2026\\c\\n[VAR 0100(0000)]\uFF0C\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u5DF2\u7D93\u9078\u64C7\u4E86\u60E1\u4E4B\u5854\uFF0C\\r\\n\u56E0\u6B64\u7121\u6CD5\u9032\u5165\u9019\u5EA7\u5854\u3002"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u60E1\u4E4B\u5854\u2026\u2026\\c\\n[VAR 0100(0000)]\uFF0C\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u5DF2\u7D93\u9078\u64C7\u4E86\u6C34\u4E4B\u5854\uFF0C\\r\\n\u56E0\u6B64\u7121\u6CD5\u9032\u5165\u9019\u5EA7\u5854\u3002"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u6C34\u4E4B\u5854\u2026\u2026\\c\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u9084\u6C92\u6709\u8CC7\u683C\u6311\u6230\u9019\u5EA7\u5854\u3002\\n\u2026\u2026\u8ACB\u56DE\u5427\u3002"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u9019\u88E1\u662F\u60E1\u4E4B\u5854\u2026\u2026\\c\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u9084\u6C92\u6709\u8CC7\u683C\u6311\u6230\u9019\u5EA7\u5854\u3002\\n\u2026\u2026\u8ACB\u56DE\u5427\u3002"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\uFF0C\\n\u5728[VAR 1100(00FF,0101)]\u4F60\u59B3\u7684\u540C\u884C\u968A\u4F0D\u6216\u76D2\u5B50\u88E1\u9762\\r\\n\u6211\u90FD\u6C92\u770B\u5230\u718A\u5F92\u5F1F\u2026\u2026"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\uFF0C\\n\u5728[VAR 1100(00FF,0101)]\u4F60\u59B3\u7684\u540C\u884C\u968A\u4F0D\u6216\u76D2\u5B50\u88E1\u9762\\r\\n\u6211\u90FD\u6C92\u770B\u5230\u718A\u5F92\u5F1F\u2026\u2026"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u78BA\u5B9A\u4E0D\u5E36\u4E0A\u718A\u5F92\u5F1F\\n\u5C31\u8981\u722C\u6C34\u4E4B\u5854\u4E86\u55CE\uFF1F"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 1100(00FF,0101)]\u4F60\u59B3\u78BA\u5B9A\u4E0D\u5E36\u4E0A\u718A\u5F92\u5F1F\\n\u5C31\u8981\u722C\u60E1\u4E4B\u5854\u4E86\u55CE\uFF1F"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u4E00\u65E6\u9078\u64C7\u4E4B\u5F8C\uFF0C\\n\u5C31\u518D\u4E5F\u7121\u6CD5\u53CD\u6094\u3002\\r\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u771F\u7684\u78BA\u5B9A\u8981\u9019\u9EBC\u505A\u55CE\uFF1F"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "\u4E00\u65E6\u9078\u64C7\u4E4B\u5F8C\uFF0C\\n\u5C31\u518D\u4E5F\u7121\u6CD5\u53CD\u6094\u3002\\r\\n[VAR 1100(00FF,0101)]\u4F60\u59B3\u771F\u7684\u78BA\u5B9A\u8981\u9019\u9EBC\u505A\u55CE\uFF1F"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u2026\u2026\u771F\u907A\u61BE\u3002"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u2026\u2026\u771F\u907A\u61BE\u3002"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "\u2026\u2026\u8D81\u73FE\u5728\uFF0C[VAR 1100(00FF,0101)]\u4F60\u59B3\u9084\u53EF\u4EE5\u56DE\u982D\u3002"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u2026\u2026\u8D81\u73FE\u5728\uFF0C[VAR 1100(00FF,0101)]\u4F60\u59B3\u9084\u53EF\u4EE5\u56DE\u982D\u3002"
+  }
+]

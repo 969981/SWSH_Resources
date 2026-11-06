@@ -1,0 +1,12 @@
+Je sens que tu as l’étoffe d’un[VAR 1100(00FF,0100)]e Dresseu[VAR 1100(00FF,0201)]rse\nde talent...\c\nMalheureusement, c’est quelqu’un ayant l’étoffe\nd’un Maître que je recherche !
+Oh ouah, le Maître ! Chouette !\nJe n’irai pas par quatre chemins...\c\nVeux-tu que j’enseigne la capacité\n[VAR 0107(0001)] à [VAR 1101(00FD,0902)]onun de tes Pokémon ?
+OK !\nÀ plus tard alors !
+Je crains que t[VAR 1101(00FD,0202)]ones Pokémon ne puisse[VAR 1101(00FD,0200)]nt apprendre\ncette capacité...
+Dans ce cas, dis-moi à qui je dois enseigner\ncette capacité !
+[VAR 0102(0001)] ne peut pas apprendre\ncette capacité.
+Un Œuf ? Mais enfin, soyons sérieux !
+[VAR 0102(0001)] connaît déjà cette capacité !
+Quelle capacité doit-il oublier ?
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]
+Métalaser est une capacité d’une puissance\nincroyable, mais elle inflige aussi beaucoup\r\nde dégâts à son utilisateur.

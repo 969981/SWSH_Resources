@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Configura los datos del torneo."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Confirmar"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Atr\u00E1s"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Selecciona el per\u00EDodo de duraci\u00F3n."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Selecciona la fecha de inicio."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Selecciona la fecha de clausura."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Selecciona el n\u00FAmero m\u00E1ximo de combates."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Selecciona las reglas para los l\u00EDmites de tiempo."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Descargar"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "No descargar"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Cualquier jugador"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Solo jugadores que conozcan el ID"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "S\u00ED"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Atr\u00E1s"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00BFQuieres descargar reglamentos adicionales?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Selecciona qui\u00E9n puede inscribirse en el torneo."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00BFQuieres ponerle un subt\u00EDtulo al torneo?"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Organizaci\u00F3n del torneo"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Nombre del torneo"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Reglas"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Combate Individual"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Combate Doble"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Reglas normales"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Reglas de la Torre Batalla"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Sin restricciones"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Per\u00EDodo"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Del [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "al"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Jugadores permitidos"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Cualquier jugador"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Solo jugadores que conozcan el ID"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Organizar"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "\u00A1Aviso!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "No puedes cancelar el torneo."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "N\u00FAmero de combates"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hasta [VAR 0201(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Tiempo l\u00EDmite"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Tu tiempo: [VAR 0201(0000)] min"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Tiempo total: [VAR 0201(0000)] min"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Sin configurar"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:00)"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:59)"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Per\u00EDodo"
+  },
+  {
+    "index": 50,
+    "flags": 4,
+    "text": "El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de --:-- a --:--"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] a --:--"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] a [VAR 0201(0005)]:[VAR 0201(0006)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Hasta [VAR 0201(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Tu tiempo: [VAR 0201(0000)] min/Tiempo total: [VAR 0201(0001)] min"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Tu tiempo: [VAR 0201(0000)] min/Tiempo total: Sin l\u00EDmite"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Tu tiempo: Sin l\u00EDmite/Tiempo total: [VAR 0201(0000)] min"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Distribuyendo el reglamento...\\nNo desconectes el cable LAN."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Se ha distribuido el reglamento.\\c"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "El reglamento no se ha distribuido\\ncorrectamente.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Distribuci\u00F3n de reglamentos"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Iniciar distribuci\u00F3n"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "El reglamento se enviar\u00E1 a otros jugadores\\nmediante comunicaci\u00F3n local."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "El reglamento se enviar\u00E1 a otro jugador\\nmediante comunicaci\u00F3n LAN."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " Interrumpir distribuci\u00F3n"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Distribuyendo el reglamento...\\nPulsa el bot\u00F3n B para cancelar."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Se ha cancelado la distribuci\u00F3n.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Esperando para conectar..."
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "Utiliza un cable LAN para conectarte con otro\\njugador."
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Iniciar distribuci\u00F3n"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Pulsa el bot\u00F3n para iniciar la distribuci\u00F3n."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Percibo un potencial en ti como Entrenador[VAR 1100(00FF,0100)]a\\nrealmente fuerte...\\c\\nPero a\u00FAn es pronto... \u00A1Vuelve cuando te hayas\\ncoronado como Campe[VAR 1100(00FF,0302)]\u00F3nona!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Oh, he aqu\u00ED [VAR 1100(00FF,0202)]ella Campe[VAR 1100(00FF,0302)]\u00F3nona!\\c\\n\u00BFQuieres que le ense\u00F1e el movimiento especial\\n[VAR 0107(0001)] a [VAR 1101(00FD,0A02)]tuuno de tus Pok\u00E9mon?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Hasta m\u00E1s ver, entonces."
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Uf, me temo que tu[VAR 1101(00FD,0100)]s Pok\u00E9mon no puede[VAR 1101(00FD,0100)]n\\naprender el movimiento, Campe[VAR 1100(00FF,0302)]\u00F3nona."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo aprenda?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Lo lamento, pero [VAR 0102(0001)] no puede\\naprender el movimiento."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "El d\u00EDa que un Huevo aprenda un movimiento me\\nretirar\u00E9."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] ya conoce ese movimiento."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento quieres que olvide?"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "El movimiento Metal\u00E1ser posee una potencia\\nincre\u00EDble, pero tambi\u00E9n hiere a quien lo usa."
+  }
+]

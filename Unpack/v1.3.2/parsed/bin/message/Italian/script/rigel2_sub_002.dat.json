@@ -1,0 +1,437 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Ehi, caposquadra!\\nCome sta andando l\u2019esplorazione?[VAR 0114(0076)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Vedo che non hai niente di nuovo da segnalare![VAR 0114(0076)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Ci sono altre leggende su cui vorresti fare\\nrapporto?[VAR 0114(0076)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Eh? [VAR 0101(0001)]...?\\nMa guarda che mi hai gi\u00E0 detto tutto![VAR 0114(0076)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "La leggenda del Re dell\u2019abbondanza"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "I giganti leggendari"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "I Pok\u00E9mon alati leggendari"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Aiuto con l\u2019esplorazione"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Calyrex"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Regirock"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Regice"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Registeel"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Regieleki"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Regidrago"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Articuno"
+  },
+  {
+    "index": 15,
+    "flags": 8,
+    "text": "Zapdos"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Moltres"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ripensandoci..."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Ah, hai cambiato idea?\\nGahahah! Pu\u00F2 capitare![VAR 0114(0076)]"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Eh? Ma guarda che mi hai gi\u00E0 detto tutto\\nsu questa leggenda![VAR 0114(0076)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Hai proprio catturato il leggendario\\n[VAR 0101(0001)]?!\\r\\nMa \u00E8 stra-fantastico!!! Fammi vedere![VAR 0114(0076)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto sarebbe Articuno, il Pok\u00E9mon\\nleggendario che domina i ghiacci...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Per assomigliarci, ci assomiglia...\\c\\nPer\u00F2 sembra che abbia addosso una strana\\nmaschera e non \u00E8 per niente freddo...[VAR 0114(0076)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Mah! Lo sguardo stra-glaciale da farti\\nrabbrividire ce l\u2019ha...[VAR 0114(0076)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Vabb\u00E8, somiglia ad Articuno, pi\u00F9 o meno...\\nDiciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto sarebbe Zapdos, il Pok\u00E9mon\\nleggendario che controlla i fulmini...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Per assomigliarci, ci assomiglia...\\c\\nPer\u00F2 ha le zampe troppo grosse e non fa\\nscintille...[VAR 0114(0076)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Mah! Di sicuro \u00E8 tutto spunzoni e anche il becco\\n\u00E8 della lunghezza giusta![VAR 0114(0076)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Vabb\u00E8, somiglia a Zapdos, pi\u00F9 o meno...\\nDiciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto sarebbe il Pok\u00E9mon leggendario\\nMoltres, incarnazione delle fiamme...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Per assomigliarci, ci assomiglia...\\c\\nPer\u00F2 se lo tocchi non \u00E8 per niente caldo e\\ncon questi colori sembra uno di quei teppisti\\r\\ndel Team Yell...[VAR 0114(0076)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Mah! Se socchiudi gli occhi, con un po\u2019 di\\nfantasia pu\u00F2 sembrare infuocato![VAR 0114(0076)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Vabb\u00E8, somiglia a Moltres, pi\u00F9 o meno...\\nDiciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto Pok\u00E9mon tutto spigoloso sarebbe\\nRegirock, il gigante di Roccia...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Piuttosto... Non ti sembra che assomigli\\nall\u2019attuale Capopalestra di tipo Erba?[VAR 0114(0076)]"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Hanno entrambi le spalle larghe, proprio\\ncome due rocce possenti![VAR 0114(0076)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Comunque l\u2019aria del gigante di Roccia ce l\u2019ha,\\nquindi diciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto enorme ghiacciolo sarebbe\\nRegice, il gigante di Ghiaccio...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Piuttosto... Non ti sembra stra-perfetto per\\nfare riflessi di luce?\\c\\nMi viene voglia di metterlo sotto una lampada\\ne mostrarlo alla mia Nia![VAR 0114(0076)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Certo che ha delle braccia davvero massicce!\\nNon vorrei dire, ma mi fanno venire i brividi...[VAR 0114(0076)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Comunque l\u2019aria del gigante di Ghiaccio ce l\u2019ha,\\nquindi diciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto Pok\u00E9mon tutto liscio sarebbe\\nRegisteel, il gigante d\u2019Acciaio...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Piuttosto... A me ricorda un po\u2019 una palla da\\nbowling! A te no?[VAR 0114(0076)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Per\u00F2 quella faccia inespressiva sembra proprio\\nsenza vita...\\r\\nNon si capisce proprio cosa stia pensando![VAR 0114(0076)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Comunque l\u2019aria del gigante d\u2019Acciaio ce l\u2019ha,\\nquindi diciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto Pok\u00E9mon scoppiettante sarebbe\\nRegieleki, il gigante Elettro...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Piuttosto... non ti sembra che assomigli a una\\ndi quelle caramelle frizzanti?[VAR 0114(0076)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Certo che \u00E8 stra-incredibile che riesca a rimanere\\nin equilibrio con un corpo cos\u00EC instabile...\\r\\nImpressionante![VAR 0114(0076)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Comunque l\u2019aria del gigante elettrico ce l\u2019ha,\\nquindi diciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 49,
+    "flags": 4,
+    "text": "Uhm, vediamo...\\c\\nQuesto Pok\u00E9mon tutto seghettato sarebbe\\nRegidrago, il gigante Drago...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Piuttosto... Non ti d\u00E0 l\u2019idea di un\u2019enorme\\nmolletta per il bucato...?\\r\\nLa sua presa deve avere una forza stratosferica![VAR 0114(0076)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Se lo facessi arrabbiare, non ci penserebbe\\nun attimo ad addentarti, mi sa![VAR 0114(0076)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Comunque l\u2019aria del dragone gigante ce l\u2019ha,\\nquindi diciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Oh... Ma...[VAR 0114(0076)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Che testa enorme!!![VAR 0114(0076)]"
+  },
+  {
+    "index": 55,
+    "flags": 4,
+    "text": "E questo sarebbe il Re dell\u2019abbondanza\\nche governa questa zona...?[VAR 0114(0076)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "Uhm... Non so, ma mi sembra quasi di averlo\\ngi\u00E0 visto da qualche parte...[VAR 0114(0076)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Mah, comunque \u00E8 effettivamente in sella a\\nun altro Pok\u00E9mon...[VAR 0114(0076)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "E si pu\u00F2 dire che quella testa enorme sembri\\nuna corona...[VAR 0114(0076)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Va bene, visto che pi\u00F9 o meno \u00E8 un re,\\ndiciamo che hai completato la missione![VAR 0114(0076)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Ok, con questo mi hai riferito tutto quello\\nche c\u2019era da scoprire sulla leggenda del\\r\\nRe dell\u2019abbondanza![VAR 0114(0076)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Ok, con questo mi hai riferito tutto quello che\\nc\u2019era da scoprire sui giganti leggendari![VAR 0114(0076)]"
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Ok, con questo mi hai riferito tutto quello che\\nc\u2019era da scoprire sui Pok\u00E9mon alati leggendari![VAR 0114(0076)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Perfetto! Allora non ci resta che segnare\\nquesti appunti come completati![VAR 0114(0076)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Caposquadra, conto su di te per far luce\\nsu tutte le leggende![VAR 0114(0076)]"
+  },
+  {
+    "index": 65,
+    "flags": 4,
+    "text": "E per questo rapporto \u00E8 tutto, mi pare!\\c\\nMi aspetto lo stesso entusiasmo anche per\\nle indagini sulle altre leggende![VAR 0114(0076)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "C\u2019\u00E8 qualche leggenda che ti sta dando dei\\ngrattacapi?[VAR 0114(0076)]"
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "Ah, la leggenda del Re dell\u2019abbondanza!\\nE ci credo, non \u00E8 mica una passeggiata!\\c\\nProva a controllare la statua al villaggio\\ne a fare due chiacchiere con gli abitanti.\\c\\nPu\u00F2 anche aiutare provare a ricominciare tutto\\ndall\u2019inizio, dare un\u2019occhiata alla Mappa citt\u00E0\\r\\ne ai miei appunti sulla leggenda.[VAR 0114(0076)]"
+  },
+  {
+    "index": 68,
+    "flags": 4,
+    "text": "Ah, i giganti leggendari! Quale ti crea problemi,\\ndi preciso?[VAR 0114(0076)]"
+  },
+  {
+    "index": 69,
+    "flags": 4,
+    "text": "Il gigante di Roccia"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "Il gigante di Ghiaccio"
+  },
+  {
+    "index": 71,
+    "flags": 4,
+    "text": "Il gigante d\u2019Acciaio"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "I giganti gemelli"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Innanzitutto devi trovare le rovine giuste!\\c\\nCerca l\u2019edificio che ho disegnato nei miei\\nappunti![VAR 0114(0076)]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "La porta delle rovine del gigante di Roccia\\nnon si apre?\\c\\n[VAR FF00(0006)]\u201CDai la pietra che rende immutabili al primo[VAR FF00(0000)]\\n[VAR FF00(0006)]Pok\u00E9mon\u201D[VAR FF00(0000)], eh...\\c\\nPerch\u00E9 non provi a dare questa... pietra, o quello\\nche \u00E8... al Pok\u00E9mon in stra-primissima posizione\\r\\nnella tua squadra?\\c\\nNon ce l\u2019hai una pietra che non fa cambiare,\\no qualcosa del genere?[VAR 0114(0076)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "La porta delle rovine del gigante di Ghiaccio\\nnon si apre?\\c\\n[VAR FF00(0006)]\u201CCammina insieme a un cristallo di neve vivente\u201D[VAR FF00(0000)],\\neh...\\c\\nSe \u00E8 vivente, dev\u2019essere un Pok\u00E9mon, no?\\c\\nFatti un giro con un Pok\u00E9mon che assomiglia\\na un cristallo di neve e la vostra amicizia aprir\u00E0\\r\\npure la porta![VAR 0114(0076)]"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "La porta delle rovine del gigante d\u2019Acciaio\\nnon si apre?\\c\\n[VAR FF00(0006)]\u201CFai riecheggiare un suono capace di risvegliare[VAR FF00(0000)]\\n[VAR FF00(0006)]il gigante d\u2019Acciaio\u201D[VAR FF00(0000)], eh...\\c\\nBeh, gigante o no \u00E8 pur sempre un Pok\u00E9mon!\\c\\nMagari se lo chiami come fai con tutti gli altri,\\nla porta viene ad aprirtela lui...![VAR 0114(0076)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "La porta delle rovine dei giganti gemelli\\nnon si apre?\\c\\n[VAR FF00(0006)]\u201CQuando i tre giganti saranno riuniti, si apriranno[VAR FF00(0000)]\\n[VAR FF00(0006)]le porte del destino\u201D[VAR FF00(0000)], eh...\\c\\nCaposquadra, senza offesa, ma... non c\u2019\u00E8 molto\\nda capire!\\c\\nCattura prima gli altri tre giganti...\\nA questo ci penserai dopo![VAR 0114(0076)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "La porta delle rovine si \u00E8 aperta, ma non\\ntrovi nessun gigante?\\c\\nMagari il buio all\u2019interno gli concilia il sonno...\\c\\nPerch\u00E9 non provi ad accendere la luce?\\nCi dovr\u00E0 pur essere un interruttore![VAR 0114(0076)]"
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Ah, i Pok\u00E9mon alati leggendari!\\c\\nPer prima cosa, che ne dici di dirigerti\\nall\u2019enorme albero rosso che sta tuuutto\\r\\na sud delle terre innevate?[VAR 0114(0076)]"
+  },
+  {
+    "index": 80,
+    "flags": 4,
+    "text": "Ah, i Pok\u00E9mon alati leggendari!\\nQuale ti crea problemi, di preciso?[VAR 0114(0076)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Quello arancione"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Quello nero"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Quello viola"
+  },
+  {
+    "index": 84,
+    "flags": 4,
+    "text": "Ah, il Pok\u00E9mon alato arancione, quello che\\nschizza qua e l\u00E0 per le Terre Selvagge!\\c\\nStando alle informazioni sui suoi avvistamenti,\\n\u00E8 stra-veloce! Per\u00F2 \u00E8 pur sempre un Pok\u00E9mon!\\c\\nPrima o poi si stancher\u00E0 anche lui! Prendila\\ncome una gara di resistenza, caposquadra![VAR 0114(0076)]"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Ah, il Pok\u00E9mon alato nero, quello che svolazza\\nin giro per l\u2019Isola dell\u2019Armatura!\\c\\nNon serve a niente inseguirlo, se vola in alto\\nnel cielo!\\c\\nProva ad anticiparlo! Se riesci a stuzzicare quel\\nbirbante, magari se la prende e viene gi\u00F9![VAR 0114(0076)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Ah, il Pok\u00E9mon alato viola, quello che svolazza\\nin giro per la Landa Corona!\\c\\nDicono che quando viene inseguito crei\\ndei doppioni e se la svigni!\\c\\nNon farti ingannare e fai in modo di riconoscere\\nil vero Pok\u00E9mon!\\c\\nSono sicuro che puoi farcela, caposquadra![VAR 0114(0076)]"
+  }
+]

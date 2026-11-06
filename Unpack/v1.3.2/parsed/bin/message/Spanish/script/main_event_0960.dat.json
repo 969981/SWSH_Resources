@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Eres un[VAR 1100(00FF,0100)]a Aspirante, \u00BFno? \u00BFHas venido a afrontar\\nel reto de este gimnasio?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1S\u00ED!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Todav\u00EDa no"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Muy bien, pues ve primero al vestuario para\\nponerte el uniforme.\\c\\nDespu\u00E9s podr\u00E1s acceder a la sala donde tiene\\nlugar la misi\u00F3n de gimnasio."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Cada uno es libre de hacer lo que quiera, faltar\u00EDa\\nm\u00E1s."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Adelante, dorsal [VAR 01C4(0000)]!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Buena suerte con la misi\u00F3n!\\n\u00A1A tope con la taza y cuidado con los topetazos!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  }
+]

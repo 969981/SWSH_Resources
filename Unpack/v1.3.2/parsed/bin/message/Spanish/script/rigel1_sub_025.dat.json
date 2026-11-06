@@ -1,0 +1,842 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u00A1Hombre, [VAR 0100(0000)]!\\c\\n\u00BFTambi\u00E9n has venido a disfrutar de la naturaleza\\nde la Isla de la Armadura?[VAR 0114(000E)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "La verdad es que me encanta venir por aqu\u00ED de\\nvez en cuando. Es el lugar perfecto para tomarse\\r\\nun respiro.[VAR 0114(000E)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Pocos lugares hay con tanta naturaleza como\\nesta isla. \u00A1Incluso Tsareena est\u00E1 de lo m\u00E1s alegre![VAR 0114(000E)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Un paseo por un bosque frondoso como este\\nsienta de maravilla, \u00BFa que s\u00ED?\\c\\n\u00A1Ojal\u00E1 no se me hubiese olvidado el bocadillo![VAR 0114(000E)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Wooloo est\u00E1 recubierto de una lana tan suave y\\nacolchadita que no se har\u00EDa ni un rasgu\u00F1o ni\\r\\naunque se cayese por un risco como este.[VAR 0114(000E)]"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Eco, eco, eco...\\nEl sonido reverbera tanto en esta cueva que\\r\\nsiempre me dan ganas de gritar as\u00ED...[VAR 0114(000E)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1El vasto y azul oc\u00E9ano! A Cathy le encantar\u00EDa\\neste lugar. \u00A1Se emocionar\u00EDa como una ni\u00F1a![VAR 0114(000E)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Este es un lugar demasiado \u00E1rido para los\\nPok\u00E9mon de tipo Planta, aunque en ocasiones\\r\\nincluso aqu\u00ED es posible encontrar vegetaci\u00F3n.[VAR 0114(000E)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1Algunos Pok\u00E9mon de tipo Planta se ponen como\\nlocos de contentos cuando brilla el sol!\\c\\nEl problema es que los Pok\u00E9mon de tipo Fuego\\nse fortalecen tambi\u00E9n...[VAR 0114(000E)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Hay que ver lo r\u00E1pido que cambia el tiempo en\\nesta isla... \u00BFSer\u00E1 que est\u00E1 Roy por aqu\u00ED?[VAR 0114(000E)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1La lluvia es un regalo de la naturaleza!\\n\u00A1Regar\u00E1 todas las plantas de la isla![VAR 0114(000E)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Mi sombrero de granjero me viene de perlas\\ntanto en los combates como en tormentas de\\r\\narena como esta.[VAR 0114(000E)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1Cuidado, [VAR 0100(0000)]! \u00A1No me hago\\nresponsable si te chocas conmigo por culpa\\r\\nde esta densa niebla![VAR 0114(000E)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Tsareeee!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Hola, Campe[VAR 1100(00FF,0302)]\u00F3nona. \u00BFAcaso has venido a verme?[VAR 0114(000F)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Estaba bromeando.\\c\\nMe he tomado unos d\u00EDas libres en el gimnasio y\\nen mi trabajo de modelo y estoy aprovechando\\r\\npara entrenar.[VAR 0114(000F)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Verde y m\u00E1s verde hasta donde alcanza la vista...\\nPercy adorar\u00EDa este lugar.[VAR 0114(000F)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "La lluvia en este bosque produce un sonido muy\\nrelajante. Es perfecto para recomponerse tras\\r\\nuna derrota o cuando te hace falta desconectar.[VAR 0114(000F)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Qu\u00E9 brisa tan agradable... En d\u00EDas como este\\nes f\u00E1cil imaginarse a los Wingull repartiendo la\\r\\ncorrespondencia.[VAR 0114(000F)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Si sigues por aqu\u00ED acabar\u00E1s saliendo al mar, en\\nuna zona con una islita que a m\u00ED me encanta.[VAR 0114(000F)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Qu\u00E9 mar tan pl\u00E1cido... \u00BFCu\u00E1nto crees que\\ntardar\u00EDa en llegar nadando hasta esa isla de all\u00ED?[VAR 0114(000F)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Estoy entrenando junto a Drednaw.\\c\\nEn desiertos tan secos y \u00E1ridos como este, nada\\ncomo unos buenos movimientos de tipo Agua.[VAR 0114(000F)]"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Un d\u00EDa maravilloso para salir a nadar.\\n\u00BFSab\u00EDas que mi uniforme tambi\u00E9n sirve como\\r\\ntraje de ba\u00F1o?[VAR 0114(000F)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Es fascinante pensar que las nubes no son m\u00E1s\\nque c\u00FAmulos de agua que flotan sobre nosotros.\\c\\nEso hace que cielos como este sean, en cierto\\nmodo, mares inmensos.[VAR 0114(000F)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Puede que a ti no te guste mucho la lluvia,\\npero para los Pok\u00E9mon de tipo Agua es algo\\r\\nmaravilloso.\\c\\nLos conceptos de buen y mal tiempo son\\nrelativos.[VAR 0114(000F)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Drednaw es tambi\u00E9n de tipo Roca, por lo que\\nen tormentas de arena como esta aumenta su\\r\\nresistencia ante los ataques especiales.[VAR 0114(000F)]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00BFRecuerdas el faro de Pueblo Amura? Gu\u00EDa con\\nsu luz a los barcos para que no se pierdan ni en\\r\\nla oscuridad ni entre la niebla.[VAR 0114(000F)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Naw, naw..."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1Campe[VAR 1100(00FF,0302)]\u00F3nona [VAR 0100(0000)]! \u00A1Veo que sigues\\nentrenando con fervor incluso en esta isla![VAR 0114(0010)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Yo voy a seguir corriendo para no quedarme a la\\nzaga.[VAR 0114(0010)]"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "En ocasiones, el cuerpo candente de Centiskorch\\npuede provocar peque\u00F1os incendios.\\c\\nPor fortuna, siempre llevo encima una botella de\\nagua para extinguirlos.[VAR 0114(0010)]"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "En bosques como este suelen habitar multitud de\\nPok\u00E9mon de tipo Planta o Bicho.\\c\\nCon Pok\u00E9mon de tipo Fuego como Centiskorch\\na mi lado, no tengo de qu\u00E9 preocuparme.[VAR 0114(0010)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Los tramos de escalera largos como este de aqu\u00ED\\nson ideales para el entrenamiento.\\c\\nHe completado el circuito ya cien veces, creo\\nque me merezco un descanso.[VAR 0114(0010)]"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Al igual que en la Mina de Galar n.\u00BA 2, en esta\\ncueva hay muchos Pok\u00E9mon de tipo Agua.\\c\\nEs perfecta para mis entrenamientos.[VAR 0114(0010)]"
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Entrenar en el mar es demasiado duro para mis\\nPok\u00E9mon, por lo que me toca nadar por m\u00ED y por\\r\\nCentiskorch.[VAR 0114(0010)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Conoc\u00ED a Torkoal aqu\u00ED mismo.\\c\\nGracias a su habilidad, es capaz de cambiar el\\ntiempo atmosf\u00E9rico, por lo que se lo recomend\u00E9\\r\\na Roy y ahora \u00E9l tambi\u00E9n tiene uno.[VAR 0114(0010)]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Con un tiempo tan agradable como este,\\nentrenar es un placer. \u00A1Un, dos, un, dos![VAR 0114(0010)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "No pienses que los rayos del sol no nos alcanzan\\nsolo por estar nublado.\\c\\nNo hay que olvidar ponerse un gorro, hidratarse\\ny utilizar crema solar.[VAR 0114(0010)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "La lluvia debilita los movimientos ardientes que\\ntanto me gustan a m\u00ED.\\c\\nEn ocasiones como esta, conviene utilizar D\u00EDa\\nSoleado o Maxignici\u00F3n para despejar las nubes.[VAR 0114(0010)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Si quieres enfrentarte a Roy, debes encontrar una\\nmanera efectiva de contrarrestar sus tormentas\\r\\nde arena.[VAR 0114(0010)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Los Pok\u00E9mon salvajes con los que te topas var\u00EDan\\nseg\u00FAn el tiempo atmosf\u00E9rico.\\c\\n\u00BFQu\u00E9 clase de Pok\u00E9mon encontraremos entre\\nesta niebla?[VAR 0114(0010)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "\u00A1Skooorch!"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)]! \u00BFEntrenando en secreto?[VAR 0114(0011)]"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "Es alentador ver que sigues entrenando a pesar\\nde haberte hecho ya con el t\u00EDtulo de Campe[VAR 1100(00FF,0302)]\u00F3nona.\\c\\nNo dudes de que Machamp y yo vamos a\\nseguirte de cerca para no quedarnos atr\u00E1s.[VAR 0114(0011)]"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "En esta isla reside un legendario L\u00EDder de\\nGimnasio de tipo Lucha.\\c\\nTodav\u00EDa no soy digna de presentarme ante \u00E9l.[VAR 0114(0011)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Los Emolga son sumamente imprevisibles, por lo\\nque es pr\u00E1cticamente imposible predecir cu\u00E1ndo\\r\\naparecer\u00E1 uno.[VAR 0114(0011)]"
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "Esta zona me recuerda a Pueblo Ladera.\\c\\nPensar en mis compa\u00F1eros del gimnasio me\\nproporciona una dosis de motivaci\u00F3n adicional\\r\\na la hora de entrenar.[VAR 0114(0011)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Con los pies descalzos es m\u00E1s f\u00E1cil plantarse con\\nfirmeza en el suelo al recibir un golpe.\\c\\nEsa es la raz\u00F3n por la que tanto Machamp como\\nyo prescindimos siempre del calzado.[VAR 0114(0011)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "La nataci\u00F3n es un ejercicio sin par a la hora de\\nfortalecer y tonificar todos los m\u00FAsculos.\\c\\nNo me cabe duda de que Cathy goza de una\\nforma f\u00EDsica envidiable.[VAR 0114(0011)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00BFNo te recuerda este lugar a una cancha de\\ncombate rodeada de gradas? Tambi\u00E9n es\\r\\nimportante ejercitar la imaginaci\u00F3n.[VAR 0114(0011)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Tengo la impresi\u00F3n de que los entrenamientos\\nson m\u00E1s efectivos en condiciones adversas.\\c\\nPor otro lado, en d\u00EDas claros como este no se me\\nensucian tanto los pies.[VAR 0114(0011)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Cuando estoy baja de energ\u00EDas en d\u00EDas cubiertos\\ncomo hoy, nada como un combate con Machamp\\r\\npara despejarme la mente.[VAR 0114(0011)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Llueva o truene, hay que seguir ejercitando los\\npu\u00F1os. Cada golpe es un paso m\u00E1s en el camino\\r\\na la victoria.[VAR 0114(0011)]"
+  },
+  {
+    "index": 53,
+    "flags": 4,
+    "text": "Esta tormenta de arena es como una simple gota\\nde agua en el oc\u00E9ano. No me afecta en absoluto.\\c\\nAunque si Cathy me oyera hablar as\u00ED, no estar\u00EDa\\nnada contenta.[VAR 0114(0011)]"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Aunque no puedas ver a tu adversario, has de ser\\ncapaz de sentir su presencia.\\c\\nUna niebla densa como esta es perfecta para\\npracticar la percepci\u00F3n.[VAR 0114(0011)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1Maaachaaamp!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "\u00BFEh? \u00BFP-pero qu\u00E9 haces aqu\u00ED, [VAR 0100(0000)]?[VAR 0114(0012)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "\u00BFEntrenando? Ya veo...\\c\\nA m\u00ED me gusta este sitio porque suele haber\\npoca gente...[VAR 0114(0012)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "A-a veces veo un Pok\u00E9mon enorme en el mar...\\n\u00BFSer\u00E1 un Pok\u00E9mon Dinamax?[VAR 0114(0012)]"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Este lugar... tiene una atm\u00F3sfera completamente\\ndistinta a la del Bosque Lumirinto...\\c\\nA-aunque es igual de f\u00E1cil perderse...[VAR 0114(0012)]"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "E-este lugar tan escarpado me recuerda a Pueblo\\nLadera...\\c\\nTen cuidado de no tropezar, \u00BFv-vale?[VAR 0114(0012)]"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Uy, tienes detr\u00E1s a un...\\c\\nD-da igual... Este es relativamente inofensivo...[VAR 0114(0012)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Se oyen muchas voces viniendo del mar...\\n\u00BFSe sentir\u00E1n s-solos?[VAR 0114(0012)]"
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Estoy haciendo un mont\u00EDculo de arena...\\nDicen que, si un esp\u00EDritu resentido lo posee,\\r\\nse convertir\u00E1 en un Pok\u00E9mon...[VAR 0114(0012)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Qu\u00E9 calor hace hoy... Sudo tanto bajo la m\u00E1scara\\nque parece que se me vaya a resbalar el alma.[VAR 0114(0012)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Cuando el cielo est\u00E1 cubierto de nubes negras,\\nm-me siento extra\u00F1amente en paz...[VAR 0114(0012)]"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Eh... Ah... \u00BFTe cuento una historia de miedo\\nacerca de un d\u00EDa lluvioso?[VAR 0114(0012)]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "M-mi m\u00E1scara me protege hasta de las tormentas\\nde arena...\\c\\n\u00BFDeber\u00EDa ponerles una a Gengar y los dem\u00E1s...?[VAR 0114(0012)]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "\u00A1H-he descubierto una cosa!\\c\\nComo entre la niebla no me pueden ver, no me\\npongo tan nervioso...[VAR 0114(0012)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Gen, gen..."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 est\u00E1s haciendo aqu\u00ED? \u00BFMontando guardia\\nporque te lo ha mandado Sally?\\c\\n\u00BFQu\u00E9 sentido tiene venir a esta isla en medio de\\nla nada para alcanzar nuevas cotas de rosa?[VAR 0114(000C)]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "...\\c\\nEstaba hablando solo.[VAR 0114(000C)]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Dicen que hay un dojo por aqu\u00ED. No se me\\nocurre nada m\u00E1s estresante que pasar el d\u00EDa\\r\\nentrenando con otra gente.[VAR 0114(000C)]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Mi Hatterene es muy especial, puesto que lo\\nrecib\u00ED del mism\u00EDsimo presidente.[VAR 0114(000C)]"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "Esta zona se parece al pueblo aquel del mural...\\n\u00BFEn qu\u00E9 estar\u00EDa pensando al causar aquel\\r\\ndestrozo?[VAR 0114(000C)]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Tengo la impresi\u00F3n de que t\u00FA y yo nos\\nencontramos a menudo en cuevas.\\c\\n\u00BFSer\u00E1 una broma del destino que nos sigamos\\ncruzando de esta forma?[VAR 0114(000C)]"
+  },
+  {
+    "index": 76,
+    "flags": 4,
+    "text": "En esta isla no hay nada que hacer, es absurdo.\\nDicen que en todas partes puedes aprender algo\\r\\nnuevo, pero en este caso no me lo creo.[VAR 0114(000C)]"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "En lugares con tan poca vida, los sentimientos de\\nlos dem\u00E1s dejan de atormentar a Hatterene, por\\r\\nlo que se siente muy a gusto.[VAR 0114(000C)]"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Tengo muchas ganas de mostrarte toda la fuerza\\nque he adquirido entrenando en esta isla.[VAR 0114(000C)]"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Con tanta humedad se me encrespa much\u00EDsimo\\nel pelo.\\c\\nSi yo, como L\u00EDder de Gimnasio, tengo que cuidar\\nmi aspecto, t\u00FA, como Campe[VAR 1100(00FF,0302)]\u00F3nona, todav\u00EDa m\u00E1s.[VAR 0114(000C)]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00BFPoniendo al mal tiempo buena cara?\\nClaramente, hay gente para todo...[VAR 0114(000C)]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Ya se me ha llenado el pelo de arena... No me\\nquedar\u00E1 otra que lav\u00E1rmelo a conciencia.[VAR 0114(000C)]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Por m\u00E1s que intentes darle alcance, la niebla\\nsiempre se te acaba escurriendo entre los dedos.\\c\\nEs frustrante.... Me recuerda a ti.[VAR 0114(000C)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFHaaa?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "No esperaba encontrarte en un lugar como este,\\nCampe[VAR 1100(00FF,0302)]\u00F3nona.[VAR 0114(0014)]"
+  },
+  {
+    "index": 85,
+    "flags": 4,
+    "text": "Estoy probando nuevas estrategias para exprimir\\nal m\u00E1ximo la fuerza de Coalossal. Espera y ver\u00E1s.[VAR 0114(0014)]"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Un conocido me regal\u00F3 un Pase Armadura y\\npens\u00E9 que no estar\u00EDa mal cambiar de aires.[VAR 0114(0014)]"
+  },
+  {
+    "index": 87,
+    "flags": 4,
+    "text": "El calor y la humedad de este lugar son algo\\nagobiantes. Si mi madre viniese por aqu\u00ED, no\\r\\nme cabe duda de que se quejar\u00EDa.[VAR 0114(0014)]"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 hermosas vistas hay por aqu\u00ED!\\c\\nHe estado probando a ver si ve\u00EDa Pueblo Auriga,\\npero queda un poco lejos.[VAR 0114(0014)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Las cuevas como esta parecen gustarle a\\nCoalossal. Imagino que se debe a que le\\r\\nrecuerdan a su hogar, la Mina de Galar.[VAR 0114(0014)]"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "A Coalossal no le gusta el agua, pero, gracias a\\nsu habilidad, se vuelve incre\u00EDblemente r\u00E1pido si\\r\\nlo roc\u00EDan con ella.[VAR 0114(0014)]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Ve con cuidado, no querr\u00EDas estar debajo de\\nCoalossal si se cae. \u00A1Pesa tres veces m\u00E1s que yo![VAR 0114(0014)]"
+  },
+  {
+    "index": 92,
+    "flags": 4,
+    "text": "En esta isla hace un bochorno impresionante.\\nEn Pueblo Auriga, en cambio, se agradece tener\\r\\na Coalossal al lado para que te d\u00E9 calor.[VAR 0114(0014)]"
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "Esta gruesa capa de nubes parece anunciar\\nlluvia.\\c\\n\u00BFO ser\u00E1 solamente el vapor de Coalossal?[VAR 0114(0014)]"
+  },
+  {
+    "index": 94,
+    "flags": 4,
+    "text": "El suelo est\u00E1 tan resbaladizo por el agua que he\\nestado a punto de caerme. Por suerte, di una\\r\\nvoltereta hacia atr\u00E1s para salvar el trompazo.[VAR 0114(0014)]"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Una de las ventajas de llevar siempre gafas de\\nsol es que las tormentas de arena como esta no\\r\\nme afectan.[VAR 0114(0014)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Por mucho que las limpie, las gafas de sol no me\\nduran ni dos segundos sin empa\u00F1arse.\\c\\nSer\u00E1 mejor que posponga mi entrenamiento\\nhasta que se quite la niebla y pueda ver algo.[VAR 0114(0014)]"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "\u00A1Coaaal!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00A1Anda! No esperaba encontrarte por aqu\u00ED.\\n\u00BFHas venido porque has o\u00EDdo hablar de mi\\r\\nentrenamiento secreto?[VAR 0114(0015)]"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "\u00A1Pues no pienso dejarte ver en qu\u00E9 consiste!\\nSi lo hiciese, dejar\u00EDa de ser secreto.[VAR 0114(0015)]"
+  },
+  {
+    "index": 100,
+    "flags": 4,
+    "text": "Un conocido me dio un Pase Armadura y pens\u00E9\\nque a mis Pok\u00E9mon les vendr\u00EDa bien cambiar de\\r\\naires un rato.[VAR 0114(0015)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "No hay quien aguante este calor tan h\u00FAmedo...\\nEst\u00E1 claro que la ropa que uso en Pueblo Auriga\\r\\nno vale para todas partes.[VAR 0114(0015)]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 bonito panorama! Se ve absolutamente\\ntodo... menos Pueblo Auriga, pero da igual.[VAR 0114(0015)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Menudo resbal\u00F3n me he pegado antes por aqu\u00ED.\\nPor suerte he ca\u00EDdo bien y no me he hecho da\u00F1o,\\r\\npero \u00A1vaya susto![VAR 0114(0015)]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "\u00A1Ja, ja! Tan cerca del mar, Lapras no puede\\ncontenerse y sale nadando. Voy a tener que\\r\\nbuscar otro sitio si quiero que entrene en serio.[VAR 0114(0015)]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Pues s\u00ED que es arenoso este lugar, hay que ver...\\c\\nEntrenar en unas condiciones tan duras debe de\\ndar muy buenos resultados.[VAR 0114(0015)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 fuerte pega el sol en la Isla de la Armadura!\\c\\nDurante el d\u00EDa no hay nada mejor que abrazarse\\nal cuerpo fresquito de Lapras.[VAR 0114(0015)]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Vaya d\u00EDa m\u00E1s gris, \u00BFno? \u00A1Ten cuidado no te\\ntropieces con alg\u00FAn Slowpoke despistado![VAR 0114(0015)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 lluvia m\u00E1s fresquita y agradable! Creo que\\na Lapras tambi\u00E9n le gusta esta humedad.[VAR 0114(0015)]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "\u00A1Vaya tormenta de arena m\u00E1s fuerte! Por suerte el\\ngorro y la bufanda me protegen...[VAR 0114(0015)]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "\u00A1Una Mel salvaje te corta el paso entre la niebla!\\c\\n\u00A1Ja, ja, ja! Qu\u00E9 Pok\u00E9mon m\u00E1s raros se pueden\\nencontrar en d\u00EDas como este, \u00BFno?[VAR 0114(0015)]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "\u00A1La, pras!"
+  },
+  {
+    "index": 112,
+    "flags": 4,
+    "text": "Uf... \u00BFT\u00FA por aqu\u00ED? Siempre que me encuentro\\ncontigo me la acabas liando...[VAR 0114(0016)]"
+  },
+  {
+    "index": 113,
+    "flags": 4,
+    "text": "Esta vez tengo mis propias movidas, as\u00ED que no\\npienso seguirte el rollo.[VAR 0114(0016)]"
+  },
+  {
+    "index": 114,
+    "flags": 4,
+    "text": "Esto me recuerda al \u00C1rea Silvestre, con tantos\\nPok\u00E9mon pululando por ah\u00ED.[VAR 0114(0016)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "No hace falta ser Lionel para perderse en este\\nbosque... Voy a tener que acabar llamando a un\\r\\ntaxi volador para no liarla parda.[VAR 0114(0016)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "Qu\u00E9 guapa la torre roja esa, \u00BFno? Aunque tiene\\nuna pinta de tipo Lucha que tira de espaldas.\\c\\nMejor ni me acerco, no sea que me caiga una\\nbuena tunda.[VAR 0114(0016)]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Pues se est\u00E1 de lujo en este lugar tan fresco\\ny oscuro. Si no fuera por el eco, ser\u00EDa un sitio\\r\\ndabuti para un concierto.[VAR 0114(0016)]"
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "Un oc\u00E9ano tan azul como profundo...\\c\\nSi mi hermanita estuviese aqu\u00ED, estar\u00EDa d\u00E1ndome\\nla chapa con que nos ba\u00F1\u00E1semos a la m\u00EDnima que\\r\\nasomara un rayo. Y el sol y yo... como que no.[VAR 0114(0016)]"
+  },
+  {
+    "index": 119,
+    "flags": 4,
+    "text": "Obstagoon, la arena y yo en un desierto\\nsilencioso como este...\\c\\nCreo que me est\u00E1 viniendo la inspiraci\u00F3n para un\\nnuevo tema.[VAR 0114(0016)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Demasiado despejado para mi gusto...\\c\\nPuedo con la humedad, pero el calor agobiante\\neste me hace polvo.[VAR 0114(0016)]"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "Uno pensar\u00EDa que en d\u00EDas tan grises y tristes\\ncomo este, los movimientos de tipo Siniestro\\r\\nse volver\u00EDan m\u00E1s fuertes, pero de eso nanay.[VAR 0114(0016)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "\u00BFNo te pone de buen humor la lluvia?\\c\\nEspero que Roxy no se haya olvidado el\\nparaguas...[VAR 0114(0016)]"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "Esta tormenta de arena me recuerda al combate\\ncontra Roy en el Torneo de Finalistas...[VAR 0114(0016)]"
+  },
+  {
+    "index": 124,
+    "flags": 4,
+    "text": "Esconderse entre la niebla y... \u00A1zas! \u00A1Alarido!\\ny luego \u00A1plas! Golpe Bajo...\\c\\nNo me hagas caso, estoy pensando estrategias\\npara ganar sin usar la energ\u00EDa Dinamax.[VAR 0114(0016)]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "\u00A1Goooon!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "\u00A1\u00BF[VAR 0100(0000)]?! \u00BFPero qu\u00E9 haces por aqu\u00ED?[VAR 0114(000D)]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Bueno, creo que lo adivino... Como buen[VAR 1100(00FF,0100)]a rival\\nm\u00ED[VAR 1100(00FF,0101)]oa que eres, has venido a lo mismo que yo, fijo.[VAR 0114(000D)]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "Como deje a Morpeko a su aire por la hierba\\nalta, lo perder\u00E9 de vista enseguida. M\u00E1s me vale\\r\\nestarme atenta.[VAR 0114(000D)]"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "\u00BFHas visto a los Emolga que saltan de \u00E1rbol en\\n\u00E1rbol? \u00BFNo crees que se parecen a Morpeko?[VAR 0114(000D)]"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 ser\u00E1 ese pedazo de torre roja?\\nLa combinaci\u00F3n de colores me recuerda al\\r\\nuniforme del Gimnasio de Pueblo Cramp\u00F3n.[VAR 0114(000D)]"
+  },
+  {
+    "index": 131,
+    "flags": 4,
+    "text": "Este lugar tan oscuro y peque\u00F1o me recuerda a\\nPueblo Cramp\u00F3n... La verdad es que me gusta.[VAR 0114(000D)]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 playa m\u00E1s bonita! \u00BFY si nos damos un\\nchapuz\u00F3n todos?\\c\\nAunque no veas lo que cuesta secarle el pelo a\\nGrimmsnarl...[VAR 0114(000D)]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "\u00A1Para caminar en sitios como este, hay que\\nentrenarse a fondo! \u00BFTe apuntas?[VAR 0114(000D)]"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Qu\u00E9 brisilla m\u00E1s agradable... \u00BFNo te parece?\\c\\nLos d\u00EDas como hoy son precisamente los que mi\\nhermano odia.[VAR 0114(000D)]"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Con este cielo tan cubierto, me da a m\u00ED que va a\\nllover con ganas.\\c\\nMi hermano se pone de buen humor en d\u00EDas as\u00ED.[VAR 0114(000D)]"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Hay que entrenar incluso en d\u00EDas lluviosos como\\neste.\\c\\nToxicroak ni nota la lluvia con su Piel Seca, pero\\nyo espero no resfriarme...[VAR 0114(000D)]"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "\u00A1C\u00F3mo pica la arena esta! \u00BFMe servir\u00EDa la Gafa\\nProtectora que se les pone a los Pok\u00E9mon?[VAR 0114(000D)]"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "\u00A1Aaaah! \u00A1Ya te vale pegando tantos sustos,\\n[VAR 0100(0000)]!\\c\\nNo veo nada con esta niebla, pensaba que\\neras un monstruo o algo.[VAR 0114(000D)]"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "\u266APeeeko, pe.\u266A"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "\u00BFHas venido aqu\u00ED atra\u00EDd[VAR 1100(00FF,0101)]oa por mi portentoso\\ncarisma, [VAR 0100(0000)]? \u00A1Venga, a luchar![VAR 0114(0017)]"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "Es broma, es broma. He venido para llevar a\\ncabo un entrenamiento secreto que me permita\\r\\nvenceros a ti y a Lionel.\\c\\n\u00A1M\u00E1s te vale estar bien preparad[VAR 1100(00FF,0101)]oa la pr\u00F3xima vez\\nque luchemos![VAR 0114(0017)]"
+  },
+  {
+    "index": 142,
+    "flags": 4,
+    "text": "A la hora de entrenar a mis preciosos dragones,\\nme valen rivales de cualquier tipo.\\c\\nEn esa hierba alta de ah\u00ED seguro que hay unos\\nPok\u00E9mon estupendos con los que practicar.[VAR 0114(0017)]"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "\u00A1Vaya bosque hay en esta isla! Me encanta la\\ncombinaci\u00F3n ganadora de calor y humedad.\\c\\nEstar\u00EDa bien poder aprovecharla en los combates.[VAR 0114(0017)]"
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "\u00A1Vaya vistas que hay desde aqu\u00ED! \u00BFEstaremos m\u00E1s\\naltos que en la torre del Estadio de Artejo?[VAR 0114(0017)]"
+  },
+  {
+    "index": 145,
+    "flags": 4,
+    "text": "Estos techos tan bajos de las cuevas no me\\nmolan un pelo. \u00BFTe imaginas que se filtrase un\\r\\nv\u00EDdeo en el que saliese golpe\u00E1ndome la cabeza?\\c\\nQu\u00E9 pensar\u00EDan mis fans...[VAR 0114(0017)]"
+  },
+  {
+    "index": 146,
+    "flags": 4,
+    "text": "Un combate Pok\u00E9mon en una bella playa con\\neste espl\u00E9ndido mar de fondo...\\c\\n\u00A1El escenario perfecto para un selfi cuando gane![VAR 0114(0017)]"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "\u00BFHas visto lo caliente que est\u00E1 la arena? Pues el\\ncuerpo de Duraludon es igual.\\c\\nPodr\u00EDas usarlo para cocinar curri. \u00A1Ten cuidado\\nde no tocarlo sin querer![VAR 0114(0017)]"
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "El sol de esta isla es verdaderamente abrasador.\\nNo deber\u00EDas salir demasiado cuando est\u00E1 muy\\r\\nalto, que lo mismo te da un golpe de calor.[VAR 0114(0017)]"
+  },
+  {
+    "index": 149,
+    "flags": 4,
+    "text": "Esta isla parece un lugar completamente distinto\\ncuando el cielo est\u00E1 cubierto.\\c\\nMe recuerda a cuando te enfrentaste a la Negra\\nNoche...[VAR 0114(0017)]"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "\u00A1Est\u00E1 lloviendo, [VAR 0100(0000)]!\\nMe gusta el tacto fresco de las gotas en la piel...\\c\\nLos d\u00EDas como este me recuerdan a cuando\\nSliggoo evolucion\u00F3 a Goodra...[VAR 0114(0017)]"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "\u00A1Que se alcen los vientos!\\n\u00A1Yo te invoco, tormenta de arena!\\c\\n\u00A1Es broma, [VAR 1100(00FF,0506)]hombremujer![VAR 0114(0017)]"
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "Uf, no veo nada con esta niebla... En los campos\\nde niebla, los movimientos de tipo Drag\u00F3n\\r\\npierden eficacia... No te pases conmigo, \u00BFvale?[VAR 0114(0017)]"
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "\u00A1Dooon!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "\u00A1Anda, [VAR 0100(0000)]!\\n\u00A1No esperaba encontrarte por aqu\u00ED fuera![VAR 0114(0005)]"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Como ya sabes, \u00A1estoy llevando a cabo una\\ninvestigaci\u00F3n por la isla! No te creas que me\\r\\nestoy tocando las narices...[VAR 0114(0005)]"
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "Incluso en la hierba alta de esta isla, los\\nPok\u00E9mon que habitan son distintos a los del\\r\\n\u00C1rea Silvestre.[VAR 0114(0005)]"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "Este bosque es un l\u00EDo... Ahora entiendo que\\nPetilil se separase de su madre.[VAR 0114(0005)]"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Tengo los pies hechos polvo de subir hasta aqu\u00ED.\\nPero la verdad es que la vista es impresionante...[VAR 0114(0005)]"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Qu\u00E9 forma m\u00E1s rara tiene esta cueva... \u00BFT\u00FA crees\\nque ha sido el r\u00EDo? La naturaleza es incre\u00EDble...[VAR 0114(0005)]"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "\u00A1Las playas de esta isla son preciosas!\\nTendr\u00EDa que haberme tra\u00EDdo el ba\u00F1ador...\\c\\n\u00A1Para ayudarme en la investigaci\u00F3n, claro est\u00E1![VAR 0114(0005)]"
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)], hay arena y m\u00E1s arena por\\ntodas partes! \u00A1Hasta los zapatos los tengo llenos![VAR 0114(0005)]"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Tras un largo paseo, conviene descansar un rato,\\ncomo hacemos Dubwool y yo.[VAR 0114(0005)]"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Vaya nubes, tiene pinta de que va a llover...\\c\\nSi fuesen un poco m\u00E1s blancas, se parecer\u00EDan al\\ncuerpo de Dubwool, tan suave y mullidito...[VAR 0114(0005)]"
+  },
+  {
+    "index": 164,
+    "flags": 4,
+    "text": "A los Pok\u00E9mon acu\u00E1ticos les debe de pirrar la\\nlluvia. Ten cuidado de no resbalarte, \u00BFvale?[VAR 0114(0005)]"
+  },
+  {
+    "index": 165,
+    "flags": 4,
+    "text": "Ay, \u00A1c\u00F3mo pica! \u00A1Se me ha metido arena en los\\nojos! Esto me recuerda al Estadio de Artejo...[VAR 0114(0005)]"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "\u00BFEsta niebla no te recuerda al Bosque Oniria,\\n[VAR 0100(0000)]? \u00A1Lo mismo hasta nos topamos\\r\\ncon un Pok\u00E9mon legendario![VAR 0114(0005)]"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "\u00A1Wool, wool!"
+  }
+]

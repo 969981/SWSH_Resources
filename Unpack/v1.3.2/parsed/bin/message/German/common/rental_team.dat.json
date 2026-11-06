@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0000)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "F\u00E4higkeit"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Item"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Team-ID"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Teamname"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Leihteam"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Geliehene Teams verwalten"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Hochgeladene Teams verwalten"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Was soll mit diesem Leihteam geschehen?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Ausleihen"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Leer"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Zur\u00FCckschicken"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Was soll mit diesem Kampfteam geschehen?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u00D6ffentlich machen"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Nicht \u00F6ffentlich machen"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00DCberpr\u00FCfen"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle ein Kampfteam aus."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle ein Leihteam aus."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Leihteam 1"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Leihteam 2"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Leihteam 3"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Leihteam 4"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Leihteam 5"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Geteilt 1"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Geteilt 2"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Geteilt 3"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Geteilt 4"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Geteilt 5"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Leihteam [VAR 0200(0000)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Geteilt [VAR 0200(0000)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Dieses Team wird zur\u00FCckgeschickt.\\nM\u00F6chtest du fortfahren?"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Das Kampfteam wurde zur\u00FCckgeschickt.\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Dieses Team wird \u00F6ffentlich gemacht.\\nM\u00F6chtest du fortfahren?"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Das Kampfteam wurde \u00F6ffentlich gemacht.\\c"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Dieses Team wird nicht mehr \u00F6ffentlich sein.\\nM\u00F6chtest du fortfahren?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Dieses Team ist nicht mehr \u00F6ffentlich.\\c"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "M\u00F6chtest du dieses Team ausleihen?"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Du hast das Kampfteam ausgeliehen.\\c"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": " OK"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": " Hilfe"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Es wurde kein Team gefunden.\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Es gibt ein Problem mit mindestens einem\\nPok\u00E9mon in diesem Kampfteam.\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Speichervorgang...\\nBitte das System nicht ausschalten."
+  }
+]

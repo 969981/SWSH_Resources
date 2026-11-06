@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Please set details."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Please select the date(s) of the competition."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Please select the start date."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Please select the end date."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Please select the number of battles players can have."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Please select the rules about time limits."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Download"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Don\u2019t download"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Everyone"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Only Trainers who know the ID"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Add"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Don\u2019t add"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Back"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Do you want to download additional\\nbattle rules?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Select who can enter your competition."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Do you want to add a subtitle to the name of\\nyour competition?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Hosting a Competition"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Competition Name"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Rules"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Single Battle"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Double Battle"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Normal Rules"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Battle Tower Rules"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "No Restrictions"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Competition Period"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "\u2013"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "People who can enter"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "Everyone"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Only Trainers who know the ID"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Host"
+  },
+  {
+    "index": 38,
+    "flags": 4,
+    "text": "Attention!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "You can\u2019t cancel a competition."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "No. of Battles"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Max [VAR 0201(0000)] time[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Time Limit"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Your time: [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Total time: [VAR 0201(0000)] minute[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Not set yet"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:00\u2013"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:59"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Competition Period"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] --:-- \u2013 --:--"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]\u2013 --:--"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]\u2013[VAR 0201(0005)]:[VAR 0201(0006)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Max [VAR 0201(0000)] time[VAR 1101(0000,0100)]s"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Your time: [VAR 0201(0000)] min. / Total time: [VAR 0201(0001)] min."
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Your time: [VAR 0201(0000)] min. / Total time: No limitations"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Your time: No limitations / Total time: [VAR 0201(0000)] min."
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Now sending...\\nPlease don\u2019t disconnect the LAN cable."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Rules have been sent.\\c"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Failed to send the rules.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Send to Others"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Send to Others"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "You can send the regulations you\u2019ve created to\\nothers using local communication."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "You can send the regulations you\u2019ve created to\\nothers using LAN communication."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " Stop Sending"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Now sending...\\nPress the B Button to cancel."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "You stopped sending your regulations to others.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Standing by to connect..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Connect with another player using a LAN cable."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Send to Others"
+  },
+  {
+    "index": 70,
+    "flags": 4,
+    "text": "If you press the button, rules will be sent."
+  }
+]

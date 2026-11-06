@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Je sens que tu as l\u2019\u00E9toffe d\u2019un[VAR 1100(00FF,0100)]e Dresseu[VAR 1100(00FF,0201)]rse\\nde talent...\\c\\nMalheureusement, c\u2019est quelqu\u2019un ayant l\u2019\u00E9toffe\\nd\u2019un Ma\u00EEtre que je recherche\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oh ouah, le Ma\u00EEtre\u202F! Chouette\u202F!\\nJe n\u2019irai pas par quatre chemins...\\c\\nVeux-tu que j\u2019enseigne la capacit\u00E9\\n[VAR 0107(0001)] \u00E0 [VAR 1101(00FD,0902)]onun de tes Pok\u00E9mon\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "OK\u202F!\\n\u00C0 plus tard alors\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Je crains que t[VAR 1101(00FD,0202)]ones Pok\u00E9mon ne puisse[VAR 1101(00FD,0200)]nt apprendre\\ncette capacit\u00E9..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dans ce cas, dis-moi \u00E0 qui je dois enseigner\\ncette capacit\u00E9\u202F!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] ne peut pas apprendre\\ncette capacit\u00E9."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Un \u0152uf\u202F? Mais enfin, soyons s\u00E9rieux\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] conna\u00EEt d\u00E9j\u00E0 cette capacit\u00E9\u202F!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Quelle capacit\u00E9 doit-il oublier\u202F?"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "M\u00E9talaser est une capacit\u00E9 d\u2019une puissance\\nincroyable, mais elle inflige aussi beaucoup\\r\\nde d\u00E9g\u00E2ts \u00E0 son utilisateur."
+  }
+]

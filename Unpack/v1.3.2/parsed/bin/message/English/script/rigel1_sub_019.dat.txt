@@ -1,0 +1,16 @@
+It’s a vending machine!\nWhat kind of nutritious drink do you want?
+HP Up
+Protein
+Iron
+Calcium
+Zinc
+Carbos
+How many [VAR 1001][VAR 010A(0000)] would you like\nto buy?
+[VAR 0201(0001)] [VAR BD03(0000)][VAR 0205(0002,002C)]
+Nothing
+Yeah, you weren’t thirsty anyway.
+But you can’t carry any more!
+But you don’t have enough money!
+[VAR 0201(0001)] [VAR 010A(0000)] came out!
+Buy more
+Buy something else

@@ -1,0 +1,71 @@
+Configura los datos del torneo.
+ Confirmar
+ Atrás
+Selecciona el período de duración.
+Selecciona la fecha de inicio.
+Selecciona la fecha de clausura.
+Selecciona el número máximo de combates.
+Selecciona las reglas para los límites de tiempo.
+Descargar
+No descargar
+Cualquier jugador
+Solo jugadores que conozcan el ID
+Sí
+No
+Atrás
+¿Quieres descargar reglamentos adicionales?
+Selecciona quién puede inscribirse en el torneo.
+¿Quieres ponerle un subtítulo al torneo?
+Organización del torneo
+Nombre del torneo
+[VAR 01AF(0000)]
+[VAR 01AF(0000)]
+Reglas
+Combate Individual
+Combate Doble
+Reglas normales
+Reglas de la Torre Batalla
+Sin restricciones
+[~ 28]
+[VAR 01D5(0000)]
+Período
+Del [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])
+al
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:[VAR 0201(0004)])
+Jugadores permitidos
+Cualquier jugador
+Solo jugadores que conozcan el ID
+Organizar
+¡Aviso!
+No puedes cancelar el torneo.
+Número de combates
+Hasta [VAR 0201(0000)]
+Tiempo límite
+Tu tiempo: [VAR 0201(0000)] min
+Tiempo total: [VAR 0201(0000)] min
+Sin configurar
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)]
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:00)
+[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] ([VAR 0201(0003)]:59)
+Período
+El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de --:-- a --:--
+El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] a --:--
+El [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000,0000)] de [VAR 0201(0003)]:[VAR 0201(0004)] a [VAR 0201(0005)]:[VAR 0201(0006)]
+Hasta [VAR 0201(0000)]
+Tu tiempo: [VAR 0201(0000)] min/Tiempo total: [VAR 0201(0001)] min
+Tu tiempo: [VAR 0201(0000)] min/Tiempo total: Sin límite
+Tu tiempo: Sin límite/Tiempo total: [VAR 0201(0000)] min
+Distribuyendo el reglamento...\nNo desconectes el cable LAN.
+Se ha distribuido el reglamento.\c
+El reglamento no se ha distribuido\ncorrectamente.\c
+Distribución de reglamentos
+Iniciar distribución
+El reglamento se enviará a otros jugadores\nmediante comunicación local.
+El reglamento se enviará a otro jugador\nmediante comunicación LAN.
+ Interrumpir distribución
+Distribuyendo el reglamento...\nPulsa el botón B para cancelar.
+Se ha cancelado la distribución.\c
+Esperando para conectar...
+Utiliza un cable LAN para conectarte con otro\njugador.
+Iniciar distribución
+Pulsa el botón para iniciar la distribución.

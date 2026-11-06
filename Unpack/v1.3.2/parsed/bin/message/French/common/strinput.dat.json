@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Quel est votre nom\u00A0?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Votre nom est [VAR 0189(0000)]. Voulez-vous le valider\u00A0?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Vous ne pouvez pas utiliser ce nom."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Vous ne pouvez pas utiliser le mot\\n\u00AB\u00A0[VAR 012E(0000)]\u00A0\u00BB."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Veuillez saisir un nom."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Quel surnom donner \u00E0 [VAR 0101(0000)]\u00A0?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Quel surnom donner [VAR 1404(0000,0001)][VAR 0101(0000)] m\u00E2le\u00A0?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Quel surnom donner [VAR 1404(0000,0001)][VAR 0101(0000)] femelle\u00A0?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Son surnom sera [VAR 0101(0000)]. Voulez-vous le valider\u00A0?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Quel nom voulez-vous donner \u00E0 la Bo\u00EEte\u00A0?"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 01C0(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Quel nom voulez-vous donner \u00E0 l\u2019\u00C9quipe Combat\u00A0?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 01BF(0000)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Son nom sera [VAR 01BF(0000)]. Voulez-vous le valider\u00A0?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Veuillez saisir le code ou le mot de passe."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Le code que vous avez saisi n\u2019existe pas."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Veuillez saisir un mot de passe."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Veuillez saisir votre num\u00E9ro de dossard."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Votre num\u00E9ro de dossard sera [VAR 01C4(0000)]. Voulez-vous le valider\u00A0?"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Vous ne pouvez pas utiliser ce num\u00E9ro."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Quel est votre mois de naissance\u00A0?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Quel est votre jour de naissance\u00A0?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Par exemple, si vous \u00EAtes n\u00E9 le 2 janvier, veuillez saisir 02 et 01."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Votre date de naissance est le [VAR 01C6(0001)]/[VAR 01C5(0000)]. Voulez-vous la valider\u00A0?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Veuillez saisir une date valide."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Vous pouvez saisir un mot de passe \u00E0 huit chiffres."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Veuillez saisir un mot de passe \u00E0 huit chiffres."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Veuillez saisir un ID Comp\u00E9tition."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Veuillez saisir un num\u00E9ro de groupe de combat."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Veuillez saisir l\u2019ID de l\u2019\u00E9quipe que vous souhaitez emprunter."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Veuillez saisir un code carte."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Veuillez saisir un nom pour la comp\u00E9tition."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Veuillez saisir un sous-titre pour la comp\u00E9tition."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "L\u2019ajout d\u2019un sous-titre est facultatif."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Vous pouvez saisir cinq chiffres maximum."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Veuillez saisir un chiffre entre 1 et 12."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Veuillez saisir un chiffre entre 1 et 31."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Veuillez saisir un chiffre entre 1 et 30."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Veuillez saisir un chiffre entre 1 et 29."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Les donn\u00E9es saisies sont invalides."
+  }
+]

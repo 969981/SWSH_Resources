@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "It\u2019s a vending machine!\\nWhat kind of nutritious drink do you want?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "HP Up"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Protein"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "Iron"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Calcium"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Zinc"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Carbos"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "How many [VAR 1001][VAR 010A(0000)] would you like\\nto buy?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0201(0001)] [VAR BD03(0000)]\uE300[VAR 0205(0002,002C)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Nothing"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Yeah, you weren\u2019t thirsty anyway."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "But you can\u2019t carry any more!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "But you don\u2019t have enough money!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0201(0001)] [VAR 010A(0000)] came out!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Buy more"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Buy something else"
+  }
+]

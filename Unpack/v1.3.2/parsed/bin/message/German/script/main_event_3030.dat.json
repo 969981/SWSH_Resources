@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 1604(0001,0000)][VAR 010B(0001)]\\nzur\u00FCcklegen?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Zacian! Zamazenta! Vielen Dank f\u00FCr eure Hilfe![VAR 0114(0005)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Wir sind ein bisschen sp\u00E4t dran, aber wir\\nbringen euch eure Sch\u00E4tze wieder.[VAR 0114(0005)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Hop und du gebt das Rostige Schwert und den\\nRostigen Schild zur\u00FCck!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Das w\u00E4re erledigt. Lass uns nach Hause gehen,\\n[VAR 0100(0000)].[VAR 0114(0005)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Was hast du jetzt vor, Sania?[VAR 0114(0005)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Ich bleibe noch etwas im Wald, um ein paar\\nNachforschungen anzustellen.[VAR 0114(000B)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Huch? Der Energiequellen-Detektor schl\u00E4gt aus![VAR 0114(000B)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Oha! Oha?\\c\\nWir haben uns schon gefragt, wer hier diesen\\nL\u00E4rm veranstaltet.[VAR 0114(0042)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Oha! Oha?\\c\\nSind Sie etwa Professor Sania, die Autorin von\\n\u201EDie Geschichte Galars\u201C?![VAR 0114(0042)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00C4hm, ja, das bin ich... Hei\u00DFt das, Sie haben\\nmein Buch gelesen?[VAR 0114(000B)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Gewiss doch! Wir haben keine Seite,\\nkeinen Buchstaben ausgelassen![VAR 0114(0042)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Wir haben es nicht nur gelesen, sondern auch\\ngleich eine angemessene Bewertung im\\r\\nInternet hinterlassen.\\c\\nIch zitiere:[VAR 0114(0042)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u201EEin widerliches Buch voller L\u00FCgen! Leider nicht\\nmehr wert als einen Stern.\u201C[VAR 0114(006A)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Wie bitte?! In meinem Buch stehen ganz sicher\\nkeine L\u00FCgen![VAR 0114(000B)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Sagt mal, geht\u2019s noch? Das ist superunh\u00F6flich![VAR 0114(0005)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Ich bin Schwerthold![VAR 0114(0068)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Und ich bin Schildrich![VAR 0114(0069)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "In unseren Adern flie\u00DFt blaues Blut, denn wir sind\\ndie einzig wahren k\u00F6niglichen Erben Galars![VAR 0114(0068)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Und nicht nur das, wir sind obendrein auch noch\\nunheimlich ber\u00FChmt.[VAR 0114(0069)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Wahre Erben? Blaues Blut?\\nWas faselt ihr da?[VAR 0114(0005)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Was stimmt mit Ihnen denn nicht...?[VAR 0114(000B)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Oha! Oha? Sind das etwa das Schwert und der\\nSchild, von dem wir so viel geh\u00F6rt haben?[VAR 0114(0068)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Oha! Oha? Sind die wirklich echt?\\nDie sehen ja unfassbar sch\u00E4big aus.\\c\\nIch bin nicht gerade erpicht darauf, sie mit\\nblo\u00DFen H\u00E4nden anzufassen...[VAR 0114(0069)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Schwerthold ergreift das Rostige Schwert!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Schildrich ergreift den Rostigen Schild!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Hey, Finger weg! Wir haben die eben erst\\nzur\u00FCckgebracht![VAR 0114(0005)]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Wer hat dich denn nach deiner Meinung gefragt?\\nWir haben nur etwas vom Boden aufgelesen.[VAR 0114(0068)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Aber da du dich so lautstark beschwerst, kannst\\ndu sicher beweisen, wem sie geh\u00F6ren, hmm?[VAR 0114(0069)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hmpf, wie soll ich denn beweisen, wem dieses\\nuralte Zeug geh\u00F6rt?\\c\\nJedenfalls sind das Schwert und der Schild sehr\\nwichtig f\u00FCr Zacian und Zamazenta![VAR 0114(0005)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Du meine G\u00FCte... F\u00FCr einen einfachen Jungen\\naus dem niederen Volk legst du einen ziemlich\\r\\nfrechen Ton an den Tag.\\c\\nWenn du dich so weit aus dem Fenster lehnst,\\nmacht es dir sicher nichts aus, diese Sache\\r\\nin einem Kampf zu kl\u00E4ren?[VAR 0114(0068)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Wir sind n\u00E4mlich so ber\u00FChmt, dass wir uns f\u00FCr\\nkeinen Kampf zu schade sind.[VAR 0114(0069)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Was auch immer das hei\u00DFen soll...[VAR 0114(000B)]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Du hast die Ehre gegen mich, den m\u00E4chtigen\\nSchwerthold, k\u00E4mpfen zu d\u00FCrfen![VAR 0114(0068)]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Du hast die Ehre gegen mich, den m\u00E4chtigen\\nSchildrich, k\u00E4mpfen zu d\u00FCrfen![VAR 0114(0069)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Du hast [VAR 1604(0001,0000)][VAR 010B(0001)]\\nwieder an dich genommen!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Pah! Es scheint, als h\u00E4tte ich deine F\u00E4higkeiten\\nuntersch\u00E4tzt.\\c\\nImmerhin hast du das Team besiegt, das mich\\nauf meinen Spazierg\u00E4ngen begleitet. Bravo.[VAR 0114(0068)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Pah! Es scheint, als h\u00E4tte ich deine F\u00E4higkeiten\\nuntersch\u00E4tzt.\\c\\nImmerhin hast du das Team besiegt, das mich\\nauf meinen Spazierg\u00E4ngen begleitet. Bravo.[VAR 0114(0069)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Wie dem auch sei. Dem Lachen nach zu urteilen,\\nhat mein j\u00FCngerer Bruder den Sieg errungen.[VAR 0114(0068)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Wie dem auch sei. Dem Lachen nach zu urteilen,\\nhat mein \u00E4lterer Bruder den Sieg errungen.[VAR 0114(0069)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Tut mir leid, [VAR 0100(0000)]...\\nIch hab verloren...[VAR 0114(0005)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hahaha! Was war denn los, Junge?\\c\\nHat dich meine glorreiche Haarpracht so sehr\\neingesch\u00FCchtert, oder warst du mit den\\r\\nGedanken einfach woanders?[VAR 0114(0069)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Hahaha! Was war denn los, Junge?\\c\\nHat dich meine glorreiche Haarpracht so sehr\\neingesch\u00FCchtert, oder warst du mit den\\r\\nGedanken einfach woanders?[VAR 0114(0068)]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "...[VAR 0114(0005)]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Aber sag mal, lieber Bruder...\\c\\nIst das nicht der Trainer, der Endynalos unter\\nKontrolle gebracht hat?[VAR 0114(0069)]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Aber sag mal, liebes Br\u00FCderchen...\\c\\nIst das nicht der Trainer, der Endynalos unter\\nKontrolle gebracht hat?[VAR 0114(0068)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Jetzt, wo du es sagst...\\c\\nJa, du hast recht! Das muss der kleine Rotzl\u00F6ffel\\nsein, der uns die Chance genommen hat,\\r\\nals Helden im Rampenlicht zu stehen![VAR 0114(0068)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Jetzt, wo du es sagst...\\c\\nJa, du hast recht! Das muss der kleine Rotzl\u00F6ffel\\nsein, der uns die Chance genommen hat,\\r\\nals Helden im Rampenlicht zu stehen![VAR 0114(0069)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Meinen Informationen zufolge war [VAR 1100(00FF,0302,0000)]ersie auch\\nZeuge der Zerst\u00F6rung der Wandmalerei, die\\r\\nunsere Vorfahren so kunstvoll angefertigt hatten![VAR 0114(0069)]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Meinen Informationen zufolge war [VAR 1100(00FF,0302,0000)]ersie auch\\nZeuge der Zerst\u00F6rung der Wandmalerei, die\\r\\nunsere Vorfahren so kunstvoll angefertigt hatten![VAR 0114(0068)]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Solch ein Frevel! Dann hat [VAR 1100(00FF,0A0D,0000)]dieser Bengeldieses G\u00F6r also die\\nZerst\u00F6rung der Wandmalerei zu verantworten,\\r\\ndie unsere Familie seit Generationen verehrte?![VAR 0114(0068)]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Solch ein Frevel! Dann hat [VAR 1100(00FF,0A0D,0000)]dieser Bengeldieses G\u00F6r also die\\nZerst\u00F6rung der Wandmalerei zu verantworten,\\r\\ndie unsere Familie seit Generationen verehrte?![VAR 0114(0069)]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Meinen Sie die Wandmalerei, die die Statuen\\nvon Zacian und Zamazenta verdeckt hat?\\c\\n[VAR 0100(0000)] hat \u00FCberhaupt nichts damit\\nzu tun, dass sie zerst\u00F6rt wurde.[VAR 0114(000B)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Ziehen wir uns f\u00FCrs Erste zur\u00FCck.\\c\\nN\u00E4chstes Mal bringen wir st\u00E4rkere Pok\u00E9mon mit,\\nund dann stampfen wir [VAR 1100(00FF,0303,0000)]ihnsie in Grund und Boden![VAR 0114(0069)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Ziehen wir uns f\u00FCrs Erste zur\u00FCck.\\c\\nN\u00E4chstes Mal bringen wir st\u00E4rkere Pok\u00E9mon mit,\\nund dann stampfen wir [VAR 1100(00FF,0303,0000)]ihnsie in Grund und Boden![VAR 0114(0068)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "So machen wir es![VAR 0114(0068)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "So soll es sein![VAR 0114(0069)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "In diesem Sinne... Ade![VAR 0114(006A)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Hey, hiergeblieben! Gebt [VAR 1100(0001,0003,0003)]dendas [VAR 010B(0001)]\\nsofort zur\u00FCck![VAR 0114(0005)]"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Warte, Hop![VAR 0114(000B)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Also wirklich! Er kann denen doch nicht einfach\\nHals \u00FCber Kopf nachjagen...[VAR 0114(000B)]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Du tr\u00E4gst das Ganze wie immer mit Fassung, hm?[VAR 0114(000B)]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Seltsam, dass Hop gegen diesen Schn\u00F6sel\\nverloren hat...\\c\\nEr wirkte etwas unkonzentriert w\u00E4hrend des\\nKampfs, vielleicht war das ja der Grund.[VAR 0114(000B)]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Immerhin musste er dabei zusehen, wie du als\\n[VAR 1100(00FF,0D0B,0000)]sein Rivaleseine Rivalin zum Champ geworden bist...\\c\\nSelbst jemandem wie Hop wird es zu schaffen\\nmachen, wenn er das Ziel vor Augen verliert.[VAR 0114(000B)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Aber damit besch\u00E4ftigen wir uns sp\u00E4ter.\\nJetzt m\u00FCssen wir erst mal diese beiden Clowns\\r\\nSchwerthold und Schildrich finden.\\c\\nUnd ich hab auch schon eine Idee, wie wir das\\nanstellen k\u00F6nnten...[VAR 0114(000B)]"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Wollen wir das vielleicht im Labor in Brassbury\\nbesprechen?[VAR 0114(000B)]"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Klar, machen wir das!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Ich mache mir Sorgen um Hop..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Danke! Ich h\u00E4tte gar nicht fragen m\u00FCssen, was?[VAR 0114(000B)]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Das kann ich voll und ganz verstehen...\\nWir k\u00FCmmern uns so schnell wie m\u00F6glich um ihn![VAR 0114(000B)]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Gut, dann bis gleich im Pok\u00E9mon-Labor![VAR 0114(000B)]"
+  }
+]

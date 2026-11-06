@@ -1,0 +1,807 @@
+[
+  {
+    "index": 0,
+    "hash": "092338051B5241D0",
+    "name": "TOWNMAP_NONE"
+  },
+  {
+    "index": 1,
+    "hash": "6386234DC2684B4A",
+    "name": "TOWNMAP_DUMMY"
+  },
+  {
+    "index": 2,
+    "hash": "5EA871B6DA178A04",
+    "name": "TOWNMAP_SKY_000"
+  },
+  {
+    "index": 3,
+    "hash": "5EA872B6DA178BB7",
+    "name": "TOWNMAP_SKY_001"
+  },
+  {
+    "index": 4,
+    "hash": "A96D42412D3F0A80",
+    "name": "townmap_sorawotobu_00"
+  },
+  {
+    "index": 5,
+    "hash": "A96D43412D3F0C33",
+    "name": "townmap_sorawotobu_01"
+  },
+  {
+    "index": 6,
+    "hash": "A96D44412D3F0DE6",
+    "name": "townmap_sorawotobu_02"
+  },
+  {
+    "index": 7,
+    "hash": "5EA86EB6DA1784EB",
+    "name": "TOWNMAP_SKY_005"
+  },
+  {
+    "index": 8,
+    "hash": "8252015394EB0404",
+    "name": "TOWNMAP_00_01"
+  },
+  {
+    "index": 9,
+    "hash": "8252045394EB091D",
+    "name": "TOWNMAP_00_02"
+  },
+  {
+    "index": 10,
+    "hash": "8252035394EB076A",
+    "name": "TOWNMAP_00_03"
+  },
+  {
+    "index": 11,
+    "hash": "8251FE5394EAFEEB",
+    "name": "TOWNMAP_00_04"
+  },
+  {
+    "index": 12,
+    "hash": "8251FD5394EAFD38",
+    "name": "TOWNMAP_00_05"
+  },
+  {
+    "index": 13,
+    "hash": "7B1F3306BF27B82F",
+    "name": "townmap_info_00"
+  },
+  {
+    "index": 14,
+    "hash": "D98718D8FB481D41",
+    "name": "townmap_info_01_00"
+  },
+  {
+    "index": 15,
+    "hash": "7B1F3506BF27BB95",
+    "name": "townmap_info_02"
+  },
+  {
+    "index": 16,
+    "hash": "92387C6381037480",
+    "name": "townmap_event_info_00"
+  },
+  {
+    "index": 17,
+    "hash": "AE7F34804A0FEBE0",
+    "name": "townmap_option_00"
+  },
+  {
+    "index": 18,
+    "hash": "AE7F35804A0FED93",
+    "name": "townmap_option_01"
+  },
+  {
+    "index": 19,
+    "hash": "AE7F36804A0FEF46",
+    "name": "townmap_option_02"
+  },
+  {
+    "index": 20,
+    "hash": "AE7F37804A0FF0F9",
+    "name": "townmap_option_03"
+  },
+  {
+    "index": 21,
+    "hash": "AE7F38804A0FF2AC",
+    "name": "townmap_option_04"
+  },
+  {
+    "index": 22,
+    "hash": "ADEBEA59F5F80FC0",
+    "name": "TOWNMAP_01_02"
+  },
+  {
+    "index": 23,
+    "hash": "6240E9EE3A28FA98",
+    "name": "TM_GUIDE_Z_F0102_C0101_01"
+  },
+  {
+    "index": 24,
+    "hash": "0A9521E69DAA7AEF",
+    "name": "TM_GUIDE_Z_F0102_C0102_01"
+  },
+  {
+    "index": 25,
+    "hash": "351335DB5441ED3A",
+    "name": "TM_GUIDE_Z_F0102_C0103_01"
+  },
+  {
+    "index": 26,
+    "hash": "F0AA19DF99062F08",
+    "name": "TM_GUIDE_Z_F0102_S0101_01"
+  },
+  {
+    "index": 27,
+    "hash": "D895BFB1BA784417",
+    "name": "TM_GUIDE_Z_F0102_S0201_01"
+  },
+  {
+    "index": 28,
+    "hash": "8435BE3E473A535C",
+    "name": "TM_PLACE_COMMON_01"
+  },
+  {
+    "index": 29,
+    "hash": "82963E5C29CEBB36",
+    "name": "TM_PLACE_Z_F0102_C0102_01"
+  },
+  {
+    "index": 30,
+    "hash": "82963D5C29CEB983",
+    "name": "TM_PLACE_Z_F0102_C0102_02"
+  },
+  {
+    "index": 31,
+    "hash": "82963C5C29CEB7D0",
+    "name": "TM_PLACE_Z_F0102_C0102_03"
+  },
+  {
+    "index": 32,
+    "hash": "8296435C29CEC3B5",
+    "name": "TM_PLACE_Z_F0102_C0102_04"
+  },
+  {
+    "index": 33,
+    "hash": "843E0A615138500B",
+    "name": "TM_PLACE_Z_F0102_C0103_01"
+  },
+  {
+    "index": 34,
+    "hash": "3291CD0577578759",
+    "name": "TM_PLACE_Z_F0102_S0101_01"
+  },
+  {
+    "index": 35,
+    "hash": "3291CA0577578240",
+    "name": "TM_PLACE_Z_F0102_S0101_02"
+  },
+  {
+    "index": 36,
+    "hash": "83E5008FCC88D95C",
+    "name": "TM_WARP_Z_F0102_S0101_01"
+  },
+  {
+    "index": 37,
+    "hash": "8435C13E473A5875",
+    "name": "TM_PLACE_COMMON_02"
+  },
+  {
+    "index": 38,
+    "hash": "8435C03E473A56C2",
+    "name": "TM_PLACE_COMMON_03"
+  },
+  {
+    "index": 39,
+    "hash": "8435BB3E473A4E43",
+    "name": "TM_PLACE_COMMON_04"
+  },
+  {
+    "index": 40,
+    "hash": "8296425C29CEC202",
+    "name": "TM_PLACE_Z_F0102_C0102_05"
+  },
+  {
+    "index": 41,
+    "hash": "8296415C29CEC04F",
+    "name": "TM_PLACE_Z_F0102_C0102_06"
+  },
+  {
+    "index": 42,
+    "hash": "8296405C29CEBE9C",
+    "name": "TM_PLACE_Z_F0102_C0102_07"
+  },
+  {
+    "index": 43,
+    "hash": "E877FB2AE75C3FA6",
+    "name": "TM_PLACE_Z_F0201_C0201_01"
+  },
+  {
+    "index": 44,
+    "hash": "E877FA2AE75C3DF3",
+    "name": "TM_PLACE_Z_F0201_C0201_02"
+  },
+  {
+    "index": 45,
+    "hash": "E877F92AE75C3C40",
+    "name": "TM_PLACE_Z_F0201_C0201_03"
+  },
+  {
+    "index": 46,
+    "hash": "0CB3397FFC537B79",
+    "name": "TM_PLACE_Z_F0201_S0901_01"
+  },
+  {
+    "index": 47,
+    "hash": "585EA26C4FEC0FF8",
+    "name": "TM_PLACE_Z_F0201_C0401_01"
+  },
+  {
+    "index": 48,
+    "hash": "585EA56C4FEC1511",
+    "name": "TM_PLACE_Z_F0201_C0401_02"
+  },
+  {
+    "index": 49,
+    "hash": "40518498D6C528C0",
+    "name": "TM_PLACE_Z_F0301_C0501_01"
+  },
+  {
+    "index": 50,
+    "hash": "40518798D6C52DD9",
+    "name": "TM_PLACE_Z_F0301_C0501_02"
+  },
+  {
+    "index": 51,
+    "hash": "40518698D6C52C26",
+    "name": "TM_PLACE_Z_F0301_C0501_03"
+  },
+  {
+    "index": 52,
+    "hash": "40518998D6C5313F",
+    "name": "TM_PLACE_Z_F0301_C0501_04"
+  },
+  {
+    "index": 53,
+    "hash": "98576B45AD2D1302",
+    "name": "TM_PLACE_Z_F0301_S0701_01"
+  },
+  {
+    "index": 54,
+    "hash": "5D2A5394512C2874",
+    "name": "TM_PLACE_Z_F0301_S0901_01"
+  },
+  {
+    "index": 55,
+    "hash": "657C2B2A704B0D65",
+    "name": "TM_PLACE_Z_F0201I1701_01"
+  },
+  {
+    "index": 56,
+    "hash": "554EBF854C73D00A",
+    "name": "TM_PLACE_Z_F0301D0501_01"
+  },
+  {
+    "index": 57,
+    "hash": "8DFB6C0AAFF11235",
+    "name": "TM_PLACE_Z_F0301D0601_01"
+  },
+  {
+    "index": 58,
+    "hash": "B69AA47F907B7331",
+    "name": "TM_PLACE_Z_F0401_T0401_01"
+  },
+  {
+    "index": 59,
+    "hash": "B29A2BE741DF78DA",
+    "name": "TM_GUIDE_Z_F0102_S0301_01"
+  },
+  {
+    "index": 60,
+    "hash": "74DC9BEBE9A70B01",
+    "name": "TM_GUIDE_Z_F0102_S0401_01"
+  },
+  {
+    "index": 61,
+    "hash": "FCD71D5B30C3ECC4",
+    "name": "TM_GUIDE_Z_F0102_S0501_01"
+  },
+  {
+    "index": 62,
+    "hash": "D11E4669E30FAE33",
+    "name": "TM_GUIDE_Z_F0102_S0601_01"
+  },
+  {
+    "index": 63,
+    "hash": "2BD219166600D5DB",
+    "name": "TM_GUIDE_Z_F0102_T0101_01"
+  },
+  {
+    "index": 64,
+    "hash": "95B4C5F3233225BA",
+    "name": "TM_GUIDE_Z_F0102D0101_01"
+  },
+  {
+    "index": 65,
+    "hash": "9F90B6A9C38B2CA5",
+    "name": "TM_GUIDE_Z_F0102D0201_01"
+  },
+  {
+    "index": 66,
+    "hash": "2324A2DCD5817768",
+    "name": "TM_GUIDE_Z_F0102D0301_01"
+  },
+  {
+    "index": 67,
+    "hash": "5BD0CF6238FDE013",
+    "name": "TM_GUIDE_Z_F0102D0401_01"
+  },
+  {
+    "index": 68,
+    "hash": "613490D52CA82D96",
+    "name": "TM_GUIDE_Z_F0102D0501_01"
+  },
+  {
+    "index": 69,
+    "hash": "900A90ED39F9A949",
+    "name": "TM_GUIDE_Z_F0102D0502_01"
+  },
+  {
+    "index": 70,
+    "hash": "ABBDBA255B48EA61",
+    "name": "TM_GUIDE_Z_F0102D0601_01"
+  },
+  {
+    "index": 71,
+    "hash": "9D1D16325645D5EE",
+    "name": "TM_GUIDE_Z_F0102H0101_01"
+  },
+  {
+    "index": 72,
+    "hash": "7D5082D7540D8C80",
+    "name": "TM_GUIDE_Z_F0201_S0101_01"
+  },
+  {
+    "index": 73,
+    "hash": "A604F7AFB272984F",
+    "name": "TM_GUIDE_Z_F0201_S0201_01"
+  },
+  {
+    "index": 74,
+    "hash": "828DB816A61E0672",
+    "name": "TM_GUIDE_Z_F0201_S0301_01"
+  },
+  {
+    "index": 75,
+    "hash": "EFD4E923A0FA3A59",
+    "name": "TM_GUIDE_Z_F0201_S0401_01"
+  },
+  {
+    "index": 76,
+    "hash": "8E4E3B923D7FCBCE",
+    "name": "TM_GUIDE_Z_F0201_S0701_01"
+  },
+  {
+    "index": 77,
+    "hash": "09BE1B758343D165",
+    "name": "TM_GUIDE_Z_F0201_S0801_01"
+  },
+  {
+    "index": 78,
+    "hash": "8D5207A8953A1C28",
+    "name": "TM_GUIDE_Z_F0201_S0901_01"
+  },
+  {
+    "index": 79,
+    "hash": "FB77B73C91B788FE",
+    "name": "TM_GUIDE_Z_F0201_S1001_01"
+  },
+  {
+    "index": 80,
+    "hash": "94C1758DCB73E450",
+    "name": "TM_GUIDE_Z_F0201_I1801_01"
+  },
+  {
+    "index": 81,
+    "hash": "9CEF07EA9A3D8E24",
+    "name": "TM_GUIDE_Z_F0201_T0201_01"
+  },
+  {
+    "index": 82,
+    "hash": "D1227E58307F605F",
+    "name": "TM_GUIDE_Z_F0201_C0201_01"
+  },
+  {
+    "index": 83,
+    "hash": "D55669842A7576C2",
+    "name": "TM_GUIDE_Z_F0201_C0301_01"
+  },
+  {
+    "index": 84,
+    "hash": "6EAF5A9260C2E9E9",
+    "name": "TM_GUIDE_Z_F0201_C0401_01"
+  },
+  {
+    "index": 85,
+    "hash": "5177000B0E6A7440",
+    "name": "TM_GUIDE_Z_F0201D0301_01"
+  },
+  {
+    "index": 86,
+    "hash": "218CAAD6353886DE",
+    "name": "TM_GUIDE_Z_F0201I1701_01"
+  },
+  {
+    "index": 87,
+    "hash": "56B4354A607AEE32",
+    "name": "TM_GUIDE_Z_F0201D0101_01"
+  },
+  {
+    "index": 88,
+    "hash": "DF8D02190FE21821",
+    "name": "TM_GUIDE_Z_F0201H0201_01"
+  },
+  {
+    "index": 89,
+    "hash": "BA92038AC98CBAE4",
+    "name": "TM_GUIDE_Z_F0201H0301_01"
+  },
+  {
+    "index": 90,
+    "hash": "97FA0C7A061F5BB7",
+    "name": "TM_GUIDE_Z_F0201H0401_01"
+  },
+  {
+    "index": 91,
+    "hash": "61B682E0ABF5179D",
+    "name": "TM_GUIDE_Z_F0201D0201_01"
+  },
+  {
+    "index": 92,
+    "hash": "25701804AD009857",
+    "name": "TM_GUIDE_Z_F0201D0302_01"
+  },
+  {
+    "index": 93,
+    "hash": "DD5D0D9DABE59D6B",
+    "name": "TM_GUIDE_Z_F0201D0401_01"
+  },
+  {
+    "index": 94,
+    "hash": "6D76665C4355CD19",
+    "name": "TM_GUIDE_Z_F0201D0601_01"
+  },
+  {
+    "index": 95,
+    "hash": "B5B79B58E663BB5D",
+    "name": "TM_GUIDE_Z_F0201I0701_01"
+  },
+  {
+    "index": 96,
+    "hash": "0837AFB4A78FDED5",
+    "name": "TM_GUIDE_Z_F0301_S0101_01"
+  },
+  {
+    "index": 97,
+    "hash": "28B0186DED3A3C2A",
+    "name": "TM_GUIDE_Z_F0301_S0201_01"
+  },
+  {
+    "index": 98,
+    "hash": "4BF816FC321E04E7",
+    "name": "TM_GUIDE_Z_F0301_S0301_01"
+  },
+  {
+    "index": 99,
+    "hash": "1B7B74A334697E94",
+    "name": "TM_GUIDE_Z_F0301_S0401_01"
+  },
+  {
+    "index": 100,
+    "hash": "97E8087022740D51",
+    "name": "TM_GUIDE_Z_F0301_S0501_01"
+  },
+  {
+    "index": 101,
+    "hash": "ED1921DD01946203",
+    "name": "TM_GUIDE_Z_F0301_S0701_01"
+  },
+  {
+    "index": 102,
+    "hash": "7D87307DC85F52F0",
+    "name": "TM_GUIDE_Z_F0301_S0801_01"
+  },
+  {
+    "index": 103,
+    "hash": "39093350F1EAA0CD",
+    "name": "TM_GUIDE_Z_F0301_S0901_01"
+  },
+  {
+    "index": 104,
+    "hash": "E0811B51DF5702B7",
+    "name": "TM_GUIDE_Z_F0301_S1001_01"
+  },
+  {
+    "index": 105,
+    "hash": "2DF11704A5C0540D",
+    "name": "TM_GUIDE_Z_F0301D0101_01"
+  },
+  {
+    "index": 106,
+    "hash": "7513A34C48B143C6",
+    "name": "TM_GUIDE_Z_F0301_S0601_01"
+  },
+  {
+    "index": 107,
+    "hash": "4D4D896F9445D562",
+    "name": "TM_GUIDE_Z_F0301D0201_01"
+  },
+  {
+    "index": 108,
+    "hash": "287E79FB7B0F52EF",
+    "name": "TM_GUIDE_Z_F0301T0301_01"
+  },
+  {
+    "index": 109,
+    "hash": "1264FE09FBA89761",
+    "name": "TM_GUIDE_Z_F0301_C0501_01"
+  },
+  {
+    "index": 110,
+    "hash": "1264FB09FBA89248",
+    "name": "TM_GUIDE_Z_F0301_C0501_02"
+  },
+  {
+    "index": 111,
+    "hash": "4098FAE86ACCFBEC",
+    "name": "TM_GUIDE_Z_F0301D0401_01"
+  },
+  {
+    "index": 112,
+    "hash": "39B0FA803D210989",
+    "name": "TM_GUIDE_Z_F0301D0501_01"
+  },
+  {
+    "index": 113,
+    "hash": "590D8CEB2BA6C13E",
+    "name": "TM_GUIDE_Z_F0301D0601_01"
+  },
+  {
+    "index": 114,
+    "hash": "7C84CC8437FB531B",
+    "name": "TM_GUIDE_Z_F0301D0701_01"
+  },
+  {
+    "index": 115,
+    "hash": "851A14D7A28273D8",
+    "name": "TM_GUIDE_Z_F0301D0801_01"
+  },
+  {
+    "index": 116,
+    "hash": "FD1F93685B659215",
+    "name": "TM_GUIDE_Z_F0301D0901_01"
+  },
+  {
+    "index": 117,
+    "hash": "039ACD5E4C61D08F",
+    "name": "TM_GUIDE_Z_F0301D1001_01"
+  },
+  {
+    "index": 118,
+    "hash": "E0238DC5400D3EB2",
+    "name": "TM_GUIDE_Z_F0301D1101_01"
+  },
+  {
+    "index": 119,
+    "hash": "2A41EE76DEAFD545",
+    "name": "TM_GUIDE_Z_F0301H0501_01"
+  },
+  {
+    "index": 120,
+    "hash": "2A41EB76DEAFD02C",
+    "name": "TM_GUIDE_Z_F0301H0501_02"
+  },
+  {
+    "index": 121,
+    "hash": "DAE65885EDFCC4C0",
+    "name": "TM_GUIDE_Z_F0301D1301_01"
+  },
+  {
+    "index": 122,
+    "hash": "E377C6FCD3C420F7",
+    "name": "TM_GUIDE_Z_F0301PL0101_01"
+  },
+  {
+    "index": 123,
+    "hash": "A1C6FDFC4F610288",
+    "name": "TM_GUIDE_Z_F0401D0101_01"
+  },
+  {
+    "index": 124,
+    "hash": "452AF0203A90F222",
+    "name": "TM_GUIDE_Z_F0401_S0101_01"
+  },
+  {
+    "index": 125,
+    "hash": "7C537DB0640CC5CD",
+    "name": "TM_GUIDE_Z_F0401_S0201_01"
+  },
+  {
+    "index": 126,
+    "hash": "C0D17ADD3A8177F0",
+    "name": "TM_GUIDE_Z_F0401_S0301_01"
+  },
+  {
+    "index": 127,
+    "hash": "74623334DE466FDB",
+    "name": "TM_GUIDE_Z_F0401_S0401_01"
+  },
+  {
+    "index": 128,
+    "hash": "50EAF39BD1F1DDFE",
+    "name": "TM_GUIDE_Z_F0401_S0501_01"
+  },
+  {
+    "index": 129,
+    "hash": "8813612BFB6D7B49",
+    "name": "TM_GUIDE_Z_F0401_S0601_01"
+  },
+  {
+    "index": 130,
+    "hash": "8EFB619429196DAC",
+    "name": "TM_GUIDE_Z_F0401_S0701_01"
+  },
+  {
+    "index": 131,
+    "hash": "8AF9B3885C5EE5B8",
+    "name": "TM_GUIDE_Z_F0401_T0401_01"
+  },
+  {
+    "index": 132,
+    "hash": "89B2A3CE70D31797",
+    "name": "TM_GUIDE_Z_F0401D0201_01"
+  },
+  {
+    "index": 133,
+    "hash": "63B71003F83A4C5A",
+    "name": "TM_GUIDE_Z_F0401D0301_01"
+  },
+  {
+    "index": 134,
+    "hash": "25F98008A001DE81",
+    "name": "TM_GUIDE_Z_F0401D0401_01"
+  },
+  {
+    "index": 135,
+    "hash": "ADF40177E71EC044",
+    "name": "TM_GUIDE_Z_F0401D0501_01"
+  },
+  {
+    "index": 136,
+    "hash": "823B2A86996A81B3",
+    "name": "TM_GUIDE_Z_F0401D0601_01"
+  },
+  {
+    "index": 137,
+    "hash": "F178EAEAA977433D",
+    "name": "TM_GUIDE_Z_F0401D0801_01"
+  },
+  {
+    "index": 138,
+    "hash": "3AEE32FE1B1CA6D2",
+    "name": "TM_GUIDE_Z_F0401BT0101_01"
+  },
+  {
+    "index": 139,
+    "hash": "2C786B058C129AC2",
+    "name": "TM_GUIDE_Z_F0501I0101_01"
+  },
+  {
+    "index": 140,
+    "hash": "0B90636E228C2AB7",
+    "name": "TM_GUIDE_Z_F0701PH0101_01"
+  },
+  {
+    "index": 141,
+    "hash": "B9303DF0B45770EE",
+    "name": "TM_GUIDE_Z_F0301_C0502_01"
+  },
+  {
+    "index": 142,
+    "hash": "B48404C4628BBE33",
+    "name": "TM_PLACE_Z_F0201I1501"
+  },
+  {
+    "index": 143,
+    "hash": "DFB35453916A4F01",
+    "name": "TM_PLACE_Z_F0401I0201_01"
+  },
+  {
+    "index": 144,
+    "hash": "8435BA3E473A4C90",
+    "name": "TM_PLACE_COMMON_05"
+  },
+  {
+    "index": 145,
+    "hash": "8435BD3E473A51A9",
+    "name": "TM_PLACE_COMMON_06"
+  },
+  {
+    "index": 146,
+    "hash": "8435BC3E473A4FF6",
+    "name": "TM_PLACE_COMMON_07"
+  },
+  {
+    "index": 147,
+    "hash": "8435C73E473A62A7",
+    "name": "TM_PLACE_COMMON_08"
+  },
+  {
+    "index": 148,
+    "hash": "8435C63E473A60F4",
+    "name": "TM_PLACE_COMMON_09"
+  },
+  {
+    "index": 149,
+    "hash": "BD8A7713A7F0F652",
+    "name": "TM_PLACE_UNIQUE_01"
+  },
+  {
+    "index": 150,
+    "hash": "BD8A7613A7F0F49F",
+    "name": "TM_PLACE_UNIQUE_02"
+  },
+  {
+    "index": 151,
+    "hash": "BD8A7513A7F0F2EC",
+    "name": "TM_PLACE_UNIQUE_03"
+  },
+  {
+    "index": 152,
+    "hash": "8432393E47373B86",
+    "name": "TM_PLACE_COMMON_10"
+  },
+  {
+    "index": 153,
+    "hash": "80C3F29E30773836",
+    "name": "TM_GUIDE_Z_F0102_S0701_01"
+  },
+  {
+    "index": 154,
+    "hash": "D584A7AA3E72D717",
+    "name": "TM_PLACE_Z_F0201I2001"
+  },
+  {
+    "index": 155,
+    "hash": "84323A3E47373D39",
+    "name": "TM_PLACE_COMMON_11"
+  },
+  {
+    "index": 156,
+    "hash": "088F9BAB32A28666",
+    "name": "TM_PLACE_Z_F0301I1501"
+  },
+  {
+    "index": 157,
+    "hash": "405C06CDF31C6FBD",
+    "name": "TM_GUIDE_Z_F0102_S0801_01"
+  },
+  {
+    "index": 158,
+    "hash": "1EEEF6D59E0C1ADB",
+    "name": "TM_GUIDE_Z_F0201_S1101_01"
+  },
+  {
+    "index": 159,
+    "hash": "8F42615BA44029E7",
+    "name": "TM_GUIDE_Z_F0401_S0801_01"
+  },
+  {
+    "index": 160,
+    "hash": "209EF6C1AF303C72",
+    "name": "msg_townmap_max"
+  }
+]

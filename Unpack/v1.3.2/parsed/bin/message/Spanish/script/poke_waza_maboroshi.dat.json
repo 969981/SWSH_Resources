@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Mi cometido ha sido siempre el de ense\u00F1ar\\nmovimientos a los Pok\u00E9mon conocidos como\\r\\nsingulares.\\c\\nMe pillas de vacaciones, pero podr\u00EDa hacer una\\nexcepci\u00F3n y ense\u00F1arle un movimiento a alguno\\r\\nde tus Pok\u00E9mon. \u00BFQu\u00E9 te parece?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hala... \u00A1Veo que tu Pok\u00E9mon ya conoce ese\\nmovimiento!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Si tienes a Keldeo o a Meloetta en tu equipo,\\npuedo ense\u00F1arles movimientos."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFQuieres que le ense\u00F1e un movimiento a\\nalg\u00FAn Pok\u00E9mon de tu equipo?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bueno, pues si cambias de opini\u00F3n, aqu\u00ED me\\ntienes."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Lo siento de veras.\\c\\nSoy incapaz de ense\u00F1arle un movimiento a un\\nHuevo."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Ese Pok\u00E9mon no puede aprender el movimiento\\nque yo le iba a ense\u00F1ar."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Ese Pok\u00E9mon ya conoce el movimiento que\\npuedo ense\u00F1arle."
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "A ese Pok\u00E9mon no le queda ni un poquito de\\nenerg\u00EDa para combatir."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1Anda!\\n\u00A1[VAR 0102(0000)] est\u00E1 cambiando!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha resuelto plantar batalla con\\nansias renovadas y ha adoptado la Forma Br\u00EDo!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Selecciona el movimiento que quieres sustituir\\npor [VAR 0107(0000)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no ha aprendido\\n[VAR 0107(0001)]."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 Pok\u00E9mon quieres que le ense\u00F1e el\\nmovimiento?"
+  }
+]

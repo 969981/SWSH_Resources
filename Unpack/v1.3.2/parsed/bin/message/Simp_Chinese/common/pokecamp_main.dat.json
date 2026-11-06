@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u786E\u5B9A"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u9000\u51FA"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u8FD4\u56DE"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u83DC\u5355"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u5173\u95ED"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u6301\u6709"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u66FF\u6362"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u547C\u53EB"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u804A\u5929"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u548C\uFF12\u53EA\u4E00\u8D77\u804A\u5929"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u6361\u8D77\u7403"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u5B9D\u53EF\u5C3E\u8349"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u5B9D\u53EF\u7403"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u7F29\u653E"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u9ED1\u540D\u5355"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u67E5\u770B\u8054\u76DF\u5361"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "\u9001\u8D70"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u6447\u52A8"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "\u6295\u63B7"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u66F4\u6539\u89C6\u89D2"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u6536\u62FE\u73A9\u5177"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "\u6765\u804A\u5929\u5427\uFF01"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "\u53BB\u73A9\u5427"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u6CA1\u4EC0\u4E48"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u662F"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u5426"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u8981\u7ED3\u675F\u9732\u8425\u5417\uFF1F"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u8981\u9000\u51FA[VAR 0100(0000)]\u7684\u9732\u8425\u5417\uFF1F"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\u6536\u8D77\u4E86\u5E10\u7BF7\u3002"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u2026\u2026\u54A6\uFF01\uFF1F\\n[VAR 0101(0000)]\u597D\u50CF\u6765\u5230\u4E86\u9732\u8425\u8425\u5730\u3002"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u597D\u50CF\u5F88\u60F3\u548C\\n[VAR 0100(0002)]\u5F85\u5728\u4E00\u8D77\u3002\\r\\n\u8981\u8BA9\u5B83\u6210\u4E3A\u4F19\u4F34\u5417\uFF1F"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u6210\u4E3A\u4E86\u4F19\u4F34\uFF01"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u94BB\u8FDB\u4E86\\n[VAR 0109(0001)]\u91CC\uFF01"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]\u53D8\u56DE\u91CE\u751F\u5B9D\u53EF\u68A6\u4E86\u3002"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]\u5728\u9732\u8425\u8425\u5730\u4E2D\\n\u8FC7\u5F97\u975E\u5E38\u5145\u5B9E\u3002\\r\\n\u83B7\u5F97\u4E86[VAR 0206(0001,0000)]\u7ECF\u9A8C\u503C\uFF01"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)]\u7684\u7B49\u7EA7\u4E0A\u5347\u4E86[VAR 0201(0001)]\uFF01"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "\u6B63\u5728\u53C2\u52A0\u2026\u2026"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "\u5DF2\u79BB\u5F00"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "\u6B63\u5728\u62DB\u52DF\u2026\u2026"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "\u6B63\u5728\u5236\u4F5C\u6599\u7406\u2026\u2026"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "\u65E9\u4E0A\u597D\uFF01"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "\u4F60\u597D\uFF01"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "\u665A\u4E0A\u597D\uFF01"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u5E05\u6C14"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "\u53EF\u7231"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u7F8E\u4E3D"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "\u575A\u5F3A"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "\u806A\u660E"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "\u5B69\u5B50\u6C14"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u7CBE\u795E\u5955\u5955"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "\u53EF\u9760"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "\u51FA\u8272"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u9AD8\u5174"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u5145\u6EE1\u6D3B\u529B"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u5FEB\u4E50"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u95EA\u4EAE"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "\u60A0\u54C9"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u6DF1\u6C89"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u91CE\u6027"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "\u8BA8\u559C"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u6F02\u4EAE"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "\u624D\u534E\u6A2A\u6EA2"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "\u534E\u4E3D"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "\u60F9\u4EBA\u601C\u7231"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "\u4FCF\u4E3D"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u5B8C\u7F8E"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "\u4F18\u96C5"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u8F89\u714C"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u62FF\u51FA\u73A9\u5177"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "\u66F4\u6362\u73A9\u5177"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u6536\u4E0B\u7403"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u73A9\u5177\u5217\u8868"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u6599\u7406\u83DC\u5355"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u56DE\u5230\u91CE\u5916"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u529D\u67B6"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u548C\u8BAD\u7EC3\u5BB6\u804A\u5929"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "\u8981\u5C06[VAR 0100(0000)]\\n\u6DFB\u52A0\u5230\u9ED1\u540D\u5355\u5417\uFF1F"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u6DFB\u52A0\u5230\u9ED1\u540D\u5355\u540E\uFF0C\\n\u5C06\u65E0\u6CD5\u518D\u548C\u8BE5\u73A9\u5BB6\u8FDE\u63A5\u3002\\c\\n\u786E\u5B9A\u8981\u6DFB\u52A0\u5417\uFF1F"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u5DF2\u5C06[VAR 0100(0000)]\\n\u6DFB\u52A0\u5230\u9ED1\u540D\u5355\u3002"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u5F53\u524D\u4E3A\u98DE\u884C\u6A21\u5F0F\uFF0C\u65E0\u6CD5\u8FDB\u884C\u8FDE\u63A5\u3002\\n\u5728\u5F53\u524D\u6A21\u5F0F\u4E0B\uFF0C\u4ED6\u4EBA\u65E0\u6CD5\u52A0\u5165\u4F60\u7684\u9732\u8425\u3002"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u518D\u591A\u548C\u6211\u8BF4\u8BF4\uFF01"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u518D\u89C1\u5566\uFF5E"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "\u6765\u73A9\u5427\uFF01"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u73A9\u5177"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "\u6599\u7406"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "\u79BB\u5F00\u9732\u8425"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "\u79BB\u5F00\u9732\u8425"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "\u8BE5\u73A9\u5BB6\u5DF2\u5728\u9ED1\u540D\u5355\u4E2D\u3002"
+  }
+]

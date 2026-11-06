@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Let\u2019s see, how many Gym Challengers are left?\\nHuh... Not even ten, eh?[VAR 0114(0017)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "All right then.\\c\\n[VAR 1003][VAR 0100(0000)]!\\nTime to explain the great Raihan\u2019s Gym mission![VAR 0114(0017)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "The rules are simple!\\c\\nAll you\u2019ve got to do is defeat three Gym Trainers\\nthat I personally trained\u2014in Double Battles![VAR 0114(0017)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "The Gym Challenge is meant to be, well...\\nchallenging, wouldn\u2019t you say?\\c\\nNaturally there aren\u2019t too many Gym Challengers\\nwho can make it this far.[VAR 0114(0017)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "And that\u2019s why I provide a format where you can\\nreally show off the brilliant combinations you\\r\\nand your Pok\u00E9mon should be capable of![VAR 0114(0017)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "That\u2019s probably more than enough out of me.\\nTime for someone else to take the spotlight!\\c\\nCome on, Sebastian! You\u2019ll be first![VAR 0114(0017)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Yeah, that\u2019s me. Sebastian.\\c\\nLeader Raihan has taught me two things!\\nFirst, that Dragon types are ferociously powerful!\\r\\nSecond, I need to create an advantage on the\\r\\nbattlefield to fully utilize that power!"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "I can see why you\u2019ve managed to make\\nit this far!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "In Double Battles, it\u2019s important to figure out\\nwhat role each of your opponent\u2019s Pok\u00E9mon play."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "It looks like you don\u2019t have two Pok\u00E9mon\\nthat can battle."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Fantastic! I can see those seven Badges you\\nhave were well-earned!"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "A Double Battle...\\c\\nDo you combine the strength of two Pok\u00E9mon to\\npush through, or do you have one of them\\r\\nsupport the other?\\c\\nLet me see what your strategy is!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "The Gym mission here requires you to participate\\nin Double Battles.\\c\\nYou need to have at least two Pok\u00E9mon ready\\nfor battle..."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Well done!\\c\\nI am honored to have battled against such a\\ntalented Trainer."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "If you manage to beat the Trainer who was\\nbeside me, you\u2019ll face me next."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Something the matter, [VAR 0100(0000)]?\\nYou\u2019re not done with my Gym mission yet.[VAR 0114(0017)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "I want to withdraw"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Hah! Then hurry up and get it over with!\\nI want to battle you already![VAR 0114(0017)]"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Are you sure you want to withdraw?[VAR 0114(0017)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Fair enough.\\c\\nBut you\u2019re not the type to simply give up, right?\\nI\u2019ll be waiting for you to come back soon.[VAR 0114(0017)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Nice one, [VAR 0100(0000)]!\\nYou\u2019ve completed my Gym mission!\\c\\nCome on. Time to head to the Gym Stadium.\\nYou\u2019ve earned the right to face me yourself![VAR 0114(0017)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Time to face the second Trainer!\\nCome on, Camilla![VAR 0114(0017)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "You\u2019ve made it to the third and last Trainer!\\nYour moment to shine, Aria![VAR 0114(0017)]"
+  }
+]

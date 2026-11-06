@@ -1,0 +1,27 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Ah, te voil\u00E0, [VAR 0100(0000)]\u202F!\\nMerci d\u2019\u00EAtre venu[VAR 1100(00FF,0100)]e\u202F![VAR 0114(0004)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Tu sais, ce dont je t\u2019ai parl\u00E9 au t\u00E9l\u00E9phone\u202F?\\c\\nJe t\u2019expliquerai tout \u00E7a en d\u00E9tail\\nsur le Terrain de Combat\u202F![VAR 0114(0004)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Alors, t\u2019es pr\u00EAt[VAR 1100(00FF,0100)]e \u00E0 y aller\u202F?[VAR 0114(0004)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Tout le monde nous attend\u202F!\\nFais vite, d\u2019accord\u202F?[VAR 0114(0004)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Parfait\u202F! Allons-y, alors\u202F!\\nTout le monde nous attend\u202F![VAR 0114(0004)]"
+  }
+]

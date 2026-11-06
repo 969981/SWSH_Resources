@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Aha! Ich soll einem Pok\u00E9mon aus deinem Team\\nZenitst\u00FCrmer beibringen, sehe ich das richtig?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Nur Rayquaza kann Zenitst\u00FCrmer erlernen,\\naber dieses Pok\u00E9mon hast du leider nicht dabei."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Nun dann, komm einfach wieder vorbei,\\nwenn du meine Hilfe brauchst."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Welchem Pok\u00E9mon soll ich die Attacke\\nbeibringen?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Diesem Pok\u00E9mon kann ich Zenitst\u00FCrmer\\nnicht beibringen.\\c\\nNur Rayquaza kann diese Attacke erlernen."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Du m\u00F6chtest, dass ich einem Ei Zenitst\u00FCrmer\\nbeibringe? Du bist ja lustig!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dieses Rayquaza beherrscht Zenitst\u00FCrmer\\nbereits."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Ich soll deinem [VAR 0101(0000)] also\\nZenitst\u00FCrmer beibringen?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Zenitst\u00FCrmer ist eine m\u00E4chtige Attacke,\\ndie nur Rayquaza einsetzen kann.\\c\\nMan sagt, ihre St\u00E4rke sei so gro\u00DF, dass sie\\nmit einem Schlag einen riesigen Meteor\\r\\npulverisieren kann."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Welche Attacke soll durch\\n[VAR 0107(0000)] ersetzt werden?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] erlernt\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Eins,[WAIT 20] zwei[WAIT 20] und[WAIT 20]... schwupp![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] hat [VAR 0107(0001)]\\nvergessen und [VAR 0107(0002)] erlernt![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat\\n[VAR 0107(0001)] nicht erlernt."
+  }
+]

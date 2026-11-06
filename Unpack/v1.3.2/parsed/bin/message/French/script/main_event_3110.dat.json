@@ -1,0 +1,137 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Vous, ici\u202F?\\nSeriez-vous venus... m\u2019aider\u202F?[VAR 0114(0011)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Vous... vous \u00EAtes l\u00E0 pour... aider...\u202F?[VAR 0114(0012)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Ouais, on va dire \u00E7a.\\nTu nous fais un topo sur la situation\u202F?[VAR 0114(0016)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Des Pok\u00E9mon Dynamax ont investi le stade\u202F!\\c\\nJ\u2019ai fait \u00E9vacuer les spectateurs et le personnel,\\net je m\u2019appr\u00EAtais \u00E0 aller m\u2019occuper des Pok\u00E9mon.[VAR 0114(0011)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Les spectateurs sont... \u00E0 l\u2019abri...\\nLe personnel aussi...\\c\\nIl reste plus... que les Pok\u00E9mon Dynamax...[VAR 0114(0012)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Parfait\u202F! On peut s\u2019y mettre tous ensemble\u202F![VAR 0114(0005)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Merci\u202F! C\u2019est gentil de vous porter volontaires.[VAR 0114(0011)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Me... merci...[VAR 0114(0012)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Comme il y a plusieurs Pok\u00E9mon Dynamax,\\nje propose que chacun de nous en prenne un.\\c\\nJe compte sur vous\u202F! Sur ce...[VAR 0114(0011)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Y\u2019a plein... de Pok\u00E9mon...\\nPrenons-en un... chacun...[VAR 0114(0012)]"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "En avant\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "En... avant...[VAR 0114(0012)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Un grand merci \u00E0 tous\u202F! Gr\u00E2ce \u00E0 vous,\\nles Pok\u00E9mon Dynamax se sont calm\u00E9s.[VAR 0114(0011)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Me... merci... Tous les Pok\u00E9mon...\\nsont redevenus normaux...[VAR 0114(0012)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Je vais m\u2019occuper de les soigner.[VAR 0114(0011)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Je... je vais m\u2019occuper d\u2019eux...\\nIls peuvent se reposer ici...[VAR 0114(0012)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "J\u2019ai une dette envers toi, [VAR 0100(0000)].\\c\\nN\u2019h\u00E9site pas \u00E0 me contacter si jamais\\ntu as besoin d\u2019aide un jour.[VAR 0114(0011)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]... Tiens.\\nSi tu as besoin... n\u2019h\u00E9site pas...[VAR 0114(0012)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Il se peut que d\u2019autres Champions soient\\nen difficult\u00E9...\\c\\nNe vous inqui\u00E9tez pas pour moi,\\ncourez vite les aider\u202F![VAR 0114(0011)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Je... je m\u2019occupe du reste...[VAR 0114(0012)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Je me charge de la s\u00E9curit\u00E9 du Stade\\nd\u2019Old Chister, dor\u00E9navant.[VAR 0114(0011)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "A... allez-y...\\nAllez aider... les autres stades...[VAR 0114(0012)]"
+  }
+]

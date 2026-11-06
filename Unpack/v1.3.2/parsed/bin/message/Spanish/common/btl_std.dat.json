@@ -1,0 +1,2677 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "\u25CF\u25CF"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje te corta el paso!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "\u00A1Oh! \u00A1Un [VAR 0101(0000)] salvaje se abalanza sobre ti!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje te corta el paso!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje te corta el paso!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "\u00A1Es el [VAR 0101(0000)] que acabas de pisar!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "\u00A1Es [VAR 0101(0000)]!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00A1Te has topado con una horda de Pok\u00E9mon salvajes!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] te desaf\u00EDa[VAR 1101(0000,0100)]n!\\c"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] quiere combatir contra ti!\\c"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] y\\n[VAR 1700(0002,0000)][VAR 019E(0002)] te desaf\u00EDan!\\c"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] y [VAR 0100(0001)] te desaf\u00EDan!\\c"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 0102(0000)] y [VAR 0102(0001)]!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 0102(0000)], [VAR 0102(0001)] y [VAR 0102(0002)]!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] saca[VAR 1101(0000,0100)]n a\\n[VAR 0102(0002)]!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] saca[VAR 1101(0000,0100)]n a\\n[VAR 0102(0002)] y [VAR 0102(0003)]!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] saca[VAR 1101(0000,0100)]n a\\n[VAR 0102(0002)], [VAR 0102(0003)] y [VAR 0102(0004)]!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)]!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)] y [VAR 0102(0002)]!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)], [VAR 0102(0002)] y\\n[VAR 0102(0003)]!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] va[VAR 1101(0000,0100)]n a sacar a\\n[VAR 0102(0002)]!\\r\\n\u00BFQuieres cambiar de Pok\u00E9mon?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "\u00A1Vamos, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "\u00A1T\u00FA puedes, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "\u00A1Ya queda poco!\\n\u00A1Venga, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "\u00A1Tu rival est\u00E1 d\u00E9bil!\\n\u00A1A por \u00E9l, [VAR 0102(0000)]!"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)], cambio!\\n\u00A1Vuelve aqu\u00ED!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)], ven aqu\u00ED!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)], est\u00E1 bien!\\n\u00A1Ven aqu\u00ED!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "\u00A1Bien hecho, [VAR 0102(0000)]!\\n\u00A1Ven aqu\u00ED!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "\u00A1Muy bien, [VAR 0102(0000)]!\\n\u00A1Ven aqu\u00ED!"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] ha[VAR 1101(0000,0100)]n retirado a\\n[VAR 0102(0002)] del combate!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] retira[VAR 1101(0000,0100)]n a [VAR 0102(0001)] del combate!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "N.\u00BA de golpes: [VAR 0200(0000)]."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] ha[VAR 1101(0000,0100)]n usado [VAR 1702(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] ha[VAR 1101(0000,0100)]n usado [VAR 1702(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] ha[VAR 1101(0000,0100)]n usado\\n[VAR 1702(0002,0000)][VAR 0109(0002)]!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] ha ganado [VAR 0206(0001,202F)] Punto[VAR 1101(0001,0100)]s de Experiencia."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 010C(0000)] ha ganado un total de [VAR 0206(0001,202F)] Punto[VAR 1101(0001,0100)]s\\nde Experiencia."
+  },
+  {
+    "index": 46,
+    "flags": 4,
+    "text": "El resto del equipo ha ganado Puntos de Experiencia."
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] quiere aprender [VAR 0107(0001)].\\c\\n\u00BFQuieres sustituir uno de sus movimientos por [VAR 0107(0001)]?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0006)]\\n[VAR 010C(0000)] ha olvidado c\u00F3mo utilizar [VAR 0107(0001)] y..."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] ha aprendido [VAR 0107(0001)]!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] no ha aprendido [VAR 0107(0001)].\\c"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] ha[VAR 1101(0000,0100)]n perdido!"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] y\\n[VAR 1700(0002,0000)][VAR 019E(0002)] han perdido!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1Has perdido! \u00A1La victoria es para [VAR 1700(0000,0000)]\\n[VAR 019E(0000)]!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "\u00A1Has empatado con [VAR 1708(0000,0000)][VAR 019E(0000)]!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "\u00A1Has derrotado a [VAR 0100(0000)]!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "\u00A1Has derrotado a [VAR 0100(0001)] y [VAR 0100(0000)]!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "\u00A1Has perdido contra [VAR 0100(0000)]!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "\u00A1Has perdido contra [VAR 0100(0001)] y [VAR 0100(0000)]!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "\u00A1Has empatado con [VAR 0100(0000)]!"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "\u00A1Has empatado con [VAR 0100(0001)] y [VAR 0100(0000)]!"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "\u00A1No te quedan Pok\u00E9mon!\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "\u00A1Te has desconcertado y se te han ca\u00EDdo [VAR 0204(0001,202F)] \uE300!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Pagas [VAR 0204(0001,202F)] \uE300 por haber perdido el combate."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "...\\c\\n\u00A1Te has quedado fuera de juego!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Has ganado [VAR 0205(0001,202F)] \uE300 por vencer.\\c"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Has recogido [VAR 0204(0001,202F)] \uE300."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] ha subido al Nv. [VAR 0202(0001)]."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "\u00A1Oh, no! \u00A1El Pok\u00E9mon se ha escapado!"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "\u00A1Vaya! \u00A1Parec\u00EDa que lo hab\u00EDas atrapado!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "\u00A1Qu\u00E9 pena! \u00A1Te ha faltado poco!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "\u00A1Uy! \u00A1Casi lo consigues!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "\u00A1Ya est\u00E1! \u00A1[VAR 0101(0000)] atrapado!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Los datos de [VAR 0101(0000)] se han registrado en la Pok\u00E9dex."
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "\u00A1El Entrenador ha devuelto la Pok\u00E9 Ball!\\c\\n\u00A1No cojas lo que no es tuyo!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "\u00A1No se puede apuntar cuando hay m\u00E1s de un Pok\u00E9mon!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "\u00A1No queda sitio en el PC!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "\u00A1Hay que estar concentrado para poder apuntar bien!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "\u00A1Es dif\u00EDcil apuntar a un Pok\u00E9mon que no est\u00E1 a la vista!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "\u00A1Pero no ha surtido efecto!"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 deber\u00EDa hacer [VAR 010C(0000)]?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 quieres hacer?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] espera tus instrucciones..."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "\u00A1Pero ha fallado!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "\u00A1Escapas sin problemas!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "\u00A1No has podido escapar!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u00A1No puedes huir!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "\u00A1El [VAR 0102(0000)] salvaje ha huido!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "\u00A1No puedes huir de un combate contra un Entrenador!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "\u00BFQuieres abandonar y retirarte del combate?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "\u00A1Es supereficaz!"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "No es muy eficaz..."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "\u00A1Est\u00E1 tan confuso que se ha herido a s\u00ED mismo!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR FF00(0006)]\u00A1Un golpe cr\u00EDtico![VAR FF00(0000)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "\u00A1Pero no le quedan m\u00E1s PP para ejecutar ese movimiento!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]Gracias a que [VAR 0100(0000)] ha venido a ayudarte, [VAR 0102(0001)]\\nha recuperado PS."
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "\u00A1El sol pega fuerte!"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "\u00A1Ha empezado a llover!"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "\u00A1Se ha desatado una tormenta de arena!"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "\u00A1Ha empezado a granizar!"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "\u00A1La niebla empieza a cubrir la zona!"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "\u00A1El sol vuelve a brillar como siempre!"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "\u00A1Ha dejado de llover!"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "\u00A1La tormenta de arena ha amainado!"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "\u00A1Ha dejado de granizar!"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "\u00A1La niebla se ha disipado!"
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "El tiempo atmosf\u00E9rico ya no ejerce ninguna influencia."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "La tormenta de arena arrecia..."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "\u00A1El granizo cae con violencia!"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "\u00A1Es un golpe fulminante!"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 0109(0000)] ha debilitado la potencia de\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1A causa [VAR 1704(0000,0000)][VAR 0109(0000)] solo se puede usar\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]El efecto [VAR 1704(0000,0000)][VAR 0109(0000)] impide la ejecuci\u00F3n de\\nmovimientos de estado."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] solo puede usar [VAR 0107(0001)]!"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "\u00A1Se han anulado todos los cambios en las caracter\u00EDsticas!"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "\u00A1Pero no ha tenido ning\u00FAn efecto!"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0106(0001)]\\nde [VAR 0102(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u00A1Magnitud 4!"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "\u00A1Magnitud 5!"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "\u00A1Magnitud 6!"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "\u00A1Magnitud 7!"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "\u00A1Magnitud 8!"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "\u00A1Magnitud 9!"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "\u00A1Magnitud 10!"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Ha repicado una campana."
+  },
+  {
+    "index": 127,
+    "flags": 4,
+    "text": "Un aroma bals\u00E1mico flota en el aire."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "\u00A1Los combatientes comparten sus PS!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "\u00A1La potencia de los ataques de fuego ha disminuido!"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "Hidrochorro ha dejado de surtir efecto."
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "\u00A1La potencia de los movimientos el\u00E9ctricos ha disminuido!"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Chapoteo Lodo ha dejado de surtir efecto."
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Se han restaurado las dimensiones alteradas."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "\u00A1La gravedad se ha incrementado!"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "La gravedad ha vuelto a su estado normal."
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "\u00A1Los Pok\u00E9mon que oigan Canto Mortal se debilitar\u00E1n dentro\\nde tres turnos!"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "\u00A1Metr\u00F3nomo act\u00FAa como [VAR 0107(0000)]!"
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "\u00A1Adaptaci\u00F3n act\u00FAa como [VAR 0107(0000)]!"
+  },
+  {
+    "index": 139,
+    "flags": 0,
+    "text": "\u00A1Hay monedas por todas partes!"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "\u00A1Est\u00E1 demasiado d\u00E9bil para crear un sustituto!"
+  },
+  {
+    "index": 141,
+    "flags": 0,
+    "text": "\u00A1Reflejo ha aumentado la resistencia de tu equipo ante los ataques f\u00EDsicos!"
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "\u00A1Reflejo ha aumentado la resistencia del equipo enemigo ante los ataques\\nf\u00EDsicos!"
+  },
+  {
+    "index": 143,
+    "flags": 4,
+    "text": "El efecto de Reflejo en tu equipo se ha disipado."
+  },
+  {
+    "index": 144,
+    "flags": 4,
+    "text": "El efecto de Reflejo en el equipo enemigo se ha disipado."
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "\u00A1Pantalla de Luz ha aumentado la resistencia de tu equipo ante los\\nataques especiales!"
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "\u00A1Pantalla de Luz ha aumentado la resistencia del equipo enemigo ante\\nlos ataques especiales!"
+  },
+  {
+    "index": 147,
+    "flags": 4,
+    "text": "El efecto de Pantalla de Luz en tu equipo se ha disipado."
+  },
+  {
+    "index": 148,
+    "flags": 4,
+    "text": "El efecto de Pantalla de Luz en el equipo enemigo se ha disipado."
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "\u00A1Velo Aurora ha aumentado la resistencia de tu equipo ante los ataques\\nf\u00EDsicos y especiales!"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "\u00A1Velo Aurora ha aumentado la resistencia del equipo enemigo ante los\\nataques f\u00EDsicos y especiales!"
+  },
+  {
+    "index": 151,
+    "flags": 4,
+    "text": "El efecto de Velo Aurora en tu equipo se ha disipado."
+  },
+  {
+    "index": 152,
+    "flags": 4,
+    "text": "El efecto de Velo Aurora en el equipo enemigo se ha disipado."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "\u00A1Tu equipo se ha protegido con Velo Sagrado!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "\u00A1El equipo enemigo se ha protegido con Velo Sagrado!"
+  },
+  {
+    "index": 155,
+    "flags": 4,
+    "text": "El efecto de Velo Sagrado en tu equipo se ha disipado."
+  },
+  {
+    "index": 156,
+    "flags": 4,
+    "text": "El efecto de Velo Sagrado en el equipo enemigo se ha disipado."
+  },
+  {
+    "index": 157,
+    "flags": 0,
+    "text": "\u00A1Una neblina ha cubierto a tu equipo!"
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "\u00A1Una neblina ha cubierto al equipo enemigo!"
+  },
+  {
+    "index": 159,
+    "flags": 0,
+    "text": "Ha desaparecido el efecto de la neblina en tu equipo."
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Ha desaparecido el efecto de la neblina en el equipo enemigo."
+  },
+  {
+    "index": 161,
+    "flags": 0,
+    "text": "\u00A1El viento sopla a favor de tu equipo!"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "\u00A1El viento sopla a favor del equipo rival!"
+  },
+  {
+    "index": 163,
+    "flags": 0,
+    "text": "Ha dejado de soplar el viento que favorec\u00EDa a tu equipo."
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Ha dejado de soplar el viento que favorec\u00EDa al equipo rival."
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "\u00A1Conjuro protege a tu equipo de los golpes cr\u00EDticos!"
+  },
+  {
+    "index": 166,
+    "flags": 0,
+    "text": "\u00A1Conjuro protege al equipo rival de los golpes cr\u00EDticos!"
+  },
+  {
+    "index": 167,
+    "flags": 4,
+    "text": "El efecto de Conjuro en tu equipo se ha desvanecido."
+  },
+  {
+    "index": 168,
+    "flags": 4,
+    "text": "El efecto de Conjuro en el equipo enemigo se ha desvanecido."
+  },
+  {
+    "index": 169,
+    "flags": 0,
+    "text": "\u00A1Tu equipo ha sido rodeado de p\u00FAas!"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "\u00A1El equipo enemigo ha sido rodeado de p\u00FAas!"
+  },
+  {
+    "index": 171,
+    "flags": 0,
+    "text": "Las p\u00FAas lanzadas a tu equipo han desaparecido."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Las p\u00FAas lanzadas al equipo enemigo han desaparecido."
+  },
+  {
+    "index": 173,
+    "flags": 0,
+    "text": "\u00A1Tu equipo ha sido rodeado de p\u00FAas t\u00F3xicas!"
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "\u00A1El equipo enemigo ha sido rodeado de p\u00FAas t\u00F3xicas!"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Las p\u00FAas t\u00F3xicas lanzadas a tu equipo han desaparecido."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Las p\u00FAas t\u00F3xicas lanzadas al equipo enemigo\\nhan desaparecido."
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "\u00A1Tu equipo est\u00E1 rodeado de piedras puntiagudas!"
+  },
+  {
+    "index": 178,
+    "flags": 0,
+    "text": "\u00A1El equipo enemigo est\u00E1 rodeado de piedras puntiagudas!"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Las piedras puntiagudas lanzadas a tu equipo\\nhan desaparecido."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "Las piedras puntiagudas lanzadas al equipo enemigo\\nhan desaparecido."
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "\u00A1Vastaguardia protege a tu equipo!"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "\u00A1Vastaguardia protege al equipo rival!"
+  },
+  {
+    "index": 183,
+    "flags": 0,
+    "text": "\u00A1Anticipo protege a tu equipo!"
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "\u00A1Anticipo protege al equipo rival!"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "\u00A1Ha aparecido un arco\u00EDris sobre tu equipo!"
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "\u00A1Ha aparecido un arco\u00EDris sobre el equipo rival!"
+  },
+  {
+    "index": 187,
+    "flags": 4,
+    "text": "El arco\u00EDris sobre tu equipo ha desaparecido."
+  },
+  {
+    "index": 188,
+    "flags": 4,
+    "text": "El arco\u00EDris sobre el equipo rival ha desaparecido."
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "\u00A1Tu equipo se ve rodeado por un mar de llamas!"
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "\u00A1El equipo rival se ve rodeado por un mar de llamas!"
+  },
+  {
+    "index": 191,
+    "flags": 4,
+    "text": "El mar de llamas que rodeaba a tu equipo ha desaparecido."
+  },
+  {
+    "index": 192,
+    "flags": 4,
+    "text": "El mar de llamas que rodeaba al equipo rival ha desaparecido."
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "\u00A1Ha aparecido un pantano alrededor de tu equipo!"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "\u00A1Ha aparecido un pantano alrededor del equipo rival!"
+  },
+  {
+    "index": 195,
+    "flags": 4,
+    "text": "El pantano que rodeaba a tu equipo ha desaparecido."
+  },
+  {
+    "index": 196,
+    "flags": 4,
+    "text": "El pantano que rodeaba al equipo rival ha desaparecido."
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "\u00A1Tu equipo est\u00E1 muy nervioso y no puede tomar bayas!"
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "\u00A1El equipo rival est\u00E1 muy nervioso y no puede tomar bayas!"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "\u00A1Se ha creado un espacio en el que la Defensa y la Defensa Especial\\nse invierten!"
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Los efectos de Zona Extra\u00F1a sobre la Defensa y la Defensa Especial\\nhan desaparecido."
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "\u00A1Se ha creado un espacio en el que el efecto de los objetos desaparece!"
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Los efectos de Zona M\u00E1gica sobre los objetos han desaparecido."
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 0109(0000)] refuerza[VAR 1101(0000,0100)]n el poder de\\n[VAR 0107(0001)]!"
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "\u00A1Se ha acabado el tiempo!\\n\u00A1Fin del combate!"
+  },
+  {
+    "index": 205,
+    "flags": 0,
+    "text": "\u00A1Al rival se le ha acabado el tiempo!\\n\u00A1Fin del combate!"
+  },
+  {
+    "index": 206,
+    "flags": 0,
+    "text": "\u00A1Se te ha acabado el tiempo!\\n\u00A1Fin del combate!"
+  },
+  {
+    "index": 207,
+    "flags": 4,
+    "text": "El combate dura demasiado.\\nSe ha detenido la reproducci\u00F3n."
+  },
+  {
+    "index": 208,
+    "flags": 0,
+    "text": "\u00A1Modo Daruma activado!"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "Modo Daruma desactivado."
+  },
+  {
+    "index": 210,
+    "flags": 0,
+    "text": "\u00A1Los dos movimientos se han unido!\\n\u00A1Es un movimiento combinado!"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] no quiere obedecer!"
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] est\u00E1 holgazaneando!"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] te da la espalda!"
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] se hace el tonto!"
+  },
+  {
+    "index": 215,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] hace caso omiso de las \u00F3rdenes!"
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] ha decidido echarse una siesta!"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] hace caso omiso de las \u00F3rdenes y sigue durmiendo!"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Centrando Pok\u00E9mon"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Parece que no hace nada..."
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] est\u00E1 bajo los efectos de Ca\u00EDda Libre!\\nNo puede actuar libremente."
+  },
+  {
+    "index": 221,
+    "flags": 4,
+    "text": "El combate ha finalizado por una retirada."
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "\u00A1El terreno de combate se ha cubierto de hierba!"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "La hierba ha desaparecido."
+  },
+  {
+    "index": 224,
+    "flags": 0,
+    "text": "\u00A1La niebla ha envuelto el terreno de combate!"
+  },
+  {
+    "index": 225,
+    "flags": 0,
+    "text": "La niebla se ha disipado."
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "\u00A1Se ha formado un campo de corriente el\u00E9ctrica en el terreno\\nde combate!"
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "El campo de corriente el\u00E9ctrica ha desaparecido."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "\u00A1Truco Defensa protege a tu equipo!"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "\u00A1Truco Defensa protege al equipo rival!"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "\u00A1Escudo Tatami neutraliza [VAR 0107(0000)]!"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "\u00A1Una red viscosa se extiende a los pies de tu equipo!"
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "\u00A1Una red viscosa se extiende a los pies del equipo rival!"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "La red viscosa que rodeaba a tu equipo ha desaparecido."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "La red viscosa que rodeaba al equipo rival ha desaparecido."
+  },
+  {
+    "index": 235,
+    "flags": 4,
+    "text": "El Pok\u00E9mon no puede ejecutar este movimiento, ya que no ha comido\\nninguna baya."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "\u00A1Has recogido [VAR 1702(0001,0000)][VAR 010A(0001)]!"
+  },
+  {
+    "index": 237,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] aguanta el tipo para no darte pena!"
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 010C(0000)] logra despertarse y combate el sue\u00F1o como puede\\npara no preocuparte!"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 010C(0000)] se las ha arreglado para neutralizar el veneno y evitar\\npreocuparte!"
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] recurre a su determinaci\u00F3n para calmar las quemaduras\\ny evitar preocuparte!"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] apela a su esp\u00EDritu de combate y se zafa de la par\u00E1lisis\\npara no preocuparte!"
+  },
+  {
+    "index": 242,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] derrite el hielo con sus propias fuerzas para no\\npreocuparte!"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] responde a tu llamamiento y evita el movimiento!"
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] asesta un [VAR FF00(0006)]golpe cr\u00EDtico[VAR FF00(0000)] para recibir tus elogios!"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] se gira hacia ti y asiente con decisi\u00F3n."
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 010C(0000)] te dirige una mirada llena de determinaci\u00F3n y\\nentusiasmo."
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] espera que despliegues una estrategia magistral."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] y t\u00FA est\u00E1is compenetrados a la perfecci\u00F3n!"
+  },
+  {
+    "index": 249,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] parece sentir curiosidad por tu ropa."
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] se relaja al advertir tu presencia."
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "[VAR BD06(0000)][VAR 010C(0000)] est\u00E1 reprimiendo las ganas que tiene de ponerse a\\njugar contigo."
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] parece sentir un profundo inter\u00E9s por el aroma que\\nemana del Pok\u00E9mon rival."
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "Tu olor parece tranquilizar a [VAR 010C(0000)]."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] disfruta contemplando el paisaje que lo rodea."
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] se est\u00E1 acordando del d\u00EDa en el que te conoci\u00F3."
+  },
+  {
+    "index": 256,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] est\u00E1 pensando en ir de acampada."
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] cabecea ligeramente, quiz\u00E1 porque tiene sue\u00F1o."
+  },
+  {
+    "index": 258,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]A [VAR 010C(0000)] parece preocuparle un poco el no ser capaz de dar\\nla talla."
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] parece querer alguna caricia."
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "\u00A1Vamos, [VAR 010C(0000)]!\\n\u00A1Conf\u00EDo en ti!"
+  },
+  {
+    "index": 261,
+    "flags": 0,
+    "text": "\u00A1Vuelve, [VAR 010C(0000)]!\\nTe vendr\u00E1 bien un cambio."
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "\u00A1Toma ya!"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "[VAR 010C(0000)] est\u00E1 entre la espada y la pared.\\nParece desesperado..."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "\u00A1[VAR 010C(0000)] est\u00E1 como unas casta\u00F1uelas!"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "Zzz..."
+  },
+  {
+    "index": 266,
+    "flags": 0,
+    "text": "[~ 266]"
+  },
+  {
+    "index": 267,
+    "flags": 0,
+    "text": "\u00A1Has derrotado a [VAR 0200(0000)] Pok\u00E9mon al mismo tiempo!"
+  },
+  {
+    "index": 268,
+    "flags": 0,
+    "text": "\u00A1Cambio a Forma Filo!"
+  },
+  {
+    "index": 269,
+    "flags": 0,
+    "text": "\u00A1Cambio a Forma Escudo!"
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1Al cachear a [VAR 0102(0000)] se ha descubierto que tiene\\n[VAR 1702(0001,0000)][VAR 0109(0001)]!"
+  },
+  {
+    "index": 271,
+    "flags": 0,
+    "text": "\u00A1La felicidad se respira en el aire!"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "[~ 272]"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "\u00A1Una lluvia de electrones cae sobre el terreno de combate!"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "Nadie podr\u00E1 huir durante el pr\u00F3ximo turno."
+  },
+  {
+    "index": 275,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1El polvo ha reaccionado con el movimiento [VAR 0107(0000)] y\\nha explotado!"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "Metr\u00F3nomo de ([VAR 0200(0000)]) [VAR 0202(0001)]: [VAR 0107(0002)]"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje ha salido de entre la hierba!"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje ha salido del suelo!"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje ha llegado por los aires!"
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje ha ca\u00EDdo del techo!"
+  },
+  {
+    "index": 281,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] salvaje ha salido de la papelera!"
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "[~ 282]"
+  },
+  {
+    "index": 283,
+    "flags": 0,
+    "text": "\u00A1Felicidades, [VAR 0100(0000)]!"
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "\u00A1No puedes huir en mitad de una prueba!"
+  },
+  {
+    "index": 285,
+    "flags": 0,
+    "text": "\u00A1Ha empezado a diluviar!"
+  },
+  {
+    "index": 286,
+    "flags": 0,
+    "text": "Ha dejado de diluviar."
+  },
+  {
+    "index": 287,
+    "flags": 0,
+    "text": "\u00A1El sol que hace ahora es realmente abrasador!"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "\u00A1El sol vuelve a brillar como siempre!"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "\u00A1Las misteriosas turbulencias protegen a los Pok\u00E9mon de tipo Volador!"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "Las misteriosas turbulencias han amainado."
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "\u00A1El diluvio impide todos los ataques de tipo Fuego!"
+  },
+  {
+    "index": 292,
+    "flags": 4,
+    "text": "El sol brilla con tanta intensidad que el agua se evapora, lo que afecta\\na los movimientos de tipo Agua."
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "\u00A1No parece que vaya a dejar de diluviar!"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "\u00A1El calor abrasador se mantiene sin perder un \u00E1pice de intensidad!"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "\u00A1Las misteriosas turbulencias aten\u00FAan el ataque!"
+  },
+  {
+    "index": 296,
+    "flags": 0,
+    "text": "\u00A1Las misteriosas turbulencias contin\u00FAan sin cesar!"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Pero no ha podido ponerlo en pr\u00E1ctica en su forma actual."
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "Pero no ha podido ponerlo en pr\u00E1ctica."
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1Los Reclutas del [VAR 010E(0000)] sacan una horda de\\nPoochyena!"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1Los Reclutas del [VAR 010E(0000)] sacan una horda de\\nMightyena!"
+  },
+  {
+    "index": 301,
+    "flags": 0,
+    "text": "\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] te desaf\u00EDan!\\c"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] han perdido!"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 01B0(0000)] ha cambiado a\\n[VAR 01B0(0001)] debido al tiempo!"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "[~ 304]"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "[~ 305]"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "[~ 306]"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "[~ 307]"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "[~ 308]"
+  },
+  {
+    "index": 309,
+    "flags": 0,
+    "text": "[~ 309]"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "[~ 310]"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "[~ 311]"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "[~ 312]"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "[~ 313]"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "[~ 314]"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "[~ 315]"
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "[~ 316]"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "[~ 317]"
+  },
+  {
+    "index": 318,
+    "flags": 0,
+    "text": "[~ 318]"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "[~ 319]"
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "[~ 320]"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "[~ 321]"
+  },
+  {
+    "index": 322,
+    "flags": 0,
+    "text": "\u00A1El Ataque de [VAR 0101(0000)] ha aumentado!"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "\u00A1El Ataque de [VAR 0101(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "\u00A1El Ataque de [VAR 0101(0000)] ha aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "\u00A1La Defensa de [VAR 0101(0000)] ha aumentado!"
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "\u00A1La Defensa de [VAR 0101(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "\u00A1La Defensa de [VAR 0101(0000)] ha aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de [VAR 0101(0000)] ha aumentado!"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de [VAR 0101(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 330,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de [VAR 0101(0000)] ha aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de [VAR 0101(0000)] ha aumentado!"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de [VAR 0101(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de [VAR 0101(0000)] ha aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0101(0000)] ha aumentado!"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0101(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 336,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0101(0000)] ha aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "\u00A1Varias caracter\u00EDsticas de [VAR 0101(0000)] han aumentado!"
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "\u00A1Varias caracter\u00EDsticas de [VAR 0101(0000)] han aumentado mucho!"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "\u00A1Varias caracter\u00EDsticas de [VAR 0101(0000)] han aumentado much\u00EDsimo!"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "\u00A1[VAR 0101(0000)] ha pedido ayuda!"
+  },
+  {
+    "index": 341,
+    "flags": 0,
+    "text": "\u00A1[VAR 0101(0000)] ha llamado a un aliado!"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "...[WAIT 20]"
+  },
+  {
+    "index": 343,
+    "flags": 0,
+    "text": "\u00A1Nadie ha acudido en su auxilio!"
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "\u00A1Es [VAR 0101(0000)]!"
+  },
+  {
+    "index": 345,
+    "flags": 0,
+    "text": "La Nerviosfera inquieta al Pok\u00E9mon salvaje..."
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "\u00A1El terreno de combate se ha vuelto muy extra\u00F1o!"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "Ha desaparecido la extra\u00F1a sensaci\u00F3n que se percib\u00EDa en el terreno\\nde combate."
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Bienvenidos al Estadio Royale, sede de los trepidantes Battle Royale.[WAIT 60]\\n\u00A1El fervor de los espectadores se palpa en el ambiente!"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "\u00A1He aqu\u00ED los contendientes!"
+  },
+  {
+    "index": 350,
+    "flags": 0,
+    "text": "\u00A1[VAR 1709(0000,0000)][VAR 019E(0000)] saca a\\n[VAR 0102(0002)] desde su esquina verde!"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "\u00A1[VAR 1709(0000,0000)][VAR 019E(0000)] saca a\\n[VAR 0102(0002)] desde su esquina amarilla!"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "\u00A1[VAR 1709(0000,0000)][VAR 019E(0000)] saca a\\n[VAR 0102(0002)] desde su esquina roja!"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "\u00A1[VAR 1709(0000,0000)][VAR 019E(0000)] saca a\\n[VAR 0102(0002)] desde su esquina azul!"
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)] desde su esquina verde!"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)] desde su esquina amarilla!"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)] desde su esquina roja!"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)] desde su esquina azul!"
+  },
+  {
+    "index": 358,
+    "flags": 0,
+    "text": "\u00A1Comienza el Battle Royale!"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "\u00A1Se acab\u00F3 el combate!"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "\u00A1Escudo Limitado activado!"
+  },
+  {
+    "index": 361,
+    "flags": 4,
+    "text": "Escudo Limitado desactivado."
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Sientes que varios ojos te observan..."
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "???"
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "\u00A1El disfraz ha actuado como se\u00F1uelo!"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] y [VAR 0100(0002)]\\nte desaf\u00EDan!\\c"
+  },
+  {
+    "index": 366,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] y [VAR 0100(0002)]\\nhan perdido!"
+  },
+  {
+    "index": 367,
+    "flags": 0,
+    "text": "\u00A1Guau, nunca hab\u00EDa visto a este Pok\u00E9mon!"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "\u00A1Mira, [VAR 0100(0000)]!\\n\u00A1Nunca hab\u00EDa visto a este Pok\u00E9mon!"
+  },
+  {
+    "index": 369,
+    "flags": 0,
+    "text": "\u00A1Mira, [VAR 0100(0000)]!\\n\u00A1Nunca hab\u00EDa visto a este Pok\u00E9mon!"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "\u00A1Mira, [VAR 0189(0000)]!\\n\u00A1Nunca hab\u00EDa visto a este Pok\u00E9mon!"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": ""
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "\u00A1Ahora te ser\u00E1 m\u00E1s f\u00E1cil atrapar Pok\u00E9mon!"
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "\u00A1Gracias al apoyo de Rotom puedes usar el Poder Z otra vez!"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "\u00A1Poder Rotom disponible!"
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "\u00A1Recibe mi apoyo en forma de Poder Z y ve a por todas!"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "\u00A1Una misteriosa barrera protege a [VAR 0102(0000)] de los efectos del\\nmovimiento!"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha anulado los cambios en las caracter\u00EDsticas y las\\nhabilidades de los Pok\u00E9mon!"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "[~ 381]"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1La energ\u00EDa Dinamax concentrada permite a [VAR 0102(0000)] lanzar otro\\nmovimiento!"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "\u00A1La misteriosa barrera que proteg\u00EDa a [VAR 0102(0000)] ha desaparecido!"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "\u00A1Una misteriosa barrera rodea a [VAR 0102(0000)] y lo protege de\\ncualquier ataque!"
+  },
+  {
+    "index": 385,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] se siente acorralado y ataca con mayor ferocidad!"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] ya puede usar la energ\u00EDa Dinamax!"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "\u00A1Bravo! \u00A1[VAR 0101(0000)] ha sido derrotado!"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] est\u00E1 d\u00E9bil.\\n\u00A1Es el momento de lanzar una Pok\u00E9 Ball!"
+  },
+  {
+    "index": 389,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] est\u00E1 sopesando lanzar una Pok\u00E9 Ball..."
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "\u00A1La tormenta arrecia!"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "\u00A1El Pok\u00E9mon de [VAR 0100(0000)] ya no est\u00E1 debilitado!"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "\u00A1No se pueden usar objetos!"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "\u00A1La energ\u00EDa Dinamax rodea a [VAR 0100(0000)]!"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "\u00A1La tormenta reinante aumenta de intensidad!"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "\u00A1La tormenta reinante aumenta a\u00FAn m\u00E1s de intensidad!"
+  },
+  {
+    "index": 396,
+    "flags": 0,
+    "text": "\u00A1Aguantar la tormenta se ha vuelto casi imposible!"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] y los dem\u00E1s han salido despedidos del nido."
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] ha desaparecido en el interior del nido."
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "\u00A1Animas al grupo!"
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "\u00A1Animas con m\u00E1s br\u00EDo gracias a la energ\u00EDa Dinamax!"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "Las palabras de \u00E1nimo hacen eco y resuenan por toda la zona."
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "\u00A1Un golpe devastador!\\n\u00A1La misteriosa barrera ha quedado da\u00F1ada!"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "\u00A1Ninguno de los dos Pok\u00E9mon puede huir!"
+  },
+  {
+    "index": 404,
+    "flags": 0,
+    "text": "\u00A1Es la hora del t\u00E9! A comer bayas se ha dicho."
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "Pero no ha sucedido nada."
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "\u00A1Ambos Pok\u00E9mon se debilitar\u00E1n dentro de tres turnos!"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "\u00A1Un gas reactivo se propaga por toda la zona!"
+  },
+  {
+    "index": 408,
+    "flags": 4,
+    "text": "El gas reactivo se ha disipado."
+  },
+  {
+    "index": 409,
+    "flags": 4,
+    "text": "El Pok\u00E9mon no puede ejecutar este movimiento, ya que no lleva ninguna\\nbaya."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no puede ejecutar ning\u00FAn movimiento debido a una\\nfuerza misteriosa."
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] est\u00E1 acumulando energ\u00EDa!"
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "\u00A1No es momento para eso!"
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "\u00A1Ahora no es momento de huir!"
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "\u00A1No puedes huir!"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "\u00A1El Ataque de tu bando ha aumentado!"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "\u00A1La Defensa de tu bando ha aumentado!"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de tu bando ha aumentado!"
+  },
+  {
+    "index": 418,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de tu bando ha aumentado!"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de tu bando ha aumentado!"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "\u00A1La Precisi\u00F3n de tu bando ha aumentado!"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "\u00A1La Evasi\u00F3n de tu bando ha aumentado!"
+  },
+  {
+    "index": 422,
+    "flags": 0,
+    "text": "\u00A1El Ataque de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "\u00A1La Defensa de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "\u00A1La Precisi\u00F3n de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "\u00A1La Evasi\u00F3n de tu bando ha aumentado mucho!"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "\u00A1El Ataque de tu bando ha disminuido!"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "\u00A1La Defensa de tu bando ha disminuido!"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de tu bando ha disminuido!"
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de tu bando ha disminuido!"
+  },
+  {
+    "index": 433,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de tu bando ha disminuido!"
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "\u00A1La Precisi\u00F3n de tu bando ha disminuido!"
+  },
+  {
+    "index": 435,
+    "flags": 0,
+    "text": "\u00A1La Evasi\u00F3n de tu bando ha disminuido!"
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "\u00A1El Ataque de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 437,
+    "flags": 0,
+    "text": "\u00A1La Defensa de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "\u00A1El Ataque Especial de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "\u00A1La Defensa Especial de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 440,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "\u00A1La Precisi\u00F3n de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "\u00A1La Evasi\u00F3n de tu bando ha disminuido mucho!"
+  },
+  {
+    "index": 443,
+    "flags": 0,
+    "text": "\u00A1Tu bando se est\u00E1 preparando para luchar!"
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "\u00A1Tu bando ha sido envenenado!"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "\u00A1Tu bando sufre par\u00E1lisis!\\nQuiz\u00E1s no se pueda mover."
+  },
+  {
+    "index": 446,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ha dormido!"
+  },
+  {
+    "index": 447,
+    "flags": 0,
+    "text": "\u00A1Tu bando est\u00E1 congelado!"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ha quemado!"
+  },
+  {
+    "index": 449,
+    "flags": 0,
+    "text": "\u00A1Tu bando se encuentra confuso!"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ha enamorado!"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "\u00A1Tu bando sufre problemas de estado!"
+  },
+  {
+    "index": 452,
+    "flags": 0,
+    "text": "Tu bando se ha curado de sus problemas de estado."
+  },
+  {
+    "index": 453,
+    "flags": 0,
+    "text": "\u00A1Tu bando ya no puede escapar!"
+  },
+  {
+    "index": 454,
+    "flags": 0,
+    "text": "\u00A1Tu bando est\u00E1 atormentado!"
+  },
+  {
+    "index": 455,
+    "flags": 0,
+    "text": "\u00A1Tu bando ha quedado atrapado en un torbellino de arena!"
+  },
+  {
+    "index": 456,
+    "flags": 0,
+    "text": "\u00A1Tu bando ha quedado atrapado en un torbellino de fuego!"
+  },
+  {
+    "index": 457,
+    "flags": 0,
+    "text": "\u00A1Tu bando ha recuperado PS!"
+  },
+  {
+    "index": 458,
+    "flags": 0,
+    "text": "\u00A1Tu bando ha visto mermados sus PP!"
+  },
+  {
+    "index": 459,
+    "flags": 0,
+    "text": "\u00A1Tu bando est\u00E1 rodeado de piezas de acero puntiagudas!"
+  },
+  {
+    "index": 460,
+    "flags": 0,
+    "text": "\u00A1Tus adversarios est\u00E1n rodeados de piezas de acero puntiagudas!"
+  },
+  {
+    "index": 461,
+    "flags": 0,
+    "text": "Las piezas de acero que rodeaban a tu bando han desaparecido."
+  },
+  {
+    "index": 462,
+    "flags": 0,
+    "text": "Las piezas de acero que rodeaban a tus adversarios han desaparecido."
+  },
+  {
+    "index": 463,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ve rodeado por las llamas!"
+  },
+  {
+    "index": 464,
+    "flags": 0,
+    "text": "\u00A1Tus adversarios se ven rodeados por las llamas!"
+  },
+  {
+    "index": 465,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ve rodeado por las rocas!"
+  },
+  {
+    "index": 466,
+    "flags": 0,
+    "text": "\u00A1Tus adversarios se ven rodeados por las rocas!"
+  },
+  {
+    "index": 467,
+    "flags": 0,
+    "text": "Por alguna extra\u00F1a raz\u00F3n, no puedes escapar."
+  },
+  {
+    "index": 468,
+    "flags": 4,
+    "text": "El movimiento... no parece haber tenido efecto alguno."
+  },
+  {
+    "index": 469,
+    "flags": 0,
+    "text": "\u00A1Uaaaah!"
+  },
+  {
+    "index": 470,
+    "flags": 0,
+    "text": "\u00A1La energ\u00EDa Dinamax ha bloqueado el movimiento!"
+  },
+  {
+    "index": 471,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha devuelto la Pok\u00E9 Ball!\\c\\n\u00A1No tienes las Medallas de Gimnasio necesarias para poder capturar este\\nPok\u00E9mon!"
+  },
+  {
+    "index": 472,
+    "flags": 0,
+    "text": "\u00A1Todav\u00EDa no puedes lanzar Pok\u00E9 Balls!"
+  },
+  {
+    "index": 473,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 esperas, [VAR 0100(0000)]? \u00A1Saca la\\nespada! Aunque est\u00E9 oxidada, de algo servir\u00E1."
+  },
+  {
+    "index": 474,
+    "flags": 0,
+    "text": "\u00BFA qu\u00E9 esperas, [VAR 0100(0000)]? \u00A1Saca el\\nescudo! Aunque est\u00E9 oxidado, de algo servir\u00E1."
+  },
+  {
+    "index": 475,
+    "flags": 0,
+    "text": "\u00A1No puedes lanzarle una Pok\u00E9 Ball!"
+  },
+  {
+    "index": 476,
+    "flags": 0,
+    "text": "\u00A1El Ataque y el Ataque Especial de [VAR 0102(0000)] han aumentado!"
+  },
+  {
+    "index": 477,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1El Ataque y el Ataque Especial de [VAR 0102(0000)] han aumentado\\nmucho!"
+  },
+  {
+    "index": 478,
+    "flags": 0,
+    "text": "\u00A1La Defensa y la Defensa Especial de [VAR 0102(0000)] han aumentado!"
+  },
+  {
+    "index": 479,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1La Defensa y la Defensa Especial de [VAR 0102(0000)] han aumentado\\nmucho!"
+  },
+  {
+    "index": 480,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0102(0000)] ha aumentado!"
+  },
+  {
+    "index": 481,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0102(0000)] ha aumentado mucho!"
+  },
+  {
+    "index": 482,
+    "flags": 0,
+    "text": "\u00A1El Ataque y el Ataque Especial de [VAR 0102(0000)] han disminuido!"
+  },
+  {
+    "index": 483,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1El Ataque y el Ataque Especial de [VAR 0102(0000)] han disminuido\\nmucho!"
+  },
+  {
+    "index": 484,
+    "flags": 0,
+    "text": "\u00A1La Defensa y la Defensa Especial de [VAR 0102(0000)] han disminuido!"
+  },
+  {
+    "index": 485,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1La Defensa y la Defensa Especial de [VAR 0102(0000)] han disminuido\\nmucho!"
+  },
+  {
+    "index": 486,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0102(0000)] ha disminuido!"
+  },
+  {
+    "index": 487,
+    "flags": 0,
+    "text": "\u00A1La Velocidad de [VAR 0102(0000)] ha disminuido mucho!"
+  },
+  {
+    "index": 488,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 01D1(0000)]!"
+  },
+  {
+    "index": 489,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1Adelante, [VAR 01D1(0000)] y\\n[VAR 01D1(0001)]!"
+  },
+  {
+    "index": 490,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 0100(0000)] saca a\\n[VAR 01D1(0001)]!"
+  },
+  {
+    "index": 491,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 0100(0000)] saca a [VAR 01D1(0001)]\\ny [VAR 01D1(0002)]!"
+  },
+  {
+    "index": 492,
+    "flags": 0,
+    "text": "\u00A1Vamos, [VAR 01D1(0000)]!"
+  },
+  {
+    "index": 493,
+    "flags": 0,
+    "text": "\u00A1T\u00FA puedes, [VAR 01D1(0000)]!"
+  },
+  {
+    "index": 494,
+    "flags": 0,
+    "text": "\u00A1Ya queda poco!\\n\u00A1Venga, [VAR 01D1(0000)]!"
+  },
+  {
+    "index": 495,
+    "flags": 0,
+    "text": "\u00A1Tu rival est\u00E1 d\u00E9bil!\\n\u00A1A por \u00E9l, [VAR 01D1(0000)]!"
+  },
+  {
+    "index": 496,
+    "flags": 0,
+    "text": "\u00A1Vamos, [VAR 01D1(0000)]!\\n\u00A1Conf\u00EDo en ti!"
+  },
+  {
+    "index": 497,
+    "flags": 0,
+    "text": "\u00A1El granizo golpea a los Pok\u00E9mon!"
+  },
+  {
+    "index": 498,
+    "flags": 0,
+    "text": "\u00A1La tormenta de arena zarandea a los Pok\u00E9mon!"
+  },
+  {
+    "index": 499,
+    "flags": 0,
+    "text": "\u00A1El terreno de combate se est\u00E1 cubriendo de hierba!"
+  },
+  {
+    "index": 500,
+    "flags": 0,
+    "text": "\u00A1La niebla est\u00E1 envolviendo el terreno de combate!"
+  },
+  {
+    "index": 501,
+    "flags": 0,
+    "text": "\u00A1Se est\u00E1 creando un campo el\u00E9ctrico en el terreno de combate!"
+  },
+  {
+    "index": 502,
+    "flags": 0,
+    "text": "\u00A1El terreno de combate se est\u00E1 volviendo muy extra\u00F1o!"
+  },
+  {
+    "index": 503,
+    "flags": 0,
+    "text": "Hace mucho sol..."
+  },
+  {
+    "index": 504,
+    "flags": 4,
+    "text": "Est\u00E1 lloviendo..."
+  },
+  {
+    "index": 505,
+    "flags": 0,
+    "text": "Se est\u00E1 desatando una tormenta de arena..."
+  },
+  {
+    "index": 506,
+    "flags": 4,
+    "text": "Est\u00E1 granizando..."
+  },
+  {
+    "index": 507,
+    "flags": 4,
+    "text": "Ante este rival no sirve de nada lanzar una Pok\u00E9 Ball..."
+  },
+  {
+    "index": 508,
+    "flags": 0,
+    "text": "\u00A1No puedes usar este movimiento!"
+  },
+  {
+    "index": 509,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] de aspecto muy fuerte te corta el paso!"
+  },
+  {
+    "index": 510,
+    "flags": 0,
+    "text": "\u00A1Oh! \u00A1Un [VAR 0101(0000)] de aspecto muy fuerte se abalanza sobre ti!"
+  },
+  {
+    "index": 511,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] de aspecto muy fuerte te corta el paso!"
+  },
+  {
+    "index": 512,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] de aspecto muy fuerte te corta el paso!"
+  },
+  {
+    "index": 513,
+    "flags": 0,
+    "text": "\u00A1Oh! \u00A1Un [VAR 0101(0000)] de aspecto muy fuerte se abalanza sobre ti!"
+  },
+  {
+    "index": 514,
+    "flags": 0,
+    "text": "\u00A1Un [VAR 0101(0000)] de aspecto muy fuerte te corta el paso!"
+  },
+  {
+    "index": 515,
+    "flags": 0,
+    "text": "\u00A1No puedes dejar que este Pok\u00E9mon desbocado campe a sus anchas!"
+  },
+  {
+    "index": 516,
+    "flags": 0,
+    "text": "\u00A1Zacian se ha desbocado! \u00A1No puedes dejar que campe a sus anchas!"
+  },
+  {
+    "index": 517,
+    "flags": 0,
+    "text": "\u00A1Zamazenta se ha desbocado! \u00A1No puedes dejar que campe a sus anchas!"
+  },
+  {
+    "index": 518,
+    "flags": 0,
+    "text": "[VAR 1701(0000,0000)][VAR 0109(0000)] ha[VAR 1101(0000,0100)]n desaparecido, al haber cumplido su\\nfunci\u00F3n."
+  },
+  {
+    "index": 519,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] anima al grupo!"
+  },
+  {
+    "index": 520,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] anima con m\u00E1s br\u00EDo gracias a la energ\u00EDa Dinamax!"
+  },
+  {
+    "index": 521,
+    "flags": 0,
+    "text": "[VAR BD06(0000)]\u00A1[VAR 1701(0000,0000)][VAR 019E(0000)] saca[VAR 1101(0000,0100)]n a\\n[VAR 0102(0002)]!\\r\\n[VAR BD06(0000)]\u00A1[VAR 1701(0003,0000)][VAR 019E(0003)] saca[VAR 1101(0003,0100)]n a\\n[VAR 0102(0005)]!"
+  },
+  {
+    "index": 522,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 0102(0000)]!\\r\\n[VAR BD06(0000)]\u00A1[VAR 1701(0001,0000)][VAR 019E(0001)] saca[VAR 1101(0001,0100)]n a\\n[VAR 0102(0003)]!"
+  },
+  {
+    "index": 523,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)]!\\n\u00A1[VAR 0100(0002)] saca a [VAR 0102(0003)]!"
+  },
+  {
+    "index": 524,
+    "flags": 0,
+    "text": "\u00A1Adelante, [VAR 0102(0000)]!\\n\u00A1[VAR 0100(0001)] saca a [VAR 0102(0002)]!"
+  },
+  {
+    "index": 525,
+    "flags": 0,
+    "text": "\u00A1Los PP del equipo rival han disminuido!"
+  },
+  {
+    "index": 526,
+    "flags": 0,
+    "text": "\u00A1[VAR 0100(0000)] saca a [VAR 0102(0001)]!"
+  },
+  {
+    "index": 527,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ve avasallado por violentos latigazos!"
+  },
+  {
+    "index": 528,
+    "flags": 0,
+    "text": "\u00A1El equipo rival se ve avasallado por violentos latigazos!"
+  },
+  {
+    "index": 529,
+    "flags": 0,
+    "text": "\u00A1Tu bando se ve arrastrado por la corriente!"
+  },
+  {
+    "index": 530,
+    "flags": 0,
+    "text": "\u00A1El equipo rival se ve arrastrado por la corriente!"
+  },
+  {
+    "index": 531,
+    "flags": 0,
+    "text": "\u00A1Un Slowpoke r\u00E1pido! \u00A1Derr\u00F3talo para recuperar el uniforme!"
+  },
+  {
+    "index": 532,
+    "flags": 0,
+    "text": "\u00A1El Slowpoke r\u00E1pido pertenece al Maestro! \u00A1No puedes capturarlo!"
+  },
+  {
+    "index": 533,
+    "flags": 0,
+    "text": "\u00A1No puedes continuar la aventura!"
+  },
+  {
+    "index": 534,
+    "flags": 0,
+    "text": "Decides continuar sin capturar a [VAR 0101(0000)]."
+  }
+]

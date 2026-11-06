@@ -1,0 +1,47 @@
+[VAR 0102(0000)]
+Objet
+[VAR 0109(0000)]
+[VAR 0101(0000)]
+Nº [VAR 0202(0000)]
+[~ 5]
+[~ 6]
+[VAR 0201(0000)]
+[~ 8]
+[VAR 0107(0000)]
+PP
+/
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Talent
+[VAR 0106(0000)]
+Puissance
+Précision
+-
+Voulez-vous que le Pokémon se souvienne\nde [VAR 0107(0000)] ?
+Oui
+Non
+Voulez-vous renoncer à ce que [VAR 0102(0000)]\nse souvienne d’une capacité ?
+[VAR 0102(0000)] s’est souvenu de la capacité\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0006)]\c
+Choisissez une capacité à lui faire oublier\npour laisser place à [VAR 0107(0000)].\c
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0002)].\c\nEt...\c\nIl se souvient de la capacité\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0006)]\c
+[~ 30]
+N. [VAR 0202(0000)]
+[VAR 0202(0000)]
+[VAR 0202(0000)]/[VAR 0202(0001)]
+[VAR 0201(0000)]/[VAR 0201(0001)]
+ Valider
+ Retour
+Voulez-vous qu’il oublie\n[VAR 0107(0000)] ?
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0002)].\c
+Voulez-vous qu’il apprenne\n[VAR 0107(0000)] ?
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0002)].\c\nEt...\c\nIl apprend [VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0006)]\c
+Il apprend [VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0006)]\c
+Choisissez une capacité à lui faire oublier\npour laisser place à [VAR 0107(0000)].\c
+Voulez-vous renoncer à lui enseigner\n[VAR 0107(0000)] ?
+Votre Pokémon n’a pas appris\n[VAR 0107(0000)].\c
+Voulez-vous qu’il oublie [VAR 0107(0000)]\npour apprendre [VAR 0107(0001)] ?
+Catégorie

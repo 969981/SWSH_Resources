@@ -1,0 +1,647 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Welcome to the Nursery.\\nHow may I help you?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Nice to see a new face around here.\\nThis is a Pok\u00E9mon Nursery.\\c\\nWe take care of people\u2019s Pok\u00E9mon here.\\c\\nWhen people leave two Pok\u00E9mon with us,\\nwe sometimes find Eggs.\\c\\nIf you\u2019re interested in that sort of thing,\\nask the old lady inside to tell you more.\\c\\nDo you want to leave any Pok\u00E9mon with me?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Do come back soon."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "We found your Pok\u00E9mon holding an Egg.\\nWould you like to take it?"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Is that so?\\nIn that case, we\u2019ll keep it ourselves."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "You received an Egg from the Nursery worker!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Take good care of it, and raise it well."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "It looks like your Boxes are all full.\\nHave a look at them and come again, won\u2019t you?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] is doing just fine."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Your [VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine.\\c\\nThey really seem to enjoy each other\u2019s company."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Your [VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine.\\c\\nThey seem to get along all right."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Your [VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine. Though...\\c\\nThey don\u2019t seem very fond of one another."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Your [VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine. Though...\\c\\nThey don\u2019t seem to like playing together at all..."
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "I\u2019m afraid you\u2019d be left with too few Pok\u00E9mon\\nif I took any from you now."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "You can leave up to two Pok\u00E9mon with us.\\nWhich Pok\u00E9mon should we look after?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "We\u2019re looking after [VAR 0102(0000)] now.\\nWhich other Pok\u00E9mon would you like us to take?"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "It will cost \uE3001,000 to leave two Pok\u00E9mon.\\nWould you like to leave them both?"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "It will cost \uE300500 to leave one Pok\u00E9mon.\\nWould you like to leave your Pok\u00E9mon with me?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "That will be an additional \uE300500, please."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Then you can trust us with both [VAR 0102(0000)]\\nand [VAR 0102(0001)]! I\u2019ll take fine care of them."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Then leave [VAR 0102(0000)] with me."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Whenever you want to collect your Pok\u00E9mon,\\ndo let me know."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "You don\u2019t seem to have enough money..."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Things are going just fine. Would you like to take\\nyour Pok\u00E9mon back anyway?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Just a moment, then.\\nI\u2019ll go get your [VAR 0102(0000)]."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Would you care to take [VAR 0102(0000)], too?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "You don\u2019t have many Pok\u00E9mon in your party,\\nso I can only take one from you just now."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Welcome to the Nursery!\\nHow can I help you?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hello! This here is the Wild Area branch of the\\nPok\u00E9mon Nursery!\\c\\nWe\u2019re just as capable as the Nursery on Route 5.\\nDon\u2019t you worry about a thing!\\c\\nWill you be leaving any Pok\u00E9mon with us today?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Come again!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon was found holding an Egg!\\nWould you like to take it with you?"
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "If you\u2019re sure, then I\u2019ll keep it myself!"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Take good care of it, and raise it well!"
+  },
+  {
+    "index": 35,
+    "flags": 4,
+    "text": "It looks like your Boxes are all full.\\nHave a look at them and come again, won\u2019t you?"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] is doing just fine!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine!\\c\\nThey really seem to enjoy each other\u2019s company."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine!\\c\\nThey seem to get along all right."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine! Though...\\c\\nThey don\u2019t seem very fond of one another."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] and [VAR 0102(0001)] are\\ndoing just fine! Though...\\c\\nThey don\u2019t seem to like playing together at all..."
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "I\u2019m afraid you\u2019d be left with too few Pok\u00E9mon\\nif I took any from you now."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "You can leave up to two Pok\u00E9mon with us.\\nWhich Pok\u00E9mon should we look after?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "We\u2019re looking after [VAR 0102(0000)] now.\\nWhich other Pok\u00E9mon would you like us to take?"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "It will cost \uE3001,000 to leave two Pok\u00E9mon.\\nWould you like to leave them both?"
+  },
+  {
+    "index": 45,
+    "flags": 4,
+    "text": "It will cost \uE300500 to leave one Pok\u00E9mon.\\nWould you like to leave your Pok\u00E9mon with me?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "That\u2019ll be an additional \uE300500, please!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Then you can trust us with both [VAR 0102(0000)]\\nand [VAR 0102(0001)]! I\u2019ll take fine care of them!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Then leave [VAR 0102(0000)] with me!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Whenever you want to collect your Pok\u00E9mon,\\ndo let me know."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "You don\u2019t seem to have enough money..."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Things are going just fine. Would you like to take\\nyour Pok\u00E9mon back anyway?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Just a moment, then.\\nI\u2019ll go get your [VAR 0102(0000)]!"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Would you care to take [VAR 0102(0000)], too?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "You don\u2019t have many Pok\u00E9mon in your party,\\nso we\u2019ll take just one for now, all right?"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "I\u2019m a Pok\u00E9mon Nursery lady.\\c\\nI help take care of the Pok\u00E9mon of Trainers\\nlike you.\\c\\nLately, for some reason, I see some Pok\u00E9mon\\nholding Eggs. It\u2019s mysterious, isn\u2019t it?\\c\\nIf you want us to take care of your Pok\u00E9mon,\\nplease speak to my sister inside the building."
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "Alola!\\c\\n[VAR 0101(0000)] is doing just fine!"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Alola, Champion!\\c\\n[VAR 0101(0000)] is doing just fine!"
+  },
+  {
+    "index": 59,
+    "flags": 4,
+    "text": "Alola!\\c\\n[VAR 0101(0000)] and [VAR 0101(0001)] are doing\\njust fine!\\c\\nThey really seem to like hanging out!"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Alola!\\c\\n[VAR 0101(0000)] and [VAR 0101(0001)] are doing\\njust fine!\\c\\nThey seem to get along all right."
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "Alola!\\c\\n[VAR 0101(0000)] and [VAR 0101(0001)] are doing\\njust fine! They don\u2019t seem to like each other\\r\\nvery much, though."
+  },
+  {
+    "index": 62,
+    "flags": 4,
+    "text": "Alola!\\c\\n[VAR 0101(0000)] and [VAR 0101(0001)] are doing\\njust fine! They don\u2019t seem to like playing\\r\\ntogether, though."
+  },
+  {
+    "index": 63,
+    "flags": 4,
+    "text": "Oh hey!\\c\\nI have surprising news for you!\\c\\nYour Pok\u00E9mon was holding an Egg!\\c\\nIt\u2019s like a total mystery where it came from,\\nbut you want the Egg your Pok\u00E9mon was\\r\\nholding, right?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "You received the Egg from the Pok\u00E9mon\\nNursery lady."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Please take good care of it!"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "Oh, your party is full...\\c\\nPlease come back again after making space for\\nthe Egg."
+  },
+  {
+    "index": 67,
+    "flags": 4,
+    "text": "I\u2019ll keep it if you don\u2019t want it, but you want it,\\ndon\u2019t you?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Then I\u2019ll take it.\\nThank you."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Hi, I\u2019m a Pok\u00E9mon Nursery lady.\\c\\nWe can take up to two of your Pok\u00E9mon."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Hi, I\u2019m a Pok\u00E9mon Nursery lady.\\nWhat would you like to do?"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Hi, I\u2019m a Pok\u00E9mon Nursery lady.\\nChampion, what would you like to do?"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "OK. Come back another time."
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Oh, my little sister was looking for you!"
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "If you leave the Pok\u00E9mon with me, you won\u2019t be\\nable to battle.\\c\\nPlease come back again with more Pok\u00E9mon."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon shall I take care of?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Don\u2019t be silly.\\nThat\u2019s an Egg!"
+  },
+  {
+    "index": 77,
+    "flags": 4,
+    "text": "All right. I\u2019ll take care of your [VAR 0101(0000)]\\nfor a while."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Come back again after a while."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "We can take up to two of your Pok\u00E9mon.\\nWould you like to leave one more Pok\u00E9mon?"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "You have very energetic Pok\u00E9mon, don\u2019t you?\\nDo you want to take one back?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "If you want your [VAR 0101(0000)] back now,\\nit will cost you \uE300[VAR 0204(0001,002C)]."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "You don\u2019t seem to have enough money..."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "You took back your [VAR 0101(0000)] from the\\nPok\u00E9mon Nursery lady."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Do you want to take the other one back, too?"
+  },
+  {
+    "index": 86,
+    "flags": 4,
+    "text": "Oh...\\c\\nIf you leave a Pok\u00E9mon with me, you\u2019ll be left\\nwith only the one.\\c\\nCatch some more Pok\u00E9mon and come back."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Your party is full!\\c\\nMake room, and then come see me again."
+  },
+  {
+    "index": 88,
+    "flags": 4,
+    "text": "I\u2019d like to leave Pok\u00E9mon"
+  },
+  {
+    "index": 89,
+    "flags": 4,
+    "text": "I\u2019d like to take my Pok\u00E9mon back"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Never mind"
+  },
+  {
+    "index": 91,
+    "flags": 4,
+    "text": "Is everything OK?"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0001)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Lv. [VAR 0202(0001)] / \u2642)"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Lv. [VAR 0202(0001)] / \u2640)"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] (Lv. [VAR 0202(0001)])"
+  },
+  {
+    "index": 96,
+    "flags": 4,
+    "text": "Oh?"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] hatched from the Egg!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Would you like to give a nickname to the newly\\nhatched [VAR 0101(0000)]?"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[~ 121]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[~ 122]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[~ 123]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[~ 124]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[~ 126]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[~ 128]"
+  }
+]

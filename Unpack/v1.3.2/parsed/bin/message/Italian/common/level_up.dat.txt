@@ -1,0 +1,20 @@
+L. [VAR 0202(0000)]
+[VAR 0102(0000)]
+[VAR 0202(0000)]
++[VAR 0202(0000)]
+PS
+Attacco
+Difesa
+Att. Sp.
+Dif. Sp.
+Velocità
++[VAR 0206(0001,002E)]
+I[VAR 1101(00FD,1110)]l Pokémon riceve Pokémon ricevono Punti Esperienza!\c
+[VAR BE05(0005)][VAR 0102(0000)] sale al livello [VAR 0202(0001)]![VAR BE05(0001)]
+[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR BD06(0000)][VAR 010C(0000)] vorrebbe imparare\n[VAR 0107(0001)].\c\nVuoi che dimentichi una mossa e\nal suo posto impari [VAR 0107(0001)]?
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\c\nAl suo posto...\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]\c
+[VAR 010C(0000)] non ha imparato\n[VAR 0107(0001)]!\c
+I[VAR 1101(00FD,0505)]l tuo tuoi Pokémon ha[VAR 1101(00FD,0300)]nno ottenuto dei Punti\nEsperienza durante il campeggio!\c
+Fai dimenticare
+Non far dimenticare

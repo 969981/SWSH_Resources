@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Da bist du ja, Kindchen. Und du hast immer noch\\nviel zu wenig Pink an dir... Na, sei\u2019s drum.[VAR 0114(0013)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Meine Arena-Mission ist gleichzeitig auch\\nein Vorstellungsgespr\u00E4ch.\\c\\nIch bin n\u00E4mlich auf der Suche nach jemandem,\\nder meine Nachfolge als Arenaleiterin antritt.[VAR 0114(0013)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Du wirkst verunsichert, Kindchen. Keine Sorge,\\nich werde dir schon nicht den Kopf abrei\u00DFen.\\c\\nDu musst lediglich ein paar Fragen beantworten\\nund dabei gegen andere Trainer k\u00E4mpfen.\\c\\nDas wird ein Kinderspiel, du wirst schon sehen![VAR 0114(0013)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Es gibt da nur einen kleinen Haken.\\c\\nF\u00FCr jede falsche Antwort, die du gibst,\\nsinken die Statuswerte des Pok\u00E9mon,\\r\\ndas gerade f\u00FCr dich k\u00E4mpft.\\c\\nDaf\u00FCr erh\u00F6hen sich seine Statuswerte aber auch,\\nwenn du eine Frage richtig beantwortest.\\c\\nWarum das so ist, fragst du? Nun, Feen-Pok\u00E9mon\\nverf\u00FCgen eben \u00FCber unerkl\u00E4rliche Fertigkeiten![VAR 0114(0013)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "So! Dann wollen wir doch mal sehen,\\nwie du dich so schl\u00E4gst, Kindchen![VAR 0114(0013)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[~ 7]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[~ 8]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[~ 10]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "So, die Arena-Mission kann losgehen!\\nGib alles!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Nanu? Was ist denn?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Was war noch mal die Mission?"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Ich m\u00F6chte aufgeben."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Nichts, alles in Ordnung."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Du musst die Arenatrainer besiegen, die dich\\nherausfordern, und dabei Fragen beantworten...\\c\\nWenn m\u00F6glich richtig!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Das kannst du gerne tun.\\c\\nDann wirst du beim n\u00E4chsten Mal allerdings\\nwieder ganz von vorn beginnen m\u00FCssen.\\c\\nBist du dir sicher, dass du aufgeben willst?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "In Ordnung. Komm wieder, wenn du f\u00FCr den\\nn\u00E4chsten Anlauf bereit bist."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Dann viel Erfolg!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Na? Hast du Spa\u00DF an der Arena-Mission?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Herzlichen Gl\u00FCckwunsch!\\nDu hast die Arena-Mission bestanden!\\c\\nIch bin schon gespannt, ob du es auch geschafft\\nhast, die Arenaleiterin zu \u00FCberzeugen.\\c\\nM\u00F6chtest du sie jetzt zum Kampf herausfordern?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Los geht\u2019s!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Noch nicht..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "In Ordnung. Dann hier entlang bitte...\\nIch dr\u00FCcke dir die Daumen!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Verstehe, du willst dich sicher erst noch richtig\\nvorbereiten. Sag Bescheid, wenn du so weit bist."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Also dann! Wollen wir doch mal sehen, ob du\\ndas Zeug [VAR 1100(00FF,1614,0000)]zum Feen-Arenaleiterzur Feen-Arenaleiterin hast..."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Nicht \u00FCbel! Ich kann nat\u00FCrlich nicht f\u00FCr Papella\\nreden, aber meine Neugier hast du geweckt."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Ich bin deine zweite Gegnerin.\\c\\nMach dir keine Sorgen dar\u00FCber, wie es bisher\\ngelaufen ist, sondern konzentriere dich voll auf\\r\\nunseren Kampf!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hab keine Angst davor, auch mal Fehler zu\\nmachen. Halte den Blick nach vorne gerichtet!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Jetzt bin ich an der Reihe. Mal sehen, ob du das\\nPotenzial hast, Papellas Nachfolger[VAR 1100(00FF,0200,0000)]in zu werden."
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Die Arena-Mission f\u00FCr Vorstellungsgespr\u00E4che\\nzu verwenden, ist etwas speziell, ich wei\u00DF...\\c\\nAber na ja. Papella ist schlie\u00DFlich auch ein\\nwenig speziell."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  }
+]

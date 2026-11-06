@@ -1,0 +1,12 @@
+Percibo un potencial en ti como Entrenador[VAR 1100(00FF,0100)]a\nrealmente fuerte...\c\nPero aún es pronto... ¡Vuelve cuando te hayas\ncoronado como Campe[VAR 1100(00FF,0302)]ónona!
+¡Oh, he aquí [VAR 1100(00FF,0202)]ella Campe[VAR 1100(00FF,0302)]ónona!\c\n¿Quieres que le enseñe el movimiento especial\n[VAR 0107(0001)] a [VAR 1101(00FD,0A02)]tuuno de tus Pokémon?
+Hasta más ver, entonces.
+Uf, me temo que tu[VAR 1101(00FD,0100)]s Pokémon no puede[VAR 1101(00FD,0100)]n\naprender el movimiento, Campe[VAR 1100(00FF,0302)]ónona.
+¿Qué Pokémon quieres que lo aprenda?
+Lo lamento, pero [VAR 0102(0001)] no puede\naprender el movimiento.
+El día que un Huevo aprenda un movimiento me\nretiraré.
+[VAR 0102(0001)] ya conoce ese movimiento.
+¿Qué movimiento quieres que olvide?
+¡[VAR 0102(0000)] ha aprendido\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+1, [WAIT 20]2 y... [WAIT 20]¡puf![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] ha olvidado cómo utilizar\n[VAR 0107(0001)] y...\c\n¡Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]
+El movimiento Metaláser posee una potencia\nincreíble, pero también hiere a quien lo usa.
