@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Solo unos pocos elegidos pueden aprender un\\nmovimiento combinado. \u00BFQuieres que se lo\\r\\nense\u00F1e a alguno de tus Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Claro, \u00BFqui\u00E9n soy yo para cuestionar tu criterio?\\nVuelve si cambias de parecer."
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Lamento tener que decir que no llevas ning\u00FAn\\nPok\u00E9mon capaz de aprenderlo."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo aprenda?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Dir\u00EDa que [VAR 0102(0001)] no puede aprender\\nel movimiento."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "He visto muchas cosas raras, pero nunca un\\nHuevo atacando."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Dir\u00EDa que [VAR 0102(0001)] ya conoce el\\nmovimiento."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 movimiento quieres que olvide?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "\u00A1[VAR 0102(0000)] ha aprendido\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "1, [WAIT 20]2 y... [WAIT 20]\u00A1puf![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] ha olvidado c\u00F3mo utilizar\\n[VAR 0107(0001)] y...\\c\\n\u00A1Ha aprendido [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "La clave de estos movimientos reside en saber\\ncombinarlos con los del tipo correcto."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "\u00BFTienes alg\u00FAn Pok\u00E9mon que te haya dado un\\nKahuna?\\c\\nNo importa si ha evolucionado. Mientras sea de\\ntipo Fuego, Agua o Planta, te lo haya entregado\\r\\nun Kahuna y se lleve muy bien contigo, le\\r\\npuedo ense\u00F1ar un movimiento combinado muy\\r\\nespecial."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "\u00BFQuieres que le ense\u00F1e un movimiento\\ncombinado especial a un Pok\u00E9mon?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Ninguno de los Pok\u00E9mon que llevas puede\\naprender el movimiento."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Muy bien.\\n\u00A1Hasta la pr\u00F3xima!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "\u00BFQu\u00E9 Pok\u00E9mon quieres que lo aprenda?"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Ese Pok\u00E9mon no puede aprender estos\\nmovimientos combinados tan especiales."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "\u00BFEnse\u00F1arle un movimiento a un Huevo?\\nT\u00FA no est\u00E1s muy bien..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Me parece que a\u00FAn tendr\u00EDais que llevaros mejor."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "\u00A1Pero si este Pok\u00E9mon ya ha aprendido el\\nmovimiento!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "\u00BFQuieres ense\u00F1arle [VAR 0107(0001)] a\\n[VAR 0101(0000)]?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Mi Pok\u00E9mon favorito es...\\c\\n\u00A1Cualquiera que d\u00E9 un Kahuna o un Profesor\\nPok\u00E9mon!\\c\\n\u00A1Porque tanto ellos como sus evoluciones\\npueden aprender movimientos combinados\\r\\nespeciales!\\c\\n\u00BFA que s\u00ED?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Selecciona el movimiento que quieres sustituir\\npor [VAR 0107(0000)]."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] no ha aprendido\\n[VAR 0107(0001)]."
+  }
+]

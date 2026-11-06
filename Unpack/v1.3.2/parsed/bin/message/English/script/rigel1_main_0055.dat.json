@@ -1,0 +1,337 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Yaaahooo! Are you ready for a battle?[VAR 0114(0073)]"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Oh my, you like to take your time, don\u2019t you?\\nDon\u2019t keep this old man waiting too long![VAR 0114(0073)]"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "All right! Let\u2019s get this show started! This is\\nthe best way to get to know new students![VAR 0114(0073)]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Bah ha ha! I lost!\\nYou\u2019re pretty strong, aren\u2019t you?[VAR 0114(0073)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Hey, the newbie won!\\c\\nMaster wasn\u2019t going all out, but that\u2019s still\\npretty impressive!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Who is that kid, anyway?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "The way you battle really shows me how much\\nyou care about your Pok\u00E9mon![VAR 0114(0073)]"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Even if you\u2019ve come because of a misunderstanding,\\nas long as you have a will to learn...[VAR 0114(0073)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "then you\u2019re welcome at the Master Dojo![VAR 0114(0073)]"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "I think we can all help each other become\\nstronger! I\u2019m happy you\u2019ve come to join us![VAR 0114(0073)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "So on that note, here\u2019s your Dojo Uniform![VAR 0114(0073)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "With that on, you\u2019ll fit right in with the students\\nof my Master Dojo.[VAR 0114(0073)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "You got a [VAR FF00(0008)]Dojo Uniform[VAR FF00(0000)]!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Hey, newbie!"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "If you want to change or just take a break,\\nuse that room over there!"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Now then![VAR 0114(0073)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "With [VAR 0100(0000)] here now, the dojo\u2019s at\\nmax capacity![VAR 0114(0073)]"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "It\u2019s time to really start our training! You\u2019ll all be\\nfacing [VAR FF00(0006)]three trials[VAR FF00(0000)].[VAR 0114(0073)]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Three trials?!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Wait. Why is there a max capacity for this dojo?"
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "And there\u2019s more! The person who completes\\nthe three trials will receive the [VAR FF00(0006)]secret armor[VAR FF00(0000)]\\r\\nof this dojo![VAR 0114(0073)]"
+  },
+  {
+    "index": 21,
+    "flags": 4,
+    "text": "Ooh! A secret set of armor! I want it!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Heh heh, that\u2019s the spirit!\\c\\nNow, lemme explain the first trial...[VAR 0114(0073)]"
+  },
+  {
+    "index": 23,
+    "flags": 4,
+    "text": "Aww! But, Masterrr!\\nYou haven\u2019t given me my uniform yet![VAR 0114(0071)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Pardon me, Master!\\nI haven\u2019t received my uniform yet![VAR 0114(0072)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Why does that kid get a uniform but not me?!\\nIt\u2019s not fair![VAR 0114(0071)]"
+  },
+  {
+    "index": 26,
+    "flags": 4,
+    "text": "I daresay it\u2019s unfair for only that child to get\\na uniform. Unequal, even! I demand an\\r\\nitem swap![VAR 0114(0072)]"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "Oh dear. Do you really not have a uniform?\\nMy bad, my bad![VAR 0114(0073)]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "That\u2019s easy to fix, though! I have another uniform\\nright here for you, Klara![VAR 0114(0073)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "That\u2019s easy to fix, though! I have another uniform\\nright here for you, Avery![VAR 0114(0073)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Hee hee! The squeaky wheel gets the grease![VAR 0114(0071)]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ha! It does pay to complain sometimes![VAR 0114(0072)]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Klara got a Dojo Unif\u2014"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Avery got a Dojo Unif\u2014"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "POKE![VAR 0114(0042)]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Huh?! What was that?[VAR 0114(0071)]"
+  },
+  {
+    "index": 36,
+    "flags": 4,
+    "text": "Eek! What in the world?[VAR 0114(0072)]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Wha\u2014?! It\u2019s gone! Where\u2019d my Dojo Uniform go?[VAR 0114(0071)]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Hey! My Dojo Uniform! It\u2019s gone missing![VAR 0114(0072)]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Po-po-po...[VAR 0114(0042)]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Huh?[VAR 0114(0071)]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Hmm?[VAR 0114(0072)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Poke!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "That speed...\\nWas it really these Slowpoke?"
+  },
+  {
+    "index": 44,
+    "flags": 4,
+    "text": "I\u2019ve never seen any Slowpoke move so fast!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Hey! Give it back!\\nGive me my Dojo Uniform![VAR 0114(0071)]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "How dare you? Are you using Trick?!\\nReturn my Dojo Uniform immediately![VAR 0114(0072)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Slooow? Slooow..."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "... ... ..."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Poooke!"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Hey! Get back here![VAR 0114(0071)]"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Oh my! Where do you think you\u2019re going?![VAR 0114(0072)]"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Oops! Guess I let them out of their Pok\u00E9 Balls\\na little too soon! Heh heh heh![VAR 0114(0073)]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Master...\\nWhat\u2019s up with those Slowpoke?"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "This is the first trial, my students...[VAR 0114(0073)]"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "You\u2019ve all gotta chase after those fast\\nSlowpoke, trained with care by little old me!\\c\\nBut that\u2019s not all... You need to defeat them, too![VAR 0114(0073)]"
+  },
+  {
+    "index": 56,
+    "flags": 4,
+    "text": "And while you\u2019re at it, could you get Klara\u2019s\\nDojo Uniform back?[VAR 0114(0073)]"
+  },
+  {
+    "index": 57,
+    "flags": 4,
+    "text": "And while you\u2019re at it, could you get Avery\u2019s\\nDojo Uniform back?[VAR 0114(0073)]"
+  },
+  {
+    "index": 58,
+    "flags": 4,
+    "text": "Awww! Do we have to?!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Well, that\u2019s that!\\nDo your best, you lot![VAR 0114(0073)]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Do you want to change back into your\\nusual clothes?"
+  },
+  {
+    "index": 61,
+    "flags": 4,
+    "text": "All set!\\c\\nTime to chase down those fast Slowpoke!"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "No need to change!\\c\\nTime to chase down those fast Slowpoke!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "The first trial is to chase down the three\\nfast Slowpoke!\\c\\nAnd while you\u2019re at it, it would be cool if you\\ncould get back the Dojo Uniform they stole![VAR 0114(0073)]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Slowpoke are usually super zoned out,\\nbut that didn\u2019t stop the master from raising\\r\\nthem to be super fast!"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "The way they moved...\\nThose aren\u2019t ordinary Slowpoke!\\c\\nMaybe they wanted to wear the Dojo Uniform?"
+  },
+  {
+    "index": 66,
+    "flags": 4,
+    "text": "I know you might be feeling nervous, being\\nnew here and all.\\c\\nBut don\u2019t you worry. All our students are good,\\nthrough and through. They\u2019ll take care of you.[VAR 0114(0074)]"
+  }
+]

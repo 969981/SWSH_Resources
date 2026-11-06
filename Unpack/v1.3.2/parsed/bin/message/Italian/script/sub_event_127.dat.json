@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Benvenut[VAR 1100(00FF,0101)]oa... Ti interessa qualcuna delle nostre\\nofferte?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "L\u2019offerta di oggi"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "L\u2019offerta di ieri"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "L\u2019offerta di domani"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "No, grazie!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "L\u2019offerta di oggi \u00E8 [VAR 1502(0001,0000)][VAR 0109(0001)]\\nal modico prezzo di [VAR 0203(0002,002E)] \uE300... Ti interessa?"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Vediamo... L\u2019offerta di ieri era\\n[VAR 1502(0001,0000)][VAR 0109(0001)] al modico prezzo\\r\\ndi [VAR 0203(0002,002E)] \uE300... Ti interessa?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Domani mi arriver\u00E0 probabilmente un carico\\ndi [VAR 1001][VAR 0109(0001)]..."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Grazie mille!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Posso fare altro per te?"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Se cambi idea sai dove trovarci..."
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "Ehi... Guarda che non hai abbastanza soldi!"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Ehi! Per caso avresti tempo di fare una piccola\\ncommissione per me?\\c\\nAvrei bisogno di qualcuno che mi porti\\ndella merce entro oggi... Sono disposto\\r\\na pagare profumatamente!"
+  },
+  {
+    "index": 13,
+    "flags": 4,
+    "text": "Oggi compro [VAR 1502(0001,0000)][VAR 0109(0001)]\\nper [VAR 0205(0002,002E)] \uE300."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Oh, vedo che hai ci\u00F2 che cerco!\\c\\nAllora, sei dispost[VAR 1100(00FF,0101)]oa a vendere\\n[VAR 1500(0001,0000)][VAR 0109(0001)] per [VAR 0205(0002,002E)] \uE300?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Grazie mille!\\nTieni, ecco quanto pattuito."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Consegni [VAR 1500(0001,0000)][VAR 0109(0001)]\\ne ricevi [VAR 0205(0002,002E)] \uE300."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Ah... Che peccato..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Torna a trovarmi anche domani, se sei in vena\\ndi fare affari!"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Oh, sei tu! Ho sentito che sei diventato\\nCampione..."
+  },
+  {
+    "index": 20,
+    "flags": 4,
+    "text": "Oh, sei tu! Ho sentito che sei diventata\\nCampionessa..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Tieni! Non \u00E8 nulla di speciale, giusto un pensiero\\nper festeggiare questo tuo traguardo!"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Torna presto a trovarmi!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Durante i miei scavi ho trovato degli strumenti\\ndavvero misteriosi.\\c\\nNon ho assolutamente idea di come si usino...\\nLi vuoi tu?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Durante i miei scavi ho trovato degli strumenti\\ndavvero misteriosi.\\c\\nNon ho assolutamente idea di come si usino...\\nLi vuoi tu?"
+  }
+]

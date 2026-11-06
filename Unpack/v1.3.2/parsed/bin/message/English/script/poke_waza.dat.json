@@ -1,0 +1,152 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Uh...\\nNow who was I again?\\c\\n... ... ...\\n... ... ...\\c\\nOh yes! I\u2019m the Move Deleter!\\nI can make Pok\u00E9mon forget their moves."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "You\u2019re here so I can make your Pok\u00E9mon forget\\na move, um-hmm?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon would that be?"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Just remember me when there\u2019s something you\\nwant to forget!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "What\u2019s that, friend?\\nThat Pok\u00E9mon only knows one move, you know?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "What\u2019s this, friend?\\nEggs don\u2019t know any moves before they hatch."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Mm-hmm...\\nAnd which move should it forget?"
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "It was a great success!\\c\\nYour Pok\u00E9mon has forgotten that it ever even\\nknew [VAR 0107(0000)]!"
+  },
+  {
+    "index": 8,
+    "flags": 4,
+    "text": "Everyone calls me Madam Memorial.\\c\\nI know every move that a Pok\u00E9mon learns as it\\ngrows, you see.\\c\\nI can also help your Pok\u00E9mon remember any of\\nthose moves that it has let go in the past.\\c\\nI\u2019ll help your Pok\u00E9mon recover their lost moves\\nin exchange for Heart Scales, if you have any."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Would you like to remind your Pok\u00E9mon of a\\nlong-forgotten move?"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "If there\u2019s a move you want one of your Pok\u00E9mon\\nto recall, bring me a [VAR 0109(0000)]!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Which Pok\u00E9mon is it?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "That is an Egg."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "This Pok\u00E9mon doesn\u2019t yet have any moves to\\nbe recovered."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Which move would you like it to remember?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "You gave a [VAR 0109(0000)] in thanks."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Now it has remembered that move!\\nCome again if you need anything else!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Would you like me to teach Volt Tackle to\\nyour Pikachu?"
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "If you come to me with Pikachu, I\u2019d be happy to\\nteach it Volt Tackle."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Pikanium Z will turn Pikachu\u2019s Volt Tackle\\ninto its Z-Move!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Which Pikachu would you like me to teach\\nthe move to?"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 4,
+    "text": "Everybody is happy with Pikachu\u2019s Z-Power."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Please choose a move that will be replaced with\\n[VAR 0107(0000)]."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned\\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  }
+]

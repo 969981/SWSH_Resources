@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": " Best\u00E4tigen"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Beenden"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": " Men\u00FC"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": " Schlie\u00DFen"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": " Halten"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": " Tauschen"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": " Rufen"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": " Reden"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": " Mit beiden reden"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": " Ball aufheben"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": " Pok\u00E9wedel"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": " Spielb\u00E4lle"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": " Hereinzoomen"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": " Sperrliste"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Ligakarte ansehen"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": " Schicken"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": " Wedeln"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": " Werfen"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": " Ansicht \u00E4ndern"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": " Spielzeug wegstecken"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Wie geht\u2019s?"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Los, spielen gehen!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Schon gut..."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Willst du mit dem Pok\u00E9Camping aufh\u00F6ren?"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Willst du das Pok\u00E9Camp von [VAR 0100(0000)]\\nverlassen?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] hat das Pok\u00E9Camp verlassen."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Nanu? Ein [VAR 0101(0000)] besucht dein\\nPok\u00E9Camp."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] scheint sich dir anschlie\u00DFen zu\\nwollen. M\u00F6chtest du es in dein Team aufnehmen?"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] hat sich dir angeschlossen!"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] ist in den\\n[VAR 0109(0001)] geschl\u00FCpft!"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] ist in die Wildnis zur\u00FCckgekehrt."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] hat es sich beim Camping\\nso richtig gut gehen lassen und [VAR 0206(0001,202F)] EP\\r\\nerhalten!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Der Level von [VAR 0102(0000)] ist um [VAR 0201(0001)]\\ngestiegen!"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "campt jetzt!"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "ist gegangen!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "sucht Hilfe!"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "kocht!"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Guten Morgen!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Guten Tag!"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Guten Abend!"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "cool"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "putzig"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "h\u00FCbsch"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "kraftvoll"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "gewitzt"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "verspielt"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "voller Energie"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "verl\u00E4sslich"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "fantastisch"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "gut gelaunt"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "munter"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "fr\u00F6hlich"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "umwerfend"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "entspannt"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "stilvoll"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "wild"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "s\u00FC\u00DF"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "entz\u00FCckend"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "brillant"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "pr\u00E4chtig"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "allerliebst"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "wundersch\u00F6n"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "wundervoll"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "elegant"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "herrlich"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": " Spielzeug z\u00FCcken"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": " Spielzeug wechseln"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": " Ball annehmen"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Spielzeuge"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Rezepte"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Zur\u00FCck in die Wildnis"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": " Streit schlichten"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": " Mit Trainer reden"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 0100(0000)] auf deine\\nSperrliste setzen?"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Mit einem gesperrten Spieler kannst du nicht\\nspielen. Willst du den Spieler wirklich sperren?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] wurde auf deine Sperrliste\\ngesetzt."
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Im Flugzeugmodus kannst du keine\\nKommunikationsfunktionen verwenden und\\r\\nSpieler k\u00F6nnen dein Pok\u00E9Camp nicht besuchen."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Erz\u00E4hl mir mehr!"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Bis sp\u00E4ter!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Lass uns spielen!"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Spielzeug"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Kochen"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Pok\u00E9Camp verlassen"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Pok\u00E9Camp verlassen"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Diese Person befindet sich bereits auf deiner\\nSperrliste."
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Money"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "\uE300[VAR 0206(0000,002C)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Watts"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0206(0001,002C)] W"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "BP"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[VAR 0206(0001,002C)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Battle"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)] [VAR 0201(0003)]:[VAR 0201(0004)]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Printed on"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Pok\u00E9mon of up to Lv. [VAR 0201(0000)] will listen to this\\nTrainer\u2019s requests."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "All Pok\u00E9mon will listen to this Trainer\u2019s requests."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Catch"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "This Trainer can catch Pok\u00E9mon of up to Lv. [VAR 0201(0000)]."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "This Trainer can catch Pok\u00E9mon of any level."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "[~ 24]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "[~ 26]"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "[~ 27]"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[~ 29]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "[~ 30]"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[~ 31]"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "[~ 32]"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "[~ 35]"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": " Quit"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Flip Card"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": " Sort"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": " Select and Throw Away"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": " Favorite"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": " Close"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": " Select"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": " Throw Away"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": " View Front"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Would you like to receive [VAR 0100(0000)]\u2019s\\nLeague Card?"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Receive"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Discard"
+  },
+  {
+    "index": 51,
+    "flags": 4,
+    "text": "Is it really OK to throw away the\\nselected cards?"
+  },
+  {
+    "index": 52,
+    "flags": 4,
+    "text": "Is it really OK to throw away the\\nselected cards?"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Your Card"
+  },
+  {
+    "index": 54,
+    "flags": 4,
+    "text": "Album"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "You have no cards."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Card Code"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\u2019s League Card"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "[~ 59]"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "[~ 60]"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "[~ 61]"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "[~ 62]"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "[~ 63]"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Receive a Card"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Share Your Card"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Change Cards"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "You can receive a League Card by entering its Card Code."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Get it!"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "You can give out your cards by sharing your Card Code."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]\u2019s Card Code"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": " Stop Sharing Card"
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Is it OK to stop sharing your card?"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "The current setting doesn\u2019t allow you to share\\nyour card."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Share your card"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Your card is now shared!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Received"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "How you met"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Connected by"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "[~ 79]"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "[~ 80]"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "via camping"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "via Y-Comm"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "via Link Battle"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "via Pok\u00E9mon trade"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "via Max Raid Battle"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "via Card Code"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "local communication"
+  },
+  {
+    "index": 90,
+    "flags": 4,
+    "text": "internet"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Change cards"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "You selected the current card as the card you\u2019ll\\nshow to other players!\\c"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "Back"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Newest first"
+  },
+  {
+    "index": 95,
+    "flags": 4,
+    "text": "Oldest first"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Favorites first"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "How you met"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Special"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Link Battle"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Camp"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "Max Raid Battle"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Y-Comm"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "Pok\u00E9mon trade"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Card Code"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "How do you want to sort cards?"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "Enter Card Code"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Your album is full now.\\nYou can\u2019t receive any more cards."
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "You already have the same card."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Select this option to create a Card Code for your\\nLeague Card."
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Select this option to enter a Card Code and receive\\na League Card."
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "You received a card from [VAR 0100(0000)]!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "You couldn\u2019t send your card."
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "You couldn\u2019t receive a card."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "You couldn\u2019t throw away any cards."
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[VAR 012D(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "No card was found with that Card Code."
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "You will now connect to the internet.\\nYour game will be saved. Is that OK?"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Connect"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Connecting...\\nPlease stand by."
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "You\u2019re now connected to the internet.\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "Saving...\\nPlease wait."
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "You\u2019re now connected to the internet.\\c"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "Your album is full. Please make room to receive\\na card."
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "Receiving a card..."
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "You\u2019ve received a card!"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "You\u2019re about to disconnect from the internet.\\nWould you like to continue?"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "You\u2019ve switched back to local communication.\\c"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "Disconnect"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "Quit"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "Disconnecting from the internet..."
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Sharing your card..."
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Your card is now shared!"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "You already have the same card."
+  }
+]

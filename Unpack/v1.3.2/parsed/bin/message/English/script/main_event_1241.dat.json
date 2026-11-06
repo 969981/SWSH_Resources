@@ -1,0 +1,117 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Would you like to hear the details of the Gym\\nmission carried out here in Circhester?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "I would!"
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "I\u2019m good..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Then allow me to explain a little about the Trap\\nDetector you hold in your hands!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "The reason you\u2019ll need it is simple.\\nThere are invisible pitfalls everywhere in here!"
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "If you fall into one, you\u2019ll have to start again\\nfrom the last platform you reached.\\c\\nThe detector will vibrate when there\u2019s a pitfall\\nin front of you. The closer the hole, the stronger\\r\\nthe vibration!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Then on with you! And good luck!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Did you need something?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "What was the mission?"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "I want to withdraw"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "I\u2019m good"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Try to reach the goal without falling into any\\nof the invisible pitfalls!"
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "If you withdraw, you\u2019ll have to start over the next\\ntime you give the mission a try. So, are you sure?"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Then I look forward to your next attempt!"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Enjoying the Gym mission?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Congratulations on completing the Gym mission!\\c\\nSo what do you say, [VAR 0100(0000)]?\\nWould you like to face the Gym Leader at once?"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "I would!"
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "I\u2019d rather not..."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Very well! Move on ahead, and show that Gym\\nLeader what you can do!"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Of course. You no doubt have to prepare and\\nsave a record of what you\u2019ve done. I understand!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Gym mission start!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Gym mission cleared!"
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Oooh, that\u2019s a right shame!\\nAnd Challenger [VAR 0100(0000)] goes down!"
+  }
+]

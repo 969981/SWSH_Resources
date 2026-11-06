@@ -1,0 +1,272 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Ha un grande effetto sul pubblico."
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "Ha un grande effetto sul pubblico, ma chi\\nla usa tender\u00E0 a spaventarsi pi\u00F9 facilmente."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "Ha un enorme effetto, ma impedisce l\u2019uso\\ndi altre mosse fino al termine della gara."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Pu\u00F2 essere usata pi\u00F9 volte di seguito\\nsenza annoiare il pubblico."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Chi la usa evita per una volta di spaventarsi\\ndurante l\u2019esibizione."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Chi la usa non si spaventa per il resto\\ndell\u2019esibizione."
+  },
+  {
+    "index": 6,
+    "flags": 8,
+    "text": "Spaventa il Pok\u00E9mon che si \u00E8 esibito prima\\ndi chi la usa."
+  },
+  {
+    "index": 7,
+    "flags": 8,
+    "text": "Spaventa tutti i Pok\u00E9mon che si sono gi\u00E0\\nesibiti."
+  },
+  {
+    "index": 8,
+    "flags": 8,
+    "text": "Spaventa terribilmente il Pok\u00E9mon che si \u00E8\\nesibito prima di chi la usa."
+  },
+  {
+    "index": 9,
+    "flags": 8,
+    "text": "Spaventa terribilmente tutti i Pok\u00E9mon\\nche si sono gi\u00E0 esibiti."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Riduce l\u2019entusiasmo del pubblico per gli altri\\nPok\u00E9mon."
+  },
+  {
+    "index": 11,
+    "flags": 8,
+    "text": "Spaventa molto i Pok\u00E9mon che hanno\\nsuscitato l\u2019entusiasmo del pubblico."
+  },
+  {
+    "index": 12,
+    "flags": 4,
+    "text": "Inibisce gli altri Pok\u00E9mon, ma chi la usa\\nnon pu\u00F2 agire nell\u2019esibizione successiva."
+  },
+  {
+    "index": 13,
+    "flags": 8,
+    "text": "Spaventa molto i Pok\u00E9mon che si sono esibiti\\ncon una mossa dello stesso tipo."
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Innervosisce tutti i Pok\u00E9mon che si\\nesibiscono dopo chi la usa."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Rende insicuri i Pok\u00E9mon che si sono\\ngi\u00E0 esibiti."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Ha un enorme effetto se viene eseguita\\nper prima nell\u2019esibizione."
+  },
+  {
+    "index": 17,
+    "flags": 4,
+    "text": "Ha un enorme effetto se viene eseguita\\nper ultima nell\u2019esibizione."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Ha un effetto sul pubblico pi\u00F9 o meno pari\\na quello delle mosse usate precedentemente."
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Ha un effetto sul pubblico identico a quello\\ndella mossa usata da chi precede."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Pi\u00F9 tardi la si esegue nell\u2019esibizione,\\nmaggiore \u00E8 l\u2019effetto."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "L\u2019effetto sul pubblico dipende dal\\nmomento in cui viene eseguita."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Ha un effetto maggiore se \u00E8 dello stesso\\ntipo di quella precedente."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "L\u2019effetto sul pubblico \u00E8 influenzato\\ndall\u2019esibizione precedente."
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Chi la usa diventa pi\u00F9 sicuro di s\u00E9.\\nPu\u00F2 impedire il nervosismo."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "L\u2019esibizione \u00E8 di grande effetto se chi la usa\\n\u00E8 sicuro di s\u00E9."
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Chi la usa agir\u00E0 pi\u00F9 presto nell\u2019esibizione\\nsuccessiva."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Chi la usa agir\u00E0 pi\u00F9 tardi nell\u2019esibizione\\nsuccessiva."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Cambia in maniera casuale l\u2019ordine dei\\nPok\u00E9mon nell\u2019esibizione successiva."
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Mossa che conquista il pubblico in qualsiasi\\ntipo di gara."
+  },
+  {
+    "index": 30,
+    "flags": 8,
+    "text": "Spaventa terribilmente i Pok\u00E9mon che\\nsi sono esibiti con successo."
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "Ha un effetto maggiore se il pubblico\\n\u00E8 in preda all\u2019entusiasmo."
+  },
+  {
+    "index": 32,
+    "flags": 8,
+    "text": "Smorza temporaneamente l\u2019entusiasmo\\ndel pubblico."
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "Aumenta di molto l\u2019entusiasmo del pubblico\\nse viene eseguita per prima nell\u2019esibizione."
+  },
+  {
+    "index": 34,
+    "flags": 4,
+    "text": "Aumenta di molto l\u2019entusiasmo del pubblico\\nse viene eseguita per ultima nell\u2019esibizione."
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Fa s\u00EC che quando le mosse hanno scarso\\neffetto, il pubblico si annoi rapidamente."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "[~ 36]"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "[~ 37]"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "[~ 38]"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "[~ 39]"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "[~ 40]"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[~ 41]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[~ 42]"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "[~ 43]"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "[~ 45]"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[~ 46]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[~ 47]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[~ 48]"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  }
+]

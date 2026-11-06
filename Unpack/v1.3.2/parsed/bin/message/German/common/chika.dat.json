@@ -1,0 +1,617 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt..."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Endlosmodus"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Niederlage bei:"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Insgesamt vier Mal kampfunf\u00E4hig gewordenen\\nPok\u00E9mon oder nach zehn Runden in einem Kampf"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Mitspieler suchen"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Alleine k\u00E4mpfen"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Kampf beginnen"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Bereit!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Abenteuer beginnen"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": ":"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Noch:"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[VAR 0100(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Suche l\u00E4uft..."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Passwort: [VAR 012D(0000)][VAR 012D(0001)][VAR 012D(0002)][VAR 012D(0003)] [VAR 012D(0004)][VAR 012D(0005)][VAR 012D(0006)][VAR 012D(0007)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Du hast keine B\u00E4lle. M\u00F6chtest du trotzdem\\nteilnehmen?"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Du hast nicht genug Mitspieler! Dem Kampf\\nwerden zur Unterst\u00FCtzung weitere Trainer\\r\\nbeitreten. Willst du fortfahren?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Das Passwort lautet also [VAR 0203(0000,0000)] [VAR 0203(0001,0000)]?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Willst du die Suche nach Mitspielern abbrechen?"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "M\u00F6chtest du deine Teilnahme abbrechen?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Der Vorgang wurde abgebrochen, da keine\\nMitspieler gefunden wurden.\\c"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Das Passwort wird dadurch gel\u00F6scht.\\nM\u00F6chtest du fortfahren?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Bei der Daten\u00FCbertragung ist ein Fehler\\naufgetreten. Bitte versuche es erneut.\\c"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Die Suche nach Mitspielern f\u00FCr ein\\nDynamax-Abenteuer wurde abgebrochen.\\c"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Bei diesem Kampf wirst du von anderen Trainern\\nunterst\u00FCtzt.\\c"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Du hast keinen Platz, um gefangene Pok\u00E9mon\\nmitzunehmen zu k\u00F6nnen. Trotzdem fortfahren?"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt...\\nBitte warte einen Moment."
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": " Passwort"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": " Passwort zur\u00FCcksetzen"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": " Anzeige \u00E4ndern"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": " Ausw\u00E4hlen"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": " Abbrechen"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": " Abstimmen"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Leihe dir ein Pok\u00E9mon, das dich auf deinem\\nAbenteuer begleiten soll."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "[VAR 0189(0000)] \u00FCberlegt noch..."
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Das Abenteuer kann beginnen!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Auswahlvorgang..."
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Forscherin"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "KP"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]/[VAR 0202(0001)]"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Angriff"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Vert."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Sp.-Ang."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Sp.-Vert."
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Initiative"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "F\u00E4higkeit"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0106(0000)]"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 0107(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Ja"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Nein"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Bericht"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Ausw\u00E4hlen"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Aus dem Nest scheint eine starke Energie\\ndes Typs [VAR 0103(0000)] zu dringen."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Welchem Weg m\u00F6chtest du folgen?"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Nach Absprache mit den anderen wurde\\nbeschlossen, diesen Weg zu nehmen."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "M\u00F6chtest du das gefangene [VAR 0101(0000)]\\nins Team aufnehmen?"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Ins Team aufnehmen"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Nicht aufnehmen"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[VAR 0189(0000)] hat [VAR 0101(0001)]\\nins Team aufgenommen."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Ihr setzt die Reise mit den aktuellen\\nPok\u00E9mon fort."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Ihr habt Beeren gefunden!"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Eure Pok\u00E9mon haben die Beeren gegessen und\\ndadurch ihre KP wiederhergestellt."
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Eure Pok\u00E9mon verf\u00FCgen bereits \u00FCber volle KP."
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Ihr seid einer Backpackerin begegnet!"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Wenn ihr wollt, kann ich euch ein paar meiner\\nItems abtreten. Was h\u00E4ttet ihr denn gerne?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "[VAR 0109(0000)]"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "[VAR 0109(0000)] also, wie?\\nHier, bitte sehr!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "[VAR 0101(0001)] tr\u00E4gt nun\\n[VAR 1606(0002,0000)][VAR 010A(0002)]."
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Oh, du bist schon wunschlos gl\u00FCcklich?\\nNa, umso besser!"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Ihr seid einer Forscherin begegnet."
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Eure Pok\u00E9mon sind bestimmt ersch\u00F6pft."
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Ich k\u00F6nnte eines von ihnen gegen ein neues\\nLeih-Pok\u00E9mon austauschen."
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "M\u00F6chtest du dein Pok\u00E9mon gegen ein anderes\\nLeih-Pok\u00E9mon austauschen?"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Gut, dann leihe ich [VAR 0101(0001)] diesmal...\\n[VAR 0189(0000)] aus!"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Viel Gl\u00FCck euch weiterhin!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Es hat echt niemand Interesse? Nun gut.\\nDann weiterhin viel Gl\u00FCck!"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Der Sturm scheint etwas nachgelassen zu haben..."
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Gefangene Pok\u00E9mon"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "W\u00E4hle das Pok\u00E9mon, das du mitnehmen\\nm\u00F6chtest."
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "[~ 90]"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Erhaltene Belohnung"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Dyna-Erz"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 0101(0000)] mitnehmen?"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Bist du dir wirklich sicher, dass du kein Pok\u00E9mon\\nmitnehmen m\u00F6chtest?"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Du hast das Leih-Pok\u00E9mon und das Pok\u00E9mon,\\ndas du nicht wolltest, der Forscherin \u00FCbergeben.\\c"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Du hast das Leih-Pok\u00E9mon und die Pok\u00E9mon,\\ndie du nicht wolltest, der Forscherin \u00FCbergeben.\\c"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Du hast das Leih-Pok\u00E9mon der Forscherin\\nzur\u00FCckgegeben.\\c"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "Du hast das Leih-Pok\u00E9mon und das Pok\u00E9mon,\\ndas du gefangen hast, der Forscherin \u00FCbergeben.\\c"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Du hast das Leih-Pok\u00E9mon und die Pok\u00E9mon,\\ndie du gefangen hast, der Forscherin \u00FCbergeben.\\c"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "\u00D7"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Weiter"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Nest erkundet"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Innersten Nestbereich erreicht"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Besonderes Pok\u00E9mon erhalten"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Abenteuer sicher abgeschlossen"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Mit anderen Spielern verbunden"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "Bonus f\u00FCr Endlosmodus"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "Dynamax-Abenteuer"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "Rekord im Endlosmodus"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[VAR 0189(0000)]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[VAR 0101(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "Erreichter Punkt:"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[VAR 0202(0000)]. UG"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "Besiegte Pok\u00E9mon:"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[VAR 0203(0000,202F)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "Jeder w\u00E4hlt der Reihe nach ein Pok\u00E9mon\\naus, das ihn begleiten soll."
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "Du kannst deinem Pok\u00E9mon ein Item\\nzum Tragen geben."
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "Ein Trainer kann sein momentanes Pok\u00E9mon\\ngegen das gerade gefangene Pok\u00E9mon\\naustauschen."
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "Da das dein erstes Dynamax-Abenteuer ist,\\nsolltest du dich zun\u00E4chst [VAR FF00(0006)]allein daran[VAR FF00(0000)]\\n[VAR FF00(0006)]versuchen[VAR FF00(0000)], um dir die Regeln einzupr\u00E4gen.\\c"
+  }
+]

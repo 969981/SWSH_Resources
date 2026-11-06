@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Hum\u202F? Encore ces gens qui viennent vous d\u00E9ranger\\npendant les vacances pour vous parler de boulot.\\c\\nOuais, j\u2019suis un gros fan de Pok\u00E9mon fabuleux.\\nEnfin certains, pas tous...\\c\\nJe leur enseigne de super capacit\u00E9s, tu vois\u202F?\\nTu veux utiliser mes services\u202F?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Mais attends\u202F! Il conna\u00EEt d\u00E9j\u00E0 ma capacit\u00E9,\\nton Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Pas de Meloetta ou de Keldeo, pas de capacit\u00E9\u202F!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Houla, j\u2019suis en transe l\u00E0, j\u2019suis pr\u00EAt\\n\u00E0 tout donner\u202F! T\u2019es pr\u00EAt[VAR 1100(00FF,0100)]e\u202F?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "C\u2019est pas bien de couper les gens dans leur \u00E9lan\u202F!\\nTu sais o\u00F9 me trouver si tu changes d\u2019avis."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "... Un \u0152uf\u202F? Il s\u2019rait peut-\u00EAtre temps de prendre\\nrendez-vous chez l\u2019ophtalmo."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Non, c\u2019est soit Meloetta, soit Keldeo.\\nMais c\u2019est tout\u202F! Faut pas tout m\u00E9langer\u202F!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Mais... Ce Pok\u00E9mon conna\u00EEt d\u00E9j\u00E0 ma capacit\u00E9\u202F!\\nComment se fait-ce\u202F?!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Houla\u202F! Ton pauv\u2019 Pok\u00E9mon n\u2019est pas vraiment\\nen \u00E9tat d\u2019apprendre quoi que ce soit..."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "... Hein\u202F?!\\n[VAR 0102(0000)] change de forme\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[VAR 0102(0000)], avec cet Aspect D\u00E9cid\u00E9,\\na plus que jamais l\u2019air de vouloir en d\u00E9coudre\u202F!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Choisissez une capacit\u00E9 \u00E0 oublier pour faire\\nplace \u00E0 [VAR 0107(0000)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] apprend\\n[VAR 0107(0001)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa\u202F![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] a oubli\u00E9 [VAR 0107(0001)].\\c\\nEt...\\c\\nIl apprend [VAR 0107(0002)]\u202F![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] n\u2019a pas appris\\n[VAR 0107(0001)]."
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "Alors, je l\u2019enseigne \u00E0 quel Pok\u00E9mon,\\ncette capacit\u00E9\u202F?"
+  }
+]

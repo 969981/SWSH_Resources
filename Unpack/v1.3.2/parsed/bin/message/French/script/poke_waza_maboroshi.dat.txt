@@ -1,0 +1,17 @@
+Hum ? Encore ces gens qui viennent vous déranger\npendant les vacances pour vous parler de boulot.\c\nOuais, j’suis un gros fan de Pokémon fabuleux.\nEnfin certains, pas tous...\c\nJe leur enseigne de super capacités, tu vois ?\nTu veux utiliser mes services ?
+Mais attends ! Il connaît déjà ma capacité,\nton Pokémon !
+Pas de Meloetta ou de Keldeo, pas de capacité !
+Houla, j’suis en transe là, j’suis prêt\nà tout donner ! T’es prêt[VAR 1100(00FF,0100)]e ?
+C’est pas bien de couper les gens dans leur élan !\nTu sais où me trouver si tu changes d’avis.
+... Un Œuf ? Il s’rait peut-être temps de prendre\nrendez-vous chez l’ophtalmo.
+Non, c’est soit Meloetta, soit Keldeo.\nMais c’est tout ! Faut pas tout mélanger !
+Mais... Ce Pokémon connaît déjà ma capacité !\nComment se fait-ce ?!
+Houla ! Ton pauv’ Pokémon n’est pas vraiment\nen état d’apprendre quoi que ce soit...
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] !
+... Hein ?!\n[VAR 0102(0000)] change de forme !
+[VAR 0102(0000)], avec cet Aspect Décidé,\na plus que jamais l’air de vouloir en découdre !
+Choisissez une capacité à oublier pour faire\nplace à [VAR 0107(0000)].
+[VAR 0102(0000)] apprend\n[VAR 0107(0001)] ![VAR BE05(0004)][VAR BE05(0001)]
+1[WAIT 20], 2[WAIT 20], ...[WAIT 20] ...[WAIT 20] Tadaaa ![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] a oublié [VAR 0107(0001)].\c\nEt...\c\nIl apprend [VAR 0107(0002)] ![VAR BE05(0004)][VAR BE05(0001)]
+[VAR 0102(0000)] n’a pas appris\n[VAR 0107(0001)].
+Alors, je l’enseigne à quel Pokémon,\ncette capacité ?

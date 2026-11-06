@@ -1,0 +1,2262 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Pok\u00E9 Jobs"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "There is a new job posting!\\c"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "There are new job postings!\\c"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "NEW!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Help Wanted"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Pok\u00E9mon Sent"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Always Recruiting"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Help Wanted"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Pok\u00E9mon Sent"
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "Always Recruiting"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Completed"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "[~ 11]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[~ 12]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Completed"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Summary"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Job Description"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Pok\u00E9mon Wanted"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "Up to [VAR 0201(0000)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Time"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "[~ 23]"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "Exp. Points"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Base points to be lowered"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Choose a stat to subtract base points from."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Base points to be raised"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "HP"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Attack"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Defense"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Sp. Atk"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Sp. Def"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Speed"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Please select a job you\u2019re interested in."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "There are no job requests right now.\\nPlease come back tomorrow.\\c"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Do you want to take this job offer?"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Yes"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "No"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "You\u2019ve already sent Pok\u00E9mon to help out with\\nthis job. Would you like to cancel?"
+  },
+  {
+    "index": 41,
+    "flags": 4,
+    "text": "If you cancel, your Pok\u00E9mon will return without\\ngrowing at all. Do you still want to cancel?"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon came back from the job!\\c"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon came back from the job!\\c"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon will be sent to the job site.\\nIs that OK?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon will be sent to the job site.\\nIs that OK?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Send Pok\u00E9mon"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Check selection"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Cancel"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "You can still select more Pok\u00E9mon to send to this\\njob. Do you want to accept the job anyway?"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon went to work.\\nIt\u2019ll do its best!\\c"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon went to work.\\nThey\u2019ll do their best!\\c"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[~ 52]"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "The number of job postings have increased now\\nthat you have earned more Gym Badges!\\c"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "[VAR 0100(0000)] has a job for you!\\c"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "[VAR 0201(0000)] hour[VAR 1101(0000,0100)]s left"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[VAR 01D2(0000)]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Congratulations!\\c\\nThe hard work of your Pok\u00E9mon has really\\nimpressed your clients, and so there will be more\\r\\njobs available to you from now on!\\c\\nKeep up the good work!\\c"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Choose a stat to add base points to."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Change selection"
+  },
+  {
+    "index": 60,
+    "flags": 4,
+    "text": "Exp. Points"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Your Boxes are full!\\nPlease make sure you have room to receive\\r\\nyour Pok\u00E9mon.\\c"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Choose Pok\u00E9mon from your Boxes.\\c"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "You can\u2019t send any more Pok\u00E9mon.\\c\\nPlease either cancel a job or wait until one has\\nbeen completed.\\c"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "This job has already been completed.\\c"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Choose how long you want your Pok\u00E9mon\\nto help out."
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "[~ 66]"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "[~ 67]"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "[~ 68]"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "[~ 69]"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "[~ 70]"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "[~ 71]"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "[~ 72]"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "[~ 73]"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "[~ 74]"
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "The hard work of your Pok\u00E9mon has paid off!\\nNew job requests have arrived!\\c"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "You can\u2019t accept jobs because there are no\\nPok\u00E9mon in your Boxes.\\c"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Lv."
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Whole day"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Half day"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Very long"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Long"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Short"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Very short"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Just a little"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "The Pok\u00E9mon you sent to help has returned!\\c"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "The Pok\u00E9mon you sent to help have returned!\\c"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Base"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "\u002B [VAR 0202(0000)]"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Selected Pok\u00E9mon"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Selected Pok\u00E9mon"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": " Skip"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": " Confirm"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": " Back"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "Great Job!"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "Good Job!"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Job Completed!"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 104,
+    "flags": 4,
+    "text": "It seems like your Pok\u00E9mon did an\\nexceptional job!\\c"
+  },
+  {
+    "index": 105,
+    "flags": 4,
+    "text": "It seems like your Pok\u00E9mon did an\\nexceptional job!\\c"
+  },
+  {
+    "index": 106,
+    "flags": 4,
+    "text": "It received lots of Exp. Points for doing a\\ngreat job!\\c"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "They received lots of Exp. Points for doing a\\ngreat job!\\c"
+  },
+  {
+    "index": 108,
+    "flags": 4,
+    "text": "It received extra Exp. Points for doing\\na good job!\\c"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "They received extra Exp. Points for doing\\na good job!\\c"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "It received Exp. Points for helping out!\\c"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "They received Exp. Points for helping out!\\c"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "The client seems happier than they\u2019ve ever been\\nwith the help of your Pok\u00E9mon.\\r\\nKeep up the good work!\\c"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "The client seems happier than they\u2019ve ever been\\nwith the help of your Pok\u00E9mon.\\r\\nKeep up the good work!\\c"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "The client was very happy with the help your\\nPok\u00E9mon provided.\\r\\nKeep doing your best to make clients happy!\\c"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "The Pok\u00E9mon you sent helped out with the job,\\nbut struggled a little.\\r\\nTry sending Pok\u00E9mon more suited for the job\\r\\nnext time!\\c"
+  },
+  {
+    "index": 116,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0007)]As thanks for doing a great job, you received\\n[VAR 0201(0002)] [VAR 010A(0001)].\\c"
+  },
+  {
+    "index": 117,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0007)]As thanks for doing a good job, you received\\n[VAR 0201(0002)] [VAR 010A(0001)].\\c"
+  },
+  {
+    "index": 118,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0007)]As thanks for sending help, you received\\n[VAR 0201(0002)] [VAR 010A(0001)].\\c"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "\u002B[VAR 0206(0000,002C)]"
+  },
+  {
+    "index": 120,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0006)]As thanks for doing a great job, you received\\n\uE300[VAR 0206(0001,002C)].\\c"
+  },
+  {
+    "index": 121,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0006)]As thanks for doing a good job, you received\\n\uE300[VAR 0206(0001,0000)].\\c"
+  },
+  {
+    "index": 122,
+    "flags": 4,
+    "text": "It seems like [VAR 0102(0000)] has something to\\ngive you.\\c\\n[VAR BE05(0006)]As thanks for sending help, you received\\n\uE300[VAR 0206(0001,0000)].\\c"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "The Pok\u00E9mon you sent out earned\\n[VAR 010D(0000)] base points!\\c"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "The Pok\u00E9mon you sent out earned\\n[VAR 010D(0000)] base points!\\c"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 129,
+    "flags": 0,
+    "text": "dummy"
+  },
+  {
+    "index": 130,
+    "flags": 0,
+    "text": "[~ 130]"
+  },
+  {
+    "index": 131,
+    "flags": 0,
+    "text": "[~ 131]"
+  },
+  {
+    "index": 132,
+    "flags": 0,
+    "text": "[~ 132]"
+  },
+  {
+    "index": 133,
+    "flags": 0,
+    "text": "What do you want to do with [VAR 0102(0000)]?"
+  },
+  {
+    "index": 134,
+    "flags": 0,
+    "text": "Check summary"
+  },
+  {
+    "index": 135,
+    "flags": 0,
+    "text": "Back"
+  },
+  {
+    "index": 136,
+    "flags": 0,
+    "text": "Safety checks"
+  },
+  {
+    "index": 137,
+    "flags": 0,
+    "text": "We need some help doing maintenance, so\\nif we could get Pok\u00E9mon that are good with\\nhigh places, that would be great."
+  },
+  {
+    "index": 138,
+    "flags": 0,
+    "text": "Flight escort"
+  },
+  {
+    "index": 139,
+    "flags": 4,
+    "text": "I would like Dragon-type Pok\u00E9mon!\\nThese sacred creatures of legend are the\\nmost fitting to watch over my air travels!"
+  },
+  {
+    "index": 140,
+    "flags": 0,
+    "text": "Dependable security guard"
+  },
+  {
+    "index": 141,
+    "flags": 4,
+    "text": "I work in airport security.\\nWe\u2019d like to get Pok\u00E9mon that are skilled in\\nmartial arts to come help us out."
+  },
+  {
+    "index": 142,
+    "flags": 0,
+    "text": "Fixing up the city\u2019s electrical grid"
+  },
+  {
+    "index": 143,
+    "flags": 0,
+    "text": "We need some help setting up power lines.\\nIt\u2019d be great if we could get Pok\u00E9mon that are\\nimmune to electricity."
+  },
+  {
+    "index": 144,
+    "flags": 0,
+    "text": "Fixing up the city\u2019s lights"
+  },
+  {
+    "index": 145,
+    "flags": 0,
+    "text": "We need to do some work on power lines, so\\nif we could get Pok\u00E9mon that are good at\\nmanipulating electricity, that\u2019d be great."
+  },
+  {
+    "index": 146,
+    "flags": 0,
+    "text": "Railcar inspection and maintenance"
+  },
+  {
+    "index": 147,
+    "flags": 0,
+    "text": "We would like some help from Pok\u00E9mon that\\nknow a lot about metal. You know, Pok\u00E9mon that\\nare pretty metallic themselves!"
+  },
+  {
+    "index": 148,
+    "flags": 0,
+    "text": "Pok\u00E9mon strong against physical attacks"
+  },
+  {
+    "index": 149,
+    "flags": 0,
+    "text": "They might get zapped a bit by electricity, but\\nwe would really like to get some powerful\\nPok\u00E9mon that are good with rocky terrain!"
+  },
+  {
+    "index": 150,
+    "flags": 0,
+    "text": "Substation servicing"
+  },
+  {
+    "index": 151,
+    "flags": 0,
+    "text": "When it comes to inspecting transformer\\nstations, nothing does a better job than\\nElectric-type Pok\u00E9mon!"
+  },
+  {
+    "index": 152,
+    "flags": 0,
+    "text": "Pok\u00E9mon resistant to chemicals, please..."
+  },
+  {
+    "index": 153,
+    "flags": 0,
+    "text": "We are running some experiments involving\\nchemical reactions. We\u2019d like to receive Pok\u00E9mon\\nthat can withstand hazardous chemicals!"
+  },
+  {
+    "index": 154,
+    "flags": 0,
+    "text": "Researching mysterious powers"
+  },
+  {
+    "index": 155,
+    "flags": 0,
+    "text": "Please let us research the mysterious psychic\\npowers that certain Pok\u00E9mon can use."
+  },
+  {
+    "index": 156,
+    "flags": 0,
+    "text": "Solving unsolved mysteries"
+  },
+  {
+    "index": 157,
+    "flags": 4,
+    "text": "In order to help us solve many inexplicable\\nmysteries, please send us Pok\u00E9mon that are\\nreally haunting."
+  },
+  {
+    "index": 158,
+    "flags": 0,
+    "text": "Horror TV show production"
+  },
+  {
+    "index": 159,
+    "flags": 4,
+    "text": "I want to create a horror show the likes of which\\nhave never been seen. Please send me Pok\u00E9mon\\nthat are good at being terrifying!"
+  },
+  {
+    "index": 160,
+    "flags": 0,
+    "text": "Muscle talk"
+  },
+  {
+    "index": 161,
+    "flags": 4,
+    "text": "I want to inform people about the importance of\\nkeeping in shape! Could you send me Pok\u00E9mon\\nwith amazing muscles?"
+  },
+  {
+    "index": 162,
+    "flags": 0,
+    "text": "Cooking competition show"
+  },
+  {
+    "index": 163,
+    "flags": 4,
+    "text": "I\u2019m looking to create a red-hot cooking\\ncompetition show\u2014one that\u2019s on FIRE! Do you\\nhave any ideas for Pok\u00E9mon that\u2019d help?"
+  },
+  {
+    "index": 164,
+    "flags": 0,
+    "text": "Construction work, heavy lifting"
+  },
+  {
+    "index": 165,
+    "flags": 0,
+    "text": "Construction needs power!\\nPower means muscles!\\nPlease send Pok\u00E9mon with big muscles!"
+  },
+  {
+    "index": 166,
+    "flags": 4,
+    "text": "Appearances matter for security guards"
+  },
+  {
+    "index": 167,
+    "flags": 0,
+    "text": "There\u2019s a dangerous area we need to keep folks\\nout of. I need fierce-looking Pok\u00E9mon. No need\\nfor them to do anything. I just need them around."
+  },
+  {
+    "index": 168,
+    "flags": 0,
+    "text": "Construction survey"
+  },
+  {
+    "index": 169,
+    "flags": 4,
+    "text": "I\u2019d like to do a proper survey of the land\\ncondition before we begin construction.\\nAre there Pok\u00E9mon that could help me out?"
+  },
+  {
+    "index": 170,
+    "flags": 0,
+    "text": "Normal help is the best help"
+  },
+  {
+    "index": 171,
+    "flags": 4,
+    "text": "I want to create dishes that\u2019ll be accepted by\\neveryone. I\u2019d like to get input from common,\\nplain, normal Pok\u00E9mon."
+  },
+  {
+    "index": 172,
+    "flags": 0,
+    "text": "Cold delivery"
+  },
+  {
+    "index": 173,
+    "flags": 4,
+    "text": "In order to transport frozen foods in the perfect\\nenvironment, we need some chilly Pok\u00E9mon."
+  },
+  {
+    "index": 174,
+    "flags": 0,
+    "text": "Good water makes good food"
+  },
+  {
+    "index": 175,
+    "flags": 0,
+    "text": "Clean water is the basis for delicious meals!\\nWe\u2019d like to hire Pok\u00E9mon that have an eye for\\nwater quality."
+  },
+  {
+    "index": 176,
+    "flags": 0,
+    "text": "Looking to promote insurance policies"
+  },
+  {
+    "index": 177,
+    "flags": 0,
+    "text": "The sole purpose of this job is to demonstrate\\nthe dangers of poison\u2014nothing more.\\nShow us your best moves!"
+  },
+  {
+    "index": 178,
+    "flags": 4,
+    "text": "A type that can handle danger, please"
+  },
+  {
+    "index": 179,
+    "flags": 0,
+    "text": "Transporting money can be dangerous.\\nWe\u2019d like to hire Pok\u00E9mon that have a dark\\naura about them, to scare away any bad guys."
+  },
+  {
+    "index": 180,
+    "flags": 0,
+    "text": "To protect our investments"
+  },
+  {
+    "index": 181,
+    "flags": 0,
+    "text": "We\u2019d like to see Pok\u00E9mon that look strong\\nenough to deter even the most determined\\ncriminals. Please send us Dragon types!"
+  },
+  {
+    "index": 182,
+    "flags": 0,
+    "text": "We need help in the air"
+  },
+  {
+    "index": 183,
+    "flags": 4,
+    "text": "On and on, over the horizon...\\nWe hope that Pok\u00E9mon that have fallen in love\\nwith the sky will come fly with us."
+  },
+  {
+    "index": 184,
+    "flags": 0,
+    "text": "Pok\u00E9mon that can deliver in any weather"
+  },
+  {
+    "index": 185,
+    "flags": 0,
+    "text": "We would like to hire Dragon-type Pok\u00E9mon\\ncapable of flying through even the roughest\\nweather conditions."
+  },
+  {
+    "index": 186,
+    "flags": 0,
+    "text": "[~ 186]"
+  },
+  {
+    "index": 187,
+    "flags": 0,
+    "text": "[~ 187]"
+  },
+  {
+    "index": 188,
+    "flags": 0,
+    "text": "We need some solid help for shipping"
+  },
+  {
+    "index": 189,
+    "flags": 0,
+    "text": "We\u2019d really appreciate getting solid Pok\u00E9mon\\nthat are really well-grounded to help us lug\\nsome big luggage."
+  },
+  {
+    "index": 190,
+    "flags": 0,
+    "text": "Time to do some maintenance"
+  },
+  {
+    "index": 191,
+    "flags": 0,
+    "text": "There\u2019ve been some problems reported about\\nthe tracks we use. We\u2019d like Steel-type Pok\u00E9mon\\nto come have a look for us."
+  },
+  {
+    "index": 192,
+    "flags": 0,
+    "text": "We need Pok\u00E9mon that can handle cold"
+  },
+  {
+    "index": 193,
+    "flags": 0,
+    "text": "We need to get our shipments through blizzards,\\nand the best type of Pok\u00E9mon to do that is\\nIce-type Pok\u00E9mon!"
+  },
+  {
+    "index": 194,
+    "flags": 0,
+    "text": "We need some quick cleaning!"
+  },
+  {
+    "index": 195,
+    "flags": 0,
+    "text": "Looking for housekeeping services!\\nWe need a Pok\u00E9mon that can quickly clean up\\nany mess like a little house fairy!"
+  },
+  {
+    "index": 196,
+    "flags": 0,
+    "text": "Provide the best service at all times!"
+  },
+  {
+    "index": 197,
+    "flags": 0,
+    "text": "We need Normal-type Pok\u00E9mon, since they\u2019re\\ngood at handling all sorts of different customers."
+  },
+  {
+    "index": 198,
+    "flags": 0,
+    "text": "The delicious secret of our hotel"
+  },
+  {
+    "index": 199,
+    "flags": 0,
+    "text": "The secret to cooking is fire!\\nWe welcome any Fire-type Pok\u00E9mon, as they\u2019re\\ngreat at working with flames."
+  },
+  {
+    "index": 200,
+    "flags": 0,
+    "text": "Cute, fantastical Pok\u00E9mon wanted"
+  },
+  {
+    "index": 201,
+    "flags": 0,
+    "text": "We need help cleaning up guest rooms.\\nWe would like Pok\u00E9mon that are cute and pure\\nto come help us out."
+  },
+  {
+    "index": 202,
+    "flags": 0,
+    "text": "Capable customer reception required"
+  },
+  {
+    "index": 203,
+    "flags": 0,
+    "text": "We would like to have Normal-type Pok\u00E9mon\\nfor customer reception, as they are able to\\nhandle many different situations and tasks."
+  },
+  {
+    "index": 204,
+    "flags": 0,
+    "text": "Cooking temperature is all important"
+  },
+  {
+    "index": 205,
+    "flags": 4,
+    "text": "Our cook needs assistants!\\nPlease send Fire-type Pok\u00E9mon that are good\\nat maintaining perfect cooking temperatures!"
+  },
+  {
+    "index": 206,
+    "flags": 4,
+    "text": "A show that will chill you to the bone..."
+  },
+  {
+    "index": 207,
+    "flags": 0,
+    "text": "We\u2019re doing a show about haunted photos.\\nCould we get Pok\u00E9mon that would make\\nconvincing photos of this sort?"
+  },
+  {
+    "index": 208,
+    "flags": 4,
+    "text": "A super-exciting show!"
+  },
+  {
+    "index": 209,
+    "flags": 0,
+    "text": "We want to make movies that really have a sense\\nof impact\u2014of scale. Could we hire Dragon-type\\nPok\u00E9mon to help out?"
+  },
+  {
+    "index": 210,
+    "flags": 4,
+    "text": "A good show about cleaning"
+  },
+  {
+    "index": 211,
+    "flags": 0,
+    "text": "We\u2019re doing a special on sewer systems!\\nCould we get Poison-type Pok\u00E9mon? They\\ncan handle the smell."
+  },
+  {
+    "index": 212,
+    "flags": 0,
+    "text": "To meet our customers\u2019 needs!"
+  },
+  {
+    "index": 213,
+    "flags": 0,
+    "text": "System engineers need to be able to tell\\nexactly what customers want. Send us Pok\u00E9mon\\nthat can read minds somehow."
+  },
+  {
+    "index": 214,
+    "flags": 0,
+    "text": "Keep an eye on our network!"
+  },
+  {
+    "index": 215,
+    "flags": 4,
+    "text": "It\u2019s a simple job of just keeping an eye on our\\nvarious networks. Please send us Pok\u00E9mon that\\nare good with different signals and wavelengths."
+  },
+  {
+    "index": 216,
+    "flags": 0,
+    "text": "Check with psychic powers!"
+  },
+  {
+    "index": 217,
+    "flags": 0,
+    "text": "Debugging can be mind-bending sometimes...\\nAre there Pok\u00E9mon that could maybe use some\\nmysterious powers to find bugs?"
+  },
+  {
+    "index": 218,
+    "flags": 0,
+    "text": "Handling complaints"
+  },
+  {
+    "index": 219,
+    "flags": 0,
+    "text": "Complaint management means dealing with the\\ngrudges and curses of the customers.\\nIs there a type of Pok\u00E9mon that loves these?"
+  },
+  {
+    "index": 220,
+    "flags": 0,
+    "text": "Help with cooking!"
+  },
+  {
+    "index": 221,
+    "flags": 0,
+    "text": "Need cooking assistants.\\nMust be good with fire."
+  },
+  {
+    "index": 222,
+    "flags": 0,
+    "text": "We want sparkly clean floors!"
+  },
+  {
+    "index": 223,
+    "flags": 0,
+    "text": "We need help waxing the floors!\\nAccepting any Pok\u00E9mon that can make the floors\\nhere chillingly easy to slip on!"
+  },
+  {
+    "index": 224,
+    "flags": 4,
+    "text": "I want more contracts!"
+  },
+  {
+    "index": 225,
+    "flags": 4,
+    "text": "I feel like I could get more contracts if I was with\\nPok\u00E9mon that look like they\u2019ve actually seen\\nthe afterlife!"
+  },
+  {
+    "index": 226,
+    "flags": 0,
+    "text": "Not trying to scare anyone..."
+  },
+  {
+    "index": 227,
+    "flags": 4,
+    "text": "I\u2019d like to do my rounds with Dark-type Pok\u00E9mon\\nto give my offers a bit more...gravitas."
+  },
+  {
+    "index": 228,
+    "flags": 0,
+    "text": "Cute receptionists, please"
+  },
+  {
+    "index": 229,
+    "flags": 0,
+    "text": "We\u2019d like cute, delicate Pok\u00E9mon to man our\\nfront desk. It would do wonders to add some\\ncheer to the place!"
+  },
+  {
+    "index": 230,
+    "flags": 0,
+    "text": "To provide the best customer care"
+  },
+  {
+    "index": 231,
+    "flags": 0,
+    "text": "We are looking for Normal-type Pok\u00E9mon that\\ncan flexibly respond to the needs of all\\nour customers."
+  },
+  {
+    "index": 232,
+    "flags": 0,
+    "text": "We want help solving problems!"
+  },
+  {
+    "index": 233,
+    "flags": 0,
+    "text": "We are looking for Psychic-type Pok\u00E9mon\\nso that they can sense the thoughts and needs\\nof any customer experiencing troubles."
+  },
+  {
+    "index": 234,
+    "flags": 0,
+    "text": "To keep our guests toasty warm"
+  },
+  {
+    "index": 235,
+    "flags": 0,
+    "text": "We are looking for Fire-type Pok\u00E9mon so that\\ncustomers who are sensitive to the cold can have\\nrooms that are toasty warm."
+  },
+  {
+    "index": 236,
+    "flags": 0,
+    "text": "Mixing together dangerous chemicals"
+  },
+  {
+    "index": 237,
+    "flags": 4,
+    "text": "One man\u2019s poison is another man\u2019s tonic.\\nWe would like Poison-type Pok\u00E9mon to help\\nus prepare prescriptions."
+  },
+  {
+    "index": 238,
+    "flags": 0,
+    "text": "Pok\u00E9mon immune to poison, please!"
+  },
+  {
+    "index": 239,
+    "flags": 0,
+    "text": "We sometimes need to make use of potentially\\npoisonous chemicals. We would like Steel-type\\nPok\u00E9mon since they are immune to poison."
+  },
+  {
+    "index": 240,
+    "flags": 0,
+    "text": "Customer acquisition"
+  },
+  {
+    "index": 241,
+    "flags": 0,
+    "text": "We\u2019d like to have Pok\u00E9mon that are cute and\\ncharming come over to help attract customers!"
+  },
+  {
+    "index": 242,
+    "flags": 4,
+    "text": "Into the shrubbery!"
+  },
+  {
+    "index": 243,
+    "flags": 0,
+    "text": "We often have to make deliveries to really\\ngrassy areas, so Grass-type Pok\u00E9mon would be\\na huge help."
+  },
+  {
+    "index": 244,
+    "flags": 0,
+    "text": "Help wanted finding books"
+  },
+  {
+    "index": 245,
+    "flags": 0,
+    "text": "We would really be grateful if Psychic-type\\nPok\u00E9mon could come and use its powers to\\nquickly search for the books we have in stock!"
+  },
+  {
+    "index": 246,
+    "flags": 0,
+    "text": "Help wanted carrying books"
+  },
+  {
+    "index": 247,
+    "flags": 0,
+    "text": "We would like to have really strong Pok\u00E9mon\\ncome help us, since we need to carry heavy\\nbooks like dictionaries and whatnot."
+  },
+  {
+    "index": 248,
+    "flags": 0,
+    "text": "Spreading spooky knowledge"
+  },
+  {
+    "index": 249,
+    "flags": 4,
+    "text": "I want to set up a section on occult books!\\nDo you think you could send me Ghost-type\\nPok\u00E9mon to do the advertising?"
+  },
+  {
+    "index": 250,
+    "flags": 0,
+    "text": "Recording the cries of bugs"
+  },
+  {
+    "index": 251,
+    "flags": 0,
+    "text": "Recordings of the superb cries of Bug-type\\nPok\u00E9mon are all the rage now, and we\u2019d like\\nto record yours, too!"
+  },
+  {
+    "index": 252,
+    "flags": 0,
+    "text": "We need some music around here"
+  },
+  {
+    "index": 253,
+    "flags": 0,
+    "text": "We need help wiring up audio equipment and\\nthe like. Pok\u00E9mon that have a knack for that sort\\nof thing are more than welcome."
+  },
+  {
+    "index": 254,
+    "flags": 0,
+    "text": "Keeping our veggies fresh"
+  },
+  {
+    "index": 255,
+    "flags": 0,
+    "text": "Vegetables need to be crisp and well hydrated!\\nWe\u2019d love to have some Water-type Pok\u00E9mon\\ncome and help us out."
+  },
+  {
+    "index": 256,
+    "flags": 4,
+    "text": "A speedy delivery!"
+  },
+  {
+    "index": 257,
+    "flags": 0,
+    "text": "Food needs to be delivered fresh!\\nWe need help from Pok\u00E9mon that are at home\\nin the sky!"
+  },
+  {
+    "index": 258,
+    "flags": 4,
+    "text": "Our specialty dishes"
+  },
+  {
+    "index": 259,
+    "flags": 0,
+    "text": "We\u2019re awful proud of the grill here at our\\nrestaurant. We\u2019d be grateful for Pok\u00E9mon\\nthat can keep the flame going while we grill!"
+  },
+  {
+    "index": 260,
+    "flags": 0,
+    "text": "Recruiting customer support"
+  },
+  {
+    "index": 261,
+    "flags": 4,
+    "text": "All our customers must be treated equally!\\nWe need exemplary Normal-type Pok\u00E9mon\\nto help us out!"
+  },
+  {
+    "index": 262,
+    "flags": 0,
+    "text": "Surprise delivery"
+  },
+  {
+    "index": 263,
+    "flags": 0,
+    "text": "We firmly believe that surprise is the spice of life.\\nWe\u2019d like to get Pok\u00E9mon that can bring people\u2019s\\norders with a little dash of horror."
+  },
+  {
+    "index": 264,
+    "flags": 0,
+    "text": "Gotta keep things growing!"
+  },
+  {
+    "index": 265,
+    "flags": 0,
+    "text": "The dirt dictates how well plants do.\\nWe ask Ground-type Pok\u00E9mon to come and help\\nus create fertilizer."
+  },
+  {
+    "index": 266,
+    "flags": 4,
+    "text": "Our flowers need help"
+  },
+  {
+    "index": 267,
+    "flags": 4,
+    "text": "All plants need water!\\nAnd as it so happens, Water-type Pok\u00E9mon are\\nthe best at watering plants!"
+  },
+  {
+    "index": 268,
+    "flags": 4,
+    "text": "I want my plants to grow"
+  },
+  {
+    "index": 269,
+    "flags": 4,
+    "text": "I\u2019ve got some plants that only grow on rocky\\nterrain. I\u2019d like some rough, Rock-type Pok\u00E9mon\\nto keep my precious plants company."
+  },
+  {
+    "index": 270,
+    "flags": 0,
+    "text": "Looking for flowers"
+  },
+  {
+    "index": 271,
+    "flags": 4,
+    "text": "I want to go to the forest to pick flowers, but it\u2019s\\nfull of dangers! Could I have some Poison-type\\nPok\u00E9mon, since they\u2019re good against plants?"
+  },
+  {
+    "index": 272,
+    "flags": 0,
+    "text": "To make our food even more delicious"
+  },
+  {
+    "index": 273,
+    "flags": 0,
+    "text": "We need Dragon-type Pok\u00E9mon to help us\\nprepare our food before we cook it.\\nWe\u2019re not sure why!"
+  },
+  {
+    "index": 274,
+    "flags": 0,
+    "text": "You can\u2019t cook without it!"
+  },
+  {
+    "index": 275,
+    "flags": 4,
+    "text": "Ice is needed for everything in the food industry,\\nwhether it\u2019s for dishes or drinks. We need the\\nhelp of Ice-type Pok\u00E9mon!"
+  },
+  {
+    "index": 276,
+    "flags": 0,
+    "text": "To properly season our dishes"
+  },
+  {
+    "index": 277,
+    "flags": 0,
+    "text": "Rock salt, as the name implies, can be found\\nwithin rocks. We need the help of rock-solid\\nPok\u00E9mon to get it!"
+  },
+  {
+    "index": 278,
+    "flags": 0,
+    "text": "We\u2019ve started a food delivery service"
+  },
+  {
+    "index": 279,
+    "flags": 0,
+    "text": "Food is best eaten hot! We\u2019d like to see some\\nFlying-type Pok\u00E9mon to help fly our meals\\ndirectly to our customers."
+  },
+  {
+    "index": 280,
+    "flags": 0,
+    "text": "Good water for our desserts"
+  },
+  {
+    "index": 281,
+    "flags": 4,
+    "text": "In order to create delicious, moist desserts,\\nI would like to ask for Water-type Pok\u00E9mon to\\nhelp in measuring out the ingredients."
+  },
+  {
+    "index": 282,
+    "flags": 0,
+    "text": "To make delightfully chilled desserts"
+  },
+  {
+    "index": 283,
+    "flags": 4,
+    "text": "In order to make delightfully chilled desserts,\\nI would like to have some Ice-type Pok\u00E9mon\\ncome to help out with temperature management."
+  },
+  {
+    "index": 284,
+    "flags": 0,
+    "text": "The basics of cooking"
+  },
+  {
+    "index": 285,
+    "flags": 4,
+    "text": "In order to ensure the perfect stove temperature\\nwhen cooking, I want to have Pok\u00E9mon that are\\ngood at burning things come help."
+  },
+  {
+    "index": 286,
+    "flags": 4,
+    "text": "Add a bit of color and fragrance"
+  },
+  {
+    "index": 287,
+    "flags": 4,
+    "text": "It would be marvelous if we could decorate our\\nmerchandise shelves with lots of plants.\\nCould we have Grass-type Pok\u00E9mon come help?"
+  },
+  {
+    "index": 288,
+    "flags": 0,
+    "text": "What it means to roast beans"
+  },
+  {
+    "index": 289,
+    "flags": 0,
+    "text": "The temperature needs to be just right when\\nroasting coffee beans. Would you be so kind as\\nto send over Fire-type Pok\u00E9mon?"
+  },
+  {
+    "index": 290,
+    "flags": 0,
+    "text": "We want to use the best water"
+  },
+  {
+    "index": 291,
+    "flags": 0,
+    "text": "We want to take particular care in what water we\\nuse to brew my coffee. I\u2019d like Pok\u00E9mon that are\\nknowledgeable about such things."
+  },
+  {
+    "index": 292,
+    "flags": 0,
+    "text": "For safe and quick deliveries"
+  },
+  {
+    "index": 293,
+    "flags": 0,
+    "text": "Swift and graceful deliveries!\\nWe\u2019d like to have Flying-type Pok\u00E9mon like\\nPelipper come help us out!"
+  },
+  {
+    "index": 294,
+    "flags": 0,
+    "text": "We need help sorting our packages"
+  },
+  {
+    "index": 295,
+    "flags": 0,
+    "text": "We\u2019re recruiting for help sorting out electronics\\nthat need to delivered. We\u2019re looking for\\nPok\u00E9mon that are good with metal."
+  },
+  {
+    "index": 296,
+    "flags": 4,
+    "text": "I want our ranch to be a good place"
+  },
+  {
+    "index": 297,
+    "flags": 0,
+    "text": "Please send Grass-type Pok\u00E9mon that can keep\\nan eye on the quality of the turf around\\nour ranch!"
+  },
+  {
+    "index": 298,
+    "flags": 0,
+    "text": "So that our crops stay healthy"
+  },
+  {
+    "index": 299,
+    "flags": 0,
+    "text": "We are welcoming Bug-type Pok\u00E9mon to help\\nthin out the weeds growing in our farmland!"
+  },
+  {
+    "index": 300,
+    "flags": 0,
+    "text": "Need help plowing fields"
+  },
+  {
+    "index": 301,
+    "flags": 4,
+    "text": "Any Pok\u00E9mon that have strong arms are\\nwelcome. We need help plowing our fields!"
+  },
+  {
+    "index": 302,
+    "flags": 0,
+    "text": "Help wanted on our farm"
+  },
+  {
+    "index": 303,
+    "flags": 0,
+    "text": "Nobody can deny that Grass-type Pok\u00E9mon\\nare the best at handling plants! We would be\\noverjoyed if some could help us out!"
+  },
+  {
+    "index": 304,
+    "flags": 0,
+    "text": "Time to harvest!"
+  },
+  {
+    "index": 305,
+    "flags": 0,
+    "text": "We\u2019re hoping to get some help for harvesting\\nour vegetables. Bug-type Pok\u00E9mon are always\\na huge help!"
+  },
+  {
+    "index": 306,
+    "flags": 0,
+    "text": "Need help watering wide areas"
+  },
+  {
+    "index": 307,
+    "flags": 0,
+    "text": "We are looking to water our plants from the sky.\\nFlying-type Pok\u00E9mon, please feel free to apply!"
+  },
+  {
+    "index": 308,
+    "flags": 0,
+    "text": "So you think you\u2019re strong?"
+  },
+  {
+    "index": 309,
+    "flags": 4,
+    "text": "A strong body is the greatest tool on any\\nconstruction site! We\u2019re looking for\\nFighting-type Pok\u00E9mon!"
+  },
+  {
+    "index": 310,
+    "flags": 0,
+    "text": "Making a sound foundation"
+  },
+  {
+    "index": 311,
+    "flags": 0,
+    "text": "We need to level the ground where we\u2019re\\nplanning to do construction. We really need\\nGround-type Pok\u00E9mon to help us out!"
+  },
+  {
+    "index": 312,
+    "flags": 0,
+    "text": "Falling rocks hurt quite a bit"
+  },
+  {
+    "index": 313,
+    "flags": 0,
+    "text": "Falling rocks can be a real hazard where we work.\\nPok\u00E9mon that know a lot about rocks,\\nplease help!"
+  },
+  {
+    "index": 314,
+    "flags": 0,
+    "text": "Nothing too serious"
+  },
+  {
+    "index": 315,
+    "flags": 0,
+    "text": "We\u2019ve had some problems with people falling\\nasleep on the job. We\u2019d like to have intimidating\\nPok\u00E9mon around to keep an eye on things."
+  },
+  {
+    "index": 316,
+    "flags": 0,
+    "text": "Foundation for assembling railcars"
+  },
+  {
+    "index": 317,
+    "flags": 0,
+    "text": "We are building teams that will assemble our\\nrailcars. We\u2019re looking for Ground-type\\nPok\u00E9mon to help us out."
+  },
+  {
+    "index": 318,
+    "flags": 4,
+    "text": "Assembling our trains"
+  },
+  {
+    "index": 319,
+    "flags": 0,
+    "text": "We need Steel-type Pok\u00E9mon and their skill\\nin using metal and machines to help assemble\\nour railcars."
+  },
+  {
+    "index": 320,
+    "flags": 0,
+    "text": "Testing our railcars"
+  },
+  {
+    "index": 321,
+    "flags": 0,
+    "text": "We would appreciate Electric-type Pok\u00E9mon\\nthat could help power the machinery used in\\nassembly of our railcars."
+  },
+  {
+    "index": 322,
+    "flags": 4,
+    "text": "Assembling ships"
+  },
+  {
+    "index": 323,
+    "flags": 0,
+    "text": "Ship assembly requires a lot of steel to be cut.\\nWe\u2019re looking for Steel-type Pok\u00E9mon to come\\nhelp us out!"
+  },
+  {
+    "index": 324,
+    "flags": 0,
+    "text": "Hull inspectors wanted!"
+  },
+  {
+    "index": 325,
+    "flags": 0,
+    "text": "We need Water-type Pok\u00E9mon to dive beneath\\nthe ships and inspect the hulls."
+  },
+  {
+    "index": 326,
+    "flags": 0,
+    "text": "We\u2019re building a massive ship!"
+  },
+  {
+    "index": 327,
+    "flags": 0,
+    "text": "When building ships, we use electricity to\\nweld large blocks together. We would like\\nPok\u00E9mon that could help out with this."
+  },
+  {
+    "index": 328,
+    "flags": 0,
+    "text": "Building a solid car"
+  },
+  {
+    "index": 329,
+    "flags": 0,
+    "text": "Solid, steady Ground-type Pok\u00E9mon provide\\nthe ideal foundation to build cars upon!\\nLet\u2019s build cars together!"
+  },
+  {
+    "index": 330,
+    "flags": 4,
+    "text": "As guidelines for durability"
+  },
+  {
+    "index": 331,
+    "flags": 0,
+    "text": "We need superbly durable Steel-type Pok\u00E9mon\\nto help out with car manufacturing.\\nLet\u2019s build cars together!"
+  },
+  {
+    "index": 332,
+    "flags": 0,
+    "text": "Show us your motivation"
+  },
+  {
+    "index": 333,
+    "flags": 0,
+    "text": "We need Pok\u00E9mon with burning motivation\u2014\\na fire in their hearts!\\nWe need the heat of your passion!"
+  },
+  {
+    "index": 334,
+    "flags": 0,
+    "text": "Poison against poison, just in case"
+  },
+  {
+    "index": 335,
+    "flags": 0,
+    "text": "We would like to enlist the help of Poison-type\\nPok\u00E9mon, as they are no doubt resistant\\nto toxins."
+  },
+  {
+    "index": 336,
+    "flags": 4,
+    "text": "Experimenting with medicinal herbs"
+  },
+  {
+    "index": 337,
+    "flags": 0,
+    "text": "Medicinal herbs are best handled by Pok\u00E9mon\\nthat are familiar with various leaves and roots."
+  },
+  {
+    "index": 338,
+    "flags": 0,
+    "text": "We need some nets!"
+  },
+  {
+    "index": 339,
+    "flags": 0,
+    "text": "The only Pok\u00E9mon capable of creating nets that\\nare both durable and flexible are Bug-type\\nPok\u00E9mon! We want you!"
+  },
+  {
+    "index": 340,
+    "flags": 0,
+    "text": "Delicious delightful ice cream"
+  },
+  {
+    "index": 341,
+    "flags": 4,
+    "text": "I want to make a deliciously chilled ice cream.\\nPlease send Ice-type Pok\u00E9mon!"
+  },
+  {
+    "index": 342,
+    "flags": 0,
+    "text": "We need taste testers, please!"
+  },
+  {
+    "index": 343,
+    "flags": 4,
+    "text": "I would like Normal-type Pok\u00E9mon to show off\\nhow delicious my sweets are by eating them in a\\ndelicious way."
+  },
+  {
+    "index": 344,
+    "flags": 0,
+    "text": "Making sweets is all about the image!"
+  },
+  {
+    "index": 345,
+    "flags": 4,
+    "text": "I really want to emphasize how light and fluffy\\nour products are. Please send\\nFairy-type Pok\u00E9mon!"
+  },
+  {
+    "index": 346,
+    "flags": 0,
+    "text": "Need some help with digging"
+  },
+  {
+    "index": 347,
+    "flags": 0,
+    "text": "We need Pok\u00E9mon that know a lot about the\\nground, since we\u2019re trying to mine the ore here in\\nthe Galar region. Please send Ground types!"
+  },
+  {
+    "index": 348,
+    "flags": 0,
+    "text": "Removing impurities"
+  },
+  {
+    "index": 349,
+    "flags": 0,
+    "text": "We need to remove impurities from various\\nmetals. We need Pok\u00E9mon who can handle flame,\\nso please send Fire-type Pok\u00E9mon!"
+  },
+  {
+    "index": 350,
+    "flags": 4,
+    "text": "Electricity is so useful!"
+  },
+  {
+    "index": 351,
+    "flags": 0,
+    "text": "We use electricity to remove impurities from\\ncopper, so we would like to hire\\nElectric-type Pok\u00E9mon!"
+  },
+  {
+    "index": 352,
+    "flags": 0,
+    "text": "Get those rocks out of the way!"
+  },
+  {
+    "index": 353,
+    "flags": 0,
+    "text": "There are always large rocks kicking around the\\nmining area. We\u2019d like to have Rock-type\\nPok\u00E9mon, since they know how to deal with rocks."
+  },
+  {
+    "index": 354,
+    "flags": 0,
+    "text": "Making a fabric that can\u2019t be cut"
+  },
+  {
+    "index": 355,
+    "flags": 0,
+    "text": "We want to develop cloth that can\u2019t be cut, and\\nfor that, we need the help of Bug-type Pok\u00E9mon!\\nPlease send them our way!"
+  },
+  {
+    "index": 356,
+    "flags": 0,
+    "text": "We need Pok\u00E9mon to try on our clothes"
+  },
+  {
+    "index": 357,
+    "flags": 0,
+    "text": "We want to develop durable cloth that can stand\\nup to even the harshest treatment. We request\\nDark-type Pok\u00E9mon to help out with this!"
+  },
+  {
+    "index": 358,
+    "flags": 4,
+    "text": "Even in the vacuum of space"
+  },
+  {
+    "index": 359,
+    "flags": 0,
+    "text": "We\u2019re hoping to create fabric that can be used\\nin space! Please send Flying-type Pok\u00E9mon!"
+  },
+  {
+    "index": 360,
+    "flags": 0,
+    "text": "We need models for our clothing"
+  },
+  {
+    "index": 361,
+    "flags": 0,
+    "text": "We\u2019re trying to make a line of new, adorable\\nclothing pieces. We would like Fairy-type\\nPok\u00E9mon to come help us out."
+  },
+  {
+    "index": 362,
+    "flags": 0,
+    "text": "Making cloth with strong string"
+  },
+  {
+    "index": 363,
+    "flags": 0,
+    "text": "We would like Bug-type Pok\u00E9mon to assist us\\nin producing durable cloth."
+  },
+  {
+    "index": 364,
+    "flags": 0,
+    "text": "Making the perfect cloth"
+  },
+  {
+    "index": 365,
+    "flags": 0,
+    "text": "We want to create the perfect normal cloth.\\nWe need the help of Normal-type Pok\u00E9mon to\\ndo so!"
+  },
+  {
+    "index": 366,
+    "flags": 4,
+    "text": "A fabric that inspires legends"
+  },
+  {
+    "index": 367,
+    "flags": 4,
+    "text": "I want to make a cloth that will inspire legends!\\nI need the help of Dragon-type Pok\u00E9mon to\\nachieve my goal!"
+  },
+  {
+    "index": 368,
+    "flags": 0,
+    "text": "Making cute designs"
+  },
+  {
+    "index": 369,
+    "flags": 4,
+    "text": "I\u2019m attempting to create clothing that is cute\\nbut also a little mystic. I need the help of\\nFairy-type Pok\u00E9mon!"
+  },
+  {
+    "index": 370,
+    "flags": 0,
+    "text": "Developing sports shoes"
+  },
+  {
+    "index": 371,
+    "flags": 0,
+    "text": "We\u2019re making sports shoes!\\nWe\u2019d like to have Bug-type Pok\u00E9mon with\\nlots of legs to help us develop them. Thanks!"
+  },
+  {
+    "index": 372,
+    "flags": 0,
+    "text": "Developing powerful shoes"
+  },
+  {
+    "index": 373,
+    "flags": 0,
+    "text": "We\u2019re making wrestling shoes!\\nWe\u2019d like to have powerful Fighting-type\\nPok\u00E9mon help us develop them. Thanks!"
+  },
+  {
+    "index": 374,
+    "flags": 0,
+    "text": "Creating lightweight shoes"
+  },
+  {
+    "index": 375,
+    "flags": 0,
+    "text": "We\u2019re making running shoes!\\nWe\u2019d like to have Electric-type Pok\u00E9mon that\\ncan run at lightning speeds help us out. Thanks!"
+  },
+  {
+    "index": 376,
+    "flags": 0,
+    "text": "Just keep running!"
+  },
+  {
+    "index": 377,
+    "flags": 0,
+    "text": "We need some Pok\u00E9mon to try on our shoes.\\nTo make sure the shoes can handle rough use,\\nDark-type Pok\u00E9mon would be ideal."
+  },
+  {
+    "index": 378,
+    "flags": 0,
+    "text": "Good cloth requires good string"
+  },
+  {
+    "index": 379,
+    "flags": 0,
+    "text": "To all Bug-type Pok\u00E9mon!\\nPlease come lend us your strength so that we\\ncan create lovely cloth!"
+  },
+  {
+    "index": 380,
+    "flags": 0,
+    "text": "We want to make truly magical cloth"
+  },
+  {
+    "index": 381,
+    "flags": 0,
+    "text": "To all Fairy-type Pok\u00E9mon!\\nPlease come lend us your strength so that we\\ncan create some magical cloth!"
+  },
+  {
+    "index": 382,
+    "flags": 0,
+    "text": "To invent psychic cloth"
+  },
+  {
+    "index": 383,
+    "flags": 0,
+    "text": "To all Psychic-type Pok\u00E9mon!\\nPlease come lend us your strength so that we\\ncan create some absolutely mind-bending cloth!"
+  },
+  {
+    "index": 384,
+    "flags": 0,
+    "text": "Help wanted making luxurious cloth"
+  },
+  {
+    "index": 385,
+    "flags": 4,
+    "text": "If one wants to make a truly luxurious cloth,\\none must use only the best silk.\\nWould any Bug-type Pok\u00E9mon be interested?"
+  },
+  {
+    "index": 386,
+    "flags": 0,
+    "text": "Recruiting detail-oriented Pok\u00E9mon"
+  },
+  {
+    "index": 387,
+    "flags": 0,
+    "text": "High-quality cloth requires delicate and precise\\nhandwork. Are there any Normal-type Pok\u00E9mon\\nthat would like to try?"
+  },
+  {
+    "index": 388,
+    "flags": 0,
+    "text": "That extra mysterious touch"
+  },
+  {
+    "index": 389,
+    "flags": 4,
+    "text": "As a final touch, we like to use psychic powers\\nto make the feel of our cloth truly unique.\\nWould any Psychic-type Pok\u00E9mon be interested?"
+  },
+  {
+    "index": 390,
+    "flags": 0,
+    "text": "Delicate, high-quality fabric"
+  },
+  {
+    "index": 391,
+    "flags": 0,
+    "text": "We\u2019re looking for Bug-type Pok\u00E9mon!\\nLet\u2019s make the most delicate cloth together!"
+  },
+  {
+    "index": 392,
+    "flags": 0,
+    "text": "Multi-purpose fabric development"
+  },
+  {
+    "index": 393,
+    "flags": 0,
+    "text": "We\u2019re looking for Normal-type Pok\u00E9mon!\\nTogether we can make cloth that you can use in\\nany way you like!"
+  },
+  {
+    "index": 394,
+    "flags": 0,
+    "text": "We\u2019re making lenses for glasses"
+  },
+  {
+    "index": 395,
+    "flags": 0,
+    "text": "We use extremely hard rocks for grinding and\\npolishing our lenses. We would like to recruit\\nRock-type Pok\u00E9mon."
+  },
+  {
+    "index": 396,
+    "flags": 4,
+    "text": "Our new line of shoes"
+  },
+  {
+    "index": 397,
+    "flags": 0,
+    "text": "We are planning to use silk to create a new shoe.\\nWe welcome any Bug-type Pok\u00E9mon."
+  },
+  {
+    "index": 398,
+    "flags": 0,
+    "text": "Showing off the durability!"
+  },
+  {
+    "index": 399,
+    "flags": 0,
+    "text": "We want to emphasize how durable our shoes\\nare. We would be very grateful if Fighting-type\\nPok\u00E9mon could come help out."
+  },
+  {
+    "index": 400,
+    "flags": 0,
+    "text": "Hardcore Pok\u00E9mon for a wild product"
+  },
+  {
+    "index": 401,
+    "flags": 0,
+    "text": "We\u2019ve made some really wild, hardcore shoes.\\nWe\u2019d like to get Dark-type Pok\u00E9mon to wear\\nthem, since they\u2019ll fit the image perfectly!"
+  },
+  {
+    "index": 402,
+    "flags": 0,
+    "text": "Making high-quality clothing"
+  },
+  {
+    "index": 403,
+    "flags": 0,
+    "text": "Good cloth requires good silk!\\nPlease send us Bug-type Pok\u00E9mon!"
+  },
+  {
+    "index": 404,
+    "flags": 4,
+    "text": "Aiming for that punk look!"
+  },
+  {
+    "index": 405,
+    "flags": 0,
+    "text": "We want to use poison to dye our cloths in\\nwonderful colors! Please send us your\\nPoison-type Pok\u00E9mon!"
+  },
+  {
+    "index": 406,
+    "flags": 0,
+    "text": "Sailing over the water"
+  },
+  {
+    "index": 407,
+    "flags": 0,
+    "text": "This job involves carrying cargo over the water.\\nWe\u2019re looking for Water-type Pok\u00E9mon."
+  },
+  {
+    "index": 408,
+    "flags": 0,
+    "text": "Cruising through the icy waters"
+  },
+  {
+    "index": 409,
+    "flags": 0,
+    "text": "This job involves carrying cargo over icy seas.\\nWe\u2019re looking for Ice-type Pok\u00E9mon."
+  },
+  {
+    "index": 410,
+    "flags": 0,
+    "text": "To see that we get some magical people"
+  },
+  {
+    "index": 411,
+    "flags": 0,
+    "text": "We\u2019d like to have some purehearted Fairy-type\\nPok\u00E9mon to help us judge the true characters of\\nour workers."
+  },
+  {
+    "index": 412,
+    "flags": 0,
+    "text": "Let\u2019s see what kind of person they are..."
+  },
+  {
+    "index": 413,
+    "flags": 0,
+    "text": "We would like to hire Dark-type Pok\u00E9mon.\\nPeople reveal their true natures when gripped by\\nfear, after all..."
+  },
+  {
+    "index": 414,
+    "flags": 0,
+    "text": "To ensure safe operations"
+  },
+  {
+    "index": 415,
+    "flags": 0,
+    "text": "We need electricity in order to inspect\\nthe monorail! We\u2019re waiting for you,\\nElectric-type Pok\u00E9mon!"
+  },
+  {
+    "index": 416,
+    "flags": 0,
+    "text": "Need to wash away all the grime"
+  },
+  {
+    "index": 417,
+    "flags": 0,
+    "text": "The monorail\u2019s gotten rather dirty, so we\u2019d like\\nWater-type Pok\u00E9mon to come help make it\\nnice and clean!"
+  },
+  {
+    "index": 418,
+    "flags": 4,
+    "text": "Inspection requires strength"
+  },
+  {
+    "index": 419,
+    "flags": 0,
+    "text": "We are looking for Fighting-type Pok\u00E9mon that\\ncan use their strength and skill to help with\\nmonorail inspection and maintenance!"
+  },
+  {
+    "index": 420,
+    "flags": 0,
+    "text": "HP seminar in session!"
+  },
+  {
+    "index": 421,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nHP base points! We\u2019re looking for students to\\nprove its effectiveness!"
+  },
+  {
+    "index": 422,
+    "flags": 4,
+    "text": "Attack seminar in session!"
+  },
+  {
+    "index": 423,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nAttack base points! We\u2019re looking for students to\\nprove its effectiveness!"
+  },
+  {
+    "index": 424,
+    "flags": 0,
+    "text": "Defense seminar in session!"
+  },
+  {
+    "index": 425,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nDefense base points! We\u2019re looking for students\\nto prove its effectiveness!"
+  },
+  {
+    "index": 426,
+    "flags": 0,
+    "text": "Sp. Atk seminar in session!"
+  },
+  {
+    "index": 427,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nSp. Atk base points! We\u2019re looking for students\\nto prove its effectiveness!"
+  },
+  {
+    "index": 428,
+    "flags": 0,
+    "text": "Sp. Def seminar in session!"
+  },
+  {
+    "index": 429,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nSp. Def base points! We\u2019re looking for students\\nto prove its effectiveness!"
+  },
+  {
+    "index": 430,
+    "flags": 0,
+    "text": "Speed seminar in session!"
+  },
+  {
+    "index": 431,
+    "flags": 0,
+    "text": "We\u2019ve started offering a seminar that\u2019ll increase\\nSpeed base points! We\u2019re looking for students\\nto prove its effectiveness!"
+  },
+  {
+    "index": 432,
+    "flags": 0,
+    "text": "Preparing for anything!"
+  },
+  {
+    "index": 433,
+    "flags": 4,
+    "text": "In order to ensure we are prepared for any kind\\nof case, we are searching for Pok\u00E9mon resistant\\nto the Fire, Water, Grass, and Electric types."
+  },
+  {
+    "index": 434,
+    "flags": 0,
+    "text": "Preparing for strange things!"
+  },
+  {
+    "index": 435,
+    "flags": 4,
+    "text": "In order to prepare for particularly strange cases,\\nwe are searching for Pok\u00E9mon resistant to the\\nPsychic, Flying, and Fairy types."
+  },
+  {
+    "index": 436,
+    "flags": 0,
+    "text": "Preparing for nature!"
+  },
+  {
+    "index": 437,
+    "flags": 4,
+    "text": "In order to prepare for cases in natural areas, we\\nare searching for Pok\u00E9mon resistant to the Grass,\\nBug, and Fairy types."
+  },
+  {
+    "index": 438,
+    "flags": 0,
+    "text": "Through water and fire"
+  },
+  {
+    "index": 439,
+    "flags": 0,
+    "text": "Pok\u00E9mon that can push through areas that are\\non fire or dripping water, please come help us!"
+  },
+  {
+    "index": 440,
+    "flags": 4,
+    "text": "Emergency refill needed!"
+  },
+  {
+    "index": 441,
+    "flags": 0,
+    "text": "There\u2019s one thing that we absolutely need to put\\nout fires, and we\u2019re looking for a Pok\u00E9mon that\\ncan help us refill our fire truck!"
+  },
+  {
+    "index": 442,
+    "flags": 0,
+    "text": "Nothing like a little aroma therapy"
+  },
+  {
+    "index": 443,
+    "flags": 4,
+    "text": "Our employees have to go to dangerous places\\nto work, and so we\u2019d like to surround them with\\nsome greenery and nice Pok\u00E9mon for relaxation."
+  },
+  {
+    "index": 444,
+    "flags": 0,
+    "text": "We\u2019ll deliver to any location!"
+  },
+  {
+    "index": 445,
+    "flags": 0,
+    "text": "We\u2019re looking for rugged Pok\u00E9mon that can\\nhandle rain, lightning, and even raging fires!"
+  },
+  {
+    "index": 446,
+    "flags": 4,
+    "text": "Our truck needs a wash"
+  },
+  {
+    "index": 447,
+    "flags": 4,
+    "text": "Our delivery truck\u2019s gotten a bit dirty, so we want\\nto wash it off and make it shine again!\\nWe\u2019re waiting for Pok\u00E9mon that can help!"
+  },
+  {
+    "index": 448,
+    "flags": 0,
+    "text": "Flower delivery service!"
+  },
+  {
+    "index": 449,
+    "flags": 4,
+    "text": "I\u2019ve come up with a brilliant idea... A flower\\ndelivery service! So, please send Pok\u00E9mon that\\nknow a lot about plants and flowers!"
+  },
+  {
+    "index": 450,
+    "flags": 0,
+    "text": "Top-secret project"
+  },
+  {
+    "index": 451,
+    "flags": 0,
+    "text": "wE ARe searChing for somE HelP.\\nTHE wOrk MUst be kepT coMPletEly secreT.\\nWe wiLl PAY You HANdsomly."
+  }
+]

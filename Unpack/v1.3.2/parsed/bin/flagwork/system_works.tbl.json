@@ -1,0 +1,532 @@
+[
+  {
+    "index": 0,
+    "hash": "C0AF8F3B3677602D",
+    "name": "SYS_WORK_FIRST_POKETYPE"
+  },
+  {
+    "index": 1,
+    "hash": "BDA243DCA5D0453A",
+    "name": "SYS_WORK_A_T0101_I0101_REPLACE"
+  },
+  {
+    "index": 2,
+    "hash": "D505EC6DE40A0EF4",
+    "name": "SYS_WORK_A_D0101_FOG_STATE"
+  },
+  {
+    "index": 3,
+    "hash": "1C6ACA848C804D7B",
+    "name": "SYS_WORK_A_D0401_FOG_STATE"
+  },
+  {
+    "index": 4,
+    "hash": "E9F0E67361952B51",
+    "name": "SYS_WORK_POKECAMP_TENT_COLOR"
+  },
+  {
+    "index": 5,
+    "hash": "10697CAEC9A133BC",
+    "name": "SYS_WORK_POKECAMP_SHOP_1"
+  },
+  {
+    "index": 6,
+    "hash": "10697FAEC9A138D5",
+    "name": "SYS_WORK_POKECAMP_SHOP_2"
+  },
+  {
+    "index": 7,
+    "hash": "6CA93E6D99B9F60B",
+    "name": "SYS_WORK_CAPTURE_COUNT"
+  },
+  {
+    "index": 8,
+    "hash": "03F8CBCA3FF17E2F",
+    "name": "SYS_WORK_JK_LIGHT"
+  },
+  {
+    "index": 9,
+    "hash": "7D492E4226FE3E7E",
+    "name": "SYS_WORK_TOURNAMENT_WIN01"
+  },
+  {
+    "index": 10,
+    "hash": "7D492D4226FE3CCB",
+    "name": "SYS_WORK_TOURNAMENT_WIN02"
+  },
+  {
+    "index": 11,
+    "hash": "7D492C4226FE3B18",
+    "name": "SYS_WORK_TOURNAMENT_WIN03"
+  },
+  {
+    "index": 12,
+    "hash": "7D49334226FE46FD",
+    "name": "SYS_WORK_TOURNAMENT_WIN04"
+  },
+  {
+    "index": 13,
+    "hash": "7D49324226FE454A",
+    "name": "SYS_WORK_TOURNAMENT_WIN05"
+  },
+  {
+    "index": 14,
+    "hash": "7D49314226FE4397",
+    "name": "SYS_WORK_TOURNAMENT_WIN06"
+  },
+  {
+    "index": 15,
+    "hash": "7D49304226FE41E4",
+    "name": "SYS_WORK_TOURNAMENT_WIN07"
+  },
+  {
+    "index": 16,
+    "hash": "7D49274226FE3299",
+    "name": "SYS_WORK_TOURNAMENT_WIN08"
+  },
+  {
+    "index": 17,
+    "hash": "CAA6068D15E9A7B6",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY1"
+  },
+  {
+    "index": 18,
+    "hash": "CAA6058D15E9A603",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY2"
+  },
+  {
+    "index": 19,
+    "hash": "CAA6048D15E9A450",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY3"
+  },
+  {
+    "index": 20,
+    "hash": "CAA60B8D15E9B035",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY4"
+  },
+  {
+    "index": 21,
+    "hash": "CAA60A8D15E9AE82",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY5"
+  },
+  {
+    "index": 22,
+    "hash": "CAA6098D15E9ACCF",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY6"
+  },
+  {
+    "index": 23,
+    "hash": "CAA6088D15E9AB1C",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY7"
+  },
+  {
+    "index": 24,
+    "hash": "CAA60F8D15E9B701",
+    "name": "SYS_WORK_TOURNAMENT_ENTRY8"
+  },
+  {
+    "index": 25,
+    "hash": "2FB825F2C4F35C2E",
+    "name": "SYS_WORK_ROTOM_TUUTI"
+  },
+  {
+    "index": 26,
+    "hash": "A904E8FEF64719D9",
+    "name": "SYS_WORK_BICYCLE_CHARGE_LIMIT"
+  },
+  {
+    "index": 27,
+    "hash": "4669C5995D77D781",
+    "name": "SYS_WORK_A_WR0101_REPLACE"
+  },
+  {
+    "index": 28,
+    "hash": "5651041A4CDFE1B5",
+    "name": "SYS_WORK_WATT_SHOP_PATTERN"
+  },
+  {
+    "index": 29,
+    "hash": "50964BE5C23AF741",
+    "name": "SYS_WORK_A_0601_REPLACE"
+  },
+  {
+    "index": 30,
+    "hash": "168286F2363D064C",
+    "name": "SYS_WORK_A_0901_REPLACE"
+  },
+  {
+    "index": 31,
+    "hash": "650DD1B6C1BA2375",
+    "name": "SYS_WORK_AFTER_CLEAR_DEMO"
+  },
+  {
+    "index": 32,
+    "hash": "126493F268DE4CD2",
+    "name": "SYS_WORK_WR_FISHER_LOTTELY"
+  },
+  {
+    "index": 33,
+    "hash": "43DC4D318AD859BF",
+    "name": "SYS_WORK_WR_YAMAOTOKO_LOTTELY"
+  },
+  {
+    "index": 34,
+    "hash": "6DA5083557F29628",
+    "name": "SYS_WORK_BICYCLE_CHARGE_STEP"
+  },
+  {
+    "index": 35,
+    "hash": "1BD80B9D331EF716",
+    "name": "SYS_WORK_ROTOM_TUUTI_R1"
+  },
+  {
+    "index": 36,
+    "hash": "1BD80A9D331EF563",
+    "name": "SYS_WORK_ROTOM_TUUTI_R2"
+  },
+  {
+    "index": 37,
+    "hash": "D2D952E26816DFDB",
+    "name": "SYS_WORK_LOAD"
+  },
+  {
+    "index": 38,
+    "hash": "21F38888BC4ADA83",
+    "name": "SYS_WORK_WR02_TRADE_NPC1_INDEX"
+  },
+  {
+    "index": 39,
+    "hash": "5D66226DAE474936",
+    "name": "SYS_WORK_WR02_TRADE_NPC2_INDEX"
+  },
+  {
+    "index": 40,
+    "hash": "1A97459E6A614361",
+    "name": "SYS_WORK_WR02_TRADE_NPC3_INDEX"
+  },
+  {
+    "index": 41,
+    "hash": "7082412A1DD41D8C",
+    "name": "SYS_WORK_WR02_TRADE_NPC4_INDEX"
+  },
+  {
+    "index": 42,
+    "hash": "70AEE96991E89ACF",
+    "name": "SYS_WORK_WR02_TRADE_NPC5_INDEX"
+  },
+  {
+    "index": 43,
+    "hash": "67DBFA285DCF71D9",
+    "name": "SYS_WORK_WR02_TRADE_NPC1_POKEID"
+  },
+  {
+    "index": 44,
+    "hash": "811E85F4982FCB42",
+    "name": "SYS_WORK_WR02_TRADE_NPC2_POKEID"
+  },
+  {
+    "index": 45,
+    "hash": "B7E3ACBA39B43CEF",
+    "name": "SYS_WORK_WR02_TRADE_NPC3_POKEID"
+  },
+  {
+    "index": 46,
+    "hash": "050512B9A4B74E00",
+    "name": "SYS_WORK_WR02_TRADE_NPC4_POKEID"
+  },
+  {
+    "index": 47,
+    "hash": "A950E1647999DAFD",
+    "name": "SYS_WORK_WR02_TRADE_NPC5_POKEID"
+  },
+  {
+    "index": 48,
+    "hash": "089ADCBD52689B80",
+    "name": "SYS_WORK_DEBUG_TUREARUKI_SCALE"
+  },
+  {
+    "index": 49,
+    "hash": "093A0E430F0F2271",
+    "name": "SYS_WORK_DEBUG_TUREARUKI_DISTANCE"
+  },
+  {
+    "index": 50,
+    "hash": "36CDC30F29A93E10",
+    "name": "SYS_WORK_DEBUG_TUREARUKI_WENABLE"
+  },
+  {
+    "index": 51,
+    "hash": "80F6D85F0AD1037C",
+    "name": "SYS_WORK_DEBUG_TUREARUKI_WOFFSET"
+  },
+  {
+    "index": 52,
+    "hash": "1459E20EF5BACCEC",
+    "name": "SYS_WORK_LB_FIRE_NEXT_PATH"
+  },
+  {
+    "index": 53,
+    "hash": "CFF62C5CEE841484",
+    "name": "SYS_WORK_LB_FIRE_UNIQUE"
+  },
+  {
+    "index": 54,
+    "hash": "9CE0B19E7A9B68E2",
+    "name": "SYS_WORK_LB_THUNDER_NEXT_PATH"
+  },
+  {
+    "index": 55,
+    "hash": "4FBBF2C741F566B2",
+    "name": "SYS_WORK_LB_THUNDER_UNIQUE"
+  },
+  {
+    "index": 56,
+    "hash": "BEEEF970F36C4BC3",
+    "name": "SYS_WORK_LB_FREEZER_NEXT_PATH"
+  },
+  {
+    "index": 57,
+    "hash": "E5FCD45B8DBF8019",
+    "name": "SYS_WORK_LB_FREEZER_UNIQUE"
+  },
+  {
+    "index": 58,
+    "hash": "76339474A448D9F0",
+    "name": "SYS_WORK_LB_FIRE_PREV_PATH"
+  },
+  {
+    "index": 59,
+    "hash": "E21A64B14D8DD022",
+    "name": "SYS_WORK_LB_THUNDER_PREV_PATH"
+  },
+  {
+    "index": 60,
+    "hash": "BBC4010450359D63",
+    "name": "SYS_WORK_LB_FREEZER_PREV_PATH"
+  },
+  {
+    "index": 61,
+    "hash": "D88AB076B189D46B",
+    "name": "SYS_WORK_LB_FREEZER_POS_X"
+  },
+  {
+    "index": 62,
+    "hash": "D88AAF76B189D2B8",
+    "name": "SYS_WORK_LB_FREEZER_POS_Y"
+  },
+  {
+    "index": 63,
+    "hash": "D88AB276B189D7D1",
+    "name": "SYS_WORK_LB_FREEZER_POS_Z"
+  },
+  {
+    "index": 64,
+    "hash": "0CDB6E11FE4D59C7",
+    "name": "SYS_WORK_LB_FREEZER_SHADOW_VISIBLE"
+  },
+  {
+    "index": 65,
+    "hash": "E5C6C7F310347218",
+    "name": "SYS_WORK_LB_FREEZER_SHADOW_NEXT_PATH"
+  },
+  {
+    "index": 66,
+    "hash": "25B0061361D2797A",
+    "name": "SYS_WORK_LB_FREEZER_LAST_Y"
+  },
+  {
+    "index": 67,
+    "hash": "25B0071361D27B2D",
+    "name": "SYS_WORK_LB_FREEZER_LAST_X"
+  },
+  {
+    "index": 68,
+    "hash": "25B0051361D277C7",
+    "name": "SYS_WORK_LB_FREEZER_LAST_Z"
+  },
+  {
+    "index": 69,
+    "hash": "F7CE93A5CF90B39A",
+    "name": "SYS_WORK_REDEN_OR_REDRA"
+  },
+  {
+    "index": 70,
+    "hash": "AC2F22E89D6727F6",
+    "name": "SYS_WORK_GST_VICTORY_COUNT"
+  },
+  {
+    "index": 71,
+    "hash": "58D0D5ADF273F5B7",
+    "name": "SYS_WORK_LB_FREEZER_LOSE_COUNT"
+  },
+  {
+    "index": 72,
+    "hash": "C23C70096CD15C44",
+    "name": "SYS_WORK_LB_FREEZER_FIRST_POP"
+  },
+  {
+    "index": 73,
+    "hash": "CD35EA353934BEC0",
+    "name": "SYS_WORK_GST_SEIBORI_VICTORY_COUNT"
+  },
+  {
+    "index": 74,
+    "hash": "85556DF7E9131991",
+    "name": "SYS_WORK_GST_KURARA_VICTORY_COUNT"
+  },
+  {
+    "index": 75,
+    "hash": "BF2067F57742B542",
+    "name": "SYS_WORK_GST_MASTERDO_VICTORY_COUNT"
+  },
+  {
+    "index": 76,
+    "hash": "3EEE90029A535FA0",
+    "name": "SYS_WORK_GST_PIONI_VICTORY_COUNT"
+  },
+  {
+    "index": 77,
+    "hash": "38D41F05FEE68CE1",
+    "name": "SYS_WORK_GST_DANDE_VICTORY_COUNT"
+  },
+  {
+    "index": 78,
+    "hash": "BC5195B62D0520CD",
+    "name": "SYS_WORK_GST_BEAT_VICTORY_COUNT"
+  },
+  {
+    "index": 79,
+    "hash": "5C4694E6FB5133BC",
+    "name": "SYS_WORK_GST_MALI_VICTORY_COUNT"
+  },
+  {
+    "index": 80,
+    "hash": "8071542224B9E3CC",
+    "name": "SYS_WORK_GST_YARO_VICTORY_COUNT"
+  },
+  {
+    "index": 81,
+    "hash": "C37AE3BAB19386DE",
+    "name": "SYS_WORK_GST_RULINA_VICTORY_COUNT"
+  },
+  {
+    "index": 82,
+    "hash": "582515333576EE34",
+    "name": "SYS_WORK_GST_KABU_VICTORY_COUNT"
+  },
+  {
+    "index": 83,
+    "hash": "9259CAB2B95B1BB9",
+    "name": "SYS_WORK_GST_NEZU_VICTORY_COUNT"
+  },
+  {
+    "index": 84,
+    "hash": "F77C83A5343E6FC1",
+    "name": "SYS_WORK_GST_KIBANA_VICTORY_COUNT"
+  },
+  {
+    "index": 85,
+    "hash": "934DD9C16371183B",
+    "name": "SYS_WORK_GST_SAITO_VICTORY_COUNT"
+  },
+  {
+    "index": 86,
+    "hash": "A516B350A2C094C7",
+    "name": "SYS_WORK_GST_MAKUWA_VICTORY_COUNT"
+  },
+  {
+    "index": 87,
+    "hash": "90CFB7ED9E32AE34",
+    "name": "SYS_WORK_GST_ONION_VICTORY_COUNT"
+  },
+  {
+    "index": 88,
+    "hash": "41A0BAFC06C0FBC8",
+    "name": "SYS_WORK_GST_MERON_VICTORY_COUNT"
+  },
+  {
+    "index": 89,
+    "hash": "C998A61DE3ED8F16",
+    "name": "SYS_WORK_GST_SODDO_VICTORY_COUNT"
+  },
+  {
+    "index": 90,
+    "hash": "00D40635C0D49E2D",
+    "name": "SYS_WORK_GST_SIRUDHI_VICTORY_COUNT"
+  },
+  {
+    "index": 91,
+    "hash": "BA87E6F3EB07C276",
+    "name": "SYS_WORK_GST_HOP_VICTORY_COUNT"
+  },
+  {
+    "index": 92,
+    "hash": "20BCC4AADBE374D7",
+    "name": "SYS_WORK_GST_POPRA_VICTORY_COUNT"
+  },
+  {
+    "index": 93,
+    "hash": "F715558E7CB6E900",
+    "name": "SYS_WORK_GST_DEBUG_SP2_EVENT"
+  },
+  {
+    "index": 94,
+    "hash": "988BC7F606498466",
+    "name": "SYS_WORK_GST_DEBUG_SP4_EVENT"
+  },
+  {
+    "index": 95,
+    "hash": "E9707A9D84B4A11A",
+    "name": "SYS_WORK_LB_FIRE_IS_HERE"
+  },
+  {
+    "index": 96,
+    "hash": "6C1DA815EFDC1AB1",
+    "name": "SYS_WORK_LB_FREEZER_IS_HERE"
+  },
+  {
+    "index": 97,
+    "hash": "E047E54F8C696110",
+    "name": "SYS_WORK_LB_THUNDER_RUN_PARAM"
+  },
+  {
+    "index": 98,
+    "hash": "66F7F35A94C40293",
+    "name": "SYS_WORK_LB_FIRE_LAST_Y"
+  },
+  {
+    "index": 99,
+    "hash": "66F7F25A94C400E0",
+    "name": "SYS_WORK_LB_FIRE_LAST_X"
+  },
+  {
+    "index": 100,
+    "hash": "66F7F45A94C40446",
+    "name": "SYS_WORK_LB_FIRE_LAST_Z"
+  },
+  {
+    "index": 101,
+    "hash": "D6556389AE1283B0",
+    "name": "SYS_WORK_LBFREEZER_FORCE_COUNT"
+  },
+  {
+    "index": 102,
+    "hash": "594236A36C447903",
+    "name": "SYS_WORK_FIRE_FORCE_COUNT"
+  },
+  {
+    "index": 103,
+    "hash": "7B4DC9317B022344",
+    "name": "SYS_WORK_FREEZER_WAIT_MODE"
+  },
+  {
+    "index": 104,
+    "hash": "722778AC93868FC6",
+    "name": "SYS_WORK_FIRE_FIRST"
+  },
+  {
+    "index": 105,
+    "hash": "48FBCA6D4FD773E2",
+    "name": "SYS_WORK_THUNDER_FIRST"
+  }
+]

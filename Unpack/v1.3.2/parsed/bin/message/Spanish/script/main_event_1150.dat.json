@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "flags": 4,
+    "text": "Aguarda.[VAR 0114(0013)]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Tengo que ir a Ciudad Artejo por unos recados.\\n\u00BFQuieres venir conmigo?\\c\\nAl fin y al cabo, si tienes pensado dirigirte al\\nsiguiente gimnasio, debes volver all\u00ED primero.[VAR 0114(0013)]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Ser\u00E1 un placer"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "No, gracias"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Pues vamos.[VAR 0114(0013)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Me gusta esa personalidad que muestras, pero...\\n\u00BFno est\u00E1s haciendo el desaf\u00EDo de los gimnasios?\\c\\nPues si quieres ir a Pueblo Auriga, primero debes\\nregresar a Ciudad Artejo, \u00BFno te parece?[VAR 0114(0013)]"
+  }
+]
