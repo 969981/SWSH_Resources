@@ -1,0 +1,172 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "[~ 0]"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "[~ 1]"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[~ 3]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Salutations, [VAR 0100(0000)].\\nVeux-tu participer \u00E0 l\u2019exercice sp\u00E9cialis\u00E9\u202F?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Pourquoi pas, oui\u202F!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Comment \u00E7a marche\u202F?"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Peut-\u00EAtre une autre fois."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Je vais m\u2019arr\u00EAter l\u00E0."
+  },
+  {
+    "index": 9,
+    "flags": 4,
+    "text": "\u00C0 pr\u00E9sent, choisis le type des Pok\u00E9mon\\navec lesquels tu souhaites combattre."
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Entendu. Il n\u2019y a aucune obligation.\\n\u00C0 une prochaine fois\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "L\u2019exercice sp\u00E9cialis\u00E9 est un entra\u00EEnement\\nsp\u00E9cifique, o\u00F9 les Dresseurs combattent\\r\\navec des Pok\u00E9mon d\u2019un type particulier.\\c\\nTu devras commencer par choisir jusqu\u2019\u00E0\\ntrois Pok\u00E9mon du m\u00EAme type.\\c\\nAttention, tu ne pourras pas choisir le m\u00EAme\\nPok\u00E9mon ou \u00E9quiper le m\u00EAme objet deux fois.\\c\\nIl te faudra ensuite gagner cinq combats\\n\u00E0 la suite pour remporter la victoire.\\c\\nSi tu perds un seul combat, il te faudra reprendre\\ndepuis le d\u00E9but.\\c\\nTu pourras soigner tes Pok\u00E9mon deux fois\\nau cours de l\u2019entra\u00EEnement. \u00C0 toi de choisir\\r\\nle meilleur moment pour le faire.\\c\\nVoil\u00E0, tu sais tout\u202F!... Alors\u202F?\\nVeux-tu participer \u00E0 l\u2019exercice sp\u00E9cialis\u00E9\u202F?"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Tu as chang\u00E9 d\u2019avis\u202F?\\nTr\u00E8s bien, \u00E0 une prochaine fois\u202F!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Que le premier combat commence..."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Passons au round [VAR 0203(0001,202F)]..."
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 4,
+    "text": "En garde\u202F!"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Quel combat\u202F! C\u2019\u00E9tait du grand art."
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Souhaites-tu soigner tes Pok\u00E9mon\u202F?\\nTu peux encore les soigner [VAR 0200(0001)] fois."
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Tu as donc \u00E9chou\u00E9. Retourne t\u2019entra\u00EEner avec\\ntes Pok\u00E9mon avant de retenter ta chance\u202F!"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Faisons le bilan de cet exercice sp\u00E9cialis\u00E9...\\c\\nTu as remport\u00E9 [VAR 0203(0001,202F)] victoire[VAR 1101(0001,0100)]s avec des\\nPok\u00E9mon de type [VAR 0103(0002)]\u202F!"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Les Pok\u00E9mon de type [VAR 0103(0002)] n\u2019ont plus\\nde secrets pour toi."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Accepte ceci en guise de r\u00E9compense pour\\ntes efforts acharn\u00E9s\u202F!"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "N\u2019h\u00E9site pas \u00E0 recommencer l\u2019entra\u00EEnement\\navec des Pok\u00E9mon d\u2019un autre type\u202F!"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Par les sourcils de Mustar\u202F! On dirait que\\ntu es venu[VAR 1100(00FF,0100)]e \u00E0 bout de l\u2019exercice sp\u00E9cialis\u00E9\\r\\npour tous les types de Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Je n\u2019en reviens pas...\\nTu as accompli un v\u00E9ritable exploit\u202F!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Laisse-moi te remettre ceci en l\u2019honneur de cette\\nvictoire qui restera dans les annales du dojo."
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Ta d\u00E9termination \u00E0 toujours d\u00E9passer tes limites\\nest une vraie source d\u2019inspiration pour nous tous\u202F!"
+  },
+  {
+    "index": 28,
+    "flags": 4,
+    "text": "On continue l\u2019entra\u00EEnement\u202F?"
+  },
+  {
+    "index": 29,
+    "flags": 4,
+    "text": "Oui, mais pas sans soigner mes Pok\u00E9mon\u202F!"
+  },
+  {
+    "index": 30,
+    "flags": 4,
+    "text": "Allez, on encha\u00EEne\u202F!"
+  },
+  {
+    "index": 31,
+    "flags": 4,
+    "text": "On continue l\u2019entra\u00EEnement\u202F?\\nTu peux soigner tes Pok\u00E9mon encore [VAR 0200(0001)] fois."
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Vous recevez [VAR 0201(0003)] PCo."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "Vous obtenez\\n[VAR 1402(0002,0000)][VAR FF00(0008)][VAR 01C1(0002)][VAR FF00(0000)]\\r\\n[VAR 01C2(0001)]."
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\nWas k\u00F6nnen wir f\u00FCr dich tun?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hi! Willkommen beim Pok\u00E9mon-Hort. Ich nehme\\nhier die Pok\u00E9mon von Trainern in Pflege.\\c\\nWenn du zwei Pok\u00E9mon gleichzeitig abgibst,\\nkann es vorkommen, dass ein Ei gefunden wird.\\c\\nSolltest du mehr \u00FCber das Thema wissen wollen,\\nsprich am besten mit meiner Gro\u00DFmutter drinnen!\\c\\nWillst du jetzt gleich Pok\u00E9mon bei mir in Pflege\\ngeben?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Bis zum n\u00E4chsten Mal!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon hat ein Ei bei sich getragen!\\nM\u00F6chtest du es haben?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Wie du meinst...\\nDann behalten wir es eben."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Die Mitarbeiterin des Horts \u00FCbergibt dir das Ei!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "K\u00FCmmere dich gut darum!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Du hast keinen Platz in deinen Boxen. Komm\\nwieder, wenn du etwas Platz geschaffen hast."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Deinem [VAR 0101(0000)] geht es gut."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht es gut.\\c\\nDie beiden scheinen sich sehr zu m\u00F6gen."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht es gut.\\c\\nDie beiden scheinen sich zu vertragen."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht es gut.\\c\\nDie beiden m\u00F6gen sich aber nicht sehr."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht es gut.\\c\\nDie beiden spielen aber nicht miteinander."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Du kannst uns leider kein Pok\u00E9mon \u00FCbergeben,\\nda du sonst nicht mehr gen\u00FCgend bei dir h\u00E4ttest."
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Du kannst uns bis zu zwei Pok\u00E9mon anvertrauen.\\nUm welche Pok\u00E9mon sollen wir uns k\u00FCmmern?"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Um welches Pok\u00E9mon sollen wir uns k\u00FCmmern?\\nDu hast uns bereits [VAR 0102(0000)] anvertraut."
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Wir sollen uns also um zwei Pok\u00E9mon k\u00FCmmern...\\nDas macht dann 1.000 \uE300. Einverstanden?"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Wir sollen uns also um ein Pok\u00E9mon k\u00FCmmern...\\nDas macht dann 500 \uE300. Einverstanden?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Das macht dann noch einmal 500 \uE300, bitte!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Alles klar, dann k\u00FCmmern wir uns ein Weilchen\\num [VAR 0102(0000)] und [VAR 0102(0001)]."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Alles klar, dann k\u00FCmmern wir uns ein Weilchen\\num [VAR 0102(0000)]."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Sag Bescheid, wenn du ein Pok\u00E9mon wieder\\nabholen willst."
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Du hast leider nicht genug Geld..."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Den Pok\u00E9mon hier geht es gut.\\nM\u00F6chtest du eines wieder mitnehmen?"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Du m\u00F6chtest [VAR 0102(0000)] abholen?\\nEinen Moment bitte."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "[~ 25]"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 0102(0000)] auch mitnehmen?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Wir k\u00F6nnen dir nur ein Pok\u00E9mon abnehmen,\\nda du sonst nicht mehr gen\u00FCgend bei dir h\u00E4ttest."
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\nWas kann ich f\u00FCr dich tun?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Hallo! Bist du das erste Mal bei uns? Das hier ist\\ndie Naturzonen-Filiale des Pok\u00E9mon-Horts!\\c\\nKeine Sorge, hier wird genauso f\u00FCrsorglich mit\\ndeinen Pok\u00E9mon umgegangen wie in unserer\\r\\nHauptfiliale auf Route 5!\\c\\nWie sieht es aus, m\u00F6chtest du einige deiner\\nPok\u00E9mon in unsere Obhut geben?"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Bis bald!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Dein Pok\u00E9mon hat ein Ei bei sich getragen!\\nM\u00F6chtest du es haben?"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "Alles klar, dann behalte ich es selbst."
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[~ 33]"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Bitte k\u00FCmmere dich gut darum!"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Du hast keinen Platz in deinen Boxen. Komm\\nwieder, wenn du etwas Platz geschaffen hast."
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Deinem [VAR 0101(0000)] geht\u2019s gut."
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht\u2019s gut.\\c\\nDie beiden scheinen sich sehr zu m\u00F6gen."
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht\u2019s gut.\\c\\nDie beiden scheinen sich zu vertragen."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht\u2019s gut.\\c\\nDie beiden m\u00F6gen sich aber nicht sehr."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Deinem [VAR 0102(0000)] und deinem\\n[VAR 0102(0001)] geht\u2019s gut.\\c\\nDie beiden spielen aber nicht miteinander."
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Du kannst uns leider kein Pok\u00E9mon \u00FCbergeben,\\nda du sonst nicht mehr gen\u00FCgend bei dir h\u00E4ttest."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Du kannst mir bis zu zwei Pok\u00E9mon anvertrauen.\\nUm welche Pok\u00E9mon soll ich mich k\u00FCmmern?"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Um welches Pok\u00E9mon soll ich mich k\u00FCmmern?\\nIch habe schon [VAR 0102(0000)] hier."
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Du m\u00F6chtest also zwei Pok\u00E9mon abgeben...\\nDas macht dann 1.000 \uE300. Einverstanden?"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Du m\u00F6chtest also ein Pok\u00E9mon abgeben...\\nDas macht dann 500 \uE300. Einverstanden?"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "Das macht dann noch einmal 500 \uE300, bitte!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Alles klar, dann k\u00FCmmere ich mich eine Weile\\num [VAR 0102(0000)] und [VAR 0102(0001)]."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Alles klar, dann k\u00FCmmere ich mich eine Weile\\num [VAR 0102(0000)]."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Sag Bescheid, wenn du ein Pok\u00E9mon wieder\\nabholen willst."
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "Du hast leider nicht genug Geld..."
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "Den Pok\u00E9mon hier geht es gut.\\nM\u00F6chtest du eines wieder mitnehmen?"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Du m\u00F6chtest [VAR 0102(0000)] abholen?\\nEinen Moment bitte."
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "[~ 53]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "M\u00F6chtest du [VAR 0102(0000)] auch mitnehmen?"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Ich kann dir nur ein Pok\u00E9mon abnehmen, da du\\nsonst nicht mehr gen\u00FCgend bei dir h\u00E4ttest."
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\c\\nTrainer k\u00F6nnen ihre Pok\u00E9mon hier bei uns\\nin Pflege geben!\\c\\nIn letzter Zeit kommt es auch immer wieder vor,\\ndass wir bei den Pok\u00E9mon in unserer Obhut\\r\\nein Ei finden! Seltsam, findest du nicht?\\c\\nWenn du uns deine Pok\u00E9mon anvertrauen\\nm\u00F6chtest, dann sprich drinnen einfach mit\\r\\nmeiner Schwester!"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Alola!\\nDeinem [VAR 0101(0000)] geht es gut!"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Alola, Champ!\\nDeinem [VAR 0101(0000)] geht es gut!"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Alola!\\c\\nDeinem [VAR 0101(0000)] und deinem\\n[VAR 0101(0001)] geht es gut!\\c\\nDie beiden scheinen sich sehr zu m\u00F6gen."
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Alola!\\c\\nDeinem [VAR 0101(0000)] und deinem\\n[VAR 0101(0001)] geht es gut!\\c\\nDie beiden scheinen sich zu vertragen."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Alola!\\c\\nDeinem [VAR 0101(0000)] und deinem\\n[VAR 0101(0001)] geht es gut!\\c\\nDie beiden m\u00F6gen sich aber nicht sehr."
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Alola!\\c\\nDeinem [VAR 0101(0000)] und deinem\\n[VAR 0101(0001)] geht es gut!\\c\\nDie beiden spielen aber nicht miteinander."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Ach, du bist es!\\c\\nWir haben uns hier flei\u00DFig um deine Pok\u00E9mon\\ngek\u00FCmmert und dabei etwas Tolles gefunden:\\r\\nein Pok\u00E9mon-Ei!\\c\\nWir sind selbst ratlos, wo es hergekommen sein\\nk\u00F6nnte. Irgendwann hatten es deine Pok\u00E9mon\\r\\neinfach...\\c\\nM\u00F6chtest du es an dich nehmen?"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Du erh\u00E4ltst das Ei von der Hortleiterin."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "K\u00FCmmere dich gut darum!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Sieht nicht so aus, als ob du Platz f\u00FCr ein Ei\\nh\u00E4ttest. Komm wieder, wenn du in deinem Team\\r\\noder in den Boxen etwas Platz geschaffen hast!"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Dann werde ich es behalten.\\nOder m\u00F6chtest du es doch haben?"
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Na sch\u00F6n, dann behalte ich es eben.\\nVielen Dank!"
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\c\\nDu kannst uns bis zu zwei Pok\u00E9mon\\nanvertrauen, um die wir uns dann k\u00FCmmern."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\c\\nKann ich dir behilflich sein?"
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "Willkommen im Pok\u00E9mon-Hort!\\c\\nKann ich dir behilflich sein, Champ?"
+  },
+  {
+    "index": 72,
+    "flags": 0,
+    "text": "Gut. Komm bald wieder!"
+  },
+  {
+    "index": 73,
+    "flags": 0,
+    "text": "Meine Schwester hat dich schon gesucht!"
+  },
+  {
+    "index": 74,
+    "flags": 0,
+    "text": "Aber womit willst du denn bitte k\u00E4mpfen,\\nwenn du dieses Pok\u00E9mon hierl\u00E4sst?\\c\\nKomm wieder, sobald sich mehr Pok\u00E9mon\\nin deinem Team befinden."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Welches Pok\u00E9mon m\u00F6chtest du bei uns\\nin Pflege geben?"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Hoppla... Aber das ist doch nur ein Ei!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "Alles klar, dann k\u00FCmmern wir uns ein Weilchen\\num dein [VAR 0101(0000)]!"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "Du kannst jederzeit vorbeikommen und es\\nwieder abholen!"
+  },
+  {
+    "index": 79,
+    "flags": 0,
+    "text": "Wir k\u00F6nnen zwei deiner Pok\u00E9mon bei uns\\naufnehmen.\\c\\nM\u00F6chtest du noch eins in Pflege geben?"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Deinen Pok\u00E9mon geht es gut.\\nM\u00F6chtest du sie wieder mitnehmen?"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "[~ 81]"
+  },
+  {
+    "index": 82,
+    "flags": 0,
+    "text": "Wenn du dein [VAR 0101(0000)] wieder abholen\\nwillst, kostet das [VAR 0204(0001,002E)] \uE300.\\r\\nM\u00F6chtest du es mitnehmen?"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "Du hast leider nicht genug Geld..."
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Du erh\u00E4ltst [VAR 0101(0000)] von\\nder Hortleiterin."
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "M\u00F6chtest du dein anderes Pok\u00E9mon auch\\nmitnehmen?"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "Wie bitte? Aber, aber...\\c\\nWenn du jetzt ein Pok\u00E9mon bei uns l\u00E4sst,\\nhast du nur noch ein kampff\u00E4higes bei dir!\\c\\nWas h\u00E4ltst du davon, wenn du erst noch\\nein paar Pok\u00E9mon f\u00E4ngst und dann wieder\\r\\nvorbeikommst?"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "Oh, in deinem Pok\u00E9mon-Team ist kein Platz\\nmehr. Schaffe erst etwas Platz und komm\\r\\ndann wieder!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "Pok\u00E9mon abgeben"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "Pok\u00E9mon abholen"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Bericht"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "Lv. [VAR 0202(0001)]"
+  },
+  {
+    "index": 93,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2642 Lv. [VAR 0202(0001)]"
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] \u2640 Lv. [VAR 0202(0001)]"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "[VAR 0101(0000)] Lv. [VAR 0202(0001)]"
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Oh?"
+  },
+  {
+    "index": 97,
+    "flags": 0,
+    "text": "Ein [VAR 0101(0000)] ist aus dem Ei geschl\u00FCpft!"
+  },
+  {
+    "index": 98,
+    "flags": 0,
+    "text": "M\u00F6chtest du dem [VAR 0101(0000)] einen\\nSpitznamen geben?"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "[~ 99]"
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "[~ 100]"
+  },
+  {
+    "index": 101,
+    "flags": 0,
+    "text": "[~ 101]"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "[~ 102]"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "[~ 103]"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "[~ 104]"
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "[~ 105]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "[~ 106]"
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "[~ 107]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "[~ 108]"
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "[~ 109]"
+  },
+  {
+    "index": 110,
+    "flags": 0,
+    "text": "[~ 110]"
+  },
+  {
+    "index": 111,
+    "flags": 0,
+    "text": "[~ 111]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "[~ 112]"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "[~ 113]"
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "[~ 114]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "[~ 115]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "[~ 116]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "[~ 117]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "[~ 118]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "[~ 119]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "[~ 120]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "[~ 121]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "[~ 122]"
+  },
+  {
+    "index": 123,
+    "flags": 0,
+    "text": "[~ 123]"
+  },
+  {
+    "index": 124,
+    "flags": 0,
+    "text": "[~ 124]"
+  },
+  {
+    "index": 125,
+    "flags": 0,
+    "text": "[~ 125]"
+  },
+  {
+    "index": 126,
+    "flags": 0,
+    "text": "[~ 126]"
+  },
+  {
+    "index": 127,
+    "flags": 0,
+    "text": "[~ 127]"
+  },
+  {
+    "index": 128,
+    "flags": 0,
+    "text": "[~ 128]"
+  }
+]

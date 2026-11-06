@@ -1,0 +1,357 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Bitte lege die Einzelheiten fest."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Best\u00E4tigen"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Zur\u00FCck"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Bitte w\u00E4hle den Turnierzeitraum."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Bitte lege das Startdatum des Turniers fest."
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Bitte lege das Schlussdatum des Turniers fest."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Bitte lege die Anzahl der bestreitbaren K\u00E4mpfe fest."
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Bitte lege die Regeln zu Zeitbegrenzungen fest."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Herunterladen"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Nicht herunterladen"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Alle Trainer"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Nur Trainer, welche die ID kennen"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Einstellen"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Nicht einstellen"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Zur\u00FCck"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "M\u00F6chtest du zus\u00E4tzliche Kampfregeln\\nherunterladen?"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Bitte lege fest, wer an deinem Turnier teilnehmen\\ndarf."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "M\u00F6chtest du dem Turniernamen einen\\nUntertitel hinzuf\u00FCgen?"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "Ein Turnier ausrichten"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "Turniername"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[VAR 01AF(0000)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Regeln"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Einzelkampf"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Doppelkampf"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Normale Regeln"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Kampfturm-Regeln"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Keine Einschr\u00E4nkungen"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "[~ 28]"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "[VAR 01D5(0000)]"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Turnierzeitraum"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] Uhr"
+  },
+  {
+    "index": 32,
+    "flags": 0,
+    "text": "bis"
+  },
+  {
+    "index": 33,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] Uhr"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "Teilnahmef\u00E4hige Personen"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Alle Trainer"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "Nur Trainer, welche die ID kennen"
+  },
+  {
+    "index": 37,
+    "flags": 0,
+    "text": "Ausrichten"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "Achtung!"
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Du kannst das Turnier nicht widerrufen."
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Anzahl der K\u00E4mpfe"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "Maximal [VAR 0201(0000)]"
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "Zeitbegrenzung"
+  },
+  {
+    "index": 43,
+    "flags": 0,
+    "text": "Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "Gesamtzeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Noch offen"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)]"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:00 Uhr bis"
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:59 Uhr"
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "Turnierzeitraum"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], --:-- bis --:-- Uhr"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] bis --:-- Uhr"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] bis [VAR 0201(0005)]:[VAR 0201(0006)] Uhr"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Maximal [VAR 0201(0000)]"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n / Gesamtzeit: [VAR 0201(0001)] Minute[VAR 1101(0001,0100)]n"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n / Gesamtzeit: unbeschr\u00E4nkt"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "Deine Zeit: unbeschr\u00E4nkt / Gesamtzeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "Kampfregeln werden \u00FCbertragen...\\nBitte das LAN-Kabel nicht entfernen."
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "Die Kampfregeln wurden \u00FCbertragen.\\c"
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Die \u00DCbertragung der Kampfregeln ist\\nfehlgeschlagen.\\c"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Kampfregeln \u00FCbertragen"
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "\u00DCbertragung beginnen"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Sende die Kampfregeln per lokalem Modus\\nan mehrere Personen gleichzeitig."
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Sende die Regeln \u00FCber den LAN-Modus\\nan eine andere Person."
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": " \u00DCbertragung abbrechen"
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "Kampfregeln werden \u00FCbertragen...\\n(Dr\u00FCcke den B-Knopf, um abzubrechen.)"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "\u00DCbertragung unterbrochen.\\c"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Verbindung wird hergestellt..."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "Verbinde dich \u00FCber das LAN-Kabel mit\\nanderen Spielern."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "\u00DCbertragung beginnen"
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Dr\u00FCcke auf den Knopf, um die \u00DCbertragung\\nder Kampfregeln zu beginnen."
+  }
+]

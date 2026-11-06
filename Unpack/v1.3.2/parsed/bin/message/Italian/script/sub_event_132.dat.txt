@@ -1,0 +1,12 @@
+Sento che hai talento...\nMa hai ancora molta strada da fare.\c\nTorna a trovarmi quando sarai Campione[VAR 1100(00FF,0300)]ssa!
+Wow! Sei diventat[VAR 1100(00FF,0101)]oa Campione[VAR 1100(00FF,0300)]ssa!\c\nVuoi che insegni a uno dei tuoi Pokémon\nla fenomenale mossa [VAR 0107(0001)]?
+Vabbè! Alla prossima!
+Mmmh, mi dispiace, ma nessuno dei tuoi\nPokémon può impararla...
+Perfetto! A quale Pokémon vuoi che la insegni?
+Mi dispiace, ma non posso insegnarla\na [VAR 0102(0001)]...
+Guarda che le Uova non possono mica\nimparare mosse!
+[VAR 0102(0001)] conosce già questa mossa!
+Quale mossa vuoi che dimentichi?
+[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\c\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\c\nAl suo posto...\c\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]
+La mossa Raggio d’Acciaio ha una potenza così\nimpressionante che danneggia anche chi la usa!

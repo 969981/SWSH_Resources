@@ -1,0 +1,47 @@
+[VAR 0102(0000)]
+Strumento
+[VAR 0109(0000)]
+[VAR 0101(0000)]
+Nº [VAR 0202(0000)]
+[~ 5]
+[~ 6]
+[VAR 0201(0000)]
+[~ 8]
+[VAR 0107(0000)]
+PP
+/
+PS
+Attacco
+Difesa
+Att. Sp.
+Dif. Sp.
+Velocità
+Abilità
+[VAR 0106(0000)]
+Potenza
+Precisione
+-
+La mossa da far ricordare è\n[VAR 0107(0000)]?
+Sì
+No
+Vuoi rinunciare a far ricordare una mossa\na [VAR 0102(0000)]?
+[VAR 0102(0000)] ricorda la mossa\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+Scegli una mossa da sostituire\ncon [VAR 0107(0000)].\c
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] dimentica\n[VAR 0107(0002)]!\c\nAl suo posto...\c\n[VAR 0102(0000)] ricorda\n[VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+[~ 30]
+L. [VAR 0202(0000)]
+[VAR 0202(0000)]
+[VAR 0202(0000)]/[VAR 0202(0001)]
+[VAR 0201(0000)]/[VAR 0201(0001)]
+Ok
+Indietro
+Vuoi che dimentichi [VAR 0107(0000)]?
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] dimentica [VAR 0107(0002)]!\c
+Vuoi che impari [VAR 0107(0000)]?
+Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0005)]\c\n[VAR 0102(0000)] dimentica [VAR 0107(0002)]!\c\nAl suo posto...\c\n[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+Ha imparato [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0006)]\c
+Scegli una mossa da sostituire\ncon [VAR 0107(0000)].\c
+Vuoi rinunciare a fargli imparare\n[VAR 0107(0000)]?
+Non ha imparato [VAR 0107(0000)]!\c
+Vuoi che dimentichi [VAR 0107(0000)]\ne al suo posto impari [VAR 0107(0001)]?
+Categoria

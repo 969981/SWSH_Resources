@@ -1,0 +1,16 @@
+Das ist ein Automat für gehaltvolle Getränke.\nWas möchtest du kaufen?
+KP-Plus
+Protein
+Eisen
+Kalzium
+Zink
+Carbon
+Wie viele [VAR 1001][VAR 0110(0000)]\nmöchtest du kaufen?
+[VAR 0201(0001)] [VAR BD03(0000)][VAR 0205(0002,002E)] 
+Abbrechen
+Du hast kein Getränk gekauft.
+Noch mehr kannst du davon nicht tragen!
+Du hast nicht genug Geld!
+Du hast [VAR 0201(0001)] [VAR 0110(0000)]\nerhalten!
+Noch mal das Gleiche kaufen
+Etwas anderes kaufen

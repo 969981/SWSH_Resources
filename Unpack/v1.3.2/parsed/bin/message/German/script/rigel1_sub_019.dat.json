@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Das ist ein Automat f\u00FCr gehaltvolle Getr\u00E4nke.\\nWas m\u00F6chtest du kaufen?"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "KP-Plus"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Protein"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Eisen"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Kalzium"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Zink"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Carbon"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Wie viele [VAR 1001][VAR 0110(0000)]\\nm\u00F6chtest du kaufen?"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0201(0001)] [VAR BD03(0000)][VAR 0205(0002,002E)] \uE300"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Du hast kein Getr\u00E4nk gekauft."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Noch mehr kannst du davon nicht tragen!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Du hast nicht genug Geld!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Du hast [VAR 0201(0001)] [VAR 0110(0000)]\\nerhalten!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Noch mal das Gleiche kaufen"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Etwas anderes kaufen"
+  }
+]

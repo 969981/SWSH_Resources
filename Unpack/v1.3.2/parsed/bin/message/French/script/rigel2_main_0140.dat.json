@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "C\u2019est l\u2019un des champs dont vous a parl\u00E9 Sylveroy\u202F!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Voulez-vous planter les graines de carotte\u202F?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Je vois que tu es parvenu[VAR 1100(00FF,0100)]e jusqu\u2019\u00E0 l\u2019un\\ndes deux champs que je t\u2019ai indiqu\u00E9s.[VAR 0114(0079)]"
+  },
+  {
+    "index": 3,
+    "flags": 4,
+    "text": "As-tu donc choisi de planter les graines\\nde carotte ici\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Sache que de cette terre na\u00EEtra\\nune [VAR FF00(0006)]Carotte Gel\u00E9e[VAR FF00(0000)].\\c\\nMa m\u00E9moire me fait peut-\u00EAtre d\u00E9faut apr\u00E8s\\ntoutes ces ann\u00E9es, mais il me semble que\\r\\nmon destrier qui en raffolait \u00E9tait de [VAR FF00(0006)]type Glace[VAR FF00(0000)]...[VAR 0114(0079)]"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Sache que de cette terre na\u00EEtra\\nune [VAR FF00(0006)]Carotte Sombre[VAR FF00(0000)].\\c\\nMa m\u00E9moire me fait peut-\u00EAtre d\u00E9faut apr\u00E8s\\ntoutes ces ann\u00E9es, mais il me semble que mon\\r\\ndestrier qui en raffolait \u00E9tait de [VAR FF00(0006)]type Spectre[VAR FF00(0000)]...[VAR 0114(0079)]"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Permets-moi donc de te poser\\n\u00E0 nouveau la question...\\c\\nSouhaites-tu vraiment planter les graines ici\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Tu as chang\u00E9 d\u2019avis\u202F? ... Soit.\\nJe reviendrai quand tu auras pris ta d\u00E9cision.[VAR 0114(0079)]"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Fort bien. Dans ce cas, je te laisse planter\\nles graines.[VAR 0114(0079)]"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "*Creuse creuse*"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Vous avez plant\u00E9 les graines de carotte\u202F!"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Vous aplanissez l\u2019endroit o\u00F9 vous avez plant\u00E9\\nles graines."
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "Quel talent pour le travail de la terre\u202F!\\nJe suis impressionn\u00E9\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Bien, \u00E0 pr\u00E9sent, c\u2019est \u00E0 mon tour.\\nJe vais te montrer mes pouvoirs\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 14,
+    "flags": 4,
+    "text": "Enno\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 15,
+    "flags": 4,
+    "text": "Ouro\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Courooo\u202F![VAR 0114(0079)]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "Vous sentez qu\u2019il se passe quelque chose..."
+  },
+  {
+    "index": 18,
+    "flags": 4,
+    "text": "Incroyable, une carotte a pouss\u00E9\u202F!"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "*Souffle souffle*[VAR 0114(0079)]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "De toutes les graines que nous avons plant\u00E9es,\\nune seule a germ\u00E9\u202F?[VAR 0114(0079)]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "C\u2019est malheureux, mes pouvoirs ne sont\\nd\u00E9cid\u00E9ment plus ce qu\u2019ils \u00E9taient...[VAR 0114(0079)]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "Cela dit, je n\u2019aurai bient\u00F4t plus de raison\\nde me lamenter.[VAR 0114(0079)]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Bien, humain[VAR 1100(00FF,0100)]e. L\u2019heure est venue pour toi\\nde r\u00E9colter cette Carotte Gel\u00E9e.[VAR 0114(0079)]"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Bien, humain[VAR 1100(00FF,0100)]e. L\u2019heure est venue pour toi\\nde r\u00E9colter cette Carotte Sombre.[VAR 0114(0079)]"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Le corps de Dhilan l\u00E9vite\\ndans un halo de lumi\u00E8re."
+  }
+]

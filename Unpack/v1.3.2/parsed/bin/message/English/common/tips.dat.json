@@ -1,0 +1,622 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "You haven\u2019t learned anything yet!\\c"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": " Close"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": " Next"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "[VAR 0201(0000)]/[VAR 0201(0001)]"
+  },
+  {
+    "index": 4,
+    "flags": 4,
+    "text": "Adventure Guide"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "[~ 5]"
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Open the X menu by pressing the [VAR FF00(0006)]X Button[VAR FF00(0000)]!\\n\\nYou can save your progress by selecting [VAR FF00(0006)]Save[VAR FF00(0000)]\\nfrom the X menu!\\n\\nYou can also check your location and your next\\ndestination by selecting the [VAR FF00(0006)]Town Map[VAR FF00(0000)].\\n\\nAnd you can check this Adventure Guide anytime you\\nwant in the Key Items section of your Bag."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Open the X menu by pressing the [VAR FF00(0006)]X Button[VAR FF00(0000)]!\\n\\nYou can save your progress by selecting [VAR FF00(0006)]Save[VAR FF00(0000)]\\nfrom the X menu!\\n\\nAnd you can check this Adventure Guide anytime you\\nwant in the Key Items section of your Bag."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Y-Comm"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Y-Comm offers many ways to connect with other\\nplayers! You\u2019ll be welcome to swap Pok\u00E9mon, take\\npart in Pok\u00E9mon battles, and more!\\n\\nThere\u2019s never a shortage of things to do!"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "This is called a stamp. Your stamps will be sent to\\nothers when you open up the Y-Comm menu and\\nchoose one of the options there to try to connect\\nwith your fellow Trainers! Stamps come with messages,\\ntoo, so everyone can understand just what you\u2019re\\ninterested in."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Normally, you can use Y-Comm to connect with\\npeople close-by. But if you press the \u002B Button and\\nconnect to the internet, you\u2019ll be able to connect with\\npeople around the world!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "When stamps arrive in Y-Comm while you\u2019re out\\non your adventure, it means that other Trainers are\\naround and looking for someone to connect with.\\nPress the Y Button to see who\u2019s around!"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Select a stamp that shows the silhouette of a Pok\u00E9mon\\non it, and you\u2019ll be able to team up with your fellow\\nTrainers to battle Pok\u00E9mon!"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "Pok\u00E9mon League Cards"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "Show off your achievements by making a League Card!\\nYou can customize your card using the Card Maker\\nfound at every Pok\u00E9mon Center. Doing so will also\\nupdate your card with all your latest information!"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "Trainers all have their own League Cards, and you can\\nswap cards with other Trainers that you connect with\\nusing communication features. You can view all the\\nLeague Cards you\u2019ve collected by checking out your\\nalbum, which you can find in the League Card option\\nof the X menu."
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "From the X menu, you can select League Card and\\nthen Album to view the League Cards you\u2019ve received.\\n\\nThis is also where you\u2019ll find League Cards you\\nreceived from other players!"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "The Battle Stadium"
+  },
+  {
+    "index": 19,
+    "flags": 4,
+    "text": "In the Battle Stadium, you can connect to other\\nTrainers around the world to take part in Link Battles\\nand various battle competitions against one another."
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "Casual Battles let you easily connect with all kinds\\nof other players for battles\u2014and for a bit of fun!\\nYou might see some unexpected Pok\u00E9mon and moves\\nbeing used in these easygoing battles."
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "Ranked Battles are the real deal. This is where\\nserious Trainers go to take one another on and try\\nto reach the highest ranks. Your rank shows how strong\\nyour team is, and it can go up and down based on\\nthe results of your battles."
+  },
+  {
+    "index": 22,
+    "flags": 4,
+    "text": "Online Competitions use a different system to measure\\nyour skill as a Trainer. Here you earn a number rating\\nthat shows where you stand among the competition.\\nFor a fixed period of time, you\u2019ll battle numerous other\\nTrainers, and those battles will make your rating go up\\nor down. Unlike other battle modes, it\u2019s up to you to\\nsearch out and select a competition you\u2019ll choose to\\ntake part in."
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "The Dynamax Phenomenon"
+  },
+  {
+    "index": 24,
+    "flags": 4,
+    "text": "In the Galar region, Pok\u00E9mon can become far larger\\nthan usual in certain places. This transformation is\\ncalled \u201CDynamaxing.\u201D Press the [VAR FF00(0006)]Dynamax button\\n[VAR FF00(0000)]when your Dynamax Band lights up to Dynamax\\nyour Pok\u00E9mon."
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Your Pok\u00E9mon can only Dynamax for [VAR FF00(0006)]three turns[VAR FF00(0000)]!\\nDuring that time, your Dynamax Pok\u00E9mon can use\\nextremely powerful moves known as [VAR FF00(0006)]Max Moves[VAR FF00(0000)].\\nThese Max Moves not only deal tremendous damage\u2014\\nthey can also trigger special effects! The exact effect\\nchanges depending on the type of the move used.\\nChoose carefully when to Dynamax your Pok\u00E9mon, and\\nsmash your way to victory!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Pok\u00E9mon Camp"
+  },
+  {
+    "index": 27,
+    "flags": 4,
+    "text": "In your Pok\u00E9mon Camp, you and your Pok\u00E9mon can\\nplay together and even eat together, growing closer\\nthrough the experience! If your Pok\u00E9mon grow very\\nclose to you, they may even try extra hard for you\\nduring battle!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "You can play using your Joy-Con, too! If you slide\\nyour Joy-Con off your system, you can wave one\\nabout to throw a ball for your Pok\u00E9mon to retrieve\\nor wave a Pok\u00E9 Toy for their delight. If you waggle\\nthat Pok\u00E9 Toy, you might even entice Pok\u00E9mon\\nhanging out farther back in your camp to come play!"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "When you set up camp in the Wild Area, you\u2019ll be\\nable to play with up to three other Trainers at a time.\\nAll kinds of people and Pok\u00E9mon might stumble upon\\nyour camp, even those you\u2019ve never met before,\\nso get to know them as you play together!"
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Cooking at Camp"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Cook up a fine curry while out camping by selecting\\ningredients and Berries of your liking!\\n\\nYour curries will get more delicious if you choose to\\ndo things like using rare ingredients or adding lots\\nof Berries, too."
+  },
+  {
+    "index": 32,
+    "flags": 4,
+    "text": "Once you start cooking, fan the flames with your fan\\nto keep things hot enough, and stir things up with your\\nladle to keep \u2019em moving. Only don\u2019t go overboard\u2014\\nyou don\u2019t want to spill! The last step will be to add a\\nbit of soul into it at just the right timing, and you\u2019ll\\nhave made a masterpiece for your Pok\u00E9mon to enjoy!"
+  },
+  {
+    "index": 33,
+    "flags": 4,
+    "text": "After you finish cooking, it\u2019ll be time for everyone to\\ndig in together. Eating a tasty curry can have a number\\nof effects on the Pok\u00E9mon that are at your camp,\\nincluding restoring their HP and making them feel\\nmore friendly toward you!"
+  },
+  {
+    "index": 34,
+    "flags": 0,
+    "text": "[~ 34]"
+  },
+  {
+    "index": 35,
+    "flags": 0,
+    "text": "Pok\u00E9mon Dens"
+  },
+  {
+    "index": 36,
+    "flags": 0,
+    "text": "The pillars of red light you\u2019ll see in the Wild Area\\nmark Pok\u00E9mon Dens. Dynamax Pok\u00E9mon dwell in\\nthese dens, and you\u2019ll be able to battle them by\\ninvestigating the den. You can start the battle on your\\nown or get up to three other players to help you out!"
+  },
+  {
+    "index": 37,
+    "flags": 4,
+    "text": "If you throw Wishing Chips into Pok\u00E9mon Dens\\nthat don\u2019t have a light pillar, Dynamax Pok\u00E9mon can\\nappear in them, too!\\n\\nTry throwing a Wishing Chip into a Pok\u00E9mon Den\\nyou come across and see what happens!"
+  },
+  {
+    "index": 38,
+    "flags": 0,
+    "text": "You will also find Pok\u00E9mon Dens that are glowing red\\nbut do not have the light pillar. Checking these dens\\nwill reward you with Watts!\\n\\nYou can give Watts to Trainers around the Wild Area\\nto receive lots of different items."
+  },
+  {
+    "index": 39,
+    "flags": 0,
+    "text": "Max Raid Battles"
+  },
+  {
+    "index": 40,
+    "flags": 0,
+    "text": "Defeat a Dynamax Pok\u00E9mon, and you\u2019ll get a chance\\nat catching it!\\n\\nAdditionally, there are some rare items that you can\\nonly obtain by battling Dynamax Pok\u00E9mon!"
+  },
+  {
+    "index": 41,
+    "flags": 0,
+    "text": "When wild Pok\u00E9mon Dynamax, they become\\nincredibly powerful. They may unleash multiple moves\\nin a row and take other actions you won\u2019t see in a\\nregular battle. Working together with other Trainers\\nwill be key as you take on these Dynamax Pok\u00E9mon\\ntogether as a team of four."
+  },
+  {
+    "index": 42,
+    "flags": 0,
+    "text": "The Flying Taxis"
+  },
+  {
+    "index": 43,
+    "flags": 4,
+    "text": "If you use the Flying Taxi service, one of their\\nwell-trained Corviknight will have you zipping across\\nthe Galar region to your desired destination in no\\ntime at all! Just open up the X menu, and use the\\nTown Map to choose where you want to go!"
+  },
+  {
+    "index": 44,
+    "flags": 0,
+    "text": "[~ 44]"
+  },
+  {
+    "index": 45,
+    "flags": 0,
+    "text": "Pok\u00E9mon Boxes"
+  },
+  {
+    "index": 46,
+    "flags": 0,
+    "text": "You can keep extra Pok\u00E9mon in your Pok\u00E9mon Boxes.\\nYou\u2019ve got your own Boxes in the Pok\u00E9mon storage\\nsystem, which you can access at the Rotom Information\\nterminals (Rotomi) found in Pok\u00E9mon Centers\\neverywhere. You can retrieve Pok\u00E9mon from your\\nBoxes at any Rotomi you visit, too!"
+  },
+  {
+    "index": 47,
+    "flags": 0,
+    "text": "Press the X Button to toggle between different modes\\nso you can organize your Boxes more easily.\\n\\nYou can move Pok\u00E9mon between your party and your\\nBoxes, or sort the Pok\u00E9mon in your Boxes based on\\na number of different criteria."
+  },
+  {
+    "index": 48,
+    "flags": 0,
+    "text": "Press the Y Button, and you can change what happens\\nas you select Pok\u00E9mon. The red cursor gives you\\ndetailed options for a single Pok\u00E9mon. The blue\\ncursor lets you move or select a Pok\u00E9mon easily.\\nAnd the green cursor lets you outline a rectangular\\narea so you can move several Pok\u00E9mon at once."
+  },
+  {
+    "index": 49,
+    "flags": 0,
+    "text": "[~ 49]"
+  },
+  {
+    "index": 50,
+    "flags": 0,
+    "text": "[~ 50]"
+  },
+  {
+    "index": 51,
+    "flags": 0,
+    "text": "[~ 51]"
+  },
+  {
+    "index": 52,
+    "flags": 0,
+    "text": "Pok\u00E9 Jobs"
+  },
+  {
+    "index": 53,
+    "flags": 0,
+    "text": "Pok\u00E9mon are in high demand as helpers in the Galar\\nregion, and you\u2019re able to send your own Pok\u00E9mon\\nout to help out on jobs!\\n\\nThe Pok\u00E9mon you send out will grow stronger from\\nthe experience they gain!"
+  },
+  {
+    "index": 54,
+    "flags": 0,
+    "text": "The job postings will be updated every day.\\nGood things will begin to happen if you send lots of\\nPok\u00E9mon to many jobs, so keep an eye out for new\\npostings and help out as much as you can!"
+  },
+  {
+    "index": 55,
+    "flags": 0,
+    "text": "Job postings are updated just once a day, but as you\\nget better evaluations, you\u2019ll find that the number of\\njob postings available will increase!\\n\\nSending a job requester lots of the type of Pok\u00E9mon\\nthey\u2019re seeking will get you a great evaluation, so\\nchoose Pok\u00E9mon that are best suited to each job!"
+  },
+  {
+    "index": 56,
+    "flags": 0,
+    "text": "[~ 56]"
+  },
+  {
+    "index": 57,
+    "flags": 0,
+    "text": "The Gym Challenge"
+  },
+  {
+    "index": 58,
+    "flags": 0,
+    "text": "The Gym Challenge is an event in which aspiring\\nTrainers travel around the Galar region to try to\\ncollect Gym Badges from eight of its Gyms.\\nTo earn a Gym Badge, you have to complete that\\nGym\u2019s mission and also defeat its Gym Leader."
+  },
+  {
+    "index": 59,
+    "flags": 0,
+    "text": "Live Competitions"
+  },
+  {
+    "index": 60,
+    "flags": 0,
+    "text": "Live Competitions let you gather together with others\\nand have competitions with one another.\\n\\nThese can be casual Friendly Competitions, which are\\nhosted among friends, or Official Competitions.\\n\\nIf you want to find out about current or upcoming\\nOfficial Competitions, check out Pok\u00E9mon\u2019s\\nofficial website."
+  },
+  {
+    "index": 61,
+    "flags": 0,
+    "text": "Hosting a Competition"
+  },
+  {
+    "index": 62,
+    "flags": 0,
+    "text": "Live Competitions can be hosted by anyone\u2014\\nincluding you!\\n\\nSet up the rules you\u2019d like everyone to battle with,\\nand then you can share them with all your competition\\nparticipants using your system\u2019s communication features!\\n\\nFor more information, head to Pok\u00E9mon\u2019s official website!"
+  },
+  {
+    "index": 63,
+    "flags": 0,
+    "text": "Casual Battles"
+  },
+  {
+    "index": 64,
+    "flags": 0,
+    "text": "Please observe the following rules when taking part in\\nCasual Battles:\\n\\n\u2022 Battle Teams must be made up of [VAR FF00(0006)]six different Pok\u00E9mon[VAR FF00(0000)].\\n\\n\u2022 No two Pok\u00E9mon can [VAR FF00(0006)]hold the same item[VAR FF00(0000)]."
+  },
+  {
+    "index": 65,
+    "flags": 0,
+    "text": "You can take part in Casual Battles even with special\\nPok\u00E9mon in your Battle Team.\\n\\nEnjoy battles with all your favorite Pok\u00E9mon!"
+  },
+  {
+    "index": 66,
+    "flags": 0,
+    "text": "Ranked Battles"
+  },
+  {
+    "index": 67,
+    "flags": 0,
+    "text": "Please observe the following rules when taking part in\\nRanked Battles:\\n\\n\u2022 Battle Teams must be made up of [VAR FF00(0006)]six different Pok\u00E9mon[VAR FF00(0000)].\\n\\n\u2022 No two Pok\u00E9mon can [VAR FF00(0006)]hold the same item[VAR FF00(0000)].\\n\\n\u2022 Teams must not contain[VAR FF00(0006)] any special Pok\u00E9mon[VAR FF00(0000)]."
+  },
+  {
+    "index": 68,
+    "flags": 0,
+    "text": "You\u2019ll earn or lose points based on the results of your\\nRanked Battles.\\n\\nOnce you\u2019ve gained a certain number of points from\\nyour Ranked Battles, you\u2019ll go up in rank. On the other\\nhand, if you lose enough points, you\u2019ll go down in rank."
+  },
+  {
+    "index": 69,
+    "flags": 0,
+    "text": "Ranks are sorted into different tiers. Once you reach\\na new tier, you won\u2019t fall back down into a lower tier,\\neven if you lose in your Ranked Battles.\\n\\nFor example, once you\u2019ve reached the Ultra Ball Tier,\\nyou won\u2019t fall back down into the Great Ball Tier,\\nregardless of how many battles you lose."
+  },
+  {
+    "index": 70,
+    "flags": 0,
+    "text": "Ranked Battles are held during set periods.\\nEach of these set periods is called a season.\\n\\nOnce one season ends, a new season will begin.\\n\\nWhen a new season begins, all players will have their\\nranks lowered. At this time only, you might find that\\nyou\u2019ve moved down a tier."
+  },
+  {
+    "index": 71,
+    "flags": 0,
+    "text": "The players who reach the highest rank in Ranked\\nBattles will no longer battle to reach a higher rank, but\\ninstead to see where they place among the best.\\n\\nA Trainer\u2019s place in the highest rank will go up or down\\nbased on the results of their battles."
+  },
+  {
+    "index": 72,
+    "flags": 4,
+    "text": "Online Competitions"
+  },
+  {
+    "index": 73,
+    "flags": 4,
+    "text": "Online Competitions can be broken down into two\\ncategories: Official Competitions and\\nFriendly Competitions."
+  },
+  {
+    "index": 74,
+    "flags": 4,
+    "text": "In Official Competitions, you take part in special\\nbattles with a variety of different rules and restrictions\\nin order to see where you place.\\n\\nDetails about the schedule for these competitions and\\nrestrictions on what Pok\u00E9mon you can use in them are\\nannounced on Pok\u00E9mon\u2019s official website."
+  },
+  {
+    "index": 75,
+    "flags": 0,
+    "text": "Friendly Competitions are competitions that are held\\nby players themselves. These are casual battles where\\nplayers come together to battle one another.\\n\\nYou can try your hand at plenty of Friendly Competitions!"
+  },
+  {
+    "index": 76,
+    "flags": 0,
+    "text": "Search for an Official Competition or a\\nFriendly Competition, and enter one to take\\npart in battles once the competition begins.\\n\\nSearch out competitions with rules that sound like a\\nfun challenge or that allow you to take part with the\\nPok\u00E9mon you like!"
+  },
+  {
+    "index": 77,
+    "flags": 0,
+    "text": "The Pok\u00E9mon Box Link"
+  },
+  {
+    "index": 78,
+    "flags": 0,
+    "text": "You can use the Pok\u00E9mon Box Link to access your\\nPok\u00E9mon Boxes while you\u2019re on the road. You\u2019ll be\\nable to add Pok\u00E9mon to your party or transfer\\nPok\u00E9mon from your party to a Box.\\n\\nYou can access your Boxes by selecting Pok\u00E9mon from\\nthe X menu and then pressing the R Button."
+  },
+  {
+    "index": 79,
+    "flags": 4,
+    "text": "Information about Ranked Battles"
+  },
+  {
+    "index": 80,
+    "flags": 0,
+    "text": "Select VS from the menu and then select\\nBattle Stadium to participate in Ranked Battles!\\nHone your skills at the Battle Tower, and then give\\nit a try!"
+  },
+  {
+    "index": 81,
+    "flags": 0,
+    "text": "Fishing"
+  },
+  {
+    "index": 82,
+    "flags": 4,
+    "text": "If you see shadows in the water, you\u2019ll likely find\\nPok\u00E9mon lurking beneath them. Face such a shadow\\nand press the A Button to cast your line and try to\\nfish up a catch! If your Fishing Rod shakes, press\\nthe A Button once more to reel in a Pok\u00E9mon.\\nTry fishing wherever you spot these shadows!"
+  },
+  {
+    "index": 83,
+    "flags": 0,
+    "text": "[~ 83]"
+  },
+  {
+    "index": 84,
+    "flags": 0,
+    "text": "Rental Teams"
+  },
+  {
+    "index": 85,
+    "flags": 0,
+    "text": "Rental Teams allow you to borrow other people\u2019s\\nBattle Teams that they\u2019ve shared over the internet,\\nor you can share your own team so other players can\\nsee how great it is!\\n\\nWhen a team is shared, it will be given a team ID.\\nInput that team ID when searching for a Rental Team,\\nand you\u2019ll be able to borrow the associated Battle Team!"
+  },
+  {
+    "index": 86,
+    "flags": 0,
+    "text": "The Isle of Armor"
+  },
+  {
+    "index": 87,
+    "flags": 0,
+    "text": "You have an Armor Pass!\\nShow it to the rail staff at Wedgehurst Station if you\\nwant to visit the Isle of Armor. You\u2019ll be able to set\\nout on a new adventure where you can catch rare\\nPok\u00E9mon and grow with your team!"
+  },
+  {
+    "index": 88,
+    "flags": 0,
+    "text": "The Crown Tundra"
+  },
+  {
+    "index": 89,
+    "flags": 0,
+    "text": "You have a Crown Pass!\\nShow it to the rail staff at Wedgehurst Station if you\\nwant to visit the Crown Tundra, a land where many\\nmysteries lurk within. New adventures await there, and\\nthe blanketing snow hides Legendary Pok\u00E9mon of yore!"
+  },
+  {
+    "index": 90,
+    "flags": 0,
+    "text": "Dynamax Adventure"
+  },
+  {
+    "index": 91,
+    "flags": 0,
+    "text": "Form a team of four Trainers, and set off to explore\\nthe mysterious Max Lair. See if you can find the\\nLegendary Pok\u00E9mon said to await you in the deepest\\npart of this unusual den!"
+  },
+  {
+    "index": 92,
+    "flags": 0,
+    "text": "To take part in a Dynamax Adventure, you must\\nborrow a single Pok\u00E9mon to accompany you.\\n\\nGet things started by having each Trainer select the\\nPok\u00E9mon they will take with them on their adventure."
+  },
+  {
+    "index": 93,
+    "flags": 4,
+    "text": "As you explore this den, you\u2019ll come to branches in\\nyour path. Decide as a team which way to go.\\nWhen you come across a Dynamax Pok\u00E9mon, it\u2019ll be\\ntime for a Max Raid Battle! Catch the Pok\u00E9mon, and\\nyou can swap it with the one you have if you think it\u2019ll\\nhelp you press on into the depths of the den."
+  },
+  {
+    "index": 94,
+    "flags": 0,
+    "text": "The King of Bountiful Harvests"
+  },
+  {
+    "index": 95,
+    "flags": 0,
+    "text": "There\u2019s a fairy tale in Freezington about the\\nLegendary Pok\u00E9mon known as the King of Bountiful\\nHarvests. In the legends, the king is said to wear a\\nmassive crown on its head, but the wooden statue\\nnear the fields in the middle of the village shows no\\nsign of a crown."
+  },
+  {
+    "index": 96,
+    "flags": 0,
+    "text": "Calyrex appeared once I placed the crown on the\\nstatue of the King of Bountiful Harvests.\\nCalyrex can apparently speak to humans by taking\\nover a person\u2019s body\u2014Peony\u2019s, in this case. Now I\\nneed to gather more information on the King of\\nBountiful Harvests from the people of the village!"
+  },
+  {
+    "index": 97,
+    "flags": 4,
+    "text": "In order to find the king\u2019s beloved steed, I\u2019ll need\\nto first get my hands on its favorite food\u2014carrots.\\nMaybe the people of Freezington can help me out."
+  },
+  {
+    "index": 98,
+    "flags": 4,
+    "text": "Upon hearing that I was able to find Carrot Seeds,\\nCalyrex told me about two fields where I can grow\\nthe carrots. I need to pick either the field covered in\\nsnow or the field by the graves and plant the seeds!"
+  },
+  {
+    "index": 99,
+    "flags": 0,
+    "text": "Calyrex was able to grow an Iceroot Carrot from the\\nseeds I planted in the field covered in snow! The\\nscent of the carrot lured Glastrier out, but it ran off\\ntoward Freezington."
+  },
+  {
+    "index": 100,
+    "flags": 0,
+    "text": "Calyrex was able to grow a Shaderoot Carrot from\\nthe seeds I planted in the field by the graves! The\\nscent of the carrot lured Spectrier out, but it ran off\\ntoward Freezington."
+  },
+  {
+    "index": 101,
+    "flags": 4,
+    "text": "Using the mane hair I got by defeating the Pok\u00E9mon\\nthat was once the king\u2019s loyal steed along with the\\nRadiant Petal grown by Calyrex itself, I was able\\nto re-create the Reins of Unity!\\nNow I need to head to the Crown Shrine, where the\\nsteed\u2019s been living, to meet up with Calyrex!"
+  },
+  {
+    "index": 102,
+    "flags": 0,
+    "text": "Calyrex, the King of Bountiful Harvests, was able\\nto reconnect with its loyal steed using the new Reins\\nof Unity. Calyrex also seems to have regained its\\ntrust in humankind. As thanks for helping it regain its\\npower, Calyrex is allowing me to take it along on\\nmy adventure!"
+  },
+  {
+    "index": 103,
+    "flags": 0,
+    "text": "The Legendary Giants"
+  },
+  {
+    "index": 104,
+    "flags": 0,
+    "text": "Far, far into the Giant\u2019s Bed lies a temple where the\\ngiant of stone sleeps. On the temple\u2019s door are\\nstrange words:\\n\u201CLet the... ... ...mon h... ... ...chang... ... ....one.\u201D\\nThe door remains firmly shut."
+  },
+  {
+    "index": 105,
+    "flags": 0,
+    "text": "Far, far into the Giant\u2019s Bed lies a temple where the\\ngiant of stone sleeps. On the temple\u2019s door are\\nstrange words:\\n[VAR FF00(0006)]\u201CLet the first Pok\u00E9mon hold a never-changing stone.\u201D\\nWhen I gave my Pok\u00E9mon an Everstone to hold, the\\ndoor opened\u2014and I found Regirock.[VAR FF00(0000)]"
+  },
+  {
+    "index": 106,
+    "flags": 0,
+    "text": "Sunken in the side of Snowslide Slope lies a temple\\nwhere the giant of ice sleeps. On the temple\u2019s door\\nare strange words:\\n\u201CWa... togeth... ... ...iving... ...stal... of sno...\u201D\\nThe door remains firmly shut."
+  },
+  {
+    "index": 107,
+    "flags": 0,
+    "text": "Sunken in the side of Snowslide Slope lies a temple\\nwhere the giant of ice sleeps. On the temple\u2019s door\\nare strange words:\\n[VAR FF00(0006)]\u201CWalk together with a living crystal of snow.\u201D[VAR FF00(0000)]\\n[VAR FF00(0006)]When I took a Cryogonal from its Pok\u00E9 Ball and had it\\nwalk with me, the door opened\u2014and I found Regice.[VAR FF00(0000)]"
+  },
+  {
+    "index": 108,
+    "flags": 0,
+    "text": "Near where green meets snow in the Giant\u2019s Bed lies\\na temple where the giant of steel sleeps. On the\\ntemple\u2019s door are strange words:\\n\u201CLet... ... out... ... ...note... ... wak... ... ...iant... ... ...eel.\u201D\\nThe door remains firmly shut."
+  },
+  {
+    "index": 109,
+    "flags": 0,
+    "text": "Near where green meets snow in the Giant\u2019s Bed lies\\na temple where the giant of steel sleeps. On the\\ntemple\u2019s door are strange words:\\n[VAR FF00(0006)]\u201CLet ring out the piercing note that will wake the giant\\nof steel.\u201D When I whistled before the door, it\\nopened\u2014and I found Registeel.[VAR FF00(0000)]"
+  },
+  {
+    "index": 110,
+    "flags": 4,
+    "text": "On the distant paths of Three-Point Pass lies a temple\\nwhere two giants sleep. On the temple\u2019s door are\\nstrange words:\\n\u201CWhe... ... ...ree ... ... ...door... ... ...all be ... ...ened.\u201D\\nThe door remains firmly shut."
+  },
+  {
+    "index": 111,
+    "flags": 4,
+    "text": "On the distant paths of Three-Point Pass lies a temple\\nwhere two giants sleep. On the temple\u2019s door are\\nstrange words:\\n[VAR FF00(0006)]\u201CWhen gather the three giants, the door of destiny\\nshall be opened.\u201D With the giants of stone, ice, and\\nsteel gathered, the door opened\u2014and I chose a giant.[VAR FF00(0000)]"
+  },
+  {
+    "index": 112,
+    "flags": 0,
+    "text": "The Bird Pok\u00E9mon of Legend"
+  },
+  {
+    "index": 113,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost."
+  },
+  {
+    "index": 114,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]The bird of orange dashed off to the Wild Area.\\nThe bird of black flew off to the Isle of Armor.\\nThe bird of purple set off across the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 115,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]Zapdos was caught in the Wild Area.\\nThe bird of black flew off to the Isle of Armor.\\nThe bird of purple set off across the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 116,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]The bird of orange dashed off to the Wild Area.\\nMoltres was caught on the Isle of Armor.\\nThe bird of purple set off across the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 117,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]The bird of orange dashed off to the Wild Area.\\nThe bird of black flew off to the Isle of Armor.\\nArticuno was caught in the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 118,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]Zapdos was caught in the Wild Area.\\nMoltres was caught on the Isle of Armor.\\nThe bird of purple set off across the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 119,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]Zapdos was caught in the Wild Area.\\nThe bird of black flew off to the Isle of Armor.\\nArticuno was caught in the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 120,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]The bird of orange dashed off to the Wild Area.\\nMoltres was caught on the Isle of Armor.\\nArticuno was caught in the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 121,
+    "flags": 0,
+    "text": "When the sun reaches its zenith, it shines directly\\ndown upon a great tree with leaves that seem to burn.\\nIt is there that the legendary wings come to roost.\\n[VAR FF00(0006)]Zapdos was caught in the Wild Area.\\nMoltres was caught on the Isle of Armor.\\nArticuno was caught in the Crown Tundra.[VAR FF00(0000)]"
+  },
+  {
+    "index": 122,
+    "flags": 0,
+    "text": "?????????"
+  },
+  {
+    "index": 123,
+    "flags": 4,
+    "text": "A m...ious l...ge h..le that con...cts o...r w...ld to\\nano...r. This phe...m...non was ori...ally dis...ered\\nby Prof...r M...n. The h... co...ts to wor...s\\nwhe... Ult... ...sts li...e. Th...e are be...s t...t are\\ndiff...nt fr...m the P...\u00E9m...n th... we ...re fam...ar w...th."
+  }
+]

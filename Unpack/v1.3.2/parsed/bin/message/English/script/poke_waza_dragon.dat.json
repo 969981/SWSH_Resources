@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "The strongest Dragon-type move is called\\nDraco Meteor.\\c\\nDo you want me to teach the move to\\nyour Pok\u00E9mon?"
+  },
+  {
+    "index": 1,
+    "flags": 4,
+    "text": "I understand... Moves that are too strong\\ncan be difficult to use."
+  },
+  {
+    "index": 2,
+    "flags": 4,
+    "text": "It looks like your Pok\u00E9mon can learn my move,\\nbut there\u2019s one condition that needs to be met.\\c\\nThat is...the Pok\u00E9mon has to be completely\\nfriendly toward you.\\c\\nI can teach the move only after the Pok\u00E9mon\\nbecomes totally bonded with you."
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "None of the Pok\u00E9mon you are with right now can\\nlearn this move...\\c\\nCome back when you obtain a Pok\u00E9mon that can\\nlearn this move!"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Then please select the Pok\u00E9mon that will learn\\nthis move."
+  },
+  {
+    "index": 5,
+    "flags": 4,
+    "text": "Oh, this Pok\u00E9mon can\u2019t learn this move."
+  },
+  {
+    "index": 6,
+    "flags": 4,
+    "text": "Oh, this is an Egg.\\nIt can\u2019t learn this move or any move."
+  },
+  {
+    "index": 7,
+    "flags": 4,
+    "text": "Oh, this Pok\u00E9mon already knows Draco Meteor."
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Draco Meteor is indeed the strongest\\nDragon-type move.\\c\\nHowever, using it harshly lowers the user\u2019s\\nSp. Atk stat."
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "Choose a move that will be replaced\\nwith [VAR 0107(0000)]."
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] learned [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 4,
+    "text": "One...[WAIT 20]two...[WAIT 20]and...[WAIT 20][WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] forgot [VAR 0107(0001)]!\\c\\nAnd it learned [VAR 0107(0002)] instead![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] did not learn\\n[VAR 0107(0001)]."
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "Which move should it forget?"
+  }
+]

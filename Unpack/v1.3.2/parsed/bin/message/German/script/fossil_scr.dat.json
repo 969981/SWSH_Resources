@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Willkommen auf der Traumfarm! Hier dreht\\nsich alles um die Erforschung von Fossilien."
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Hast du ein Fossil? Sollen wir es f\u00FCr dich\\nin ein Pok\u00E9mon zur\u00FCckverwandeln?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "[~ 2]"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Welches Fossil soll ich in ein Pok\u00E9mon\\nzur\u00FCckverwandeln?"
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Alles klar, \u00FCberlass das mir!\\c\\nIch mache aus diesem [VAR 0109(0000)]\\nwieder ein Pok\u00E9mon!"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Du willst doch kein Fossil zur\u00FCckverwandeln?\\n*Seufz...* Aber das w\u00E4r doch total cool!"
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "[~ 6]"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "Das Fossil, das du mir anvertraut hast,\\nist wieder zu einem Pok\u00E9mon geworden.\\c\\nHier ist es, dein [VAR 0101(0001)]!\\nSei bitte immer gut zu ihm!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "[VAR 0101(0001)] erhalten!"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[~ 9]"
+  },
+  {
+    "index": 10,
+    "flags": 0,
+    "text": "Hm? Na, so was! Dein Team ist schon voll.\\c\\nDann passe ich solange auf dein Pok\u00E9mon auf,\\nbis du es abholen kommst."
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "Irgendwann wird es hier nur so von Pok\u00E9mon\\naus l\u00E4ngst vergangenen Zeiten wimmeln!\\c\\nDas ist der Traum der Traumfarm,\\ndas Wiederaufleben der urzeitlichen Welt!"
+  },
+  {
+    "index": 12,
+    "flags": 0,
+    "text": "[VAR 0109(0003)]"
+  },
+  {
+    "index": 13,
+    "flags": 0,
+    "text": "[~ 13]"
+  },
+  {
+    "index": 14,
+    "flags": 0,
+    "text": "[~ 14]"
+  },
+  {
+    "index": 15,
+    "flags": 0,
+    "text": "[~ 15]"
+  },
+  {
+    "index": 16,
+    "flags": 0,
+    "text": "[~ 16]"
+  },
+  {
+    "index": 17,
+    "flags": 0,
+    "text": "[~ 17]"
+  },
+  {
+    "index": 18,
+    "flags": 0,
+    "text": "[~ 18]"
+  },
+  {
+    "index": 19,
+    "flags": 0,
+    "text": "[~ 19]"
+  },
+  {
+    "index": 20,
+    "flags": 0,
+    "text": "[~ 20]"
+  },
+  {
+    "index": 21,
+    "flags": 0,
+    "text": "[~ 21]"
+  },
+  {
+    "index": 22,
+    "flags": 0,
+    "text": "[~ 22]"
+  },
+  {
+    "index": 23,
+    "flags": 0,
+    "text": "Abbrechen"
+  },
+  {
+    "index": 24,
+    "flags": 0,
+    "text": "Wenn du Pok\u00E9mon aus l\u00E4ngst vergangenen\\nZeiten begegnen willst, musst du dich auf\\r\\ndie Suche nach Fossilien machen.\\c\\nDu wei\u00DFt \u00FCber Fossilien Bescheid, oder?"
+  },
+  {
+    "index": 25,
+    "flags": 0,
+    "text": "Wenn du ein Fossil findest, solltest du es\\nmeinem Papa geben. Es lohnt sich!"
+  },
+  {
+    "index": 26,
+    "flags": 0,
+    "text": "Fossilien sind die \u00DCberreste von Pok\u00E9mon aus\\nder Vorzeit, die in den Erdschichten erhalten\\r\\ngeblieben sind.\\c\\nDank ihnen k\u00F6nnen wir Pok\u00E9mon aus l\u00E4ngst\\nvergangenen Zeiten wiederbeleben!\\c\\nIst das nicht total cool?"
+  },
+  {
+    "index": 27,
+    "flags": 0,
+    "text": "Woah!\\nDu bist ja der Wahnsinn!\\c\\nWer h\u00E4tte das gedacht? Du hast alle Pok\u00E9mon,\\ndie man aus Fossilien wiederbeleben kann!\\c\\nDas ist so toll, dass ich dir einfach eine\\nBelohnung daf\u00FCr geben muss!\\c\\nDu bekommst den Titel \u201E[VAR 1100(00FF,1210,0000)]FossilienmeisterFossilienmeisterin\u201C\\nverliehen und einen Preis!"
+  },
+  {
+    "index": 28,
+    "flags": 0,
+    "text": "He, du! Hast du Interesse an Fossilien?\\c\\nDann kannst du mir ja vielleicht folgende\\nFrage beantworten.\\c\\nWelches niedliche Pok\u00E9mon ist aus meinem\\n[VAR 0109(000A)] entstanden?\\c\\nWenn du die Antwort wissen willst, musst du\\ngegen mich k\u00E4mpfen. Bist du bereit dazu?"
+  },
+  {
+    "index": 29,
+    "flags": 0,
+    "text": "Das ist echt schade.\\nD-Das macht mich richtig traurig..."
+  },
+  {
+    "index": 30,
+    "flags": 0,
+    "text": "Genau! Aus meinem [VAR 0109(000A)]\\nentstand ein zuckers\u00FC\u00DFes [VAR 0101(000B)]!"
+  },
+  {
+    "index": 31,
+    "flags": 0,
+    "text": "Ich m\u00F6chte noch weitere Fossilien wie mein\\ntolles [VAR 0109(000A)] entdecken!"
+  }
+]

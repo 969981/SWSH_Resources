@@ -1,0 +1,71 @@
+Bitte lege die Einzelheiten fest.
+ Bestätigen
+ Zurück
+Bitte wähle den Turnierzeitraum.
+Bitte lege das Startdatum des Turniers fest.
+Bitte lege das Schlussdatum des Turniers fest.
+Bitte lege die Anzahl der bestreitbaren Kämpfe fest.
+Bitte lege die Regeln zu Zeitbegrenzungen fest.
+Herunterladen
+Nicht herunterladen
+Alle Trainer
+Nur Trainer, welche die ID kennen
+Einstellen
+Nicht einstellen
+Zurück
+Möchtest du zusätzliche Kampfregeln\nherunterladen?
+Bitte lege fest, wer an deinem Turnier teilnehmen\ndarf.
+Möchtest du dem Turniernamen einen\nUntertitel hinzufügen?
+Ein Turnier ausrichten
+Turniername
+[VAR 01AF(0000)]
+[VAR 01AF(0000)]
+Regeln
+Einzelkampf
+Doppelkampf
+Normale Regeln
+Kampfturm-Regeln
+Keine Einschränkungen
+[~ 28]
+[VAR 01D5(0000)]
+Turnierzeitraum
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
+bis
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
+Teilnahmefähige Personen
+Alle Trainer
+Nur Trainer, welche die ID kennen
+Ausrichten
+Achtung!
+Du kannst das Turnier nicht widerrufen.
+Anzahl der Kämpfe
+Maximal [VAR 0201(0000)]
+Zeitbegrenzung
+Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n
+Gesamtzeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n
+Noch offen
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)]
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:00 Uhr bis
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:59 Uhr
+Turnierzeitraum
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], --:-- bis --:-- Uhr
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] bis --:-- Uhr
+[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000,0000)], [VAR 0201(0003)]:[VAR 0201(0004)] bis [VAR 0201(0005)]:[VAR 0201(0006)] Uhr
+Maximal [VAR 0201(0000)]
+Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n / Gesamtzeit: [VAR 0201(0001)] Minute[VAR 1101(0001,0100)]n
+Deine Zeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n / Gesamtzeit: unbeschränkt
+Deine Zeit: unbeschränkt / Gesamtzeit: [VAR 0201(0000)] Minute[VAR 1101(0000,0100)]n
+Kampfregeln werden übertragen...\nBitte das LAN-Kabel nicht entfernen.
+Die Kampfregeln wurden übertragen.\c
+Die Übertragung der Kampfregeln ist\nfehlgeschlagen.\c
+Kampfregeln übertragen
+Übertragung beginnen
+Sende die Kampfregeln per lokalem Modus\nan mehrere Personen gleichzeitig.
+Sende die Regeln über den LAN-Modus\nan eine andere Person.
+ Übertragung abbrechen
+Kampfregeln werden übertragen...\n(Drücke den B-Knopf, um abzubrechen.)
+Übertragung unterbrochen.\c
+Verbindung wird hergestellt...
+Verbinde dich über das LAN-Kabel mit\nanderen Spielern.
+Übertragung beginnen
+Drücke auf den Knopf, um die Übertragung\nder Kampfregeln zu beginnen.

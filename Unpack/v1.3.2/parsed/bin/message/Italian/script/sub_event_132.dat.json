@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "flags": 0,
+    "text": "Sento che hai talento...\\nMa hai ancora molta strada da fare.\\c\\nTorna a trovarmi quando sarai Campione[VAR 1100(00FF,0300)]ssa!"
+  },
+  {
+    "index": 1,
+    "flags": 0,
+    "text": "Wow! Sei diventat[VAR 1100(00FF,0101)]oa Campione[VAR 1100(00FF,0300)]ssa!\\c\\nVuoi che insegni a uno dei tuoi Pok\u00E9mon\\nla fenomenale mossa [VAR 0107(0001)]?"
+  },
+  {
+    "index": 2,
+    "flags": 0,
+    "text": "Vabb\u00E8! Alla prossima!"
+  },
+  {
+    "index": 3,
+    "flags": 0,
+    "text": "Mmmh, mi dispiace, ma nessuno dei tuoi\\nPok\u00E9mon pu\u00F2 impararla..."
+  },
+  {
+    "index": 4,
+    "flags": 0,
+    "text": "Perfetto! A quale Pok\u00E9mon vuoi che la insegni?"
+  },
+  {
+    "index": 5,
+    "flags": 0,
+    "text": "Mi dispiace, ma non posso insegnarla\\na [VAR 0102(0001)]..."
+  },
+  {
+    "index": 6,
+    "flags": 0,
+    "text": "Guarda che le Uova non possono mica\\nimparare mosse!"
+  },
+  {
+    "index": 7,
+    "flags": 0,
+    "text": "[VAR 0102(0001)] conosce gi\u00E0 questa mossa!"
+  },
+  {
+    "index": 8,
+    "flags": 0,
+    "text": "Quale mossa vuoi che dimentichi?"
+  },
+  {
+    "index": 9,
+    "flags": 0,
+    "text": "[VAR 0102(0000)] impara [VAR 0107(0001)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 10,
+    "flags": 4,
+    "text": "Uno,[WAIT 20] due[WAIT 20] e[WAIT 20]...[WAIT 20] ta-daaaa![VAR BE05(0003)][VAR BE05(0000)]\\c\\n[VAR 0102(0000)] dimentica [VAR 0107(0001)]!\\c\\nAl suo posto...\\c\\n[VAR 0102(0000)] impara [VAR 0107(0002)]![VAR BE05(0004)][VAR BE05(0001)]"
+  },
+  {
+    "index": 11,
+    "flags": 0,
+    "text": "La mossa Raggio d\u2019Acciaio ha una potenza cos\u00EC\\nimpressionante che danneggia anche chi la usa!"
+  }
+]
