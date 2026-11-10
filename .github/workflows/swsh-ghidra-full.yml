@@ -1,0 +1,208 @@
+name: SWSH 1.3.2 Ghidra 12.2 full analysis
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-ghidra-full.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: swsh-ghidra-full-analysis
+  cancel-in-progress: false
+
+jobs:
+  full-ghidra:
+    name: Ghidra 12.2 full analysis - ${{ matrix.game }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        game: [sword, shield]
+    env:
+      GAME: ${{ matrix.game }}
+      GHIDRA_RELEASE_SHA256: 2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67
+      GHIDRA_RELEASE_URL: https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip
+      GHIDRA_ARCHIVE: ghidra_12.2_PUBLIC_20261016.zip
+    steps:
+      - name: Checkout immutable inputs and export tools
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          persist-credentials: false
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /v1.3.2/0/
+            /tools/ghidra/
+            /.github/workflows/swsh-ghidra-full.yml
+
+      - name: Set up JDK 25 for official Ghidra 12.2
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "25"
+
+      - name: Check original ELF SHA-256 and prepare paths
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/ghidra_dist" "$RUNNER_TEMP/ghidra_work" "$RUNNER_TEMP/swsh_out"
+          ELF="$GITHUB_WORKSPACE/v1.3.2/0/${GAME}_main.elf"
+          if [ "$GAME" = sword ]; then
+            HASH=4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+          else
+            HASH=a6045f506af68254a434cc9c33658d5ec3171d18c55b0122b44fc645c347812a
+          fi
+          printf '%s  %s\n' "$HASH" "$ELF" | sha256sum --check
+          file "$ELF"
+          readelf -h "$ELF" | grep -E 'ELF64|AArch64|Machine:'
+          python3 -m py_compile tools/ghidra/swsh_build_sqlite.py tools/ghidra/swsh_extract_c.py
+          echo "ELF=$ELF" >> "$GITHUB_ENV"
+          echo "ELF_SHA256=$HASH" >> "$GITHUB_ENV"
+
+      - name: Download official Ghidra 12.2 and validate distribution
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 4 --retry-delay 10 "$GHIDRA_RELEASE_URL" -o "$RUNNER_TEMP/$GHIDRA_ARCHIVE"
+          printf '%s  %s\n' "$GHIDRA_RELEASE_SHA256" "$RUNNER_TEMP/$GHIDRA_ARCHIVE" | sha256sum --check
+          unzip -q "$RUNNER_TEMP/$GHIDRA_ARCHIVE" -d "$RUNNER_TEMP/ghidra_dist"
+          HEADLESS="$(find "$RUNNER_TEMP/ghidra_dist" -maxdepth 4 -path '*/support/analyzeHeadless' -type f -print -quit)"
+          test -n "$HEADLESS"
+          chmod +x "$HEADLESS"
+          echo "GHIDRA_HEADLESS=$HEADLESS" >> "$GITHUB_ENV"
+          rm -f "$RUNNER_TEMP/$GHIDRA_ARCHIVE"
+          if ! command -v zstd; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq zstd
+          fi
+
+      - name: Import ELF, analyze all code, decompile every recovered function
+        shell: bash
+        run: |
+          set -euo pipefail
+          timeout --signal=TERM --kill-after=40s 326m \
+            "$GHIDRA_HEADLESS" "$RUNNER_TEMP/ghidra_work" "SWSH_${GAME}" \
+              -import "$ELF" \
+              -scriptPath "$GITHUB_WORKSPACE/tools/ghidra" \
+              -analysisTimeoutPerFile 15000 \
+              -max-cpu 2 \
+              -postScript SWSHExport.java \
+                "$RUNNER_TEMP/swsh_out/${GAME}_events.ndjson.gz" all 20 \
+              -log "$RUNNER_TEMP/swsh_out/${GAME}_ghidra_headless.log" \
+              -scriptlog "$RUNNER_TEMP/swsh_out/${GAME}_ghidra_script.log" \
+            2>&1 | tee "$RUNNER_TEMP/swsh_out/${GAME}_ghidra_console.log"
+          test -s "$RUNNER_TEMP/swsh_out/${GAME}_events.ndjson.gz"
+          test -f "$RUNNER_TEMP/ghidra_work/SWSH_${GAME}.gpr"
+          test -d "$RUNNER_TEMP/ghidra_work/SWSH_${GAME}.rep"
+
+      - name: Build indexed SQLite and verify full Ghidra export
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/ghidra/swsh_build_sqlite.py \
+            --game "$GAME" --elf "$ELF" \
+            --input "$RUNNER_TEMP/swsh_out/${GAME}_events.ndjson.gz" \
+            --out "$RUNNER_TEMP/swsh_out/${GAME}.sqlite" \
+            --report "$RUNNER_TEMP/swsh_out/${GAME}_sqlite_manifest.json"
+          python3 - "$RUNNER_TEMP/swsh_out/${GAME}.sqlite" "$RUNNER_TEMP/swsh_out/${GAME}_sqlite_manifest.json" <<'PY'
+          import json,sqlite3,sys
+          report=json.load(open(sys.argv[2]))
+          assert report['status']=='COMPLETE' and report['decompile_requested'], report
+          with sqlite3.connect(sys.argv[1]) as db:
+              assert db.execute('PRAGMA integrity_check').fetchone()[0]=='ok'
+              assert db.execute('SELECT COUNT(*) FROM functions').fetchone()[0]>0
+              assert db.execute('SELECT COUNT(*) FROM instructions').fetchone()[0]>0
+              assert db.execute('SELECT COUNT(*) FROM decompilation').fetchone()[0]==db.execute('SELECT COUNT(*) FROM functions').fetchone()[0]
+          print('SWSH native Ghidra SQLite is complete:',report['counts'])
+          PY
+
+      - name: Export all successful Ghidra C pseudocode and every failure status
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/ghidra/swsh_extract_c.py \
+            --input "$RUNNER_TEMP/swsh_out/${GAME}_events.ndjson.gz" \
+            --zip "$RUNNER_TEMP/swsh_out/${GAME}_all_c.zip" \
+            --index "$RUNNER_TEMP/swsh_out/${GAME}_decompiled_index.csv" \
+            --report "$RUNNER_TEMP/swsh_out/${GAME}_decompiled_manifest.json" \
+            --elf-sha "$ELF_SHA256"
+          python3 - "$RUNNER_TEMP/swsh_out/${GAME}_decompiled_manifest.json" <<'PY'
+          import json,sys
+          m=json.load(open(sys.argv[1]))
+          assert m['decompiler_attempted']==m['functions'] and m['c_success']>0, m
+          assert m['c_success']+m['c_fail_or_empty']==m['functions'], m
+          print('Functions:',m['functions'],'C recovered:',m['c_success'],'failed:',m['c_fail_or_empty'])
+          PY
+
+      - name: Archive editable native Ghidra project with all annotations
+        shell: bash
+        run: |
+          set -euo pipefail
+          tar -I 'zstd -T2 -5' -C "$RUNNER_TEMP/ghidra_work" \
+            -cf "$RUNNER_TEMP/swsh_out/${GAME}_ghidra_project.tar.zst" \
+            "SWSH_${GAME}.gpr" "SWSH_${GAME}.rep"
+          test -s "$RUNNER_TEMP/swsh_out/${GAME}_ghidra_project.tar.zst"
+          {
+            echo "### ${GAME} Ghidra 12.2 export"
+            cat "$RUNNER_TEMP/swsh_out/${GAME}_sqlite_manifest.json"
+            cat "$RUNNER_TEMP/swsh_out/${GAME}_decompiled_manifest.json"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload native Ghidra project archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-project
+          retention-days: 30
+          compression-level: 0
+          if-no-files-found: error
+          path: ${{ runner.temp }}/swsh_out/${{ matrix.game }}_ghidra_project.tar.zst
+
+      - name: Upload SQLite and provenance
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-sqlite
+          retention-days: 30
+          if-no-files-found: error
+          path: |
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}.sqlite
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_sqlite_manifest.json
+
+      - name: Upload all recovered C functions and failure coverage
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-c
+          retention-days: 30
+          compression-level: 0
+          if-no-files-found: error
+          path: |
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_all_c.zip
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_decompiled_index.csv
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_decompiled_manifest.json
+
+      - name: Upload all machine-readable Ghidra events
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-ndjson
+          retention-days: 30
+          compression-level: 0
+          if-no-files-found: error
+          path: ${{ runner.temp }}/swsh_out/${{ matrix.game }}_events.ndjson.gz
+
+      - name: Upload diagnostics even when analysis fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-diagnostics
+          retention-days: 30
+          if-no-files-found: warn
+          path: |
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_ghidra_headless.log
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_ghidra_script.log
+            ${{ runner.temp }}/swsh_out/${{ matrix.game }}_ghidra_console.log
