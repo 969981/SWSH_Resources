@@ -7,6 +7,8 @@ Obsidian-compatible entry point. Follow Markdown links; no Obsidian plugins are 
 - [[resource-provenance|Resource provenance]] — source SHA-256 and evidence labels
 - [[formats/swsh-file-families|SWSH file families]] — known extensions and parsing priorities
 - [[research/sword-vs-shield-1.3.2|Sword vs Shield 1.3.2]] — verified manifest comparison
+- [[research/swsh-main-nx2elf|Sword/Shield ELF reconstruction]] — nx2elf provenance
+- [[research/swsh-ghidra-full-analysis|Sword/Shield Ghidra 12.2 static analysis]] — native project, raw SQLite/NDJSON shards, C source and function-byte comparison
 - [[research-roadmap|Research roadmap]] — next technical steps
 
 ## Note conventions
