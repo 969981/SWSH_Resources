@@ -1,0 +1,189 @@
+name: SWSH Ghidra 12.2 P-code SSA and CFG export
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-pcode-ssa.yml"
+      - "tools/ghidra/SWSHExportPcodeSSA.java"
+      - "derived/v1.3.2/Ghidra_12.2_Run_42771375134/semantic_triage_v1/priority_review_entries.txt"
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: swsh-132-pcode-ssa-export
+  cancel-in-progress: false
+
+jobs:
+  export-pcode-ssa:
+    if: github.repository == '969981/SWSH_Resources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 140
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPO: "969981/SWSH_Resources"
+      SOURCE_RUN: "42835143370"
+      ENTRIES: "derived/v1.3.2/Ghidra_12.2_Run_42771375134/semantic_triage_v1/priority_review_entries.txt"
+      DEST: "derived/v1.3.2/Ghidra_12.2_Run_42771375134/semantic_triage_v1/pcode_ssa_v1"
+    steps:
+      - name: Checkout P-code exporter and selected review list
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/ghidra/SWSHExportPcodeSSA.java
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/semantic_triage_v1/priority_review_entries.txt
+            /.github/workflows/swsh-pcode-ssa.yml
+
+      - name: Install Java 25 and zstd
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "25"
+      - name: Install archive utility
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq zstd
+
+      - name: Download and verify Ghidra 12.2
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 --retry-delay 10 \
+            "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip" \
+            -o "$RUNNER_TEMP/ghidra.zip"
+          printf '%s  %s\n' \
+            "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67" \
+            "$RUNNER_TEMP/ghidra.zip" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/ghidra"
+          unzip -q "$RUNNER_TEMP/ghidra.zip" -d "$RUNNER_TEMP/ghidra"
+          HEADLESS="$(find "$RUNNER_TEMP/ghidra" -path '*/support/analyzeHeadless' -type f -print -quit)"
+          test -n "$HEADLESS"
+          chmod +x "$HEADLESS"
+          echo "HEADLESS=$HEADLESS" >> "$GITHUB_ENV"
+
+      - name: Export CFG, SSA P-code and prototypes from both annotated projects
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/incoming" "$RUNNER_TEMP/projects" "$RUNNER_TEMP/pcode"
+          for game in sword shield; do
+            rm -rf "$RUNNER_TEMP/incoming/$game" "$RUNNER_TEMP/projects/$game"
+            mkdir -p "$RUNNER_TEMP/incoming/$game" "$RUNNER_TEMP/projects/$game" "$RUNNER_TEMP/pcode/$game"
+            gh run download "$SOURCE_RUN" -R "$REPO" \
+              --name "SWSH-$game-annotated-Ghidra-12.2-project" \
+              --dir "$RUNNER_TEMP/incoming/$game"
+            test -s "$RUNNER_TEMP/incoming/$game/SWSH-$game-annotated-ghidra-project.tar.zst"
+            tar -I zstd -xf "$RUNNER_TEMP/incoming/$game/SWSH-$game-annotated-ghidra-project.tar.zst" \
+              -C "$RUNNER_TEMP/projects/$game"
+            test -f "$RUNNER_TEMP/projects/$game/SWSH_$game.gpr"
+            test -d "$RUNNER_TEMP/projects/$game/SWSH_$game.rep"
+
+            timeout --signal=TERM --kill-after=45s 95m \
+              "$HEADLESS" "$RUNNER_TEMP/projects/$game" "SWSH_$game" \
+                -process "$game"_main.elf \
+                -noanalysis \
+                -scriptPath "$GITHUB_WORKSPACE/tools/ghidra" \
+                -postScript SWSHExportPcodeSSA.java \
+                  "$GITHUB_WORKSPACE/$ENTRIES" "$RUNNER_TEMP/pcode/$game" "$game" \
+                -log "$RUNNER_TEMP/pcode/$game-headless.log" \
+                -scriptlog "$RUNNER_TEMP/pcode/$game-script.log" \
+              2>&1 | tee "$RUNNER_TEMP/pcode/$game-console.log"
+
+            python - "$RUNNER_TEMP/pcode/$game/${game}_pcode_ssa_summary.json" <<'PY'
+          import json,sys
+          from pathlib import Path
+          p=Path(sys.argv[1])
+          r=json.loads(p.read_text(encoding="utf-8"))
+          assert r["requested"]==50,r
+          assert r["functions_found"]>=45,r
+          assert r["functions_decompiled"]>=40,r
+          assert r["pcode_ops"]>0,r
+          print(json.dumps(r,ensure_ascii=False,indent=2))
+          PY
+          done
+
+      - name: Compress outputs and prepare evidence manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$DEST"
+          cp "$ENTRIES" "$DEST/priority_review_entries.txt"
+          for game in sword shield; do
+            target="$DEST/$game"
+            mkdir -p "$target"
+            cp "$RUNNER_TEMP/pcode/$game/"*.tsv "$target/"
+            cp "$RUNNER_TEMP/pcode/$game/"*_summary.json "$target/"
+            gzip -9 "$target/"*.tsv
+            cat > "$target/README.md" <<EOF
+          # $game — Ghidra 12.2 P-code SSA / CFG export
+
+          Source editable project: annotation run $SOURCE_RUN.
+          Source static analysis baseline: run 42771375134.
+          Entry selection: ../priority_review_entries.txt (50 same-RVA review pairs).
+
+          - function_prototypes.tsv.gz: decompiler-inferred return types, parameters and calling conventions.
+          - cfg_blocks.tsv.gz and cfg_edges.tsv.gz: decompiler high-level basic blocks and directed edges.
+          - pcode_ops.tsv.gz: P-code operations, operation addresses, SSA input/output varnode IDs.
+          - ssa_varnodes.tsv.gz: varnode locations, sizes, high variables, inferred types and defining operations.
+          - function_status.tsv.gz: per-function decompilation/export status.
+          - pcode_ssa_summary.json: counts and completeness.
+
+          P-code SSA is a static decompiler representation. MULTIEQUAL operations are phi-like merges. It does not establish runtime behavior.
+          EOF
+          done
+          python - <<'PY'
+          import hashlib,json,os
+          from pathlib import Path
+          root=Path(os.environ["GITHUB_WORKSPACE"])/os.environ["DEST"]
+          result={"status":"P_CODE_SSA_EXPORTS_PREPARED","source_run_id":42835143370,
+                  "baseline_run_id":42771375134,"games":{}}
+          for game in ("sword","shield"):
+            p=root/game/(game+"_pcode_ssa_summary.json")
+            result["games"][game]=json.loads(p.read_text(encoding="utf-8"))
+          result["selected_entries_sha256"]=hashlib.sha256((root/"priority_review_entries.txt").read_bytes()).hexdigest()
+          (root/"combined_summary.json").write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps(result,ensure_ascii=False,indent=2))
+          PY
+          oversized="$(find "$DEST" -type f -size +45M -print -quit)"
+          test -z "$oversized"
+          cat "$DEST/combined_summary.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish compact CFG and SSA evidence to master
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --sparse -f -- "$DEST"
+          if git diff --cached --quiet; then
+            echo "P-code SSA outputs already current"
+          else
+            git commit -m "data(swsh): publish selected Ghidra P-code SSA and CFG evidence"
+            pushed=0
+            for attempt in 1 2 3 4 5 6 7 8 9 10; do
+              git fetch -q origin master
+              git rebase origin/master
+              if git push origin HEAD:refs/heads/master; then pushed=1; break; fi
+              sleep $((attempt * 4))
+            done
+            test "$pushed" -eq 1
+          fi
+
+      - name: Upload complete P-code SSA and CFG evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-Pcode-SSA-CFG-Review
+          retention-days: 30
+          if-no-files-found: error
+          path: |
+            ${{ runner.temp }}/pcode/sword
+            ${{ runner.temp }}/pcode/shield
+            ${{ runner.temp }}/pcode/sword-console.log
+            ${{ runner.temp }}/pcode/shield-console.log
