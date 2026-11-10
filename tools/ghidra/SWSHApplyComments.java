@@ -5,7 +5,7 @@
 // Existing non-SWSH plate comments are preserved.
 import ghidra.app.script.GhidraScript;
 import ghidra.program.model.address.Address;
-import ghidra.program.model.listing.CodeUnit;
+import ghidra.program.model.listing.CommentType;
 import ghidra.program.model.listing.Function;
 import ghidra.program.model.listing.FunctionManager;
 import ghidra.program.model.listing.Listing;
@@ -21,7 +21,7 @@ public class SWSHApplyComments extends GhidraScript {
             .replace("\n", "\\n").replace("\r", "\\r");
     }
 
-    private static long parseAddress(String text) {
+    private static long parseEntryOffset(String text) {
         String value = text.trim().toLowerCase(java.util.Locale.ROOT);
         if (value.contains(":")) value = value.substring(value.lastIndexOf(':') + 1);
         if (value.startsWith("0x")) value = value.substring(2);
@@ -65,19 +65,19 @@ public class SWSHApplyComments extends GhidraScript {
                         Base64.getDecoder().decode(line.substring(tab + 1)),
                         StandardCharsets.UTF_8
                     );
-                    Address address = toAddr(parseAddress(entry));
+                    Address address = toAddr(parseEntryOffset(entry));
                     Function function = manager.getFunctionAt(address);
                     if (function == null) {
                         missing++;
                         continue;
                     }
-                    String old = listing.getComment(address, CodeUnit.PLATE_COMMENT);
+                    String old = listing.getComment(CommentType.PLATE, address);
                     String merged = comment;
                     if (old != null && !old.isBlank() && !old.contains(marker)) {
                         merged = comment + "\n\n/* Existing Ghidra plate comment preserved. */\n" + old;
                         preservedExisting++;
                     }
-                    listing.setComment(address, CodeUnit.PLATE_COMMENT, merged);
+                    listing.setComment(address, CommentType.PLATE, merged);
                     applied++;
                 } catch (Exception error) {
                     malformed++;
