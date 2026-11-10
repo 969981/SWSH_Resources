@@ -1,0 +1,41 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 014b5db0; name: FUN_014b5db0
+ */
+
+
+void FUN_014b5db0(undefined8 param_1,undefined8 param_2,undefined4 param_3,undefined8 param_4)
+
+{
+  int iVar1;
+  int iVar2;
+  int iVar3;
+  undefined1 uVar4;
+  uint uVar5;
+  tm *ptVar6;
+  time_t local_70;
+  undefined8 local_68;
+  
+  uVar5 = FUN_0087f070();
+  local_68 = FUN_006c5800();
+  local_70 = FUN_006c5880(&local_68);
+  ptVar6 = localtime(&local_70);
+  iVar3 = ptVar6->tm_year;
+  iVar1 = ptVar6->tm_mday;
+  iVar2 = ptVar6->tm_mon;
+  FUN_00878f70(param_1,3,param_3);
+  FUN_00878f70(param_1,0,(uint)(iVar3 % 100) % 100);
+  FUN_00878f70(param_1,1,iVar2 + 1);
+  FUN_00878f70(param_1,2,iVar1);
+  FUN_00878f70(param_1,7,0);
+  FUN_00878f70(param_1,4,0);
+  FUN_00878f70(param_1,5,0);
+  FUN_00878f70(param_1,6,0);
+  FUN_014b56b0(param_1,param_2,param_4);
+  uVar4 = FUN_008d4270();
+  FUN_00878a70(param_1,uVar4);
+  FUN_0087f0c0(param_1,uVar5 & 1);
+  return;
+}
+
+
