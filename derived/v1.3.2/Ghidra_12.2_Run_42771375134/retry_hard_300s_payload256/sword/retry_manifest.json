@@ -1,0 +1,43 @@
+{
+  "status": "GHIDRA_EXTENDED_DECOMPILER_AUDIT",
+  "source_run_id": 42771375134,
+  "game": "sword",
+  "timeout_seconds": 300,
+  "max_payload_mb": 256,
+  "attempted": 3,
+  "successful_c": 1,
+  "still_failed": 2,
+  "rows": [
+    {
+      "entry": "00add620",
+      "name": "FUN_00add620",
+      "status": "FAILED",
+      "function_timeout_seconds": "300",
+      "max_payload_mb": "256",
+      "c_file": "",
+      "error": "Exception while decompiling 00add620: process: timeout "
+    },
+    {
+      "entry": "00b1c010",
+      "name": "FUN_00b1c010",
+      "status": "FAILED",
+      "function_timeout_seconds": "300",
+      "max_payload_mb": "256",
+      "c_file": "",
+      "error": "Exception while decompiling 00b1c010: process: timeout "
+    },
+    {
+      "entry": "00f7af20",
+      "name": "FUN_00f7af20",
+      "status": "OK",
+      "function_timeout_seconds": "300",
+      "max_payload_mb": "256",
+      "c_file": "00f7af20.c",
+      "error": "",
+      "c_bytes": 224572,
+      "c_sha256": "b1af1877fc523587c217f110ee517fae2dd49561bf5228ccf8215f9f497a785d",
+      "git_c_file": "00f7af20.c"
+    }
+  ],
+  "note": "Only actual Ghidra-generated C or raw byte chunks; failure statuses retained."
+}
