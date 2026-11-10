@@ -1,0 +1,104 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 0147e3e0; name: FUN_0147e3e0
+ */
+
+
+void FUN_0147e3e0(long *param_1)
+
+{
+  undefined8 *puVar1;
+  long *plVar2;
+  undefined *puVar3;
+  char cVar4;
+  bool bVar5;
+  size_t __n;
+  undefined *puVar6;
+  long lVar7;
+  long lVar8;
+  undefined *puVar9;
+  long lVar10;
+  undefined *puVar11;
+  long *plVar12;
+  
+  puVar9 = PTR_DAT_02729fb8;
+  *param_1 = (long)(PTR_DAT_02729fb0 + 0x10);
+  plVar12 = param_1 + 5;
+  *plVar12 = (long)(puVar9 + 0x10);
+  *(undefined8 *)PTR_DAT_02729fc0 = 0;
+  if (param_1[8] != 0) {
+    (**(code **)(*(long *)param_1[6] + 0xb8))();
+  }
+  if (param_1[0xc] != 0) {
+    (**(code **)(*(long *)param_1[10] + 0xb8))();
+  }
+  if (param_1[0x10] != 0) {
+    (**(code **)(*(long *)param_1[0xe] + 0xb8))();
+  }
+  *plVar12 = (long)(PTR_DAT_02710528 + 0x10);
+  lVar7 = FUN_007606c0();
+  lVar8 = nn::os::GetCurrentThread();
+  plVar2 = (long *)(lVar7 + 0x10);
+  do {
+    if (*plVar2 != 0) {
+      ClearExclusiveLocal();
+      do {
+        nn::os::WaitLightEvent((LightEventType *)(lVar7 + 4));
+        while (*plVar2 == 0) {
+          cVar4 = '\x01';
+          bVar5 = (bool)ExclusiveMonitorPass(plVar2,0x10);
+          if (bVar5) {
+            *plVar2 = lVar8;
+            cVar4 = ExclusiveMonitorsStatus();
+          }
+          if (cVar4 == '\0') goto LAB_0147e4d0;
+        }
+        ClearExclusiveLocal();
+      } while( true );
+    }
+    cVar4 = '\x01';
+    bVar5 = (bool)ExclusiveMonitorPass(plVar2,0x10);
+    if (bVar5) {
+      *plVar2 = lVar8;
+      cVar4 = ExclusiveMonitorsStatus();
+    }
+  } while (cVar4 != '\0');
+LAB_0147e4d0:
+  puVar6 = PTR_DAT_02710530;
+  lVar8 = *(long *)(PTR_DAT_02710530 + 0x800);
+  lVar10 = lVar8 * 8;
+  puVar3 = PTR_DAT_02710530 + lVar10;
+  puVar9 = PTR_DAT_02710530;
+  if (lVar10 != 0 && *(long **)PTR_DAT_02710530 != plVar12) {
+    puVar11 = PTR_DAT_02710530;
+    do {
+      lVar10 = lVar10 + -8;
+      if (lVar10 == 0) goto LAB_0147e544;
+      puVar9 = puVar11 + 8;
+      puVar1 = (undefined8 *)(puVar11 + 8);
+      puVar11 = puVar9;
+    } while ((long *)*puVar1 != plVar12);
+  }
+  if (puVar3 != puVar9) {
+    __n = (long)puVar3 - (long)(puVar9 + 8);
+    if (__n != 0) {
+      memmove(puVar9,puVar9 + 8,__n);
+      lVar8 = *(long *)(puVar6 + 0x800);
+    }
+    *(long *)(puVar6 + 0x800) = lVar8 + -1;
+  }
+LAB_0147e544:
+  do {
+    cVar4 = '\x01';
+    bVar5 = (bool)ExclusiveMonitorPass(plVar2,0x10);
+    if (bVar5) {
+      *plVar2 = 0;
+      cVar4 = ExclusiveMonitorsStatus();
+    }
+  } while (cVar4 != '\0');
+  nn::os::SignalLightEvent((LightEventType *)(lVar7 + 4));
+  *param_1 = (long)(PTR_DAT_02717510 + 0x10);
+  return;
+}
+
+
