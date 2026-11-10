@@ -54,6 +54,11 @@ def address_key(value):
     return address_number(value)
 
 
+def format_address(value):
+    number = value if isinstance(value, int) else address_number(value)
+    return format(number, "08x") if number <= 0xffffffff else format(number, "x")
+
+
 def digest_file(path):
     h = hashlib.sha256()
     with path.open("rb") as stream:
@@ -259,7 +264,7 @@ def target_label(key, functions, symbols):
         return "0x" + f["entry"] + " " + clean(f["name"], 90)
     sym = symbols.get(key)
     if sym and sym["name"]:
-        return "0x" + format(key, "x") + " " + sym["name"]
+        return "0x" + format_address(key) + " " + sym["name"]
     return "0x" + format(key, "x")
 
 
@@ -440,10 +445,10 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
                     for x in caller_keys
                 ]
                 string_items = sorted(
-                    ((format(addr, "x"), value) for addr, value in string_refs.get(key, {}).items()),
+                    ((format_address(addr), value) for addr, value in string_refs.get(key, {}).items()),
                     key=lambda x: x[0]
                 )
-                read_items = sorted(format(x, "x") for x in reads.get(key, set()))
+                read_items = sorted(format_address(x) for x in reads.get(key, set()))
                 write_items = sorted(format(x, "x") for x in writes.get(key, set()))
                 role, confidence = infer_role(item, len(caller_keys), callee_labels, string_items)
                 comment = make_comment(
@@ -461,7 +466,7 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
                         clean(item["name"], 140) + "\n"
                         " */\n\n"
                     )
-                    member = game + "/c/" + format(key, "x")[:2] + "/" + format(key, "x") + ".c"
+                    member = game + "/c/" + format_address(key)[:2] + "/" + format_address(key) + ".c"
                     zf.writestr(member, comment + preface + c_text.rstrip() + "\n")
                     normalized_status = "OK_ORIGINAL"
                 else:
@@ -517,7 +522,7 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
                     continue
                 retry_tier = "300S" if "300s" in str(path).lower() or "hard" in str(path).lower() else "180S"
                 record["decompile_status"] = "OK_RETRY_" + retry_tier
-                member = game + "/c_retry/" + format(key, "x") + ".c"
+                member = game + "/c_retry/" + format_address(key) + ".c"
                 zf.writestr(member, record["comment"] + raw.rstrip() + "\n")
                 supplemental_added += 1
                 supplemental_status[retry_tier] += 1
