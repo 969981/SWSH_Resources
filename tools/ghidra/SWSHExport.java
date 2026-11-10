@@ -8,12 +8,16 @@ import ghidra.app.decompiler.DecompInterface;
 import ghidra.app.decompiler.DecompileResults;
 import ghidra.program.model.address.Address;
 import ghidra.program.model.address.AddressIterator;
+import ghidra.program.model.address.AddressRangeIterator;
+import ghidra.program.model.address.AddressRange;
 import ghidra.program.model.address.AddressSetView;
 import ghidra.program.model.listing.*;
 import ghidra.program.model.mem.MemoryBlock;
 import ghidra.program.model.symbol.*;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.util.HexFormat;
 import java.util.*;
 import java.util.zip.GZIPOutputStream;
 
@@ -140,6 +144,32 @@ public class SWSHExport extends GhidraScript {
         }
     }
 
+    // SHA-256 over every Ghidra function-body address range, in ascending order.
+    // This is a static machine-byte fingerprint; no semantic equivalence implied.
+    private String bodySha256(Function function) {
+        try {
+            MessageDigest digest = MessageDigest.getInstance("SHA-256");
+            AddressRangeIterator ranges = function.getBody().getAddressRanges();
+            byte[] buffer = new byte[65536];
+            while (ranges.hasNext()) {
+                AddressRange span = ranges.next();
+                Address address = span.getMinAddress();
+                long left = span.getLength();
+                while (left > 0) {
+                    int size = (int)Math.min(left, buffer.length);
+                    int read = currentProgram.getMemory().getBytes(address, buffer, 0, size);
+                    if (read != size) return null;
+                    digest.update(buffer, 0, size);
+                    left -= size;
+                    address = address.add(size);
+                }
+            }
+            return HexFormat.of().formatHex(digest.digest());
+        } catch (Exception error) {
+            return null;
+        }
+    }
+
     private void exportFunctions(DecompInterface decomp, boolean all, int timeout) throws Exception {
         FunctionIterator iterator = currentProgram.getFunctionManager().getFunctions(true);
         while (iterator.hasNext()) {
@@ -151,6 +181,7 @@ public class SWSHExport extends GhidraScript {
             r.put("body_min", addr(f.getBody().getMinAddress()));
             r.put("body_max", addr(f.getBody().getMaxAddress()));
             r.put("body_bytes", f.getBody().getNumAddresses());
+            r.put("body_sha256", bodySha256(f));
             r.put("signature", clipped(f.getSignature(), 2048));
             r.put("thunk", f.isThunk());
             r.put("external", f.isExternal());
