@@ -1,0 +1,82 @@
+name: Convert SWSH 1.3.2 mains into ELF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-nx2elf-main.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swsh-nx2elf-main-master
+  cancel-in-progress: false
+
+jobs:
+  convert-and-commit:
+    name: Reconstruct both main NSOs and commit validated ELF files
+    if: github.repository == '969981/SWSH_Resources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout only sources and converter
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout: |
+            v1.3.2/0
+            tools/nx2elf
+            scripts
+            manifests
+          sparse-checkout-cone-mode: true
+
+      - name: Build checked-in nx2elf
+        shell: bash
+        run: |
+          set -euo pipefail
+          cmake -S tools/nx2elf -B artifacts/nx2elf-build -DCMAKE_BUILD_TYPE=Release
+          cmake --build artifacts/nx2elf-build --parallel 2
+          test -x artifacts/nx2elf-build/nx2elf
+
+      - name: Reconstruct, independently validate, and hash both images
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m py_compile scripts/convert_swsh_mains.py
+          command -v readelf
+          python3 scripts/convert_swsh_mains.py \
+            --converter artifacts/nx2elf-build/nx2elf \
+            --manifest manifests/v1.3.2/nx2elf-main-manifest.json \
+            --max-git-mib 90 \
+            --require-readelf
+          python3 -m json.tool manifests/v1.3.2/nx2elf-main-manifest.json > /dev/null
+          echo '### nx2elf: Sword and Shield v1.3.2' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Both NSOs converted and validated as ELF64/AArch64.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Input/output SHA-256, sizes, and storage parts are recorded in manifests/v1.3.2/nx2elf-main-manifest.json.' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit exactly the derived ELF images and evidence manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- v1.3.2/0 manifests/v1.3.2/nx2elf-main-manifest.json
+          if git diff --cached --quiet; then
+            echo 'ELF outputs and manifest are already current.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git diff --cached --stat
+          git commit -m "build(swsh): commit verified Sword and Shield v1.3.2 main ELFs"
+          git fetch origin master
+          git rebase origin/master
+          git push origin HEAD:refs/heads/master
+          {
+            echo
+            echo "Pushed commit: $(git rev-parse HEAD)"
+            echo "Outputs: v1.3.2/0/sword_main.elf and shield_main.elf (or manifest-listed parts)"
+          } >> "$GITHUB_STEP_SUMMARY"
