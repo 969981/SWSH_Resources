@@ -1,0 +1,70 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 00b8a290; name: FUN_00b8a290
+ */
+
+
+long FUN_00b8a290(undefined8 param_1,long *param_2,long *param_3,undefined8 *param_4,
+                 undefined4 *param_5,undefined4 *param_6)
+
+{
+  long lVar1;
+  long lVar2;
+  undefined8 local_c0;
+  undefined8 local_b8;
+  undefined8 local_b0;
+  undefined8 local_a8;
+  undefined8 local_a0;
+  undefined8 local_98;
+  undefined8 local_90;
+  undefined8 local_88;
+  undefined8 local_80;
+  undefined8 local_78;
+  undefined8 local_70;
+  undefined8 local_68;
+  undefined8 local_60;
+  undefined8 local_58;
+  long local_48;
+  
+  lVar1 = nn::os::GetTlsValue(*(undefined4 *)PTR_DAT_02710860);
+  if (0xf < *(ulong *)(lVar1 + 0x80)) {
+                    /* WARNING: Subroutine does not return */
+    abort();
+  }
+  *(long **)(lVar1 + *(ulong *)(lVar1 + 0x80) * 8) = param_2;
+  *(long *)(lVar1 + 0x80) = *(long *)(lVar1 + 0x80) + 1;
+  lVar2 = (**(code **)(*param_2 + 0x10))(param_2,0x180,0x10);
+  if (lVar2 == 0) {
+    (**(code **)(*param_2 + 0xb8))(param_2);
+  }
+  local_48 = *param_3;
+  if (local_48 != 0) {
+    (**(code **)(*(long *)(local_48 + 0x48) + 0x10))();
+  }
+  local_b8 = param_4[1];
+  local_a8 = param_4[3];
+  local_98 = param_4[5];
+  local_88 = param_4[7];
+  local_78 = param_4[9];
+  local_68 = param_4[0xb];
+  local_58 = param_4[0xd];
+  local_c0 = *param_4;
+  local_b0 = param_4[2];
+  local_a0 = param_4[4];
+  local_90 = param_4[6];
+  local_80 = param_4[8];
+  local_70 = param_4[10];
+  local_60 = param_4[0xc];
+  FUN_00ab2b90(lVar2,&local_48,&local_c0,*param_5,*param_6);
+  if (local_48 != 0) {
+    (**(code **)(*(long *)(local_48 + 0x48) + 0x18))();
+  }
+  *(long **)(lVar2 + 8) = param_2;
+  *(long *)(lVar2 + 0x10) = lVar2;
+  *(undefined8 *)(lVar2 + 0x18) = 0x180;
+  *(undefined8 *)(lVar2 + 0x20) = 0x10;
+  *(long *)(lVar1 + 0x80) = *(long *)(lVar1 + 0x80) + -1;
+  return lVar2;
+}
+
+
