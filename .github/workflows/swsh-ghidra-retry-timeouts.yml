@@ -1,0 +1,167 @@
+name: Retry SWSH Ghidra 12.2 timed-out functions
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-ghidra-retry-timeouts.yml"
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: swsh-ghidra-retry-targets
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    name: Ghidra 12.2 saved project targeted retry - ${{ matrix.game }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 85
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        game: [sword, shield]
+    env:
+      GAME: ${{ matrix.game }}
+      SOURCE_RUN: 42771375134
+      REPO: 969981/SWSH_Resources
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      DEST: derived/v1.3.2/Ghidra_12.2_Run_42771375134/retry_timeout_180s
+    steps:
+      - name: Sparse checkout Ghidra script and workflow
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/ghidra/SWSHRetryFailed.java
+            /.github/workflows/swsh-ghidra-retry-timeouts.yml
+
+      - name: JDK 25 runtime for Ghidra
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "25"
+
+      - name: Recover verified original native project (no repeat whole-ELF analysis)
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(gh api "repos/$REPO/actions/runs/$SOURCE_RUN" --jq '.conclusion')" = success
+          if ! command -v zstd; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq zstd
+          fi
+          mkdir -p "$RUNNER_TEMP/incoming" "$RUNNER_TEMP/projects" "$RUNNER_TEMP/output"
+          gh run download "$SOURCE_RUN" -R "$REPO" --name "SWSH-$GAME-project" \
+            --dir "$RUNNER_TEMP/incoming"
+          test -s "$RUNNER_TEMP/incoming/$GAME"_ghidra_project.tar.zst
+          tar -I zstd -xf "$RUNNER_TEMP/incoming/$GAME"_ghidra_project.tar.zst \
+            -C "$RUNNER_TEMP/projects"
+          test -f "$RUNNER_TEMP/projects/SWSH_$GAME.gpr"
+          test -d "$RUNNER_TEMP/projects/SWSH_$GAME.rep"
+
+      - name: Fetch SHA256-verified official Ghidra 12.2
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 --retry-delay 10 \
+            "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip" \
+            -o "$RUNNER_TEMP/ghidra.zip"
+          printf '%s  %s\n' "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67" "$RUNNER_TEMP/ghidra.zip" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/ghidra"
+          unzip -q "$RUNNER_TEMP/ghidra.zip" -d "$RUNNER_TEMP/ghidra"
+          HEADLESS="$(find "$RUNNER_TEMP/ghidra" -path '*/support/analyzeHeadless' -type f -print -quit)"
+          test -n "$HEADLESS"
+          chmod +x "$HEADLESS"
+          echo "HEADLESS=$HEADLESS" >> "$GITHUB_ENV"
+
+      - name: Retry 5 exact original failed entries with 180s each
+        shell: bash
+        run: |
+          set -euo pipefail
+          timeout --signal=TERM --kill-after=30s 58m \
+            "$HEADLESS" "$RUNNER_TEMP/projects" "SWSH_$GAME" \
+              -process "$GAME"_main.elf \
+              -noanalysis \
+              -scriptPath "$GITHUB_WORKSPACE/tools/ghidra" \
+              -postScript SWSHRetryFailed.java "$GAME" "$RUNNER_TEMP/output" 180 \
+              -log "$RUNNER_TEMP/output/$GAME"_headless.log \
+              -scriptlog "$RUNNER_TEMP/output/$GAME"_script.log \
+            2>&1 | tee "$RUNNER_TEMP/output/$GAME"_console.log
+          test -s "$RUNNER_TEMP/output/$GAME/retry_status.tsv"
+
+      - name: Verify exactly five target status rows and commit real recovered C
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$DEST/$GAME"
+          cp "$RUNNER_TEMP/output/$GAME/retry_status.tsv" "$DEST/$GAME/retry_status.tsv"
+          python3 - <<'PY'
+          import csv,json,os,shutil
+          from pathlib import Path
+          game=os.environ["GAME"]
+          src=Path(os.environ["RUNNER_TEMP"])/"output"/game
+          out=Path(os.environ["DEST"])/game
+          with (src/"retry_status.tsv").open(encoding="utf-8",newline="") as f:
+            rows=list(csv.DictReader(f,delimiter="\t"))
+          assert len(rows)==5,("Expected exactly five targets",rows)
+          assert len({x["entry"] for x in rows})==5
+          completed=0
+          for row in rows:
+            if row["status"]=="OK":
+              fn=row["c_file"]
+              assert fn==row["entry"]+".c"
+              assert (src/fn).stat().st_size>0
+              shutil.copy2(src/fn,out/fn)
+              completed+=1
+            else:
+              assert not row["c_file"],row
+          report={
+            "status":"TARGETED_GHIDRA_12_2_RETRY_AUDITED",
+            "game":game,
+            "source_run":42771375134,
+            "per_function_timeout_seconds":180,
+            "attempted":len(rows),
+            "successful_c":completed,
+            "still_failed":len(rows)-completed,
+            "rows":rows,
+            "note":"Ghidra 12.2 C pseudocode, not Nintendo original source; source analysis preserved unchanged.",
+          }
+          (out/"retry_manifest.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps(report,indent=2,ensure_ascii=False))
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --sparse -f -- "$DEST/$GAME"
+          if git diff --cached --quiet; then
+            echo "No changed retry evidence"
+            exit 0
+          fi
+          git commit -m "data(swsh): Ghidra 180s retry evidence for $GAME timed-out functions"
+          pushed=0
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            git fetch -q origin master
+            git rebase origin/master
+            if git push origin HEAD:refs/heads/master; then pushed=1; break; fi
+            sleep $((attempt * 4))
+          done
+          test "$pushed" -eq 1
+          cat "$DEST/$GAME/retry_manifest.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save Ghidra retry diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-${{ matrix.game }}-retry-180s
+          retention-days: 30
+          if-no-files-found: warn
+          path: |
+            ${{ runner.temp }}/output/
+            ${{ github.workspace }}/derived/v1.3.2/Ghidra_12.2_Run_42771375134/retry_timeout_180s/${{ matrix.game }}/
