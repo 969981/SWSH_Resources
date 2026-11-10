@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_GHIDRA_EXPORT_WITH_PER_FUNCTION_STATUSES",
+  "ghidra_program": "shield_main.elf",
+  "image_base": "00100000",
+  "original_elf_sha256_expected": "a6045f506af68254a434cc9c33658d5ec3171d18c55b0122b44fc645c347812a",
+  "ndjson_sha256": "9799556153d3d61216cec70c172461b68454252261343d5acaec3ee2c0674cff",
+  "functions": 47984,
+  "decompiler_attempted": 47984,
+  "c_success": 47979,
+  "c_fail_or_empty": 5,
+  "c_uncompressed_bytes": 104602704,
+  "failure_statuses": {
+    "FAILED": 5
+  },
+  "archive": "shield_all_c.zip",
+  "note": "Ghidra generated C pseudocode, not original source. Failed functions are in decompiled_index.csv."
+}
