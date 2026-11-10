@@ -527,9 +527,10 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
                 supplemental_added += 1
                 supplemental_status[retry_tier] += 1
 
-        if c_success != manifest["c_success"]:
+        expected_original_c = int(manifest.get("decompiled_ok", manifest.get("c_success", -1)))
+        if c_success != expected_original_c:
             raise ValueError(game + ": original C count mismatch: " +
-                             str(c_success) + " != " + str(manifest["c_success"]))
+                             str(c_success) + " != " + str(expected_original_c))
         if supplemental_added != 3:
             raise ValueError(game + ": expected 3 verified retry C files, found " +
                              str(supplemental_added))
