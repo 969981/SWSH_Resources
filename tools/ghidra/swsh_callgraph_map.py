@@ -61,6 +61,11 @@ def load(path, game):
         raise ValueError(game + ": unexpected full-run function count")
     intervals.sort()
     starts = [v[0] for v in intervals]
+    prefix_max_ends = []
+    furthest_end = -1
+    for start, end, name in intervals:
+        furthest_end = max(furthest_end, end)
+        prefix_max_ends.append(furthest_end)
     edges = defaultdict(set)
     call_refs = 0
     attributed = 0
@@ -82,7 +87,7 @@ def load(path, game):
             continue
         # If intervals overlap, source ownership cannot be proved by the
         # min/max export alone, so do not emit an inferred edge.
-        if idx > 0 and intervals[idx - 1][1] >= addr:
+        if idx > 0 and prefix_max_ends[idx - 1] >= addr:
             ambiguous_intervals += 1
             continue
         source_entry = intervals[idx][2]
