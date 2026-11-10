@@ -504,28 +504,30 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
 
         supplemental_added = 0
         supplemental_status = Counter()
-        for directory in supplemental_dirs:
-            if not directory.exists():
-                continue
-            for path in sorted(directory.rglob("*.c")):
-                try:
-                    key = address_key(path.stem)
-                except ValueError:
+        with zipfile.ZipFile(zip_path, "a", compression=zipfile.ZIP_DEFLATED,
+                             compresslevel=6, allowZip64=True) as zf:
+            for directory in supplemental_dirs:
+                if not directory.exists():
                     continue
-                if key not in records:
-                    continue
-                record = records[key]
-                if record["decompile_status"] == "OK_ORIGINAL":
-                    continue
-                raw = path.read_text(encoding="utf-8", errors="replace")
-                if not raw.strip():
-                    continue
-                retry_tier = "300S" if "300s" in str(path).lower() or "hard" in str(path).lower() else "180S"
-                record["decompile_status"] = "OK_RETRY_" + retry_tier
-                member = game + "/c_retry/" + format_address(key) + ".c"
-                zf.writestr(member, record["comment"] + raw.rstrip() + "\n")
-                supplemental_added += 1
-                supplemental_status[retry_tier] += 1
+                for path in sorted(directory.rglob("*.c")):
+                    try:
+                        key = address_key(path.stem)
+                    except ValueError:
+                        continue
+                    if key not in records:
+                        continue
+                    record = records[key]
+                    if record["decompile_status"] == "OK_ORIGINAL":
+                        continue
+                    raw = path.read_text(encoding="utf-8", errors="replace")
+                    if not raw.strip():
+                        continue
+                    retry_tier = "300S" if "300s" in str(path).lower() or "hard" in str(path).lower() else "180S"
+                    record["decompile_status"] = "OK_RETRY_" + retry_tier
+                    member = game + "/c_retry/" + format_address(key) + ".c"
+                    zf.writestr(member, record["comment"] + raw.rstrip() + "\n")
+                    supplemental_added += 1
+                    supplemental_status[retry_tier] += 1
 
         expected_original_c = int(manifest.get("decompiled_ok", manifest.get("c_success", -1)))
         if c_success != expected_original_c:
