@@ -1,0 +1,455 @@
+{
+  "status": "UNCOMPRESSED_SPLIT_VERIFIED",
+  "source_run_id": 42771375134,
+  "game": "shield",
+  "game_version": "1.3.2",
+  "original_elf_sha256": "a6045f506af68254a434cc9c33658d5ec3171d18c55b0122b44fc645c347812a",
+  "chunk_limit_bytes": 47185920,
+  "sqlite": {
+    "size": 1221357568,
+    "sha256": "09b44efe8ed635b265ca8aaef76c1abecfa4fa979882fe57045385e65d1f4164",
+    "parts": [
+      {
+        "path": "shield.sqlite.part0000.bin",
+        "size": 47185920,
+        "sha256": "f96519a74a65b8f5c9892362b542c70c0f449e3754be17b280d33afac0efc149"
+      },
+      {
+        "path": "shield.sqlite.part0001.bin",
+        "size": 47185920,
+        "sha256": "353d59f5616249485b02b281797a135eac5cd06264fd4927c2f37e0f16fe708a"
+      },
+      {
+        "path": "shield.sqlite.part0002.bin",
+        "size": 47185920,
+        "sha256": "fddd3709bc290358f783feeb22942307c63dae22c7de8a2d4fb09fd0b3093a5c"
+      },
+      {
+        "path": "shield.sqlite.part0003.bin",
+        "size": 47185920,
+        "sha256": "5232f37e4b70b5055ff8c8925bd548202375f7e7637238fb8650dbe40e25b0a4"
+      },
+      {
+        "path": "shield.sqlite.part0004.bin",
+        "size": 47185920,
+        "sha256": "78810ede6e05743a3863d77613bc9e1cd5a2888d5af6f19185d6d96905d507e6"
+      },
+      {
+        "path": "shield.sqlite.part0005.bin",
+        "size": 47185920,
+        "sha256": "5ef3795dd4d94ae16ed74432e9afff601ac4ee4982efca556c7168f9b596f3c2"
+      },
+      {
+        "path": "shield.sqlite.part0006.bin",
+        "size": 47185920,
+        "sha256": "6808555fa96274280c61b1bb7de618863b9b45fc77845cf4422ff07ada77d3e7"
+      },
+      {
+        "path": "shield.sqlite.part0007.bin",
+        "size": 47185920,
+        "sha256": "dae2c30cec5dd86b3af100fe4c29374819ffcdaa52c75f97f56c90b74a73063c"
+      },
+      {
+        "path": "shield.sqlite.part0008.bin",
+        "size": 47185920,
+        "sha256": "2f6dad6ffe4fa119905ee4f121dcf27799171e72b2866781fb3631fc36f88cde"
+      },
+      {
+        "path": "shield.sqlite.part0009.bin",
+        "size": 47185920,
+        "sha256": "5f9ac49cab65f5a50ac3729ef7adb35fb7832dc7c168b4e97f6a6d7c8fd23426"
+      },
+      {
+        "path": "shield.sqlite.part0010.bin",
+        "size": 47185920,
+        "sha256": "2fc7229137a2a9d7e61c5a04a4d83124465f56a5b50bf42bb19a20e33234aaa7"
+      },
+      {
+        "path": "shield.sqlite.part0011.bin",
+        "size": 47185920,
+        "sha256": "0ef0d356b649de7552ecdcd44c6ca4ebcfd328e2e2623cbb41842ad0d3511b26"
+      },
+      {
+        "path": "shield.sqlite.part0012.bin",
+        "size": 47185920,
+        "sha256": "c8c153468f7a9302e5c318eaeb78ebf72f36feb237495c6e4daea57c7a968f15"
+      },
+      {
+        "path": "shield.sqlite.part0013.bin",
+        "size": 47185920,
+        "sha256": "6c1d1ddf14721d27afed4563754b878981bd91a09d4e8501e30813ca45d5a896"
+      },
+      {
+        "path": "shield.sqlite.part0014.bin",
+        "size": 47185920,
+        "sha256": "eb8b58bc7efcff4eca182d3a6a1211f33314dae3ff38a013363684d721d41e9b"
+      },
+      {
+        "path": "shield.sqlite.part0015.bin",
+        "size": 47185920,
+        "sha256": "90af1be9de5a157411b58c8d20e952be3cc1e114c0529b31a41b21bdb41b4177"
+      },
+      {
+        "path": "shield.sqlite.part0016.bin",
+        "size": 47185920,
+        "sha256": "e3d0a203edb6391fc203f1ac2c083b3c480443df75a985313dda040c569beb02"
+      },
+      {
+        "path": "shield.sqlite.part0017.bin",
+        "size": 47185920,
+        "sha256": "3becdd1f75b95f2b42e652f57fdf730ad34429323ab31540f3f97a3efd5ea5c9"
+      },
+      {
+        "path": "shield.sqlite.part0018.bin",
+        "size": 47185920,
+        "sha256": "c3f35a591809e8aa8e6fe0e2f734c74659c828b2e527e61afd8ef8470f9284ba"
+      },
+      {
+        "path": "shield.sqlite.part0019.bin",
+        "size": 47185920,
+        "sha256": "9c38a273f58b8859fa87a7879c5fa3d0491f5fd81d325b9b69bb2a7054eca064"
+      },
+      {
+        "path": "shield.sqlite.part0020.bin",
+        "size": 47185920,
+        "sha256": "25984c92e88e289ebc0eab101bbc22a1518d3602fbf4d2001cbf12de2149d3f3"
+      },
+      {
+        "path": "shield.sqlite.part0021.bin",
+        "size": 47185920,
+        "sha256": "63a6355e9bb361958f1056859ad7782e6d283e45e12f6e261b2b99fbeb0e46fc"
+      },
+      {
+        "path": "shield.sqlite.part0022.bin",
+        "size": 47185920,
+        "sha256": "b409d3c586f91733efcb33d70cf33d013f8266e05d391c697efb98f8ea17301b"
+      },
+      {
+        "path": "shield.sqlite.part0023.bin",
+        "size": 47185920,
+        "sha256": "fe559cb096b31080bdf08e1a47ecafed939009cda5b393cee332f306f23a2be7"
+      },
+      {
+        "path": "shield.sqlite.part0024.bin",
+        "size": 47185920,
+        "sha256": "26796a1777c43634ec0308bdc37891c8c5da96e494f940f25d5728685b390fe3"
+      },
+      {
+        "path": "shield.sqlite.part0025.bin",
+        "size": 41709568,
+        "sha256": "4606424b81795961b9762c738c19732813458347eee6b15aa95504f6210c2d83"
+      }
+    ]
+  },
+  "ndjson": {
+    "size": 1887199659,
+    "sha256": "08ec6fc6a504ca554dfe8558e69a87543a624a71896312f3d46dfc5514f0b373",
+    "parts": [
+      {
+        "path": "events.part0000.ndjson",
+        "size": 47184919,
+        "sha256": "641cf00727a7cc7fcf5f0b0ff3508cdc09c5c11540f3495e6a6a0b06ab85c1af"
+      },
+      {
+        "path": "events.part0001.ndjson",
+        "size": 47183580,
+        "sha256": "ce437428ca876b57b76c7fab44310eb54dcc341272e57422523e34bf64bbb94b"
+      },
+      {
+        "path": "events.part0002.ndjson",
+        "size": 47185748,
+        "sha256": "75aa274c616b5631cea041d7369f9436cbd6c87b1cc1c204e2b70da50450fd83"
+      },
+      {
+        "path": "events.part0003.ndjson",
+        "size": 47185904,
+        "sha256": "3f49639e80f0b5d29aa4744d9464654417a90122d548333e2281ec79eecf6fdc"
+      },
+      {
+        "path": "events.part0004.ndjson",
+        "size": 47185783,
+        "sha256": "826428707940a087a9c16dc6312b4d7cd383b100311ae93cb21c4b8b9fe97eb9"
+      },
+      {
+        "path": "events.part0005.ndjson",
+        "size": 47185919,
+        "sha256": "61b48995e6cce85ecf9a8d90250b38cc74da6292d75650cde9d498350d2a8924"
+      },
+      {
+        "path": "events.part0006.ndjson",
+        "size": 47185773,
+        "sha256": "e38e28b4a2b3b1cb7928b4a4d15e7e5dfc83f7ba00838d5880d887165270212d"
+      },
+      {
+        "path": "events.part0007.ndjson",
+        "size": 47185848,
+        "sha256": "245a93de31d8fccaece28a892fccc54daeeadb1f419bd5fb96bdf62f4c219b2a"
+      },
+      {
+        "path": "events.part0008.ndjson",
+        "size": 47185830,
+        "sha256": "c9375363eba2c1f1a9ea52e5894d36d7540e6c6efc6b705e4f8de2e28a42de4e"
+      },
+      {
+        "path": "events.part0009.ndjson",
+        "size": 47185904,
+        "sha256": "a9d8e070a415729d610b82e3f1cbce20478f402ba1562de7816e28efc2e1569a"
+      },
+      {
+        "path": "events.part0010.ndjson",
+        "size": 47185833,
+        "sha256": "3bf6d2855283a64695f16d3401de85e98d9496900968699670752215c1ecb8a8"
+      },
+      {
+        "path": "events.part0011.ndjson",
+        "size": 47185749,
+        "sha256": "e16170801bf3152199f37d2123f32a5fdacba073320b39bcbc44e31e4e26ad0d"
+      },
+      {
+        "path": "events.part0012.ndjson",
+        "size": 47185876,
+        "sha256": "4cc5b7fe168144a375234622ed0175dd52bf28d15e76c145ec5f9ae55d848e24"
+      },
+      {
+        "path": "events.part0013.ndjson",
+        "size": 47185798,
+        "sha256": "3677892fda749776c5d95feb996eebee968028a5d48f061aa68bed131281c817"
+      },
+      {
+        "path": "events.part0014.ndjson",
+        "size": 47185837,
+        "sha256": "6c052592d1a03afb67295b1deb9cd2f6284c494f2ef49e1c1d8eb0fe3bcf713d"
+      },
+      {
+        "path": "events.part0015.ndjson",
+        "size": 47185842,
+        "sha256": "a8e5adb3a8f194efde97d1dd7bc6948b90f044b9b4237937cc0529d876db28f0"
+      },
+      {
+        "path": "events.part0016.ndjson",
+        "size": 47185892,
+        "sha256": "ce95d4fe11430d48d119d7c27b2b77cd0c4c12d5764c34fc6139565fe38b25c4"
+      },
+      {
+        "path": "events.part0017.ndjson",
+        "size": 47185809,
+        "sha256": "858407e4b166d189dc3ab1e79627e135862e5e90d97b42c55261a3a5df558efa"
+      },
+      {
+        "path": "events.part0018.ndjson",
+        "size": 47185898,
+        "sha256": "8852b1f36d1cdf69fe5b899ea65bb1574f36449ddeb01f4325feafdcc4e72260"
+      },
+      {
+        "path": "events.part0019.ndjson",
+        "size": 47185836,
+        "sha256": "21bd3f440a151621a0148624e5eb40961f55285f2d526facea3aacdf0091fd4a"
+      },
+      {
+        "path": "events.part0020.ndjson",
+        "size": 47185902,
+        "sha256": "0c1b7a4eb4f449ec283630c9777a12b7e2e7549644eb26259e005b5e8fdb1ea7"
+      },
+      {
+        "path": "events.part0021.ndjson",
+        "size": 47185866,
+        "sha256": "f9cc153e16e293b82a0bc70b119283a5c702baca2ae6d1a6d6d8cbfd72afdac2"
+      },
+      {
+        "path": "events.part0022.ndjson",
+        "size": 47185816,
+        "sha256": "9254db8280a98eb9cf97e67e2401000fd78830ef3a33d11176b302e3b917fe0a"
+      },
+      {
+        "path": "events.part0023.ndjson",
+        "size": 47185757,
+        "sha256": "b655077ac9b81946c3af95a0d7db938d6f59c1db1c196147b2d2ca0e43ab1c1c"
+      },
+      {
+        "path": "events.part0024.ndjson",
+        "size": 47185784,
+        "sha256": "f216885ec369bbd0f0e83f9da3a0dd01a665777fbb677983869a49185c8cd1ee"
+      },
+      {
+        "path": "events.part0025.ndjson",
+        "size": 47185867,
+        "sha256": "70beeb53761bf27bfc3fa7d24696236b1db49032e3eddb3bf9ea3acce2bc2910"
+      },
+      {
+        "path": "events.part0026.ndjson",
+        "size": 47185859,
+        "sha256": "c6349208c739833feef8866f9229708ab938aff469753b43061f7f63708ce56c"
+      },
+      {
+        "path": "events.part0027.ndjson",
+        "size": 47185800,
+        "sha256": "fc7c7debf2d8a7490157f74a31ddaf0ac6d8ce2a8af891042e1e7ae2a1d7cbb7"
+      },
+      {
+        "path": "events.part0028.ndjson",
+        "size": 47185825,
+        "sha256": "334bcde6151fbb1629ebc51c2457b0c5a9c2ce92afa80073327b705a28dcb7de"
+      },
+      {
+        "path": "events.part0029.ndjson",
+        "size": 47185885,
+        "sha256": "7c6e5024ba845131b43d14f5d0a7eb0a5a5d73e4a24fa5fcd732e4495b78fb56"
+      },
+      {
+        "path": "events.part0030.ndjson",
+        "size": 47185880,
+        "sha256": "e0d58f776e9bac882756199a90ae16469116cf5203c5d8456795911b2c0ccd39"
+      },
+      {
+        "path": "events.part0031.ndjson",
+        "size": 47185802,
+        "sha256": "f23d2436bf941915324835c3e789b59f98609ed24ae86a2fd1f25bfc7a6bee80"
+      },
+      {
+        "path": "events.part0032.ndjson",
+        "size": 47185862,
+        "sha256": "0478f7e602a8a99d9b5bb3650732261da81cb92219e9cdb9c5a7f02ef82620b9"
+      },
+      {
+        "path": "events.part0033.ndjson",
+        "size": 47185906,
+        "sha256": "8dd6f1326300134285b18aaa738b45005402100f65a81e1a6c47dfc2d4103e36"
+      },
+      {
+        "path": "events.part0034.ndjson",
+        "size": 47185779,
+        "sha256": "42bfb8f7af846224bb7be9ecc3993935ad6aa6e74bb7bee915f75c277f61d70e"
+      },
+      {
+        "path": "events.part0035.ndjson",
+        "size": 47185908,
+        "sha256": "cf828e5855c372e50a59e6579ad8d9917e9f2eb2523460b0513074f5a9485415"
+      },
+      {
+        "path": "events.part0036.ndjson",
+        "size": 47185884,
+        "sha256": "3677a4d379a1e68ceaa205b9db10c38283cc51bbf5af6dcb528d60c23a75286b"
+      },
+      {
+        "path": "events.part0037.ndjson",
+        "size": 47185896,
+        "sha256": "2490022be0c10eb5381a6c8a7b10de0c89d3ab0f1bee29d1519745b39dd65741"
+      },
+      {
+        "path": "events.part0038.ndjson",
+        "size": 47185795,
+        "sha256": "f89b3525632cf1f9521c7e1ba24617adbee44e9ace59d03c3adf27cf04950d28"
+      },
+      {
+        "path": "events.part0039.ndjson",
+        "size": 46955008,
+        "sha256": "4358c5166d7d5c5d0d3b868b3a9249a2ff1b28b4ffd117f56e1d64bbad90d218"
+      }
+    ],
+    "lines": 10625809,
+    "source_gzip_sha256": "9799556153d3d61216cec70c172461b68454252261343d5acaec3ee2c0674cff"
+  },
+  "project": {
+    "project_name": "SWSH_shield",
+    "regular_files": 9,
+    "split_files": {
+      "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf": {
+        "size": 720519168,
+        "sha256": "3cc1909b340e57c0edb65d01d4631a00200be6aa277604b037558d171398e62b",
+        "parts": [
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0000.bin",
+            "size": 47185920,
+            "sha256": "d11fbeefe75646b30bf8fb0feb36ca49a21c7cb2dd09577e82333e73e306596d"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0001.bin",
+            "size": 47185920,
+            "sha256": "54ecda1ef3e1b04183f6d3336bac30c794a9f07c0a95ed3b345be0c1cf4416a3"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0002.bin",
+            "size": 47185920,
+            "sha256": "fd7eeeacf31c2e670ed76fd17dc4ee3cbfda0c1b469896879be73b0a43722a3f"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0003.bin",
+            "size": 47185920,
+            "sha256": "a200dea2f205699189b9027f2172c8ab5d09eb4a78277ca9354f451d02e10ebe"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0004.bin",
+            "size": 47185920,
+            "sha256": "9b8e6f03e68c4ac306f970b1992d6b47a7dc41cfe7c8323f3bcccce2e15b4a5e"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0005.bin",
+            "size": 47185920,
+            "sha256": "155e6ecd74704a63f36d19695afaa2e7ab83af6de3f44d37595209bbbfc9487d"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0006.bin",
+            "size": 47185920,
+            "sha256": "bc00a42bdb3c237c9db66d7b04206642993fff816877a32f6d4dac9d76e4a308"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0007.bin",
+            "size": 47185920,
+            "sha256": "6386861cfe38ffa20c04b45a131192039702bd420fee909b09c365def75249fe"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0008.bin",
+            "size": 47185920,
+            "sha256": "61ff98464b9bb389194783997fd8fbfdae31a0304b90cf54ba15ad2b34715cf2"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0009.bin",
+            "size": 47185920,
+            "sha256": "691ee9cf3e0ab80d4e1e3973885a0b38cf1a7788789920f8e821ff408b20373b"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0010.bin",
+            "size": 47185920,
+            "sha256": "0def11888e16b481642fb8726b75ca379afacafea7d2e625ba40bf2b7523e53e"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0011.bin",
+            "size": 47185920,
+            "sha256": "c8822de7017e51e697269b7f949bf4dff3938094071c01a3211f327faac6a4a1"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0012.bin",
+            "size": 47185920,
+            "sha256": "10aa107364bea2bff045a9cf1fe38a43959d1c41d5a07fc4242ddb6e623c24cc"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0013.bin",
+            "size": 47185920,
+            "sha256": "92c1f044431bda45cd5196311c896a0c0609780031ba72973ed9b692ae955d3c"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0014.bin",
+            "size": 47185920,
+            "sha256": "2a6a2ea7037ad2ec286ed263bf2d915a714d72ef8612e2ae48d75579c3cfec0b"
+          },
+          {
+            "path": "SWSH_shield.rep/idata/00/~00000000.db/db.1.gbf.part0015.bin",
+            "size": 12730368,
+            "sha256": "7d173e5d18ce7136d7bc52e10dc60c415bca1ed0d7e7f5e51c6e62dfd9c623bd"
+          }
+        ]
+      }
+    },
+    "archive_sha256": "7b79c7d71a64e55ec6c2578e8edcfbefc7932c80290a087bfc69c643ccff215f"
+  },
+  "sqlite_counts": {
+    "functions": 47984,
+    "instructions": 6166224,
+    "references_full": 2517697,
+    "decompilation": 47984
+  },
+  "decompiler_attempted": 47984,
+  "c_success": 47979,
+  "c_failed_or_empty": 5,
+  "evidence": "GHIDRA_STATIC_ANALYSIS_ONLY_NOT_ORIGINAL_SOURCE"
+}
