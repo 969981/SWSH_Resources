@@ -119,9 +119,14 @@ def main():
         ccall=len(smap&hmap);dcall=len(smap^hmap);jcall=ccall/max(1,ccall+dcall)
         scallee={s2h[x] for x in se.get(e,set()) if x in s2h};hcallee={x for x in he.get(e,set()) if x in h2s}
         ccal=len(scallee&hcallee);dcal=len(scallee^hcallee);jcal=ccal/max(1,ccal+dcal)
-        if ccall and ccal and jcall>=.5 and jcal>=.5:support="STRONG_CALLER_AND_CALLEE_CONTEXT"
-        elif ccall and jcall>=.5:support="CALLER_CONTEXT_MATCH"
-        elif ccal and jcal>=.5:support="CALLEE_CONTEXT_MATCH"
+        caller_cov_s=ccall/max(1,len(s_callers));caller_cov_h=ccall/max(1,len(h_callers))
+        callee_cov_s=ccal/max(1,len(se.get(e,set())));callee_cov_h=ccal/max(1,len(he.get(e,set())))
+        caller_ok=bool(ccall and jcall>=.5 and caller_cov_s>=.5 and caller_cov_h>=.5)
+        callee_ok=bool(ccal and jcal>=.5 and callee_cov_s>=.5 and callee_cov_h>=.5)
+        if caller_ok and callee_ok:support="STRONG_CALLER_AND_CALLEE_CONTEXT"
+        elif caller_ok:support="CALLER_CONTEXT_MATCH"
+        elif callee_ok:support="CALLEE_CONTEXT_MATCH"
+        elif ccall or ccal:support="PARTIAL_CONTEXT_SUPPORT"
         else:support="WEAK_OR_UNAVAILABLE_CONTEXT"
         size_s=int(s.get("body_bytes") or 0);size_h=int(h.get("body_bytes") or 0)
         contiguous_s=size_s==hx(s["max_addr"])-hx(s["min_addr"])+1
@@ -153,7 +158,9 @@ def main():
             "sword_name":s["name"],"shield_name":h["name"],"sword_body_bytes":size_s,"shield_body_bytes":size_h,
             "sword_contiguous":contiguous_s,"shield_contiguous":contiguous_h,
             "mapped_common_callers":ccall,"mapped_caller_delta":dcall,"mapped_caller_jaccard":round(jcall,6),
+            "caller_coverage_sword":round(caller_cov_s,6),"caller_coverage_shield":round(caller_cov_h,6),
             "mapped_common_callees":ccal,"mapped_callee_delta":dcal,"mapped_callee_jaccard":round(jcal,6),
+            "callee_coverage_sword":round(callee_cov_s,6),"callee_coverage_shield":round(callee_cov_h,6),
             "branch_address_signature_same":cfg_same,"exact_mapped_callees_same":calls_same,"string_reference_same":strings_same,
             "sword_decompile_status":sc[e]["status"],"shield_decompile_status":hc[e]["status"],
             "sword_c_header":sc[e]["header"],"shield_c_header":hc[e]["header"],
@@ -198,6 +205,7 @@ def main():
       "identity_reclassification":dict(Counter(r["identity_evidence"] for r in results)),
       "identity_support_for_unmatched_same_rva_pairs":dict(Counter(r["identity_support"] for r in results if r["identity_evidence"]=="NO_UNIQUE_EXACT_BODY_IDENTITY")),
       "triage_classes":dict(counts),"strong_context_candidates":len(strong),
+      "identity_support_counts_for_unmatched_pairs":dict(Counter(r["identity_support"] for r in results if r["identity_evidence"]=="NO_UNIQUE_EXACT_BODY_IDENTITY")),
       "strong_context_branch_address_signature_changes":sum(r["branch_address_signature_same"] is False for r in strong),
       "strong_context_call_deltas":sum(r["exact_mapped_callees_same"] is False for r in strong),
       "strong_context_string_deltas":sum(r["string_reference_same"] is False for r in strong),
@@ -216,7 +224,7 @@ Source Ghidra 12.2 run: 42771375134. This report covers every same-RVA function 
 - priority_assembly_review.md: selected instruction-level comparisons for the strongest-context pairs; raw branch-address changes are not asserted to be CFG topology changes.
 - summary.json: count reconciliation and evidence limitations.
 
-Same RVA is not function identity. Strong caller/callee context is a candidate alignment, not proof. Ghidra pseudocode is not original source. Static Raw branch-address signature differences do not by themselves prove a CFG topology change. Compare the Ghidra high-level P-code block graph before calling a control-flow change. CFG/P-code evidence does not prove runtime behavior.
+Same RVA is not function identity. Strong caller/callee context now also requires mapped-neighbour coverage of at least 50% on both sides; unmatched neighbours are not silently ignored. This remains a candidate alignment, not proof. Ghidra pseudocode is not original source. Static Raw branch-address signature differences do not by themselves prove a CFG topology change. Compare the Ghidra high-level P-code block graph before calling a control-flow change. CFG/P-code evidence does not prove runtime behavior.
 """,encoding="utf-8")
     print(json.dumps(summary,ensure_ascii=False,indent=2))
     sdb.close();hdb.close()
