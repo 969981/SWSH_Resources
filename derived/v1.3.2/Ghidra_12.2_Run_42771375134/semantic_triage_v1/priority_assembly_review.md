@@ -1,11 +1,11 @@
 # Sword / Shield 1.3.2 — priority assembly review
 
-Only pairs with both exact-body-mapped caller and callee support are included. Same RVA is not identity proof.
+Only pairs with both exact-body-mapped caller and callee support are included. Same RVA is not identity proof. The branch signature compares source/target RVAs, not high-level CFG block topology.
 
-## 0x017764b0 — CONTROL_FLOW_OR_BRANCH_TARGET_CHANGE (score 191)
+## 0x017764b0 — BRANCH_INSTRUCTION_ADDRESS_OR_TARGET_CHANGE (score 191)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 0.5; callee Jaccard 1.0
-- CFG same: False; exact mapped callees same: True; strings same: True
+- Branch-address signature same: False; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: ulong FUN_017764b0(long *param_1); Shield: void FUN_017764b0(long *param_1,uint *param_2,uint param_3)
 - 0x017764b0: Sword: str x21,[sp, #-0x30]!; Shield: cmn w2,#0x1
 - 0x017764b4: Sword: stp x20,x19,[sp, #0x10]; Shield: b.eq 0x0177651c
@@ -27,7 +27,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00768c70 — EXACT_MAPPED_CALLEE_CHANGE (score 98)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.846154
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_00768c70(undefined8 *param_1,undefined8 param_2,undefined4 param_3); Shield: undefined8 FUN_00768c70(undefined8 *param_1,undefined8 param_2,undefined4 param_3)
 - 0x00768ca0: Sword: bl 0x019fee40; Shield: bl 0x019feed0
 - 0x00768cac: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
@@ -49,7 +49,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007c3c70 — EXACT_MAPPED_CALLEE_CHANGE (score 98)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.95
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_007c3c70(long param_1); Shield: undefined8 FUN_007c3c70(long param_1)
 - 0x007c3cc8: Sword: bl 0x0186bd40; Shield: bl 0x0186bdd0
 - 0x007c3cdc: Sword: bl 0x019416b0; Shield: bl 0x01941740
@@ -71,7 +71,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007c4550 — EXACT_MAPPED_CALLEE_CHANGE (score 98)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.933333
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_007c4550(long param_1); Shield: undefined8 FUN_007c4550(long param_1)
 - 0x007c45a8: Sword: bl 0x0186bd40; Shield: bl 0x0186bdd0
 - 0x007c45bc: Sword: bl 0x019416b0; Shield: bl 0x01941740
@@ -93,7 +93,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006e2420 — EXACT_MAPPED_CALLEE_CHANGE (score 96)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_006e2420(long *param_1); Shield: void FUN_006e2420(long *param_1)
 - 0x006e2468: Sword: bl 0x019fdff0; Shield: bl 0x019fe080
 - 0x006e2470: Sword: bl 0x019fdd20; Shield: bl 0x019fddb0
@@ -103,7 +103,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007aabf0 — EXACT_MAPPED_CALLEE_CHANGE (score 95)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_007aabf0(long param_1); Shield: void FUN_007aabf0(long param_1)
 - 0x007aac1c: Sword: bl 0x01965ba0; Shield: bl 0x01965c30
 - 0x007aac28: Sword: bl 0x019ff1b0; Shield: bl 0x019ff240
@@ -114,7 +114,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00779300 — EXACT_MAPPED_CALLEE_CHANGE (score 91)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: ulong FUN_00779300(long *param_1,uint param_2,long param_3,ulong param_4,long param_5); Shield: ulong FUN_00779300(long *param_1,uint param_2,long param_3,ulong param_4,long param_5)
 - 0x00779340: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0077943c: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -126,7 +126,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00432480 — EXACT_MAPPED_CALLEE_CHANGE (score 90)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00432480(code *param_1,uint param_2,undefined8 param_3); Shield: int FUN_00432480(code *param_1,uint param_2,undefined8 param_3)
 - 0x004324b4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00432730: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -136,7 +136,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0047bab0 — EXACT_MAPPED_CALLEE_CHANGE (score 90)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.714286
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined4 FUN_0047bab0(long param_1); Shield: undefined4 FUN_0047bab0(long param_1)
 - 0x0047bb38: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0047bb70: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -145,7 +145,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00762270 — EXACT_MAPPED_CALLEE_CHANGE (score 90)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.833333
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_00762270(long param_1); Shield: void FUN_00762270(long param_1)
 - 0x00762294: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x007622a0: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -167,7 +167,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00763e80 — EXACT_MAPPED_CALLEE_CHANGE (score 90)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.75
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_00763e80(long param_1); Shield: undefined8 FUN_00763e80(long param_1)
 - 0x00763ea8: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00763eb4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
@@ -189,7 +189,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007757e0 — EXACT_MAPPED_CALLEE_CHANGE (score 90)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_007757e0(long param_1,ulong param_2,long *param_3); Shield: void FUN_007757e0(long param_1,ulong param_2,long *param_3)
 - 0x00775814: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x007759bc: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -199,7 +199,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00405500 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00405500(undefined8 *param_1,uint param_2,uint param_3,uint param_4,uint param_5); Shield: int FUN_00405500(undefined8 *param_1,uint param_2,uint param_3,uint param_4,uint param_5)
 - 0x00405578: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00405588: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -209,7 +209,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0041b630 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_0041b630(long *param_1,int param_2); Shield: undefined8 FUN_0041b630(long *param_1,int param_2)
 - 0x0041b660: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0041b70c: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
@@ -222,7 +222,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0042c660 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0042c660(long param_1,long *param_2); Shield: void FUN_0042c660(long param_1,long *param_2)
 - 0x0042c6bc: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0042c70c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -230,7 +230,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0043d200 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0043d200(long *param_1,undefined4 param_2,long param_3,undefined4 param_4); Shield: void FUN_0043d200(long *param_1,undefined4 param_2,long param_3,undefined4 param_4)
 - 0x0043d298: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0043d334: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -239,7 +239,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447160 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447160(long param_1,long param_2,long param_3); Shield: int FUN_00447160(long param_1,long param_2,long param_3)
 - 0x004471b4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004471ec: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -251,7 +251,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004472e0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004472e0(long param_1,long param_2,long param_3); Shield: int FUN_004472e0(long param_1,long param_2,long param_3)
 - 0x00447330: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00447368: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -263,7 +263,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447460 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447460(long param_1,long param_2,long param_3); Shield: int FUN_00447460(long param_1,long param_2,long param_3)
 - 0x004474dc: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00447500: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -274,7 +274,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447600 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447600(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00447600(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00447644: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044767c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -286,7 +286,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447780 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447780(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00447780(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x004477c4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004477fc: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -298,7 +298,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004478f0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004478f0(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_004478f0(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00447934: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044796c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -310,7 +310,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447a60 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447a60(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00447a60(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00447aa4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00447adc: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -322,7 +322,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447bd0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447bd0(long param_1,long param_2,long param_3); Shield: int FUN_00447bd0(long param_1,long param_2,long param_3)
 - 0x00447c20: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00447c58: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -334,7 +334,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447d40 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.714286
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447d40(long param_1,long param_2,long param_3); Shield: int FUN_00447d40(long param_1,long param_2,long param_3)
 - 0x00447dc0: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00447df8: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -346,7 +346,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00447fb0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00447fb0(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00447fb0(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00447ff4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044802c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -358,7 +358,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00448130 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00448130(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00448130(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00448174: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004481ac: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -370,7 +370,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004482a0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004482a0(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_004482a0(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x004482e4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044831c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -382,7 +382,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00448420 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00448420(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00448420(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00448464: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044849c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -394,7 +394,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004485a0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004485a0(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_004485a0(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x004485e4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044861c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -406,7 +406,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00448710 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00448710(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00448710(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00448754: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044878c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -418,7 +418,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00448880 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00448880(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_00448880(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x004488c4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004488fc: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -430,7 +430,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004489f0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004489f0(long param_1,long param_2,long param_3,MutexType *param_4); Shield: int FUN_004489f0(long param_1,long param_2,long param_3,MutexType *param_4)
 - 0x00448a34: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00448a6c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -442,7 +442,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004497a0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_004497a0(long param_1,uint *param_2); Shield: int FUN_004497a0(long param_1,uint *param_2)
 - 0x004497d0: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00449914: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
@@ -453,7 +453,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0044d500 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0044d500(undefined8 *param_1,code *param_2,undefined4 param_3,undefined8 param_4,; Shield: void FUN_0044d500(undefined8 *param_1,code *param_2,undefined4 param_3,undefined8 param_4,
 - 0x0044d544: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044d618: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -464,7 +464,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0044eed0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_0044eed0(long *param_1,long *param_2); Shield: int FUN_0044eed0(long *param_1,long *param_2)
 - 0x0044f070: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0044f108: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -472,7 +472,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00451600 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: ushort FUN_00451600(long *param_1); Shield: ushort FUN_00451600(long *param_1)
 - 0x0045181c: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00451854: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -481,7 +481,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00490ac0 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_00490ac0(long *param_1,uint param_2,undefined8 *param_3,long param_4); Shield: void FUN_00490ac0(long *param_1,uint param_2,undefined8 *param_3,long param_4)
 - 0x00490b44: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00490b8c: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -494,7 +494,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006d5e20 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_006d5e20(long param_1,undefined8 param_2); Shield: undefined8 FUN_006d5e20(long param_1,undefined8 param_2)
 - 0x006d5e58: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x006d5e7c: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -507,7 +507,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006e1e70 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_006e1e70(long param_1,long *param_2,int param_3); Shield: void FUN_006e1e70(long param_1,long *param_2,int param_3)
 - 0x006e1ea8: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x006e1f18: Sword: bl 0x019fdc10; Shield: bl 0x019fdca0
@@ -519,7 +519,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006e2100 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_006e2100(long param_1,long param_2); Shield: void FUN_006e2100(long param_1,long param_2)
 - 0x006e212c: Sword: bl 0x019fe770; Shield: bl 0x019fe800
 - 0x006e2150: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -532,7 +532,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0075af30 — EXACT_MAPPED_CALLEE_CHANGE (score 89)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.818182
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0075af30(long param_1); Shield: void FUN_0075af30(long param_1)
 - 0x0075af5c: Sword: bl 0x019febe0; Shield: bl 0x019fec70
 - 0x0075af90: Sword: bl 0x019febf0; Shield: bl 0x019fec80
@@ -550,7 +550,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00404690 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: long FUN_00404690(int param_1,long param_2); Shield: long FUN_00404690(int param_1,long param_2)
 - 0x004046cc: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0040472c: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -558,7 +558,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00405710 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: int FUN_00405710(int param_1); Shield: int FUN_00405710(int param_1)
 - 0x00405758: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004057b4: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -566,7 +566,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0045cf20 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_0045cf20(long param_1,int param_2,undefined4 param_3,undefined4 param_4); Shield: undefined8 FUN_0045cf20(long param_1,int param_2,undefined4 param_3,undefined4 param_4)
 - 0x0045cfb8: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0045cfc8: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -574,7 +574,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00466330 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: long * FUN_00466330(undefined4 param_1); Shield: long * FUN_00466330(undefined4 param_1)
 - 0x0046639c: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00466414: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -582,7 +582,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f020 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f020(long *param_1,uint param_2,undefined4 param_3,undefined8 param_4); Shield: void FUN_0048f020(long *param_1,uint param_2,undefined4 param_3,undefined8 param_4)
 - 0x0048f050: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f0a8: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -593,7 +593,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f220 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f220(long *param_1,uint param_2); Shield: void FUN_0048f220(long *param_1,uint param_2)
 - 0x0048f244: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f2ac: Sword: bl 0x019fe240; Shield: bl 0x019fe2d0
@@ -604,7 +604,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f300 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f300(long *param_1,uint param_2,undefined4 param_3,undefined4 param_4,; Shield: void FUN_0048f300(long *param_1,uint param_2,undefined4 param_3,undefined4 param_4,
 - 0x0048f33c: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f3b8: Sword: bl 0x019fe240; Shield: bl 0x019fe2d0
@@ -615,7 +615,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f430 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f430(long *param_1,long param_2,undefined4 *param_3); Shield: void FUN_0048f430(long *param_1,long param_2,undefined4 *param_3)
 - 0x0048f458: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f4dc: Sword: bl 0x019fe240; Shield: bl 0x019fe2d0
@@ -626,7 +626,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f540 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f540(long *param_1,uint param_2,undefined8 *param_3); Shield: void FUN_0048f540(long *param_1,uint param_2,undefined8 *param_3)
 - 0x0048f564: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f5b4: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -637,7 +637,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f680 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f680(long *param_1,uint param_2,uint param_3,void *param_4); Shield: void FUN_0048f680(long *param_1,uint param_2,uint param_3,void *param_4)
 - 0x0048f6b0: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f718: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
@@ -649,7 +649,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f790 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f790(long *param_1,uint param_2,void *param_3,undefined8 param_4); Shield: void FUN_0048f790(long *param_1,uint param_2,void *param_3,undefined8 param_4)
 - 0x0048f7c0: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f824: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
@@ -661,7 +661,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f8a0 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f8a0(long *param_1,uint param_2); Shield: void FUN_0048f8a0(long *param_1,uint param_2)
 - 0x0048f8c4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048f920: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -672,7 +672,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0048f980 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0048f980(long *param_1,uint param_2,undefined4 *param_3); Shield: void FUN_0048f980(long *param_1,uint param_2,undefined4 *param_3)
 - 0x0048f9ac: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0048fa0c: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -683,7 +683,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0075efb0 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.714286
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0075efb0(undefined8 param_1,undefined8 param_2,byte param_3,byte param_4); Shield: void FUN_0075efb0(undefined8 param_1,undefined8 param_2,byte param_3,byte param_4)
 - 0x0075efec: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0075eff0: Sword: bl 0x019fdc00; Shield: bl 0x019fdc90
@@ -696,7 +696,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0075f0a0 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.6
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_0075f0a0(void); Shield: void FUN_0075f0a0(void)
 - 0x0075f0c8: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0075f10c: Sword: b 0x019fdfb0; Shield: b 0x019fe040
@@ -707,7 +707,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00764420 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_00764420(long param_1); Shield: undefined8 FUN_00764420(long param_1)
 - 0x00764440: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x0076444c: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
@@ -722,7 +722,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00767a40 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_00767a40(long param_1,undefined4 param_2,undefined8 param_3,undefined4 param_4); Shield: void FUN_00767a40(long param_1,undefined4 param_2,undefined8 param_3,undefined4 param_4)
 - 0x00767a74: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00767b58: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
@@ -732,14 +732,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007dd7d0 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_007dd7d0(long param_1); Shield: void FUN_007dd7d0(long param_1)
 - 0x007dd850: Sword: bl 0x019fdfc0; Shield: bl 0x019fe050
 
 ## 0x00895770 — EXACT_MAPPED_CALLEE_CHANGE (score 88)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: uint FUN_00895770(long param_1,undefined8 *param_2,undefined8 param_3,undefined8 param_4,; Shield: uint FUN_00895770(long param_1,undefined8 *param_2,undefined8 param_3,undefined8 param_4,
 - 0x008957a4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00895818: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -747,7 +747,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00404750 — EXACT_MAPPED_CALLEE_CHANGE (score 87)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: long FUN_00404750(int param_1,long param_2,undefined4 param_3); Shield: long FUN_00404750(int param_1,long param_2,undefined4 param_3)
 - 0x00404790: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004047d4: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -755,7 +755,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004047f0 — EXACT_MAPPED_CALLEE_CHANGE (score 87)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_004047f0(int param_1,long param_2); Shield: undefined8 FUN_004047f0(int param_1,long param_2)
 - 0x00404824: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00404854: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -763,7 +763,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00404870 — EXACT_MAPPED_CALLEE_CHANGE (score 87)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: undefined8 FUN_00404870(int param_1,long param_2); Shield: undefined8 FUN_00404870(int param_1,long param_2)
 - 0x004048a4: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004048d4: Sword: bl 0x019fdfb0; Shield: bl 0x019fe040
@@ -771,7 +771,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x004ffc90 — EXACT_MAPPED_CALLEE_CHANGE (score 87)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.666667
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_004ffc90(long param_1); Shield: void FUN_004ffc90(long param_1)
 - 0x004ffca8: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x004ffcb4: Sword: bl 0x019fe390; Shield: bl 0x019fe420
@@ -782,7 +782,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008959c0 — EXACT_MAPPED_CALLEE_CHANGE (score 87)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: uint FUN_008959c0(float param_1,long param_2,undefined8 param_3,undefined8 param_4); Shield: uint FUN_008959c0(float param_1,long param_2,undefined8 param_3,undefined8 param_4)
 - 0x008959ec: Sword: bl 0x019fdfa0; Shield: bl 0x019fe030
 - 0x00895a00: Sword: bl 0x019fe130; Shield: bl 0x019fe1c0
@@ -791,7 +791,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x003ff5a0 — EXACT_MAPPED_CALLEE_CHANGE (score 86)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_003ff5a0(MutexType *param_1); Shield: void FUN_003ff5a0(MutexType *param_1)
 - 0x003ff5cc: Sword: b 0x019fdfb0; Shield: b 0x019fe040
 - 0x003ff5dc: Sword: add x2,x2,#0xd91; Shield: add x2,x2,#0xdd2
@@ -800,7 +800,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x003ffb20 — EXACT_MAPPED_CALLEE_CHANGE (score 85)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 0.5
-- CFG same: True; exact mapped callees same: False; strings same: True
+- Branch-address signature same: True; exact mapped callees same: False; strings same: True
 - C prototypes: Sword: void FUN_003ffb20(ConditionVariableType *param_1); Shield: void FUN_003ffb20(ConditionVariableType *param_1)
 - 0x003ffb30: Sword: bl 0x019fdff0; Shield: bl 0x019fe080
 - 0x003ffb40: Sword: b 0x019fdd20; Shield: b 0x019fddb0
@@ -808,7 +808,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a837f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 21)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a837f0(long *param_1); Shield: void FUN_00a837f0(long *param_1)
 - 0x00a83918: Sword: bl 0x01052ab0; Shield: bl 0x01052ae0
 - 0x00a83924: Sword: bl 0x01052ad0; Shield: bl 0x01052b00
@@ -830,7 +830,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007f2560 — OPERAND_OR_IMMEDIATE_CHANGE (score 20)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_007f2560(long *param_1,byte *param_2,long param_3); Shield: void FUN_007f2560(long *param_1,byte *param_2,long param_3)
 - 0x007f2684: Sword: bl 0x019fdd00; Shield: bl 0x019fdd90
 - 0x007f26e0: Sword: add x0,x0,#0xc78; Shield: add x0,x0,#0xca1
@@ -852,7 +852,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008d1a50 — OPERAND_OR_IMMEDIATE_CHANGE (score 20)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_008d1a50(long param_1); Shield: void FUN_008d1a50(long param_1)
 - 0x008d1a84: Sword: add x21,x21,#0x550; Shield: add x21,x21,#0x57a
 - 0x008d1b98: Sword: add x9,x9,#0x6ad; Shield: add x9,x9,#0x705
@@ -874,7 +874,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a94770 — OPERAND_OR_IMMEDIATE_CHANGE (score 20)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a94770(long param_1); Shield: void FUN_00a94770(long param_1)
 - 0x00a94810: Sword: add x8,x8,#0x339; Shield: add x8,x8,#0x383
 - 0x00a9482c: Sword: bl 0x012b4250; Shield: bl 0x012b4280
@@ -896,7 +896,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00824470 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00824470(long *param_1,long *param_2); Shield: void FUN_00824470(long *param_1,long *param_2)
 - 0x008244a4: Sword: add x2,x2,#0x960; Shield: add x2,x2,#0x9a1
 - 0x008244bc: Sword: add x1,x1,#0xbd3; Shield: add x1,x1,#0xc14
@@ -910,7 +910,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a0dbd0 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a0dbd0(long param_1,uint param_2,uint param_3); Shield: void FUN_00a0dbd0(long param_1,uint param_2,uint param_3)
 - 0x00a0e114: Sword: bl 0x015f6330; Shield: bl 0x015f63a0
 - 0x00a0e180: Sword: add x0,x0,#0x550; Shield: add x0,x0,#0x57a
@@ -919,7 +919,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a10760 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a10760(long *param_1,undefined8 *param_2); Shield: void FUN_00a10760(long *param_1,undefined8 *param_2)
 - 0x00a1084c: Sword: bl 0x00ffd700; Shield: bl 0x00ffd730
 - 0x00a109d0: Sword: bl 0x016a7ae0; Shield: bl 0x016a7b70
@@ -934,7 +934,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a53b60 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00a53b60(long param_1,uint param_2); Shield: undefined8 FUN_00a53b60(long param_1,uint param_2)
 - 0x00a53c84: Sword: bl 0x00ffd510; Shield: bl 0x00ffd540
 - 0x00a53e10: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -955,7 +955,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a713b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a713b0(long param_1,uint param_2,int param_3,undefined4 param_4); Shield: void FUN_00a713b0(long param_1,uint param_2,int param_3,undefined4 param_4)
 - 0x00a714f0: Sword: bl 0x015f6330; Shield: bl 0x015f63a0
 - 0x00a715c8: Sword: bl 0x015f6330; Shield: bl 0x015f63a0
@@ -966,7 +966,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00acf8d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00acf8d0(long *param_1); Shield: void FUN_00acf8d0(long *param_1)
 - 0x00acfaec: Sword: bl 0x00da16f0; Shield: bl 0x00da1720
 - 0x00acfd4c: Sword: bl 0x00da16f0; Shield: bl 0x00da1720
@@ -988,7 +988,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bef870 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bef870(long param_1); Shield: void FUN_00bef870(long param_1)
 - 0x00bef88c: Sword: bl 0x016bbeb0; Shield: bl 0x016bbf40
 - 0x00bef898: Sword: bl 0x016bbde0; Shield: bl 0x016bbe70
@@ -1006,7 +1006,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bf4050 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bf4050(long param_1); Shield: void FUN_00bf4050(long param_1)
 - 0x00bf428c: Sword: bl 0x01042330; Shield: bl 0x01042360
 - 0x00bf4400: Sword: bl 0x0169ce10; Shield: bl 0x0169cea0
@@ -1018,7 +1018,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c71a20 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c71a20(long *param_1,long *param_2,undefined8 param_3); Shield: void FUN_00c71a20(long *param_1,long *param_2,undefined8 param_3)
 - 0x00c71b2c: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x00c71b58: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -1037,7 +1037,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c8ff20 — OPERAND_OR_IMMEDIATE_CHANGE (score 19)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00c8ff20(long *param_1); Shield: undefined8 FUN_00c8ff20(long *param_1)
 - 0x00c8ffec: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x00c90004: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -1055,7 +1055,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00527cc0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: int FUN_00527cc0(long param_1,ulong param_2,undefined4 param_3,undefined4 param_4,undefined4 param_5; Shield: int FUN_00527cc0(long param_1,ulong param_2,undefined4 param_3,undefined4 param_4,undefined4 param_5
 - 0x00527e24: Sword: adrp x2,0x1d13000; Shield: adrp x2,0x1d14000
 - 0x00527e28: Sword: add x2,x2,#0xffb; Shield: add x2,x2,#0x53
@@ -1069,7 +1069,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00679d10 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined * FUN_00679d10(undefined8 param_1); Shield: undefined * FUN_00679d10(undefined8 param_1)
 - 0x00679e0c: Sword: add x21,x21,#0xdcd; Shield: add x21,x21,#0xe0d
 - 0x00679e1c: Sword: bl 0x019fe530; Shield: bl 0x019fe5c0
@@ -1091,7 +1091,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00687c90 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined * FUN_00687c90(undefined8 param_1); Shield: undefined * FUN_00687c90(undefined8 param_1)
 - 0x00687d8c: Sword: add x21,x21,#0xdcd; Shield: add x21,x21,#0xe0d
 - 0x00687d9c: Sword: bl 0x019fe530; Shield: bl 0x019fe5c0
@@ -1113,7 +1113,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00695390 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined * FUN_00695390(undefined8 param_1); Shield: undefined * FUN_00695390(undefined8 param_1)
 - 0x0069548c: Sword: add x21,x21,#0xdcd; Shield: add x21,x21,#0xe0d
 - 0x0069549c: Sword: bl 0x019fe530; Shield: bl 0x019fe5c0
@@ -1135,7 +1135,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006968a0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined * FUN_006968a0(undefined8 param_1); Shield: undefined * FUN_006968a0(undefined8 param_1)
 - 0x0069699c: Sword: add x21,x21,#0xdcd; Shield: add x21,x21,#0xe0d
 - 0x006969ac: Sword: bl 0x019fe530; Shield: bl 0x019fe5c0
@@ -1157,7 +1157,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006c8060 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: int FUN_006c8060(long param_1,undefined8 *param_2,undefined8 param_3,uint param_4,undefined8 param_5; Shield: int FUN_006c8060(long param_1,undefined8 *param_2,undefined8 param_3,uint param_4,undefined8 param_5
 - 0x006c81a0: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x006c81a8: Sword: bl 0x01590a70; Shield: bl 0x01590aa0
@@ -1169,7 +1169,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006cc2d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: bool FUN_006cc2d0(undefined8 param_1,int param_2,long param_3,long *param_4,undefined8 *param_5); Shield: bool FUN_006cc2d0(undefined8 param_1,int param_2,long param_3,long *param_4,undefined8 *param_5)
 - 0x006cc348: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x006cc350: Sword: bl 0x01590a70; Shield: bl 0x01590aa0
@@ -1184,7 +1184,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006cc690 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: bool FUN_006cc690(undefined8 param_1,long param_2,long *param_3,undefined8 *param_4,; Shield: bool FUN_006cc690(undefined8 param_1,long param_2,long *param_3,undefined8 *param_4,
 - 0x006cc758: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x006cc760: Sword: bl 0x01590a70; Shield: bl 0x01590aa0
@@ -1199,7 +1199,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006e33f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_006e33f0(long param_1,undefined8 *param_2); Shield: void FUN_006e33f0(long param_1,undefined8 *param_2)
 - 0x006e3434: Sword: bl 0x019fe8b0; Shield: bl 0x019fe940
 - 0x006e343c: Sword: bl 0x019fe8c0; Shield: bl 0x019fe950
@@ -1215,7 +1215,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006ef3c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_006ef3c0(long param_1); Shield: void FUN_006ef3c0(long param_1)
 - 0x006ef420: Sword: bl 0x0199df70; Shield: bl 0x0199e000
 - 0x006ef450: Sword: bl 0x0199df20; Shield: bl 0x0199dfb0
@@ -1228,7 +1228,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x006ffa80 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_006ffa80(long *param_1); Shield: void FUN_006ffa80(long *param_1)
 - 0x006ffb4c: Sword: bl 0x0199db10; Shield: bl 0x0199dba0
 - 0x006ffbac: Sword: bl 0x0199db10; Shield: bl 0x0199dba0
@@ -1248,7 +1248,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00713a20 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00713a20(ulong *param_1,long param_2); Shield: void FUN_00713a20(ulong *param_1,long param_2)
 - 0x00713a54: Sword: add x8,x8,#0x550; Shield: add x8,x8,#0x57a
 - 0x00713b08: Sword: bl 0x019fdd00; Shield: bl 0x019fdd90
@@ -1256,7 +1256,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0072b360 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0072b360(long param_1,long param_2); Shield: void FUN_0072b360(long param_1,long param_2)
 - 0x0072b384: Sword: bl 0x019fdc00; Shield: bl 0x019fdc90
 - 0x0072b460: Sword: bl 0x019a44c0; Shield: bl 0x019a4550
@@ -1275,7 +1275,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0073d860 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: uint FUN_0073d860(long param_1,undefined4 *param_2,undefined8 *param_3,ulong *param_4,long param_5,; Shield: uint FUN_0073d860(long param_1,undefined4 *param_2,undefined8 *param_3,ulong *param_4,long param_5,
 - 0x0073d8c4: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
 - 0x0073d9a8: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -1285,7 +1285,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0073dfe0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0073dfe0(long param_1,long param_2,int param_3); Shield: void FUN_0073dfe0(long param_1,long param_2,int param_3)
 - 0x0073e0c0: Sword: bl 0x0199cb60; Shield: bl 0x0199cbf0
 - 0x0073e0e0: Sword: bl 0x0199de60; Shield: bl 0x0199def0
@@ -1302,7 +1302,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00751820 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00751820(undefined8 param_1,long param_2,int *param_3,undefined8 param_4,uint param_5,; Shield: void FUN_00751820(undefined8 param_1,long param_2,int *param_3,undefined8 param_4,uint param_5,
 - 0x007519b4: Sword: bl 0x019fdd00; Shield: bl 0x019fdd90
 - 0x00751a54: Sword: bl 0x019fdd50; Shield: bl 0x019fdde0
@@ -1314,7 +1314,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00769890 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00769890(long param_1); Shield: void FUN_00769890(long param_1)
 - 0x007698c0: Sword: add x22,x22,#0x550; Shield: add x22,x22,#0x57a
 - 0x007698c8: Sword: add x1,x1,#0xc03; Shield: add x1,x1,#0xc36
@@ -1325,7 +1325,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0076a170 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0076a170(long param_1,uint param_2,int param_3); Shield: void FUN_0076a170(long param_1,uint param_2,int param_3)
 - 0x0076a240: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
 - 0x0076a39c: Sword: bl 0x0199c810; Shield: bl 0x0199c8a0
@@ -1338,7 +1338,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00791180 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00791180(long param_1,long param_2,int param_3,int param_4,int param_5,uint param_6,; Shield: void FUN_00791180(long param_1,long param_2,int param_3,int param_4,int param_5,uint param_6,
 - 0x0079124c: Sword: bl 0x0199c2a0; Shield: bl 0x0199c330
 - 0x00791290: Sword: bl 0x0199de60; Shield: bl 0x0199def0
@@ -1360,7 +1360,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008073d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_008073d0(long param_1); Shield: undefined8 FUN_008073d0(long param_1)
 - 0x00807748: Sword: bl 0x019ff450; Shield: bl 0x019ff4e0
 - 0x0080780c: Sword: add x3,x3,#0xd59; Shield: add x3,x3,#0xd74
@@ -1375,7 +1375,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00842de0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00842de0(undefined4 *param_1); Shield: undefined8 FUN_00842de0(undefined4 *param_1)
 - 0x00842e14: Sword: bl 0x019ff320; Shield: bl 0x019ff3b0
 - 0x00842e44: Sword: add x25,x25,#0x278; Shield: add x25,x25,#0x2c2
@@ -1386,7 +1386,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00863060 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00863060(byte *param_1,byte *param_2,long param_3,undefined8 param_4,undefined8 param_5,; Shield: void FUN_00863060(byte *param_1,byte *param_2,long param_3,undefined8 param_4,undefined8 param_5,
 - 0x00863140: Sword: bl 0x019ff520; Shield: bl 0x019ff5b0
 - 0x00863170: Sword: add x2,x2,#0xf6b; Shield: add x2,x2,#0xf94
@@ -1405,14 +1405,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00865c70 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00865c70(void); Shield: void FUN_00865c70(void)
 - 0x00865cf0: Sword: add x22,x22,#0x550; Shield: add x22,x22,#0x57a
 
 ## 0x008d2910 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_008d2910(long param_1); Shield: void FUN_008d2910(long param_1)
 - 0x008d2938: Sword: add x0,x0,#0x902; Shield: add x0,x0,#0x95a
 - 0x008d2b18: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -1422,21 +1422,21 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x009a75a0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: int FUN_009a75a0(undefined8 param_1,undefined8 param_2,undefined8 param_3,long param_4,; Shield: int FUN_009a75a0(undefined8 param_1,undefined8 param_2,undefined8 param_3,long param_4,
 - 0x009a7880: Sword: bl 0x0102ba70; Shield: bl 0x0102baa0
 
 ## 0x009cbee0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_009cbee0(long param_1); Shield: void FUN_009cbee0(long param_1)
 - 0x009cc00c: Sword: bl 0x01940760; Shield: bl 0x019407f0
 
 ## 0x00a0f5f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a0f5f0(long param_1); Shield: void FUN_00a0f5f0(long param_1)
 - 0x00a0f60c: Sword: bl 0x00ff93d0; Shield: bl 0x00ff9400
 - 0x00a0f6a0: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -1450,7 +1450,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a187b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a187b0(long param_1,long *param_2,undefined8 param_3); Shield: void FUN_00a187b0(long param_1,long *param_2,undefined8 param_3)
 - 0x00a188f8: Sword: bl 0x00ffd510; Shield: bl 0x00ffd540
 - 0x00a18b08: Sword: bl 0x019a65b0; Shield: bl 0x019a6640
@@ -1461,7 +1461,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a25ea0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a25ea0(long param_1,undefined8 param_2); Shield: void FUN_00a25ea0(long param_1,undefined8 param_2)
 - 0x00a26054: Sword: bl 0x00ffd510; Shield: bl 0x00ffd540
 - 0x00a26064: Sword: bl 0x00ffd840; Shield: bl 0x00ffd870
@@ -1479,7 +1479,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a37620 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a37620(long param_1,long *param_2); Shield: void FUN_00a37620(long param_1,long *param_2)
 - 0x00a3772c: Sword: bl 0x016b81d0; Shield: bl 0x016b8260
 - 0x00a37740: Sword: bl 0x016b81d0; Shield: bl 0x016b8260
@@ -1497,7 +1497,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a38f80 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a38f80(long *param_1,long param_2); Shield: void FUN_00a38f80(long *param_1,long param_2)
 - 0x00a38fc0: Sword: bl 0x016b2da0; Shield: bl 0x016b2e30
 - 0x00a38fe8: Sword: bl 0x016b2d70; Shield: bl 0x016b2e00
@@ -1517,7 +1517,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a855e0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a855e0(long param_1,byte param_2,int param_3); Shield: void FUN_00a855e0(long param_1,byte param_2,int param_3)
 - 0x00a85680: Sword: bl 0x00dcd4a0; Shield: bl 0x00dcd4d0
 - 0x00a856d4: Sword: bl 0x019fdc00; Shield: bl 0x019fdc90
@@ -1527,7 +1527,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a93780 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a93780(long param_1,ulong param_2); Shield: void FUN_00a93780(long param_1,ulong param_2)
 - 0x00a937f0: Sword: bl 0x01052d20; Shield: bl 0x01052d50
 - 0x00a937f8: Sword: bl 0x01052410; Shield: bl 0x01052440
@@ -1549,7 +1549,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a9cbd0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a9cbd0(long *param_1,ulong param_2); Shield: void FUN_00a9cbd0(long *param_1,ulong param_2)
 - 0x00a9cc8c: Sword: add x23,x23,#0x550; Shield: add x23,x23,#0x57a
 - 0x00a9cd1c: Sword: add x0,x0,#0x57b; Shield: add x0,x0,#0x5c5
@@ -1563,7 +1563,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a9cf90 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a9cf90(long *param_1); Shield: void FUN_00a9cf90(long *param_1)
 - 0x00a9cfb8: Sword: add x22,x22,#0x550; Shield: add x22,x22,#0x57a
 - 0x00a9d01c: Sword: add x0,x0,#0xbd7; Shield: add x0,x0,#0xc2f
@@ -1577,7 +1577,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00aa5ef0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00aa5ef0(ulong param_1); Shield: void FUN_00aa5ef0(ulong param_1)
 - 0x00aa5f5c: Sword: add x20,x20,#0x550; Shield: add x20,x20,#0x57a
 - 0x00aa60b4: Sword: bl 0x019fdd50; Shield: bl 0x019fdde0
@@ -1586,7 +1586,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00acda00 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00acda00(long *param_1); Shield: void FUN_00acda00(long *param_1)
 - 0x00acdb68: Sword: bl 0x01050390; Shield: bl 0x010503c0
 - 0x00acdc9c: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
@@ -1599,7 +1599,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bc46a0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bc46a0(long param_1,int param_2,undefined4 param_3); Shield: void FUN_00bc46a0(long param_1,int param_2,undefined4 param_3)
 - 0x00bc46dc: Sword: bl 0x00ff86a0; Shield: bl 0x00ff86d0
 - 0x00bc4784: Sword: bl 0x014c9900; Shield: bl 0x014c9930
@@ -1620,14 +1620,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bc8500 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00bc8500(long param_1,int param_2,int param_3,undefined4 param_4); Shield: undefined8 FUN_00bc8500(long param_1,int param_2,int param_3,undefined4 param_4)
 - 0x00bc86dc: Sword: bl 0x0150a730; Shield: bl 0x0150a760
 
 ## 0x00bcf1f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined4; Shield: undefined4
 - 0x00bcf3e0: Sword: bl 0x0150a670; Shield: bl 0x0150a6a0
 - 0x00bcf44c: Sword: bl 0x01505e60; Shield: bl 0x01505e90
@@ -1635,7 +1635,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bd26a0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bd26a0(undefined1 param_1 [16],float param_2,long param_3,uint param_4,int param_5); Shield: void FUN_00bd26a0(undefined1 param_1 [16],float param_2,long param_3,uint param_4,int param_5)
 - 0x00bd2784: Sword: bl 0x0167b760; Shield: bl 0x0167b7f0
 - 0x00bd2798: Sword: bl 0x0167b760; Shield: bl 0x0167b7f0
@@ -1643,7 +1643,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bef3d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bef3d0(long param_1); Shield: void FUN_00bef3d0(long param_1)
 - 0x00bef438: Sword: bl 0x0108c840; Shield: bl 0x0108c870
 - 0x00bef548: Sword: bl 0x0108c840; Shield: bl 0x0108c870
@@ -1655,7 +1655,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bf49d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bf49d0(long param_1); Shield: void FUN_00bf49d0(long param_1)
 - 0x00bf4a7c: Sword: bl 0x010364c0; Shield: bl 0x010364f0
 - 0x00bf4cc8: Sword: bl 0x010364c0; Shield: bl 0x010364f0
@@ -1664,7 +1664,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bf7490 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bf7490(long param_1,int param_2); Shield: void FUN_00bf7490(long param_1,int param_2)
 - 0x00bf74b0: Sword: add x1,x1,#0x77a; Shield: add x1,x1,#0x7a4
 - 0x00bf75f8: Sword: bl 0x0108c840; Shield: bl 0x0108c870
@@ -1680,7 +1680,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c097c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c097c0(long param_1,int param_2,uint param_3); Shield: void FUN_00c097c0(long param_1,int param_2,uint param_3)
 - 0x00c097e0: Sword: add x1,x1,#0x77a; Shield: add x1,x1,#0x7a4
 - 0x00c0992c: Sword: bl 0x0108c840; Shield: bl 0x0108c870
@@ -1698,7 +1698,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c0fc80 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c0fc80(long param_1,undefined1 param_2,undefined8 *param_3,undefined8 *param_4); Shield: void FUN_00c0fc80(long param_1,undefined1 param_2,undefined8 *param_3,undefined8 *param_4)
 - 0x00c0fd40: Sword: bl 0x014ca220; Shield: bl 0x014ca250
 - 0x00c0fdb8: Sword: bl 0x014c62d0; Shield: bl 0x014c6300
@@ -1711,7 +1711,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c10960 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c10960(long param_1,int param_2); Shield: void FUN_00c10960(long param_1,int param_2)
 - 0x00c10ab8: Sword: bl 0x0108c840; Shield: bl 0x0108c870
 - 0x00c10ae0: Sword: bl 0x016b2d70; Shield: bl 0x016b2e00
@@ -1724,7 +1724,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c14440 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c14440(long param_1,undefined4 param_2); Shield: void FUN_00c14440(long param_1,undefined4 param_2)
 - 0x00c14478: Sword: bl 0x0166fe50; Shield: bl 0x0166fee0
 - 0x00c14514: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -1739,7 +1739,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c6c510 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c6c510(long param_1,long param_2,undefined8 param_3,undefined8 param_4,undefined8 param_5; Shield: void FUN_00c6c510(long param_1,long param_2,undefined8 param_3,undefined8 param_4,undefined8 param_5
 - 0x00c6c7c0: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x00c6c7e4: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -1749,7 +1749,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c72160 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c72160(long *param_1,long *param_2); Shield: void FUN_00c72160(long *param_1,long *param_2)
 - 0x00c72260: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x00c72294: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -1761,7 +1761,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c7dc50 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c7dc50(undefined8 param_1,long param_2,uint param_3,long param_4); Shield: void FUN_00c7dc50(undefined8 param_1,long param_2,uint param_3,long param_4)
 - 0x00c7de8c: Sword: bl 0x01524df0; Shield: bl 0x01524e20
 - 0x00c7deac: Sword: bl 0x01524df0; Shield: bl 0x01524e20
@@ -1771,7 +1771,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00c85db0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00c85db0(long param_1,long param_2,long param_3,undefined8 param_4); Shield: void FUN_00c85db0(long param_1,long param_2,long param_3,undefined8 param_4)
 - 0x00c86034: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x00c8605c: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -1781,7 +1781,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00d84bf0 — OPERAND_OR_IMMEDIATE_CHANGE (score 18)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00d84bf0(long param_1,int param_2); Shield: void FUN_00d84bf0(long param_1,int param_2)
 - 0x00d84d28: Sword: bl 0x00da16f0; Shield: bl 0x00da1720
 - 0x00d84e30: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
@@ -1790,7 +1790,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x003276f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_003276f0(long *param_1,undefined8 *param_2); Shield: void FUN_003276f0(long *param_1,undefined8 *param_2)
 - 0x00327804: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00327840: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1800,7 +1800,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0032fd40 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0032fd40(long *param_1,ulong *param_2); Shield: void FUN_0032fd40(long *param_1,ulong *param_2)
 - 0x0032fe54: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x0032fe90: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1810,7 +1810,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x003307c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_003307c0(long *param_1,ulong *param_2); Shield: void FUN_003307c0(long *param_1,ulong *param_2)
 - 0x003308d4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00330910: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1820,7 +1820,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00331340 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00331340(long *param_1,ulong *param_2); Shield: void FUN_00331340(long *param_1,ulong *param_2)
 - 0x00331454: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00331490: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1830,7 +1830,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00337980 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00337980(long *param_1,ulong *param_2); Shield: void FUN_00337980(long *param_1,ulong *param_2)
 - 0x00337a94: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00337ad0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1840,7 +1840,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00337f10 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00337f10(long *param_1,ulong *param_2); Shield: void FUN_00337f10(long *param_1,ulong *param_2)
 - 0x00338024: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00338060: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1850,7 +1850,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00344170 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00344170(long *param_1,ulong *param_2); Shield: void FUN_00344170(long *param_1,ulong *param_2)
 - 0x00344284: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x003442c0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1860,7 +1860,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00344700 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00344700(long *param_1,ulong *param_2); Shield: void FUN_00344700(long *param_1,ulong *param_2)
 - 0x00344814: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00344850: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1870,7 +1870,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00349850 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00349850(long *param_1,ulong *param_2); Shield: void FUN_00349850(long *param_1,ulong *param_2)
 - 0x00349964: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x003499a0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1880,7 +1880,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00349de0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00349de0(long *param_1,ulong *param_2); Shield: void FUN_00349de0(long *param_1,ulong *param_2)
 - 0x00349ef4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00349f30: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1890,7 +1890,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0034f800 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0034f800(long *param_1,undefined8 *param_2); Shield: void FUN_0034f800(long *param_1,undefined8 *param_2)
 - 0x0034f914: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x0034f950: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1900,7 +1900,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00351760 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00351760(long *param_1,ulong *param_2); Shield: void FUN_00351760(long *param_1,ulong *param_2)
 - 0x00351874: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x003518b0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1910,7 +1910,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00351cf0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00351cf0(long *param_1,ulong *param_2); Shield: void FUN_00351cf0(long *param_1,ulong *param_2)
 - 0x00351e04: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00351e40: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1920,7 +1920,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00355b00 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00355b00(long *param_1,ulong *param_2); Shield: void FUN_00355b00(long *param_1,ulong *param_2)
 - 0x00355c14: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00355c50: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1930,7 +1930,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00356090 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00356090(long *param_1,ulong *param_2); Shield: void FUN_00356090(long *param_1,ulong *param_2)
 - 0x003561a4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x003561e0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1940,7 +1940,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00357020 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00357020(long *param_1,ulong *param_2); Shield: void FUN_00357020(long *param_1,ulong *param_2)
 - 0x00357134: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00357170: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1950,7 +1950,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00358720 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00358720(long *param_1,undefined8 *param_2); Shield: void FUN_00358720(long *param_1,undefined8 *param_2)
 - 0x00358834: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00358870: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1960,7 +1960,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0036c9b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0036c9b0(long *param_1,undefined8 *param_2); Shield: void FUN_0036c9b0(long *param_1,undefined8 *param_2)
 - 0x0036cac4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x0036cb00: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1970,7 +1970,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00371600 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00371600(long *param_1,undefined8 *param_2); Shield: void FUN_00371600(long *param_1,undefined8 *param_2)
 - 0x00371714: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00371750: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1980,7 +1980,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0037b490 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0037b490(long *param_1,undefined8 *param_2); Shield: void FUN_0037b490(long *param_1,undefined8 *param_2)
 - 0x0037b5a4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x0037b5e0: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -1990,7 +1990,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00385db0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00385db0(long *param_1,undefined8 *param_2); Shield: void FUN_00385db0(long *param_1,undefined8 *param_2)
 - 0x00385ec4: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00385f00: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -2000,7 +2000,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0038c510 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0038c510(long *param_1,undefined8 *param_2); Shield: void FUN_0038c510(long *param_1,undefined8 *param_2)
 - 0x0038c624: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x0038c660: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -2010,7 +2010,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00391b40 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00391b40(long *param_1,undefined8 *param_2); Shield: void FUN_00391b40(long *param_1,undefined8 *param_2)
 - 0x00391c54: Sword: add x22,x22,#0xd80; Shield: add x22,x22,#0xdd8
 - 0x00391c90: Sword: add x23,x23,#0x65e; Shield: add x23,x23,#0x691
@@ -2020,14 +2020,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0054b050 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_0054b050(long param_1); Shield: undefined8 FUN_0054b050(long param_1)
 - 0x0054b068: Sword: add x20,x20,#0x550; Shield: add x20,x20,#0x57a
 
 ## 0x006e5a40 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_006e5a40(long param_1,int param_2,undefined8 param_3,undefined8 *param_4,; Shield: void FUN_006e5a40(long param_1,int param_2,undefined8 param_3,undefined8 *param_4,
 - 0x006e5a5c: Sword: add x9,x9,#0x550; Shield: add x9,x9,#0x57a
 - 0x006e5a98: Sword: adrp x2,0x1cfc000; Shield: adrp x2,0x1cfd000
@@ -2039,7 +2039,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00703f20 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00703f20(long param_1); Shield: void FUN_00703f20(long param_1)
 - 0x007040b4: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x007040d0: Sword: bl 0x019fdbf0; Shield: bl 0x019fdc80
@@ -2048,7 +2048,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0072ee90 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0072ee90(long *param_1,ulong param_2,undefined1 param_3,undefined1 param_4); Shield: void FUN_0072ee90(long *param_1,ulong param_2,undefined1 param_3,undefined1 param_4)
 - 0x0072effc: Sword: bl 0x0199c0e0; Shield: bl 0x0199c170
 - 0x0072f084: Sword: bl 0x0199c0e0; Shield: bl 0x0199c170
@@ -2056,7 +2056,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0072f130 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0072f130(long *param_1,ulong param_2,undefined1 param_3,undefined1 param_4); Shield: void FUN_0072f130(long *param_1,ulong param_2,undefined1 param_3,undefined1 param_4)
 - 0x0072f290: Sword: bl 0x0199c0e0; Shield: bl 0x0199c170
 - 0x0072f318: Sword: bl 0x0199c0e0; Shield: bl 0x0199c170
@@ -2064,7 +2064,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0073c7b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0073c7b0(long param_1,int *param_2,uint *param_3); Shield: void FUN_0073c7b0(long param_1,int *param_2,uint *param_3)
 - 0x0073c868: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
 - 0x0073c88c: Sword: add x8,x8,#0x550; Shield: add x8,x8,#0x57a
@@ -2078,7 +2078,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x0073eee0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0073eee0(long param_1,long param_2); Shield: void FUN_0073eee0(long param_1,long param_2)
 - 0x0073ef34: Sword: bl 0x0199dfb0; Shield: bl 0x0199e040
 - 0x0073ef78: Sword: bl 0x0199ce00; Shield: bl 0x0199ce90
@@ -2091,7 +2091,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007881c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_007881c0(long param_1); Shield: void FUN_007881c0(long param_1)
 - 0x007881fc: Sword: bl 0x0199cf00; Shield: bl 0x0199cf90
 - 0x00788218: Sword: bl 0x0199cfb0; Shield: bl 0x0199d040
@@ -2107,7 +2107,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007abef0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_007abef0(long param_1); Shield: void FUN_007abef0(long param_1)
 - 0x007abf24: Sword: bl 0x017cd7a0; Shield: bl 0x017cd830
 - 0x007abf48: Sword: bl 0x017cd7a0; Shield: bl 0x017cd830
@@ -2125,7 +2125,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007ac120 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_007ac120(long param_1,undefined4 param_2); Shield: undefined8 FUN_007ac120(long param_1,undefined4 param_2)
 - 0x007ac21c: Sword: bl 0x017d41c0; Shield: bl 0x017d4250
 - 0x007ac224: Sword: bl 0x017cdd60; Shield: bl 0x017cddf0
@@ -2135,14 +2135,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x007b9320 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_007b9320(long param_1); Shield: void FUN_007b9320(long param_1)
 - 0x007b94a4: Sword: bl 0x018724d0; Shield: bl 0x01872560
 
 ## 0x0080c430 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_0080c430(int param_1,int param_2,int param_3,long *param_4); Shield: void FUN_0080c430(int param_1,int param_2,int param_3,long *param_4)
 - 0x0080c45c: Sword: add x2,x2,#0x67b; Shield: add x2,x2,#0x6ac
 - 0x0080c474: Sword: add x1,x1,#0xe04; Shield: add x1,x1,#0xe2d
@@ -2157,7 +2157,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00861e80 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00861e80(long param_1,long param_2,undefined8 param_3,undefined8 param_4); Shield: undefined8 FUN_00861e80(long param_1,long param_2,undefined8 param_3,undefined8 param_4)
 - 0x00861f14: Sword: bl 0x019fedc0; Shield: bl 0x019fee50
 - 0x00861f94: Sword: add x2,x2,#0xa64; Shield: add x2,x2,#0xaa5
@@ -2169,7 +2169,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00880430 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00880430(undefined8 *param_1,undefined4 param_2); Shield: void FUN_00880430(undefined8 *param_1,undefined4 param_2)
 - 0x0088063c: Sword: add x8,x8,#0x550; Shield: add x8,x8,#0x57a
 - 0x00880680: Sword: add x0,x0,#0x550; Shield: add x0,x0,#0x57a
@@ -2178,7 +2178,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00886150 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00886150(long param_1,int param_2,uint param_3); Shield: void FUN_00886150(long param_1,int param_2,uint param_3)
 - 0x00886390: Sword: add x8,x8,#0x550; Shield: add x8,x8,#0x57a
 - 0x008863d8: Sword: add x0,x0,#0x550; Shield: add x0,x0,#0x57a
@@ -2187,7 +2187,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00886d00 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00886d00(long param_1,int param_2); Shield: void FUN_00886d00(long param_1,int param_2)
 - 0x00886e2c: Sword: bl 0x019fddc0; Shield: bl 0x019fde50
 - 0x00886f00: Sword: add x8,x8,#0x550; Shield: add x8,x8,#0x57a
@@ -2197,7 +2197,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008c86c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_008c86c0(long param_1,long *param_2,undefined4 param_3); Shield: void FUN_008c86c0(long param_1,long *param_2,undefined4 param_3)
 - 0x008c87e0: Sword: bl 0x00ff86a0; Shield: bl 0x00ff86d0
 - 0x008c884c: Sword: bl 0x016b4ab0; Shield: bl 0x016b4b40
@@ -2205,7 +2205,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008d08d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_008d08d0(long param_1,int param_2); Shield: void FUN_008d08d0(long param_1,int param_2)
 - 0x008d0940: Sword: bl 0x00ff9390; Shield: bl 0x00ff93c0
 - 0x008d095c: Sword: add x8,x8,#0xe23; Shield: add x8,x8,#0xe54
@@ -2215,7 +2215,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008d46b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_008d46b0(long param_1,uint param_2); Shield: undefined8 FUN_008d46b0(long param_1,uint param_2)
 - 0x008d4714: Sword: bl 0x019fdd00; Shield: bl 0x019fdd90
 - 0x008d4760: Sword: bl 0x019fdd00; Shield: bl 0x019fdd90
@@ -2224,21 +2224,21 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x008f26c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_008f26c0(long param_1); Shield: void FUN_008f26c0(long param_1)
 - 0x008f2908: Sword: bl 0x011faab0; Shield: bl 0x011faae0
 
 ## 0x009a3a00 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: bool FUN_009a3a00(undefined8 param_1,undefined8 param_2,uint param_3); Shield: bool FUN_009a3a00(undefined8 param_1,undefined8 param_2,uint param_3)
 - 0x009a3acc: Sword: bl 0x01524da0; Shield: bl 0x01524dd0
 
 ## 0x009a54d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_009a54d0(undefined4 *param_1,undefined8 param_2,undefined8 param_3,long param_4,; Shield: void FUN_009a54d0(undefined4 *param_1,undefined8 param_2,undefined8 param_3,long param_4,
 - 0x009a5528: Sword: bl 0x01524c00; Shield: bl 0x01524c30
 - 0x009a5624: Sword: bl 0x01524c50; Shield: bl 0x01524c80
@@ -2246,7 +2246,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x009ce960 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_009ce960(long param_1,undefined8 *param_2); Shield: void FUN_009ce960(long param_1,undefined8 *param_2)
 - 0x009cea54: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
 - 0x009ceb10: Sword: bl 0x01524f20; Shield: bl 0x01524f50
@@ -2256,14 +2256,14 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x009fde50 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: uint FUN_009fde50(long param_1,undefined8 *param_2); Shield: uint FUN_009fde50(long param_1,undefined8 *param_2)
 - 0x009fe018: Sword: bl 0x014adfd0; Shield: bl 0x014ae000
 
 ## 0x00a1b110 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a1b110(long param_1,long *param_2,undefined4 param_3,uint param_4); Shield: void FUN_00a1b110(long param_1,long *param_2,undefined4 param_3,uint param_4)
 - 0x00a1b234: Sword: bl 0x00ffd430; Shield: bl 0x00ffd460
 - 0x00a1b240: Sword: bl 0x00ffd430; Shield: bl 0x00ffd460
@@ -2285,7 +2285,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a1b470 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a1b470(long param_1); Shield: void FUN_00a1b470(long param_1)
 - 0x00a1b488: Sword: bl 0x00ff93d0; Shield: bl 0x00ff9400
 - 0x00a1b4b4: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
@@ -2296,7 +2296,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a3a1d0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a3a1d0(long param_1,ulong param_2); Shield: void FUN_00a3a1d0(long param_1,ulong param_2)
 - 0x00a3a240: Sword: bl 0x016b2da0; Shield: bl 0x016b2e30
 - 0x00a3a300: Sword: bl 0x019fdbe0; Shield: bl 0x019fdc70
@@ -2306,7 +2306,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a556f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a556f0(long param_1,int param_2); Shield: void FUN_00a556f0(long param_1,int param_2)
 - 0x00a55764: Sword: bl 0x0167b6b0; Shield: bl 0x0167b740
 - 0x00a557b4: Sword: bl 0x0167b6b0; Shield: bl 0x0167b740
@@ -2321,7 +2321,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a584b0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a584b0(long param_1,long param_2,long param_3,long param_4,long param_5,long param_6,; Shield: void FUN_00a584b0(long param_1,long param_2,long param_3,long param_4,long param_5,long param_6,
 - 0x00a5851c: Sword: bl 0x00ffa3d0; Shield: bl 0x00ffa400
 - 0x00a58680: Sword: add x0,x0,#0x550; Shield: add x0,x0,#0x57a
@@ -2330,7 +2330,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a71c60 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a71c60(undefined8 param_1,undefined8 param_2,undefined8 param_3,undefined8 param_4,; Shield: void FUN_00a71c60(undefined8 param_1,undefined8 param_2,undefined8 param_3,undefined8 param_4,
 - 0x00a71cc8: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
 - 0x00a71db4: Sword: bl 0x015f6330; Shield: bl 0x015f63a0
@@ -2339,7 +2339,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a79350 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a79350(long param_1,int param_2,uint param_3); Shield: void FUN_00a79350(long param_1,int param_2,uint param_3)
 - 0x00a793cc: Sword: add x8,x8,#0x339; Shield: add x8,x8,#0x383
 - 0x00a793e8: Sword: bl 0x012b4250; Shield: bl 0x012b4280
@@ -2354,7 +2354,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00a7a5a0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00a7a5a0(long param_1,byte param_2); Shield: void FUN_00a7a5a0(long param_1,byte param_2)
 - 0x00a7a5f4: Sword: bl 0x00dab450; Shield: bl 0x00dab480
 - 0x00a7a634: Sword: bl 0x00dab450; Shield: bl 0x00dab480
@@ -2366,7 +2366,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00aa73f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00aa73f0(undefined8 *param_1,undefined8 param_2,undefined1 param_3); Shield: void FUN_00aa73f0(undefined8 *param_1,undefined8 param_2,undefined1 param_3)
 - 0x00aa7420: Sword: add x9,x9,#0xc41; Shield: add x9,x9,#0xc81
 - 0x00aa7448: Sword: add x9,x9,#0xb9d; Shield: add x9,x9,#0xbde
@@ -2382,7 +2382,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00ad8a10 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: int FUN_00ad8a10(char *param_1,long *param_2,long param_3,int param_4); Shield: int FUN_00ad8a10(char *param_1,long *param_2,long param_3,int param_4)
 - 0x00ad8ab8: Sword: add x8,x8,#0xbe4; Shield: add x8,x8,#0xc25
 - 0x00ad8afc: Sword: add x2,x2,#0x93b; Shield: add x2,x2,#0x993
@@ -2398,7 +2398,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00b948c0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00b948c0(long *param_1,undefined8 param_2,undefined8 *param_3); Shield: void FUN_00b948c0(long *param_1,undefined8 param_2,undefined8 *param_3)
 - 0x00b94900: Sword: bl 0x019fdc90; Shield: bl 0x019fdd20
 - 0x00b94a1c: Sword: bl 0x01019670; Shield: bl 0x010196a0
@@ -2407,7 +2407,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bc41f0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bc41f0(long param_1); Shield: void FUN_00bc41f0(long param_1)
 - 0x00bc4360: Sword: bl 0x0167b9b0; Shield: bl 0x0167ba40
 - 0x00bc4370: Sword: bl 0x0167b630; Shield: bl 0x0167b6c0
@@ -2421,7 +2421,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bc4460 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bc4460(long param_1,long param_2,uint param_3,undefined8 param_4,byte param_5,; Shield: void FUN_00bc4460(long param_1,long param_2,uint param_3,undefined8 param_4,byte param_5,
 - 0x00bc44a4: Sword: bl 0x00ff86a0; Shield: bl 0x00ff86d0
 - 0x00bc45e4: Sword: bl 0x014c62d0; Shield: bl 0x014c6300
@@ -2429,7 +2429,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bc80e0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bc80e0(undefined1 param_1 [16],undefined4 param_2,long param_3,ulong param_4,int param_5); Shield: void FUN_00bc80e0(undefined1 param_1 [16],undefined4 param_2,long param_3,ulong param_4,int param_5)
 - 0x00bc8160: Sword: bl 0x01509eb0; Shield: bl 0x01509ee0
 - 0x00bc81a0: Sword: add x2,x2,#0xd36; Shield: add x2,x2,#0xd76
@@ -2440,7 +2440,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bccb30 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00bccb30(long param_1,int param_2,uint param_3,uint param_4); Shield: undefined8 FUN_00bccb30(long param_1,int param_2,uint param_3,uint param_4)
 - 0x00bccb9c: Sword: bl 0x01505e60; Shield: bl 0x01505e90
 - 0x00bccbdc: Sword: bl 0x0150a610; Shield: bl 0x0150a640
@@ -2451,7 +2451,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bcfef0 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: void FUN_00bcfef0(long param_1,uint param_2,int param_3,ulong param_4); Shield: void FUN_00bcfef0(long param_1,uint param_2,int param_3,ulong param_4)
 - 0x00bcff70: Sword: bl 0x0168c190; Shield: bl 0x0168c220
 - 0x00bcffa4: Sword: bl 0x0167b9b0; Shield: bl 0x0167ba40
@@ -2462,7 +2462,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00bd1a80 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: int FUN_00bd1a80(long param_1,ulong param_2); Shield: int FUN_00bd1a80(long param_1,ulong param_2)
 - 0x00bd1b4c: Sword: bl 0x0167b9f0; Shield: bl 0x0167ba80
 - 0x00bd1c60: Sword: bl 0x0167c250; Shield: bl 0x0167c2e0
@@ -2472,7 +2472,7 @@ Only pairs with both exact-body-mapped caller and callee support are included. S
 ## 0x00be0d10 — OPERAND_OR_IMMEDIATE_CHANGE (score 17)
 
 - Identity support: STRONG_CALLER_AND_CALLEE_CONTEXT; caller Jaccard 1.0; callee Jaccard 1.0
-- CFG same: True; exact mapped callees same: True; strings same: True
+- Branch-address signature same: True; exact mapped callees same: True; strings same: True
 - C prototypes: Sword: undefined8 FUN_00be0d10(undefined4 *param_1,long *param_2,long param_3); Shield: undefined8 FUN_00be0d10(undefined4 *param_1,long *param_2,long param_3)
 - 0x00be0db4: Sword: bl 0x017d1040; Shield: bl 0x017d10d0
 - 0x00be0e88: Sword: bl 0x017d0720; Shield: bl 0x017d07b0
