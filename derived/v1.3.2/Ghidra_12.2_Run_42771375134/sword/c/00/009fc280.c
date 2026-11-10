@@ -1,0 +1,173 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 009fc280; name: FUN_009fc280
+ */
+
+
+bool FUN_009fc280(uint param_1,char param_2)
+
+{
+  param_1 = param_1 & 0xffff;
+  if (0x282 < param_1) {
+    switch(param_1) {
+    case 0x283:
+    case 0x284:
+    case 0x286:
+    case 0x287:
+    case 0x288:
+    case 0x289:
+    case 0x2cc:
+    case 0x2cd:
+    case 0x2ce:
+    case 0x2cf:
+    case 0x2d0:
+    case 0x2d1:
+    case 0x315:
+    case 0x316:
+    case 0x317:
+    case 0x318:
+    case 800:
+    case 0x321:
+    case 0x322:
+    case 0x327:
+    case 0x328:
+    case 0x329:
+    case 0x378:
+    case 0x379:
+    case 0x37a:
+    case 0x37d:
+    case 0x382:
+      goto switchD_009fc2ac_caseD_283;
+    default:
+      goto switchD_009fc2ac_caseD_285;
+    case 0x29e:
+      return param_2 == '\x05';
+    }
+  }
+  switch(param_1) {
+  case 0x17e:
+  case 0x17f:
+  case 0x180:
+  case 0x181:
+  case 0x182:
+  case 0x1e3:
+  case 0x1e4:
+  case 0x1e7:
+  case 0x1e9:
+  case 0x1ea:
+  case 0x1eb:
+  case 0x1ec:
+  case 0x1ed:
+  case 0x1ee:
+    break;
+  case 0x183:
+  case 0x184:
+  case 0x185:
+  case 0x186:
+  case 0x187:
+  case 0x188:
+  case 0x189:
+  case 0x18a:
+  case 0x18b:
+  case 0x18c:
+  case 0x18d:
+  case 0x18e:
+  case 399:
+  case 400:
+  case 0x191:
+  case 0x192:
+  case 0x193:
+  case 0x194:
+  case 0x195:
+  case 0x196:
+  case 0x197:
+  case 0x198:
+  case 0x199:
+  case 0x19a:
+  case 0x19b:
+  case 0x19c:
+  case 0x19d:
+  case 0x19e:
+  case 0x19f:
+  case 0x1a0:
+  case 0x1a1:
+  case 0x1a2:
+  case 0x1a3:
+  case 0x1a4:
+  case 0x1a5:
+  case 0x1a6:
+  case 0x1a7:
+  case 0x1a8:
+  case 0x1a9:
+  case 0x1aa:
+  case 0x1ab:
+  case 0x1ac:
+  case 0x1ad:
+  case 0x1ae:
+  case 0x1af:
+  case 0x1b0:
+  case 0x1b1:
+  case 0x1b2:
+  case 0x1b3:
+  case 0x1b4:
+  case 0x1b5:
+  case 0x1b6:
+  case 0x1b7:
+  case 0x1b8:
+  case 0x1b9:
+  case 0x1ba:
+  case 0x1bb:
+  case 0x1bc:
+  case 0x1bd:
+  case 0x1be:
+  case 0x1bf:
+  case 0x1c0:
+  case 0x1c1:
+  case 0x1c2:
+  case 0x1c3:
+  case 0x1c4:
+  case 0x1c5:
+  case 0x1c6:
+  case 0x1c7:
+  case 0x1c8:
+  case 0x1c9:
+  case 0x1ca:
+  case 0x1cb:
+  case 0x1cc:
+  case 0x1cd:
+  case 0x1ce:
+  case 0x1cf:
+  case 0x1d0:
+  case 0x1d1:
+  case 0x1d2:
+  case 0x1d3:
+  case 0x1d4:
+  case 0x1d5:
+  case 0x1d6:
+  case 0x1d7:
+  case 0x1d8:
+  case 0x1d9:
+  case 0x1da:
+  case 0x1db:
+  case 0x1dc:
+  case 0x1dd:
+  case 0x1de:
+  case 0x1df:
+  case 0x1e0:
+  case 0x1e1:
+  case 0x1e2:
+  case 0x1e5:
+  case 0x1e6:
+  case 0x1e8:
+switchD_009fc2ac_caseD_285:
+    return false;
+  default:
+    if ((2 < param_1 - 0xf9) && (1 < param_1 - 0x96)) {
+      return false;
+    }
+  }
+switchD_009fc2ac_caseD_283:
+  return true;
+}
+
+
