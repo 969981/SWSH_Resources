@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS memory_blocks(
     byte_length INTEGER, executable INTEGER, readable INTEGER, writable INTEGER, initialized INTEGER);
 CREATE TABLE IF NOT EXISTS functions(
     entry TEXT PRIMARY KEY, name TEXT, namespace TEXT, min_addr TEXT, max_addr TEXT,
-    body_bytes INTEGER, signature TEXT, is_thunk INTEGER, is_external INTEGER, source TEXT);
+    body_bytes INTEGER, body_sha256 TEXT, signature TEXT, is_thunk INTEGER, is_external INTEGER, source TEXT);
 CREATE TABLE IF NOT EXISTS instructions(
     addr TEXT PRIMARY KEY, byte_length INTEGER, bytes_hex TEXT, mnemonic TEXT,
     display_text TEXT, flow_type TEXT, fallthrough TEXT);
@@ -118,9 +118,9 @@ def build(elf: Path, source: Path, dest: Path, game: str, allow_partial=False, w
                             bit(row.get("read")), bit(row.get("write")),
                             bit(row.get("initialized"))))
             elif kind == "function":
-                db.execute("INSERT INTO functions VALUES(?,?,?,?,?,?,?,?,?,?)",
+                db.execute("INSERT INTO functions VALUES(?,?,?,?,?,?,?,?,?,?,?)",
                            (row["entry"], row.get("name"), row.get("namespace"),
-                            row.get("body_min"), row.get("body_max"), row.get("body_bytes"),
+                            row.get("body_min"), row.get("body_max"), row.get("body_bytes"), row.get("body_sha256"),
                             row.get("signature"), bit(row.get("thunk")),
                             bit(row.get("external")), row.get("source")))
             elif kind == "instruction":
