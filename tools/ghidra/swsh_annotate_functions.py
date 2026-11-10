@@ -560,6 +560,9 @@ def annotate_game(game, db_path, manifest_path, supplemental_dirs, out_dir,
                     len(r["string_references"]), r["purpose_hypothesis"], r["confidence"]
                 ))
         split = zip_split(zip_path, out_dir)
+        (out_dir / "annotated_c_parts_manifest.json").write_text(
+            json.dumps(split, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
         summary = {
             "status": "ANNOTATED_GHIDRA_FUNCTIONS",
             "game": game,
