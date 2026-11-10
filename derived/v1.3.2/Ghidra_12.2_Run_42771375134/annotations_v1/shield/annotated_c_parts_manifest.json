@@ -1,17 +1,17 @@
 {
   "zip_name": "shield_annotated_c.zip",
   "zip_size": 71273323,
-  "zip_sha256": "348b803c0e91de4e8c556fb97f6cf407ed2229a9f0cd3644d0febaff348df367",
+  "zip_sha256": "da3362e024a456f09df3e8e9950989282db2e65e09f4184440b8c869af1f035e",
   "parts": [
     {
       "path": "shield_annotated_c.zip.part0000.bin",
       "size": 47185920,
-      "sha256": "83335d3a7b0fc43c676f714aaa346a1d35140b45c71556bcd40af4c62f6a5d12"
+      "sha256": "773bd868646582b6c007874150de40c252ba38662fca7c63f7a57ae6b2bc30a6"
     },
     {
       "path": "shield_annotated_c.zip.part0001.bin",
       "size": 24087403,
-      "sha256": "7da4769e708a3e538dd29432f17f565fff8fa216fa4ceb5aeebf97b104a387bd"
+      "sha256": "4a874c8b683e4b1ef0094b958c08aef33d5bd134c1b00224bd68ea8b4cebfd76"
     }
   ],
   "rebuild": "cat shield_annotated_c.zip.part*.bin > shield_annotated_c.zip"
