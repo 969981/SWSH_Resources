@@ -1,0 +1,52 @@
+{
+  "status": "TARGETED_GHIDRA_12_2_RETRY_AUDITED",
+  "game": "shield",
+  "source_run": 42771375134,
+  "per_function_timeout_seconds": 180,
+  "attempted": 5,
+  "successful_c": 2,
+  "still_failed": 3,
+  "rows": [
+    {
+      "entry": "0051b060",
+      "name": "FUN_0051b060",
+      "status": "OK",
+      "elapsed_timeout_seconds": "180",
+      "c_file": "0051b060.c",
+      "error": ""
+    },
+    {
+      "entry": "00add620",
+      "name": "FUN_00add620",
+      "status": "FAILED",
+      "elapsed_timeout_seconds": "180",
+      "c_file": "",
+      "error": "Exception while decompiling 00add620: process: timeout "
+    },
+    {
+      "entry": "00b1c010",
+      "name": "FUN_00b1c010",
+      "status": "FAILED",
+      "elapsed_timeout_seconds": "180",
+      "c_file": "",
+      "error": "Exception while decompiling 00b1c010: process: timeout "
+    },
+    {
+      "entry": "00f7af50",
+      "name": "FUN_00f7af50",
+      "status": "FAILED",
+      "elapsed_timeout_seconds": "180",
+      "c_file": "",
+      "error": "Exception while decompiling 00f7af50: Response buffer size exceeded for: shield_main.elf "
+    },
+    {
+      "entry": "0199e990",
+      "name": "FUN_0199e990",
+      "status": "OK",
+      "elapsed_timeout_seconds": "180",
+      "c_file": "0199e990.c",
+      "error": ""
+    }
+  ],
+  "note": "Ghidra 12.2 C pseudocode, not Nintendo original source; source analysis preserved unchanged."
+}
