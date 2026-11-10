@@ -1,6 +1,11 @@
 name: Publish SWSH 1.3.2 Ghidra lossless split
 
 on:
+  # A workflow edit can explicitly resume a partially published run.
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-ghidra-publish.yml"
   workflow_run:
     workflows:
       - SWSH 1.3.2 Ghidra 12.2 full analysis
@@ -22,12 +27,12 @@ concurrency:
 
 jobs:
   publish:
-    if: github.repository == '969981/SWSH_Resources' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    if: github.repository == '969981/SWSH_Resources' && (github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-latest
     timeout-minutes: 340
     env:
       REPO: 969981/SWSH_Resources
-      SOURCE_RUN: ${{ github.event.workflow_run.id || inputs.source_run_id }}
+      SOURCE_RUN: ${{ github.event.workflow_run.id || inputs.source_run_id || '42771375134' }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout only publisher tools without full ROM checkout
@@ -131,13 +136,29 @@ jobs:
           staged_bytes=0
           commit_batch() {
             if git diff --cached --quiet; then
+              staged_count=0
+              staged_bytes=0
               return
             fi
             batch=$((batch+1))
             git commit -m "data(swsh): publish verified Ghidra 12.2 run $SOURCE_RUN batch $batch"
-            git fetch -q origin master
-            git rebase origin/master
-            git push origin HEAD:refs/heads/master
+            # A non-force push can race another workflow between fetch and push.
+            # Retry only after reconciling with the updated remote branch.
+            pushed=0
+            for attempt in 1 2 3 4 5 6 7 8 9 10; do
+              git fetch -q origin master
+              git rebase origin/master
+              if git push origin HEAD:refs/heads/master; then
+                pushed=1
+                break
+              fi
+              echo "Remote master advanced while publishing batch $batch; retry $attempt"
+              sleep $((attempt * 4))
+            done
+            if (( pushed != 1 )); then
+              echo "::error::Exhausted concurrent Git push retries for batch $batch"
+              exit 1
+            fi
             echo "Pushed verified Ghidra batch $batch ($staged_count files, $staged_bytes bytes)"
             staged_count=0
             staged_bytes=0
