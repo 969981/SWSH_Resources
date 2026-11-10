@@ -81,7 +81,7 @@ def compare_instructions(a,b):
     mn=[x for x in common if ai[x][2]!=bi[x][2]]
     flow=[x for x in common if ai[x][4]!=bi[x][4]]
     display=[x for x in common if ai[x][3]!=bi[x][3]]
-    return {"common":len(common),"changed":len(changed),"ratio":round(len(changed)/max(1,len(common)),6),
+    return {"available":True,"common":len(common),"changed":len(changed),"ratio":round(len(changed)/max(1,len(common)),6),
         "mnemonic_changed":len(mn),"flow_changed":len(flow),"display_changed":len(display),
         "sword_only":len(ai.keys()-bi.keys()),"shield_only":len(bi.keys()-ai.keys()),
         "changed_sample":[{"address":"0x"+x,"sword":clean(ai[x][3],120),"shield":clean(bi[x][3],120),
