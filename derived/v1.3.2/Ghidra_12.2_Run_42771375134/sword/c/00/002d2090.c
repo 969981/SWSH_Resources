@@ -1,0 +1,145 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 002d2090; name: FUN_002d2090
+ */
+
+
+void FUN_002d2090(undefined8 *param_1)
+
+{
+  char *local_88;
+  char *pcStack_80;
+  undefined8 local_78;
+  undefined8 local_70;
+  undefined8 local_68;
+  
+  local_70 = 0;
+  local_78 = 0x7000000000;
+  local_88 = "RTreePage";
+  pcStack_80 = (char *)0x0;
+  local_68 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_88 = "PxReal";
+  pcStack_80 = "minx";
+  local_78 = 0x1000000000;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_78 = 0x1000000010;
+  local_88 = "PxReal";
+  pcStack_80 = "miny";
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_88 = "PxReal";
+  pcStack_80 = "minz";
+  local_78 = 0x1000000020;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_88 = "PxReal";
+  pcStack_80 = "maxx";
+  local_78 = 0x1000000030;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxReal";
+  pcStack_80 = "maxy";
+  local_68 = 0;
+  local_78 = 0x1000000040;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxReal";
+  pcStack_80 = "maxz";
+  local_68 = 0;
+  local_78 = 0x1000000050;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "ptrs";
+  local_78 = 0x1000000060;
+  local_68 = 0;
+  local_70 = 4;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "RTree";
+  pcStack_80 = (char *)0x0;
+  local_70 = 0;
+  local_78 = 0x6000000000;
+  local_68 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_88 = "PxVec4";
+  pcStack_80 = "mBoundsMin";
+  local_78 = 0x1000000000;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_78 = 0x1000000010;
+  local_68 = 0;
+  local_88 = "PxVec4";
+  pcStack_80 = "mBoundsMax";
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_78 = 0x1000000020;
+  local_68 = 0;
+  local_88 = "PxVec4";
+  pcStack_80 = "mInvDiagonal";
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_78 = 0x1000000030;
+  local_68 = 0;
+  local_88 = "PxVec4";
+  pcStack_80 = "mDiagonalScaler";
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "mPageSize";
+  local_68 = 0;
+  local_78 = 0x400000040;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "mNumRootPages";
+  local_68 = 0;
+  local_78 = 0x400000044;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "mNumLevels";
+  local_68 = 0;
+  local_78 = 0x400000048;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "mTotalNodes";
+  local_68 = 0;
+  local_78 = 0x40000004c;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_68 = 0;
+  local_88 = "PxU32";
+  pcStack_80 = "mTotalPages";
+  local_78 = 0x400000050;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "PxU32";
+  pcStack_80 = "mFlags";
+  local_68 = 0;
+  local_78 = 0x400000054;
+  local_70 = 1;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_88 = "RTreePage";
+  pcStack_80 = "mPages";
+  local_78 = 0x800000058;
+  local_70 = 1;
+  local_68 = 8;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  local_78 = 0x400000050;
+  local_70 = 0x80;
+  local_88 = "RTreePage";
+  pcStack_80 = (char *)0x0;
+  local_68 = 0x8000000010;
+  (**(code **)*param_1)(param_1,&local_88,0x28);
+  return;
+}
+
+
