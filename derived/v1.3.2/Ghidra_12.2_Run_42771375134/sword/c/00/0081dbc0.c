@@ -1,0 +1,14 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 0081dbc0; name: _INIT_360
+ */
+
+
+void _INIT_360(void)
+
+{
+  FUN_008010b0(&LAB_00819fa0);
+  return;
+}
+
+
