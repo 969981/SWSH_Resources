@@ -1,0 +1,40 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 013c1c10; name: _INIT_1706
+ */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void _INIT_1706(void)
+
+{
+  DAT_02a72264 = nn::ldn::MakeIpv4Address('\x7f','\0','\0','\x01');
+  DAT_02a72268 = nn::ldn::MakeIpv4Address(0xff,0xff,0xff,0xff);
+  DAT_02a7226c = nn::ldn::MakeIpv4Address('\0','\0','\0','\0');
+  DAT_02a72274 = 0xffff;
+  uRam0000000002a72288 = _UNK_01d4b108;
+  _DAT_02a72280 = _DAT_01d4b100;
+  DAT_02a7227c = 0;
+  uRam0000000002a72298 = _UNK_01d4b828;
+  _DAT_02a72290 = _DAT_01d4b820;
+  DAT_02a72270 = 0xffffffff;
+  uRam0000000002a722a8 = _UNK_01d4a4c8;
+  _DAT_02a722a0 = _DAT_01d4a4c0;
+  uRam0000000002a722e8 = _UNK_01d4a428;
+  _DAT_02a722e0 = _DAT_01d4a420;
+  DAT_02a72278 = 0;
+  uRam0000000002a722f8 = _UNK_01d4a308;
+  _DAT_02a722f0 = _DAT_01d4a300;
+  uRam0000000002a72308 = _UNK_01d4b158;
+  _DAT_02a72300 = _DAT_01d4b150;
+  uRam0000000002a722b8 = _UNK_01d4aac8;
+  _DAT_02a722b0 = _DAT_01d4aac0;
+  uRam0000000002a722c8 = _UNK_01d4aff8;
+  _DAT_02a722c0 = _DAT_01d4aff0;
+  uRam0000000002a722d8 = _UNK_01d4af88;
+  _DAT_02a722d0 = _DAT_01d4af80;
+  return;
+}
+
+

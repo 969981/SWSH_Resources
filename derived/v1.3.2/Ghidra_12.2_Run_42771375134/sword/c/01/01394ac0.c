@@ -1,0 +1,72 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 01394ac0; name: _INIT_1687
+ */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void _INIT_1687(void)
+
+{
+  DAT_02a71144 = nn::ldn::MakeIpv4Address('\x7f','\0','\0','\x01');
+  DAT_02a71148 = nn::ldn::MakeIpv4Address(0xff,0xff,0xff,0xff);
+  DAT_02a7114c = nn::ldn::MakeIpv4Address('\0','\0','\0','\0');
+  uRam0000000002a71168 = _UNK_01d4b108;
+  _DAT_02a71160 = _DAT_01d4b100;
+  uRam0000000002a71178 = _UNK_01d4b828;
+  _DAT_02a71170 = _DAT_01d4b820;
+  DAT_02a7115c = 0;
+  uRam0000000002a71188 = _UNK_01d4a4c8;
+  _DAT_02a71180 = _DAT_01d4a4c0;
+  DAT_02a71154 = 0xffff;
+  uRam0000000002a711c8 = _UNK_01d4a428;
+  _DAT_02a711c0 = _DAT_01d4a420;
+  uRam0000000002a711d8 = _UNK_01d4a308;
+  _DAT_02a711d0 = _DAT_01d4a300;
+  DAT_02a71158 = 0;
+  uRam0000000002a711e8 = _UNK_01d4b158;
+  _DAT_02a711e0 = _DAT_01d4b150;
+  DAT_02a71150 = 0xffffffff;
+  uRam0000000002a71198 = _UNK_01d4aac8;
+  _DAT_02a71190 = _DAT_01d4aac0;
+  uRam0000000002a711f8 = _UNK_01d4a698;
+  _DAT_02a711f0 = _DAT_01d4a690;
+  uRam0000000002a71208 = _UNK_01d4b668;
+  _DAT_02a71200 = _DAT_01d4b660;
+  uRam0000000002a71218 = _UNK_01d4b478;
+  _DAT_02a71210 = _DAT_01d4b470;
+  uRam0000000002a71228 = _UNK_01d4a028;
+  _DAT_02a71220 = _DAT_01d4a020;
+  uRam0000000002a71238 = _UNK_01d4aa28;
+  _DAT_02a71230 = _DAT_01d4aa20;
+  uRam0000000002a71248 = _UNK_01d49e98;
+  _DAT_02a71240 = _DAT_01d49e90;
+  uRam0000000002a71258 = _UNK_01d4a518;
+  _DAT_02a71250 = _DAT_01d4a510;
+  uRam0000000002a71268 = _UNK_01d4a118;
+  _DAT_02a71260 = _DAT_01d4a110;
+  uRam0000000002a71278 = _UNK_01d4aa38;
+  _DAT_02a71270 = _DAT_01d4aa30;
+  uRam0000000002a71288 = _UNK_01d4a038;
+  _DAT_02a71280 = _DAT_01d4a030;
+  uRam0000000002a71298 = _UNK_01d4acc8;
+  _DAT_02a71290 = _DAT_01d4acc0;
+  uRam0000000002a712a8 = _UNK_01d4ae38;
+  _DAT_02a712a0 = _DAT_01d4ae30;
+  uRam0000000002a712b8 = _UNK_01d4a048;
+  _DAT_02a712b0 = _DAT_01d4a040;
+  uRam0000000002a712c8 = _UNK_01d4a528;
+  _DAT_02a712c0 = _DAT_01d4a520;
+  uRam0000000002a712d8 = _UNK_01d4a278;
+  _DAT_02a712d0 = _DAT_01d4a270;
+  uRam0000000002a712e8 = _UNK_01d4a6a8;
+  _DAT_02a712e0 = _DAT_01d4a6a0;
+  uRam0000000002a711a8 = _UNK_01d4b2b8;
+  _DAT_02a711a0 = _DAT_01d4b2b0;
+  uRam0000000002a711b8 = _UNK_01d4a378;
+  _DAT_02a711b0 = _DAT_01d4a370;
+  return;
+}
+
+
