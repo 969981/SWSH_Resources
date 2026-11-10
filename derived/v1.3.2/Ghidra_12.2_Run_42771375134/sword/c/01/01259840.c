@@ -1,0 +1,75 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 01259840; name: FUN_01259840
+ */
+
+
+void FUN_01259840(long *param_1,long param_2)
+
+{
+  int iVar1;
+  undefined8 uVar2;
+  long *plVar3;
+  long lVar4;
+  long local_50;
+  long local_48;
+  undefined1 auStack_38 [8];
+  
+  iVar1 = FUN_007dc9a0();
+  if (iVar1 == 0) {
+    uVar2 = *(undefined8 *)(param_2 + 0x60);
+    if (param_2 == 0) {
+      local_50 = 0;
+      local_48 = 0;
+    }
+    else {
+      lVar4 = *(long *)(param_2 + 0x58);
+      local_48 = param_2;
+      if (lVar4 == 0) {
+        local_50 = 0;
+      }
+      else {
+        plVar3 = (long *)(lVar4 + 0x48);
+        (**(code **)(*plVar3 + 0x10))(plVar3);
+        local_50 = lVar4;
+        (**(code **)(*plVar3 + 0x10))(plVar3);
+        (**(code **)(*plVar3 + 0x18))(plVar3);
+      }
+    }
+    lVar4 = FUN_0125f7b0(auStack_38,uVar2,&local_50);
+    if (lVar4 != 0) {
+      (**(code **)(*(long *)(lVar4 + 0x48) + 0x10))();
+    }
+    if (local_50 != 0) {
+      (**(code **)(*(long *)(local_50 + 0x48) + 0x18))();
+    }
+    local_50 = lVar4;
+    if (lVar4 != 0) {
+      (**(code **)(*(long *)(lVar4 + 0x48) + 0x10))();
+    }
+    FUN_01201eb0(param_2 + 0xb0,&local_50);
+    if (local_50 != 0) {
+      (**(code **)(*(long *)(local_50 + 0x48) + 0x18))();
+      local_50 = 0;
+    }
+    *param_1 = param_2;
+    if (param_2 != 0) {
+      (**(code **)(*(long *)(param_2 + 0x48) + 0x10))((long *)(param_2 + 0x48));
+    }
+    if (lVar4 != 0) {
+      (**(code **)(*(long *)(lVar4 + 0x48) + 0x18))((long *)(lVar4 + 0x48));
+    }
+  }
+  else {
+    *param_1 = param_2;
+    if (param_2 != 0) {
+                    /* WARNING: Could not recover jumptable at 0x01259890. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+      (**(code **)(*(long *)(param_2 + 0x48) + 0x10))((long *)(param_2 + 0x48));
+      return;
+    }
+  }
+  return;
+}
+
+
