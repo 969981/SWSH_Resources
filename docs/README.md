@@ -6,7 +6,7 @@ Obsidian-compatible entry point. Follow Markdown links; no Obsidian plugins are 
 - [[repository-layout|Repository layout]] — checked-in files versus file inventory paths
 - [[resource-provenance|Resource provenance]] — source SHA-256 and evidence labels
 - [[formats/swsh-file-families|SWSH file families]] — known extensions and parsing priorities
-- [[research/sword-vs-shield-1.3.2|Sword vs Shield 1.3.2]] — verified manifest comparison
+- [[research/sword-vs-shield-1.3.2|Sword vs Shield 1.3.2]] — verified manifest comparison\n- [[obsidian/SWSH-v1.3.2/27-野生PKL版本隔离与原始字节级复核|SWSH Wild PKL 版本隔离复核]] — 4/4 原始成员到 PKHeX PKL 字节一致
 - [[research/swsh-main-nx2elf|Sword/Shield ELF reconstruction]] — nx2elf provenance
 - [[research/swsh-ghidra-full-analysis|Sword/Shield Ghidra 12.2 static analysis]] — native project, raw SQLite/NDJSON shards, C source and function-byte comparison
 - [[research-roadmap|Research roadmap]] — next technical steps

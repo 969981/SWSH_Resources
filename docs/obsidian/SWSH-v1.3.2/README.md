@@ -5,3 +5,8 @@
 **数据现状：** 剑版 RomFS 源路径 50,494 条，PARSED（含容器提取及仅元数据）36,405 条，UNSUPPORTED_FORMAT 14,089 条，失败 0；这不是全部语义转换成功。依据：[`coverage-summary.json`](https://github.com/969981/SWSH_Resources/blob/master/Unpack/v1.3.2/reports/coverage-summary.json)。盾版 RomFS 仅有完整清单，不能把剑版输出直接称为盾版实测。
 
 研究顺序：[[02-种族与图鉴]] → [[06-招式与习得]] → [[04-野生遭遇与等级]] → [[05-固定遭遇锁闪个体]] → [[10-ExeFS地址定位]]。CSV 汇总见仓库 `Unpack/v1.3.2/catalog/`；原始 JSON 见 `Unpack/v1.3.2/parsed/`。
+
+
+## 2026-11-10 新增复核
+
+[[27-野生PKL版本隔离与原始字节级复核]] 已完成原始 1.3.2 四个野生遭遇成员与 PKHeX 固定 commit 的逐字节重建：4/4 完全一致；372/372 ZoneID 表成功映射。该结果验证普通 Wild Symbol/Hidden 版本隔离，不代表运行时概率或 Max Raid 行为。

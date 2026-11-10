@@ -35,3 +35,10 @@ Read `summary.json` for row counts, compare `comparison_differences.csv` for the
 - Does the byte-identical RomFS result persist with different patch compositions?
 
 These questions are `UNKNOWN` until NSO/NPDM-level analysis with verified source bytes and a reproducible disassembly or field parser.
+
+
+## Wild encounter PKL version audit (2026-11-10)
+
+The original 1.3.2 `data_table.gfpak` contains four version/type-specific encounter members. The 35,960 raw slots map to 372/372 ZoneID tables, and a source-logic reserialization of the four members is byte-identical to the four fixed PKHeX resources at commit `0660d1e1f4924b8478daec73281bb8071a82ad19` (Sword Hidden 863, Sword Symbol 1,050, Shield Symbol 1,057, Shield Hidden 855). This closes the ordinary Wild Symbol/Hidden static data mapping; it does not prove runtime probabilities or Max Raid behavior.
+
+Full evidence: [[../obsidian/SWSH-v1.3.2/27-野生PKL版本隔离与原始字节级复核]] and [machine-readable audit](../Unpack/v1.3.2/catalog/wild_pkl_version_audit.json).
