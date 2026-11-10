@@ -1,0 +1,58 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 00518f10; name: _INIT_110
+ */
+
+
+void _INIT_110(void)
+
+{
+  FUN_00511040(&DAT_0275c100,0xffffffff);
+  FUN_00511040(&DAT_0275c120,0x19);
+  DAT_0275c150 = 0;
+  DAT_0275c158 = 0;
+  DAT_0275c140 = 0;
+  DAT_0275c148 = 0;
+  DAT_0275c160 = 0xffffffff;
+  DAT_0275c168 = PTR_DAT_02713958 + 0x10;
+  DAT_0275c178 = 0;
+  DAT_0275c180 = 0;
+  DAT_0275c1a8 = 0;
+  DAT_0275c1b0 = 0;
+  DAT_0275c198 = 0;
+  DAT_0275c1a0 = 0;
+  DAT_0275c170 = 0;
+  DAT_0275c188 = 0x78;
+  DAT_0275c190 = 0;
+  DAT_0275c170 = FUN_005bc6f0();
+  FUN_001001c0(PTR_FUN_02713960,&DAT_0275c140,&PTR_LOOP_025db000);
+  DAT_0275c01c = 0x3ed09d493ee527e5;
+  DAT_0275c024 = 0x3eb4063a3eb2641b;
+  DAT_0275c034 = 0x3eb78d503eb0fba9;
+  DAT_0275c03c = 0x3eb1e2583eaa32f4;
+  DAT_0275c02c = 0x3ea1dfb93e9ec02f;
+  DAT_0275c044 = 0x3ea4b33e;
+  DAT_0275c048 = 0x3ea01a373eace315;
+  DAT_0275c050 = 0x3e9c5d643ea872b0;
+  DAT_0275c058 = 0x3e9919263ea4a8c1;
+  DAT_0275c060 = 0x3e90e5603ea13405;
+  DAT_0275c068 = 0x3eaaaaab3e989375;
+  DAT_0275c070 = 0x3ea04ea53eaaaaab;
+  DAT_0275c078 = 0x3ebe81453eacaea7;
+  DAT_0275c080 = 0x3ed1758e3ec02603;
+  DAT_0275c088 = 0x3ee15f463ec9e1b1;
+  DAT_0275c090 = 0x3ea0a9153ece7c07;
+  DAT_0275c098 = 0x3ec17c1c3eb0cc79;
+  DAT_0275c0a0 = 0x3ea0370d3ec6d5d0;
+  DAT_0275c0a8 = 0x3eb1172f3ea89df1;
+  DAT_0275c0b0 = 0x3ebf93363eb7ae14;
+  DAT_0275c0b8 = 0x3eb132b53ebee0f4;
+  DAT_0275c0c0 = 0x3ec2d3843eb83f92;
+  DAT_0275c0c8 = 0x3edfb7e93ec1172f;
+  DAT_0275c0d0 = 0x3ea0c49c3ecf0ed4;
+  DAT_0275c0d8 = 0x3eb3b646;
+  DAT_0275c018 = 0x3f060a92;
+  return;
+}
+
+
