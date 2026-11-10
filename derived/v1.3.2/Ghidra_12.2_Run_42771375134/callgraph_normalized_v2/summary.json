@@ -1,0 +1,17 @@
+{
+  "status": "GHIDRA_STATIC_RELOCATION_NORMALIZED_CALLGRAPH_AUDIT",
+  "source_run_id": 42771375134,
+  "baseline_15_mapped_target_differences": 15,
+  "baseline_15_normalized_statuses": {
+    "CALL_TARGET_RELATIVE_OFFSETS_IDENTICAL": 15
+  },
+  "total_unique_byte_identity_pairs": 22520,
+  "all_exact_body_pairs_relative_call_statuses": {
+    "NO_KNOWN_DIRECT_CALLS": 7332,
+    "SAME_RELATIVE_DIRECT_CALLEE_OFFSETS": 14409,
+    "DIFFERENT_RELATIVE_DIRECT_CALLEE_OFFSETS": 779
+  },
+  "sword_direct_calls_with_contiguous_caller": 197835,
+  "shield_direct_calls_with_contiguous_caller": 197838,
+  "limitations": "Only Ghidra direct calls to known function entries within a single contiguous caller interval are included. Equal relative offsets prove this observed address-relative direct-call topology matches, not equivalent semantics or data. Differences require manual investigation for import/reconstruction artifacts versus actual logic."
+}
