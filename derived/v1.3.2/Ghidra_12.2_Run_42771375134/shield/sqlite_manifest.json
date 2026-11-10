@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE",
+  "elf_sha256": "a6045f506af68254a434cc9c33658d5ec3171d18c55b0122b44fc645c347812a",
+  "source": "/home/runner/work/_temp/swsh_out/shield_events.ndjson.gz",
+  "database": "/home/runner/work/_temp/swsh_out/shield.sqlite",
+  "counts": {
+    "meta": 1,
+    "memory": 30,
+    "function": 47984,
+    "decompile": 47984,
+    "instruction": 6166224,
+    "data": 995729,
+    "reference": 2517697,
+    "symbol": 850159,
+    "summary": 1
+  },
+  "decompile_requested": true,
+  "decompiled_ok": 47979,
+  "decompiled_failed": 5,
+  "evidence": "STATIC_GHIDRA_ONLY_NO_RUNTIME_UI_PROOF"
+}
