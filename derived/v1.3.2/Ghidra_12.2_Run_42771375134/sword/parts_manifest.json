@@ -1,0 +1,455 @@
+{
+  "status": "UNCOMPRESSED_SPLIT_VERIFIED",
+  "source_run_id": 42771375134,
+  "game": "sword",
+  "game_version": "1.3.2",
+  "original_elf_sha256": "4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43",
+  "chunk_limit_bytes": 47185920,
+  "sqlite": {
+    "size": 1221263360,
+    "sha256": "a77e2baae0569dd89cfa00dfb9ad00afc3ee8ac6cfd87a581634050341fa23cb",
+    "parts": [
+      {
+        "path": "sword.sqlite.part0000.bin",
+        "size": 47185920,
+        "sha256": "f717b779c3b88116359b73d3f1562d9e75a818d32736440fe41132c66e3d5228"
+      },
+      {
+        "path": "sword.sqlite.part0001.bin",
+        "size": 47185920,
+        "sha256": "1f01f9bb00aa06fd5c01cd264ec48fbb7d485cca77b0a42a5c72e0d607733892"
+      },
+      {
+        "path": "sword.sqlite.part0002.bin",
+        "size": 47185920,
+        "sha256": "ea9eaeb0c5041f814731fef5a743502a525d9020b64cdd96d2940f974ea275f4"
+      },
+      {
+        "path": "sword.sqlite.part0003.bin",
+        "size": 47185920,
+        "sha256": "0a8221441a73a91bae5d1ba2e1a5caa658553ebeacbc8bbea1af52663e44f753"
+      },
+      {
+        "path": "sword.sqlite.part0004.bin",
+        "size": 47185920,
+        "sha256": "332354e4bbeea03094dcc5a867a935fe73a25720bf0eac949031f05497aab3cb"
+      },
+      {
+        "path": "sword.sqlite.part0005.bin",
+        "size": 47185920,
+        "sha256": "df8a8db2f5238af92c74e7668a9433c3c0b16203cbdf9047b7272965b7cdfd5e"
+      },
+      {
+        "path": "sword.sqlite.part0006.bin",
+        "size": 47185920,
+        "sha256": "5418fd2ed8ff21fd916f22d389e493b8b56159924ce4543d0e93e61393e7ba22"
+      },
+      {
+        "path": "sword.sqlite.part0007.bin",
+        "size": 47185920,
+        "sha256": "b70faa6d4a4ede8d161b9fd8dc4a450ad277303314fd8e6d96b25effadf1f670"
+      },
+      {
+        "path": "sword.sqlite.part0008.bin",
+        "size": 47185920,
+        "sha256": "214b28c352c7fd25947726bd18e6313290ac3f5cd85b14a0c8d6ba8b0d3a7fbd"
+      },
+      {
+        "path": "sword.sqlite.part0009.bin",
+        "size": 47185920,
+        "sha256": "fe042c8c314ffc780f78e8f2849f9cc6f10d948b805e66f0cfb348554598cf48"
+      },
+      {
+        "path": "sword.sqlite.part0010.bin",
+        "size": 47185920,
+        "sha256": "e1ce4fdd4df2a6db38db32221f74f0dcc67c8ffab099bcba714d4b7e9b33088a"
+      },
+      {
+        "path": "sword.sqlite.part0011.bin",
+        "size": 47185920,
+        "sha256": "16283ae1d670a42072b9142319f9e0ca32f66766b41ee8ab4d26363f2e74d055"
+      },
+      {
+        "path": "sword.sqlite.part0012.bin",
+        "size": 47185920,
+        "sha256": "0b1f58dfa8862c32e5af44371fd668ace72579f1ebf7aa633bbcbc3fb54f3c44"
+      },
+      {
+        "path": "sword.sqlite.part0013.bin",
+        "size": 47185920,
+        "sha256": "b93ac314b4e6bb284756e7a4ebbcde09e5bbad841977d259a0318996c6d4453f"
+      },
+      {
+        "path": "sword.sqlite.part0014.bin",
+        "size": 47185920,
+        "sha256": "345117bc83480e6251139879e082ec8cbd62d29fb7fca465dd1f0c7c62a48355"
+      },
+      {
+        "path": "sword.sqlite.part0015.bin",
+        "size": 47185920,
+        "sha256": "59e2247ad0d9d8f31c3f06c10b2aa078297e63dfd99976cd9dffe40177b95424"
+      },
+      {
+        "path": "sword.sqlite.part0016.bin",
+        "size": 47185920,
+        "sha256": "8e3169b8d8c9ce1248b7d543e8d7b3f30f56dbb0fcc360a5c7c3a5741dcf30f2"
+      },
+      {
+        "path": "sword.sqlite.part0017.bin",
+        "size": 47185920,
+        "sha256": "88d2f7899fbd638821f380574e53970f0f8298ed0e0dda69b870f6e61e77402b"
+      },
+      {
+        "path": "sword.sqlite.part0018.bin",
+        "size": 47185920,
+        "sha256": "c0ab3e1d28c483fa74b77421362f5e3827d2c3ff18af2c9c3a2ec545d8b6aef0"
+      },
+      {
+        "path": "sword.sqlite.part0019.bin",
+        "size": 47185920,
+        "sha256": "c6f80c9ba82b495703233e979784676db2e4cb679db1b7fb40d34faeafe9c358"
+      },
+      {
+        "path": "sword.sqlite.part0020.bin",
+        "size": 47185920,
+        "sha256": "fc3887c57b8345f1dbbadd914d1f9ee86ad718f7535956de366ac42375ed51c4"
+      },
+      {
+        "path": "sword.sqlite.part0021.bin",
+        "size": 47185920,
+        "sha256": "7781e3ae1702909ef35b86e141985cb2ba07a04642eecbf231a615f368e4ecd6"
+      },
+      {
+        "path": "sword.sqlite.part0022.bin",
+        "size": 47185920,
+        "sha256": "e42135c5a884ac05b16bef39ee2433f6e85389004c13896b0baa2060ec658762"
+      },
+      {
+        "path": "sword.sqlite.part0023.bin",
+        "size": 47185920,
+        "sha256": "eb4cf8a0e656f745efc4d1f74e09ae152261dcd500609dc65f734caa1171c2e8"
+      },
+      {
+        "path": "sword.sqlite.part0024.bin",
+        "size": 47185920,
+        "sha256": "36636a0ce6b16da71584d7ca9f0940542d0afeb1c8c050f492eeef51806f6d2e"
+      },
+      {
+        "path": "sword.sqlite.part0025.bin",
+        "size": 41615360,
+        "sha256": "4c8f23578e59f74e12fb6143e1097c8ebe9e8224f4a2a19aed3b8bb8082ffc6e"
+      }
+    ]
+  },
+  "ndjson": {
+    "size": 1887197105,
+    "sha256": "310fd5efd0475a330cda6c1192c38e67d44c635fad444defa8d2a1fe16698214",
+    "parts": [
+      {
+        "path": "events.part0000.ndjson",
+        "size": 47184921,
+        "sha256": "3ed2b096145f6c2f7885b7a8ddd4181d6da96f16180944fdea99d9c9da01fce6"
+      },
+      {
+        "path": "events.part0001.ndjson",
+        "size": 47184859,
+        "sha256": "2b2e16f8e4654ffd6414a15eefbdf884477e427b4f096bb6a027ed4555a73ab2"
+      },
+      {
+        "path": "events.part0002.ndjson",
+        "size": 47185861,
+        "sha256": "df600bed2595f557c2f8739c196972ff9815bd111708c4cf6cbb3f7e2917159d"
+      },
+      {
+        "path": "events.part0003.ndjson",
+        "size": 47185891,
+        "sha256": "36f5051f5ff62ab9f1e3b087adcb4f506901fdf7abc66f8a89f5373b9523bcad"
+      },
+      {
+        "path": "events.part0004.ndjson",
+        "size": 47185897,
+        "sha256": "2df398ff4ab40beb02004e8a6f23c98d848b59d11906b0abeb230f1211009af3"
+      },
+      {
+        "path": "events.part0005.ndjson",
+        "size": 47185899,
+        "sha256": "b0f31d8095beb10726c86d2c2810a01fa1cb7d1dcbc5ff190ec6a4f38d8a8796"
+      },
+      {
+        "path": "events.part0006.ndjson",
+        "size": 47185749,
+        "sha256": "778c9caaf2edbffccd03fa52b05cf8e58de18f7d2052d87641d078142e45fa37"
+      },
+      {
+        "path": "events.part0007.ndjson",
+        "size": 47185767,
+        "sha256": "a3218f420e12dd370c2bd30c235666271ed74721d7ddec2c9c31550ef80affe0"
+      },
+      {
+        "path": "events.part0008.ndjson",
+        "size": 47185773,
+        "sha256": "618ad1097c98fb2317c4e2595d5431ae3138231f8c66bcdd71c696815c18781c"
+      },
+      {
+        "path": "events.part0009.ndjson",
+        "size": 47185867,
+        "sha256": "922527ab84226a9cf64266835a3911e3dff3a77eb89415fc400513abd25ad09c"
+      },
+      {
+        "path": "events.part0010.ndjson",
+        "size": 47185893,
+        "sha256": "1e925ed979ac2ea00ca9d73afa059dcb3dffdbff7da7539fe26b20b60ccee124"
+      },
+      {
+        "path": "events.part0011.ndjson",
+        "size": 47185791,
+        "sha256": "991e47a19b51e3da61fb8b8708159715856f7f96c9118d5eb5e708ea2d754f6f"
+      },
+      {
+        "path": "events.part0012.ndjson",
+        "size": 47185839,
+        "sha256": "7484f862207e90b1c95305439eb3d9a295f7c709adf4220426f28ea6ba149de4"
+      },
+      {
+        "path": "events.part0013.ndjson",
+        "size": 47185746,
+        "sha256": "399a545e2c7805c88fe5eced66e1c96d088e5549ea6ecb2ea2d41e65ba836295"
+      },
+      {
+        "path": "events.part0014.ndjson",
+        "size": 47185838,
+        "sha256": "2d49b0188f5d827b503e37478b913e7358fba5bcc11a4553e0a2c37fd2af96a9"
+      },
+      {
+        "path": "events.part0015.ndjson",
+        "size": 47185819,
+        "sha256": "7f826776754ca8494430972a9d62ff9dfe3c97fa22a1383409b1585b9f220828"
+      },
+      {
+        "path": "events.part0016.ndjson",
+        "size": 47185912,
+        "sha256": "d7110fb029f9524f4879d61ebae853c2dcb2a62b14c4fd01b86cac529b2eface"
+      },
+      {
+        "path": "events.part0017.ndjson",
+        "size": 47185916,
+        "sha256": "93d4e7a2bdb9e7638e9932b8727298124436188c22c76e8dab373993a59adc51"
+      },
+      {
+        "path": "events.part0018.ndjson",
+        "size": 47185801,
+        "sha256": "c204659174964627b6667b10d199dd30f787b96069e801f97d2e5fc7f31c09f0"
+      },
+      {
+        "path": "events.part0019.ndjson",
+        "size": 47185822,
+        "sha256": "374ce1b78b52a3ee1a7f0876290eb118c3949e4626387b76a2ae35e63ba40180"
+      },
+      {
+        "path": "events.part0020.ndjson",
+        "size": 47185749,
+        "sha256": "d62c9cf135f29a6bd7e1889e1ddc7b81876424512c357d5d60c56f78b24b6601"
+      },
+      {
+        "path": "events.part0021.ndjson",
+        "size": 47185815,
+        "sha256": "5222bbfd498165c814dcf18e355b84e31b111ac49b4a0f461e640926b9869265"
+      },
+      {
+        "path": "events.part0022.ndjson",
+        "size": 47185771,
+        "sha256": "7734969540801157df7668ad628cfb9ad28e6a9a3eba153139ae5232d704bf61"
+      },
+      {
+        "path": "events.part0023.ndjson",
+        "size": 47185832,
+        "sha256": "05efb566ee5a47c9bba01b95853a7a46e23f0cdbf3d69081a486085d72db75a4"
+      },
+      {
+        "path": "events.part0024.ndjson",
+        "size": 47185895,
+        "sha256": "82dadff31af239bb33d2e89bb210afd70d9d92e518b035c611c4236f4dbe5966"
+      },
+      {
+        "path": "events.part0025.ndjson",
+        "size": 47185873,
+        "sha256": "6d67ed0e3cd951d6bca4bdb510b39dee823809a89c535b087f835c726b807ce8"
+      },
+      {
+        "path": "events.part0026.ndjson",
+        "size": 47185855,
+        "sha256": "0a5f73b0a3aefa1efb1234db270e67205957487a6aa3c07f7fdc24e825d80878"
+      },
+      {
+        "path": "events.part0027.ndjson",
+        "size": 47185811,
+        "sha256": "8d1d829ee14cc6453f8d35ecba1e090611ba78679fa293b445a3f542d21a321b"
+      },
+      {
+        "path": "events.part0028.ndjson",
+        "size": 47185816,
+        "sha256": "90102d9dc2385f5092acee41a64a2134c7c3baa96e303d4973a84bb76eb04d2e"
+      },
+      {
+        "path": "events.part0029.ndjson",
+        "size": 47185825,
+        "sha256": "d106ddab57389ada7ef75bd1a1f06cded2be5c3592dbd5d951d31d4244cb87f0"
+      },
+      {
+        "path": "events.part0030.ndjson",
+        "size": 47185865,
+        "sha256": "ae83c7f253c5ffa859729ba054af0206378dc6e91116058ec93e91ff6346c2c0"
+      },
+      {
+        "path": "events.part0031.ndjson",
+        "size": 47185911,
+        "sha256": "3fda3872f6b75ccabb3d156302648f3ec38954a30cddfb4bdec0e035c84653f7"
+      },
+      {
+        "path": "events.part0032.ndjson",
+        "size": 47185861,
+        "sha256": "789c2f26a375cab833f2b9440ba94da28d9587b74698c8041505d801bb49e1f9"
+      },
+      {
+        "path": "events.part0033.ndjson",
+        "size": 47185876,
+        "sha256": "580a945f77aa1029d467c339d52cef71f6edd9afad32768580a83e4c874b55f7"
+      },
+      {
+        "path": "events.part0034.ndjson",
+        "size": 47185771,
+        "sha256": "da50c5e07d8efabe7a45da480803db4e54a6c178455bb2537ee2d40d1ffda69f"
+      },
+      {
+        "path": "events.part0035.ndjson",
+        "size": 47185891,
+        "sha256": "1006e3d01ca15e80038edcd99747e5c234917c7a91713f9d68a2c82748235a4d"
+      },
+      {
+        "path": "events.part0036.ndjson",
+        "size": 47185788,
+        "sha256": "2a5c613d649604cf3627faeeb38a6f6b168720f967293311f173b0407620ed6d"
+      },
+      {
+        "path": "events.part0037.ndjson",
+        "size": 47185872,
+        "sha256": "d76624e97847818e4a0431fe2fa22a4f805dac99fbc671fbf5474353e1f33476"
+      },
+      {
+        "path": "events.part0038.ndjson",
+        "size": 47185888,
+        "sha256": "d7582d01155d5f056336c7c26287b69d0bb40706785ccbae7bb9f858f58d0234"
+      },
+      {
+        "path": "events.part0039.ndjson",
+        "size": 46951279,
+        "sha256": "7e71aa5c7e6cb5201b4a547d0a03d611ba36591bb20310df9ddad4dcfbdf6694"
+      }
+    ],
+    "lines": 10625814,
+    "source_gzip_sha256": "fedab34a3bab03543b58e688f5f7a7ddbb285d420ce5cd1c559441eb904bdd08"
+  },
+  "project": {
+    "project_name": "SWSH_sword",
+    "regular_files": 9,
+    "split_files": {
+      "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf": {
+        "size": 720584704,
+        "sha256": "24d7d6a287931a49399cf33cc7faec5fbf0d55b0fde4163ca2d7f32be433694e",
+        "parts": [
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0000.bin",
+            "size": 47185920,
+            "sha256": "1aedbec6241f825517f4a1cb33c6a507478cf85baa85c6b9c958c9e116fc18ca"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0001.bin",
+            "size": 47185920,
+            "sha256": "6c02738e41f461550c7c57182ed31cb07b6b1df6128d6d5b05c9436f698f93ae"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0002.bin",
+            "size": 47185920,
+            "sha256": "313c938182c7915b78105e4c262b90cecfb1045bd1d2793857940e01605d0105"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0003.bin",
+            "size": 47185920,
+            "sha256": "bdc6b9464309367a29b83e13a9b13f9da59bc487f74f0ae5f13f5e45f3203a53"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0004.bin",
+            "size": 47185920,
+            "sha256": "7ffa9c5eb7104cfe4b8041feea6786fd1d96257319948d7ce9a81d6d105cdbb1"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0005.bin",
+            "size": 47185920,
+            "sha256": "cf13d52c3296c731f7d53e645ce5082bf4ebe525867c161f027dbfd8f758ac02"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0006.bin",
+            "size": 47185920,
+            "sha256": "e0a4fd36949ea30fe82f493f5fe3290a83e650e040df2d7e04573140dc9f881f"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0007.bin",
+            "size": 47185920,
+            "sha256": "e8bb383afa273d6121a73589fc63a70c14e82ecb65215d3e62c60bbe17cb3cc5"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0008.bin",
+            "size": 47185920,
+            "sha256": "543c8431afcf740a4891c876d9e44cfd600c090938b0e2c0bf4b5c774f1ab855"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0009.bin",
+            "size": 47185920,
+            "sha256": "973ad493892aafde42e00154a0c38bf6f35a977e93df1983969c854003d13d05"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0010.bin",
+            "size": 47185920,
+            "sha256": "d9eec91ef0dc5a3594d4e7509c52ce88593cc40b18b58ab77e6150d3b5a4c916"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0011.bin",
+            "size": 47185920,
+            "sha256": "a9ee43f22be6e6fcd21fef3afd4a42f7b86d7bf905b5f7e6e82c6ff4f372ae4b"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0012.bin",
+            "size": 47185920,
+            "sha256": "84e9789b004de6cbde6593b71bc89e36e12f41d3db27b9dd512293a8bf442582"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0013.bin",
+            "size": 47185920,
+            "sha256": "e2d116b00ecd2931e42a33cf3d871193397ea0468005cf4f55be1a295af5d947"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0014.bin",
+            "size": 47185920,
+            "sha256": "323b83d7fc36fce6514ede8c0ad69dfbc31265ff7f61810f19f9ee8a7b88372a"
+          },
+          {
+            "path": "SWSH_sword.rep/idata/00/~00000000.db/db.1.gbf.part0015.bin",
+            "size": 12795904,
+            "sha256": "5755ca149e503c4b0b3f81faaabf7984f53b34794ea32ed8d98e6a1e5c6005f7"
+          }
+        ]
+      }
+    },
+    "archive_sha256": "79b82017359471d8e80122926c6034b404147bd6e0e8ee1a31b64ef5034bc6ad"
+  },
+  "sqlite_counts": {
+    "functions": 47983,
+    "instructions": 6166178,
+    "references_full": 2517747,
+    "decompilation": 47983
+  },
+  "decompiler_attempted": 47983,
+  "c_success": 47978,
+  "c_failed_or_empty": 5,
+  "evidence": "GHIDRA_STATIC_ANALYSIS_ONLY_NOT_ORIGINAL_SOURCE"
+}
