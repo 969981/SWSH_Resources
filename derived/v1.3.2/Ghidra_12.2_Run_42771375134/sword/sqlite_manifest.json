@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE",
+  "elf_sha256": "4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43",
+  "source": "/home/runner/work/_temp/swsh_out/sword_events.ndjson.gz",
+  "database": "/home/runner/work/_temp/swsh_out/sword.sqlite",
+  "counts": {
+    "meta": 1,
+    "memory": 30,
+    "function": 47983,
+    "decompile": 47983,
+    "instruction": 6166178,
+    "data": 995729,
+    "reference": 2517747,
+    "symbol": 850162,
+    "summary": 1
+  },
+  "decompile_requested": true,
+  "decompiled_ok": 47978,
+  "decompiled_failed": 5,
+  "evidence": "STATIC_GHIDRA_ONLY_NO_RUNTIME_UI_PROOF"
+}
