@@ -1,0 +1,15 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 00115700; name: FUN_00115700
+ */
+
+
+void FUN_00115700(long param_1,undefined8 param_2,uint param_3,uint param_4,ulong param_5)
+
+{
+  FUN_00114fd0(param_1,param_4 & 1,param_3 & 1,0,param_5 & 0xffffffff);
+  *(undefined8 *)(*(long *)(param_1 + 0x18) + (param_5 >> 6 & 0x3ffffff) * 0x20 + 0x18) = param_2;
+  return;
+}
+
+
