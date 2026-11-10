@@ -1,0 +1,15 @@
+{
+  "status": "STATIC_GHIDRA_COMPARISON",
+  "version": "1.3.2",
+  "sword_functions": 47983,
+  "shield_functions": 47984,
+  "same_entry_comparison_counts": {
+    "SAME_ENTRY_DIFFERENT_MACHINE_BYTES": 11301,
+    "SAME_ENTRY_MATCHED_MACHINE_BYTES": 14211,
+    "ONLY_SHIELD": 21627,
+    "ONLY_SWORD": 21626,
+    "BYTE_HASH_UNAVAILABLE": 845
+  },
+  "uniquely_matching_body_sha256_at_different_entries": 10011,
+  "caveat": "Same-entry comparison is only a candidate function alignment. Hash refers to bytes in Ghidra-identified function-body ranges. Equal machine bytes do not imply equivalent external calls, data or runtime semantics. Different source pseudocode hashes may reflect analysis decisions."
+}
