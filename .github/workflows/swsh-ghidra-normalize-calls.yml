@@ -1,0 +1,112 @@
+name: SWSH 1.3.2 relocation-normalized callgraph audit
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-ghidra-normalize-calls.yml"
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: swsh-1312-normalized-direct-calls
+  cancel-in-progress: false
+jobs:
+  normalized-audit:
+    if: github.repository == '969981/SWSH_Resources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 85
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPO: 969981/SWSH_Resources
+      SOURCE_RUN: "42771375134"
+      BASE: derived/v1.3.2/Ghidra_12.2_Run_42771375134
+      DEST: derived/v1.3.2/Ghidra_12.2_Run_42771375134/callgraph_normalized_v2
+    steps:
+      - name: Sparse checkout actual Ghidra mapping scripts and verified baseline
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/ghidra/swsh_callgraph_map.py
+            /tools/ghidra/swsh_normalize_callgraph.py
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/function_map_v1/priority_direct_call_difference_candidates.csv
+            /.github/workflows/swsh-ghidra-normalize-calls.yml
+
+      - name: Validate original analysis and normalize scripts
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(gh api "repos/$REPO/actions/runs/$SOURCE_RUN" --jq '.conclusion')" = success
+          test -s "$BASE/function_map_v1/priority_direct_call_difference_candidates.csv"
+          python3 -m py_compile \
+            tools/ghidra/swsh_callgraph_map.py \
+            tools/ghidra/swsh_normalize_callgraph.py
+
+      - name: Download validated original Sword/Shield SQLite artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/db/sword" "$RUNNER_TEMP/db/shield"
+          for game in sword shield; do
+            gh run download "$SOURCE_RUN" -R "$REPO" --name "SWSH-$game-sqlite" \
+              --dir "$RUNNER_TEMP/db/$game"
+            test -s "$RUNNER_TEMP/db/$game/$game.sqlite"
+          done
+
+      - name: Resolve earlier 15 supposed callgraph differences by relative address
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$DEST"
+          python3 tools/ghidra/swsh_normalize_callgraph.py \
+            --sword "$RUNNER_TEMP/db/sword/sword.sqlite" \
+            --shield "$RUNNER_TEMP/db/shield/shield.sqlite" \
+            --baseline "$BASE/function_map_v1/priority_direct_call_difference_candidates.csv" \
+            --out "$DEST"
+          python3 - <<'PY'
+          import json,os,csv
+          from pathlib import Path
+          out=Path(os.environ["DEST"])
+          r=json.loads((out/"summary.json").read_text(encoding="utf-8"))
+          assert r["status"]=="GHIDRA_STATIC_RELOCATION_NORMALIZED_CALLGRAPH_AUDIT"
+          assert r["total_unique_byte_identity_pairs"]==22520
+          assert r["baseline_15_mapped_target_differences"]==15
+          assert sum(r["baseline_15_normalized_statuses"].values())==15
+          assert sum(r["all_exact_body_pairs_relative_call_statuses"].values())==22520
+          print(json.dumps(r,indent=2,ensure_ascii=False))
+          PY
+          cat "$DEST/summary.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Persist normalized callgraph evidence without rewriting original results
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -z "$(find "$DEST" -type f -size +45M -print -quit)"
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add --sparse -f -- "$DEST"
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "data(swsh): classify suspected callgraph changes after relocation normalization"
+          pushed=0
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            git fetch -q origin master
+            git rebase origin/master
+            if git push origin HEAD:refs/heads/master; then pushed=1; break; fi
+            sleep $((attempt * 4))
+          done
+          test "$pushed" -eq 1
+          echo "Normalized call evidence committed" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Preserve evidence in Actions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-normalized-direct-callgraph-audit
+          retention-days: 30
+          if-no-files-found: warn
+          path: ${{ github.workspace }}/derived/v1.3.2/Ghidra_12.2_Run_42771375134/callgraph_normalized_v2/
