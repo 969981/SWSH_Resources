@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_GHIDRA_EXPORT_WITH_PER_FUNCTION_STATUSES",
+  "ghidra_program": "sword_main.elf",
+  "image_base": "00100000",
+  "original_elf_sha256_expected": "4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43",
+  "ndjson_sha256": "fedab34a3bab03543b58e688f5f7a7ddbb285d420ce5cd1c559441eb904bdd08",
+  "functions": 47983,
+  "decompiler_attempted": 47983,
+  "c_success": 47978,
+  "c_fail_or_empty": 5,
+  "c_uncompressed_bytes": 104600283,
+  "failure_statuses": {
+    "FAILED": 5
+  },
+  "archive": "sword_all_c.zip",
+  "note": "Ghidra generated C pseudocode, not original source. Failed functions are in decompiled_index.csv."
+}
