@@ -1,0 +1,193 @@
+name: Publish SWSH 1.3.2 Ghidra lossless split
+
+on:
+  workflow_run:
+    workflows:
+      - SWSH 1.3.2 Ghidra 12.2 full analysis
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: "Completed successful SWSH full Ghidra analysis run ID"
+        type: string
+        required: true
+
+permissions:
+  actions: read
+  contents: write
+
+concurrency:
+  group: swsh-ghidra-publish-master
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.repository == '969981/SWSH_Resources' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    env:
+      REPO: 969981/SWSH_Resources
+      SOURCE_RUN: ${{ github.event.workflow_run.id || inputs.source_run_id }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout only publisher tools without full ROM checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/ghidra/swsh_publish_split.py
+            /tools/ghidra/swsh_restore_split.py
+            /tools/ghidra/swsh_compare.py
+            /.github/workflows/swsh-ghidra-publish.yml
+
+      - name: Validate source run identity and publisher code
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$SOURCE_RUN"
+          test "$(gh api "repos/$REPO/actions/runs/$SOURCE_RUN" --jq '.conclusion')" = success
+          test "$(gh api "repos/$REPO/actions/runs/$SOURCE_RUN" --jq '.name')" = "SWSH 1.3.2 Ghidra 12.2 full analysis"
+          test "$(gh api "repos/$REPO/actions/runs/$SOURCE_RUN" --jq '.head_branch')" = master
+          python3 -m py_compile \
+            tools/ghidra/swsh_publish_split.py \
+            tools/ghidra/swsh_restore_split.py \
+            tools/ghidra/swsh_compare.py
+          if ! command -v zstd; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq zstd
+          fi
+          echo "DEST=derived/v1.3.2/Ghidra_12.2_Run_$SOURCE_RUN" >> "$GITHUB_ENV"
+
+      - name: Download verified Sword and Shield project, SQLite, C, and NDJSON
+        shell: bash
+        run: |
+          set -euo pipefail
+          for game in sword shield; do
+            for kind in project sqlite c ndjson; do
+              name="SWSH-$game-$kind"
+              mkdir -p "$RUNNER_TEMP/artifacts/$name"
+              gh run download "$SOURCE_RUN" --repo "$REPO" \
+                --name "$name" --dir "$RUNNER_TEMP/artifacts/$name"
+              test -n "$(find "$RUNNER_TEMP/artifacts/$name" -type f -print -quit)"
+              du -sh "$RUNNER_TEMP/artifacts/$name"
+            done
+          done
+
+      - name: Produce raw byte shards, line-aligned NDJSON, individual C, native project
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -e "$DEST" ]; then
+            echo "::error::Destination already exists; refusing overwrite or mixed runs"
+            exit 1
+          fi
+          python3 tools/ghidra/swsh_publish_split.py \
+            --artifacts "$RUNNER_TEMP/artifacts" \
+            --out "$DEST" \
+            --run-id "$SOURCE_RUN"
+
+      - name: Compare Ghidra machine bytes and decompiler outputs across the two editions
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/ghidra/swsh_compare.py \
+            --sword "$RUNNER_TEMP/artifacts/SWSH-sword-sqlite/sword.sqlite" \
+            --shield "$RUNNER_TEMP/artifacts/SWSH-shield-sqlite/shield.sqlite" \
+            --out "$DEST/comparison"
+          cat "$DEST/comparison/summary.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Recombine both raw SQLite and NDJSON shard sets and verify SHA256
+        shell: bash
+        run: |
+          set -euo pipefail
+          for game in sword shield; do
+            python3 tools/ghidra/swsh_restore_split.py \
+              --source "$DEST/$game" \
+              --out "$RUNNER_TEMP/restore_$game" \
+              --no-project
+            python3 - "$RUNNER_TEMP/restore_$game/restore_report.json" <<'PY'
+          import json,sys
+          r=json.load(open(sys.argv[1]))
+          assert r['status']=='REASSEMBLED_AND_SHA256_VERIFIED',r
+          assert r['sqlite_integrity']=='ok',r
+          assert r['sqlite_counts']['functions']>0,r
+          PY
+          done
+          echo "Both editions' SQLite and NDJSON were reconstructed byte-exactly" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Stage and push every verified file in bounded Git batches
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          max_files=600
+          max_bytes=$((240 * 1024 * 1024))
+          batch=0
+          staged_count=0
+          staged_bytes=0
+          commit_batch() {
+            if git diff --cached --quiet; then
+              return
+            fi
+            batch=$((batch+1))
+            git commit -m "data(swsh): publish verified Ghidra 12.2 run $SOURCE_RUN batch $batch"
+            git fetch -q origin master
+            git rebase origin/master
+            git push origin HEAD:refs/heads/master
+            echo "Pushed verified Ghidra batch $batch ($staged_count files, $staged_bytes bytes)"
+            staged_count=0
+            staged_bytes=0
+          }
+          # Machine data, native projects and manifests before the C file batches.
+          while IFS= read -r -d '' path; do
+            size="$(stat -c %s "$path")"
+            if (( size > 45 * 1024 * 1024 )); then
+              echo "::error::Git file too large: $path"
+              exit 1
+            fi
+            if (( staged_count >= max_files || staged_bytes + size > max_bytes )); then
+              commit_batch
+            fi
+            git add --sparse -f -- "$path"
+            staged_count=$((staged_count+1))
+            staged_bytes=$((staged_bytes+size))
+          done < <(find "$DEST" -type f ! -path "$DEST/sword/c/*" ! -path "$DEST/shield/c/*" -print0 | sort -z)
+          commit_batch
+          # Every successfully decompiled function is a loose .c file in Git.
+          for game in sword shield; do
+            while IFS= read -r -d '' path; do
+              size="$(stat -c %s "$path")"
+              if (( size > 45 * 1024 * 1024 )); then
+                echo "::error::Oversized per-function C: $path"
+                exit 1
+              fi
+              if (( staged_count >= max_files || staged_bytes + size > max_bytes )); then
+                commit_batch
+              fi
+              git add --sparse -f -- "$path"
+              staged_count=$((staged_count+1))
+              staged_bytes=$((staged_bytes+size))
+            done < <(find "$DEST/$game/c" -type f -name '*.c' -print0 | sort -z)
+            commit_batch
+          done
+          test -z "$(git status --porcelain -- "$DEST")"
+          echo "Published $batch commits from source run $SOURCE_RUN" >> "$GITHUB_STEP_SUMMARY"
+          echo "Final HEAD: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save reconstruction audit in Actions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-Ghidra12-split-publication-audit
+          retention-days: 30
+          if-no-files-found: warn
+          path: |
+            derived/v1.3.2/Ghidra_12.2_Run_*/sword/parts_manifest.json
+            derived/v1.3.2/Ghidra_12.2_Run_*/shield/parts_manifest.json
+            derived/v1.3.2/Ghidra_12.2_Run_*/comparison/summary.json
+            ${{ runner.temp }}/restore_sword/restore_report.json
+            ${{ runner.temp }}/restore_shield/restore_report.json
