@@ -1,0 +1,180 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 004acd00; name: FUN_004acd00
+ */
+
+
+void FUN_004acd00(undefined1 (*param_1) [16],int param_2,undefined8 param_3,undefined8 param_4,
+                 undefined8 *param_5)
+
+{
+  undefined1 (*pauVar1) [16];
+  undefined1 (*pauVar2) [16];
+  undefined1 auVar3 [16];
+  undefined1 auVar4 [16];
+  undefined1 *puVar5;
+  float fVar6;
+  float fVar7;
+  float fVar8;
+  float fVar9;
+  undefined8 uVar10;
+  float fVar11;
+  float fVar12;
+  float fVar15;
+  float fVar16;
+  undefined8 uVar13;
+  float fVar17;
+  float fVar18;
+  undefined1 auVar14 [16];
+  float fVar19;
+  float fVar20;
+  float fVar21;
+  float fVar23;
+  float fVar24;
+  undefined1 auVar22 [16];
+  float fVar25;
+  float in_s3;
+  undefined1 auVar26 [16];
+  float fVar27;
+  float fVar29;
+  float fVar30;
+  undefined1 auVar28 [16];
+  float fVar31;
+  undefined1 auVar32 [16];
+  undefined1 auVar33 [16];
+  float fVar34;
+  float fVar35;
+  undefined4 uVar36;
+  float fVar37;
+  float fVar38;
+  undefined4 uVar39;
+  float fVar40;
+  float local_c8;
+  float local_c4;
+  float local_c0;
+  float local_bc;
+  float local_b8;
+  float local_b4;
+  float local_b0;
+  float local_ac;
+  float local_a8;
+  float local_a4;
+  float local_a0;
+  float local_9c;
+  float local_98;
+  float local_94;
+  float local_90;
+  float local_8c;
+  float local_88;
+  float local_84;
+  
+  FUN_004b1690(param_3,param_4,&local_a4,&local_c8);
+  if (param_2 << 2 != 0) {
+    fVar40 = DAT_01d4c05c - DAT_01d4c05c * in_s3;
+    auVar26 = NEON_fmov(0x3f800000,4);
+    puVar5 = *param_1;
+    do {
+      auVar14 = *param_1;
+      auVar32 = param_1[1];
+      pauVar1 = param_1 + 2;
+      uVar36 = (undefined4)((ulong)*(undefined8 *)(param_1[2] + 8) >> 0x20);
+      fVar34 = (float)*(undefined8 *)*pauVar1;
+      fVar35 = (float)((ulong)*(undefined8 *)*pauVar1 >> 0x20);
+      pauVar2 = param_1 + 3;
+      uVar39 = (undefined4)((ulong)*(undefined8 *)(param_1[3] + 8) >> 0x20);
+      fVar37 = (float)*(undefined8 *)*pauVar2;
+      fVar38 = (float)((ulong)*(undefined8 *)*pauVar2 >> 0x20);
+      param_1 = param_1 + 4;
+      fVar25 = auVar14._4_4_;
+      fVar9 = auVar32._4_4_;
+      fVar21 = auVar14._0_4_;
+      fVar6 = auVar32._0_4_;
+      auVar28 = NEON_ext(auVar14,auVar14,8,1);
+      auVar22 = NEON_ext(auVar32,auVar32,8,1);
+      auVar14._12_4_ = uVar36;
+      auVar14._0_12_ = *(undefined1 (*) [12])*pauVar1;
+      auVar32._12_4_ = uVar36;
+      auVar32._0_12_ = *(undefined1 (*) [12])*pauVar1;
+      auVar14 = NEON_ext(auVar14,auVar32,8,1);
+      auVar3._12_4_ = uVar39;
+      auVar3._0_12_ = *(undefined1 (*) [12])*pauVar2;
+      auVar4._12_4_ = uVar39;
+      auVar4._0_12_ = *(undefined1 (*) [12])*pauVar2;
+      auVar32 = NEON_ext(auVar3,auVar4,8,1);
+      fVar23 = auVar28._0_4_;
+      fVar7 = auVar22._0_4_;
+      fVar24 = auVar14._0_4_;
+      fVar8 = auVar32._0_4_;
+      fVar11 = fVar25 * local_b4 + fVar21 * local_c0 + fVar23 * local_a8;
+      fVar15 = fVar9 * local_b4 + fVar6 * local_c0 + fVar7 * local_a8;
+      fVar17 = fVar35 * local_b4 + fVar34 * local_c0 + fVar24 * local_a8;
+      fVar19 = fVar38 * local_b4 + fVar37 * local_c0 + fVar8 * local_a8;
+      fVar11 = ((fVar11 * fVar11 * 0.719088 + -0.35786) * fVar11 * fVar11 + 1.085865) * fVar11;
+      fVar15 = ((fVar15 * fVar15 * 0.719088 + -0.35786) * fVar15 * fVar15 + 1.085865) * fVar15;
+      fVar17 = ((fVar17 * fVar17 * 0.719088 + -0.35786) * fVar17 * fVar17 + 1.085865) * fVar17;
+      fVar19 = ((fVar19 * fVar19 * 0.719088 + -0.35786) * fVar19 * fVar19 + 1.085865) * fVar19;
+      fVar27 = fVar40 + fVar11 * in_s3;
+      fVar29 = fVar40 + fVar15 * in_s3;
+      fVar30 = fVar40 + fVar17 * in_s3;
+      fVar31 = fVar40 + fVar19 * in_s3;
+      auVar22._0_4_ = auVar26._0_4_ + (fVar11 * fVar11 * 0.041666668 + -0.5) * fVar11 * fVar11;
+      auVar22._4_4_ = auVar26._4_4_ + (fVar15 * fVar15 * 0.041666668 + -0.5) * fVar15 * fVar15;
+      auVar22._8_4_ = auVar26._8_4_ + (fVar17 * fVar17 * 0.041666668 + -0.5) * fVar17 * fVar17;
+      auVar22._12_4_ = auVar26._12_4_ + (fVar19 * fVar19 * 0.041666668 + -0.5) * fVar19 * fVar19;
+      fVar11 = fVar27 * fVar27;
+      fVar15 = fVar29 * fVar29;
+      fVar17 = fVar30 * fVar30;
+      fVar19 = fVar31 * fVar31;
+      auVar32 = NEON_frecpe(auVar22,4);
+      auVar14 = NEON_frecps(auVar22,auVar32,4);
+      fVar12 = auVar14._0_4_ * auVar32._0_4_;
+      fVar16 = auVar14._4_4_ * auVar32._4_4_;
+      fVar18 = auVar14._8_4_ * auVar32._8_4_;
+      fVar20 = auVar14._12_4_ * auVar32._12_4_;
+      fVar27 = fVar27 + fVar27 * fVar11 * -0.16666667;
+      fVar29 = fVar29 + fVar29 * fVar15 * -0.16666667;
+      fVar30 = fVar30 + fVar30 * fVar17 * -0.16666667;
+      fVar31 = fVar31 + fVar31 * fVar19 * -0.16666667;
+      fVar12 = fVar12 + fVar12 * (fVar11 * 0.041666668 + -0.5) * fVar11;
+      fVar16 = fVar16 + fVar16 * (fVar15 * 0.041666668 + -0.5) * fVar15;
+      fVar18 = fVar18 + fVar18 * (fVar17 * 0.041666668 + -0.5) * fVar17;
+      fVar20 = fVar20 + fVar20 * (fVar19 * 0.041666668 + -0.5) * fVar19;
+      fVar11 = fVar12 * (fVar25 * local_b8 + fVar21 * local_c4 + fVar23 * local_ac);
+      fVar15 = fVar16 * (fVar9 * local_b8 + fVar6 * local_c4 + fVar7 * local_ac);
+      fVar17 = fVar18 * (fVar35 * local_b8 + fVar34 * local_c4 + fVar24 * local_ac);
+      fVar19 = fVar20 * (fVar38 * local_b8 + fVar37 * local_c4 + fVar8 * local_ac);
+      fVar12 = fVar12 * (fVar25 * local_bc + fVar21 * local_c8 + fVar23 * local_b0);
+      fVar16 = fVar16 * (fVar9 * local_bc + fVar6 * local_c8 + fVar7 * local_b0);
+      fVar18 = fVar18 * (fVar35 * local_bc + fVar34 * local_c8 + fVar24 * local_b0);
+      fVar20 = fVar20 * (fVar38 * local_bc + fVar37 * local_c8 + fVar8 * local_b0);
+      auVar28._0_4_ = fVar27 * local_8c + fVar11 * local_98 + fVar12 * local_a4;
+      auVar28._4_4_ = fVar29 * local_8c + fVar15 * local_98 + fVar16 * local_a4;
+      auVar28._8_4_ = fVar30 * local_8c + fVar17 * local_98 + fVar18 * local_a4;
+      auVar28._12_4_ = fVar31 * local_8c + fVar19 * local_98 + fVar20 * local_a4;
+      auVar33._0_4_ = fVar27 * local_88 + fVar11 * local_94 + fVar12 * local_a0;
+      auVar33._4_4_ = fVar29 * local_88 + fVar15 * local_94 + fVar16 * local_a0;
+      auVar33._8_4_ = fVar30 * local_88 + fVar17 * local_94 + fVar18 * local_a0;
+      auVar33._12_4_ = fVar31 * local_88 + fVar19 * local_94 + fVar20 * local_a0;
+      fVar21 = fVar27 * local_84 + fVar11 * local_90 + fVar12 * local_9c;
+      fVar23 = fVar29 * local_84 + fVar15 * local_90 + fVar16 * local_9c;
+      fVar24 = fVar30 * local_84 + fVar17 * local_90 + fVar18 * local_9c;
+      fVar25 = fVar31 * local_84 + fVar19 * local_90 + fVar20 * local_9c;
+      uVar10 = CONCAT44(auVar33._0_4_,auVar28._0_4_);
+      uVar13 = CONCAT44(auVar33._4_4_,auVar28._4_4_);
+      auVar14 = NEON_ext(auVar28,auVar28,8,1);
+      auVar32 = NEON_ext(auVar33,auVar33,8,1);
+      param_5[1] = CONCAT44(fVar21,fVar21);
+      *param_5 = uVar10;
+      param_5[3] = CONCAT44(fVar23,fVar23);
+      param_5[2] = uVar13;
+      param_5[5] = CONCAT44(fVar24,fVar24);
+      param_5[4] = CONCAT44(auVar32._0_4_,auVar14._0_4_);
+      param_5[7] = CONCAT44(fVar25,fVar25);
+      param_5[6] = CONCAT44(auVar32._4_4_,auVar14._4_4_);
+      param_5 = param_5 + 8;
+    } while (param_1 < (undefined1 (*) [16])(puVar5 + (ulong)(uint)(param_2 << 2) * 4));
+  }
+  return;
+}
+
+
