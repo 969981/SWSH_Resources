@@ -2,6 +2,10 @@ name: SWSH inventory tooling and evidence checks
 
 on:
   push:
+    # Derived Ghidra data is published in dozens of bounded Git commits.
+    # Re-running the full resource inventory on each batch is redundant.
+    paths-ignore:
+      - "derived/**"
   pull_request:
   workflow_dispatch:
 
