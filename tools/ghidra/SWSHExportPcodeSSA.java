@@ -48,7 +48,7 @@ public class SWSHExportPcodeSSA extends GhidraScript {
         return address.toString();
     }
 
-    private static long parseAddress(String text) {
+    private static long parseHexAddress(String text) {
         String value = text.trim().toLowerCase(Locale.ROOT);
         if (value.contains(":")) value = value.substring(value.lastIndexOf(':') + 1);
         if (value.startsWith("0x")) value = value.substring(2);
@@ -180,7 +180,7 @@ public class SWSHExportPcodeSSA extends GhidraScript {
                 Function function = null;
                 String functionName = "";
                 try {
-                    Address target = toAddr(parseAddress(entry));
+                    Address target = toAddr(parseHexAddress(entry));
                     function = manager.getFunctionAt(target);
                     if (function == null) {
                         statusOut.write(String.join("\t", game, entry, "", "MISSING_FUNCTION", "0", "0", "0", "0", "No function starts at requested entry"));
