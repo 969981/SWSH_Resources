@@ -1,0 +1,31 @@
+{
+  "status": "SOURCE_BACKED_GHIDRA_STATIC_CALLGRAPH_MAP",
+  "source_run_id": 42771375134,
+  "sword": {
+    "function_count": 47983,
+    "contiguous_function_bodies": 46601,
+    "all_ghidra_call_references": 351907,
+    "call_references_with_contiguous_caller": 197843,
+    "call_references_with_known_direct_callee": 197835,
+    "ambiguous_interval_attributions_excluded": 0,
+    "original_elf_sha256": "4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43"
+  },
+  "shield": {
+    "function_count": 47984,
+    "contiguous_function_bodies": 46602,
+    "all_ghidra_call_references": 351909,
+    "call_references_with_contiguous_caller": 197846,
+    "call_references_with_known_direct_callee": 197838,
+    "ambiguous_interval_attributions_excluded": 0,
+    "original_elf_sha256": "a6045f506af68254a434cc9c33658d5ec3171d18c55b0122b44fc645c347812a"
+  },
+  "unique_exact_body_pairs": 22520,
+  "unique_exact_body_relocated_pairs": 10011,
+  "same_entry_changed_body_review_candidates": 11301,
+  "ambiguous_repeated_byte_hashes_excluded": 502,
+  "anchors_with_identical_identified_direct_callee_sets": 10643,
+  "anchors_with_changed_identified_direct_callee_sets": 15,
+  "anchors_without_comparable_mapped_direct_calls": 11862,
+  "total_unique_mapped_callee_deltas": 22,
+  "caution": "This is a conservative Ghidra static direct-call graph comparison, not proof of gameplay semantic differences. A shared function entry may be a different function; equal body bytes can still call different absolute targets. Functions with non-contiguous Ghidra bodies are excluded from caller attribution. Duplicate fingerprints are excluded from anchors."
+}
