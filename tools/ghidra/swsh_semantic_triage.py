@@ -137,7 +137,7 @@ def main():
             score=100*(not cfg_same)+80*(not calls_same)+50*(not strings_same)+30*(size_s!=size_h)
             score+=25*(metrics["mnemonic_changed"]>0)+20*(metrics["flow_changed"]>0)
             score+=8*(sc[e]["sha256"]!=hc[e]["sha256"])+min(15,round(math.log2(max(size_s,size_h,1))))
-            if not cfg_same:kind="CONTROL_FLOW_OR_BRANCH_TARGET_CHANGE"
+            if not cfg_same:kind="BRANCH_INSTRUCTION_ADDRESS_OR_TARGET_CHANGE"
             elif not calls_same:kind="EXACT_MAPPED_CALLEE_CHANGE"
             elif not strings_same:kind="STRING_REFERENCE_CHANGE"
             elif size_s!=size_h:kind="FUNCTION_BOUNDARY_OR_SIZE_CHANGE"
@@ -154,7 +154,7 @@ def main():
             "sword_contiguous":contiguous_s,"shield_contiguous":contiguous_h,
             "mapped_common_callers":ccall,"mapped_caller_delta":dcall,"mapped_caller_jaccard":round(jcall,6),
             "mapped_common_callees":ccal,"mapped_callee_delta":dcal,"mapped_callee_jaccard":round(jcal,6),
-            "cfg_signature_same":cfg_same,"exact_mapped_callees_same":calls_same,"string_reference_same":strings_same,
+            "branch_address_signature_same":cfg_same,"exact_mapped_callees_same":calls_same,"string_reference_same":strings_same,
             "sword_decompile_status":sc[e]["status"],"shield_decompile_status":hc[e]["status"],
             "sword_c_header":sc[e]["header"],"shield_c_header":hc[e]["header"],
             "sword_field_offsets":sc[e]["fields"],"shield_field_offsets":hc[e]["fields"],
@@ -170,7 +170,7 @@ def main():
     fields=["entry","identity_evidence","identity_support","identity_support_score","triage_class","priority_score",
       "sword_name","shield_name","sword_body_bytes","shield_body_bytes","sword_contiguous","shield_contiguous",
       "mapped_common_callers","mapped_caller_delta","mapped_caller_jaccard","mapped_common_callees","mapped_callee_delta",
-      "mapped_callee_jaccard","cfg_signature_same","exact_mapped_callees_same","string_reference_same",
+      "mapped_callee_jaccard","branch_address_signature_same","exact_mapped_callees_same","string_reference_same",
       "sword_decompile_status","shield_decompile_status","sword_c_header","shield_c_header","sword_field_offsets","shield_field_offsets"]
     with (args.out/"same_entry_semantic_diff.csv").open("w",encoding="utf-8",newline="") as out:
         w=csv.DictWriter(out,fieldnames=fields,extrasaction="ignore");w.writeheader()
@@ -182,11 +182,11 @@ def main():
         for r in strong:w.writerow({k:json.dumps(r[k],ensure_ascii=False) if isinstance(r[k],list) else r[k] for k in fields})
     with (args.out/"priority_assembly_review.md").open("w",encoding="utf-8") as out:
         out.write("# Sword / Shield 1.3.2 — priority assembly review\n\n")
-        out.write("Only pairs with both exact-body-mapped caller and callee support are included. Same RVA is not identity proof.\n")
+        out.write("Only pairs with both exact-body-mapped caller and callee support are included. Same RVA is not identity proof. The branch signature compares source/target RVAs, not high-level CFG block topology.\n")
         for r in strong[:args.top]:
             out.write("\n## "+r["entry"]+" — "+r["triage_class"]+" (score "+str(r["priority_score"])+")\n\n")
             out.write("- Identity support: "+r["identity_support"]+"; caller Jaccard "+str(r["mapped_caller_jaccard"])+"; callee Jaccard "+str(r["mapped_callee_jaccard"])+"\n")
-            out.write("- CFG same: "+str(r["cfg_signature_same"])+"; exact mapped callees same: "+str(r["exact_mapped_callees_same"])+"; strings same: "+str(r["string_reference_same"])+"\n")
+            out.write("- Branch-address signature same: "+str(r["branch_address_signature_same"])+"; exact mapped callees same: "+str(r["exact_mapped_callees_same"])+"; strings same: "+str(r["string_reference_same"])+"\n")
             out.write("- C prototypes: Sword: "+clean(r["sword_c_header"],200)+"; Shield: "+clean(r["shield_c_header"],200)+"\n")
             for x in r.get("instruction_metrics",{}).get("changed_sample",[])[:16]:
                 out.write("- "+x["address"]+": Sword: "+x["sword"]+"; Shield: "+x["shield"]+"\n")
@@ -198,7 +198,7 @@ def main():
       "identity_reclassification":dict(Counter(r["identity_evidence"] for r in results)),
       "identity_support_for_unmatched_same_rva_pairs":dict(Counter(r["identity_support"] for r in results if r["identity_evidence"]=="NO_UNIQUE_EXACT_BODY_IDENTITY")),
       "triage_classes":dict(counts),"strong_context_candidates":len(strong),
-      "strong_context_cfg_changes":sum(r["cfg_signature_same"] is False for r in strong),
+      "strong_context_branch_address_signature_changes":sum(r["branch_address_signature_same"] is False for r in strong),
       "strong_context_call_deltas":sum(r["exact_mapped_callees_same"] is False for r in strong),
       "strong_context_string_deltas":sum(r["string_reference_same"] is False for r in strong),
       "elapsed_seconds":round(time.time()-started,2),
@@ -213,10 +213,10 @@ Source Ghidra 12.2 run: 42771375134. This report covers every same-RVA function 
 - same_entry_semantic_diff.csv: sortable metrics and recovered C headers/field-offset hints.
 - same_entry_semantic_diff.ndjson.gz: complete per-candidate static evidence.
 - priority_semantic_review.csv: candidate pairs supported by both exact-body-mapped callers and callees.
-- priority_assembly_review.md: selected instruction-level comparisons for the strongest-context pairs.
+- priority_assembly_review.md: selected instruction-level comparisons for the strongest-context pairs; raw branch-address changes are not asserted to be CFG topology changes.
 - summary.json: count reconciliation and evidence limitations.
 
-Same RVA is not function identity. Strong caller/callee context is a candidate alignment, not proof. Ghidra pseudocode is not original source. Static CFG/P-code evidence does not prove runtime behavior.
+Same RVA is not function identity. Strong caller/callee context is a candidate alignment, not proof. Ghidra pseudocode is not original source. Static Raw branch-address signature differences do not by themselves prove a CFG topology change. Compare the Ghidra high-level P-code block graph before calling a control-flow change. CFG/P-code evidence does not prove runtime behavior.
 """,encoding="utf-8")
     print(json.dumps(summary,ensure_ascii=False,indent=2))
     sdb.close();hdb.close()
