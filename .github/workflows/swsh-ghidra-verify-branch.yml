@@ -1,0 +1,120 @@
+name: Verify published SWSH Ghidra 1.3.2 Git tree completeness
+on:
+  workflow_run:
+    workflows:
+      - Publish SWSH 1.3.2 Ghidra lossless split
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: swsh-132-verify-published-c-tree
+  cancel-in-progress: false
+jobs:
+  verify-master:
+    if: github.repository == '969981/SWSH_Resources' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    env:
+      BASE: derived/v1.3.2/Ghidra_12.2_Run_42771375134
+    steps:
+      - name: Sparse checkout only actual source indexes and manifests
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/parts_manifest.json
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/decompiled_index.csv
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/parts_manifest.json
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/decompiled_index.csv
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/comparison/summary.json
+            /.github/workflows/swsh-ghidra-verify-branch.yml
+
+      - name: Independently verify all 95957 individual C Git paths and all raw parts
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import csv,json,os,subprocess
+          from pathlib import Path
+          root=Path(os.environ["BASE"])
+          names=subprocess.check_output(
+            ["git","ls-tree","-r","--name-only","HEAD","--",str(root)],
+            text=True
+          ).splitlines()
+          committed=set(names)
+          if len(names)!=len(committed):
+            raise ValueError("Duplicate Git tree paths")
+          counts={}
+          for game,total,success in (("sword",47983,47978),("shield",47984,47979)):
+            src=root/game
+            spec=json.loads((src/"parts_manifest.json").read_text(encoding="utf-8"))
+            assert spec["status"]=="UNCOMPRESSED_SPLIT_VERIFIED"
+            assert spec["source_run_id"]==42771375134
+            assert spec["decompiler_attempted"]==total
+            assert spec["sqlite_counts"]["functions"]==total
+            assert spec["c_success"]==success
+            assert spec["c_failed_or_empty"]==5
+            expected_c=set()
+            with (src/"decompiled_index.csv").open(encoding="utf-8",newline="") as f:
+              rows=list(csv.DictReader(f))
+            assert len(rows)==total
+            assert len({r["entry"] for r in rows})==total
+            for r in rows:
+              if r["status"]=="OK":
+                entry=r["entry"]
+                expected_c.add(str(src/"c"/entry[:2]/(entry+".c")))
+            assert len(expected_c)==success
+            git_c={p for p in committed if p.startswith(str(src)+"/c/") and p.endswith(".c")}
+            assert git_c==expected_c,(
+              game,"Missing C",len(expected_c-git_c),"Unexpected C",len(git_c-expected_c)
+            )
+            binary={str(src/"database"/p["path"]) for p in spec["sqlite"]["parts"]}
+            ndjson={str(src/"ndjson"/p["path"]) for p in spec["ndjson"]["parts"]}
+            assert binary<=committed and ndjson<=committed
+            assert {p for p in committed if p.startswith(str(src)+"/database/")}==binary
+            assert {p for p in committed if p.startswith(str(src)+"/ndjson/")}==ndjson
+            project=str(src/"project")
+            stem="SWSH_"+game
+            assert str(src/"project"/(stem+".gpr")) in committed
+            assert any(p.startswith(project+"/"+stem+".rep/") for p in committed)
+            for detail in spec["project"]["split_files"].values():
+              for p in detail["parts"]:
+                assert str(src/"project_parts"/p["path"]) in committed
+            counts[game]={
+              "Ghidra_functions":total,
+              "C_files_in_git":len(git_c),
+              "C_failures_in_original_export":5,
+              "SQLite_raw_parts_in_git":len(binary),
+              "NDJSON_complete_line_parts_in_git":len(ndjson),
+              "native_gpr_and_rep_in_git":True,
+            }
+            print(game,counts[game],flush=True)
+          result={
+            "status":"VERIFIED_ALL_ORIGINAL_GHIDRA_C_IN_GIT",
+            "source_run_id":42771375134,
+            "git_sha":subprocess.check_output(["git","rev-parse","HEAD"],text=True).strip(),
+            "counts":counts,
+            "total_individual_original_c_files":sum(v["C_files_in_git"] for v in counts.values()),
+            "sqlite_and_ndjson_all_manifest_parts_present":True,
+            "limit":"Git-tree metadata verification: confirms all expected paths exist, not a redownloaded SHA256 check of each binary chunk. Publisher verified byte-exact reconstruction before commit.",
+          }
+          assert result["total_individual_original_c_files"]==95957
+          Path(os.environ["RUNNER_TEMP"]).joinpath("swsh_git_completeness.json").write_text(
+            json.dumps(result,indent=2,ensure_ascii=False)+"\n",encoding="utf-8"
+          )
+          print(json.dumps(result,indent=2))
+          PY
+          cat "$RUNNER_TEMP/swsh_git_completeness.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Preserve independent repository completeness proof
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-Ghidra12-95957-C-Git-completeness-proof
+          retention-days: 30
+          if-no-files-found: error
+          path: ${{ runner.temp }}/swsh_git_completeness.json
