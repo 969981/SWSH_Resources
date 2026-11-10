@@ -1,0 +1,158 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 003e5c90; name: FUN_003e5c90
+ */
+
+
+void FUN_003e5c90(undefined4 param_1,long *param_2,long param_3,long param_4,long param_5,
+                 byte param_6)
+
+{
+  undefined *puVar1;
+  
+  param_2[2] = 0;
+  param_2[3] = 0;
+  *(undefined4 *)(param_2 + 4) = 0;
+  puVar1 = PTR_DAT_02712978 + 0x10;
+  *(undefined8 *)((long)param_2 + 0x24) = 0xffffffc0ffffffc0;
+  param_2[0x11] = -0x3f00000040;
+  param_2[0x12] = -0x3f00000040;
+  *(undefined8 *)((long)param_2 + 0x2c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x34) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x3c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x44) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x4c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x54) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x5c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 100) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x6c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x74) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x7c) = 0xffffffc0ffffffc0;
+  *param_2 = (long)puVar1;
+  param_2[1] = param_5;
+  *(undefined4 *)((long)param_2 + 0x84) = 0xffffffc0;
+  *(undefined4 *)(param_2 + 0x21) = 0xffffffc0;
+  param_2[0x13] = -0x3f00000040;
+  param_2[0x14] = -0x3f00000040;
+  param_2[0x15] = -0x3f00000040;
+  param_2[0x16] = -0x3f00000040;
+  param_2[0x17] = -0x3f00000040;
+  param_2[0x18] = -0x3f00000040;
+  param_2[0x19] = -0x3f00000040;
+  param_2[0x1a] = -0x3f00000040;
+  param_2[0x1b] = -0x3f00000040;
+  param_2[0x1c] = -0x3f00000040;
+  param_2[0x1d] = -0x3f00000040;
+  param_2[0x1e] = -0x3f00000040;
+  param_2[0x1f] = -0x3f00000040;
+  param_2[0x20] = -0x3f00000040;
+  *(undefined8 *)((long)param_2 + 0x10c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x114) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x11c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x124) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 300) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x134) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x13c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x144) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x14c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x154) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x15c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x164) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x16c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x174) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x17c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x184) = 0xffffffc0ffffffc0;
+  *(undefined4 *)((long)param_2 + 0x18c) = 0xffffffc0;
+  param_2[0x40] = -0x3f00000040;
+  param_2[0x41] = -0x3f00000040;
+  *(undefined4 *)(param_2 + 0x42) = 0xffffffc0;
+  param_2[0x32] = -0x3f00000040;
+  param_2[0x33] = -0x3f00000040;
+  param_2[0x34] = -0x3f00000040;
+  param_2[0x35] = -0x3f00000040;
+  param_2[0x36] = -0x3f00000040;
+  param_2[0x37] = -0x3f00000040;
+  param_2[0x38] = -0x3f00000040;
+  param_2[0x39] = -0x3f00000040;
+  param_2[0x3a] = -0x3f00000040;
+  param_2[0x3b] = -0x3f00000040;
+  param_2[0x3c] = -0x3f00000040;
+  param_2[0x3d] = -0x3f00000040;
+  param_2[0x3e] = -0x3f00000040;
+  param_2[0x3f] = -0x3f00000040;
+  *(undefined8 *)((long)param_2 + 0x214) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x21c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x224) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x22c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x234) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x23c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x244) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x24c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x254) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x25c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x264) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x26c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x274) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x27c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x284) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x28c) = 0xffffffc0ffffffc0;
+  *(undefined4 *)((long)param_2 + 0x294) = 0xffffffc0;
+  param_2[0x53] = -0x3f00000040;
+  param_2[0x54] = -0x3f00000040;
+  param_2[0x55] = -0x3f00000040;
+  param_2[0x56] = -0x3f00000040;
+  param_2[0x57] = -0x3f00000040;
+  param_2[0x58] = -0x3f00000040;
+  param_2[0x59] = -0x3f00000040;
+  param_2[0x5a] = -0x3f00000040;
+  param_2[0x5b] = -0x3f00000040;
+  param_2[0x5c] = -0x3f00000040;
+  param_2[0x5d] = -0x3f00000040;
+  param_2[0x5e] = -0x3f00000040;
+  param_2[0x5f] = -0x3f00000040;
+  param_2[0x60] = -0x3f00000040;
+  param_2[0x61] = -0x3f00000040;
+  param_2[0x62] = -0x3f00000040;
+  *(undefined4 *)(param_2 + 99) = 0xffffffc0;
+  *(undefined8 *)((long)param_2 + 0x31c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x324) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x32c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x334) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x33c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x344) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x34c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x354) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x35c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x364) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x36c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x374) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x37c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 900) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x38c) = 0xffffffc0ffffffc0;
+  *(undefined8 *)((long)param_2 + 0x394) = 0xffffffc0ffffffc0;
+  param_2[0x74] = -0x3f00000040;
+  param_2[0x75] = -0x3f00000040;
+  param_2[0x76] = -0x3f00000040;
+  param_2[0x77] = -0x3f00000040;
+  param_2[0x78] = -0x3f00000040;
+  param_2[0x79] = -0x3f00000040;
+  param_2[0x7a] = -0x3f00000040;
+  param_2[0x7b] = -0x3f00000040;
+  param_2[0x7c] = -0x3f00000040;
+  param_2[0x7d] = -0x3f00000040;
+  param_2[0x7e] = -0x3f00000040;
+  param_2[0x7f] = -0x3f00000040;
+  param_2[0x80] = -0x3f00000040;
+  param_2[0x81] = -0x3f00000040;
+  param_2[0x82] = -0x3f00000040;
+  param_2[0x83] = -0x3f00000040;
+  *(undefined4 *)((long)param_2 + 0x39c) = 0xffffffc0;
+  *(undefined4 *)(param_2 + 0x84) = 0xffffffc0;
+  *(undefined4 *)(param_2 + 0x85) = param_1;
+  param_2[0x86] = param_3;
+  param_2[0x87] = param_4;
+  *(byte *)(param_2 + 0x88) = param_6 & 1;
+  return;
+}
+
+
