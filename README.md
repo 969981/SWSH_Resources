@@ -61,6 +61,8 @@ The copy and push scripts support `-WhatIf`; the push script creates bounded, in
 - [Provenance and evidence grading](docs/resource-provenance.md)
 - [SWSH file families](docs/formats/swsh-file-families.md)
 - [Sword vs Shield 1.3.2](docs/research/sword-vs-shield-1.3.2.md)
+- [Sword/Shield 1.3.2 main NSO → ELF](docs/research/swsh-main-nx2elf.md)
+- [Sword/Shield Ghidra 12.2 full analysis, lossless database and binary diff](docs/research/swsh-ghidra-full-analysis.md)
 - [Roadmap](docs/research-roadmap.md)
 
 ## Legal and reproducibility notes
