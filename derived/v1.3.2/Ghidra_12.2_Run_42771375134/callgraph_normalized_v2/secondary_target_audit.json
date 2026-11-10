@@ -1,0 +1,111 @@
+{
+  "status": "VERIFIED_STATIC_ABSOLUTE_TARGET_RECONCILIATION",
+  "source_run": 42771375134,
+  "source_csv": "derived/v1.3.2/Ghidra_12.2_Run_42771375134/callgraph_normalized_v2/all_anchor_relative_call_delta_candidates.csv",
+  "relative_call_deltas": 779,
+  "delta_cases_with_identical_absolute_known_targets": 770,
+  "of_those_16_byte_body": 762,
+  "delta_cases_with_changed_absolute_known_targets": 9,
+  "changed_target_cases": [
+    {
+      "sword_entry": "019fff70",
+      "shield_entry": "019fe000",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85dc0"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a863e0"
+      ]
+    },
+    {
+      "sword_entry": "019fff80",
+      "shield_entry": "019fe010",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85dd8"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a863e8"
+      ]
+    },
+    {
+      "sword_entry": "019fff90",
+      "shield_entry": "019fe020",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85de0"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a863f0"
+      ]
+    },
+    {
+      "sword_entry": "019fffa0",
+      "shield_entry": "019fe030",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85dd0"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a85148"
+      ]
+    },
+    {
+      "sword_entry": "019fffb0",
+      "shield_entry": "019fe040",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85dc8"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a85140"
+      ]
+    },
+    {
+      "sword_entry": "019fffc0",
+      "shield_entry": "019fe050",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a85e18"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a857d8"
+      ]
+    },
+    {
+      "sword_entry": "019fffd0",
+      "shield_entry": "019fe060",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a86078"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a85150"
+      ]
+    },
+    {
+      "sword_entry": "019fffe0",
+      "shield_entry": "019fe070",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a86070"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a851f0"
+      ]
+    },
+    {
+      "sword_entry": "019ffff0",
+      "shield_entry": "019fe080",
+      "body_bytes": 16,
+      "sword_direct_target_rvas": [
+        "0x2a86018"
+      ],
+      "shield_direct_target_rvas": [
+        "0x2a851e0"
+      ]
+    }
+  ],
+  "interpretation": "Absolute target equality is evidence of reference relocation/rebasing, not proof of identical gameplay. The remaining nine are all 16-byte call/thunk-like bodies and require disassembly / GOT or PLT validation before claiming semantic changes."
+}
