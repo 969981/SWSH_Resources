@@ -1,0 +1,12 @@
+{
+  "status": "P_CODE_SSA_EXPORTED",
+  "game": "sword",
+  "program": "sword_main.elf",
+  "requested": 50,
+  "functions_found": 50,
+  "functions_decompiled": 50,
+  "failed": 0,
+  "basic_blocks": 2155,
+  "pcode_ops": 51726,
+  "ssa_phi_ops": 10799
+}
