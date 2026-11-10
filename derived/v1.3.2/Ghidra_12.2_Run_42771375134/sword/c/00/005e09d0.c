@@ -1,0 +1,81 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 005e09d0; name: FUN_005e09d0
+ */
+
+
+void FUN_005e09d0(long param_1)
+
+{
+  long *plVar1;
+  long *plVar2;
+  ulong uVar3;
+  ulong *puVar4;
+  ulong uVar5;
+  
+  puVar4 = (ulong *)(param_1 + 0xd0);
+  uVar3 = *puVar4;
+  plVar1 = (long *)(param_1 + 0xe8);
+  if (uVar3 != 0) {
+    uVar5 = 0;
+    do {
+      plVar2 = *(long **)(*plVar1 + uVar5 * 8);
+      if (plVar2 != (long *)0x0) {
+        *(undefined8 *)(*plVar1 + uVar5 * 8) = 0;
+        (**(code **)(*plVar2 + 0x18))();
+        uVar3 = *puVar4;
+      }
+      uVar5 = uVar5 + 1;
+    } while (uVar5 < uVar3);
+  }
+  if (((*(byte *)(param_1 + 0x108) & 1) == 0) && (*plVar1 != 0)) {
+    plVar2 = *(long **)(param_1 + 200);
+    if (plVar2 != (long *)0x0) {
+      (**(code **)(*plVar2 + 0x48))
+                (plVar2,*plVar1,"../../../../Include\\SiCore/SiCore_Array.h",0x5f2);
+    }
+    *plVar1 = 0;
+  }
+  *puVar4 = 0;
+  *(undefined8 *)(param_1 + 0xd8) = 0;
+  *(undefined8 *)(param_1 + 0x108) = 0;
+  *plVar1 = 0;
+  *(undefined8 *)(param_1 + 0xf0) = 0;
+  *(undefined8 *)(param_1 + 0xf8) = 0;
+  uVar3 = *(ulong *)(param_1 + 0x120);
+  plVar1 = (long *)(param_1 + 0x138);
+  if (uVar3 != 0) {
+    uVar5 = 0;
+    do {
+      plVar2 = *(long **)(*plVar1 + uVar5 * 8);
+      if (plVar2 != (long *)0x0) {
+        *(undefined8 *)(*plVar1 + uVar5 * 8) = 0;
+        (**(code **)(*plVar2 + 0x18))();
+        uVar3 = *(ulong *)(param_1 + 0x120);
+      }
+      uVar5 = uVar5 + 1;
+    } while (uVar5 < uVar3);
+  }
+  if (((*(byte *)(param_1 + 0x158) & 1) == 0) && (*plVar1 != 0)) {
+    plVar2 = *(long **)(param_1 + 0x118);
+    if (plVar2 != (long *)0x0) {
+      (**(code **)(*plVar2 + 0x48))
+                (plVar2,*plVar1,"../../../../Include\\SiCore/SiCore_Array.h",0x5f2);
+    }
+    *plVar1 = 0;
+  }
+  *(ulong *)(param_1 + 0x120) = 0;
+  *(undefined8 *)(param_1 + 0x128) = 0;
+  *(undefined8 *)(param_1 + 0x158) = 0;
+  *plVar1 = 0;
+  *(undefined8 *)(param_1 + 0x140) = 0;
+  *(undefined8 *)(param_1 + 0x148) = 0;
+  if (*(long **)(param_1 + 0xb8) != (long *)0x0) {
+    (**(code **)(**(long **)(param_1 + 0xb8) + 0x18))();
+    *(undefined8 *)(param_1 + 0xb8) = 0;
+  }
+  FUN_005dcac0(param_1);
+  return;
+}
+
+
