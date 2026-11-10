@@ -1,0 +1,76 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 00a38620; name: _INIT_823
+ */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void _INIT_823(void)
+
+{
+  DAT_02a52294 = nn::ldn::MakeIpv4Address('\x7f','\0','\0','\x01');
+  DAT_02a52298 = nn::ldn::MakeIpv4Address(0xff,0xff,0xff,0xff);
+  DAT_02a5229c = nn::ldn::MakeIpv4Address('\0','\0','\0','\0');
+  DAT_02a522a4 = 0xffff;
+  uRam0000000002a522e8 = _UNK_01d4b108;
+  _DAT_02a522e0 = _DAT_01d4b100;
+  uRam0000000002a522c8 = _UNK_01d4a948;
+  _DAT_02a522c0 = _DAT_01d4a940;
+  uRam0000000002a52338 = _UNK_01d4a948;
+  _DAT_02a52330 = _DAT_01d4a940;
+  uRam0000000002a522f8 = _UNK_01d4adc8;
+  _DAT_02a522f0 = _DAT_01d4adc0;
+  DAT_02a522a0 = 0xffffffff;
+  DAT_02a522ac = 0;
+  uRam0000000002a522d8 = _UNK_01d4b428;
+  _DAT_02a522d0 = _DAT_01d4b420;
+  DAT_02a522a8 = 0;
+  uRam0000000002a52308 = _UNK_01d4b5d8;
+  _DAT_02a52300 = _DAT_01d4b5d0;
+  uRam0000000002a52348 = _UNK_01d4b428;
+  _DAT_02a52340 = _DAT_01d4b420;
+  uRam0000000002a52318 = _UNK_01d4a5b8;
+  _DAT_02a52310 = _DAT_01d4a5b0;
+  DAT_02a52360 = 0x115e07cf76b40eb3;
+  DAT_02a52370 = 0xe9e04a1d5a234b06;
+  DAT_02a52378 = 0x4e3682f154a4ffd3;
+  uRam0000000002a52328 = _UNK_01d4b908;
+  _DAT_02a52320 = _DAT_01d4b900;
+  DAT_02a52380 = 0xa537884056e41134;
+  DAT_02a52390 = 0xd2bd77a70908ae29;
+  uRam0000000002a52358 = _UNK_01d4b118;
+  _DAT_02a52350 = _DAT_01d4b110;
+  _DAT_02a522b0 = 1;
+  DAT_02a522b8 = 0;
+  DAT_02a52368 = 1;
+  DAT_02a52388 = 1;
+  DAT_02a52398 = 0x65e6d5507bbe4ee0;
+  DAT_02a523a0 = 0x115e06cf76b40d00;
+  DAT_02a523a8 = 0x100000001;
+  DAT_02a523b0 = 0x8b805aef16287ed9;
+  DAT_02a523b8 = 0x51083e24f642cb10;
+  DAT_02a523c0 = 0xa537894056e412e7;
+  DAT_02a523c8 = 0x100000001;
+  DAT_02a523d0 = 0xd1a1c079c1b7d556;
+  DAT_02a523d8 = 0x57be4c38594407a3;
+  DAT_02a523e0 = 0x115e09cf76b41219;
+  DAT_02a523e8 = 0x200000001;
+  DAT_02a523f0 = 0xbddecdd08c9e8bd8;
+  DAT_02a523f8 = 0x1940ef1811500c41;
+  DAT_02a52400 = 0xa5378a4056e4149a;
+  DAT_02a52408 = 0x200000001;
+  DAT_02a52410 = 0xc7afc3d8e37529fb;
+  DAT_02a52418 = 0xdd70e93611d8d736;
+  DAT_02a52420 = 0x115e08cf76b41066;
+  DAT_02a52428 = 0x300000001;
+  DAT_02a52430 = 0xaf2c9e84f98cd2eb;
+  DAT_02a52438 = 0xcaa0c7ce017053e6;
+  DAT_02a52440 = 0xa5378b4056e4164d;
+  DAT_02a52448 = 0x300000001;
+  DAT_02a52450 = 0x2a801d8e59998e8;
+  DAT_02a52458 = 0x726ac58a82446351;
+  return;
+}
+
+
