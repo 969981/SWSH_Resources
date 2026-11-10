@@ -5,6 +5,9 @@ on:
     branches: [master]
     paths:
       - ".github/workflows/swsh-ghidra-annotate.yml"
+      - "tools/ghidra/swsh_annotate_functions.py"
+      - "tools/ghidra/SWSHApplyComments.java"
+      - "tests/test_swsh_annotate_functions.py"
 permissions:
   contents: write
   actions: read
