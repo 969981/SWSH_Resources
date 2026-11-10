@@ -70,10 +70,13 @@ def compare(left: Path, right: Path, output: Path) -> dict:
         differences = sum(u != v for u, v in zip(x, y))
         # AArch64 fixed-width instruction delta by matching virtual address.
         aligned_len = length - (length % 4)
-        changed_words = [
-            i for i in range(0, aligned_len, 4)
-            if x[i:i + 4] != y[i:i + 4]
-        ]
+        changed_word_count = 0
+        first_changed = []
+        for i in range(0, aligned_len, 4):
+            if x[i:i + 4] != y[i:i + 4]:
+                changed_word_count += 1
+                if len(first_changed) < 128:
+                    first_changed.append(hex(a["vaddr"] + i))
         compared.append({
             "virtual_address_start": hex(a["vaddr"]),
             "sword_segment_index": a["index"],
@@ -84,11 +87,9 @@ def compare(left: Path, right: Path, output: Path) -> dict:
             "unmatched_tail_sword_bytes": a["size"] - length,
             "unmatched_tail_shield_bytes": b["size"] - length,
             "shared_byte_differences": differences,
-            "shared_4byte_word_differences": len(changed_words),
+            "shared_4byte_word_differences": changed_word_count,
             "shared_4byte_word_count": aligned_len // 4,
-            "first_128_changed_word_virtual_addresses": [
-                hex(a["vaddr"] + i) for i in changed_words[:128]
-            ],
+            "first_128_changed_word_virtual_addresses": first_changed,
             "sword_sha256": a["sha256"],
             "shield_sha256": b["sha256"],
             "byte_equal_in_shared_span": differences == 0,
