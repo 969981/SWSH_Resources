@@ -636,11 +636,11 @@ def main():
         summaries = {}
         summaries["sword"] = annotate_game(
             "sword", args.sword_db, args.sword_manifest, args.sword_supplemental,
-            args.out / "sword", left, sword_to_shield, right[1]
+            args.out / "sword", right, sword_to_shield, right[1]
         )
         summaries["shield"] = annotate_game(
             "shield", args.shield_db, args.shield_manifest, args.shield_supplemental,
-            args.out / "shield", right, shield_to_sword, left[1]
+            args.out / "shield", left, shield_to_sword, left[1]
         )
         combined = {
             "status": "BOTH_EDITIONS_ANNOTATED",
