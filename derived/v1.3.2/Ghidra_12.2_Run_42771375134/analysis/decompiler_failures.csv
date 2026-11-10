@@ -1,0 +1,21 @@
+game,entry,name,status,error,also_discovered_in_other_version
+sword,0051b060,FUN_0051b060,FAILED,"Exception while decompiling 0051b060: process: timeout
+",True
+sword,00add620,FUN_00add620,FAILED,"Exception while decompiling 00add620: process: timeout
+",True
+sword,00b1c010,FUN_00b1c010,FAILED,"Exception while decompiling 00b1c010: process: timeout
+",True
+sword,00f7af20,FUN_00f7af20,FAILED,"Exception while decompiling 00f7af20: process: timeout
+",False
+sword,0199e900,FUN_0199e900,FAILED,"Exception while decompiling 0199e900: process: timeout
+",False
+shield,0051b060,FUN_0051b060,FAILED,"Exception while decompiling 0051b060: process: timeout
+",True
+shield,00add620,FUN_00add620,FAILED,"Exception while decompiling 00add620: process: timeout
+",True
+shield,00b1c010,FUN_00b1c010,FAILED,"Exception while decompiling 00b1c010: process: timeout
+",True
+shield,00f7af50,FUN_00f7af50,FAILED,"Exception while decompiling 00f7af50: process: timeout
+",False
+shield,0199e990,FUN_0199e990,FAILED,"Exception while decompiling 0199e990: process: timeout
+",False

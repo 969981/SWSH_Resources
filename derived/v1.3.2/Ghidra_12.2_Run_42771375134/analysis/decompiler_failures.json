@@ -1,0 +1,114 @@
+{
+  "status": "VERIFIED_DECOMPILER_FAILURE_AUDIT",
+  "source_run_id": 42771375134,
+  "source_url": "https://github.com/969981/SWSH_Resources/actions/runs/42771375134",
+  "games": {
+    "sword": {
+      "identified_functions": 47983,
+      "c_success": 47978,
+      "failed_or_empty": 5,
+      "failure_addresses": [
+        "0051b060",
+        "00add620",
+        "00b1c010",
+        "00f7af20",
+        "0199e900"
+      ]
+    },
+    "shield": {
+      "identified_functions": 47984,
+      "c_success": 47979,
+      "failed_or_empty": 5,
+      "failure_addresses": [
+        "0051b060",
+        "00add620",
+        "00b1c010",
+        "00f7af50",
+        "0199e990"
+      ]
+    }
+  },
+  "failures": [
+    {
+      "game": "sword",
+      "entry": "0051b060",
+      "name": "FUN_0051b060",
+      "status": "FAILED",
+      "error": "Exception while decompiling 0051b060: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "sword",
+      "entry": "00add620",
+      "name": "FUN_00add620",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00add620: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "sword",
+      "entry": "00b1c010",
+      "name": "FUN_00b1c010",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00b1c010: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "sword",
+      "entry": "00f7af20",
+      "name": "FUN_00f7af20",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00f7af20: process: timeout\n",
+      "also_discovered_in_other_version": false
+    },
+    {
+      "game": "sword",
+      "entry": "0199e900",
+      "name": "FUN_0199e900",
+      "status": "FAILED",
+      "error": "Exception while decompiling 0199e900: process: timeout\n",
+      "also_discovered_in_other_version": false
+    },
+    {
+      "game": "shield",
+      "entry": "0051b060",
+      "name": "FUN_0051b060",
+      "status": "FAILED",
+      "error": "Exception while decompiling 0051b060: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "shield",
+      "entry": "00add620",
+      "name": "FUN_00add620",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00add620: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "shield",
+      "entry": "00b1c010",
+      "name": "FUN_00b1c010",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00b1c010: process: timeout\n",
+      "also_discovered_in_other_version": true
+    },
+    {
+      "game": "shield",
+      "entry": "00f7af50",
+      "name": "FUN_00f7af50",
+      "status": "FAILED",
+      "error": "Exception while decompiling 00f7af50: process: timeout\n",
+      "also_discovered_in_other_version": false
+    },
+    {
+      "game": "shield",
+      "entry": "0199e990",
+      "name": "FUN_0199e990",
+      "status": "FAILED",
+      "error": "Exception while decompiling 0199e990: process: timeout\n",
+      "also_discovered_in_other_version": false
+    }
+  ],
+  "interpretation": "Ghidra decompiler failure is not evidence of missing source bytes; addresses and error text come from actual per-function Ghidra export."
+}
