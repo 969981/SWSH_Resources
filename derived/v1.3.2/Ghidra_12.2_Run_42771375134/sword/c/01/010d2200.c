@@ -1,0 +1,92 @@
+/* Recovered by Ghidra 12.2, not original Nintendo source.
+ * SWSH v1.3.2 original ELF SHA256: 4eaf6667a06d385db243b11f99207bbd3be293d58bfc6d55a355691333c81f43
+ * Ghidra function entry: 010d2200; name: FUN_010d2200
+ */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void FUN_010d2200(undefined8 param_1,long *param_2)
+
+{
+  long lVar1;
+  undefined8 *puVar2;
+  
+  lVar1 = nn::os::GetTlsValue(*(undefined4 *)PTR_DAT_02710860);
+  if (0xf < *(ulong *)(lVar1 + 0x80)) {
+                    /* WARNING: Subroutine does not return */
+    abort();
+  }
+  *(long **)(lVar1 + *(ulong *)(lVar1 + 0x80) * 8) = param_2;
+  *(long *)(lVar1 + 0x80) = *(long *)(lVar1 + 0x80) + 1;
+  puVar2 = (undefined8 *)(**(code **)(*param_2 + 0x10))(param_2,0xf0,8);
+  if (puVar2 == (undefined8 *)0x0) {
+    (**(code **)(*param_2 + 0xb8))(param_2);
+    _DAT_000000e8 = 0;
+    _DAT_000000e0 = 0;
+    _DAT_000000d8 = 0;
+    _DAT_000000d0 = 0;
+    _DAT_000000c8 = 0;
+    _DAT_000000c0 = 0;
+    _DAT_000000b8 = 0;
+    _DAT_000000b0 = 0;
+    _DAT_000000a8 = 0;
+    _DAT_000000a0 = 0;
+    _DAT_00000098 = 0;
+    _DAT_00000090 = 0;
+    _DAT_00000088 = 0;
+    _DAT_00000080 = 0;
+    _DAT_00000078 = 0;
+    _DAT_00000070 = 0;
+    _DAT_00000068 = 0;
+    _DAT_00000060 = 0;
+    _DAT_00000058 = 0;
+    _DAT_00000050 = 0;
+    _DAT_00000048 = 0;
+    _DAT_00000040 = 0;
+    _DAT_00000038 = 0;
+    _DAT_00000030 = 0;
+    _DAT_00000028 = 0;
+    _SUB_00000020 = 0;
+    _SUB_00000018 = 0;
+    uRam0000000000000000 = 0;
+    _DAT_00000010 = 0;
+    _DAT_00000008 = 0;
+                    /* WARNING: Subroutine does not return */
+    FUN_006e1890();
+  }
+  puVar2[0x1c] = 0;
+  puVar2[0x1d] = 0;
+  puVar2[0x1a] = 0;
+  puVar2[0x1b] = 0;
+  puVar2[0x18] = 0;
+  puVar2[0x19] = 0;
+  puVar2[0x16] = 0;
+  puVar2[0x17] = 0;
+  puVar2[0x14] = 0;
+  puVar2[0x15] = 0;
+  puVar2[0x12] = 0;
+  puVar2[0x13] = 0;
+  puVar2[0x10] = 0;
+  puVar2[0x11] = 0;
+  puVar2[0xe] = 0;
+  puVar2[0xf] = 0;
+  puVar2[0xc] = 0;
+  puVar2[0xd] = 0;
+  puVar2[10] = 0;
+  puVar2[0xb] = 0;
+  puVar2[8] = 0;
+  puVar2[9] = 0;
+  puVar2[6] = 0;
+  puVar2[7] = 0;
+  puVar2[4] = 0;
+  puVar2[5] = 0;
+  puVar2[2] = 0;
+  puVar2[3] = 0;
+  *puVar2 = 0;
+  puVar2[1] = 0;
+                    /* WARNING: Subroutine does not return */
+  FUN_006e1890();
+}
+
+
