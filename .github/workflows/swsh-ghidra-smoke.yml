@@ -23,13 +23,17 @@ jobs:
           sparse-checkout: |
             /tools/ghidra/
             /tests/test_swsh_ghidra_pipeline.py
+            /tests/test_swsh_ghidra_publish_end_to_end.py
             /.github/workflows/swsh-ghidra-smoke.yml
 
       - name: Test lossless output, decompilation coverage and binary comparison
         run: |
           set -euo pipefail
-          python3 -m compileall -q tools/ghidra tests/test_swsh_ghidra_pipeline.py
-          python3 -m unittest discover -s tests -p test_swsh_ghidra_pipeline.py -v
+          if ! command -v zstd; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq zstd
+          fi
+          python3 -m compileall -q tools/ghidra tests/test_swsh_ghidra_pipeline.py tests/test_swsh_ghidra_publish_end_to_end.py
+          python3 -m unittest discover -s tests -p 'test_swsh_ghidra_*.py' -v
 
       - name: Install Ghidra 12.2 runtime requirements
         uses: actions/setup-java@v4
