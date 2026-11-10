@@ -1,0 +1,101 @@
+name: SWSH Ghidra 12.2 exporter smoke tests
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/swsh-ghidra-smoke.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  synthetic-sqlite-and-ghidra:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Checkout only tools and synthetic tests
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+          sparse-checkout: |
+            /tools/ghidra/
+            /tests/test_swsh_ghidra_pipeline.py
+            /.github/workflows/swsh-ghidra-smoke.yml
+
+      - name: Test lossless output, decompilation coverage and binary comparison
+        run: |
+          set -euo pipefail
+          python3 -m compileall -q tools/ghidra tests/test_swsh_ghidra_pipeline.py
+          python3 -m unittest discover -s tests -p test_swsh_ghidra_pipeline.py -v
+
+      - name: Install Ghidra 12.2 runtime requirements
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "25"
+
+      - name: Download SHA256-verified official Ghidra
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 --retry-delay 8 \
+            "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip" \
+            -o "$RUNNER_TEMP/ghidra.zip"
+          echo "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67  $RUNNER_TEMP/ghidra.zip" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/ghidra"
+          unzip -q "$RUNNER_TEMP/ghidra.zip" -d "$RUNNER_TEMP/ghidra"
+          root="$(find "$RUNNER_TEMP/ghidra" -path '*/support/analyzeHeadless' -type f -print -quit)"
+          test -n "$root"
+          chmod +x "$root"
+          echo "HEADLESS=$root" >> "$GITHUB_ENV"
+
+      - name: Build a freely created ARM64 ELF and run Java exporter
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > "$RUNNER_TEMP/synthetic.S" <<'ASM'
+          .text
+          .global _start
+          .type _start, %function
+          _start:
+              mov x0, #42
+              ret
+          .size _start, . - _start
+          ASM
+          clang --target=aarch64-linux-gnu -fuse-ld=lld -nostdlib \
+            -Wl,-e,_start -o "$RUNNER_TEMP/synthetic.elf" "$RUNNER_TEMP/synthetic.S"
+          readelf -h "$RUNNER_TEMP/synthetic.elf" | grep AArch64
+          mkdir -p "$RUNNER_TEMP/projects" "$RUNNER_TEMP/out"
+          "$HEADLESS" "$RUNNER_TEMP/projects" SWSH_TEST \
+            -import "$RUNNER_TEMP/synthetic.elf" \
+            -scriptPath "$GITHUB_WORKSPACE/tools/ghidra" \
+            -analysisTimeoutPerFile 400 \
+            -postScript SWSHExport.java "$RUNNER_TEMP/out/export.ndjson.gz" all 5 \
+            -log "$RUNNER_TEMP/out/ghidra.log" \
+            2>&1 | tee "$RUNNER_TEMP/out/console.log"
+          test -s "$RUNNER_TEMP/out/export.ndjson.gz"
+          python3 - "$RUNNER_TEMP/out/export.ndjson.gz" <<'PY'
+          import gzip,json,sys
+          with gzip.open(sys.argv[1],"rt",encoding="utf-8") as f:
+              rows=[json.loads(x) for x in f if x.strip()]
+          print("Event counts:", {k:sum(r["type"]==k for r in rows) for k in
+                                 ("function","instruction","decompile","summary")})
+          assert rows[-1]["type"]=="summary" and rows[-1]["complete"] is True
+          assert rows[-1]["functions"]>0 and rows[-1]["instructions"]>0
+          fns=[r for r in rows if r["type"]=="function"]
+          assert any(len(r.get("body_sha256") or "")==64 for r in fns)
+          assert rows[-1]["decompiled_ok"]+rows[-1]["decompiled_failed"]==len(fns)
+          PY
+
+      - name: Upload Ghidra exporter smoke logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SWSH-Ghidra12-synthetic-export-smoke
+          retention-days: 7
+          if-no-files-found: warn
+          path: |
+            ${{ runner.temp }}/out/
