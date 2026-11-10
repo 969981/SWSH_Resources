@@ -44,7 +44,7 @@ public class SWSHExportPcodeSSA extends GhidraScript {
     }
 
     private static String address(Address address) {
-        if (address == null || address.isNoAddress()) return "";
+        if (address == null || address.equals(Address.NO_ADDRESS)) return "";
         return address.toString();
     }
 
@@ -241,8 +241,8 @@ public class SWSHExportPcodeSSA extends GhidraScript {
                             Iterator<PcodeOp> iterator = block.getIterator();
                             ArrayList<PcodeOp> blockOps = new ArrayList<>();
                             while (iterator.hasNext()) blockOps.add(iterator.next());
-                            String firstPc = blockOps.isEmpty() ? "" : address(blockOps.get(0).getSeqnum().getTarget());
-                            String lastPc = blockOps.isEmpty() ? "" : address(blockOps.get(blockOps.size()-1).getSeqnum().getTarget());
+                            String firstPc = blockOps.isEmpty() || blockOps.get(0).getSeqnum() == null ? "" : address(blockOps.get(0).getSeqnum().getTarget());
+                            String lastPc = blockOps.isEmpty() || blockOps.get(blockOps.size()-1).getSeqnum() == null ? "" : address(blockOps.get(blockOps.size()-1).getSeqnum().getTarget());
                             blockOut.write(String.join("\t",
                                 tsv(game), tsv(entry), Integer.toString(blockIndex),
                                 tsv(address(block.getStart())), tsv(address(block.getStop())),
