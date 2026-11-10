@@ -254,12 +254,14 @@ public class SWSHExportPcodeSSA extends GhidraScript {
 
                             for (int i = 0; i < block.getOutSize(); i++) {
                                 String edgeKind = "NORMAL";
-                                if (block.getOutSize() == 2) {
+                                String terminalMnemonic = blockOps.isEmpty() ? "" :
+                                    blockOps.get(blockOps.size() - 1).getMnemonic();
+                                if (block.getOutSize() == 2 && "CBRANCH".equals(terminalMnemonic)) {
                                     if (block.getOut(i).getIndex() == block.getTrueOut().getIndex()) edgeKind = "TRUE";
                                     else if (block.getOut(i).getIndex() == block.getFalseOut().getIndex()) edgeKind = "FALSE";
                                     else edgeKind = "CONDITIONAL";
-                                } else if (block.getOutSize() > 2) {
-                                    edgeKind = "SWITCH_OR_MULTIWAY";
+                                } else if (block.getOutSize() > 1) {
+                                    edgeKind = "MULTIWAY_OR_UNCONDITIONAL";
                                 }
                                 edgeOut.write(String.join("\t",
                                     tsv(game), tsv(entry), Integer.toString(blockIndex),
