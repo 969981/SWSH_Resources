@@ -239,6 +239,54 @@ ReadBytesAbsoluteAsync(offset, length, token);  // Absolute process VA
 - [SysBot SwitchUSBAsync.cs](https://github.com/kwsch/SysBot.NET/blob/master/SysBot.Base/Connection/Switch/USB/SwitchUSBAsync.cs)
 - [PKHeX MyStatus8.cs](https://github.com/kwsch/PKHeX/blob/master/PKHeX.Core/Saves/Substructures/Gen8/SWSH/MyStatus8.cs)
 
+### 6.1 SysBot 指针数组格式（与 heap 固定偏移并列提供）
+
+按照已恢复的三次 read64 解引用链，可给 SysBot 的 main-anchored pointer API 构造以下**静态候选指针数组**（最终加法不解引用）。这些数组是从 ELF 原始指令推导，不是 SysBot.NET 官方已经发布的 SWSH 指针，**必须以 PointerAll / 实机读回确认**：
+
+~~~csharp
+// 双版 v1.3.2 相同的 main 指针入口
+public IReadOnlyList<long> TrainerStatusPointer { get; } =
+    [0x02610798, 0x0, 0x1E8, 0x0];
+
+// 等价于 status + 0x60 = MyStatus 数据起点
+public IReadOnlyList<long> TrainerMyStatusPointer { get; } =
+    [0x02610798, 0x0, 0x1E8, 0x60];
+
+// 等价于 status + 0x100 = 原始 ID32
+public IReadOnlyList<long> TrainerID32Pointer { get; } =
+    [0x02610798, 0x0, 0x1E8, 0x100];
+
+// profile 是另一对象；只用于校验新建身份后的六位显示 ID 缓存
+public IReadOnlyList<long> TrainerProfileDisplayIDPointer { get; } =
+    [0x02610798, 0x0, 0x288, 0x7C];
+~~~
+
+地址解析的等价展开如下：
+
+~~~text
+PointerAll([0x02610798, 0, 0x1E8, 0x100])
+
+1. read64(MainBase + 0x02610798) = holder
+2. read64(holder + 0x0)          = manager
+3. read64(manager + 0x1E8)       = status
+4. status + 0x100                = 原始 ID32 的绝对地址
+~~~
+
+示例（需具有 SysBot 的兼容 PointerAll / PointerPeek 语义）：
+
+~~~csharp
+ulong absoluteIdPointer = await SwitchConnection.PointerAll(
+    TrainerID32Pointer, token);
+byte[] idBytes = await SwitchConnection.PointerPeek(
+    4, TrainerID32Pointer, token);
+
+uint id32 = BinaryPrimitives.ReadUInt32LittleEndian(idBytes);
+Console.WriteLine($"Resolved ID32 VA = 0x{absoluteIdPointer:X16}");
+Console.WriteLine($"Raw ID32 = {id32}; TID6 = {id32 % 1_000_000:D6}");
+~~~
+
+该绝对地址还应与 **HeapBase+0x45068FB8** 对比；若不等，优先记录原始指针值、连接端 sys-botbase 版本和游戏加载阶段。这里的数组是依据常见 sys-botbase main-anchored pointer 规则推导，若不同实现的 pointer API 有不同的 hop 约定，须按实测规则转换，不能据此认定 ELF 路径错误。
+
 ## 7. 只读运行时核验（可放入已有 SysBot 执行器方法）
 
 以下为**只读**诊断例程，假设当前类内已有 **SwitchConnection** 和 **token** 可用。运行时须在剑/盾 v1.3.2 已进入游戏、相关对象初始化完毕后执行。先读指针和验证数据，再决定是否进一步跟踪；**不执行 poke、不修改 ID 或存档**。
