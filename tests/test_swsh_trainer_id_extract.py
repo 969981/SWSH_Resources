@@ -53,7 +53,7 @@ class TrainerIdExtractTests(unittest.TestCase):
     def test_instruction_comment_conservatism(self):
         self.assertIn("调用", module.note("BL"))
         self.assertIn("写入", module.note("STR"))
-        self.assertIn("待", module.note("NOP"))
+        self.assertIn("尚未恢复", module.note("NOP"))
 
     def test_synthetic_sqlite_report(self):
         with tempfile.TemporaryDirectory() as td:
