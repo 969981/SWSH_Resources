@@ -20,3 +20,5 @@ Use versioned identifiers (for example `SWSH-1.3.2`), full original NCA-relative
 
 ## Current scope
 Source inventories cover both Sword and Shield. The checked-in binary set includes the ExeFS group under `v1.3.2/0/` and Sword v1.3.2 RomFS outputs under `v1.3.2/1/`; files above 90 MiB are represented by per-file 7-Zip volume sets. Shield RomFS remains inventory-only.
+
+- [[obsidian/SWSH-v1.3.2/30-剑盾训练家ID-Heap地址与Main原生指针链|SWSH Trainer ID heap/main pointer mapping]] — static main slot, dual dereference, SysBot heap offset correspondence and read-only runtime parity audit.
