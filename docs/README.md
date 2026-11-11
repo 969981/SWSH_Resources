@@ -15,6 +15,8 @@ Obsidian-compatible entry point. Follow Markdown links; no Obsidian plugins are 
 
 - [[obsidian/SWSH-v1.3.2/29-剑盾训练家ID-双版ARM64指令与盾版C|Dual-edition trainer ID ARM64 and Shield C]] — verified static BL targets and per-edition C pseudocode
 
+- [[obsidian/SWSH-v1.3.2/30-剑盾训练家ID-Heap地址与Main原生指针链|SWSH Trainer ID heap/main pointer mapping]] — static main slot, dual dereference, SysBot heap offset correspondence and read-only runtime parity audit.
+
 ## Note conventions
 Use versioned identifiers (for example `SWSH-1.3.2`), full original NCA-relative paths, exact hashes and reproducible commands. Use `CONFIRMED`/`CANDIDATE`/`UNKNOWN`/`REJECTED` for assertions. Distinguish raw binary, decoded containers, structured records, and runtime-confirmed semantics.
 
