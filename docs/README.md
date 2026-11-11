@@ -11,6 +11,10 @@ Obsidian-compatible entry point. Follow Markdown links; no Obsidian plugins are 
 - [[research/swsh-ghidra-full-analysis|Sword/Shield Ghidra 12.2 static analysis]] — native project, raw SQLite/NDJSON shards, C source and function-byte comparison
 - [[research-roadmap|Research roadmap]] — next technical steps
 
+- [[obsidian/SWSH-v1.3.2/28-剑盾训练家ID-双版ELF与Ghidra逐行审计|Trainer ID ELF / Ghidra audit]] — 4-byte RNG, raw ID, six-digit ID, profile copyback, exact dual-ELF export recipe
+
+- [[obsidian/SWSH-v1.3.2/29-剑盾训练家ID-双版ARM64指令与盾版C|Dual-edition trainer ID ARM64 and Shield C]] — verified static BL targets and per-edition C pseudocode
+
 ## Note conventions
 Use versioned identifiers (for example `SWSH-1.3.2`), full original NCA-relative paths, exact hashes and reproducible commands. Use `CONFIRMED`/`CANDIDATE`/`UNKNOWN`/`REJECTED` for assertions. Distinguish raw binary, decoded containers, structured records, and runtime-confirmed semantics.
 

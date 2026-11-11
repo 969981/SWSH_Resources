@@ -1,0 +1,67 @@
+name: Sword Shield trainer ID targeted ELF / Ghidra verification
+
+on:
+  push:
+    branches:
+      - research/swsh-trainer-id-elf-audit-20261111
+    paths:
+      - .github/workflows/swsh-trainer-id-slice.yml
+      - tools/ghidra/swsh_trainer_id_slice_publish.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-static-evidence:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            .github/workflows/swsh-trainer-id-slice.yml
+            tools/ghidra/swsh_trainer_id_slice_publish.py
+            tools/ghidra/swsh_trainer_id_extract.py
+            tests/test_swsh_trainer_id_extract.py
+            v1.3.2/0/sword_main.elf
+            v1.3.2/0/shield_main.elf
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/00/00d87d80.c
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01006f50.c
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524cf0.c
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524d00.c
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524d10.c
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/annotations_v1/shield/shield_annotated_c.zip.part0000.bin
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/annotations_v1/shield/shield_annotated_c.zip.part0001.bin
+            derived/v1.3.2/Ghidra_12.2_Run_42771375134/annotations_v1/shield/annotated_c_parts_manifest.json
+            docs/obsidian/SWSH-v1.3.2/28-剑盾训练家ID-双版ELF与Ghidra逐行审计.md
+            docs/obsidian/SWSH-v1.3.2/29-剑盾训练家ID-双版ARM64指令与盾版C.md
+
+      - name: Check Python exporter syntax
+        run: python3 -m py_compile tools/ghidra/swsh_trainer_id_slice_publish.py
+
+      - name: Compile both trainer ID tools and focused tests
+        run: python3 -m py_compile tools/ghidra/swsh_trainer_id_extract.py tests/test_swsh_trainer_id_extract.py
+
+      - name: Run focused synthetic ELF / SQLite tests
+        run: python3 -m unittest discover -s tests -p test_swsh_trainer_id_extract.py -v
+
+      - name: Extract byte-backed ARM64 windows and both versions' Ghidra C
+        run: python3 tools/ghidra/swsh_trainer_id_slice_publish.py
+
+      - name: Publish text-only Obsidian evidence (no source binaries)
+        run: |
+          set -euo pipefail
+          OUTPUT="docs/obsidian/SWSH-v1.3.2/29-剑盾训练家ID-双版ARM64指令与盾版C.md"
+          test -s "$OUTPUT"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --sparse "$OUTPUT"
+          if git diff --cached --quiet; then
+            echo "No changed evidence files"
+          else
+            git commit -m "docs(swsh): publish SHA-verified Sword Shield ARM64 and Ghidra C evidence"
+            git push origin HEAD:refs/heads/research/swsh-trainer-id-elf-audit-20261111
+          fi
