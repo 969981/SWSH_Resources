@@ -24,6 +24,8 @@ jobs:
           sparse-checkout: |
             .github/workflows/swsh-trainer-id-slice.yml
             tools/ghidra/swsh_trainer_id_slice_publish.py
+            tools/ghidra/swsh_trainer_id_extract.py
+            tests/test_swsh_trainer_id_extract.py
             v1.3.2/0/sword_main.elf
             v1.3.2/0/shield_main.elf
             derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/00/00d87d80.c
@@ -39,6 +41,12 @@ jobs:
 
       - name: Check Python exporter syntax
         run: python3 -m py_compile tools/ghidra/swsh_trainer_id_slice_publish.py
+
+      - name: Compile both trainer ID tools and focused tests
+        run: python3 -m py_compile tools/ghidra/swsh_trainer_id_extract.py tests/test_swsh_trainer_id_extract.py
+
+      - name: Run focused synthetic ELF / SQLite tests
+        run: python3 -m unittest discover -s tests -p test_swsh_trainer_id_extract.py -v
 
       - name: Extract byte-backed ARM64 windows and both versions' Ghidra C
         run: python3 tools/ghidra/swsh_trainer_id_slice_publish.py
