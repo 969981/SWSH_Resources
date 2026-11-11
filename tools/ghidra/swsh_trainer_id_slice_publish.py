@@ -48,7 +48,7 @@ def get_source_c(game: str, entry: int, zf: zipfile.ZipFile) -> str:
     if game == "sword":
         original = SWORD_C / f"{entry:08x}"[:2] / name
         return original.read_text(encoding="utf-8")
-    paths = [n for n in zf.namelist() if n.lower().endswith("/" + name)]
+    paths = [n for n in zf.namelist() if Path(n).name.lower() == name]
     if len(paths) != 1:
         raise RuntimeError(f"Shield C entry {name} ambiguous/missing: {paths[:5]}")
     return zf.read(paths[0]).decode("utf-8")
