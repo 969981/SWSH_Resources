@@ -363,12 +363,12 @@ public async Task AuditTrainerIdHeapAndMain(CancellationToken token)
 
 ## 9. 静态证据入口
 
-- [Sword Ghidra 原始生成器 C](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01006f50.c)
-- [Sword Ghidra 原始 ID32 setter C](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524cf0.c)
-- [Sword Ghidra 原始六位 ID C](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524d10.c)
-- [Sword Ghidra 原始 MyStatus 起点 getter](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524df0.c)
-- [Sword Ghidra 原始 Watt setter](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524e10.c)
-- [Sword Ghidra 资料结构拷贝](../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/014fba10.c)
+- [Sword Ghidra 原始生成器 C](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01006f50.c)
+- [Sword Ghidra 原始 ID32 setter C](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524cf0.c)
+- [Sword Ghidra 原始六位 ID C](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524d10.c)
+- [Sword Ghidra 原始 MyStatus 起点 getter](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524df0.c)
+- [Sword Ghidra 原始 Watt setter](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/01524e10.c)
+- [Sword Ghidra 资料结构拷贝](../../../derived/v1.3.2/Ghidra_12.2_Run_42771375134/sword/c/01/014fba10.c)
 - 双版 Shield C/ARM64、真实 BL 目标及按原始 ELF SHA 校验的导出结果：[[29-剑盾训练家ID-双版ARM64指令与盾版C]]。
 
-> 仓库相对链接从 docs/obsidian/SWSH-v1.3.2/ 出发，原始 Ghidra C 的正确相对路径应为 **../../../derived/**；以上链接请优先从主仓库路径访问，若 Obsidian 未解析，使用已发布的 GitHub 文件浏览器或前两份审计文档的链接。
+> 上述原始 Ghidra C 链接相对于本篇文档的目录，使用 ../../../derived/ 回到仓库根目录。
