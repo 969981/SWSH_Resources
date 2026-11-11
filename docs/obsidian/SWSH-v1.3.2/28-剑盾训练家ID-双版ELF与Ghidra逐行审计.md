@@ -568,6 +568,24 @@ void FUN_010072d0(void) // 反编译变量或函数声明；具体类型可能�
 
 同仓库的 `tools/ghidra/swsh_trainer_id_extract.py` 是面向 **原版双 ELF + 真实 Ghidra SQLite** 的只读提取器。恢复 SQLite（先运行已有的 `swsh_restore_split.py`），调用提取器可以输出全部指定函数的 Ghidra 指令地址、真实 instruction bytes、分支引用、已恢复 C 伪代码和中性逐行汇编注释，生成单独的 Sword/Shield 两份 Markdown，填补本笔记当前缺失的双版汇编。
 
+
+### 从仓库数据实际生成双版原生汇编（只读）
+
+在仓库根目录执行；恢复脚本会校验 SQLite 完整性及分片 SHA，下面的目录必须是尚未存在或空目录：
+
+```bash
+RUN=derived/v1.3.2/Ghidra_12.2_Run_42771375134
+python3 tools/ghidra/swsh_restore_split.py --source "$RUN/sword" --out artifacts/id-sword-restored --no-project
+python3 tools/ghidra/swsh_restore_split.py --source "$RUN/shield" --out artifacts/id-shield-restored --no-project
+python3 tools/ghidra/swsh_trainer_id_extract.py \
+  --repo . \
+  --sword-sqlite artifacts/id-sword-restored/sword.sqlite \
+  --shield-sqlite artifacts/id-shield-restored/shield.sqlite \
+  --out artifacts/swsh-trainer-id
+```
+
+预期输出文件：`sword-trainer-id-asm.md`、`shield-trainer-id-asm.md`、`summary.json`。**只有真正执行并看到 `ELF_MATCH` 的指令才有原始机器码核验证据**；脚本自身提交不等于已经执行。检查 `summary.json` 中指定 BL 位置是否为 `CALL_INSTRUCTION`，并阅读 Ghidra 的 `references_full` 调用目标；如果任何函数为 `NOT_FOUND`、`PARTIAL` 或 ELF hash 不符，应停止做“双版本已验证”结论。
+
 ## 7. 尚需验收的断点与对账
 
 1. **两版函数真实边界：** 在 Ghidra SQLite 中核对 entry、body_min/max、body_bytes、body_sha256；以实际 `instructions` 和 `references_full` 表为准，核查 01006F98/01006FC8、01006FA4/01006FD4、00D87F18/00D87F4C 的 BL 目标。
