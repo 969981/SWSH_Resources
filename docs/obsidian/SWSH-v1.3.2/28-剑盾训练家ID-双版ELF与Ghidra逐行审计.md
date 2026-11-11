@@ -3,13 +3,13 @@ tags: [SWSH, Sword, Shield, ELF, ARM64, Ghidra, TrainerID, RE]
 game_version: "1.3.2"
 tool: "Ghidra 12.2"
 source_run: "42771375134"
-evidence: "SWORD_STATIC_CONFIRMED / SHIELD_TARGETS_PENDING_BYTE_EXTRACTION"
+evidence: "SWORD_AND_SHIELD_STATIC_CORE_CONFIRMED / RUNTIME_PENDING"
 date: "2026-11-11"
 ---
 
 # 剑盾 v1.3.2 新建训练家 ID — 双版 ELF / 逐行注释 / 状态机
 
-> **结论先行：** 剑版原生链条已能由仓库 Ghidra C 独立验证：`nn::crypto::GenerateCryptographicallyRandomBytes(&value, 4)` → `status+0x100 = value` → `value % 1000000` → 资料快照的 `+0x1C` → `profile+0x60` 复制回写。**但它不是 Nintendo Account Uid 的生成算法，也不等于玩家在线账户的六位 ID。** 盾版下述函数入口目前是待由盾版原始指令独立复核的候选点，不能把剑版 C 冒充盾版反编译。
+> **结论先行：** 剑版原生链条已能由仓库 Ghidra C 独立验证：`nn::crypto::GenerateCryptographicallyRandomBytes(&value, 4)` → `status+0x100 = value` → `value % 1000000` → 资料快照的 `+0x1C` → `profile+0x60` 复制回写。**但它不是 Nintendo Account Uid 的生成算法，也不等于玩家在线账户的六位 ID。** 盾版已由真实 ELF 反汇编与盾版独立 Ghidra C 核实五个核心函数及四个 BL 调用点，详见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]]；运行时状态分发及存档持久化仍未验证。
 
 ## 1. 完整 ELF 与证据来源
 
@@ -22,16 +22,16 @@ date: "2026-11-11"
 
 | 语义 | 剑 Ghidra VA → main+RVA | 盾 Ghidra VA → main+RVA | 证据 |
 |---|---|---|---|
-| 状态分发 | `00D87D80 → C87D80` | `00D87D80 → C87D80` | 剑 Ghidra C；盾待独立核对 |
-| 新建流程 | `01006F50 → F06F50` | `01006F80 → F06F80` | 剑 Ghidra C；盾待独立核对 |
-| ID32 setter | `01524CF0 → 1424CF0` | `01524D20 → 1424D20` | 剑 Ghidra C；盾待独立核对 |
-| ID32 getter | `01524D00 → 1424D00` | `01524D30 → 1424D30` | 剑 Ghidra C；盾待独立核对 |
-| 六位显示 ID | `01524D10 → 1424D10` | `01524D40 → 1424D40` | 剑 Ghidra C；盾待独立核对 |
-| RNG callsite | `01006F98 → F06F98` | `01006FC8 → F06FC8` | 地址来自研究候选；须机器码对照 |
-| ID setter callsite | `01006FA4 → F06FA4` | `01006FD4 → F06FD4` | 地址来自研究候选；须机器码对照 |
-| 分发两处生成器调用 | `00D87F18 / 00D87F4C → C87F18 / C87F4C` | 相同候选位置 | 剑两条控制流可见；精确指令须对账 |
+| 状态分发 | `00D87D80 → C87D80` | `00D87D80 → C87D80` | 双版静态验证，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| 新建流程 | `01006F50 → F06F50` | `01006F80 → F06F80` | 双版静态验证，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| ID32 setter | `01524CF0 → 1424CF0` | `01524D20 → 1424D20` | 双版静态验证，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| ID32 getter | `01524D00 → 1424D00` | `01524D30 → 1424D30` | 双版静态验证，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| 六位显示 ID | `01524D10 → 1424D10` | `01524D40 → 1424D40` | 双版静态验证，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| RNG callsite | `01006F98 → F06F98` | `01006FC8 → F06FC8` | 双版原始 BL 已核对，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| ID setter callsite | `01006FA4 → F06FA4` | `01006FD4 → F06FD4` | 双版原始 BL 已核对，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
+| 分发两处生成器调用 | `00D87F18 / 00D87F4C → C87F18 / C87F4C` | 相同候选位置 | 双版 BL 指向各自生成器，见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]] |
 
-**注意：** `00D87F18` 等是**调用指令的位置**，不能视作新函数入口。该笔记没有将未经实际提取的 ARM64 字节伪造为“已验证汇编”。
+**注意：** `00D87F18` 等是**调用指令的位置**，不能视作新函数入口。本页主要呈现剑版 Ghidra C 逐行附注；已完成的双版 ARM64 指令窗口和盾版 C 见 [[29-剑盾训练家ID-双版ARM64指令与盾版C]]。
 
 ## 2. status / profile 对象关系（剑版静态 CONFIRMED）
 
@@ -564,7 +564,7 @@ void FUN_010072d0(void) // 反编译变量或函数声明；具体类型可能�
 
 ## 6. 盾版完整提取方法及当前限制
 
-盾版 Ghidra 导出是 `47984` 个函数、`47979` 个成功 C、`5` 个失败；原生数据库在 [shield/database](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/database)，完整的逐函数注释 C 位于 [shield/annotations_v1](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/annotations_v1/shield) 的分片 ZIP，原始记录是 [shield/ndjson](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/ndjson)。**本次 GitHub 文本接口不能从二进制 ZIP/ELF 中返回指定 ARM64 字节或指定盾版 C。** 因此这里不编造 Shield 指令逐行注释，也不冒称与剑版完全相同。
+盾版 Ghidra 导出是 `47984` 个函数、`47979` 个成功 C、`5` 个失败；原生数据库在 [shield/database](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/database)，完整的逐函数注释 C 位于 [shield/annotations_v1](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/annotations_v1/shield) 的分片 ZIP，原始记录是 [shield/ndjson](https://github.com/969981/SWSH_Resources/tree/master/derived/v1.3.2/Ghidra_12.2_Run_42771375134/shield/ndjson)。**GitHub 文本接口不能直接读取二进制 ZIP/ELF，但定向 CI 已按 SHA-256 校验两份 ELF 并恢复了盾版 ZIP 内的五个核心函数 C，产出 [[29-剑盾训练家ID-双版ARM64指令与盾版C]]。** 这些是静态反汇编窗口与 C 恢复证据，不是原 Ghidra 精确非连续 CFG/实机保存验收。
 
 同仓库的 `tools/ghidra/swsh_trainer_id_extract.py` 是面向 **原版双 ELF + 真实 Ghidra SQLite** 的只读提取器。恢复 SQLite（先运行已有的 `swsh_restore_split.py`），调用提取器可以输出全部指定函数的 Ghidra 指令地址、真实 instruction bytes、分支引用、已恢复 C 伪代码和中性逐行汇编注释，生成单独的 Sword/Shield 两份 Markdown，填补本笔记当前缺失的双版汇编。
 
@@ -594,4 +594,4 @@ python3 tools/ghidra/swsh_trainer_id_extract.py \
 4. **持久化：** 经正式保存、冷重启再观察 `status+0x100` 与 `profile+0x7C`，并追踪真实保存回调；不能因为内存写入就宣称存档完成。
 5. **账户区别：** `nn::account::ListOpenUsers` 在后处理 `FUN_00D87FC0` 中存在，但不是 4 字节随机训练家 ID 的生成调用；不要把 Switch 平台 Uid、游戏原始 ID32、六位显示 ID 混作一个字段。
 
-**证据状态：** 剑版 C 静态恢复 **CONFIRMED**；盾版入口和呼叫指令 **CANDIDATE / 需要从盾版 Ghidra DB 或 ELF 逐字节验证**；两版运行时 ID 写回和冷启动持久化 **NOT_OBSERVED**。
+**证据状态：** 剑版 C 静态恢复 **CONFIRMED**；盾版核心函数入口/五份 Ghidra C/四个调用指令 **CONFIRMED（源于 ELF 静态反汇编和已保存的 Ghidra C）**；完整函数非连续范围仍需 Ghidra SQLite 核对；两版运行时 ID 写回和冷启动持久化 **NOT_OBSERVED**。
