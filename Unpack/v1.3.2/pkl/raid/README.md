@@ -18,7 +18,7 @@ These are the five fixed-width Pokémon Sword/Shield Gen8 legality encounter bin
 
 ## Provenance and limits
 
-This batch contains **byte-identical upstream PKHeX reference resources** with hashes and layout validation in [manifest.json](manifest.json). **We did not yet reproduce these five serialized bytes from the original `nest_hole_encount.bin` / distribution FlatBuffers**; that ROM-to-PKL equivalence remains unverified. The original source's key relationships (`TableID`, `LevelTableID`, drop/reward IDs) also require independent joins for a complete raid database.
+This batch contains **byte-identical upstream PKHeX reference resources** with hashes and layout validation in [manifest.json](manifest.json). **Max Lair is now independently reproduced byte-for-byte (273 records, 3,822 bytes) from original `v1.3.2/1/bin/appli/chika/data_table/underground_exploration_poke.bin` using `scripts/rebuild_swsh_max_lair.py`.** Normal nest and historical distribution tables have **not** yet been fully reconstructed byte-for-byte from ROM / BCAT data. The original nest source is identified as `data_table.gfpak` member `000008_A5963232100F7DEE.bin` (394 tables, 4,728 raw entries), and its candidate templates have partial parity with the curated PKHeX references. See `scripts/audit_swsh_raw_nests.py`. The original source's key relationships (`TableID`, `LevelTableID`, drop/reward IDs) also require independent joins for a complete raid database.
 
 The distribution entries are a *curated PKHeX reference snapshot*, **not a statement that an event is live on 2026-11-23**, and not an exhaustive historical event-calendar record. Do not infer probability or actual game version from fixed entries alone.
 
@@ -28,6 +28,8 @@ From the repository root:
 
 ```powershell
 python scripts/export_swsh_special_encounters.py --validate-only
+python scripts/rebuild_swsh_max_lair.py --validate-only
+python scripts/audit_swsh_raw_nests.py --validate-only
 python scripts/export_swsh_special_encounters.py --out-dir artifacts/swsh-special
 ```
 
