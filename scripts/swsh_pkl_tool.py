@@ -479,7 +479,9 @@ def main() -> int:
     elif args.action == "repack":
         result = repack(args.file.resolve(), data, args.json.resolve(), args.output.resolve())
     else:
-        _, second = load(args.other.resolve(), args.kind)
+        # A custom output filename cannot identify its record type: use the
+        # successfully validated first file's format to decode the second.
+        _, second = load(args.other.resolve(), document["kind"])
         result = diff_documents(document, second)
     print(json.dumps(result, ensure_ascii=False, indent=2))
     return 0
