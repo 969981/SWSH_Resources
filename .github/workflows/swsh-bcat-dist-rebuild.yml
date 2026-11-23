@@ -1,0 +1,43 @@
+name: SWSH historical BCAT to PKHeX Dist audit
+
+on:
+  push:
+    paths:
+      - ".github/workflows/swsh-bcat-dist-rebuild.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: swsh-bcat-dist-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  historic-dist:
+    # Run only for the repository that owns the pinned original v1.3.2 evidence.
+    if: github.repository == '969981/SWSH_Resources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify pinned archive references and original game data
+        run: |
+          python scripts/audit_swsh_bcat_eventgallery.py
+          python scripts/export_swsh_special_encounters.py --validate-only
+      - name: Download source-only BCAT encounter members and audit PKHeX Dist mapping
+        run: |
+          python scripts/rebuild_swsh_bcat_dist.py --all --download --require-complete --out-dir artifacts/swsh-bcat-dist
+      - name: Publish audit summaries only (no BCAT payloads)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: swsh-bcat-dist-source-audit
+          if-no-files-found: warn
+          retention-days: 14
+          path: |
+            artifacts/swsh-bcat-dist/bcat_to_dist_summary.json
+            artifacts/swsh-bcat-dist/bcat_source_file_proof.json
