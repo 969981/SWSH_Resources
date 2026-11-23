@@ -9,6 +9,10 @@ on:
   pull_request:
   workflow_dispatch:
 
+concurrency:
+  group: swsh-tooling-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
@@ -24,6 +28,12 @@ jobs:
         run: python -m compileall -q scripts tests
       - name: Synthetic tests
         run: python -m unittest discover -s tests -v
+      - name: Source-to-reference Nest discrepancy audit
+        run: python scripts/diagnose_swsh_nest_discrepancies.py --validate-only
+      - name: Historical BCAT Index 001 to Dist record audit (pinned upstream bytes)
+        run: >-
+          python scripts/rebuild_swsh_bcat_dist.py
+          --index 001 --download --require-complete --validate-only
 
   compare-inventories:
     runs-on: ubuntu-latest

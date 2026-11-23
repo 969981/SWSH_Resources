@@ -1,0 +1,6435 @@
+{
+ "schema_version": 1,
+ "game": "SWSH",
+ "game_version": "1.3.2",
+ "pkhex_repo": "kwsch/PKHeX",
+ "pkhex_commit": "0660d1e1f4924b8478daec73281bb8071a82ad19",
+ "pkhex_source_path": "PKHeX.Core/Legality/Encounters/Data/Gen8/Encounters8.cs",
+ "pkhex_source_blob_sha1": "b01b60a9d35fb865f3191b923dcec65935cd74ea",
+ "upstream_license": "GPL-3.0",
+ "original_sources": {
+  "static_encounters": {
+   "csv": "Unpack/v1.3.2/catalog/static_encounters.csv",
+   "csv_blob_sha1": "de96c4c6f73a27f923ac1289798b6d47c24aed71",
+   "rom_binary": "v1.3.2/1/bin/script_event_data/event_encount_data.bin",
+   "rom_sha256": "5d31d4c0d6039fb34682f58ac8fbb5a17fe839e05e78795e95238f7c4529a006"
+  },
+  "gift_encounters": {
+   "csv": "Unpack/v1.3.2/catalog/gift_encounters.csv",
+   "csv_blob_sha1": "bf2e10eb86aff9d70d00984a8a3ede341ac1a1de",
+   "rom_binary": "v1.3.2/1/bin/script_event_data/add_poke.bin",
+   "rom_sha256": "1c3d0d8c8b6bc1d1ec5d1d68120dca263c75b865cb32b5099f9e63fb0853419b"
+  }
+ },
+ "criteria": "species + form + level, and PKHeX explicit Moves if given, PKHeX true CanGigantamax if given; do NOT use PKHeX location against raw EncounterScenario. Shiny, ball and implicit defaults are retained as fields but NOT a confirmed equivalence.",
+ "evidence_grade": "CANDIDATE_JOIN_ONLY__NOT_LEGALITY_OR_RUNTIME_CONFIRMED",
+ "reference_template_count": 676,
+ "coverage_baseline": {
+  "static_encounters": {
+   "rows": 647,
+   "zero": 45,
+   "single": 476,
+   "multiple": 126,
+   "candidate_count_histogram": {
+    "0": 45,
+    "1": 476,
+    "2": 112,
+    "3": 12,
+    "4": 1,
+    "5": 1
+   }
+  },
+  "gift_encounters": {
+   "rows": 31,
+   "zero": 0,
+   "single": 31,
+   "multiple": 0,
+   "candidate_count_histogram": {
+    "1": 31
+   }
+  }
+ },
+ "limitations": [
+  "A single candidate is NOT a byte-exact match, legality proof, or proof of gameplay reachability.",
+  "Original event_encount_data has script-stage/alternate encounters; some raw rows may resolve to one PKHeX logical template.",
+  "C# PKHeX static templates include weather, crossover locations, no-mark and IV semantics not established by this join.",
+  "Do not convert 647 original static rows to PKL by applying Nest/Dist fixed record formats.",
+  "Source original records do not encode reliable Sword/Shield eligibility; template group is PKHeX-side only."
+ ],
+ "templates": [
+  {
+   "id": "StaticSWSH:22",
+   "source_line": 22,
+   "group": "StaticSWSH",
+   "species": 810,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 6
+  },
+  {
+   "id": "StaticSWSH:23",
+   "source_line": 23,
+   "group": "StaticSWSH",
+   "species": 813,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 6
+  },
+  {
+   "id": "StaticSWSH:24",
+   "source_line": 24,
+   "group": "StaticSWSH",
+   "species": 816,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 6
+  },
+  {
+   "id": "StaticSWSH:26",
+   "source_line": 26,
+   "group": "StaticSWSH",
+   "species": 772,
+   "level": 50,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 158
+  },
+  {
+   "id": "StaticSWSH:27",
+   "source_line": 27,
+   "group": "StaticSWSH",
+   "species": 848,
+   "level": 1,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Luxury",
+   "location": 40
+  },
+  {
+   "id": "StaticSWSH:29",
+   "source_line": 29,
+   "group": "StaticSWSH",
+   "species": 880,
+   "level": 10,
+   "form": 0,
+   "ball_expression": "Ball.Poke",
+   "location": 68
+  },
+  {
+   "id": "StaticSWSH:30",
+   "source_line": 30,
+   "group": "StaticSWSH",
+   "species": 881,
+   "level": 10,
+   "form": 0,
+   "ball_expression": "Ball.Poke",
+   "location": 68
+  },
+  {
+   "id": "StaticSWSH:31",
+   "source_line": 31,
+   "group": "StaticSWSH",
+   "species": 882,
+   "level": 10,
+   "form": 0,
+   "ball_expression": "Ball.Poke",
+   "location": 68
+  },
+  {
+   "id": "StaticSWSH:32",
+   "source_line": 32,
+   "group": "StaticSWSH",
+   "species": 883,
+   "level": 10,
+   "form": 0,
+   "ball_expression": "Ball.Poke",
+   "location": 68
+  },
+  {
+   "id": "StaticSWSH:34",
+   "source_line": 34,
+   "group": "StaticSWSH",
+   "species": 4,
+   "level": 5,
+   "form": 0,
+   "must_gmax": true,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 6
+  },
+  {
+   "id": "StaticSWSH:35",
+   "source_line": 35,
+   "group": "StaticSWSH",
+   "species": 25,
+   "level": 10,
+   "form": 0,
+   "must_gmax": true,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 156
+  },
+  {
+   "id": "StaticSWSH:36",
+   "source_line": 36,
+   "group": "StaticSWSH",
+   "species": 133,
+   "level": 10,
+   "form": 0,
+   "must_gmax": true,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 156
+  },
+  {
+   "id": "StaticSWSH:39",
+   "source_line": 39,
+   "group": "StaticSWSH",
+   "species": 1,
+   "level": 5,
+   "form": 0,
+   "must_gmax": true,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 196
+  },
+  {
+   "id": "StaticSWSH:40",
+   "source_line": 40,
+   "group": "StaticSWSH",
+   "species": 7,
+   "level": 5,
+   "form": 0,
+   "must_gmax": true,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 196
+  },
+  {
+   "id": "StaticSWSH:41",
+   "source_line": 41,
+   "group": "StaticSWSH",
+   "species": 137,
+   "level": 25,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 196
+  },
+  {
+   "id": "StaticSWSH:42",
+   "source_line": 42,
+   "group": "StaticSWSH",
+   "species": 891,
+   "level": 10,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 196
+  },
+  {
+   "id": "StaticSWSH:44",
+   "source_line": 44,
+   "group": "StaticSWSH",
+   "species": 79,
+   "level": 10,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:45",
+   "source_line": 45,
+   "group": "StaticSWSH",
+   "species": 722,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:46",
+   "source_line": 46,
+   "group": "StaticSWSH",
+   "species": 725,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:47",
+   "source_line": 47,
+   "group": "StaticSWSH",
+   "species": 728,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:48",
+   "source_line": 48,
+   "group": "StaticSWSH",
+   "species": 26,
+   "level": 30,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:49",
+   "source_line": 49,
+   "group": "StaticSWSH",
+   "species": 27,
+   "level": 5,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:50",
+   "source_line": 50,
+   "group": "StaticSWSH",
+   "species": 37,
+   "level": 5,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:51",
+   "source_line": 51,
+   "group": "StaticSWSH",
+   "species": 52,
+   "level": 5,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:52",
+   "source_line": 52,
+   "group": "StaticSWSH",
+   "species": 103,
+   "level": 30,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:53",
+   "source_line": 53,
+   "group": "StaticSWSH",
+   "species": 105,
+   "level": 30,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:54",
+   "source_line": 54,
+   "group": "StaticSWSH",
+   "species": 50,
+   "level": 20,
+   "form": 1,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:56",
+   "source_line": 56,
+   "group": "StaticSWSH",
+   "species": 789,
+   "level": 5,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Poke",
+   "location": 206
+  },
+  {
+   "id": "StaticSWSH:57",
+   "source_line": 57,
+   "group": "StaticSWSH",
+   "species": 803,
+   "level": 20,
+   "form": 0,
+   "shiny_expression": "Never",
+   "ball_expression": "Ball.Beast",
+   "location": 244
+  },
+  {
+   "id": "StaticSWSH:60",
+   "source_line": 60,
+   "group": "StaticSWSH",
+   "species": 896,
+   "level": 75,
+   "form": 0,
+   "shiny_expression": "Never",
+   "location": 220
+  },
+  {
+   "id": "StaticSWSH:61",
+   "source_line": 61,
+   "group": "StaticSWSH",
+   "species": 897,
+   "level": 75,
+   "form": 0,
+   "shiny_expression": "Never",
+   "location": 220
+  },
+  {
+   "id": "StaticSWSH:65",
+   "source_line": 65,
+   "group": "StaticSWSH",
+   "species": 890,
+   "level": 60,
+   "form": 0,
+   "moves": [
+    440,
+    406,
+    53,
+    744
+   ],
+   "shiny_expression": "Never",
+   "location": 66
+  },
+  {
+   "id": "StaticSWSH:68",
+   "source_line": 68,
+   "group": "StaticSWSH",
+   "species": 37,
+   "level": 24,
+   "form": 0,
+   "location": 24
+  },
+  {
+   "id": "StaticSWSH:69",
+   "source_line": 69,
+   "group": "StaticSWSH",
+   "species": 607,
+   "level": 25,
+   "form": 0,
+   "location": 24
+  },
+  {
+   "id": "StaticSWSH:70",
+   "source_line": 70,
+   "group": "StaticSWSH",
+   "species": 850,
+   "level": 25,
+   "form": 0,
+   "location": 24
+  },
+  {
+   "id": "StaticSWSH:72",
+   "source_line": 72,
+   "group": "StaticSWSH",
+   "species": 618,
+   "level": 25,
+   "form": 1,
+   "moves": [
+    389,
+    319,
+    279,
+    341
+   ],
+   "location": 54
+  },
+  {
+   "id": "StaticSWSH:73",
+   "source_line": 73,
+   "group": "StaticSWSH",
+   "species": 618,
+   "level": 48,
+   "form": 1,
+   "moves": [
+    779,
+    330,
+    340,
+    334
+   ],
+   "location": 8
+  },
+  {
+   "id": "StaticSWSH:74",
+   "source_line": 74,
+   "group": "StaticSWSH",
+   "species": 527,
+   "level": 16,
+   "form": 0,
+   "moves": [
+    0
+   ],
+   "location": 30
+  },
+  {
+   "id": "StaticSWSH:75",
+   "source_line": 75,
+   "group": "StaticSWSH",
+   "species": 838,
+   "level": 18,
+   "form": 0,
+   "moves": [
+    488,
+    397,
+    229,
+    33
+   ],
+   "location": 30
+  },
+  {
+   "id": "StaticSWSH:76",
+   "source_line": 76,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 24,
+   "form": 0,
+   "moves": [
+    317,
+    29,
+    55,
+    44
+   ],
+   "location": 54
+  },
+  {
+   "id": "StaticSWSH:77",
+   "source_line": 77,
+   "group": "StaticSWSH",
+   "species": 423,
+   "level": 50,
+   "form": 1,
+   "moves": [
+    240,
+    414,
+    330,
+    246
+   ],
+   "location": 54
+  },
+  {
+   "id": "StaticSWSH:78",
+   "source_line": 78,
+   "group": "StaticSWSH",
+   "species": 859,
+   "level": 31,
+   "form": 0,
+   "moves": [
+    259,
+    389,
+    207,
+    372
+   ],
+   "location": 76
+  },
+  {
+   "id": "StaticSWSH:79",
+   "source_line": 79,
+   "group": "StaticSWSH",
+   "species": 860,
+   "level": 38,
+   "form": 0,
+   "moves": [
+    793,
+    399,
+    259,
+    389
+   ],
+   "location": 76
+  },
+  {
+   "id": "StaticSWSH:80",
+   "source_line": 80,
+   "group": "StaticSWSH",
+   "species": 835,
+   "level": 8,
+   "form": 0,
+   "moves": [
+    39,
+    33,
+    609,
+    0
+   ],
+   "location": 18
+  },
+  {
+   "id": "StaticSWSH:81",
+   "source_line": 81,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 50,
+   "form": 0,
+   "moves": [
+    710,
+    746,
+    68,
+    317
+   ],
+   "location": 18
+  },
+  {
+   "id": "StaticSWSH:82",
+   "source_line": 82,
+   "group": "StaticSWSH",
+   "species": 833,
+   "level": 8,
+   "form": 0,
+   "moves": [
+    44,
+    55,
+    0,
+    0
+   ],
+   "location": 18
+  },
+  {
+   "id": "StaticSWSH:83",
+   "source_line": 83,
+   "group": "StaticSWSH",
+   "species": 131,
+   "level": 55,
+   "form": 0,
+   "moves": [
+    56,
+    240,
+    58,
+    34
+   ],
+   "location": 18
+  },
+  {
+   "id": "StaticSWSH:84",
+   "source_line": 84,
+   "group": "StaticSWSH",
+   "species": 862,
+   "level": 50,
+   "form": 0,
+   "moves": [
+    269,
+    68,
+    792,
+    184
+   ],
+   "location": 18
+  },
+  {
+   "id": "StaticSWSH:85",
+   "source_line": 85,
+   "group": "StaticSWSH",
+   "species": 822,
+   "level": 18,
+   "form": 0,
+   "moves": [
+    681,
+    468,
+    31,
+    365
+   ],
+   "shiny_expression": "Never",
+   "location": 28
+  },
+  {
+   "id": "StaticSWSH:86",
+   "source_line": 86,
+   "group": "StaticSWSH",
+   "species": 50,
+   "level": 17,
+   "form": 0,
+   "moves": [
+    523,
+    189,
+    310,
+    45
+   ],
+   "location": 32
+  },
+  {
+   "id": "StaticSWSH:87",
+   "source_line": 87,
+   "group": "StaticSWSH",
+   "species": 830,
+   "level": 22,
+   "form": 0,
+   "moves": [
+    178,
+    496,
+    75,
+    47
+   ],
+   "location": 40
+  },
+  {
+   "id": "StaticSWSH:88",
+   "source_line": 88,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 40,
+   "form": 0,
+   "moves": [
+    404,
+    350,
+    446,
+    157
+   ],
+   "location": 86
+  },
+  {
+   "id": "StaticSWSH:89",
+   "source_line": 89,
+   "group": "StaticSWSH",
+   "species": 870,
+   "level": 40,
+   "form": 0,
+   "moves": [
+    748,
+    660,
+    179,
+    203
+   ],
+   "location": 86
+  },
+  {
+   "id": "StaticSWSH:90",
+   "source_line": 90,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 55,
+   "form": 0,
+   "moves": [
+    573,
+    329,
+    104,
+    182
+   ],
+   "location": 90
+  },
+  {
+   "id": "StaticSWSH:91",
+   "source_line": 91,
+   "group": "StaticSWSH",
+   "species": 853,
+   "level": 50,
+   "form": 0,
+   "moves": [
+    753,
+    576,
+    276,
+    179
+   ],
+   "location": 92
+  },
+  {
+   "id": "StaticSWSH:93",
+   "source_line": 93,
+   "group": "StaticSWSH",
+   "species": 614,
+   "level": 55,
+   "form": 0,
+   "moves": [
+    276,
+    59,
+    156,
+    329
+   ],
+   "location": 106
+  },
+  {
+   "id": "StaticSWSH:94",
+   "source_line": 94,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 55,
+   "form": 0,
+   "moves": [
+    8,
+    59,
+    452,
+    275
+   ],
+   "location": 106
+  },
+  {
+   "id": "StaticSWSH:95",
+   "source_line": 95,
+   "group": "StaticSWSH",
+   "species": 342,
+   "level": 50,
+   "form": 0,
+   "moves": [
+    242,
+    14,
+    534,
+    400
+   ],
+   "location": 34
+  },
+  {
+   "id": "StaticSWSH:101",
+   "source_line": 101,
+   "group": "StaticSWSH",
+   "species": 95,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:102",
+   "source_line": 102,
+   "group": "StaticSWSH",
+   "species": 291,
+   "level": 15,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:103",
+   "source_line": 103,
+   "group": "StaticSWSH",
+   "species": 660,
+   "level": 15,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:104",
+   "source_line": 104,
+   "group": "StaticSWSH",
+   "species": 832,
+   "level": 65,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:105",
+   "source_line": 105,
+   "group": "StaticSWSH",
+   "species": 416,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:106",
+   "source_line": 106,
+   "group": "StaticSWSH",
+   "species": 675,
+   "level": 32,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:107",
+   "source_line": 107,
+   "group": "StaticSWSH",
+   "species": 315,
+   "level": 15,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:108",
+   "source_line": 108,
+   "group": "StaticSWSH",
+   "species": 750,
+   "level": 31,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:109",
+   "source_line": 109,
+   "group": "StaticSWSH",
+   "species": 310,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:110",
+   "source_line": 110,
+   "group": "StaticSWSH",
+   "species": 25,
+   "level": 15,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:111",
+   "source_line": 111,
+   "group": "StaticSWSH",
+   "species": 660,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:112",
+   "source_line": 112,
+   "group": "StaticSWSH",
+   "species": 281,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:113",
+   "source_line": 113,
+   "group": "StaticSWSH",
+   "species": 282,
+   "level": 32,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:114",
+   "source_line": 114,
+   "group": "StaticSWSH",
+   "species": 439,
+   "level": 15,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:115",
+   "source_line": 115,
+   "group": "StaticSWSH",
+   "species": 221,
+   "level": 33,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:116",
+   "source_line": 116,
+   "group": "StaticSWSH",
+   "species": 221,
+   "level": 33,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:117",
+   "source_line": 117,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 34,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:118",
+   "source_line": 118,
+   "group": "StaticSWSH",
+   "species": 93,
+   "level": 31,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:119",
+   "source_line": 119,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 26,
+   "form": 0,
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:120",
+   "source_line": 120,
+   "group": "StaticSWSH",
+   "species": 760,
+   "level": 34,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:121",
+   "source_line": 121,
+   "group": "StaticSWSH",
+   "species": 826,
+   "level": 65,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:122",
+   "source_line": 122,
+   "group": "StaticSWSH",
+   "species": 45,
+   "level": 36,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:123",
+   "source_line": 123,
+   "group": "StaticSWSH",
+   "species": 675,
+   "level": 32,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:124",
+   "source_line": 124,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 36,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:125",
+   "source_line": 125,
+   "group": "StaticSWSH",
+   "species": 583,
+   "level": 36,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:126",
+   "source_line": 126,
+   "group": "StaticSWSH",
+   "species": 344,
+   "level": 36,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSWSH:127",
+   "source_line": 127,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 34,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:128",
+   "source_line": 128,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 65,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:129",
+   "source_line": 129,
+   "group": "StaticSWSH",
+   "species": 93,
+   "level": 34,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:130",
+   "source_line": 130,
+   "group": "StaticSWSH",
+   "species": 356,
+   "level": 40,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:131",
+   "source_line": 131,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 40,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:132",
+   "source_line": 132,
+   "group": "StaticSWSH",
+   "species": 623,
+   "level": 40,
+   "form": 0,
+   "location": 126
+  },
+  {
+   "id": "StaticSWSH:133",
+   "source_line": 133,
+   "group": "StaticSWSH",
+   "species": 569,
+   "level": 36,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:134",
+   "source_line": 134,
+   "group": "StaticSWSH",
+   "species": 119,
+   "level": 46,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:135",
+   "source_line": 135,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 46,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:136",
+   "source_line": 136,
+   "group": "StaticSWSH",
+   "species": 110,
+   "level": 65,
+   "form": 1,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:137",
+   "source_line": 137,
+   "group": "StaticSWSH",
+   "species": 221,
+   "level": 36,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:138",
+   "source_line": 138,
+   "group": "StaticSWSH",
+   "species": 750,
+   "level": 36,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:139",
+   "source_line": 139,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 36,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:140",
+   "source_line": 140,
+   "group": "StaticSWSH",
+   "species": 91,
+   "level": 46,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:141",
+   "source_line": 141,
+   "group": "StaticSWSH",
+   "species": 584,
+   "level": 47,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:142",
+   "source_line": 142,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 56,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:143",
+   "source_line": 143,
+   "group": "StaticSWSH",
+   "species": 178,
+   "level": 26,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:144",
+   "source_line": 144,
+   "group": "StaticSWSH",
+   "species": 593,
+   "level": 46,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:145",
+   "source_line": 145,
+   "group": "StaticSWSH",
+   "species": 171,
+   "level": 46,
+   "form": 0,
+   "location": 128
+  },
+  {
+   "id": "StaticSWSH:146",
+   "source_line": 146,
+   "group": "StaticSWSH",
+   "species": 195,
+   "level": 15,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:147",
+   "source_line": 147,
+   "group": "StaticSWSH",
+   "species": 99,
+   "level": 28,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:148",
+   "source_line": 148,
+   "group": "StaticSWSH",
+   "species": 660,
+   "level": 15,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:149",
+   "source_line": 149,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 65,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:150",
+   "source_line": 150,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 28,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:151",
+   "source_line": 151,
+   "group": "StaticSWSH",
+   "species": 536,
+   "level": 28,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:152",
+   "source_line": 152,
+   "group": "StaticSWSH",
+   "species": 660,
+   "level": 28,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:153",
+   "source_line": 153,
+   "group": "StaticSWSH",
+   "species": 853,
+   "level": 56,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:154",
+   "source_line": 154,
+   "group": "StaticSWSH",
+   "species": 593,
+   "level": 46,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:155",
+   "source_line": 155,
+   "group": "StaticSWSH",
+   "species": 119,
+   "level": 46,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:156",
+   "source_line": 156,
+   "group": "StaticSWSH",
+   "species": 131,
+   "level": 56,
+   "form": 0,
+   "location": 130
+  },
+  {
+   "id": "StaticSWSH:157",
+   "source_line": 157,
+   "group": "StaticSWSH",
+   "species": 612,
+   "level": 60,
+   "form": 0,
+   "location": 132
+  },
+  {
+   "id": "StaticSWSH:158",
+   "source_line": 158,
+   "group": "StaticSWSH",
+   "species": 845,
+   "level": 65,
+   "form": 0,
+   "location": 132
+  },
+  {
+   "id": "StaticSWSH:159",
+   "source_line": 159,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 60,
+   "form": 0,
+   "location": 132
+  },
+  {
+   "id": "StaticSWSH:160",
+   "source_line": 160,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 60,
+   "form": 0,
+   "location": 132
+  },
+  {
+   "id": "StaticSWSH:161",
+   "source_line": 161,
+   "group": "StaticSWSH",
+   "species": 67,
+   "level": 26,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:162",
+   "source_line": 162,
+   "group": "StaticSWSH",
+   "species": 828,
+   "level": 65,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:163",
+   "source_line": 163,
+   "group": "StaticSWSH",
+   "species": 119,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:164",
+   "source_line": 164,
+   "group": "StaticSWSH",
+   "species": 435,
+   "level": 34,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:165",
+   "source_line": 165,
+   "group": "StaticSWSH",
+   "species": 99,
+   "level": 31,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:166",
+   "source_line": 166,
+   "group": "StaticSWSH",
+   "species": 342,
+   "level": 31,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:167",
+   "source_line": 167,
+   "group": "StaticSWSH",
+   "species": 171,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:168",
+   "source_line": 168,
+   "group": "StaticSWSH",
+   "species": 224,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:169",
+   "source_line": 169,
+   "group": "StaticSWSH",
+   "species": 340,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:170",
+   "source_line": 170,
+   "group": "StaticSWSH",
+   "species": 536,
+   "level": 34,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:171",
+   "source_line": 171,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 34,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:172",
+   "source_line": 172,
+   "group": "StaticSWSH",
+   "species": 67,
+   "level": 31,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:173",
+   "source_line": 173,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 31,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:174",
+   "source_line": 174,
+   "group": "StaticSWSH",
+   "species": 596,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:175",
+   "source_line": 175,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:176",
+   "source_line": 176,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 60,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:177",
+   "source_line": 177,
+   "group": "StaticSWSH",
+   "species": 593,
+   "level": 46,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:178",
+   "source_line": 178,
+   "group": "StaticSWSH",
+   "species": 350,
+   "level": 60,
+   "form": 0,
+   "location": 134
+  },
+  {
+   "id": "StaticSWSH:179",
+   "source_line": 179,
+   "group": "StaticSWSH",
+   "species": 208,
+   "level": 50,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:180",
+   "source_line": 180,
+   "group": "StaticSWSH",
+   "species": 738,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:181",
+   "source_line": 181,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:182",
+   "source_line": 182,
+   "group": "StaticSWSH",
+   "species": 625,
+   "level": 52,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:183",
+   "source_line": 183,
+   "group": "StaticSWSH",
+   "species": 884,
+   "level": 65,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:184",
+   "source_line": 184,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:185",
+   "source_line": 185,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:186",
+   "source_line": 186,
+   "group": "StaticSWSH",
+   "species": 750,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:187",
+   "source_line": 187,
+   "group": "StaticSWSH",
+   "species": 623,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:188",
+   "source_line": 188,
+   "group": "StaticSWSH",
+   "species": 356,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:189",
+   "source_line": 189,
+   "group": "StaticSWSH",
+   "species": 518,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:190",
+   "source_line": 190,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:191",
+   "source_line": 191,
+   "group": "StaticSWSH",
+   "species": 596,
+   "level": 46,
+   "form": 0,
+   "location": 136
+  },
+  {
+   "id": "StaticSWSH:192",
+   "source_line": 192,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 50,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:193",
+   "source_line": 193,
+   "group": "StaticSWSH",
+   "species": 510,
+   "level": 28,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:194",
+   "source_line": 194,
+   "group": "StaticSWSH",
+   "species": 119,
+   "level": 46,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:195",
+   "source_line": 195,
+   "group": "StaticSWSH",
+   "species": 448,
+   "level": 36,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:196",
+   "source_line": 196,
+   "group": "StaticSWSH",
+   "species": 340,
+   "level": 46,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:197",
+   "source_line": 197,
+   "group": "StaticSWSH",
+   "species": 836,
+   "level": 65,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:198",
+   "source_line": 198,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 36,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:199",
+   "source_line": 199,
+   "group": "StaticSWSH",
+   "species": 435,
+   "level": 36,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:200",
+   "source_line": 200,
+   "group": "StaticSWSH",
+   "species": 583,
+   "level": 36,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:201",
+   "source_line": 201,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 36,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:202",
+   "source_line": 202,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 56,
+   "form": 0,
+   "location": 138
+  },
+  {
+   "id": "StaticSWSH:203",
+   "source_line": 203,
+   "group": "StaticSWSH",
+   "species": 625,
+   "level": 52,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:204",
+   "source_line": 204,
+   "group": "StaticSWSH",
+   "species": 143,
+   "level": 36,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:205",
+   "source_line": 205,
+   "group": "StaticSWSH",
+   "species": 452,
+   "level": 40,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:206",
+   "source_line": 206,
+   "group": "StaticSWSH",
+   "species": 561,
+   "level": 36,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:207",
+   "source_line": 207,
+   "group": "StaticSWSH",
+   "species": 534,
+   "level": 55,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:208",
+   "source_line": 208,
+   "group": "StaticSWSH",
+   "species": 320,
+   "level": 56,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:209",
+   "source_line": 209,
+   "group": "StaticSWSH",
+   "species": 561,
+   "level": 40,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:210",
+   "source_line": 210,
+   "group": "StaticSWSH",
+   "species": 830,
+   "level": 65,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:211",
+   "source_line": 211,
+   "group": "StaticSWSH",
+   "species": 36,
+   "level": 36,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:212",
+   "source_line": 212,
+   "group": "StaticSWSH",
+   "species": 743,
+   "level": 40,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:213",
+   "source_line": 213,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 55,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:214",
+   "source_line": 214,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 40,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:215",
+   "source_line": 215,
+   "group": "StaticSWSH",
+   "species": 760,
+   "level": 40,
+   "form": 0,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:216",
+   "source_line": 216,
+   "group": "StaticSWSH",
+   "species": 264,
+   "level": 40,
+   "form": 1,
+   "location": 140
+  },
+  {
+   "id": "StaticSWSH:217",
+   "source_line": 217,
+   "group": "StaticSWSH",
+   "species": 569,
+   "level": 40,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:218",
+   "source_line": 218,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 46,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:219",
+   "source_line": 219,
+   "group": "StaticSWSH",
+   "species": 743,
+   "level": 40,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:220",
+   "source_line": 220,
+   "group": "StaticSWSH",
+   "species": 475,
+   "level": 60,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:221",
+   "source_line": 221,
+   "group": "StaticSWSH",
+   "species": 606,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:222",
+   "source_line": 222,
+   "group": "StaticSWSH",
+   "species": 715,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:223",
+   "source_line": 223,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 46,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:224",
+   "source_line": 224,
+   "group": "StaticSWSH",
+   "species": 768,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:225",
+   "source_line": 225,
+   "group": "StaticSWSH",
+   "species": 760,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:226",
+   "source_line": 226,
+   "group": "StaticSWSH",
+   "species": 820,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:227",
+   "source_line": 227,
+   "group": "StaticSWSH",
+   "species": 862,
+   "level": 65,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:228",
+   "source_line": 228,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 36,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:229",
+   "source_line": 229,
+   "group": "StaticSWSH",
+   "species": 614,
+   "level": 60,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:230",
+   "source_line": 230,
+   "group": "StaticSWSH",
+   "species": 461,
+   "level": 60,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:231",
+   "source_line": 231,
+   "group": "StaticSWSH",
+   "species": 518,
+   "level": 60,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:232",
+   "source_line": 232,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:233",
+   "source_line": 233,
+   "group": "StaticSWSH",
+   "species": 344,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:234",
+   "source_line": 234,
+   "group": "StaticSWSH",
+   "species": 452,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:235",
+   "source_line": 235,
+   "group": "StaticSWSH",
+   "species": 164,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:236",
+   "source_line": 236,
+   "group": "StaticSWSH",
+   "species": 760,
+   "level": 46,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:237",
+   "source_line": 237,
+   "group": "StaticSWSH",
+   "species": 675,
+   "level": 42,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:238",
+   "source_line": 238,
+   "group": "StaticSWSH",
+   "species": 584,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:239",
+   "source_line": 239,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:240",
+   "source_line": 240,
+   "group": "StaticSWSH",
+   "species": 778,
+   "level": 50,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:241",
+   "source_line": 241,
+   "group": "StaticSWSH",
+   "species": 598,
+   "level": 40,
+   "form": 0,
+   "location": 142
+  },
+  {
+   "id": "StaticSWSH:242",
+   "source_line": 242,
+   "group": "StaticSWSH",
+   "species": 344,
+   "level": 42,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:243",
+   "source_line": 243,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 42,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:244",
+   "source_line": 244,
+   "group": "StaticSWSH",
+   "species": 477,
+   "level": 60,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:245",
+   "source_line": 245,
+   "group": "StaticSWSH",
+   "species": 623,
+   "level": 43,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:246",
+   "source_line": 246,
+   "group": "StaticSWSH",
+   "species": 561,
+   "level": 40,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:247",
+   "source_line": 247,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 34,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:248",
+   "source_line": 248,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 41,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:249",
+   "source_line": 249,
+   "group": "StaticSWSH",
+   "species": 763,
+   "level": 36,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:250",
+   "source_line": 250,
+   "group": "StaticSWSH",
+   "species": 861,
+   "level": 65,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:251",
+   "source_line": 251,
+   "group": "StaticSWSH",
+   "species": 521,
+   "level": 40,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:252",
+   "source_line": 252,
+   "group": "StaticSWSH",
+   "species": 752,
+   "level": 34,
+   "form": 0,
+   "location": 144
+  },
+  {
+   "id": "StaticSWSH:253",
+   "source_line": 253,
+   "group": "StaticSWSH",
+   "species": 750,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:254",
+   "source_line": 254,
+   "group": "StaticSWSH",
+   "species": 185,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:255",
+   "source_line": 255,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:256",
+   "source_line": 256,
+   "group": "StaticSWSH",
+   "species": 213,
+   "level": 34,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:257",
+   "source_line": 257,
+   "group": "StaticSWSH",
+   "species": 330,
+   "level": 51,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:258",
+   "source_line": 258,
+   "group": "StaticSWSH",
+   "species": 526,
+   "level": 51,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:259",
+   "source_line": 259,
+   "group": "StaticSWSH",
+   "species": 844,
+   "level": 65,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:260",
+   "source_line": 260,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:261",
+   "source_line": 261,
+   "group": "StaticSWSH",
+   "species": 435,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:262",
+   "source_line": 262,
+   "group": "StaticSWSH",
+   "species": 221,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:263",
+   "source_line": 263,
+   "group": "StaticSWSH",
+   "species": 356,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:264",
+   "source_line": 264,
+   "group": "StaticSWSH",
+   "species": 344,
+   "level": 41,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:265",
+   "source_line": 265,
+   "group": "StaticSWSH",
+   "species": 689,
+   "level": 60,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:266",
+   "source_line": 266,
+   "group": "StaticSWSH",
+   "species": 561,
+   "level": 51,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:267",
+   "source_line": 267,
+   "group": "StaticSWSH",
+   "species": 623,
+   "level": 51,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:268",
+   "source_line": 268,
+   "group": "StaticSWSH",
+   "species": 423,
+   "level": 56,
+   "form": 1,
+   "location": 146
+  },
+  {
+   "id": "StaticSWSH:269",
+   "source_line": 269,
+   "group": "StaticSWSH",
+   "species": 208,
+   "level": 50,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:270",
+   "source_line": 270,
+   "group": "StaticSWSH",
+   "species": 68,
+   "level": 60,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:271",
+   "source_line": 271,
+   "group": "StaticSWSH",
+   "species": 182,
+   "level": 41,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:272",
+   "source_line": 272,
+   "group": "StaticSWSH",
+   "species": 521,
+   "level": 41,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:273",
+   "source_line": 273,
+   "group": "StaticSWSH",
+   "species": 45,
+   "level": 41,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:274",
+   "source_line": 274,
+   "group": "StaticSWSH",
+   "species": 863,
+   "level": 65,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:275",
+   "source_line": 275,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 60,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:276",
+   "source_line": 276,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 60,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:277",
+   "source_line": 277,
+   "group": "StaticSWSH",
+   "species": 178,
+   "level": 41,
+   "form": 0,
+   "location": 148
+  },
+  {
+   "id": "StaticSWSH:278",
+   "source_line": 278,
+   "group": "StaticSWSH",
+   "species": 701,
+   "level": 36,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:279",
+   "source_line": 279,
+   "group": "StaticSWSH",
+   "species": 711,
+   "level": 41,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:280",
+   "source_line": 280,
+   "group": "StaticSWSH",
+   "species": 879,
+   "level": 65,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:281",
+   "source_line": 281,
+   "group": "StaticSWSH",
+   "species": 600,
+   "level": 46,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:282",
+   "source_line": 282,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 38,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:283",
+   "source_line": 283,
+   "group": "StaticSWSH",
+   "species": 45,
+   "level": 41,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:284",
+   "source_line": 284,
+   "group": "StaticSWSH",
+   "species": 601,
+   "level": 49,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:285",
+   "source_line": 285,
+   "group": "StaticSWSH",
+   "species": 407,
+   "level": 41,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:286",
+   "source_line": 286,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 41,
+   "form": 0,
+   "location": 150
+  },
+  {
+   "id": "StaticSWSH:288",
+   "source_line": 288,
+   "group": "StaticSWSH",
+   "species": 768,
+   "level": 60,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:289",
+   "source_line": 289,
+   "group": "StaticSWSH",
+   "species": 614,
+   "level": 60,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:290",
+   "source_line": 290,
+   "group": "StaticSWSH",
+   "species": 530,
+   "level": 46,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:291",
+   "source_line": 291,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 46,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:292",
+   "source_line": 292,
+   "group": "StaticSWSH",
+   "species": 537,
+   "level": 46,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:293",
+   "source_line": 293,
+   "group": "StaticSWSH",
+   "species": 681,
+   "level": 58,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:294",
+   "source_line": 294,
+   "group": "StaticSWSH",
+   "species": 94,
+   "level": 60,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:295",
+   "source_line": 295,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 39,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:296",
+   "source_line": 296,
+   "group": "StaticSWSH",
+   "species": 573,
+   "level": 46,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:297",
+   "source_line": 297,
+   "group": "StaticSWSH",
+   "species": 826,
+   "level": 41,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:298",
+   "source_line": 298,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 36,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:299",
+   "source_line": 299,
+   "group": "StaticSWSH",
+   "species": 680,
+   "level": 56,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:300",
+   "source_line": 300,
+   "group": "StaticSWSH",
+   "species": 839,
+   "level": 65,
+   "form": 0,
+   "location": 152
+  },
+  {
+   "id": "StaticSWSH:301",
+   "source_line": 301,
+   "group": "StaticSWSH",
+   "species": 853,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:302",
+   "source_line": 302,
+   "group": "StaticSWSH",
+   "species": 282,
+   "level": 60,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:303",
+   "source_line": 303,
+   "group": "StaticSWSH",
+   "species": 470,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:304",
+   "source_line": 304,
+   "group": "StaticSWSH",
+   "species": 119,
+   "level": 46,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:305",
+   "source_line": 305,
+   "group": "StaticSWSH",
+   "species": 858,
+   "level": 65,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:306",
+   "source_line": 306,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 60,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:307",
+   "source_line": 307,
+   "group": "StaticSWSH",
+   "species": 609,
+   "level": 60,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:308",
+   "source_line": 308,
+   "group": "StaticSWSH",
+   "species": 713,
+   "level": 60,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:309",
+   "source_line": 309,
+   "group": "StaticSWSH",
+   "species": 756,
+   "level": 60,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:310",
+   "source_line": 310,
+   "group": "StaticSWSH",
+   "species": 134,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:311",
+   "source_line": 311,
+   "group": "StaticSWSH",
+   "species": 135,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:312",
+   "source_line": 312,
+   "group": "StaticSWSH",
+   "species": 196,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:313",
+   "source_line": 313,
+   "group": "StaticSWSH",
+   "species": 471,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:314",
+   "source_line": 314,
+   "group": "StaticSWSH",
+   "species": 136,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:315",
+   "source_line": 315,
+   "group": "StaticSWSH",
+   "species": 197,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:316",
+   "source_line": 316,
+   "group": "StaticSWSH",
+   "species": 700,
+   "level": 56,
+   "form": 0,
+   "location": 154
+  },
+  {
+   "id": "StaticSWSH:320",
+   "source_line": 320,
+   "group": "StaticSWSH",
+   "species": 79,
+   "level": 12,
+   "form": 1,
+   "shiny_expression": "Never",
+   "location": 16
+  },
+  {
+   "id": "StaticSWSH:321",
+   "source_line": 321,
+   "group": "StaticSWSH",
+   "species": 321,
+   "level": 80,
+   "form": 0,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:323",
+   "source_line": 323,
+   "group": "StaticSWSH",
+   "species": 748,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:324",
+   "source_line": 324,
+   "group": "StaticSWSH",
+   "species": 99,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:325",
+   "source_line": 325,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:326",
+   "source_line": 326,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 15,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:327",
+   "source_line": 327,
+   "group": "StaticSWSH",
+   "species": 744,
+   "level": 15,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:328",
+   "source_line": 328,
+   "group": "StaticSWSH",
+   "species": 121,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:329",
+   "source_line": 329,
+   "group": "StaticSWSH",
+   "species": 428,
+   "level": 22,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:330",
+   "source_line": 330,
+   "group": "StaticSWSH",
+   "species": 687,
+   "level": 26,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:331",
+   "source_line": 331,
+   "group": "StaticSWSH",
+   "species": 404,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:332",
+   "source_line": 332,
+   "group": "StaticSWSH",
+   "species": 570,
+   "level": 15,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:333",
+   "source_line": 333,
+   "group": "StaticSWSH",
+   "species": 40,
+   "level": 27,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:334",
+   "source_line": 334,
+   "group": "StaticSWSH",
+   "species": 183,
+   "level": 15,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:335",
+   "source_line": 335,
+   "group": "StaticSWSH",
+   "species": 662,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:336",
+   "source_line": 336,
+   "group": "StaticSWSH",
+   "species": 64,
+   "level": 20,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:337",
+   "source_line": 337,
+   "group": "StaticSWSH",
+   "species": 25,
+   "level": 15,
+   "form": 0,
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:338",
+   "source_line": 338,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:339",
+   "source_line": 339,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 15,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:340",
+   "source_line": 340,
+   "group": "StaticSWSH",
+   "species": 744,
+   "level": 15,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:341",
+   "source_line": 341,
+   "group": "StaticSWSH",
+   "species": 195,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:342",
+   "source_line": 342,
+   "group": "StaticSWSH",
+   "species": 626,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:343",
+   "source_line": 343,
+   "group": "StaticSWSH",
+   "species": 242,
+   "level": 22,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:344",
+   "source_line": 344,
+   "group": "StaticSWSH",
+   "species": 452,
+   "level": 22,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:345",
+   "source_line": 345,
+   "group": "StaticSWSH",
+   "species": 463,
+   "level": 27,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:346",
+   "source_line": 346,
+   "group": "StaticSWSH",
+   "species": 405,
+   "level": 32,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:347",
+   "source_line": 347,
+   "group": "StaticSWSH",
+   "species": 428,
+   "level": 22,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:348",
+   "source_line": 348,
+   "group": "StaticSWSH",
+   "species": 186,
+   "level": 32,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:349",
+   "source_line": 349,
+   "group": "StaticSWSH",
+   "species": 61,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:350",
+   "source_line": 350,
+   "group": "StaticSWSH",
+   "species": 549,
+   "level": 22,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:351",
+   "source_line": 351,
+   "group": "StaticSWSH",
+   "species": 663,
+   "level": 32,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:352",
+   "source_line": 352,
+   "group": "StaticSWSH",
+   "species": 26,
+   "level": 26,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:353",
+   "source_line": 353,
+   "group": "StaticSWSH",
+   "species": 184,
+   "level": 21,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:354",
+   "source_line": 354,
+   "group": "StaticSWSH",
+   "species": 587,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:355",
+   "source_line": 355,
+   "group": "StaticSWSH",
+   "species": 847,
+   "level": 42,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSWSH:358",
+   "source_line": 358,
+   "group": "StaticSWSH",
+   "species": 25,
+   "level": 22,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:359",
+   "source_line": 359,
+   "group": "StaticSWSH",
+   "species": 342,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:360",
+   "source_line": 360,
+   "group": "StaticSWSH",
+   "species": 40,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:361",
+   "source_line": 361,
+   "group": "StaticSWSH",
+   "species": 28,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:362",
+   "source_line": 362,
+   "group": "StaticSWSH",
+   "species": 589,
+   "level": 32,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:363",
+   "source_line": 363,
+   "group": "StaticSWSH",
+   "species": 104,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:364",
+   "source_line": 364,
+   "group": "StaticSWSH",
+   "species": 545,
+   "level": 32,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:365",
+   "source_line": 365,
+   "group": "StaticSWSH",
+   "species": 636,
+   "level": 15,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:366",
+   "source_line": 366,
+   "group": "StaticSWSH",
+   "species": 465,
+   "level": 36,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:367",
+   "source_line": 367,
+   "group": "StaticSWSH",
+   "species": 172,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:368",
+   "source_line": 368,
+   "group": "StaticSWSH",
+   "species": 845,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:369",
+   "source_line": 369,
+   "group": "StaticSWSH",
+   "species": 617,
+   "level": 32,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:370",
+   "source_line": 370,
+   "group": "StaticSWSH",
+   "species": 55,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:371",
+   "source_line": 371,
+   "group": "StaticSWSH",
+   "species": 591,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:372",
+   "source_line": 372,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 22,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:373",
+   "source_line": 373,
+   "group": "StaticSWSH",
+   "species": 570,
+   "level": 22,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:374",
+   "source_line": 374,
+   "group": "StaticSWSH",
+   "species": 39,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:375",
+   "source_line": 375,
+   "group": "StaticSWSH",
+   "species": 847,
+   "level": 42,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:376",
+   "source_line": 376,
+   "group": "StaticSWSH",
+   "species": 340,
+   "level": 42,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:377",
+   "source_line": 377,
+   "group": "StaticSWSH",
+   "species": 754,
+   "level": 27,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:378",
+   "source_line": 378,
+   "group": "StaticSWSH",
+   "species": 282,
+   "level": 36,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSWSH:383",
+   "source_line": 383,
+   "group": "StaticSWSH",
+   "species": 183,
+   "level": 15,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:384",
+   "source_line": 384,
+   "group": "StaticSWSH",
+   "species": 462,
+   "level": 36,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:385",
+   "source_line": 385,
+   "group": "StaticSWSH",
+   "species": 26,
+   "level": 29,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:386",
+   "source_line": 386,
+   "group": "StaticSWSH",
+   "species": 637,
+   "level": 42,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:387",
+   "source_line": 387,
+   "group": "StaticSWSH",
+   "species": 687,
+   "level": 29,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:388",
+   "source_line": 388,
+   "group": "StaticSWSH",
+   "species": 428,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:389",
+   "source_line": 389,
+   "group": "StaticSWSH",
+   "species": 452,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:391",
+   "source_line": 391,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 25,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:392",
+   "source_line": 392,
+   "group": "StaticSWSH",
+   "species": 877,
+   "level": 25,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:393",
+   "source_line": 393,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:394",
+   "source_line": 394,
+   "group": "StaticSWSH",
+   "species": 40,
+   "level": 29,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:395",
+   "source_line": 395,
+   "group": "StaticSWSH",
+   "species": 528,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:396",
+   "source_line": 396,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:397",
+   "source_line": 397,
+   "group": "StaticSWSH",
+   "species": 82,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:398",
+   "source_line": 398,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:399",
+   "source_line": 399,
+   "group": "StaticSWSH",
+   "species": 768,
+   "level": 36,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:400",
+   "source_line": 400,
+   "group": "StaticSWSH",
+   "species": 662,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:401",
+   "source_line": 401,
+   "group": "StaticSWSH",
+   "species": 342,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:402",
+   "source_line": 402,
+   "group": "StaticSWSH",
+   "species": 184,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:403",
+   "source_line": 403,
+   "group": "StaticSWSH",
+   "species": 549,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:404",
+   "source_line": 404,
+   "group": "StaticSWSH",
+   "species": 845,
+   "level": 24,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:405",
+   "source_line": 405,
+   "group": "StaticSWSH",
+   "species": 55,
+   "level": 27,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:406",
+   "source_line": 406,
+   "group": "StaticSWSH",
+   "species": 702,
+   "level": 25,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:408",
+   "source_line": 408,
+   "group": "StaticSWSH",
+   "species": 405,
+   "level": 36,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:409",
+   "source_line": 409,
+   "group": "StaticSWSH",
+   "species": 99,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:410",
+   "source_line": 410,
+   "group": "StaticSWSH",
+   "species": 121,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:411",
+   "source_line": 411,
+   "group": "StaticSWSH",
+   "species": 748,
+   "level": 26,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:412",
+   "source_line": 412,
+   "group": "StaticSWSH",
+   "species": 224,
+   "level": 45,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:413",
+   "source_line": 413,
+   "group": "StaticSWSH",
+   "species": 171,
+   "level": 42,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:414",
+   "source_line": 414,
+   "group": "StaticSWSH",
+   "species": 593,
+   "level": 42,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:415",
+   "source_line": 415,
+   "group": "StaticSWSH",
+   "species": 342,
+   "level": 42,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:416",
+   "source_line": 416,
+   "group": "StaticSWSH",
+   "species": 91,
+   "level": 42,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:417",
+   "source_line": 417,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 50,
+   "form": 0,
+   "location": 170
+  },
+  {
+   "id": "StaticSWSH:418",
+   "source_line": 418,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:419",
+   "source_line": 419,
+   "group": "StaticSWSH",
+   "species": 62,
+   "level": 36,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:420",
+   "source_line": 420,
+   "group": "StaticSWSH",
+   "species": 294,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:421",
+   "source_line": 421,
+   "group": "StaticSWSH",
+   "species": 528,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:422",
+   "source_line": 422,
+   "group": "StaticSWSH",
+   "species": 621,
+   "level": 36,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:423",
+   "source_line": 423,
+   "group": "StaticSWSH",
+   "species": 55,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:424",
+   "source_line": 424,
+   "group": "StaticSWSH",
+   "species": 526,
+   "level": 42,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:425",
+   "source_line": 425,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:426",
+   "source_line": 426,
+   "group": "StaticSWSH",
+   "species": 340,
+   "level": 42,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSWSH:427",
+   "source_line": 427,
+   "group": "StaticSWSH",
+   "species": 620,
+   "level": 28,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:428",
+   "source_line": 428,
+   "group": "StaticSWSH",
+   "species": 625,
+   "level": 36,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:429",
+   "source_line": 429,
+   "group": "StaticSWSH",
+   "species": 758,
+   "level": 28,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:430",
+   "source_line": 430,
+   "group": "StaticSWSH",
+   "species": 475,
+   "level": 32,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:431",
+   "source_line": 431,
+   "group": "StaticSWSH",
+   "species": 745,
+   "level": 32,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:432",
+   "source_line": 432,
+   "group": "StaticSWSH",
+   "species": 745,
+   "level": 32,
+   "form": 1,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:433",
+   "source_line": 433,
+   "group": "StaticSWSH",
+   "species": 212,
+   "level": 40,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:434",
+   "source_line": 434,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:435",
+   "source_line": 435,
+   "group": "StaticSWSH",
+   "species": 82,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:436",
+   "source_line": 436,
+   "group": "StaticSWSH",
+   "species": 507,
+   "level": 28,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:437",
+   "source_line": 437,
+   "group": "StaticSWSH",
+   "species": 558,
+   "level": 28,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:438",
+   "source_line": 438,
+   "group": "StaticSWSH",
+   "species": 768,
+   "level": 32,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:439",
+   "source_line": 439,
+   "group": "StaticSWSH",
+   "species": 528,
+   "level": 28,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:440",
+   "source_line": 440,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 28,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:441",
+   "source_line": 441,
+   "group": "StaticSWSH",
+   "species": 621,
+   "level": 42,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:442",
+   "source_line": 442,
+   "group": "StaticSWSH",
+   "species": 847,
+   "level": 42,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:443",
+   "source_line": 443,
+   "group": "StaticSWSH",
+   "species": 73,
+   "level": 42,
+   "form": 0,
+   "location": 176
+  },
+  {
+   "id": "StaticSWSH:448",
+   "source_line": 448,
+   "group": "StaticSWSH",
+   "species": 593,
+   "level": 42,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:449",
+   "source_line": 449,
+   "group": "StaticSWSH",
+   "species": 687,
+   "level": 32,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:450",
+   "source_line": 450,
+   "group": "StaticSWSH",
+   "species": 40,
+   "level": 32,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:451",
+   "source_line": 451,
+   "group": "StaticSWSH",
+   "species": 404,
+   "level": 30,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:452",
+   "source_line": 452,
+   "group": "StaticSWSH",
+   "species": 834,
+   "level": 30,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:453",
+   "source_line": 453,
+   "group": "StaticSWSH",
+   "species": 871,
+   "level": 22,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:454",
+   "source_line": 454,
+   "group": "StaticSWSH",
+   "species": 748,
+   "level": 26,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:455",
+   "source_line": 455,
+   "group": "StaticSWSH",
+   "species": 853,
+   "level": 32,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:456",
+   "source_line": 456,
+   "group": "StaticSWSH",
+   "species": 770,
+   "level": 32,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:457",
+   "source_line": 457,
+   "group": "StaticSWSH",
+   "species": 65,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:458",
+   "source_line": 458,
+   "group": "StaticSWSH",
+   "species": 571,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:459",
+   "source_line": 459,
+   "group": "StaticSWSH",
+   "species": 462,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:460",
+   "source_line": 460,
+   "group": "StaticSWSH",
+   "species": 744,
+   "level": 40,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:461",
+   "source_line": 461,
+   "group": "StaticSWSH",
+   "species": 636,
+   "level": 40,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:462",
+   "source_line": 462,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 42,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:463",
+   "source_line": 463,
+   "group": "StaticSWSH",
+   "species": 405,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:464",
+   "source_line": 464,
+   "group": "StaticSWSH",
+   "species": 663,
+   "level": 50,
+   "form": 0,
+   "location": 178
+  },
+  {
+   "id": "StaticSWSH:465",
+   "source_line": 465,
+   "group": "StaticSWSH",
+   "species": 508,
+   "level": 42,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:466",
+   "source_line": 466,
+   "group": "StaticSWSH",
+   "species": 625,
+   "level": 36,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:467",
+   "source_line": 467,
+   "group": "StaticSWSH",
+   "species": 405,
+   "level": 36,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:468",
+   "source_line": 468,
+   "group": "StaticSWSH",
+   "species": 663,
+   "level": 36,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:469",
+   "source_line": 469,
+   "group": "StaticSWSH",
+   "species": 40,
+   "level": 30,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:470",
+   "source_line": 470,
+   "group": "StaticSWSH",
+   "species": 99,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:471",
+   "source_line": 471,
+   "group": "StaticSWSH",
+   "species": 115,
+   "level": 32,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:472",
+   "source_line": 472,
+   "group": "StaticSWSH",
+   "species": 123,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:473",
+   "source_line": 473,
+   "group": "StaticSWSH",
+   "species": 404,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:474",
+   "source_line": 474,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:475",
+   "source_line": 475,
+   "group": "StaticSWSH",
+   "species": 452,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:476",
+   "source_line": 476,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:477",
+   "source_line": 477,
+   "group": "StaticSWSH",
+   "species": 227,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSWSH:478",
+   "source_line": 478,
+   "group": "StaticSWSH",
+   "species": 528,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:479",
+   "source_line": 479,
+   "group": "StaticSWSH",
+   "species": 241,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:480",
+   "source_line": 480,
+   "group": "StaticSWSH",
+   "species": 82,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:481",
+   "source_line": 481,
+   "group": "StaticSWSH",
+   "species": 662,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:482",
+   "source_line": 482,
+   "group": "StaticSWSH",
+   "species": 227,
+   "level": 26,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:483",
+   "source_line": 483,
+   "group": "StaticSWSH",
+   "species": 128,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:484",
+   "source_line": 484,
+   "group": "StaticSWSH",
+   "species": 687,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:485",
+   "source_line": 485,
+   "group": "StaticSWSH",
+   "species": 549,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:486",
+   "source_line": 486,
+   "group": "StaticSWSH",
+   "species": 426,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:487",
+   "source_line": 487,
+   "group": "StaticSWSH",
+   "species": 55,
+   "level": 26,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:488",
+   "source_line": 488,
+   "group": "StaticSWSH",
+   "species": 184,
+   "level": 26,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:489",
+   "source_line": 489,
+   "group": "StaticSWSH",
+   "species": 617,
+   "level": 36,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:490",
+   "source_line": 490,
+   "group": "StaticSWSH",
+   "species": 212,
+   "level": 42,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:491",
+   "source_line": 491,
+   "group": "StaticSWSH",
+   "species": 589,
+   "level": 36,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:492",
+   "source_line": 492,
+   "group": "StaticSWSH",
+   "species": 616,
+   "level": 26,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:493",
+   "source_line": 493,
+   "group": "StaticSWSH",
+   "species": 588,
+   "level": 26,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:494",
+   "source_line": 494,
+   "group": "StaticSWSH",
+   "species": 847,
+   "level": 42,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSWSH:495",
+   "source_line": 495,
+   "group": "StaticSWSH",
+   "species": 553,
+   "level": 50,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:496",
+   "source_line": 496,
+   "group": "StaticSWSH",
+   "species": 464,
+   "level": 50,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:497",
+   "source_line": 497,
+   "group": "StaticSWSH",
+   "species": 105,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:498",
+   "source_line": 498,
+   "group": "StaticSWSH",
+   "species": 552,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:499",
+   "source_line": 499,
+   "group": "StaticSWSH",
+   "species": 112,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:500",
+   "source_line": 500,
+   "group": "StaticSWSH",
+   "species": 324,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:501",
+   "source_line": 501,
+   "group": "StaticSWSH",
+   "species": 844,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:502",
+   "source_line": 502,
+   "group": "StaticSWSH",
+   "species": 637,
+   "level": 50,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:503",
+   "source_line": 503,
+   "group": "StaticSWSH",
+   "species": 28,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSWSH:504",
+   "source_line": 504,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 0,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:505",
+   "source_line": 505,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 1,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:506",
+   "source_line": 506,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 2,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:507",
+   "source_line": 507,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 3,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:508",
+   "source_line": 508,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 4,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:509",
+   "source_line": 509,
+   "group": "StaticSWSH",
+   "species": 479,
+   "level": 50,
+   "form": 5,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:510",
+   "source_line": 510,
+   "group": "StaticSWSH",
+   "species": 132,
+   "level": 50,
+   "form": 0,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:512",
+   "source_line": 512,
+   "group": "StaticSWSH",
+   "species": 103,
+   "level": 50,
+   "form": 0,
+   "location": 186
+  },
+  {
+   "id": "StaticSWSH:513",
+   "source_line": 513,
+   "group": "StaticSWSH",
+   "species": 103,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:514",
+   "source_line": 514,
+   "group": "StaticSWSH",
+   "species": 571,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:515",
+   "source_line": 515,
+   "group": "StaticSWSH",
+   "species": 462,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:516",
+   "source_line": 516,
+   "group": "StaticSWSH",
+   "species": 637,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:517",
+   "source_line": 517,
+   "group": "StaticSWSH",
+   "species": 279,
+   "level": 45,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:518",
+   "source_line": 518,
+   "group": "StaticSWSH",
+   "species": 65,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:519",
+   "source_line": 519,
+   "group": "StaticSWSH",
+   "species": 764,
+   "level": 50,
+   "form": 0,
+   "location": 190
+  },
+  {
+   "id": "StaticSWSH:520",
+   "source_line": 520,
+   "group": "StaticSWSH",
+   "species": 230,
+   "level": 60,
+   "form": 0,
+   "location": 192
+  },
+  {
+   "id": "StaticSWSH:521",
+   "source_line": 521,
+   "group": "StaticSWSH",
+   "species": 117,
+   "level": 45,
+   "form": 0,
+   "location": 192
+  },
+  {
+   "id": "StaticSWSH:522",
+   "source_line": 522,
+   "group": "StaticSWSH",
+   "species": 549,
+   "level": 45,
+   "form": 0,
+   "location": 194
+  },
+  {
+   "id": "StaticSWSH:523",
+   "source_line": 523,
+   "group": "StaticSWSH",
+   "species": 415,
+   "level": 40,
+   "form": 0,
+   "location": 194
+  },
+  {
+   "id": "StaticSWSH:527",
+   "source_line": 527,
+   "group": "StaticSWSH",
+   "species": 144,
+   "level": 70,
+   "form": 1,
+   "moves": [
+    821,
+    542,
+    427,
+    375
+   ],
+   "shiny_expression": "Never",
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:528",
+   "source_line": 528,
+   "group": "StaticSWSH",
+   "species": 145,
+   "level": 70,
+   "form": 1,
+   "moves": [
+    823,
+    65,
+    179,
+    116
+   ],
+   "shiny_expression": "Never",
+   "location": 122
+  },
+  {
+   "id": "StaticSWSH:529",
+   "source_line": 529,
+   "group": "StaticSWSH",
+   "species": 146,
+   "level": 70,
+   "form": 1,
+   "moves": [
+    822,
+    542,
+    389,
+    417
+   ],
+   "shiny_expression": "Never",
+   "location": 164
+  },
+  {
+   "id": "StaticSWSH:530",
+   "source_line": 530,
+   "group": "StaticSWSH",
+   "species": 377,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    276,
+    444,
+    359,
+    174
+   ],
+   "location": 236
+  },
+  {
+   "id": "StaticSWSH:531",
+   "source_line": 531,
+   "group": "StaticSWSH",
+   "species": 378,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    58,
+    192,
+    133,
+    196
+   ],
+   "location": 238
+  },
+  {
+   "id": "StaticSWSH:532",
+   "source_line": 532,
+   "group": "StaticSWSH",
+   "species": 379,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    484,
+    430,
+    334,
+    451
+   ],
+   "location": 240
+  },
+  {
+   "id": "StaticSWSH:533",
+   "source_line": 533,
+   "group": "StaticSWSH",
+   "species": 894,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    819,
+    527,
+    245,
+    393
+   ],
+   "location": 242
+  },
+  {
+   "id": "StaticSWSH:534",
+   "source_line": 534,
+   "group": "StaticSWSH",
+   "species": 895,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    820,
+    337,
+    359,
+    673
+   ],
+   "location": 242
+  },
+  {
+   "id": "StaticSWSH:535",
+   "source_line": 535,
+   "group": "StaticSWSH",
+   "species": 486,
+   "level": 100,
+   "form": 0,
+   "moves": [
+    416,
+    428,
+    359,
+    462
+   ],
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:536",
+   "source_line": 536,
+   "group": "StaticSWSH",
+   "species": 638,
+   "level": 70,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:537",
+   "source_line": 537,
+   "group": "StaticSWSH",
+   "species": 639,
+   "level": 70,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:538",
+   "source_line": 538,
+   "group": "StaticSWSH",
+   "species": 640,
+   "level": 70,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:539",
+   "source_line": 539,
+   "group": "StaticSWSH",
+   "species": 647,
+   "level": 65,
+   "form": 1,
+   "moves": [
+    548,
+    533,
+    14,
+    56
+   ],
+   "shiny_expression": "Never",
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:542",
+   "source_line": 542,
+   "group": "StaticSWSH",
+   "species": 898,
+   "level": 80,
+   "form": 0,
+   "moves": [
+    202,
+    94,
+    473,
+    505
+   ],
+   "shiny_expression": "Never",
+   "location": 220
+  },
+  {
+   "id": "StaticSWSH:543",
+   "source_line": 543,
+   "group": "StaticSWSH",
+   "species": 442,
+   "level": 72,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:550",
+   "source_line": 550,
+   "group": "StaticSWSH",
+   "species": 473,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:551",
+   "source_line": 551,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:552",
+   "source_line": 552,
+   "group": "StaticSWSH",
+   "species": 698,
+   "level": 60,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:553",
+   "source_line": 553,
+   "group": "StaticSWSH",
+   "species": 333,
+   "level": 60,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:554",
+   "source_line": 554,
+   "group": "StaticSWSH",
+   "species": 124,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:555",
+   "source_line": 555,
+   "group": "StaticSWSH",
+   "species": 857,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:556",
+   "source_line": 556,
+   "group": "StaticSWSH",
+   "species": 478,
+   "level": 63,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:557",
+   "source_line": 557,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 63,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:558",
+   "source_line": 558,
+   "group": "StaticSWSH",
+   "species": 467,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:559",
+   "source_line": 559,
+   "group": "StaticSWSH",
+   "species": 143,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:560",
+   "source_line": 560,
+   "group": "StaticSWSH",
+   "species": 872,
+   "level": 60,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:561",
+   "source_line": 561,
+   "group": "StaticSWSH",
+   "species": 832,
+   "level": 63,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:562",
+   "source_line": 562,
+   "group": "StaticSWSH",
+   "species": 461,
+   "level": 63,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:563",
+   "source_line": 563,
+   "group": "StaticSWSH",
+   "species": 531,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:564",
+   "source_line": 564,
+   "group": "StaticSWSH",
+   "species": 615,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:565",
+   "source_line": 565,
+   "group": "StaticSWSH",
+   "species": 778,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:566",
+   "source_line": 566,
+   "group": "StaticSWSH",
+   "species": 126,
+   "level": 62,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:567",
+   "source_line": 567,
+   "group": "StaticSWSH",
+   "species": 861,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:568",
+   "source_line": 568,
+   "group": "StaticSWSH",
+   "species": 709,
+   "level": 63,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSWSH:569",
+   "source_line": 569,
+   "group": "StaticSWSH",
+   "species": 124,
+   "level": 62,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:570",
+   "source_line": 570,
+   "group": "StaticSWSH",
+   "species": 460,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:571",
+   "source_line": 571,
+   "group": "StaticSWSH",
+   "species": 698,
+   "level": 60,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:572",
+   "source_line": 572,
+   "group": "StaticSWSH",
+   "species": 133,
+   "level": 60,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:573",
+   "source_line": 573,
+   "group": "StaticSWSH",
+   "species": 29,
+   "level": 60,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:574",
+   "source_line": 574,
+   "group": "StaticSWSH",
+   "species": 32,
+   "level": 60,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:575",
+   "source_line": 575,
+   "group": "StaticSWSH",
+   "species": 359,
+   "level": 62,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:576",
+   "source_line": 576,
+   "group": "StaticSWSH",
+   "species": 143,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:577",
+   "source_line": 577,
+   "group": "StaticSWSH",
+   "species": 584,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:578",
+   "source_line": 578,
+   "group": "StaticSWSH",
+   "species": 333,
+   "level": 60,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:579",
+   "source_line": 579,
+   "group": "StaticSWSH",
+   "species": 34,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:580",
+   "source_line": 580,
+   "group": "StaticSWSH",
+   "species": 30,
+   "level": 63,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:581",
+   "source_line": 581,
+   "group": "StaticSWSH",
+   "species": 858,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:582",
+   "source_line": 582,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 65,
+   "form": 0,
+   "location": 208
+  },
+  {
+   "id": "StaticSWSH:583",
+   "source_line": 583,
+   "group": "StaticSWSH",
+   "species": 29,
+   "level": 60,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:584",
+   "source_line": 584,
+   "group": "StaticSWSH",
+   "species": 832,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:585",
+   "source_line": 585,
+   "group": "StaticSWSH",
+   "species": 142,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:586",
+   "source_line": 586,
+   "group": "StaticSWSH",
+   "species": 133,
+   "level": 60,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:587",
+   "source_line": 587,
+   "group": "StaticSWSH",
+   "species": 470,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:588",
+   "source_line": 588,
+   "group": "StaticSWSH",
+   "species": 33,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:589",
+   "source_line": 589,
+   "group": "StaticSWSH",
+   "species": 534,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:590",
+   "source_line": 590,
+   "group": "StaticSWSH",
+   "species": 820,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:591",
+   "source_line": 591,
+   "group": "StaticSWSH",
+   "species": 31,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:592",
+   "source_line": 592,
+   "group": "StaticSWSH",
+   "species": 862,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:593",
+   "source_line": 593,
+   "group": "StaticSWSH",
+   "species": 609,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:594",
+   "source_line": 594,
+   "group": "StaticSWSH",
+   "species": 752,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:595",
+   "source_line": 595,
+   "group": "StaticSWSH",
+   "species": 134,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:596",
+   "source_line": 596,
+   "group": "StaticSWSH",
+   "species": 596,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:597",
+   "source_line": 597,
+   "group": "StaticSWSH",
+   "species": 466,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:598",
+   "source_line": 598,
+   "group": "StaticSWSH",
+   "species": 135,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:599",
+   "source_line": 599,
+   "group": "StaticSWSH",
+   "species": 125,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:600",
+   "source_line": 600,
+   "group": "StaticSWSH",
+   "species": 467,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:601",
+   "source_line": 601,
+   "group": "StaticSWSH",
+   "species": 631,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:602",
+   "source_line": 602,
+   "group": "StaticSWSH",
+   "species": 632,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:603",
+   "source_line": 603,
+   "group": "StaticSWSH",
+   "species": 136,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:604",
+   "source_line": 604,
+   "group": "StaticSWSH",
+   "species": 197,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:605",
+   "source_line": 605,
+   "group": "StaticSWSH",
+   "species": 196,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:606",
+   "source_line": 606,
+   "group": "StaticSWSH",
+   "species": 359,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:607",
+   "source_line": 607,
+   "group": "StaticSWSH",
+   "species": 471,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:608",
+   "source_line": 608,
+   "group": "StaticSWSH",
+   "species": 700,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:609",
+   "source_line": 609,
+   "group": "StaticSWSH",
+   "species": 36,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:610",
+   "source_line": 610,
+   "group": "StaticSWSH",
+   "species": 340,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:611",
+   "source_line": 611,
+   "group": "StaticSWSH",
+   "species": 855,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:612",
+   "source_line": 612,
+   "group": "StaticSWSH",
+   "species": 887,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:613",
+   "source_line": 613,
+   "group": "StaticSWSH",
+   "species": 478,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:614",
+   "source_line": 614,
+   "group": "StaticSWSH",
+   "species": 437,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:615",
+   "source_line": 615,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:616",
+   "source_line": 616,
+   "group": "StaticSWSH",
+   "species": 334,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:617",
+   "source_line": 617,
+   "group": "StaticSWSH",
+   "species": 344,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:618",
+   "source_line": 618,
+   "group": "StaticSWSH",
+   "species": 531,
+   "level": 62,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:619",
+   "source_line": 619,
+   "group": "StaticSWSH",
+   "species": 130,
+   "level": 67,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:620",
+   "source_line": 620,
+   "group": "StaticSWSH",
+   "species": 350,
+   "level": 67,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSWSH:621",
+   "source_line": 621,
+   "group": "StaticSWSH",
+   "species": 872,
+   "level": 62,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:622",
+   "source_line": 622,
+   "group": "StaticSWSH",
+   "species": 698,
+   "level": 62,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:623",
+   "source_line": 623,
+   "group": "StaticSWSH",
+   "species": 621,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:624",
+   "source_line": 624,
+   "group": "StaticSWSH",
+   "species": 832,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:625",
+   "source_line": 625,
+   "group": "StaticSWSH",
+   "species": 699,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:626",
+   "source_line": 626,
+   "group": "StaticSWSH",
+   "species": 376,
+   "level": 68,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:627",
+   "source_line": 627,
+   "group": "StaticSWSH",
+   "species": 461,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:628",
+   "source_line": 628,
+   "group": "StaticSWSH",
+   "species": 709,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:629",
+   "source_line": 629,
+   "group": "StaticSWSH",
+   "species": 467,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:630",
+   "source_line": 630,
+   "group": "StaticSWSH",
+   "species": 362,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:631",
+   "source_line": 631,
+   "group": "StaticSWSH",
+   "species": 375,
+   "level": 63,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:632",
+   "source_line": 632,
+   "group": "StaticSWSH",
+   "species": 615,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:633",
+   "source_line": 633,
+   "group": "StaticSWSH",
+   "species": 614,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:634",
+   "source_line": 634,
+   "group": "StaticSWSH",
+   "species": 126,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:635",
+   "source_line": 635,
+   "group": "StaticSWSH",
+   "species": 584,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:636",
+   "source_line": 636,
+   "group": "StaticSWSH",
+   "species": 861,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:637",
+   "source_line": 637,
+   "group": "StaticSWSH",
+   "species": 359,
+   "level": 67,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:638",
+   "source_line": 638,
+   "group": "StaticSWSH",
+   "species": 778,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:639",
+   "source_line": 639,
+   "group": "StaticSWSH",
+   "species": 36,
+   "level": 65,
+   "form": 0,
+   "location": 214
+  },
+  {
+   "id": "StaticSWSH:640",
+   "source_line": 640,
+   "group": "StaticSWSH",
+   "species": 36,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:641",
+   "source_line": 641,
+   "group": "StaticSWSH",
+   "species": 621,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:642",
+   "source_line": 642,
+   "group": "StaticSWSH",
+   "species": 478,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:643",
+   "source_line": 643,
+   "group": "StaticSWSH",
+   "species": 703,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:644",
+   "source_line": 644,
+   "group": "StaticSWSH",
+   "species": 41,
+   "level": 63,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:645",
+   "source_line": 645,
+   "group": "StaticSWSH",
+   "species": 42,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSWSH:646",
+   "source_line": 646,
+   "group": "StaticSWSH",
+   "species": 873,
+   "level": 65,
+   "form": 0,
+   "location": 218
+  },
+  {
+   "id": "StaticSWSH:647",
+   "source_line": 647,
+   "group": "StaticSWSH",
+   "species": 621,
+   "level": 65,
+   "form": 0,
+   "location": 218
+  },
+  {
+   "id": "StaticSWSH:648",
+   "source_line": 648,
+   "group": "StaticSWSH",
+   "species": 851,
+   "level": 67,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:649",
+   "source_line": 649,
+   "group": "StaticSWSH",
+   "species": 879,
+   "level": 67,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:650",
+   "source_line": 650,
+   "group": "StaticSWSH",
+   "species": 534,
+   "level": 67,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:651",
+   "source_line": 651,
+   "group": "StaticSWSH",
+   "species": 566,
+   "level": 63,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:652",
+   "source_line": 652,
+   "group": "StaticSWSH",
+   "species": 126,
+   "level": 65,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:653",
+   "source_line": 653,
+   "group": "StaticSWSH",
+   "species": 752,
+   "level": 67,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:654",
+   "source_line": 654,
+   "group": "StaticSWSH",
+   "species": 125,
+   "level": 65,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSWSH:656",
+   "source_line": 656,
+   "group": "StaticSWSH",
+   "species": 448,
+   "level": 67,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSWSH:657",
+   "source_line": 657,
+   "group": "StaticSWSH",
+   "species": 42,
+   "level": 65,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSWSH:658",
+   "source_line": 658,
+   "group": "StaticSWSH",
+   "species": 363,
+   "level": 63,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:659",
+   "source_line": 659,
+   "group": "StaticSWSH",
+   "species": 364,
+   "level": 65,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:660",
+   "source_line": 660,
+   "group": "StaticSWSH",
+   "species": 564,
+   "level": 63,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:661",
+   "source_line": 661,
+   "group": "StaticSWSH",
+   "species": 713,
+   "level": 65,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:662",
+   "source_line": 662,
+   "group": "StaticSWSH",
+   "species": 365,
+   "level": 68,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:663",
+   "source_line": 663,
+   "group": "StaticSWSH",
+   "species": 565,
+   "level": 67,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:664",
+   "source_line": 664,
+   "group": "StaticSWSH",
+   "species": 871,
+   "level": 65,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:665",
+   "source_line": 665,
+   "group": "StaticSWSH",
+   "species": 623,
+   "level": 65,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:666",
+   "source_line": 666,
+   "group": "StaticSWSH",
+   "species": 467,
+   "level": 68,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:667",
+   "source_line": 667,
+   "group": "StaticSWSH",
+   "species": 466,
+   "level": 68,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:668",
+   "source_line": 668,
+   "group": "StaticSWSH",
+   "species": 858,
+   "level": 67,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSWSH:669",
+   "source_line": 669,
+   "group": "StaticSWSH",
+   "species": 887,
+   "level": 68,
+   "form": 0,
+   "location": 228
+  },
+  {
+   "id": "StaticSWSH:670",
+   "source_line": 670,
+   "group": "StaticSWSH",
+   "species": 531,
+   "level": 62,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:671",
+   "source_line": 671,
+   "group": "StaticSWSH",
+   "species": 584,
+   "level": 67,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:672",
+   "source_line": 672,
+   "group": "StaticSWSH",
+   "species": 823,
+   "level": 68,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:673",
+   "source_line": 673,
+   "group": "StaticSWSH",
+   "species": 862,
+   "level": 68,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:674",
+   "source_line": 674,
+   "group": "StaticSWSH",
+   "species": 715,
+   "level": 67,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:675",
+   "source_line": 675,
+   "group": "StaticSWSH",
+   "species": 547,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:676",
+   "source_line": 676,
+   "group": "StaticSWSH",
+   "species": 836,
+   "level": 67,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:677",
+   "source_line": 677,
+   "group": "StaticSWSH",
+   "species": 830,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:678",
+   "source_line": 678,
+   "group": "StaticSWSH",
+   "species": 696,
+   "level": 63,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:679",
+   "source_line": 679,
+   "group": "StaticSWSH",
+   "species": 213,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:680",
+   "source_line": 680,
+   "group": "StaticSWSH",
+   "species": 820,
+   "level": 68,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:681",
+   "source_line": 681,
+   "group": "StaticSWSH",
+   "species": 877,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:682",
+   "source_line": 682,
+   "group": "StaticSWSH",
+   "species": 596,
+   "level": 67,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:683",
+   "source_line": 683,
+   "group": "StaticSWSH",
+   "species": 839,
+   "level": 68,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:684",
+   "source_line": 684,
+   "group": "StaticSWSH",
+   "species": 697,
+   "level": 69,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:685",
+   "source_line": 685,
+   "group": "StaticSWSH",
+   "species": 531,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:686",
+   "source_line": 686,
+   "group": "StaticSWSH",
+   "species": 304,
+   "level": 63,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:687",
+   "source_line": 687,
+   "group": "StaticSWSH",
+   "species": 149,
+   "level": 70,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:688",
+   "source_line": 688,
+   "group": "StaticSWSH",
+   "species": 348,
+   "level": 67,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:689",
+   "source_line": 689,
+   "group": "StaticSWSH",
+   "species": 347,
+   "level": 63,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:690",
+   "source_line": 690,
+   "group": "StaticSWSH",
+   "species": 369,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:691",
+   "source_line": 691,
+   "group": "StaticSWSH",
+   "species": 147,
+   "level": 63,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:692",
+   "source_line": 692,
+   "group": "StaticSWSH",
+   "species": 148,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:693",
+   "source_line": 693,
+   "group": "StaticSWSH",
+   "species": 615,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSWSH:694",
+   "source_line": 694,
+   "group": "StaticSWSH",
+   "species": 715,
+   "level": 67,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:695",
+   "source_line": 695,
+   "group": "StaticSWSH",
+   "species": 306,
+   "level": 68,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:696",
+   "source_line": 696,
+   "group": "StaticSWSH",
+   "species": 598,
+   "level": 67,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:697",
+   "source_line": 697,
+   "group": "StaticSWSH",
+   "species": 305,
+   "level": 63,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:698",
+   "source_line": 698,
+   "group": "StaticSWSH",
+   "species": 839,
+   "level": 68,
+   "form": 0,
+   "location": 232
+  },
+  {
+   "id": "StaticSWSH:699",
+   "source_line": 699,
+   "group": "StaticSWSH",
+   "species": 820,
+   "level": 68,
+   "form": 0,
+   "location": 234
+  },
+  {
+   "id": "StaticSW:704",
+   "source_line": 704,
+   "group": "StaticSW",
+   "species": 888,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    533,
+    14,
+    442,
+    242
+   ],
+   "shiny_expression": "Never",
+   "location": 66
+  },
+  {
+   "id": "StaticSW:706",
+   "source_line": 706,
+   "group": "StaticSW",
+   "species": 275,
+   "level": 34,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSW:707",
+   "source_line": 707,
+   "group": "StaticSW",
+   "species": 784,
+   "level": 60,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSW:708",
+   "source_line": 708,
+   "group": "StaticSW",
+   "species": 559,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSW:709",
+   "source_line": 709,
+   "group": "StaticSW",
+   "species": 766,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSW:710",
+   "source_line": 710,
+   "group": "StaticSW",
+   "species": 127,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSW:711",
+   "source_line": 711,
+   "group": "StaticSW",
+   "species": 616,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSW:712",
+   "source_line": 712,
+   "group": "StaticSW",
+   "species": 744,
+   "level": 22,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSW:713",
+   "source_line": 713,
+   "group": "StaticSW",
+   "species": 560,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSW:714",
+   "source_line": 714,
+   "group": "StaticSW",
+   "species": 127,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSW:715",
+   "source_line": 715,
+   "group": "StaticSW",
+   "species": 782,
+   "level": 22,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSW:716",
+   "source_line": 716,
+   "group": "StaticSW",
+   "species": 628,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSW:717",
+   "source_line": 717,
+   "group": "StaticSW",
+   "species": 127,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSW:718",
+   "source_line": 718,
+   "group": "StaticSW",
+   "species": 782,
+   "level": 22,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSW:719",
+   "source_line": 719,
+   "group": "StaticSW",
+   "species": 628,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSW:720",
+   "source_line": 720,
+   "group": "StaticSW",
+   "species": 576,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSW:721",
+   "source_line": 721,
+   "group": "StaticSW",
+   "species": 874,
+   "level": 63,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSW:722",
+   "source_line": 722,
+   "group": "StaticSW",
+   "species": 555,
+   "level": 67,
+   "form": 2,
+   "location": 214
+  },
+  {
+   "id": "StaticSW:723",
+   "source_line": 723,
+   "group": "StaticSW",
+   "species": 371,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSW:724",
+   "source_line": 724,
+   "group": "StaticSW",
+   "species": 373,
+   "level": 68,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSW:725",
+   "source_line": 725,
+   "group": "StaticSW",
+   "species": 373,
+   "level": 68,
+   "form": 0,
+   "location": 218
+  },
+  {
+   "id": "StaticSW:726",
+   "source_line": 726,
+   "group": "StaticSW",
+   "species": 138,
+   "level": 63,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSW:727",
+   "source_line": 727,
+   "group": "StaticSW",
+   "species": 635,
+   "level": 68,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSW:728",
+   "source_line": 728,
+   "group": "StaticSW",
+   "species": 139,
+   "level": 68,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSW:729",
+   "source_line": 729,
+   "group": "StaticSW",
+   "species": 876,
+   "level": 65,
+   "form": 0,
+   "location": 230
+  },
+  {
+   "id": "StaticSH:734",
+   "source_line": 734,
+   "group": "StaticSH",
+   "species": 889,
+   "level": 70,
+   "form": 0,
+   "moves": [
+    163,
+    242,
+    442,
+    334
+   ],
+   "shiny_expression": "Never",
+   "location": 66
+  },
+  {
+   "id": "StaticSH:736",
+   "source_line": 736,
+   "group": "StaticSH",
+   "species": 272,
+   "level": 34,
+   "form": 0,
+   "location": 124
+  },
+  {
+   "id": "StaticSH:737",
+   "source_line": 737,
+   "group": "StaticSH",
+   "species": 248,
+   "level": 60,
+   "form": 0,
+   "location": 146
+  },
+  {
+   "id": "StaticSH:738",
+   "source_line": 738,
+   "group": "StaticSH",
+   "species": 453,
+   "level": 20,
+   "form": 0,
+   "location": 166
+  },
+  {
+   "id": "StaticSH:739",
+   "source_line": 739,
+   "group": "StaticSH",
+   "species": 765,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSH:740",
+   "source_line": 740,
+   "group": "StaticSH",
+   "species": 214,
+   "level": 26,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSH:741",
+   "source_line": 741,
+   "group": "StaticSH",
+   "species": 704,
+   "level": 20,
+   "form": 0,
+   "location": 168
+  },
+  {
+   "id": "StaticSH:742",
+   "source_line": 742,
+   "group": "StaticSH",
+   "species": 744,
+   "level": 22,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSH:743",
+   "source_line": 743,
+   "group": "StaticSH",
+   "species": 454,
+   "level": 26,
+   "form": 0,
+   "location": 172
+  },
+  {
+   "id": "StaticSH:744",
+   "source_line": 744,
+   "group": "StaticSH",
+   "species": 214,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSH:745",
+   "source_line": 745,
+   "group": "StaticSH",
+   "species": 630,
+   "level": 26,
+   "form": 0,
+   "location": 174
+  },
+  {
+   "id": "StaticSH:746",
+   "source_line": 746,
+   "group": "StaticSH",
+   "species": 214,
+   "level": 28,
+   "form": 0,
+   "location": 180
+  },
+  {
+   "id": "StaticSH:747",
+   "source_line": 747,
+   "group": "StaticSH",
+   "species": 630,
+   "level": 42,
+   "form": 0,
+   "location": 184
+  },
+  {
+   "id": "StaticSH:748",
+   "source_line": 748,
+   "group": "StaticSH",
+   "species": 579,
+   "level": 65,
+   "form": 0,
+   "location": 204
+  },
+  {
+   "id": "StaticSH:749",
+   "source_line": 749,
+   "group": "StaticSH",
+   "species": 143,
+   "level": 65,
+   "form": 0,
+   "location": 210
+  },
+  {
+   "id": "StaticSH:750",
+   "source_line": 750,
+   "group": "StaticSH",
+   "species": 78,
+   "level": 67,
+   "form": 1,
+   "location": 212
+  },
+  {
+   "id": "StaticSH:751",
+   "source_line": 751,
+   "group": "StaticSH",
+   "species": 443,
+   "level": 65,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSH:752",
+   "source_line": 752,
+   "group": "StaticSH",
+   "species": 445,
+   "level": 68,
+   "form": 0,
+   "location": 216
+  },
+  {
+   "id": "StaticSH:753",
+   "source_line": 753,
+   "group": "StaticSH",
+   "species": 445,
+   "level": 68,
+   "form": 0,
+   "location": 218
+  },
+  {
+   "id": "StaticSH:754",
+   "source_line": 754,
+   "group": "StaticSH",
+   "species": 140,
+   "level": 63,
+   "form": 0,
+   "location": 222
+  },
+  {
+   "id": "StaticSH:755",
+   "source_line": 755,
+   "group": "StaticSH",
+   "species": 248,
+   "level": 68,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSH:756",
+   "source_line": 756,
+   "group": "StaticSH",
+   "species": 141,
+   "level": 68,
+   "form": 0,
+   "location": 224
+  },
+  {
+   "id": "StaticSH:757",
+   "source_line": 757,
+   "group": "StaticSH",
+   "species": 875,
+   "level": 65,
+   "form": 0,
+   "location": 226
+  },
+  {
+   "id": "StaticSH:758",
+   "source_line": 758,
+   "group": "StaticSH",
+   "species": 876,
+   "level": 65,
+   "form": 1,
+   "location": 230
+  }
+ ]
+}
