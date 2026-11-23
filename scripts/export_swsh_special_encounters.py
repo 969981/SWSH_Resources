@@ -24,6 +24,7 @@ FIXED_INPUTS = {
     "trade_encounters": ("trade_encounters.csv", 23),
 }
 SHINY_VALUE = {0: "Random", 1: "Always", 2: "Never"}
+DIST_SHINY_VALUE = {0: "Random", 1: "Never", 2: "Always"}
 LEVEL_CAPS = ((15, 20), (25, 30), (35, 40), (45, 50), (55, 60))
 
 
@@ -54,7 +55,7 @@ def decode_raid_record(kind: str, raw: bytes) -> dict:
             raise ValueError("dist record must be 16 bytes")
         species, form, ability, m1, m2, m3, m4, level, dgmax, shiny_iv, index = struct.unpack("<HBB4H4B", raw)
         shiny_code = shiny_iv >> 4
-        if shiny_code not in SHINY_VALUE:
+        if shiny_code not in DIST_SHINY_VALUE:
             raise ValueError("unknown raid distribution shiny code")
         result = {
             "species": species, "form": form, "ability_permission": ability,
@@ -62,7 +63,7 @@ def decode_raid_record(kind: str, raw: bytes) -> dict:
             "level": level, "dynamax_level": dgmax & 0x7f,
             "can_gigantamax": bool(dgmax & 0x80),
             "flawless_iv_count": shiny_iv & 0x0f,
-            "shiny_rule": SHINY_VALUE[shiny_code],
+            "shiny_rule": DIST_SHINY_VALUE[shiny_code],
             "shiny_rule_raw": shiny_code, "distribution_index": index,
         }
         if result["dynamax_level"] > 10:
