@@ -6,7 +6,7 @@
   "upstream_path": "PKHeX.Core/Resources/legality/wild/Gen8",
   "upstream_license": "GPL-3.0",
   "import_verification": "Git blob SHA-1 matches the pinned upstream file; SHA-256 independently computed over identical bytes; file length divisible by exact record stride; decoded species/layout/rank fields validated",
-  "game_rom_semantic_rebuild": "NOT YET VERIFIED: these raid/distribution/Max Lair PKLs have not been independently reproduced from original v1.3.2 raid FlatBuffers archives in this stage",
+  "game_rom_semantic_rebuild": "PARTIAL: Max Lair 273-entry file has a reproducible 3,822-byte byte-exact rebuild from original underground_exploration_poke.bin. Normal nest and historical distribution files still lack byte-exact source reserialization.",
   "distribution_availability": "No event distribution start/end dates are represented by these fixed-length records. Entries must not be called active without dated distribution evidence.",
   "in_game_shiny": "Do not equate distribution shiny flag with runtime capture behavior for normal nests or Max Lair. Max Lair has a separate post-adventure shiny roll in PKHeX reference.",
   "source_relationships": [
@@ -23,7 +23,9 @@
       "records": 2156,
       "bytes": 21560,
       "sha256": "ba888a27695552715667a1a6cf6f25a45b22470e02f7bc124727f9c59c2bf0d3",
-      "pinned_git_blob_sha1": "fbd5a0beb755c17af2250886eba282b87d2ee1d9"
+      "pinned_git_blob_sha1": "fbd5a0beb755c17af2250886eba282b87d2ee1d9",
+      "rom_byte_exact": false,
+      "rom_byte_exact_evidence": "NOT_YET_ESTABLISHED"
     },
     {
       "name": "encounter_sh_nest.pkl",
@@ -33,7 +35,9 @@
       "records": 2151,
       "bytes": 21510,
       "sha256": "4fb1ddabb1503271f0527fafda0e28c2fd64299fc600ed4a57455675d5298ab7",
-      "pinned_git_blob_sha1": "5464521288f52e8896b03c81ac285d2491a3f7f6"
+      "pinned_git_blob_sha1": "5464521288f52e8896b03c81ac285d2491a3f7f6",
+      "rom_byte_exact": false,
+      "rom_byte_exact_evidence": "NOT_YET_ESTABLISHED"
     },
     {
       "name": "encounter_sw_dist.pkl",
@@ -43,7 +47,9 @@
       "records": 1171,
       "bytes": 18736,
       "sha256": "fcb0e71aef2ce28d6a82f35904892b0235e8b141f79d2b14c33083f5fcfc8819",
-      "pinned_git_blob_sha1": "0930b24650067c1a04c4e615c01b9fa96319ae72"
+      "pinned_git_blob_sha1": "0930b24650067c1a04c4e615c01b9fa96319ae72",
+      "rom_byte_exact": false,
+      "rom_byte_exact_evidence": "NOT_YET_ESTABLISHED"
     },
     {
       "name": "encounter_sh_dist.pkl",
@@ -53,7 +59,9 @@
       "records": 1179,
       "bytes": 18864,
       "sha256": "ba650fb0ed703462039e14d8d4b7bbb2e09be346456b49ab34b15fed329e2d79",
-      "pinned_git_blob_sha1": "d3bead9dd7797cf1578b1a415a8a5ee7a69af255"
+      "pinned_git_blob_sha1": "d3bead9dd7797cf1578b1a415a8a5ee7a69af255",
+      "rom_byte_exact": false,
+      "rom_byte_exact_evidence": "NOT_YET_ESTABLISHED"
     },
     {
       "name": "encounter_swsh_underground.pkl",
@@ -63,7 +71,30 @@
       "records": 273,
       "bytes": 3822,
       "sha256": "65480087c7d2bb92b044954fc604e2be9c3aaf39854176a699a4c41012942302",
-      "pinned_git_blob_sha1": "4026654b95032f01c058e5300240befe6c5268fe"
+      "pinned_git_blob_sha1": "4026654b95032f01c058e5300240befe6c5268fe",
+      "rom_byte_exact": true,
+      "rom_byte_exact_evidence": "scripts/rebuild_swsh_max_lair.py"
     }
-  ]
+  ],
+  "max_lair_rom_rebuild": {
+    "status": "BYTE_EXACT_273_RECORDS",
+    "source_path": "v1.3.2/1/bin/appli/chika/data_table/underground_exploration_poke.bin",
+    "source_sha256": "18d7d6546eb2c6a5ca9531eb13a0a3bffeaab186ee2f6510ea4b6275b5ea4328",
+    "source_bytes": 23296,
+    "records": 273,
+    "pkl_sha256": "65480087c7d2bb92b044954fc604e2be9c3aaf39854176a699a4c41012942302",
+    "serializer": "scripts/rebuild_swsh_max_lair.py",
+    "verified_mapping": "Species,Form,Level,Move0..3,Ability 0/1/2→1/2/4, GigantamaxState 1/2→0/1; stable sort by Species",
+    "bytes_exact": true
+  },
+  "original_nest_audit": {
+    "status": "PARTIAL_SOURCE_VERSUS_CURATED_REFERENCE_PARITY",
+    "source": "Unpack/v1.3.2/extracted/bin/archive/field/resident/data_table.gfpak.files/000008_A5963232100F7DEE.bin",
+    "source_sha256": "f7ba0222e11c268386b56c1d8c3936e8813a1a1aa08262cd137774cb58847be7",
+    "source_tables": 394,
+    "source_tables_per_version": 197,
+    "source_entries": 4728,
+    "script": "scripts/audit_swsh_raw_nests.py",
+    "status_note": "A direct contiguous positive-probability candidate projection differs from the PKHeX curated reference; mismatches are preserved for audit, not assumed erroneous."
+  }
 }
