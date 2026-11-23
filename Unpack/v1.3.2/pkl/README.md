@@ -31,3 +31,7 @@ Checks all four byte sizes, SHA-256 hashes and version-specific `sw` / `sh` Mini
 ## Important scope boundary
 
 These four PKL cover **regular wild Symbol/Hidden encounters** only. Static encounters, gifts, NPC trades, Max Raid nest tables, Dynamax Adventure / underground encounters and online distribution events require their own independently validated sources; those are **not merged into wild PKL**. Game-runtime weather probability and event availability are not established by this static dataset.
+
+## Additional Gen8 raid and Max Lair encounter files
+
+See [raid/README.md](raid/README.md) for two normal nest files, two distribution raid files and the shared Max Lair file (**5 additional PKL records files**). Those five are **raw fixed-width records**, not the `sw/sh` Mini containers documented above. Their pinned upstream byte identity and SHA-256 have been checked; independent ROM-to-reference reconstruction is still pending. The 13 scripted crystal encounters are separately snapshotted from PKHeX C# source as JSON. For original ROM-derived static/gift/trade tables, use `scripts/export_swsh_special_encounters.py`.
