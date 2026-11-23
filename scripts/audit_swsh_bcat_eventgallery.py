@@ -49,7 +49,8 @@ def validate_inventory(manifest: dict) -> None:
             if f["name"] in file_names:
                 raise ValueError("duplicated event file")
             file_names.add(f["name"])
-            if f["bytes"] <= 0 or len(f["git_blob_sha1"]) != 40:
+            if (f["bytes"] < 0 or len(f["git_blob_sha1"]) != 40
+                    or (f["bytes"] == 0 and f["name"] != "missing.txt")):
                 raise ValueError("invalid source Git blob record")
 
 
