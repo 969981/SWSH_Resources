@@ -1,7 +1,7 @@
 {
   "game": "Pokémon Sword/Shield",
   "game_version": "1.3.2",
-  "format": "PKHeX 'ss' Mini/BinLinker, not Python pickle",
+  "format": "PKHeX 'sw' (Sword) / 'sh' (Shield) Mini/BinLinker, not Python pickle",
   "source_catalog": "Unpack/v1.3.2/catalog/wild_encounters.csv",
   "source_catalog_sha256": "108c5a313eca466368d586c5bd9b5197ce93a383d2858667ff3cdf255d7ae90a",
   "prior_audit": "Unpack/v1.3.2/catalog/wild_pkl_version_audit.json",
