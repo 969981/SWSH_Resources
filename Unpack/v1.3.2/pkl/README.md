@@ -26,7 +26,7 @@ From repository root run:
 python scripts/verify_swsh_wild_pkl.py
 ```
 
-Checks all four byte sizes, SHA-256 hashes and `ss` Mini headers, region counts and 4-byte-aligned offset maps.
+Checks all four byte sizes, SHA-256 hashes and version-specific `sw` / `sh` Mini headers, region counts and 4-byte-aligned offset maps.
 
 ## Important scope boundary
 
