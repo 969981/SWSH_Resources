@@ -34,3 +34,15 @@ python scripts/export_swsh_special_encounters.py --out-dir artifacts/swsh-specia
 ```
 
 This also checks the existing original-ROM-derived fixed/gift/trade CSV row indexes and writes readable summaries. Source provenance: [SWSH 1.3.2 semantic catalog](../../catalog/semantic-summary.json). For the 268 unresolved weather-bleed cases use the separately existing GDB observation intake; its current casebook contains no game-verified branch results.
+
+## Read and edit the five fixed-width PKLs
+
+`scripts/swsh_pkl_tool.py` reads or exports all five 10/16/14-byte record files and supports edit-by-JSON with SHA-256 source verification. See `docs/obsidian/SWSH-v1.3.2/34-剑盾PKL格式提取读取编辑指南.md`.
+
+```powershell
+python scripts/swsh_pkl_tool.py export --file Unpack/v1.3.2/pkl/raid/encounter_sw_dist.pkl --json artifacts/swsh-pkl/dist.json --csv artifacts/swsh-pkl/dist.csv
+# Edit dist.json only; the original reference remains immutable.
+python scripts/swsh_pkl_tool.py repack --file Unpack/v1.3.2/pkl/raid/encounter_sw_dist.pkl --json artifacts/swsh-pkl/dist.json --output artifacts/swsh-pkl/dist_edited.pkl
+```
+
+The encoder checks every record after repacking. It cannot make a fabricated Distribution index or edited species automatically legitimate. Full historical BCAT source-to-reference selection, and normal Nest discrepancies, remain independent investigations.
