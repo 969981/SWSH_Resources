@@ -72,10 +72,16 @@ python -m unittest discover -s tests -v
 
 \`weather_bleed_268_cases.csv\` 是 268 槽位、48 场景的静态争议清单；\`weather_bleed_runtime_observations_TEMPLATE.csv\` 仍无实机观测记录。可按 [[25-天气渗透268例运行时验证]] 的 GDB 采样与运行时审核入口写入证明。除非确有对应 BuildID、运行轨迹、天气/位置和原生分支判断证据，状态仍然是 **268 待游戏运行时验证，0 已经证明**。新增特殊 PKL 不会自动解决这 268 个普通野生天气争议。
 
-## 下一阶段原始资源重建工作
+## 原始 ROM 独立复核结果（2026-11-23）
 
-1. 通过 \`data_table.gfpak\` 原始成员、\`EncounterNestArchive\` 与 \`NestHoleDistributionEncounterArchive\` 解包，按原 \`TableID\` 进行明确的双版本映射。
-2. 将 \`LevelTableID\` 对应等级表，\`DropTableID/BonusTableID\` 对应奖励表；使用键 JOIN、校验重复/缺失键、不能把哈希值当数组下标。
-3. 与已导入的固定 PKHeX \`nest/dist\` 及 Max Lair 文件进行逐记录对比，记录差异与来源 SHA-256。**极巨大冒险已实现原始 ROM → PKHeX PKL 273 条、3,822 字节的完整逐字节一致复现**；另外四份普通巢穴及历史配信尚未完成原始文件到 PKL 的完整逐字节独立复现。
-6. 逐项比较原始固定/赠送/交换表与 PKHeX 的手工模板和故事条件，区分存在于文件、满足剧情可达、合法捕获三个层级。
-7. 针对 268 条争议开展配套 BuildID/断点的真实运行样本采集与独立人工审核。
+**极巨大冒险 BYTE_EXACT：** 从原始 `v1.3.2/1/bin/appli/chika/data_table/underground_exploration_poke.bin`（23,296 B；SHA-256 `18d7d6546eb2c6a5ca9531eb13a0a3bffeaab186ee2f6510ea4b6275b5ea4328`）解析全部 273 条 FlatBuffers 记录，并按 PKHeX 特性 / 超极巨化编码转换，按物种 ID 做稳定升序排列，重建得到 `encounter_swsh_underground.pkl` 3,822 字节，与固定 PKHeX 基准逐字节一致。脚本：`scripts/rebuild_swsh_max_lair.py`；状态 **CONFIRMED / BYTE_EXACT**。
+
+**普通巢穴 PARTIAL：** 从原版 `data_table.gfpak` 成员 `000008_A5963232100F7DEE.bin`（371,456 B；SHA-256 `f7ba0222e11c268386b56c1d8c3936e8813a1a1aa08262cd137774cb58847be7`）读取全部 394 张巢穴表、4,728 条原始遭遇条目，其中剑版 197 张、盾版 197 张。按照 5 档权重拆分候选模板并与 PKHeX 巢穴参考做多重集合对账，**未完全一致**；工具 `scripts/audit_swsh_raw_nests.py` 会保存源差异，不能声称 4 张 `nest/dist` 与游戏数据均已独立字节级复现。
+
+## 后续需验证的项目
+
+1. 继续核实原版 `EncounterNestArchive` 中的原始记录如何按照 pkNX 与 PKHeX 规则去重、筛选并生成最终 `nest` 模板，解释差异项。
+2. 按 `TableID`、`LevelTableID`、`DropTableID/BonusTableID` 键 JOIN 原始等级及掉落表，记录重复和缺失键；禁止把哈希值当作数组下标。
+3. 收集不同 BCAT 配信成员，按版本、配信 index 与活动生效时间独立重建 `dist`，目前尚无完整 ROM / 历史配信源与 PKHeX 逐字节复现。
+4. 原始固定/赠送/交换表与 PKHeX C# 模板逐条 JOIN，并建立剧情可达性与合法性验证；原始 CSV 701 条仅代表静态配置。
+5. 对 268 个天气渗透争议槽位按 BuildID、断点和游戏运行 GDB 轨迹验证，静态规则不能替代实机结论。
