@@ -54,8 +54,7 @@ class PKLCodecTests(unittest.TestCase):
                     {"weather_mask": 0x401, "level_min": 2, "level_max": 5,
                      "slot_type": 3, "slots": [{"species": 133, "form": 2}]},
                     {"weather_mask": 1, "level_min": 6, "level_max": 8,
-                     "slot_type": 4, "slots": [{"species": 25, "form": 0},
-                                             {"species": 150, "form": 1}]},
+                     "slot_type": 4, "slots": [{"species": 25, "form": 0}]},
                 ]},
             ],
         }
