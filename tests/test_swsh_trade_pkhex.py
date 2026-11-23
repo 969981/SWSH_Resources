@@ -20,7 +20,7 @@ from audit_swsh_trade_pkhex import (  # noqa: E402
 
 class TradeMatchingTests(unittest.TestCase):
     def test_git_blob_sha1_known_fixture(self):
-        self.assertEqual(git_blob_sha1(b"test\n"), "30d74d258442c7c65512eafab474568dd706c430")
+        self.assertEqual(git_blob_sha1(b"test\n"), "9daeafb9864cf43055ae93beb0afd6c7d144bfa4")
 
     def test_identity_and_version_are_distinct(self):
         base = {key: 0 for key in EXPECTED_FIELDS}
