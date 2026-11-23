@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import struct
+from collections import Counter
 import sys
 import unittest
 from pathlib import Path
@@ -9,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from audit_swsh_raw_nests import audit  # noqa: E402
+from audit_swsh_raw_nests import audit, candidate_provenance, possible_overlap_without_fields  # noqa: E402
 from rebuild_swsh_max_lair import rebuild  # noqa: E402
 from export_swsh_special_encounters import (  # noqa: E402
     decode_raid_record,
@@ -100,6 +101,31 @@ class SourceIntegrationTests(unittest.TestCase):
     def test_original_static_gift_trade_catalogs(self):
         rows = read_original_tables(ROOT, None)
         self.assertEqual([x["records"] for x in rows], [647, 31, 23])
+
+
+class NestDiffTriageTests(unittest.TestCase):
+    def test_source_provenance_uses_source_hash_keys_not_nest_guess(self):
+        row = {
+            "game_version_id": 1, "species": 25, "form": 0,
+            "gender_raw": 0, "ability_raw": 2, "can_gigantamax": False,
+            "nest_index": 2, "flawless_iv_count": 3,
+            "table_id": "123456789", "entry_index": 5,
+            "level_table_id": "123", "drop_table_id": "456",
+            "bonus_table_id": "789", "source_file_sha256": "fake",
+            "rank1_weight": 1, "rank2_weight": 1,
+            "rank3_weight": 0, "rank4_weight": 2, "rank5_weight": 0,
+        }
+        provenance = candidate_provenance([row], 1)
+        self.assertEqual(len(provenance), 2)
+        self.assertEqual(provenance[(25, 0, 255, 4, 0, 2, 0, 1, 3)][0]["table_id"], "123456789")
+        self.assertIn((25, 0, 255, 4, 0, 2, 3, 3, 3), provenance)
+        self.assertEqual(candidate_provenance([row], 2), {})
+
+    def test_independent_possible_overlaps_are_not_proven_equivalence(self):
+        left = Counter({(25, 0, 255, 4, 0, 2, 0, 1, 3): 1})
+        right = Counter({(25, 0, 255, 4, 0, 8, 0, 1, 3): 1})
+        self.assertEqual(possible_overlap_without_fields(left, right, ("nest_index",)), 1)
+        self.assertEqual(possible_overlap_without_fields(left, right, ("gender_code",)), 0)
 
 
 if __name__ == "__main__":
