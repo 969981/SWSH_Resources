@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import struct
 import sys
 import tempfile
 import unittest
@@ -11,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from audit_swsh_bcat_eventgallery import (  # noqa: E402
-    MANIFEST, audit, relative_parts, select_groups,
+    MANIFEST, audit, decode_bcat_envelope, relative_parts, select_groups,
     source_url, validate_inventory, verify_bytes,
 )
 from audit_swsh_trade_pkhex import git_blob_sha1  # noqa: E402
@@ -46,6 +47,30 @@ class BcatArchiveTests(unittest.TestCase):
         url = source_url(self.manifest, group, file)
         self.assertIn(self.manifest["source_commit"], url)
         self.assertIn("Index%20001%20%28Null%29", url)
+
+    def test_flatbuffers_bcat_envelope_is_preserved_and_crc_unproven(self):
+        payload = struct.pack("<I", 4) + b"flatbuffers"
+        blob = bytearray(0x20 + len(payload) + 4)
+        blob[0] = 42
+        struct.pack_into("<I", blob, 8, 0x20)
+        struct.pack_into("<I", blob, 0x10, len(blob) - 4)
+        blob[0x20:0x20 + len(payload)] = payload
+        header = decode_bcat_envelope(bytes(blob))
+        self.assertEqual(header["header_distribution_index"], 42)
+        self.assertEqual(header["payload_bytes"], len(payload))
+        self.assertEqual(header["trailer_crc16_validation"], "UNVERIFIED")
+        broken = bytearray(blob)
+        struct.pack_into("<I", broken, 8, 0)
+        with self.assertRaisesRegex(ValueError, "header length marker"):
+            decode_bcat_envelope(bytes(broken))
+        broken = bytearray(blob)
+        struct.pack_into("<I", broken, 0x10, len(broken))
+        with self.assertRaisesRegex(ValueError, "declared file length"):
+            decode_bcat_envelope(bytes(broken))
+        broken = bytearray(blob)
+        struct.pack_into("<I", broken, 0x20, 0xFFFF)
+        with self.assertRaisesRegex(ValueError, "root pointer"):
+            decode_bcat_envelope(bytes(broken))
 
     def test_rejects_wrong_bytes(self):
         fake = {"name": "test", "bytes": 4, "git_blob_sha1": git_blob_sha1(b"abcd")}
