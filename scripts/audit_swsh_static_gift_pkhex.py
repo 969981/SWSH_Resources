@@ -37,6 +37,30 @@ def candidate_templates(row: dict, templates: list[dict]) -> list[dict]:
     return matches
 
 
+def no_candidate_reason(row: dict, templates: list[dict]) -> str:
+    """Explain the first failed *candidate* filter, without inferring legality."""
+    identity = [
+        t for t in templates
+        if (t["species"], t["form"], t["level"]) ==
+        (int(row["Species"]), int(row["Form"]), int(row["Level"]))
+    ]
+    if not identity:
+        return "NO_SPECIES_FORM_LEVEL"
+    matching_moves = [
+        t for t in identity
+        if not t.get("moves") or all(
+            move == int(row.get(f"Move{i}", "0"))
+            for i, move in enumerate(t["moves"])
+        )
+    ]
+    if not matching_moves:
+        return "PKHEX_EXPLICIT_MOVES_DIFFER"
+    if not any(not t.get("must_gmax") or int(row["CanGigantamax"]) == 1
+               for t in matching_moves):
+        return "PKHEX_EXPLICIT_GMAX_DIFFER"
+    raise ValueError("no-candidate diagnostic called for a matched row")
+
+
 def audit(repo: Path, out: Path | None = None, pinned_cs: Path | None = None) -> dict:
     manifest = json.loads((repo / MANIFEST).read_text(encoding="utf-8"))
     if pinned_cs is not None:
@@ -59,16 +83,21 @@ def audit(repo: Path, out: Path | None = None, pinned_cs: Path | None = None) ->
         if [int(r["record_index"]) for r in rows] != list(range(len(rows))):
             raise ValueError(f"{kind}: missing or unordered source indexes")
         hist: Counter[int] = Counter()
+        gap_hist: Counter[str] = Counter()
         cases = []
         for row in rows:
             candidates = candidate_templates(row, templates)
             n = len(candidates)
             hist[n] += 1
+            gap_reason = no_candidate_reason(row, templates) if n == 0 else None
+            if gap_reason is not None:
+                gap_hist[gap_reason] += 1
             cases.append({
                 "source_row": int(row["record_index"]),
                 "species": int(row["Species"]), "form": int(row["Form"]),
                 "level": int(row["Level"]), "candidate_count": n,
                 "candidate_pkhex_ids": [x["id"] for x in candidates],
+                "gap_reason": gap_reason,
                 "pkhex_version_candidates": sorted({
                     x["group"].replace("Static", "") for x in candidates
                 }),
@@ -85,7 +114,7 @@ def audit(repo: Path, out: Path | None = None, pinned_cs: Path | None = None) ->
         }
         if measured != baseline:
             raise ValueError(f"{kind}: derived candidate coverage changed from pinned baseline")
-        reports[kind] = measured
+        reports[kind] = {**measured, "no_candidate_reason_histogram": dict(sorted(gap_hist.items()))}
         detailed[kind] = cases
         if out is not None:
             (out / f"{kind}_candidate_links.jsonl").write_text(
