@@ -1,0 +1,69 @@
+{
+  "game": "Pokémon Sword/Shield",
+  "game_version": "1.3.2",
+  "format": "PKHeX Gen8 fixed-width binary encounter records; NOT Mini containers and NOT Python pickle",
+  "pkhex_commit": "0660d1e1f4924b8478daec73281bb8071a82ad19",
+  "upstream_path": "PKHeX.Core/Resources/legality/wild/Gen8",
+  "upstream_license": "GPL-3.0",
+  "import_verification": "Git blob SHA-1 matches the pinned upstream file; SHA-256 independently computed over identical bytes; file length divisible by exact record stride; decoded species/layout/rank fields validated",
+  "game_rom_semantic_rebuild": "NOT YET VERIFIED: these raid/distribution/Max Lair PKLs have not been independently reproduced from original v1.3.2 raid FlatBuffers archives in this stage",
+  "distribution_availability": "No event distribution start/end dates are represented by these fixed-length records. Entries must not be called active without dated distribution evidence.",
+  "in_game_shiny": "Do not equate distribution shiny flag with runtime capture behavior for normal nests or Max Lair. Max Lair has a separate post-adventure shiny roll in PKHeX reference.",
+  "source_relationships": [
+    "Unpack/v1.3.2/parsed/bin/archive/field/resident/data_table.gfpak.manifest.json",
+    "docs/obsidian/SWSH-v1.3.2/09-极巨巢穴活动与奖励.md",
+    "docs/obsidian/SWSH-v1.3.2/18-巢穴结构字段表.md"
+  ],
+  "files": [
+    {
+      "name": "encounter_sw_nest.pkl",
+      "version": "Sword",
+      "kind": "nest",
+      "stride": 10,
+      "records": 2156,
+      "bytes": 21560,
+      "sha256": "ba888a27695552715667a1a6cf6f25a45b22470e02f7bc124727f9c59c2bf0d3",
+      "pinned_git_blob_sha1": "fbd5a0beb755c17af2250886eba282b87d2ee1d9"
+    },
+    {
+      "name": "encounter_sh_nest.pkl",
+      "version": "Shield",
+      "kind": "nest",
+      "stride": 10,
+      "records": 2151,
+      "bytes": 21510,
+      "sha256": "4fb1ddabb1503271f0527fafda0e28c2fd64299fc600ed4a57455675d5298ab7",
+      "pinned_git_blob_sha1": "5464521288f52e8896b03c81ac285d2491a3f7f6"
+    },
+    {
+      "name": "encounter_sw_dist.pkl",
+      "version": "Sword",
+      "kind": "dist",
+      "stride": 16,
+      "records": 1171,
+      "bytes": 18736,
+      "sha256": "fcb0e71aef2ce28d6a82f35904892b0235e8b141f79d2b14c33083f5fcfc8819",
+      "pinned_git_blob_sha1": "0930b24650067c1a04c4e615c01b9fa96319ae72"
+    },
+    {
+      "name": "encounter_sh_dist.pkl",
+      "version": "Shield",
+      "kind": "dist",
+      "stride": 16,
+      "records": 1179,
+      "bytes": 18864,
+      "sha256": "ba650fb0ed703462039e14d8d4b7bbb2e09be346456b49ab34b15fed329e2d79",
+      "pinned_git_blob_sha1": "d3bead9dd7797cf1578b1a415a8a5ee7a69af255"
+    },
+    {
+      "name": "encounter_swsh_underground.pkl",
+      "version": "Shared",
+      "kind": "max_lair",
+      "stride": 14,
+      "records": 273,
+      "bytes": 3822,
+      "sha256": "65480087c7d2bb92b044954fc604e2be9c3aaf39854176a699a4c41012942302",
+      "pinned_git_blob_sha1": "4026654b95032f01c058e5300240befe6c5268fe"
+    }
+  ]
+}
