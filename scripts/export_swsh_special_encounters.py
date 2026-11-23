@@ -121,7 +121,8 @@ def read_raids(repo: Path, out: Path | None) -> list[dict]:
             "file": meta["name"], "kind": meta["kind"], "game": meta["version"],
             "records": count, "bytes": len(data), "sha256": digest,
             "distinct_species": len({x["species"] for x in records}),
-            "status": "PKHEX_REFERENCE_BYTE_IDENTICAL__NOT_ROM_REBUILT",
+            "status": ("BYTE_EXACT_ROM_TO_PKHEX_REBUILD" if meta["kind"] == "max_lair"
+                       else "PKHEX_REFERENCE_BYTE_IDENTICAL__NOT_ROM_REBUILT"),
         }
         total[meta["kind"]] += count
         results.append(result)
@@ -192,7 +193,7 @@ def main() -> int:
     summary = {
         "game": "SWSH", "game_version": "1.3.2",
         "raid_reference": "kwsch/PKHeX@0660d1e1f4924b8478daec73281bb8071a82ad19",
-        "raid_source_rebuilt_from_rom": False,
+        "raid_source_rebuilt_from_rom": {"nest": False, "dist": False, "max_lair": True},
         "distribution_event_active": "UNKNOWN",
         "weather_bleed_runtime_verified": False,
         "weather_bleed_unresolved_cases_in_existing_casebook": 268,
