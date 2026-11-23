@@ -9,6 +9,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
+from audit_swsh_raw_nests import audit  # noqa: E402
+from rebuild_swsh_max_lair import rebuild  # noqa: E402
 from export_swsh_special_encounters import (  # noqa: E402
     decode_raid_record,
     read_original_tables,
@@ -81,6 +83,19 @@ class SourceIntegrationTests(unittest.TestCase):
         self.assertEqual(len(rows), 5)
         self.assertEqual(sum(x["records"] for x in rows), 6930)
         self.assertEqual([x["records"] for x in rows], [2156, 2151, 1171, 1179, 273])
+
+    def test_rom_max_lair_rebuild_byte_exact(self):
+        binary, summary = rebuild(ROOT)
+        self.assertEqual(len(binary), 3822)
+        self.assertEqual(summary["status"], "BYTE_EXACT_ROM_TO_PKHEX_REBUILD")
+        self.assertEqual(summary["original_entries"], 273)
+
+    def test_original_nest_source_audit(self):
+        report = audit(ROOT, None)
+        self.assertEqual(report["original_tables"], 394)
+        self.assertEqual(report["original_rows"], 4728)
+        self.assertEqual([x["reference_records"] for x in report["comparisons"]], [2156, 2151])
+        self.assertTrue(all(x["status"].startswith("PARTIAL") for x in report["comparisons"]))
 
     def test_original_static_gift_trade_catalogs(self):
         rows = read_original_tables(ROOT, None)
