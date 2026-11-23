@@ -10,6 +10,7 @@ import argparse
 import hashlib
 import json
 import os
+import struct
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -82,6 +83,42 @@ def verify_bytes(data: bytes, file: dict) -> None:
         raise ValueError(f"downloaded BCAT source integrity mismatch: {file['name']}")
 
 
+def decode_bcat_envelope(data: bytes) -> dict:
+    """pkNX SWSH GetDistributionContents header check; CRC deliberately unverified.
+
+    Source: tools/pkNX/pkNX.WinForms/Dumping/Gen8/GameDumperSWSH.cs.
+    The BCAT index is a byte in the archive header, not necessarily the
+    numbered EventsGallery directory or the PKHeX distribution index.
+    """
+    if len(data) < 0x24:
+        raise ValueError("BCAT file too short for 0x20 header and 4-byte trailer")
+    if struct.unpack_from("<I", data, 8)[0] != 0x20:
+        raise ValueError("BCAT header length marker is not 0x20")
+    if struct.unpack_from("<I", data, 0x10)[0] + 4 != len(data):
+        raise ValueError("BCAT header declared file length does not match bytes")
+    payload = data[0x20:-4]
+    if len(payload) < 4:
+        raise ValueError("BCAT payload too short for FlatBuffers root reference")
+    root_offset = struct.unpack_from("<I", payload, 0)[0]
+    if root_offset < 4 or root_offset >= len(payload):
+        raise ValueError("BCAT payload FlatBuffers root pointer out of bounds")
+    return {
+        "header_distribution_index": data[0],
+        "declared_size_plus_trailer": len(data),
+        "payload_offset": 32,
+        "payload_bytes": len(payload),
+        "flatbuffers_root_offset": root_offset,
+        "trailer_hex": data[-4:].hex(),
+        "trailer_crc16_validation": "UNVERIFIED",
+    }
+
+
+BCAT_PAYLOAD_NAMES = frozenset({
+    "normal_encount", "normal_encount_rigel1", "normal_encount_rigel2",
+    "dai_encount", "drop_rewards", "bonus_rewards",
+})
+
+
 def audit(repo: Path, index: str | None, all_groups: bool, out: Path,
           download: bool = False) -> dict:
     manifest = json.loads((repo / MANIFEST).read_text(encoding="utf-8"))
@@ -123,6 +160,10 @@ def audit(repo: Path, index: str | None, all_groups: bool, out: Path,
                 summary["missing"].append("/".join(parts))
                 continue
             verify_bytes(data, f)
+            header_info = (
+                decode_bcat_envelope(data) if f["name"] in BCAT_PAYLOAD_NAMES
+                else {"type": "NON_BCAT_METADATA", "envelope_check": "SKIPPED"}
+            )
             summary["files_verified"] += 1
             summary["total_bytes_verified"] += len(data)
             summary["verified"].append({
@@ -130,6 +171,7 @@ def audit(repo: Path, index: str | None, all_groups: bool, out: Path,
                 "bytes": len(data),
                 "sha256": hashlib.sha256(data).hexdigest(),
                 "pinned_git_blob_sha1": f["git_blob_sha1"],
+                "envelope": header_info,
             })
     return summary
 
