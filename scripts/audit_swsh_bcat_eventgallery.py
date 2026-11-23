@@ -121,7 +121,7 @@ BCAT_PAYLOAD_NAMES = frozenset({
 
 
 def audit(repo: Path, index: str | None, all_groups: bool, out: Path,
-          download: bool = False) -> dict:
+          download: bool = False, filter_names: frozenset[str] | None = None) -> dict:
     manifest = json.loads((repo / MANIFEST).read_text(encoding="utf-8"))
     validate_inventory(manifest)
     groups = select_groups(manifest, index, all_groups)
@@ -139,6 +139,8 @@ def audit(repo: Path, index: str | None, all_groups: bool, out: Path,
     }
     for group in groups:
         for f in group["files"]:
+            if filter_names is not None and f["name"] not in filter_names:
+                continue
             parts = relative_parts(group, f)
             dest = out.joinpath(*parts)
             if dest.is_file():
