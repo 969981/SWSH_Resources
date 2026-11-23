@@ -284,7 +284,10 @@ def main() -> int:
     repo = args.repo.resolve()
     source_dir = args.source_dir.resolve()
     if args.download:
-        fetch_archive(repo, args.index, args.all, source_dir, download=True)
+        fetch_archive(
+            repo, args.index, args.all, source_dir, download=True,
+            filter_names=BCAT_ENCOUNTER_FILES,
+        )
     out = None if args.validate_only else args.out_dir.resolve()
     if out is not None:
         out.mkdir(parents=True, exist_ok=True)
