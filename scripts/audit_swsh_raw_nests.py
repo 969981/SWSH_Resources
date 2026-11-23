@@ -109,6 +109,45 @@ def collect_source(repo: Path):
     return rows, candidates
 
 
+def candidate_provenance(originals: list[dict], version: int) -> dict[tuple, list[dict]]:
+    """Attach unmatched candidate ranks to their actual ROM table IDs.
+
+    This is *not* a den-location join: table/level/drop IDs remain hashes.
+    """
+    provenance: dict[tuple, list[dict]] = {}
+    for row in originals:
+        if row["game_version_id"] != version:
+            continue
+        ranks = [row[f"rank{i}_weight"] for i in range(1, 6)]
+        for lo, hi in consecutive_ranges(ranks):
+            key = (
+                row["species"], row["form"], GENDER_MAP[row["gender_raw"]],
+                ABILITY_MAP[row["ability_raw"]], int(row["can_gigantamax"]),
+                row["nest_index"], lo, hi, row["flawless_iv_count"],
+            )
+            provenance.setdefault(key, []).append({
+                "table_id": row["table_id"],
+                "entry_index": row["entry_index"],
+                "level_table_id": row["level_table_id"],
+                "drop_table_id": row["drop_table_id"],
+                "bonus_table_id": row["bonus_table_id"],
+                "rank_weights": ranks,
+                "source_file_sha256": row["source_file_sha256"],
+            })
+    return provenance
+
+
+def possible_overlap_without_fields(a: Counter, b: Counter, omitted: tuple[str, ...]) -> int:
+    """Independent candidate evidence; overlaps are NOT disjoint diagnoses."""
+    keep = [i for i, name in enumerate(FIELDS) if name not in omitted]
+    left, right = Counter(), Counter()
+    for key, qty in a.items():
+        left[tuple(key[i] for i in keep)] += qty
+    for key, qty in b.items():
+        right[tuple(key[i] for i in keep)] += qty
+    return sum((left & right).values())
+
+
 def audit(repo: Path, out: Path | None):
     originals, candidates = collect_source(repo)
     comparisons = []
@@ -133,12 +172,34 @@ def audit(repo: Path, out: Path | None):
             "source_duplicate_instances": sum(n - 1 for n in a.values()),
             "status": "PARTIAL_SOURCE_TO_PINNED_REFERENCE_PARITY__NOT_BYTE_EXACT",
         }
+        # These candidate overlaps are non-exclusive leads, not a claimed cause.
+        summary["potential_nest_reindex_overlap"] = possible_overlap_without_fields(
+            source_only, reference_only, ("nest_index",)
+        )
+        summary["potential_rank_span_overlap"] = possible_overlap_without_fields(
+            source_only, reference_only, ("min_rank_zero_based", "max_rank_zero_based")
+        )
+        summary["potential_ability_gender_overlap"] = possible_overlap_without_fields(
+            source_only, reference_only, ("ability_permission", "gender_code")
+        )
         comparisons.append(summary)
         if out is not None:
+            provenance = candidate_provenance(originals, version)
             with (out / ("nest_mismatch_" + summary["game"].lower() + ".json")).open("w", encoding="utf-8") as f:
                 json.dump({
-                    "source_only": [{"key": list(k), "count": n} for k, n in sorted(source_only.items())],
+                    "note": "Potential overlaps are hypotheses, not exhaustive/disjoint mismatch causes.",
+                    "source_only": [
+                        {"key": list(k), "count": n, "source_evidence": provenance.get(k, [])}
+                        for k, n in sorted(source_only.items())
+                    ],
                     "reference_only": [{"key": list(k), "count": n} for k, n in sorted(reference_only.items())],
+                    "potential_group_differences": {
+                        key: summary[key] for key in (
+                            "potential_nest_reindex_overlap",
+                            "potential_rank_span_overlap",
+                            "potential_ability_gender_overlap",
+                        )
+                    },
                 }, f, ensure_ascii=False, indent=2)
     report = {
         "source_path": str(SOURCE),
