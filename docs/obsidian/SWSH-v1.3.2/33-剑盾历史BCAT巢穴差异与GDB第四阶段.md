@@ -36,6 +36,12 @@ status: PARTIAL_NATIVE_REBUILD__FULL_HISTORICAL_CI_PENDING
 
 仅转换非空权重的原生模板，并按当前 pkNX 源码跳过 `Field13==6 && Field14==6` 的不可捕获行。**这属于 pinned pkNX 投影规则**，不是对每项活动实际可捕获性的游戏运行时证明。
 
+此外，对于每个版本会从 **BCAT 原始 FlatBuffers 自身** 生成确定性去重的 16 字节记录数组：
+- `encounter_sw_dist_rom_candidates.pkl`
+- `encounter_sh_dist_rom_candidates.pkl`
+
+这两份只写入被 `.gitignore` 排除的本地 `artifacts/swsh-bcat-dist/` 目录，**明确标注 `ROM_DERIVED_CANDIDATES_NOT_PKHEX_CURATED`**。它们依原始物种、活动 index、记录字节做确定性排序，**不是** 用 PKHeX 参考文件重排、复制或宣布合法性覆盖完成。只有在历史过滤、去重和最终排序都独立证明之后，才能进一步宣布两个官方参考 Dist PKL 完全独立重建。
+
 全量历史匹配会输出：
 - `dist_reference_matches_1/2.json`：PKHeX 每条引用的精确来源，可重复出现；
 - `dist_reference_missing_1/2.json`：参考模板没有源映射的待解释缺口；
