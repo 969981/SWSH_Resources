@@ -206,7 +206,25 @@ def audit(repo: Path, source_dir: Path, group_index: str | None,
              "sources": items}
             for encoded, items in sorted(sources.items()) if encoded not in ref_seen
         ]
+        # Deterministic ROM-derived candidate export; NO source records are
+        # copied from the reference PKL to manufacture byte-identical parity.
+        # Species/index/record bytes define an audit sort, not a PKHeX sort.
+        ordered_candidates = sorted(
+            sources, key=lambda h: (
+                int.from_bytes(bytes.fromhex(h)[:2], "little"),
+                int(h[-2:], 16), h,
+            )
+        )
+        candidate_bytes = b"".join(bytes.fromhex(h) for h in ordered_candidates)
+        if len(candidate_bytes) != 16 * len(ordered_candidates):
+            raise ValueError("dist candidate serializer lost the 16-byte stride")
+        candidate_name = ("encounter_sw_dist_rom_candidates.pkl" if version == 1
+                          else "encounter_sh_dist_rom_candidates.pkl")
         summary = {
+            "source_candidate_pkl_name": candidate_name,
+            "source_candidate_pkl_bytes": len(candidate_bytes),
+            "source_candidate_pkl_sha256": hashlib.sha256(candidate_bytes).hexdigest(),
+            "source_candidate_pkl_status": "ROM_DERIVED_CANDIDATES_NOT_PKHEX_CURATED",
             "reference_filename": name,
             "reference_records": len(ref),
             "source_unique_records": len(sources),
@@ -221,6 +239,7 @@ def audit(repo: Path, source_dir: Path, group_index: str | None,
         }
         comparisons["Sword" if version == 1 else "Shield"] = summary
         if out is not None:
+            (out / candidate_name).write_bytes(candidate_bytes)
             (out / ("dist_reference_missing_" + str(version) + ".json")).write_text(
                 json.dumps(unmatched, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
             )
