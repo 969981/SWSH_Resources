@@ -61,6 +61,8 @@ PKHeX 还有 13 条水晶／特定招募遭遇，已按固定源码快照落在 
 python scripts/verify_swsh_wild_pkl.py
 python scripts/export_swsh_special_encounters.py --validate-only
 python scripts/export_swsh_special_encounters.py --out-dir artifacts/swsh-special
+python scripts/rebuild_swsh_max_lair.py --validate-only
+python scripts/audit_swsh_raw_nests.py --validate-only
 python -m unittest discover -s tests -v
 \`\`\`
 
@@ -74,6 +76,6 @@ python -m unittest discover -s tests -v
 
 1. 通过 \`data_table.gfpak\` 原始成员、\`EncounterNestArchive\` 与 \`NestHoleDistributionEncounterArchive\` 解包，按原 \`TableID\` 进行明确的双版本映射。
 2. 将 \`LevelTableID\` 对应等级表，\`DropTableID/BonusTableID\` 对应奖励表；使用键 JOIN、校验重复/缺失键、不能把哈希值当数组下标。
-3. 与已导入的固定 PKHeX \`nest/dist\` 及 Max Lair 文件进行逐记录对比，记录差异与来源 SHA-256。**当前未建立这五个参考 PKL 的 ROM→PKL 字节级独立复现**。
-4. 逐项比较原始固定/赠送/交换表与 PKHeX 的手工模板和故事条件，区分存在于文件、满足剧情可达、合法捕获三个层级。
-5. 针对 268 条争议开展配套 BuildID/断点的真实运行样本采集与独立人工审核。
+3. 与已导入的固定 PKHeX \`nest/dist\` 及 Max Lair 文件进行逐记录对比，记录差异与来源 SHA-256。**极巨大冒险已实现原始 ROM → PKHeX PKL 273 条、3,822 字节的完整逐字节一致复现**；另外四份普通巢穴及历史配信尚未完成原始文件到 PKL 的完整逐字节独立复现。
+6. 逐项比较原始固定/赠送/交换表与 PKHeX 的手工模板和故事条件，区分存在于文件、满足剧情可达、合法捕获三个层级。
+7. 针对 268 条争议开展配套 BuildID/断点的真实运行样本采集与独立人工审核。
