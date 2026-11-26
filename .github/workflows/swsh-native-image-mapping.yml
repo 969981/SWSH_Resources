@@ -1,0 +1,47 @@
+name: SWSH native image mapping
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_native_image_mapping.py
+      - tests/test_swsh_native_image_mapping.py
+      - .github/workflows/swsh-native-image-mapping.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  mapping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_native_image_mapping.py
+            /scripts/swsh_image_resource_audit.py
+            /tests/test_swsh_native_image_mapping.py
+            /Unpack/v1.3.2/catalog/item_properties.csv
+            /v1.3.2/1/bin/appli/icon_pokemon/pokecaplist.bin
+            /v1.3.2/1/bin/pml/personal/personal_total.bin
+            /v1.3.2/1/bin/pml/item/item.dat
+            /v1.3.2/1/bin/message/*/common/ribbon.tbl
+            /v1.3.2/1/bin/message/*/common/typename.tbl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_swsh_native_image_mapping.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: SWSHImageResources-metadata
+          run-id: 45769320289
+          github-token: ${{ github.token }}
+          path: artifacts/SWSHImageResources
+      - run: python scripts/swsh_native_image_mapping.py --package artifacts/SWSHImageResources
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-native-image-mapping
+          path: artifacts/swsh-native-image-map/
+          if-no-files-found: warn
