@@ -1,0 +1,54 @@
+name: SWSH model catalog and PRMB resource audit
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_model_prmb_audit.py
+      - tests/test_swsh_model_prmb_audit.py
+      - .github/workflows/swsh-model-prmb-audit.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_model_prmb_audit.py
+            /scripts/swsh_image_resource_core.py
+            /scripts/swsh_image_selectors.py
+            /scripts/swsh_native_image_mapping.py
+            /scripts/swsh_image_resource_audit.py
+            /scripts/swsh_image_package.py
+            /tests/test_swsh_model_prmb_audit.py
+            /v1.3.2/1/bin/pokemon/table/*.gfbpmcatalog
+            /v1.3.2/1/bin/appli/**/*.prmb
+            /v1.3.2/1/bin/appli/pokebox/bin/*.arc
+            /v1.3.2/1/bin/appli/pokebox/bin/uikit_*.bin
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_swsh_model_prmb_audit.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: SWSHImageResources-metadata
+          run-id: 45769320289
+          github-token: ${{ github.token }}
+          path: artifacts/package
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-image-selectors-metadata
+          run-id: 45771287593
+          github-token: ${{ github.token }}
+          path: artifacts/selectors
+      - run: python scripts/swsh_model_prmb_audit.py --package artifacts/package --selectors artifacts/selectors
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-model-prmb-metadata
+          path: artifacts/swsh-model-prmb-research/
+          if-no-files-found: warn
