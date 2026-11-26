@@ -1,0 +1,42 @@
+name: SWSH native material preview audit
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_native_material_renderer.py
+      - tests/test_swsh_native_material_renderer.py
+      - .github/workflows/swsh-material-preview.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh*.py
+            /tests/test_swsh_native_material_renderer.py
+            /v1.3.2/1/bin/appli/pokebox/bin/pokebox_top.arc
+            /v1.3.2/1/bin/appli/pokebox/bin/pokebox_wallpaper.arc
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install numpy==2.2.6 Pillow==12.3.0
+      - run: python -m unittest discover -s tests -p test_swsh_native_material_renderer.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: SWSHImageResources-metadata
+          run-id: 45769320289
+          github-token: ${{ github.token }}
+          path: artifacts/package
+      - run: python scripts/swsh_native_material_renderer.py --package artifacts/package
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-material-preview-metadata
+          path: artifacts/swsh-material-preview/*.json*
+          if-no-files-found: warn
