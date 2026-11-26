@@ -79,6 +79,18 @@ def main():
             except Exception as e:errors.append(dict(**source,error=str(e)))
     bg=[r for r in animations if re.fullmatch(r"bg_(?:default|\d{2})",r.get("animation",""))]
     marking=[r for r in animations if r.get("animation","").startswith("marking_")]
+
+    # Frame-zero evidence only. Don't interpolate or assume save enum ordering.
+    recipes=[]
+    for r in bg:
+        visible=[t["target"] for t in r["tracks"] if t["tag"]=="FLVI" and any(k["frame"]==0 and k["value"]==1 for k in t["keys"])]
+        direct=[dict(target=t["target"],texture=k.get("texture_name")) for t in r["tracks"] if t["tag"]=="FLTP" and t["target"] in visible for k in t["keys"] if k["frame"]==0]
+        static=[dict(member_index=p["member_index"],pane=p["pane"],material=p["material"],texture_names=p["texture_names"],uvs=p["uvs"]) for p in layouts if p["source_path"]==r["source_path"] and p["pane"] in visible]
+        recipes.append(dict(animation=r["animation"],source_path=r["source_path"],member_index=r["member_index"],visible=visible,direct_frame_zero=direct,static_layout_candidates=static,wallpaper_id=None,
+            status="FRAME_ZERO_DIRECT" if direct else "STATIC_PANE_REQUIRED" if visible else "FOUR_BACKGROUND_PANES_HIDDEN"))
+    write(a.out/"wallpaper_recipes.jsonl",recipes)
+    print("WALLPAPER_RECIPE_SUMMARY",json.dumps([dict(animation=r["animation"],visible=r["visible"],direct=r["direct_frame_zero"],static=[dict(member_index=p["member_index"],pane=p["pane"],texture_names=p["texture_names"]) for p in r["static_layout_candidates"]],status=r["status"]) for r in recipes],ensure_ascii=False))
+
     registry=defaultdict(list)
     # Only exact hashes of names with independent ELF evidence are labelled confirmed.
     known={f"{fnv64(s):016x}":s for s in ["ribbon_table","showNum","imageName","imageName2"]}

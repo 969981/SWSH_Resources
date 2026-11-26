@@ -14,3 +14,7 @@ PAT1/pai1 structure from vendored Switch-Toolbox CAFE/BFLAN.cs verified against 
 ## Registry
 Use actual PRMB schemas, group field hash and type hashes by occurrence. Only known ELF literal hash labels promoted; unknown/candidate separate. SQLite copy from verified core; add model_catalog, model_icon_links, prmb_schema_fields, prmb_image_strings, box_animation. Original database untouched. CI pending. 
 Wallpaper ID mapping remains unresolved until animated selection and native consumer proven; no guessed IDs.
+
+## 实际全量验收
+Run 45775373124 PASS：198 FLAN，1503 tracks (FLVC264 FLPA124 FLVI155 FLMC805 FLTS116 FLTP99)，0 errors，SQLite integrity/foreign keys PASS。PRMB 762 unique field hashes，4 ELF-confirmed names，924 image strings，1778 model rows，882 model links。Artifact 15095957026。
+19 bg animations: 17 visible pane + exact frame0 FLTP texture same number; bg_13 member151 only P_mirror_hv_00 visible and no FLTP, require static material; bg_default member133 no textures and four FLVI0. 9 repeat,6 vertical mirror,2 RGB,1 HV mirror,1 default (actual count repeat 9? repeat 00,01,02,06,07,09,12,15,16 =9; vertical 03,04,10,11,14,17 =6). Frame0 recipes added with static pane candidates. Native save ID not confirmed. No final GPU renderer or PNG output. No unknown field guessed as confirmed.
