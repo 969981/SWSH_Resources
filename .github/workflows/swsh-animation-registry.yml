@@ -1,0 +1,43 @@
+name: SWSH wallpaper animation and schema registry
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_animation_registry.py
+      - .github/workflows/swsh-animation-registry.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh*.py
+            /v1.3.2/1/bin/appli/pokebox/bin/*.arc
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-model-prmb-metadata
+          run-id: 45774472651
+          github-token: ${{ github.token }}
+          path: artifacts/model
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-image-resource-core-metadata
+          run-id: 45772559680
+          github-token: ${{ github.token }}
+          path: artifacts/core
+      - run: python scripts/swsh_animation_registry.py --model-audit artifacts/model --core artifacts/core
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-animation-registry
+          path: artifacts/swsh-animation-registry/
+          if-no-files-found: warn

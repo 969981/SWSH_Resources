@@ -1,0 +1,47 @@
+name: SWSH categorized image resource package
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_image_package.py
+      - tests/test_swsh_image_package.py
+      - .github/workflows/swsh-image-package.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_image_package.py
+            /scripts/swsh_image_resource_audit.py
+            /scripts/swsh_texture_decoder.py
+            /tests/test_swsh_image_package.py
+            /Unpack/v1.3.2/catalog/image_source_inventory.csv
+            /Unpack/v1.3.2/catalog/item_properties.csv
+            /v1.3.2/1/bin/appli/**/*.arc
+            /v1.3.2/1/bin/appli/icon_pokemon/pokecaplist.bin
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install numpy==2.2.6 Pillow==12.3.0
+      - run: python -m unittest discover -s tests -p test_swsh_image_package.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-texture-parity-metadata
+          run-id: 45768302542
+          github-token: ${{ github.token }}
+          path: artifacts/verified-pixels
+      - run: python scripts/swsh_image_package.py --pixels artifacts/verified-pixels/pixels.jsonl
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: SWSHImageResources-metadata
+          path: artifacts/SWSHImageResources/*.json*
+          if-no-files-found: warn

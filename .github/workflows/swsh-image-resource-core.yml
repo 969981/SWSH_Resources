@@ -1,0 +1,51 @@
+name: SWSH native ribbon and image resource core
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_image_resource_core.py
+      - tests/test_swsh_image_resource_core.py
+      - .github/workflows/swsh-image-resource-core.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_image_resource_core.py
+            /scripts/swsh_image_selectors.py
+            /scripts/swsh_native_image_mapping.py
+            /scripts/swsh_image_resource_audit.py
+            /tests/test_swsh_image_resource_core.py
+            /v1.3.2/1/bin/appli/ribbon/data_table/status_ribbon.prmb
+            /v1.3.2/1/bin/message/*/common/ribbon.dat
+            /v1.3.2/1/bin/message/*/common/ribbon.tbl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_swsh_image_resource_core.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: SWSHImageResources-metadata
+          run-id: 45769320289
+          github-token: ${{ github.token }}
+          path: artifacts/SWSHImageResources
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-image-selectors-metadata
+          run-id: 45771287593
+          github-token: ${{ github.token }}
+          path: artifacts/selectors
+      - run: python scripts/swsh_image_resource_core.py --package artifacts/SWSHImageResources --selectors artifacts/selectors
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-image-resource-core-metadata
+          path: artifacts/SWSHImageResourceCore/
+          if-no-files-found: warn

@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install texture test dependencies
+        run: python -m pip install numpy==2.2.6 Pillow==12.3.0 texture2ddecoder==1.0.6
       - name: Syntax checks
         run: python -m compileall -q scripts tests
       - name: Synthetic tests

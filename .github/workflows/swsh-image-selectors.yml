@@ -1,0 +1,50 @@
+name: SWSH image selectors and native messages
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_image_selectors.py
+      - tests/test_swsh_image_selectors.py
+      - .github/workflows/swsh-image-selectors.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  selectors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_image_selectors.py
+            /scripts/swsh_native_image_mapping.py
+            /scripts/swsh_image_resource_audit.py
+            /tests/test_swsh_image_selectors.py
+            /v1.3.2/1/bin/appli/icon_pokemon/pokecaplist.bin
+            /v1.3.2/1/bin/pml/personal/personal_total.bin
+            /v1.3.2/1/bin/appli/pokebox/bin/pokebox_wallpaper.arc
+            /v1.3.2/1/bin/message/*/common/ribbon.dat
+            /v1.3.2/1/bin/message/*/common/ribbon.tbl
+            /v1.3.2/1/bin/message/*/common/typename.dat
+            /v1.3.2/1/bin/message/*/common/typename.tbl
+            /v1.3.2/1/bin/message/*/common/box.dat
+            /v1.3.2/1/bin/message/*/common/box.tbl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_swsh_image_selectors.py -v
+      - uses: actions/download-artifact@v4
+        with:
+          name: SWSHImageResources-metadata
+          run-id: 45769320289
+          github-token: ${{ github.token }}
+          path: artifacts/SWSHImageResources
+      - run: python scripts/swsh_image_selectors.py --package artifacts/SWSHImageResources
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-image-selectors-metadata
+          path: artifacts/swsh-image-selectors/
+          if-no-files-found: warn

@@ -1,0 +1,43 @@
+name: Pokemon cross-game pixel index
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/pokemon_image_crosswalk.py
+      - tests/test_pokemon_image_crosswalk.py
+      - .github/workflows/pokemon-cross-game-pixel-index.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  home-pixels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/pokemon_image_crosswalk.py
+            /tests/test_pokemon_image_crosswalk.py
+      - uses: actions/checkout@v4
+        with:
+          repository: 969981/PokeHome_Resources
+          ref: 9fa10809a23e1fc8d5b6987d77112c2cfe1ff9fb
+          path: home-source
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /HomeImageResources/**/*.png
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install Pillow==12.3.0
+      - run: python -m unittest discover -s tests -p test_pokemon_image_crosswalk.py -v
+      - run: python scripts/pokemon_image_crosswalk.py home-scan --root home-source --out artifacts/home-pixels
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: home-pixel-metadata
+          path: artifacts/home-pixels/
+          if-no-files-found: warn

@@ -1,0 +1,41 @@
+name: SWSH image resource audit
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - scripts/swsh_image_resource_audit.py
+      - tests/test_swsh_image_resource_audit.py
+      - .github/workflows/swsh-image-resource-audit.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/swsh_image_resource_audit.py
+            /tests/test_swsh_image_resource_audit.py
+            /Unpack/v1.3.2/catalog/image_source_inventory.csv
+            /Unpack/v1.3.2/catalog/item_properties.csv
+            /v1.3.2/1/bin/appli/**/*.bntx
+            /v1.3.2/1/bin/appli/**/*.arc
+            /v1.3.2/1/bin/appli/icon_pokemon/pokecaplist.bin
+            /v1.3.2/1/bin/graphics/**/*.bntx
+            /v1.3.2/1/system_resource/texture/*.bntx
+      - name: Synthetic format and mapping tests
+        run: python -m unittest discover -s tests -p test_swsh_image_resource_audit.py -v
+      - name: Audit source bytes
+        run: python scripts/swsh_image_resource_audit.py
+      - name: Upload metadata only
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: swsh-image-audit-metadata
+          path: artifacts/swsh-image-audit/
+          if-no-files-found: warn
