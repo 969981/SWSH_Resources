@@ -85,12 +85,14 @@ def main():
         byhash={int.from_bytes(bytes.fromhex(v["key_hash_bytes"]),"little"):v for v in msg.values()}
         for r in rows:
             i=r["ribbon_index"];rr=[byhash[int(r[k],16)] for k in ("name_hash","description_hash","title_hash")]
-            primary=byname[r["image_name"]];alternate=byname[r["image_name2"]]
+            primary=byname[r["image_name"]]
+            alternate=byname[r["image_name2"]] if r["image_name2"].strip() else None
+            if (i in (37,38))!=(alternate is not None):raise ValueError(f"unexpected alternate image at {i}")
             old=int(rr[0]["key"].rsplit("_",1)[1])
             if lang=="Simp_Chinese" and not re.match(rf"ribbon_0*{old}(?:_[ab])?$",r["image_name"]):mismatches.append(i)
             translations.append(dict(**r,language=lang,external_enum=ENUMS[i],name=rr[0]["text"],description=rr[1]["text"],title=rr[2]["text"],
                 message_keys=[x["key"] for x in rr],message_dat_sha256=rr[0]["dat_sha256"],message_tbl_sha256=rr[0]["tbl_sha256"],
-                primary_asset_id=primary["asset_id"],alternate_asset_id=alternate["asset_id"],
+                primary_asset_id=primary["asset_id"],alternate_asset_id=alternate["asset_id"] if alternate else None,
                 count_threshold={37:40,38:8}.get(i),evidence="PRMB_TABLE_AND_ELF_STATIC",runtime_verified=False))
     gender=read(a.selectors/"pokemon_gender.jsonl")
     variants=[r for r in gender if r["variant_raw"]==1]
