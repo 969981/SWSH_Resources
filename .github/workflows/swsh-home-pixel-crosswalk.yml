@@ -1,0 +1,40 @@
+name: SWSH HOME observed pixel crosswalk
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - .github/workflows/swsh-home-pixel-crosswalk.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  join:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/pokemon_image_crosswalk.py
+            /scripts/summarize_swsh_texture_parity.py
+      - uses: actions/download-artifact@v4
+        with:
+          name: swsh-texture-parity-metadata
+          run-id: 45769216411
+          github-token: ${{ github.token }}
+          path: artifacts/swsh
+      - uses: actions/download-artifact@v4
+        with:
+          name: home-pixel-metadata
+          run-id: 45768698661
+          github-token: ${{ github.token }}
+          path: artifacts/home
+      - run: python scripts/pokemon_image_crosswalk.py join --swsh artifacts/swsh/pixels.jsonl --home artifacts/home/home_pixels.jsonl --out artifacts/crosswalk
+      - run: python scripts/summarize_swsh_texture_parity.py artifacts/swsh/pixels.jsonl --out artifacts/crosswalk/swsh-format-report.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-home-pixel-crosswalk
+          path: artifacts/crosswalk/
+          if-no-files-found: warn
