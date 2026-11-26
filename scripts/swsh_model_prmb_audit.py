@@ -14,14 +14,14 @@ def fnv64(s):
     return h
 def models(data,kind):
     f=FB(data);root=f.n(0,"I");version=f.target(f.field(root,0))
-    out=[]
+    out=[];source_sha=sha(data)
     for i,p in enumerate(f.vector(root,1,True)):
         meta=f.target(f.field(p,0))
         r=dict(catalog=kind,row=i,species_id=f.scalar(meta,0,"H"),form_id=f.scalar(meta,1,"H"),
             model_gender_raw=f.scalar(meta,2,"B"),shiny_raw=f.scalar(meta,3,"B"),
             model_path=f.string(p,1),config_path=f.string(p,2),archive_path=f.string(p,3),
             animations=[dict(name=f.string(t,0),path=f.string(t,1)) for t in f.vector(p,4,True)],
-            version=[f.scalar(version,0,"H"),f.scalar(version,1,"H")],table_offset=p,source_sha256=sha(data))
+            version=[f.scalar(version,0,"H"),f.scalar(version,1,"H")],table_offset=p,source_sha256=source_sha)
         out.append(r)
     return out
 def prmb(data):
@@ -83,6 +83,8 @@ def main():
         byname[r["texture_name"]].add(r["asset_id"])
         byname[Path(r["source_path"]).stem].add(r["asset_id"])
         byname[Path(r["source_path"]).name].add(r["asset_id"])
+        rel=r["source_path"].removeprefix("v1.3.2/1/")
+        byname[rel].add(r["asset_id"])
     prm=[];prmstrings=[];errors=[];layout=[];ui=[]
     for file in sorted((base/"appli").rglob("*.prmb")):
         b=file.read_bytes();path=file.relative_to(a.root).as_posix()

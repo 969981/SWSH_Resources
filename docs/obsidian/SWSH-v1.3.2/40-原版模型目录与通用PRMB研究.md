@@ -16,3 +16,7 @@ UIKIT root fields structural scan; FLYT/FLAN literals by section, no hash guessi
 ## Reproduce
 python scripts/swsh_model_prmb_audit.py --package artifacts/package --selectors artifacts/selectors
 CI results pending. metadata only.
+
+## 联盟卡 PRMB 实测样本
+bg1 801 nodes/685 values/2 schemas,228 strings (114 path+thumbnail pairs); bg2 138/109/2,54 strings; frame 148/117/2,58 strings; gloss 67/55/2,9 paths. Four tables use known union kinds 1/3/4. Full paths e.g. bin/appli/trlicence/bin/trlicence_bg1_00.bntx and thumbnail thmb_trlicence_bg1_00^o; match against source-relative path and BRTI name, not just filename. Counts of actual asset matches await CI.
+ZA prior run 45768155871 was cancelled, not complete; not used for cross-game parity.
