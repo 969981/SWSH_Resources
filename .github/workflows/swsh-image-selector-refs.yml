@@ -1,0 +1,38 @@
+name: SWSH image selector ELF references
+on:
+  push:
+    branches: [research/swsh-image-resource-audit-20261126]
+    paths:
+      - tools/ghidra/swsh_image_selector_refs.py
+      - .github/workflows/swsh-image-selector-refs.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  native:
+    strategy:
+      fail-fast: false
+      matrix:
+        game: [sword, shield]
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/ghidra/swsh_image_selector_refs.py
+            /tools/ghidra/swsh_restore_split.py
+            /tools/ghidra/swsh_trainer_id_extract.py
+            /v1.3.2/0/${{ matrix.game }}_main.elf
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/${{ matrix.game }}/parts_manifest.json
+            /derived/v1.3.2/Ghidra_12.2_Run_42771375134/${{ matrix.game }}/database/
+      - name: Verify and query native database
+        run: python tools/ghidra/swsh_image_selector_refs.py --game ${{ matrix.game }} --out artifacts/native-selectors/${{ matrix.game }}/report
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: swsh-image-selector-${{ matrix.game }}
+          path: artifacts/native-selectors/${{ matrix.game }}/report/
+          if-no-files-found: warn
