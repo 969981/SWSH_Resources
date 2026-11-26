@@ -11,7 +11,7 @@ import numpy as np
 import texture2ddecoder as td
 import PIL
 from swsh_image_resource_audit import CAT, bntx, sarc, readcsv, digest
-from swsh_texture_decoder import decode, select_channels, encode_png, VERSION
+from swsh_texture_decoder import decode, select_channels, encode_png, VERSION, bc1_alpha_from_blocks
 
 EXPECTED=15407
 def bc2(data,w,h):
@@ -103,9 +103,23 @@ def main():
                             png_sha=digest(png); counts["png_roundtrip"]+=1
                         dup[(w,h,rgba_sha)].append(asset)
                         other,backend=secondary(linear,w,h,int(t["format_raw"],16))
+                        raw_bc1_alpha_difference=None
+                        if int(t["format_raw"],16)==0x1a01:
+                            mask=bc1_alpha_from_blocks(linear,w,h)
+                            raw_bc1_alpha_difference=int(np.count_nonzero(other[...,3]!=mask))
+                            # Keep the backend discrepancy explicit. Compare policy-normalized result separately.
+                            raw_other=select_channels(other,meta["component_selectors"])
+                            raw_check=parity(rgba,raw_other)
+                            other[...,3]=mask
+                            backend+="+independent-bc1-alpha-rule"
+                        else:
+                            raw_check=None
                         other=select_channels(other,meta["component_selectors"])
                         check=parity(rgba,other)
                         counts["compared"]+=1
+                        if raw_check is not None:
+                            counts["bc1_raw_different"]+=not raw_check["exact"]
+                            counts["bc1_raw_alpha_different_pixels"]+=raw_bc1_alpha_difference
                         kind="exact" if check["exact"] else "different"
                         counts[kind]+=1; fmtcounts[t["format_raw"]][kind]+=1
                         nonlocal pixels
@@ -118,7 +132,8 @@ def main():
                             member_chain=chain,member_sha256=digest(data),texture_name=t["texture_name"],texture_index=t["texture_index"],
                             rgba_sha256=rgba_sha,png_sha256=png_sha,linear_sha256=digest(linear),
                             alpha_kind=alpha_kind,alpha_zero=zero,alpha_full=full,alpha_partial=pixels_n-zero-full,
-                            primary="Pillow-or-packed",secondary=backend,parity=check,**meta)
+                            primary="Pillow-or-packed",secondary=backend,parity=check,
+                            uncorrected_bc1_parity=raw_check,raw_bc1_alpha_difference=raw_bc1_alpha_difference,**meta)
                         f.write(json.dumps(row,ensure_ascii=False,separators=(",",":"))+"\n")
                     except Exception as exc:
                         record_error(s["source_path"],chain,t,str(exc))

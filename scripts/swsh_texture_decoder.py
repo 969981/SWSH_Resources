@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image
 from swsh_image_resource_audit import bntx, checked, num, endian_at
 
-VERSION="0.1.0"
+VERSION="0.2.0"
 FORMATS={
     0x1a01:("BC1",4,8,b"DXT1"), 0x1b01:("BC2",4,16,b"DXT3"),
     0x1c01:("BC3",4,16,b"DXT5"), 0x1d01:("BC4",4,8,b"ATI1"),
@@ -69,6 +69,17 @@ def dds(data,w,h,code):
         hdr+=struct.pack("<5I",98,3,0,1,0)
     return b"DDS "+hdr+data
 
+
+def bc1_alpha_from_blocks(data,w,h):
+    """Independent BC1 RGBA punch-through rule (c0 <= c1 and index 3)."""
+    bx,by=(w+3)//4,(h+3)//4
+    blocks=np.frombuffer(data,dtype="<u2").reshape(by,bx,4)
+    c0,c1=blocks[...,0],blocks[...,1]
+    bits=blocks[...,2].astype(np.uint32)|(blocks[...,3].astype(np.uint32)<<16)
+    indices=(bits[...,None]>>(np.arange(16,dtype=np.uint32)*2))&3
+    mask=((c0<=c1)[...,None] & (indices==3))
+    return np.where(mask,0,255).astype(np.uint8).reshape(by,bx,4,4).transpose(0,2,1,3).reshape(by*4,bx*4)[:h,:w]
+
 def packed_primary(data,w,h):
     v=np.frombuffer(data,dtype="<u2").reshape(h,w)
     a=np.empty((h,w,4),dtype=np.uint8)
@@ -99,7 +110,13 @@ def select_channels(a,sel):
 def decode(data,t):
     linear,meta=surface(data,t)
     code=int(t["format_raw"],16)
-    rgba=select_channels(primary(linear,meta["width"],meta["height"],code),meta["component_selectors"])
+    raw=primary(linear,meta["width"],meta["height"],code)
+    if code==0x1a01:
+        expected=bc1_alpha_from_blocks(linear,meta["width"],meta["height"])
+        if not np.array_equal(raw[...,3],expected):
+            raise ValueError("Pillow BC1 Alpha differs from independent block rule")
+        meta["bc1_alpha_policy"]="RGBA_PUNCH_THROUGH_BLOCK_VERIFIED"
+    rgba=select_channels(raw,meta["component_selectors"])
     return rgba,linear,meta
 
 def encode_png(rgba,path=None):
